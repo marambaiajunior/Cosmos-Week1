@@ -302,6 +302,7 @@ PAGE_CACHE: dict[str, str] = {}
 IMAGE_CACHE: dict[str, Optional[str]] = {}
 PAGE_FETCHES = 0
 INLINE_IMAGE_CACHE: dict[tuple[str, str], list[dict]] = {}
+VIDEO_CACHE: dict[str, Optional[dict]] = {}
 GEMINI_CACHE: dict[tuple[str, str], object] = {}
 
 
@@ -755,6 +756,211 @@ def extract_inline_images(url: str, primary_image: str = '', limit: int = MAX_IN
     return out
 
 
+
+
+def _json_ld_video_candidates(payload, base_url: str) -> list[dict]:
+    candidates: list[dict] = []
+
+    def visit(node) -> None:
+        if isinstance(node, dict):
+            raw_type = node.get('@type') or node.get('type') or ''
+            types = raw_type if isinstance(raw_type, list) else [raw_type]
+            low_types = {normalize_text(str(t)) for t in types if t}
+            if 'videoobject' in low_types:
+                embed = urllib.parse.urljoin(base_url, str(node.get('embedUrl') or '').strip()) if node.get('embedUrl') else ''
+                content = urllib.parse.urljoin(base_url, str(node.get('contentUrl') or '').strip()) if node.get('contentUrl') else ''
+                page_url = urllib.parse.urljoin(base_url, str(node.get('url') or '').strip()) if node.get('url') else ''
+                thumb = node.get('thumbnailUrl') or node.get('thumbnailURL') or ''
+                if isinstance(thumb, list):
+                    thumb = thumb[0] if thumb else ''
+                thumb = urllib.parse.urljoin(base_url, str(thumb).strip()) if thumb else ''
+                title_en = collapse_ws(strip_html(str(node.get('name') or node.get('headline') or '')))
+                caption_en = collapse_ws(strip_html(str(node.get('description') or '')))
+                if embed or content:
+                    candidates.append({
+                        'embed_url': embed,
+                        'content_url': content,
+                        'page_url': page_url,
+                        'poster': clean_image_url(thumb) if thumb else '',
+                        'title_en': title_en,
+                        'caption_en': caption_en,
+                    })
+            for value in node.values():
+                visit(value)
+        elif isinstance(node, list):
+            for value in node:
+                visit(value)
+
+    visit(payload)
+    return candidates
+
+
+def _normalize_video_candidate(base_url: str, raw_url: str) -> Optional[dict]:
+    raw_url = collapse_ws(raw_url or '')
+    if not raw_url:
+        return None
+    absolute = urllib.parse.urljoin(base_url, raw_url)
+    absolute = absolute.replace('&amp;', '&')
+    low = absolute.lower()
+
+    youtube_patterns = [
+        r'youtube\.com/watch\?v=([^&?#]+)',
+        r'youtube\.com/embed/([^&?#]+)',
+        r'youtube\.com/live/([^&?#]+)',
+        r'youtu\.be/([^&?#]+)',
+        r'youtube-nocookie\.com/embed/([^&?#]+)',
+    ]
+    for pattern in youtube_patterns:
+        match = re.search(pattern, low, flags=re.I)
+        if match:
+            video_id = match.group(1)
+            return {
+                'kind': 'embed',
+                'platform': 'youtube',
+                'embedUrl': f'https://www.youtube-nocookie.com/embed/{video_id}',
+                'fileUrl': '',
+            }
+
+    match = re.search(r'(?:player\.)?vimeo\.com/(?:video/)?(\d+)', low, flags=re.I)
+    if match:
+        video_id = match.group(1)
+        return {
+            'kind': 'embed',
+            'platform': 'vimeo',
+            'embedUrl': f'https://player.vimeo.com/video/{video_id}',
+            'fileUrl': '',
+        }
+
+    if re.search(r'\.(mp4|webm|ogg|m3u8)(?:[?#]|$)', low):
+        return {
+            'kind': 'file',
+            'platform': 'html5',
+            'embedUrl': '',
+            'fileUrl': absolute,
+        }
+
+    if any(token in low for token in ('/embed/', 'player.', 'streamable.com/', 'brightcove', 'jwplayer')):
+        return {
+            'kind': 'embed',
+            'platform': 'embed',
+            'embedUrl': absolute,
+            'fileUrl': '',
+        }
+    return None
+
+
+def extract_page_video(url: str) -> Optional[dict]:
+    if not url:
+        return None
+    if url in VIDEO_CACHE:
+        return VIDEO_CACHE[url]
+
+    page = fetch_page_html(url)
+    if not page:
+        VIDEO_CACHE[url] = None
+        return None
+
+    regions = _extract_article_regions_for_images(page)
+    search_html = '\n'.join(regions) if regions else page
+
+    candidates: list[dict] = []
+
+    for match in re.finditer(r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>', page, flags=re.I | re.S):
+        raw = html.unescape(match.group(1).strip())
+        if not raw:
+            continue
+        try:
+            payload = json.loads(raw)
+        except Exception:
+            continue
+        candidates.extend(_json_ld_video_candidates(payload, url))
+
+    meta_patterns = (
+        r'<meta[^>]+property=["\']og:video(?::url|:secure_url)?["\'][^>]+content=["\']([^"\']+)["\']',
+        r'<meta[^>]+name=["\']twitter:player["\'][^>]+content=["\']([^"\']+)["\']',
+    )
+    for pattern in meta_patterns:
+        for match in re.finditer(pattern, page, flags=re.I):
+            candidate_url = urllib.parse.urljoin(url, match.group(1).strip())
+            normalized = _normalize_video_candidate(url, candidate_url)
+            if normalized:
+                candidates.append({
+                    'embed_url': normalized.get('embedUrl', ''),
+                    'content_url': normalized.get('fileUrl', ''),
+                    'page_url': '',
+                    'poster': '',
+                    'title_en': '',
+                    'caption_en': '',
+                })
+
+    for match in re.finditer(r'<iframe\b[^>]*src=["\']([^"\']+)["\'][^>]*>', search_html, flags=re.I | re.S):
+        normalized = _normalize_video_candidate(url, match.group(1))
+        if normalized:
+            candidates.append({
+                'embed_url': normalized.get('embedUrl', ''),
+                'content_url': normalized.get('fileUrl', ''),
+                'page_url': '',
+                'poster': '',
+                'title_en': '',
+                'caption_en': '',
+            })
+
+    for video_match in re.finditer(r'<video\b([^>]*)>(.*?)</video>', search_html, flags=re.I | re.S):
+        attrs = video_match.group(1)
+        inner = video_match.group(2)
+        direct = _extract_attr(attrs, 'src')
+        poster = urllib.parse.urljoin(url, _extract_attr(attrs, 'poster')) if _extract_attr(attrs, 'poster') else ''
+        if not direct:
+            source_match = re.search(r'<source\b[^>]*src=["\']([^"\']+)["\']', inner, flags=re.I | re.S)
+            direct = source_match.group(1) if source_match else ''
+        normalized = _normalize_video_candidate(url, direct)
+        if normalized:
+            candidates.append({
+                'embed_url': normalized.get('embedUrl', ''),
+                'content_url': normalized.get('fileUrl', ''),
+                'page_url': '',
+                'poster': clean_image_url(poster) if poster else '',
+                'title_en': '',
+                'caption_en': '',
+            })
+
+    seen = set()
+    for candidate in candidates:
+        raw_video_url = candidate.get('embed_url') or candidate.get('content_url') or candidate.get('page_url') or ''
+        normalized = _normalize_video_candidate(url, raw_video_url)
+        if not normalized:
+            continue
+        key = (normalized.get('kind', ''), normalized.get('embedUrl', ''), normalized.get('fileUrl', ''))
+        if key in seen:
+            continue
+        seen.add(key)
+
+        title_en = collapse_ws(strip_html(candidate.get('title_en') or ''))
+        caption_en = collapse_ws(strip_html(candidate.get('caption_en') or ''))
+        title_pt = translate_text(title_en, 'pt') if title_en else ''
+        caption_pt = translate_text(caption_en, 'pt') if caption_en else ''
+
+        result = {
+            'kind': normalized.get('kind', 'embed'),
+            'platform': normalized.get('platform', 'embed'),
+            'embedUrl': normalized.get('embedUrl', ''),
+            'fileUrl': normalized.get('fileUrl', ''),
+            'poster': candidate.get('poster', '') or '',
+            'title': title_pt or title_en,
+            'title_pt': title_pt or title_en,
+            'title_en': title_en or title_pt,
+            'caption': caption_pt or caption_en,
+            'caption_pt': caption_pt or caption_en,
+            'caption_en': caption_en or caption_pt,
+            'sourcePage': url,
+        }
+        VIDEO_CACHE[url] = result
+        return result
+
+    VIDEO_CACHE[url] = None
+    return None
+
+
 def _extract_json_from_text(text: str) -> Optional[dict]:
     text = collapse_ws(text)
     if not text:
@@ -1127,9 +1333,7 @@ def is_noise(item: dict) -> bool:
         return True
     if len(item['summary']) < 55:
         return True
-    if low.startswith('image:') or low.startswith('video:'):
-        return True
-    if source_domain(item.get('link', '')).endswith('youtube.com'):
+    if low.startswith('image:'):
         return True
     return False
 
@@ -2147,6 +2351,7 @@ def to_post(item: dict, idx: int, regular_rank: int) -> dict:
     canonical = f'{SITE_URL}?article={slug}'
     image = choose_post_image(item, category)
     inline_images = extract_inline_images(src_url, primary_image=image)
+    video = extract_page_video(src_url)
     is_featured = item['source_type'] != 'preprint' and regular_rank < 3 and profile['band'] in ('flagship', 'high')
     is_trending = item['source_type'] != 'preprint' and regular_rank < 6
     evidence_key = profile['evidence_key']
@@ -2169,6 +2374,7 @@ def to_post(item: dict, idx: int, regular_rank: int) -> dict:
         'catCls': cat_cls(category),
         'img': image,
         'inline_images': inline_images,
+        'video': video,
         'title': title_pt,
         'title_pt': title_pt,
         'title_en': title_en,

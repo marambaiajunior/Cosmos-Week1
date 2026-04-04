@@ -47,10 +47,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Cosmos Week — portal de notícias científicas em português com foco em astronomia, astrofísica, cosmologia e ciência em geral.">
   <meta name="keywords" content="astronomia, astrofísica, cosmologia, ciência, exoplanetas, buracos negros, James Webb, NASA, ESA, divulgação científica">
-
-  <!-- Alternate language versions for international audiences -->
-  <link rel="alternate" hreflang="pt" href="https://marambaiajunior.github.io/cosmos-week/">
-  <link rel="alternate" hreflang="en" href="https://marambaiajunior.github.io/cosmos-week/?lang=en">
   <meta property="og:title" content="Cosmos Week — Notícias científicas do universo">
   <meta property="og:description" content="Notícias científicas em português, com contexto, rigor e fontes primárias transparentes.">
   <meta property="og:type" content="website">
@@ -742,22 +738,37 @@
       border-top: 1px solid var(--line);
     }
 
-    /* ── Video embeds ─────────────────────────────────────────────── */
-    /* Responsive container for embedded videos. The padding-bottom sets the aspect ratio (16:9). */
     .article-video {
+      margin: 18px 0 30px;
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      background: #000;
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow-sm);
+    }
+    .article-video-frame {
       position: relative;
       width: 100%;
-      padding-bottom: 56.25%; /* 16:9 ratio */
-      margin-top: 24px;
-      margin-bottom: 24px;
+      padding-top: 56.25%;
+      background: #000;
     }
-    .article-video iframe {
+    .article-video-frame iframe,
+    .article-video-frame video {
       position: absolute;
-      top: 0;
-      left: 0;
+      inset: 0;
       width: 100%;
       height: 100%;
       border: 0;
+      display: block;
+      background: #000;
+    }
+    .article-video-caption {
+      padding: 10px 16px 11px;
+      font: 400 12px var(--sans);
+      color: var(--ink-4);
+      line-height: 1.55;
+      background: var(--bg);
+      border-top: 1px solid var(--line);
     }
 
     /* Sidebar in article */
@@ -1399,8 +1410,6 @@
     }
   };
 
-  // Patterns used to filter out items that are not typical news stories.  
-  // Removed video-related patterns to allow posts that include videos or live streams.
   const CLIENT_NOISE_PATTERNS = [
     /week in images/i, /^image:/i, /^earth from space/i,
     /^i am artemis/i, /audio excerpt/i, /awards categories/i, /crew.?s suits/i,
@@ -1906,37 +1915,6 @@
       .slice(0, 3);
   }
 
-  /*
-   * Extract an embeddable video from the post's source URL if present. If the source URL
-   * points to a YouTube, YouTube short link, or Vimeo video, this helper generates
-   * a responsive iframe. Otherwise an empty string is returned. Adding support for
-   * additional platforms is as easy as extending the regexes below.
-   */
-  function videoEmbedMarkup(post) {
-    if (!post || !post.srcUrl) return '';
-    const url = String(post.srcUrl);
-    let match;
-    // Check for standard YouTube URLs
-    match = url.match(/youtube\.com\/(?:watch\?v=|embed\/)([^&/?#]+)/i);
-    if (match && match[1]) {
-      const id = match[1];
-      return `<div class="article-video"><iframe src="https://www.youtube.com/embed/${id}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe></div>`;
-    }
-    // Check for short YouTube URLs (youtu.be)
-    match = url.match(/youtu\.be\/([^&/?#]+)/i);
-    if (match && match[1]) {
-      const id = match[1];
-      return `<div class="article-video"><iframe src="https://www.youtube.com/embed/${id}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe></div>`;
-    }
-    // Check for Vimeo URLs
-    match = url.match(/vimeo\.com\/(\d+)/i);
-    if (match && match[1]) {
-      const id = match[1];
-      return `<div class="article-video"><iframe src="https://player.vimeo.com/video/${id}" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe></div>`;
-    }
-    return '';
-  }
-
   function articleInlineFigureMarkup(image, post) {
     if (!image || !image.src) return '';
     const caption = stripHtml(image.caption || '');
@@ -1946,6 +1924,59 @@
         <img src="${escapeAttr(image.src)}" alt="${escapeAttr(alt)}" loading="lazy" referrerpolicy="no-referrer">
         ${caption ? `<figcaption class="article-inline-caption">${caption}</figcaption>` : ''}
       </figure>`;
+  }
+
+  function articleVideoFor(post) {
+    const raw = post && post.video && typeof post.video === 'object' ? post.video : null;
+    if (!raw) return null;
+    const title = currentLang === 'en'
+      ? String(raw.title_en || raw.title || '').trim()
+      : String(raw.title_pt || raw.title || '').trim();
+    const caption = currentLang === 'en'
+      ? String(raw.caption_en || raw.caption || '').trim()
+      : String(raw.caption_pt || raw.caption || '').trim();
+    return {
+      kind: String(raw.kind || '').trim(),
+      platform: String(raw.platform || '').trim(),
+      embedUrl: String(raw.embedUrl || '').trim(),
+      fileUrl: String(raw.fileUrl || '').trim(),
+      poster: String(raw.poster || '').trim(),
+      title,
+      caption
+    };
+  }
+
+  function articleVideoMarkup(post) {
+    const video = articleVideoFor(post);
+    if (!video) return '';
+    const caption = stripHtml(video.caption || video.title || '');
+    const title = stripHtml(video.title || textFor(post, 'title'));
+    if (video.kind === 'embed' && video.embedUrl) {
+      return `
+        <figure class="article-video">
+          <div class="article-video-frame">
+            <iframe src="${escapeAttr(video.embedUrl)}"
+              title="${escapeAttr(title)}"
+              loading="lazy"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
+              allowfullscreen
+              referrerpolicy="strict-origin-when-cross-origin"></iframe>
+          </div>
+          ${caption ? `<figcaption class="article-video-caption">${caption}</figcaption>` : ''}
+        </figure>`;
+    }
+    if (video.kind === 'file' && video.fileUrl) {
+      return `
+        <figure class="article-video">
+          <div class="article-video-frame">
+            <video controls preload="metadata" playsinline ${video.poster ? `poster="${escapeAttr(video.poster)}"` : ''}>
+              <source src="${escapeAttr(video.fileUrl)}">
+            </video>
+          </div>
+          ${caption ? `<figcaption class="article-video-caption">${caption}</figcaption>` : ''}
+        </figure>`;
+    }
+    return '';
   }
 
   function buildArticleBody(post) {
@@ -2079,7 +2110,7 @@
         <div class="article-layout">
           <div>
             <p class="article-lede">${textFor(post,'sub')}</p>
-            ${videoEmbedMarkup(post)}
+            ${articleVideoMarkup(post)}
             ${buildArticleSummary(post)}
             <div class="article-body">${buildArticleBody(post)}</div>
 

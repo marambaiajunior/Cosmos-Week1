@@ -62,6 +62,9 @@
   <meta property="article:published_time" id="articlePublishedMeta" content="">
   <meta property="article:modified_time" id="articleModifiedMeta" content="">
   <link rel="canonical" id="canonicalLink" href="https://marambaiajunior.github.io/cosmos-week/">
+  <link rel="alternate" id="alternatePtLink" hreflang="pt-BR" href="https://marambaiajunior.github.io/cosmos-week/">
+  <link rel="alternate" id="alternateEnLink" hreflang="en-US" href="https://marambaiajunior.github.io/cosmos-week/?lang=en">
+  <link rel="alternate" id="xDefaultLink" hreflang="x-default" href="https://marambaiajunior.github.io/cosmos-week/">
   <link rel="alternate" type="application/rss+xml" title="Cosmos Week RSS" href="feed.xml">
 
   <!--
@@ -1095,9 +1098,9 @@
           <input id="searchInput" type="text" placeholder="Buscar notícias, temas ou fontes..." oninput="handleSearchInput(this.value)">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
         </label>
-        <div class="lang-switch" aria-label="Selecionar idioma">
-          <button id="langPt" type="button" onclick="setLanguage('pt')">🇧🇷</button>
-          <button id="langEn" type="button" onclick="setLanguage('en')">🇺🇸</button>
+        <div class="lang-switch" aria-label="Language selector">
+          <button id="langPt" type="button" onclick="setLanguage('pt')" aria-label="Português do Brasil" title="Português do Brasil">🇧🇷</button>
+          <button id="langEn" type="button" onclick="setLanguage('en')" aria-label="American English" title="American English">🇺🇸</button>
         </div>
         <a class="social-icon-link" href="https://www.instagram.com/cosmos_week/" target="_blank" rel="noopener" aria-label="Instagram">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -1512,6 +1515,11 @@
   let toastTimer = null;
   let heroRotationSeed = Number(sessionStorage.getItem('cw_hero_rotation_seed') || '0') || 0;
 
+  const PAGE_ALIASES = {
+    pt: { archive:'arquivo', about:'sobre', standards:'padroes', search:'busca' },
+    en: { archive:'archive', about:'about', standards:'standards', search:'search' }
+  };
+
   function persistHeroRotationSeed() {
     try { sessionStorage.setItem('cw_hero_rotation_seed', String(heroRotationSeed)); } catch (e) {}
   }
@@ -1519,6 +1527,60 @@
   function bumpHeroRotationSeed(step = 1) {
     heroRotationSeed = (heroRotationSeed + Math.max(1, step|0)) % 1000000;
     persistHeroRotationSeed();
+  }
+
+  function buildSiteUrl(params = new URLSearchParams(), lang = currentLang) {
+    const qs = new URLSearchParams(params);
+    if (lang === 'en') qs.set('lang', 'en');
+    else qs.delete('lang');
+    const query = qs.toString();
+    return SITE.baseUrl + (query ? `?${query}` : '');
+  }
+
+  function pageSlug(page, lang = currentLang) {
+    return (PAGE_ALIASES[lang] && PAGE_ALIASES[lang][page]) || (PAGE_ALIASES.pt && PAGE_ALIASES.pt[page]) || '';
+  }
+
+  function buildPageParams(page, lang = currentLang, extras = null) {
+    const params = new URLSearchParams();
+    const slug = pageSlug(page, lang);
+    if (slug) params.set('page', slug);
+    if (extras) {
+      for (const [key, value] of Object.entries(extras)) {
+        if (value !== undefined && value !== null && value !== '') params.set(key, value);
+      }
+    }
+    return params;
+  }
+
+  function currentRouteUrl(lang = currentLang) {
+    if (currentPage === 'article' && currentArticleSlug) {
+      return buildSiteUrl(new URLSearchParams({ article: currentArticleSlug }), lang);
+    }
+    if (currentPage === 'archive') return buildSiteUrl(buildPageParams('archive', lang), lang);
+    if (currentPage === 'about') return buildSiteUrl(buildPageParams('about', lang), lang);
+    if (currentPage === 'standards') return buildSiteUrl(buildPageParams('standards', lang), lang);
+    if (currentPage === 'search') {
+      const q = (document.getElementById('searchInput')?.value || '').trim();
+      return buildSiteUrl(buildPageParams('search', lang, q ? { q } : null), lang);
+    }
+    return buildSiteUrl(new URLSearchParams(), lang);
+  }
+
+  function syncLanguageLinks(url) {
+    const parsed = new URL(url, SITE.baseUrl);
+    const ptParams = new URLSearchParams(parsed.search);
+    ptParams.delete('lang');
+    const enParams = new URLSearchParams(parsed.search);
+    enParams.set('lang', 'en');
+    const ptHref = buildSiteUrl(ptParams, 'pt');
+    const enHref = buildSiteUrl(enParams, 'en');
+    const ptLink = document.getElementById('alternatePtLink');
+    const enLink = document.getElementById('alternateEnLink');
+    const xDefaultLink = document.getElementById('xDefaultLink');
+    if (ptLink) ptLink.setAttribute('href', ptHref);
+    if (enLink) enLink.setAttribute('href', enHref);
+    if (xDefaultLink) xDefaultLink.setAttribute('href', ptHref);
   }
 
   function tr(key) { return UI[currentLang][key] ?? UI.pt[key] ?? key; }
@@ -1585,13 +1647,13 @@
     return `src="${primary}" alt="${alt}" loading="${loading}" onerror="if(this.src!=='${fallback}'){this.src='${fallback}'}"`;
   }
 
-  function getURLForArticle(post) {
-    return `${SITE.baseUrl}?article=${encodeURIComponent(post.slug)}`;
+  function getURLForArticle(post, lang = currentLang) {
+    const params = new URLSearchParams({ article: post.slug });
+    return buildSiteUrl(params, lang);
   }
 
-  function pageUrl(page) {
-    const map = { archive:'?page=arquivo', about:'?page=sobre', standards:'?page=padroes', search:'?page=busca' };
-    return SITE.baseUrl + (map[page] || '');
+  function pageUrl(page, lang = currentLang, extras = null) {
+    return buildSiteUrl(buildPageParams(page, lang, extras), lang);
   }
 
   function keywordListFor(post) {
@@ -2373,7 +2435,7 @@
     else goHome();
   }
 
-  function goHome() { history.replaceState({}, '', SITE.baseUrl); renderHome(); }
+  function goHome() { history.replaceState({}, '', buildSiteUrl(new URLSearchParams(), currentLang)); renderHome(); }
 
   function openArticle(slug) {
     const post = DB.find(item => item.slug === slug);
@@ -2384,13 +2446,17 @@
   function handleSearchInput(value) {
     clearTimeout(searchTimer);
     if (!value.trim()) { if (currentPage === 'search') goHome(); return; }
-    searchTimer = setTimeout(() => renderSearch(value.trim()), 220);
+    searchTimer = setTimeout(() => {
+      history.replaceState({}, '', pageUrl('search', currentLang, { q: value.trim() }));
+      renderSearch(value.trim());
+    }, 220);
   }
 
   function setLanguage(lang) {
     currentLang = lang === 'en' ? 'en' : 'pt';
     localStorage.setItem('cw_lang', currentLang);
     applyUIStrings();
+    history.replaceState({}, '', currentRouteUrl(currentLang));
     rerenderCurrentView();
   }
 
@@ -2424,8 +2490,20 @@
       const cat = btn.dataset.cat;
       btn.textContent = cat === 'all' ? tr('allCategories') : prettyCategory(cat);
     });
-    document.getElementById('langPt').classList.toggle('on', currentLang==='pt');
-    document.getElementById('langEn').classList.toggle('on', currentLang==='en');
+    const ptBtn = document.getElementById('langPt');
+    const enBtn = document.getElementById('langEn');
+    if (ptBtn) {
+      ptBtn.classList.toggle('on', currentLang==='pt');
+      ptBtn.setAttribute('aria-label', currentLang === 'en' ? 'Switch site to Brazilian Portuguese' : 'Português do Brasil');
+      ptBtn.setAttribute('title', currentLang === 'en' ? 'Switch site to Brazilian Portuguese' : 'Português do Brasil');
+      ptBtn.setAttribute('aria-pressed', currentLang==='pt' ? 'true' : 'false');
+    }
+    if (enBtn) {
+      enBtn.classList.toggle('on', currentLang==='en');
+      enBtn.setAttribute('aria-label', currentLang === 'en' ? 'American English' : 'Mudar o site para inglês americano');
+      enBtn.setAttribute('title', currentLang === 'en' ? 'American English' : 'Mudar o site para inglês americano');
+      enBtn.setAttribute('aria-pressed', currentLang==='en' ? 'true' : 'false');
+    }
     updateLastUpdatedLabel();
   }
 
@@ -2538,7 +2616,7 @@
   function updateMetaHome() {
     const title = currentLang==='en' ? SITE.homeTitleEn : SITE.homeTitlePt;
     const description = currentLang==='en' ? SITE.homeDescriptionEn : SITE.homeDescriptionPt;
-    updateMetaCommon(title, description, SITE.baseUrl, IMG.pillars, null, {
+    updateMetaCommon(title, description, currentRouteUrl(currentLang), IMG.pillars, null, {
       robots: 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1',
       newsKeywords: 'astronomia, astrofísica, cosmologia, ciência, espaço'
     });
@@ -2605,6 +2683,7 @@
     document.querySelector('meta[name="twitter:description"]').setAttribute('content', description);
     document.querySelector('meta[name="twitter:image"]').setAttribute('content', image);
     document.getElementById('canonicalLink').setAttribute('href', url);
+    syncLanguageLinks(url);
     document.getElementById('robotsMeta').setAttribute('content', options.robots||'index,follow');
     document.getElementById('newsKeywordsMeta').setAttribute('content', options.newsKeywords||'astronomia, ciência');
     document.getElementById('articlePublishedMeta').setAttribute('content', options.published||'');
@@ -2627,12 +2706,24 @@
 
   function parseRoute() {
     const params = new URLSearchParams(window.location.search);
+    const langParam = params.get('lang');
+    if (langParam === 'en' || langParam === 'pt') {
+      currentLang = langParam;
+      localStorage.setItem('cw_lang', currentLang);
+      applyUIStrings();
+    }
     const article = params.get('article');
     const page = params.get('page');
+    const q = (params.get('q') || '').trim();
     if (article) { renderArticle(article); return; }
-    if (page==='arquivo') { renderArchive(); return; }
-    if (page==='sobre')   { renderAbout();   return; }
-    if (page==='padroes') { renderStandards(); return; }
+    if (page === 'arquivo' || page === 'archive') { renderArchive(); return; }
+    if (page === 'sobre' || page === 'about') { renderAbout(); return; }
+    if (page === 'padroes' || page === 'standards') { renderStandards(); return; }
+    if (page === 'busca' || page === 'search' || q) {
+      const input = document.getElementById('searchInput');
+      if (input) input.value = q;
+      if (q) { renderSearch(q); return; }
+    }
     renderHome();
   }
 
@@ -2651,6 +2742,7 @@
     initCookieBanner();
     persistArchiveCache();
     parseRoute();
+    syncLanguageLinks(currentRouteUrl(currentLang));
     setTimeout(() => showToast(tr('welcome')), 900);
   });
   </script>

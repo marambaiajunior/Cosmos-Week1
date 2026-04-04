@@ -21,7 +21,7 @@ FEED_XML = ROOT / 'feed.xml'
 SITEMAP_XML = ROOT / 'sitemap.xml'
 ROBOTS_TXT = ROOT / 'robots.txt'
 
-SITE_URL = os.getenv('COSMOS_SITE_URL', 'https://marambaiajunior.github.io/cosmos-week/').rstrip('/') + '/'
+SITE_URL = os.getenv('COSMOS_SITE_URL', 'https://marambaiajunior.github.io/cosmos-week1/').rstrip('/') + '/'
 SITE_NAME = 'Cosmos Week'
 SITE_DESCRIPTION_PT = 'Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.'
 SITE_DESCRIPTION_EN = 'Science journalism portal focused on astronomy, astrophysics, cosmology and frontier research.'
@@ -30,7 +30,7 @@ MAX_POSTS = 40
 MAX_POSTS_PER_SOURCE = 5
 MAX_PREPRINTS = 14
 MIN_POSTS_PER_CATEGORY = 3
-USER_AGENT = 'CosmosWeekBot/5.0 (+https://github.com/marambaiajunior/cosmos-week)'
+USER_AGENT = 'CosmosWeekBot/5.0 (+https://github.com/marambaiajunior/cosmos-week1)'
 REQUEST_TIMEOUT = 30
 PAGE_TIMEOUT = 20
 TRANSLATE_TIMEOUT = 22

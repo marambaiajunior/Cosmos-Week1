@@ -771,6 +771,36 @@
       border-top: 1px solid var(--line);
     }
 
+    .article-audio {
+      margin: 20px 0 28px;
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      background: var(--white);
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow-sm);
+    }
+    .article-audio-frame {
+      padding: 16px;
+      background: linear-gradient(180deg, var(--bg) 0%, var(--white) 100%);
+    }
+    .article-audio-frame audio,
+    .article-audio-frame iframe {
+      width: 100%;
+      display: block;
+      border: 0;
+    }
+    .article-audio-frame iframe {
+      min-height: 176px;
+    }
+    .article-audio-caption {
+      padding: 10px 16px 13px;
+      font: 400 12px var(--sans);
+      color: var(--ink-4);
+      line-height: 1.55;
+      background: var(--bg);
+      border-top: 1px solid var(--line);
+    }
+
     /* Sidebar in article */
     .article-shell .sidebar { top: 24px; }
 
@@ -1480,6 +1510,16 @@
   let currentCategory = 'all';
   let searchTimer = null;
   let toastTimer = null;
+  let heroRotationSeed = Number(sessionStorage.getItem('cw_hero_rotation_seed') || '0') || 0;
+
+  function persistHeroRotationSeed() {
+    try { sessionStorage.setItem('cw_hero_rotation_seed', String(heroRotationSeed)); } catch (e) {}
+  }
+
+  function bumpHeroRotationSeed(step = 1) {
+    heroRotationSeed = (heroRotationSeed + Math.max(1, step|0)) % 1000000;
+    persistHeroRotationSeed();
+  }
 
   function tr(key) { return UI[currentLang][key] ?? UI.pt[key] ?? key; }
 
@@ -1627,8 +1667,12 @@
     return Math.abs(h >>> 0);
   }
 
+  function postTimestamp(post) {
+    return Date.parse(post?.lastModifiedIso || post?.publishedIso || '') || 0;
+  }
+
   function postFreshnessWeight(post) {
-    const stamp = Date.parse(post?.lastModifiedIso || post?.publishedIso || '') || 0;
+    const stamp = postTimestamp(post);
     if (!stamp) return 0;
     const ageDays = (Date.now() - stamp) / 86400000;
     if (ageDays <= 1) return 28;
@@ -1639,30 +1683,52 @@
     return 0;
   }
 
+  function isFreshFrontPost(post) {
+    const stamp = postTimestamp(post);
+    if (!stamp) return false;
+    const ageHours = (Date.now() - stamp) / 3600000;
+    return ageHours <= 120;
+  }
+
   function heroPriority(post) {
     let total = ((post?.score || 0) * 0.42) + postFreshnessWeight(post);
     if (post?.trending) total += 10;
     if (post?.featured) total += 6;
     if (post?.editorialBand === 'flagship') total += 4;
+    if (isFreshFrontPost(post)) total += 24;
     return total;
   }
 
+  function frontRegularPostsForCurrentCategory() {
+    return [...filteredRegularPosts()].sort((a, b) => {
+      const freshDiff = Number(isFreshFrontPost(b)) - Number(isFreshFrontPost(a));
+      if (freshDiff) return freshDiff;
+      const stampDiff = postTimestamp(b) - postTimestamp(a);
+      if (stampDiff) return stampDiff;
+      const byPriority = heroPriority(b) - heroPriority(a);
+      if (byPriority) return byPriority;
+      return String(b.slug || '').localeCompare(String(a.slug || ''));
+    });
+  }
+
   function heroPostsForCurrentCategory() {
-    const regular = filteredRegularPosts();
+    const regular = frontRegularPostsForCurrentCategory();
     const preprints = filteredPreprints();
-    const source = regular.length ? regular : preprints;
+    const source = regular.length ? regular : [...preprints].sort((a, b) => postTimestamp(b) - postTimestamp(a));
     if (!source.length) return [];
     const sorted = [...source].sort((a, b) => {
       const byPriority = heroPriority(b) - heroPriority(a);
       if (byPriority) return byPriority;
-      return String(b.publishedIso || '').localeCompare(String(a.publishedIso || ''));
+      return postTimestamp(b) - postTimestamp(a);
     });
-    const pool = sorted.slice(0, Math.min(8, sorted.length));
+    const pool = sorted.slice(0, Math.min(10, sorted.length));
     if (pool.length <= 3) return pool;
-    const now = new Date();
-    const block = Math.floor(now.getHours() / 4);
-    const leadIndex = hashString(`${currentCategory}|${now.toISOString().slice(0, 10)}|${block}`) % pool.length;
-    const rotated = [pool[leadIndex], ...pool.filter((_, idx) => idx !== leadIndex)];
+    const newest = [...pool].sort((a, b) => postTimestamp(b) - postTimestamp(a)).slice(0, Math.min(4, pool.length));
+    const preferredPool = newest.length >= 3
+      ? newest.concat(pool.filter(post => !newest.some(item => item.slug === post.slug)))
+      : pool;
+    const leadIndex = heroRotationSeed % preferredPool.length;
+    const rotated = [preferredPool[leadIndex], ...preferredPool.filter((_, idx) => idx !== leadIndex)];
     return rotated.slice(0, 3);
   }
 
@@ -1706,7 +1772,7 @@
   // ── Home ───────────────────────────────────────────────────────────────────
   function renderHome() {
     renderHero();
-    const regular = filteredRegularPosts();
+    const regular = frontRegularPostsForCurrentCategory();
     const preprints = filteredPreprints();
     const heroSlugs = new Set(heroPostsForCurrentCategory().map(p => p.slug));
     const latest = regular.filter(p => !heroSlugs.has(p.slug)).slice(0,9);
@@ -1979,6 +2045,57 @@
     return '';
   }
 
+  function articleAudioFor(post) {
+    const raw = post && post.audio && typeof post.audio === 'object' ? post.audio : null;
+    if (!raw) return null;
+    const title = currentLang === 'en'
+      ? String(raw.title_en || raw.title || '').trim()
+      : String(raw.title_pt || raw.title || '').trim();
+    const caption = currentLang === 'en'
+      ? String(raw.caption_en || raw.caption || '').trim()
+      : String(raw.caption_pt || raw.caption || '').trim();
+    return {
+      kind: String(raw.kind || '').trim(),
+      platform: String(raw.platform || '').trim(),
+      embedUrl: String(raw.embedUrl || '').trim(),
+      fileUrl: String(raw.fileUrl || '').trim(),
+      title,
+      caption
+    };
+  }
+
+  function articleAudioMarkup(post) {
+    const audio = articleAudioFor(post);
+    if (!audio) return '';
+    const caption = stripHtml(audio.caption || audio.title || '');
+    const title = stripHtml(audio.title || textFor(post, 'title'));
+    if (audio.kind === 'embed' && audio.embedUrl) {
+      return `
+        <figure class="article-audio">
+          <div class="article-audio-frame">
+            <iframe src="${escapeAttr(audio.embedUrl)}"
+              title="${escapeAttr(title)}"
+              loading="lazy"
+              allow="autoplay; clipboard-write; encrypted-media; fullscreen"
+              referrerpolicy="strict-origin-when-cross-origin"></iframe>
+          </div>
+          ${caption ? `<figcaption class="article-audio-caption">${caption}</figcaption>` : ''}
+        </figure>`;
+    }
+    if (audio.kind === 'file' && audio.fileUrl) {
+      return `
+        <figure class="article-audio">
+          <div class="article-audio-frame">
+            <audio controls preload="metadata">
+              <source src="${escapeAttr(audio.fileUrl)}">
+            </audio>
+          </div>
+          ${caption ? `<figcaption class="article-audio-caption">${caption}</figcaption>` : ''}
+        </figure>`;
+    }
+    return '';
+  }
+
   function buildArticleBody(post) {
     const ledeLike = uniqueTextItems([stripHtml(textFor(post, 'sub')), stripHtml(textFor(post, 'excerpt'))]);
     const bodyParagraphs = extractArticleParagraphs(post).filter(text => {
@@ -1992,10 +2109,14 @@
     const intro = uniqueTextItems([stripHtml(textFor(post, 'sub')), stripHtml(textFor(post, 'excerpt'))]);
     const finalParagraphs = paragraphs.length ? uniqueTextItems([...intro, ...paragraphs]) : intro;
     const inlineImages = inlineImagesFor(post);
+    const videoMarkup = articleVideoMarkup(post);
+    const audioMarkup = articleAudioMarkup(post);
 
-    if (!finalParagraphs.length && !inlineImages.length) return '';
+    if (!finalParagraphs.length && !inlineImages.length && !videoMarkup && !audioMarkup) return '';
 
     const blocks = [];
+    if (videoMarkup) blocks.push(videoMarkup);
+    if (audioMarkup) blocks.push(audioMarkup);
     finalParagraphs.forEach((text, idx) => {
       blocks.push(`<p>${text}</p>`);
       if (!inlineImages.length) return;
@@ -2326,6 +2447,7 @@
 
   function refreshFeed() {
     const btn = document.getElementById('updateBtn');
+    bumpHeroRotationSeed();
     btn.classList.add('loading'); btn.disabled = true;
     fetch(`posts.js?cb=${Date.now()}`, { cache:'no-store' })
       .then(resp => { if (!resp.ok) throw new Error('fetch failed'); return resp.text(); })
@@ -2338,9 +2460,12 @@
           updateLastUpdatedLabel();
           rerenderCurrentView();
           showToast(tr('updateDone'));
-        } else throw new Error('empty');
+        } else {
+          rerenderCurrentView();
+          showToast(tr('updateDone'));
+        }
       })
-      .catch(() => showToast(tr('updateFail')))
+      .catch(() => { rerenderCurrentView(); showToast(tr('updateFail')); })
       .finally(() => { btn.classList.remove('loading'); btn.disabled = false; });
   }
 

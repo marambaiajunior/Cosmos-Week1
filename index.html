@@ -261,14 +261,41 @@
     }
 
     /* Language */
-    .lang-switch { display: flex; gap: 4px; }
-    .lang-switch button {
-      width: 30px; height: 30px; border-radius: 4px;
-      font-size: 14px; line-height: 1;
-      opacity: .4; transition: opacity .15s;
+    .header-tools {
+      display: flex; align-items: center; gap: 10px; flex-wrap: wrap; justify-content: flex-end;
     }
-    .lang-switch button.on { opacity: 1; }
-    .lang-switch button:hover { opacity: .8; }
+    .lang-switch { display: flex; gap: 6px; align-items: center; }
+    .lang-switch button {
+      width: 40px; height: 34px; border-radius: 6px;
+      border: 1px solid rgba(255,255,255,.18);
+      background: rgba(255,255,255,.08);
+      opacity: .78; transition: opacity .15s, border-color .15s, transform .15s, background .15s;
+      display: inline-flex; align-items: center; justify-content: center;
+      padding: 0;
+      position: relative;
+    }
+    .lang-switch button.on {
+      opacity: 1;
+      background: rgba(255,255,255,.14);
+      border-color: rgba(255,255,255,.34);
+      transform: translateY(-1px);
+    }
+    .lang-switch button:hover { opacity: 1; border-color: rgba(255,255,255,.34); }
+    .flag-mark {
+      width: 22px; height: 14px; display: block; border-radius: 2px; overflow: hidden;
+      box-shadow: 0 0 0 1px rgba(0,0,0,.18), 0 0 0 1px rgba(255,255,255,.08) inset;
+      background-size: cover; background-position: center;
+    }
+    .flag-br {
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 22 14'%3E%3Crect width='22' height='14' fill='%23009b3a'/%3E%3Cpath d='M11 1.2 18.6 7 11 12.8 3.4 7Z' fill='%23ffdf00'/%3E%3Ccircle cx='11' cy='7' r='3.2' fill='%23002776'/%3E%3C/svg%3E");
+    }
+    .flag-us {
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 22 14'%3E%3Crect width='22' height='14' fill='%23b22234'/%3E%3Cg fill='%23fff'%3E%3Crect y='1.08' width='22' height='1.08'/%3E%3Crect y='3.23' width='22' height='1.08'/%3E%3Crect y='5.38' width='22' height='1.08'/%3E%3Crect y='7.54' width='22' height='1.08'/%3E%3Crect y='9.69' width='22' height='1.08'/%3E%3Crect y='11.85' width='22' height='1.08'/%3E%3C/g%3E%3Crect width='9.6' height='7.54' fill='%233c3b6e'/%3E%3Cg fill='%23fff'%3E%3Ccircle cx='1.2' cy='1.2' r='.34'/%3E%3Ccircle cx='3.1' cy='1.2' r='.34'/%3E%3Ccircle cx='5' cy='1.2' r='.34'/%3E%3Ccircle cx='6.9' cy='1.2' r='.34'/%3E%3Ccircle cx='8.8' cy='1.2' r='.34'/%3E%3Ccircle cx='2.15' cy='2.45' r='.34'/%3E%3Ccircle cx='4.05' cy='2.45' r='.34'/%3E%3Ccircle cx='5.95' cy='2.45' r='.34'/%3E%3Ccircle cx='7.85' cy='2.45' r='.34'/%3E%3Ccircle cx='1.2' cy='3.7' r='.34'/%3E%3Ccircle cx='3.1' cy='3.7' r='.34'/%3E%3Ccircle cx='5' cy='3.7' r='.34'/%3E%3Ccircle cx='6.9' cy='3.7' r='.34'/%3E%3Ccircle cx='8.8' cy='3.7' r='.34'/%3E%3Ccircle cx='2.15' cy='4.95' r='.34'/%3E%3Ccircle cx='4.05' cy='4.95' r='.34'/%3E%3Ccircle cx='5.95' cy='4.95' r='.34'/%3E%3Ccircle cx='7.85' cy='4.95' r='.34'/%3E%3Ccircle cx='1.2' cy='6.2' r='.34'/%3E%3Ccircle cx='3.1' cy='6.2' r='.34'/%3E%3Ccircle cx='5' cy='6.2' r='.34'/%3E%3Ccircle cx='6.9' cy='6.2' r='.34'/%3E%3Ccircle cx='8.8' cy='6.2' r='.34'/%3E%3C/g%3E%3C/svg%3E");
+    }
+    .sr-only {
+      position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+      overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
+    }
 
     /* Social icon */
     .social-icon-link {
@@ -1043,7 +1070,8 @@
     @media (max-width: 860px) {
       .header-inner { grid-template-columns: auto 1fr; height: auto; padding: 14px 24px; flex-wrap: wrap; display: flex; }
       .main-nav { order: 3; width: 100%; padding-bottom: 10px; }
-      .header-tools { margin-left: auto; }
+      .header-tools { margin-left: auto; width: 100%; justify-content: flex-end; }
+      .lang-switch { order: -1; }
       .searchbox input { width: 160px; }
       .hero-side { grid-template-columns: 1fr; }
       .story-grid { grid-template-columns: 1fr; }
@@ -1054,6 +1082,10 @@
       .ghost-btn[id="methodBtn"], .ghost-btn[id="adsBtn"] { display: none; }
     }
     @media (max-width: 600px) {
+      .header-tools { justify-content: space-between; gap: 8px; }
+      .searchbox { order: 3; width: 100%; }
+      .searchbox input { width: 100%; }
+      .lang-switch button { width: 42px; }
       .hero-content { padding: 24px 22px 20px; }
       .article-cover-content { padding: 28px 22px 24px; }
       .article-layout { padding: 22px; }
@@ -1099,8 +1131,8 @@
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
         </label>
         <div class="lang-switch" aria-label="Language selector">
-          <button id="langPt" type="button" onclick="setLanguage('pt')" aria-label="Português do Brasil" title="Português do Brasil">🇧🇷</button>
-          <button id="langEn" type="button" onclick="setLanguage('en')" aria-label="American English" title="American English">🇺🇸</button>
+          <button id="langPt" type="button" onclick="setLanguage('pt')" aria-label="Português do Brasil" title="Português do Brasil"><span class="flag-mark flag-br" aria-hidden="true"></span><span class="sr-only">Português do Brasil</span></button>
+          <button id="langEn" type="button" onclick="setLanguage('en')" aria-label="American English" title="American English"><span class="flag-mark flag-us" aria-hidden="true"></span><span class="sr-only">American English</span></button>
         </div>
         <a class="social-icon-link" href="https://www.instagram.com/cosmos_week/" target="_blank" rel="noopener" aria-label="Instagram">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -1302,7 +1334,15 @@
   <script src="posts.js"></script>
   <script>
   const SITE = {
-    baseUrl: 'https://marambaiajunior.github.io/cosmos-week/',
+    baseUrl: (() => {
+      try {
+        const url = new URL(window.location.href);
+        const cleanPath = url.pathname.replace(/[^/]*$/, '');
+        return `${url.origin}${cleanPath}`;
+      } catch (e) {
+        return 'https://marambaiajunior.github.io/cosmos-week/';
+      }
+    })(),
     title: 'Cosmos Week',
     homeTitlePt: 'Cosmos Week — Notícias Científicas do universo',
     homeTitleEn: 'Cosmos Week — Science journalism for the universe',
@@ -1376,6 +1416,8 @@
       ],
       sourceMixLine: 'item(ns)', clickToRead: 'Abrir matéria', copyLink: 'Copiar link',
       copied: 'Link copiado.', updateDone: 'Feed atualizado.', updateFail: 'Não foi possível atualizar agora.',
+      updateNoChange: 'Nenhuma publicação nova apareceu ainda. Recarreguei a versão publicada mais recente e girei a manchete principal.',
+      updateHookWait: 'Solicitação enviada. Procurando uma build nova publicada...',
       welcome: 'Feed carregado. Cobertura atualizada.',
       backHome: 'Voltar ao início', allCategories: 'Todas',
       scoreLabel: 'Relevância editorial', evidenceLabel: 'Evidência', noveltyLabel: 'Novidade',
@@ -1435,6 +1477,8 @@
       ],
       sourceMixLine: 'item(s)', clickToRead: 'Open story', copyLink: 'Copy link',
       copied: 'Link copied.', updateDone: 'Feed refreshed.', updateFail: 'Could not refresh right now.',
+      updateNoChange: 'No newer published build was found yet. I reloaded the freshest published version and rotated the lead story.',
+      updateHookWait: 'Refresh requested. Looking for a newly published build...',
       welcome: 'Feed loaded. Broader editorial coverage with stronger section balance.',
       backHome: 'Back to home', allCategories: 'All',
       scoreLabel: 'Editorial relevance', evidenceLabel: 'Evidence', noveltyLabel: 'Novelty',
@@ -2523,28 +2567,122 @@
     toastTimer = setTimeout(() => toast.classList.remove('show'), 3200);
   }
 
-  function refreshFeed() {
+  function siteBasePath() {
+    try { return new URL(SITE.baseUrl).pathname; } catch (e) { return '/'; }
+  }
+
+  function githubRepoFromCurrentSite() {
+    const hostMatch = location.hostname.match(/^([^.]+)\.github\.io$/i);
+    if (!hostMatch) return null;
+    const pathParts = siteBasePath().replace(/^\/+|\/+$/g, '').split('/').filter(Boolean);
+    const repo = pathParts[0];
+    if (!repo) return null;
+    return { owner: hostMatch[1], repo };
+  }
+
+  function buildRefreshCandidates() {
+    const cb = Date.now();
+    const urls = [];
+    const localUrl = new URL('posts.js', SITE.baseUrl).toString();
+    urls.push(`${localUrl}?cb=${cb}`);
+    urls.push(`posts.js?cb=${cb}`);
+    const repoInfo = githubRepoFromCurrentSite();
+    if (repoInfo) {
+      ['main', 'master'].forEach(branch => {
+        urls.push(`https://raw.githubusercontent.com/${repoInfo.owner}/${repoInfo.repo}/${branch}/posts.js?cb=${cb}`);
+        urls.push(`https://cdn.jsdelivr.net/gh/${repoInfo.owner}/${repoInfo.repo}@${branch}/posts.js?cb=${cb}`);
+      });
+    }
+    return [...new Set(urls)];
+  }
+
+  async function fetchPostsFromCandidate(url) {
+    const resp = await fetch(url, { cache:'no-store' });
+    if (!resp.ok) throw new Error('fetch failed');
+    const js = await resp.text();
+    const sandboxWindow = {};
+    const parsed = Function('window', js + '; return window.postsData;')(sandboxWindow);
+    if (!Array.isArray(parsed) || !parsed.length) throw new Error('invalid posts');
+    return parsed;
+  }
+
+  function newestStampInPosts(posts = []) {
+    return posts.reduce((max, post) => Math.max(max, postTimestamp(post)), 0);
+  }
+
+  function hasFresherPublishedPosts(incoming = [], current = []) {
+    const currentBySlug = new Map((current || []).map(post => [post.slug, postTimestamp(post)]));
+    return (incoming || []).some(post => {
+      const currentStamp = currentBySlug.get(post.slug);
+      return currentStamp == null || postTimestamp(post) > currentStamp;
+    });
+  }
+
+  async function fetchFreshestPublishedPosts() {
+    let bestPosts = null;
+    let bestStamp = 0;
+    for (const candidate of buildRefreshCandidates()) {
+      try {
+        const posts = await fetchPostsFromCandidate(candidate);
+        const stamp = newestStampInPosts(posts);
+        if (!bestPosts || stamp > bestStamp || (stamp === bestStamp && posts.length > bestPosts.length)) {
+          bestPosts = posts;
+          bestStamp = stamp;
+        }
+      } catch (e) {}
+    }
+    return bestPosts;
+  }
+
+  async function maybeTriggerRefreshHook() {
+    const hookUrl = String(window.COSMOS_REFRESH_HOOK_URL || '').trim();
+    if (!hookUrl) return false;
+    try {
+      const resp = await fetch(hookUrl, { method: 'POST', mode: 'cors', cache: 'no-store' });
+      return !!resp.ok;
+    } catch (e) {
+      return false;
+    }
+  }
+
+  function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+  }
+
+  async function refreshFeed() {
     const btn = document.getElementById('updateBtn');
+    const previousDB = Array.isArray(DB) ? [...DB] : [];
     bumpHeroRotationSeed();
     btn.classList.add('loading'); btn.disabled = true;
-    fetch(`posts.js?cb=${Date.now()}`, { cache:'no-store' })
-      .then(resp => { if (!resp.ok) throw new Error('fetch failed'); return resp.text(); })
-      .then(js => {
-        const sandboxWindow = {};
-        Function('window', js + '; return window.postsData;')(sandboxWindow);
-        if (Array.isArray(sandboxWindow.postsData) && sandboxWindow.postsData.length) {
-          DB = mergePostCollections(sandboxWindow.postsData, DB);
-          persistArchiveCache();
-          updateLastUpdatedLabel();
-          rerenderCurrentView();
-          showToast(tr('updateDone'));
-        } else {
-          rerenderCurrentView();
-          showToast(tr('updateDone'));
+    try {
+      const hookTriggered = await maybeTriggerRefreshHook();
+      if (hookTriggered) showToast(tr('updateHookWait'));
+
+      let freshest = await fetchFreshestPublishedPosts();
+      let foundNew = freshest && hasFresherPublishedPosts(freshest, previousDB);
+
+      if (!foundNew && hookTriggered) {
+        for (let attempt = 0; attempt < 6; attempt += 1) {
+          await sleep(5000);
+          freshest = await fetchFreshestPublishedPosts();
+          foundNew = freshest && hasFresherPublishedPosts(freshest, previousDB);
+          if (foundNew) break;
         }
-      })
-      .catch(() => { rerenderCurrentView(); showToast(tr('updateFail')); })
-      .finally(() => { btn.classList.remove('loading'); btn.disabled = false; });
+      }
+
+      if (Array.isArray(freshest) && freshest.length) {
+        DB = mergePostCollections(freshest, DB);
+        persistArchiveCache();
+      }
+      updateLastUpdatedLabel();
+      rerenderCurrentView();
+      showToast(foundNew ? tr('updateDone') : tr('updateNoChange'));
+    } catch (e) {
+      rerenderCurrentView();
+      showToast(tr('updateFail'));
+    } finally {
+      btn.classList.remove('loading'); btn.disabled = false;
+    }
   }
 
   function copyArticleLink() {

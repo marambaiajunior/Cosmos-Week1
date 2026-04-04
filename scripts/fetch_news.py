@@ -30,6 +30,8 @@ MAX_POSTS = 40
 MAX_POSTS_PER_SOURCE = 5
 MAX_PREPRINTS = 14
 MIN_POSTS_PER_CATEGORY = 3
+MIN_FRESH_POSTS = 10
+FRESH_WINDOW_HOURS = 120
 USER_AGENT = 'CosmosWeekBot/5.0 (+https://github.com/marambaiajunior/cosmos-week1)'
 REQUEST_TIMEOUT = 30
 PAGE_TIMEOUT = 20
@@ -1473,13 +1475,18 @@ def score_item(item: dict) -> int:
 def is_noise(item: dict) -> bool:
     low = normalize_text(' '.join([item['title'], item['summary'], item['link']]))
     profile = compute_editorial_profile(item)
-    if profile['overall'] < 62:
+    if profile['overall'] < 58:
         return True
-    if len(item['summary']) < 55:
+    if len(item['summary']) < 40:
         return True
     if low.startswith('image:'):
         return True
     return False
+
+
+def is_fresh_item(item: dict) -> bool:
+    age_hours = max(0.0, (datetime.now(timezone.utc) - item['published']).total_seconds() / 3600)
+    return age_hours <= FRESH_WINDOW_HOURS
 
 
 def dedupe_and_rank(items: list[dict]) -> list[dict]:
@@ -1528,6 +1535,20 @@ def dedupe_and_rank(items: list[dict]) -> list[dict]:
         per_category[item['editorial_profile']['category']] += 1
         if item['source_type'] == 'preprint':
             preprints += 1
+
+    # Pull in a minimum quota of truly fresh stories first so the homepage stops feeling stale.
+    fresh_candidates = [item for item in decorated if is_fresh_item(item)]
+    fresh_candidates.sort(
+        key=lambda x: (x['published'], x['editorial_profile']['overall'], x['editorial_profile']['relevance_score']),
+        reverse=True
+    )
+    fresh_taken = 0
+    for item in fresh_candidates:
+        if fresh_taken >= MIN_FRESH_POSTS or len(ranked) >= MAX_POSTS:
+            break
+        if can_take(item):
+            take(item)
+            fresh_taken += 1
 
     # Guarantee minimum coverage per category
     for category in category_order:

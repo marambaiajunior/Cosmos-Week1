@@ -2493,6 +2493,7 @@ def to_post(item: dict, idx: int, regular_rank: int) -> dict:
     dt = item['published']
     slug = slugify(title_en)
     canonical = f'{SITE_URL}?article={slug}'
+    canonical_en = f'{SITE_URL}?article={slug}&lang=en'
     image = choose_post_image(item, category)
     inline_images = extract_inline_images(src_url, primary_image=image)
     video = extract_page_video(src_url)
@@ -2569,6 +2570,10 @@ def to_post(item: dict, idx: int, regular_rank: int) -> dict:
         'keywords_en': keywords_en,
         'srcUrl': src_url,
         'canonicalUrl': canonical,
+        'canonicalUrl_pt': canonical,
+        'canonicalUrl_en': canonical_en,
+        'defaultLanguage': 'pt-BR',
+        'availableLanguages': ['pt-BR', 'en-US'],
         'featured': is_featured,
         'trending': is_trending,
         'isPreprint': item['source_type'] == 'preprint',

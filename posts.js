@@ -40,14 +40,14 @@ window.postsData = [
     "date": "06 abr 2026",
     "date_pt": "06 abr 2026",
     "date_en": "06 Apr 2026",
-    "time": "15h58",
-    "time_pt": "15h58",
-    "time_en": "15:58 UTC",
+    "time": "17h02",
+    "time_pt": "17h02",
+    "time_en": "17:02 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-06T15:58:46.583314+00:00",
-    "lastModifiedIso": "2026-04-06T15:58:46.583314+00:00",
+    "publishedIso": "2026-04-06T17:02:20.809858+00:00",
+    "lastModifiedIso": "2026-04-06T17:02:20.809858+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "06 abr 2026",
     "date_pt": "06 abr 2026",
     "date_en": "06 Apr 2026",
-    "time": "15h58",
-    "time_pt": "15h58",
-    "time_en": "15:58 UTC",
+    "time": "17h02",
+    "time_pt": "17h02",
+    "time_en": "17:02 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-06T15:58:46.583257+00:00",
-    "lastModifiedIso": "2026-04-06T15:58:46.583257+00:00",
+    "publishedIso": "2026-04-06T17:02:20.809810+00:00",
+    "lastModifiedIso": "2026-04-06T17:02:20.809810+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,14 +250,14 @@ window.postsData = [
     "date": "06 abr 2026",
     "date_pt": "06 abr 2026",
     "date_en": "06 Apr 2026",
-    "time": "15h58",
-    "time_pt": "15h58",
-    "time_en": "15:58 UTC",
+    "time": "17h02",
+    "time_pt": "17h02",
+    "time_en": "17:02 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-06T15:58:46.583169+00:00",
-    "lastModifiedIso": "2026-04-06T15:58:46.583169+00:00",
+    "publishedIso": "2026-04-06T17:02:20.809759+00:00",
+    "lastModifiedIso": "2026-04-06T17:02:20.809759+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -355,14 +355,14 @@ window.postsData = [
     "date": "06 abr 2026",
     "date_pt": "06 abr 2026",
     "date_en": "06 Apr 2026",
-    "time": "15h58",
-    "time_pt": "15h58",
-    "time_en": "15:58 UTC",
+    "time": "17h02",
+    "time_pt": "17h02",
+    "time_en": "17:02 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-06T15:58:46.583099+00:00",
-    "lastModifiedIso": "2026-04-06T15:58:46.583099+00:00",
+    "publishedIso": "2026-04-06T17:02:20.809712+00:00",
+    "lastModifiedIso": "2026-04-06T17:02:20.809712+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -460,14 +460,14 @@ window.postsData = [
     "date": "06 abr 2026",
     "date_pt": "06 abr 2026",
     "date_en": "06 Apr 2026",
-    "time": "15h58",
-    "time_pt": "15h58",
-    "time_en": "15:58 UTC",
+    "time": "17h02",
+    "time_pt": "17h02",
+    "time_en": "17:02 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-06T15:58:46.583026+00:00",
-    "lastModifiedIso": "2026-04-06T15:58:46.583026+00:00",
+    "publishedIso": "2026-04-06T17:02:20.809650+00:00",
+    "lastModifiedIso": "2026-04-06T17:02:20.809650+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -664,6 +664,111 @@ window.postsData = [
   },
   {
     "id": 7,
+    "slug": "night-sky-network-celebrates-artemis-ii",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://images-assets.nasa.gov/image/KSC%20-%20SLS_03302026_Artemis%20II%20Launch%20wide_4/KSC%20-%20SLS_03302026_Artemis%20II%20Launch%20wide_4~large.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Night Sky Network comemora Artemis II",
+    "title_pt": "Night Sky Network comemora Artemis II",
+    "title_en": "Night Sky Network Celebrates Artemis II",
+    "sub": "Hoje, a tripulação do Artemis II atinge um marco, viajando mais longe do que qualquer ser humano na história registada, enquanto orbita o outro lado da Lua, cerca de 6.400.",
+    "sub_pt": "Hoje, a tripulação do Artemis II atinge um marco, viajando mais longe do que qualquer ser humano na história registada, enquanto orbita o outro lado da Lua, cerca de 6.400.",
+    "sub_en": "Today, the crew of Artemis II reaches a milestone, traveling farther than any humans in recorded history, as they orbit the far side of the Moon, roughly 4,000 miles above the.",
+    "excerpt": "Hoje, a tripulação do Artemis II atinge um marco, viajando mais longe do que qualquer ser humano na história registada, enquanto orbita o outro lado da Lua, cerca de 6.400 quilómetros acima da superfície lunar. Você pode assistir a esta transmissão histórica.",
+    "excerpt_pt": "Hoje, a tripulação do Artemis II atinge um marco, viajando mais longe do que qualquer ser humano na história registada, enquanto orbita o outro lado da Lua, cerca de 6.400 quilómetros acima da superfície lunar. Você pode assistir a esta transmissão histórica.",
+    "excerpt_en": "Today, the crew of Artemis II reaches a milestone, traveling farther than any humans in recorded history, as they orbit the far side of the Moon, roughly 4,000 miles above the lunar surface. You can watch this historic broadcast on NASA’s.",
+    "body": "<p>Hoje, a tripulação do Artemis II atinge um marco, viajando mais longe do que qualquer ser humano na história registada, enquanto orbita o outro lado da Lua, cerca de 6.400 quilómetros acima da superfície lunar. Você pode assistir a esta transmissão histórica na NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Você pode assistir a esta transmissão histórica no canal da NASA no YouTube hoje, 6 de abril de 2026, às 10h do Pacífico (13h Leste), ou no NASA +. 1 min de leitura Night Sky Network comemora Artemis II Hoje, a tripulação do Artemis II atinge um marco, viajando mais longe do que qualquer ser humano na história registrada.</p><p>Você pode assistir a esta transmissão histórica no canal da NASA no YouTube hoje, 6 de abril de 2026, às 10h do Pacífico (13h Leste), ou no NASA+. Certifique-se de comemorar com suas comunidades com os seguintes recursos da NSN: Maneiras estranhas de observar a Lua Por que a Lua tem fases.</p><p>Explorando as fases da lua Guia do Skywatcher para a Lua Por que a Lua não cai na Terra.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/solar-system/skywatching/night-sky-network/night-sky-network-celebrates-artemis-ii/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Hoje, a tripulação do Artemis II atinge um marco, viajando mais longe do que qualquer ser humano na história registada, enquanto orbita o outro lado da Lua, cerca de 6.400 quilómetros acima da superfície lunar. Você pode assistir a esta transmissão histórica na NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Você pode assistir a esta transmissão histórica no canal da NASA no YouTube hoje, 6 de abril de 2026, às 10h do Pacífico (13h Leste), ou no NASA +. 1 min de leitura Night Sky Network comemora Artemis II Hoje, a tripulação do Artemis II atinge um marco, viajando mais longe do que qualquer ser humano na história registrada.</p><p>Você pode assistir a esta transmissão histórica no canal da NASA no YouTube hoje, 6 de abril de 2026, às 10h do Pacífico (13h Leste), ou no NASA+. Certifique-se de comemorar com suas comunidades com os seguintes recursos da NSN: Maneiras estranhas de observar a Lua Por que a Lua tem fases.</p><p>Explorando as fases da lua Guia do Skywatcher para a Lua Por que a Lua não cai na Terra.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/solar-system/skywatching/night-sky-network/night-sky-network-celebrates-artemis-ii/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Today, the crew of Artemis II reaches a milestone, traveling farther than any humans in recorded history, as they orbit the far side of the Moon, roughly 4,000 miles above the lunar surface. You can watch this historic broadcast on NASA’s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. You can watch this historic broadcast on NASA’s YouTube channel today, April 6, 2026, at 10 AM Pacific (1 PM Eastern), or on NASA+. 1 min read Night Sky Network Celebrates Artemis II Today, the crew of Artemis II reaches a milestone, traveling farther than any humans in recorded history, as they orbit the far.</p><p>Be sure to celebrate with your communities with the following NSN resources: Weird Ways to Observe the Moon Why Does the Moon Have Phases. Exploring Moon Phases Skywatcher’s Guide to the Moon Why Doesn’t the Moon Fall to Earth.</p><p>Moon Myths from Around the World Apollo at 50 Moon Toolkit Can You See The Flag On the Moon. Earth Craters and Moon Map From us here at Night Sky Network, Godspeed Integrity, and the crew of Artemis II.</p><p>Today, the crew of Artemis II reaches a milestone, traveling farther than any humans in recorded history, as they orbit the far side of the Moon, roughly Article Today, the crew. You can watch this historic broadcast on NASA&#x27;s YouTube channel today, April 6, 2026, at 10 AM Pacific (1 PM Eastern), or on NASA+.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Be sure to celebrate with your communities with the following NSN resources: From us here at Night Sky Network, Godspeed Integrity, and the crew of Artemis II. –Vivian White and Kat Troche The NASA Night Sky Network Team.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/solar-system/skywatching/night-sky-network/night-sky-network-celebrates-artemis-ii/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Hoje, a tripulação do Artemis II atinge um marco, viajando mais longe do que qualquer ser humano na história registada, enquanto orbita o outro lado.",
+      "Dado-chave: Hoje, a tripulação do Artemis II atinge um marco, viajando mais longe do que qualquer ser humano na história registada, enquanto orbita o outro.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Hoje, a tripulação do Artemis II atinge um marco, viajando mais longe do que qualquer ser humano na história registada, enquanto orbita o outro lado.",
+      "Dado-chave: Hoje, a tripulação do Artemis II atinge um marco, viajando mais longe do que qualquer ser humano na história registada, enquanto orbita o outro.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Today, the crew of Artemis II reaches a milestone, traveling farther than any humans in recorded history, as they orbit the far side of the Moon.",
+      "Key detail: Today, the crew of Artemis II reaches a milestone, traveling farther than any humans in recorded history, as they orbit the far side of the.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "06 abr 2026",
+    "date_pt": "06 abr 2026",
+    "date_en": "06 Apr 2026",
+    "time": "15h29",
+    "time_pt": "15h29",
+    "time_en": "15:29 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-06T15:29:14+00:00",
+    "lastModifiedIso": "2026-04-06T15:29:14+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Night Sky Network comemora Artemis II"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Night Sky Network comemora Artemis II"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Night Sky Network comemora Artemis II"
+    ],
+    "srcUrl": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/night-sky-network-celebrates-artemis-ii/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=night-sky-network-celebrates-artemis-ii",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=night-sky-network-celebrates-artemis-ii",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=night-sky-network-celebrates-artemis-ii&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 8,
     "slug": "grants",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -768,7 +873,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "giant-step-for-humankind-artemis-crew-to-set-space-distance-record",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -904,7 +1009,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "watch-sungrazing-comet-maps-break-up-near-the-sun",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1019,298 +1124,7 @@ window.postsData = [
     }
   },
   {
-    "id": 10,
-    "slug": "hot-jupiter-orbiting-a-metal-poor-star-discovered",
-    "cat": "Exoplanetas",
-    "catCls": "exoplanetas",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/hot-jupiter-orbiting-a.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hot-jupiter-orbiting-a.jpg",
-        "caption": "Curva de luz TESS achatada de TOI-7169 dos Setores 83 e 84. O Setor 83 usou um tempo de integração de 120 s e o tempo de integração do Setor 84 foi de 200 s. Os 15 trânsitos do TOI-7169 b que ocorrem nesses dois setores são indicados em vermelho.",
-        "caption_pt": "Curva de luz TESS achatada de TOI-7169 dos Setores 83 e 84. O Setor 83 usou um tempo de integração de 120 s e o tempo de integração do Setor 84 foi de 200 s. Os 15 trânsitos do TOI-7169 b que ocorrem nesses dois setores são indicados em vermelho.",
-        "caption_en": "Flattened TESS light curve of TOI-7169 from Sectors 83 and 84. Sector 83 used an integration time of 120 s and the Sector 84 integration time was 200 s. The 15 transits of TOI-7169 b that occur across these two sectors are indicated by red.",
-        "alt": "Descoberto \"Júpiter Quente\" orbitando uma estrela pobre em metais",
-        "alt_pt": "Descoberto \"Júpiter Quente\" orbitando uma estrela pobre em metais",
-        "alt_en": "\"Hot Jupiter\" orbiting a metal-poor star discovered"
-      },
-      {
-        "src": "https://scx0.b-cdn.net/pic/tomasz.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx0.b-cdn.net/pic/sadie.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Descoberto 'Júpiter Quente' orbitando uma estrela pobre em metais",
-    "title_pt": "Descoberto 'Júpiter Quente' orbitando uma estrela pobre em metais",
-    "title_en": "'Hot Jupiter' orbiting a metal-poor star discovered",
-    "sub": "Usando o Transiting Exoplanet Survey Satellite da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter quente”. O novo mundo alienígena, designado.",
-    "sub_pt": "Usando o Transiting Exoplanet Survey Satellite da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter quente”. O novo mundo alienígena, designado.",
-    "sub_en": "Using NASA's Transiting Exoplanet Survey Satellite, an international team of astronomers has discovered a new \"hot Jupiter\" exoplanet. The newfound alien world, designated.",
-    "excerpt": "Usando o Transiting Exoplanet Survey Satellite da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter quente”. O novo mundo alienígena, designado TOI-7169 b, orbita uma estrela pobre em metais, o que é raro entre eles.",
-    "excerpt_pt": "Usando o Transiting Exoplanet Survey Satellite da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter quente”. O novo mundo alienígena, designado TOI-7169 b, orbita uma estrela pobre em metais, o que é raro entre eles.",
-    "excerpt_en": "Using NASA's Transiting Exoplanet Survey Satellite, an international team of astronomers has discovered a new \"hot Jupiter\" exoplanet. The newfound alien world, designated TOI-7169 b, orbits a metal-poor star, which is rare among.",
-    "body": "<p>Usando o Transiting Exoplanet Survey Satellite da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter quente”. O novo mundo alienígena, designado TOI-7169 b, orbita uma estrela pobre em metais, o que é raro entre eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Usando o Transiting Exoplanet Survey Satellite (TESS) da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter quente”. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial arXiv (2026).</p><p>&quot;&gt; Curva de luz TESS achatada de TOI-7169 dos Setores 83 e 84. Usando o Transiting Exoplanet Survey Satellite (TESS) da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta &quot;Júpiter quente&quot;.</p><p>A descoberta foi detalhada em um artigo publicado em 26 de março no servidor de pré-impressão arXiv. O TESS continua a sua pesquisa de cerca de 200.000 estrelas brilhantes próximas do Sol, em busca de exoplanetas em trânsito.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-hot-jupiter-orbiting-metal-poor.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Usando o Transiting Exoplanet Survey Satellite da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter quente”. O novo mundo alienígena, designado TOI-7169 b, orbita uma estrela pobre em metais, o que é raro entre eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Usando o Transiting Exoplanet Survey Satellite (TESS) da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter quente”. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial arXiv (2026).</p><p>&quot;&gt; Curva de luz TESS achatada de TOI-7169 dos Setores 83 e 84. Usando o Transiting Exoplanet Survey Satellite (TESS) da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta &quot;Júpiter quente&quot;.</p><p>A descoberta foi detalhada em um artigo publicado em 26 de março no servidor de pré-impressão arXiv. O TESS continua a sua pesquisa de cerca de 200.000 estrelas brilhantes próximas do Sol, em busca de exoplanetas em trânsito.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-hot-jupiter-orbiting-metal-poor.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Using NASA&#x27;s Transiting Exoplanet Survey Satellite, an international team of astronomers has discovered a new &quot;hot Jupiter&quot; exoplanet. The newfound alien world, designated TOI-7169 b, orbits a metal-poor star, which is rare among. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. Using NASA&#x27;s Transiting Exoplanet Survey Satellite (TESS), an international team of astronomers has discovered a new &quot;hot Jupiter&quot; exoplanet. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source arXiv (2026).</p><p>&quot;&gt; Flattened TESS light curve of TOI-7169 from Sectors 83 and 84. The finding was detailed in a paper published March 26 on the arXiv pre-print server.</p><p>TESS continues its survey of about 200,000 bright stars near the sun, searching for transiting exoplanets. To date, nearly 8,000 potential extrasolar worlds (known as TESS Objects of Interest, or TOI) have been identified using this space observatory, with 765 of those discoveries.</p><p>Simon from the Observatories of the Carnegie Institution for Science in Pasadena, California, has confirmed another TOI monitored by TESS. A transit signal was identified in the light curve of TOI-7169 —a metal-poor star of spectral type G3V, at a distance of some 1,477 light years.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>The planetary nature of this signal was confirmed by follow-up ground-based imaging and spectroscopy. When it comes to the properties of the host star TOI-7169, it is a slightly evolved early G star with a radius of about 1.5 solar radii and a mass of 0.88 solar masses.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-hot-jupiter-orbiting-metal-poor.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Usando o Transiting Exoplanet Survey Satellite da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter quente”. O novo.",
-      "Dado-chave: Usando o Transiting Exoplanet Survey Satellite (TESS) da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Usando o Transiting Exoplanet Survey Satellite da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter quente”. O novo.",
-      "Dado-chave: Usando o Transiting Exoplanet Survey Satellite (TESS) da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Using NASA's Transiting Exoplanet Survey Satellite, an international team of astronomers has discovered a new \"hot Jupiter\" exoplanet. The newfound.",
-      "Key detail: Using NASA's Transiting Exoplanet Survey Satellite (TESS), an international team of astronomers has discovered a new \"hot Jupiter\" exoplanet.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "06 abr 2026",
-    "date_pt": "06 abr 2026",
-    "date_en": "06 Apr 2026",
-    "time": "14h40",
-    "time_pt": "14h40",
-    "time_en": "14:40 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-06T14:40:01+00:00",
-    "lastModifiedIso": "2026-04-06T14:40:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Exoplanetas",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Descoberto 'Júpiter Quente' orbitando uma estrela pobre em metais"
-    ],
-    "keywords_pt": [
-      "Exoplanetas",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Descoberto 'Júpiter Quente' orbitando uma estrela pobre em metais"
-    ],
-    "keywords_en": [
-      "Exoplanets",
-      "Phys.org Space",
-      "Cosmos Week",
-      "'Hot Jupiter' discovered orbiting metal-poor star"
-    ],
-    "srcUrl": "https://phys.org/news/2026-04-hot-jupiter-orbiting-metal-poor.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=hot-jupiter-orbiting-a-metal-poor-star-discovered",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=hot-jupiter-orbiting-a-metal-poor-star-discovered",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=hot-jupiter-orbiting-a-metal-poor-star-discovered&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 77,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
     "id": 11,
-    "slug": "meet-nasa-s-new-artemis-ii-science-officers",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/jsc2026e006229.jpg?w=7230&h=5423&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/jsc2026e006227_Trevor_mug2.png?w=1016&h=1016&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Trevor Graff",
-        "caption_pt": "Trevor Graff",
-        "caption_en": "Trevor Graff",
-        "alt": "Trevor Graff",
-        "alt_pt": "Trevor Graff",
-        "alt_en": "Trevor Graff"
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/jsc2026e019596_Kelsey_Young_Science.jpg?w=7194&h=4796&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "A foto de uma mulher sentada em uma mesa em uma sala repleta de mesas grandes e modernas de madeira com vários monitores em todas elas. Ela está vestindo traje de negócios e focada na tela do computador. Ela tem cabelos longos e escuros e é.",
-        "caption_pt": "A foto de uma mulher sentada em uma mesa em uma sala repleta de mesas grandes e modernas de madeira com vários monitores em todas elas. Ela está vestindo traje de negócios e focada na tela do computador. Ela tem cabelos longos e escuros e é.",
-        "caption_en": "A picture of a woman sitting at a desk in room filled with large, modern, wooden desks that have multiple monitors across all of them. She is wearing business attire and is focused on a computer screen. She has long, dark, hair and is.",
-        "alt": "A foto de uma mulher sentada em uma mesa em uma sala repleta de mesas grandes e modernas de madeira com vários monitores em todas elas. Ela está vestindo traje de negócios e focada na tela do computador. Ela tem cabelos longos e escuros e é.",
-        "alt_pt": "A foto de uma mulher sentada em uma mesa em uma sala repleta de mesas grandes e modernas de madeira com vários monitores em todas elas. Ela está vestindo traje de negócios e focada na tela do computador. Ela tem cabelos longos e escuros e é.",
-        "alt_en": "A picture of a woman sitting at a desk in room filled with large, modern, wooden desks that have multiple monitors across all of them. She is wearing business attire and is focused on a computer screen. She has long, dark, hair and is."
-      },
-      {
-        "src": "https://images-assets.nasa.gov/image/art002e008486/art002e008486~large.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/psd/ares/Trevor_Graff_Science_Officer_Clip.mp4",
-      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/jsc2026e006229.jpg?w=7230&h=5423&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "Conheça os novos oficiais científicos do Artemis II da NASA - NASA Science",
-      "title_pt": "Conheça os novos oficiais científicos do Artemis II da NASA - NASA Science",
-      "title_en": "Meet NASA's New Artemis II Science Officers - NASA Science",
-      "caption": "Os primeiros oficiais científicos do Artemis II da NASA – Kelsey Young, Trevor Graff e Angela Garcia – são pioneiros em uma nova era de operações de missão, integrando ciência lunar avançada diretamente no Controle da Missão. O seu trabalho moldará a forma como as futuras tripulações do Artemis observarão, analisarão e aprofundarão a nossa compreensão da Lua.",
-      "caption_pt": "Os primeiros oficiais científicos do Artemis II da NASA – Kelsey Young, Trevor Graff e Angela Garcia – são pioneiros em uma nova era de operações de missão, integrando ciência lunar avançada diretamente no Controle da Missão. O seu trabalho moldará a forma como as futuras tripulações do Artemis observarão, analisarão e aprofundarão a nossa compreensão da Lua.",
-      "caption_en": "NASA’s first Artemis II science officers—Kelsey Young, Trevor Graff, and Angela Garcia—are pioneering a new era of mission operations by integrating advanced lunar science directly into Mission Control. Their work will shape how future Artemis crews observe, analyze, and deepen our understanding of the Moon.",
-      "sourcePage": "https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/"
-    },
-    "audio": {
-      "kind": "file",
-      "platform": "html5-audio",
-      "embedUrl": "",
-      "fileUrl": "https://science.nasa.gov/wp-content/uploads/2026/04/a2-ep-4-audiogram-kelsey-1.wav",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/"
-    },
-    "title": "Conheça os novos oficiais científicos Artemis II da NASA",
-    "title_pt": "Conheça os novos oficiais científicos Artemis II da NASA",
-    "title_en": "Meet NASA’s New Artemis II Science Officers",
-    "sub": "Os primeiros oficiais científicos do Artemis II da NASA, Kelsey Young, Trevor Graff e Angela Garcia, são pioneiros em uma nova era de operações de missão, integrando ciência lunar.",
-    "sub_pt": "Os primeiros oficiais científicos do Artemis II da NASA, Kelsey Young, Trevor Graff e Angela Garcia, são pioneiros em uma nova era de operações de missão, integrando ciência lunar.",
-    "sub_en": "NASA’s first Artemis II science officers, Kelsey Young, Trevor Graff, and Angela Garcia, are pioneering a new era of mission operations by integrating advanced lunar science.",
-    "excerpt": "Os primeiros oficiais científicos do Artemis II da NASA, Kelsey Young, Trevor Graff e Angela Garcia, são pioneiros em uma nova era de operações de missão, integrando ciência lunar avançada diretamente no Controle da Missão. Seu trabalho moldará o futuro.",
-    "excerpt_pt": "Os primeiros oficiais científicos do Artemis II da NASA, Kelsey Young, Trevor Graff e Angela Garcia, são pioneiros em uma nova era de operações de missão, integrando ciência lunar avançada diretamente no Controle da Missão. Seu trabalho moldará o futuro.",
-    "excerpt_en": "NASA’s first Artemis II science officers, Kelsey Young, Trevor Graff, and Angela Garcia, are pioneering a new era of mission operations by integrating advanced lunar science directly into Mission Control. Their work will shape how future.",
-    "body": "<p>Os primeiros oficiais científicos do Artemis II da NASA, Kelsey Young, Trevor Graff e Angela Garcia, são pioneiros em uma nova era de operações de missão, integrando ciência lunar avançada diretamente no Controle da Missão. Seu trabalho moldará o futuro. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 5 minutos de leitura Conheça os novos oficiais científicos do Artemis II da NASA Os oficiais científicos da Artemis, a partir da esquerda, Kelsey Young, Trevor Graff e Angela. A integração das operações científicas nos voos espaciais humanos remonta à Apollo, mas Artemis introduz uma nova posição dedicada no Controlo da Missão da NASA, marcando uma.</p><p>“Eles se integrarão com todas as outras disciplinas de console e garantirão que os objetivos científicos lunares da NASA sejam perfeitamente integrados na execução da missão.” Os. Créditos NASA/Josh Valcarcel A sala frontal do Controle da Missão está repleta de consoles, ou estações de trabalho, cada um dedicado a um sistema ou função específica da missão.</p><p>NASA/Bill Stafford Ouça este clipe de áudio de Kelsey Young falando sobre como os astronautas do Artemis II estudaram a geografia lunar para se prepararem para sua missão. 00 / 0: 00 Seu navegador não suporta o elemento de áudio.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os primeiros oficiais científicos do Artemis II da NASA, Kelsey Young, Trevor Graff e Angela Garcia, são pioneiros em uma nova era de operações de missão, integrando ciência lunar avançada diretamente no Controle da Missão. Seu trabalho moldará o futuro. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 5 minutos de leitura Conheça os novos oficiais científicos do Artemis II da NASA Os oficiais científicos da Artemis, a partir da esquerda, Kelsey Young, Trevor Graff e Angela. A integração das operações científicas nos voos espaciais humanos remonta à Apollo, mas Artemis introduz uma nova posição dedicada no Controlo da Missão da NASA, marcando uma.</p><p>“Eles se integrarão com todas as outras disciplinas de console e garantirão que os objetivos científicos lunares da NASA sejam perfeitamente integrados na execução da missão.” Os. Créditos NASA/Josh Valcarcel A sala frontal do Controle da Missão está repleta de consoles, ou estações de trabalho, cada um dedicado a um sistema ou função específica da missão.</p><p>NASA/Bill Stafford Ouça este clipe de áudio de Kelsey Young falando sobre como os astronautas do Artemis II estudaram a geografia lunar para se prepararem para sua missão. 00 / 0: 00 Seu navegador não suporta o elemento de áudio.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>NASA’s first Artemis II science officers, Kelsey Young, Trevor Graff, and Angela Garcia, are pioneering a new era of mission operations by integrating advanced lunar science directly into Mission Control. Their work will shape how future. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 5 Min Read Meet NASA’s New Artemis II Science Officers Artemis science officers, from left, Kelsey Young, Trevor Graff, and Angela Garcia stand at the new SCIENCE console in the. The integration of science operations into human spaceflight dates back to Apollo, but Artemis introduces a new dedicated position in NASA’s Mission Control, marking an evolution.</p><p>“They will integrate with all the other console disciplines and ensure NASA’s lunar science objectives are seamlessly integrated into mission execution.” Artemis science officers. Credits NASA/Josh Valcarcel The front room of Mission Control is filled with consoles, or workstations, each dedicated to a particular system or function of the mission.</p><p>NASA/Bill Stafford Listen to this audio clip from Kelsey Young talking about how the Artemis II astronauts have studied lunar geography to prepare for their mission. 00 / 0: 00 Your browser does not support the audio element.</p><p>To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video Trevor Graff, Artemis II science officer, discusses astronaut. NASA/Robert Markowitz As the astronauts make those observations, their photos and recorded audio will be fed down to two science back rooms at NASA Johnson, the Science Evaluation.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>“They will integrate with all the other console disciplines and ensure NASA’s lunar science objectives are seamlessly integrated into mission execution.” The front room of Mission. The simulations often included the Artemis II astronauts and covered the lunar flyby portion of the mission, planned for Monday, April 6, during which time the crew will take.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os primeiros oficiais científicos do Artemis II da NASA, Kelsey Young, Trevor Graff e Angela Garcia, são pioneiros em uma nova era de operações de.",
-      "Dado-chave: 5 minutos de leitura Conheça os novos oficiais científicos do Artemis II da NASA Os oficiais científicos da Artemis, a partir da esquerda.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os primeiros oficiais científicos do Artemis II da NASA, Kelsey Young, Trevor Graff e Angela Garcia, são pioneiros em uma nova era de operações de.",
-      "Dado-chave: 5 minutos de leitura Conheça os novos oficiais científicos do Artemis II da NASA Os oficiais científicos da Artemis, a partir da esquerda.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NASA’s first Artemis II science officers, Kelsey Young, Trevor Graff, and Angela Garcia, are pioneering a new era of mission operations by.",
-      "Key detail: 5 Min Read Meet NASA’s New Artemis II Science Officers Artemis science officers, from left, Kelsey Young, Trevor Graff, and Angela Garcia stand.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "03 abr 2026",
-    "date_pt": "03 abr 2026",
-    "date_en": "03 Apr 2026",
-    "time": "17h35",
-    "time_pt": "17h35",
-    "time_en": "17:35 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-03T17:35:44+00:00",
-    "lastModifiedIso": "2026-04-03T17:35:44+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Conheça os novos oficiais científicos Artemis II da NASA"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Conheça os novos oficiais científicos Artemis II da NASA"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Meet NASA's New Artemis II Science Officers"
-    ],
-    "srcUrl": "https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=meet-nasa-s-new-artemis-ii-science-officers",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=meet-nasa-s-new-artemis-ii-science-officers",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=meet-nasa-s-new-artemis-ii-science-officers&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 81,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
-    "id": 12,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1446,7 +1260,7 @@ window.postsData = [
     }
   },
   {
-    "id": 13,
+    "id": 12,
     "slug": "science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1585,7 +1399,7 @@ window.postsData = [
     }
   },
   {
-    "id": 14,
+    "id": 13,
     "slug": "exploding-primordial-black-holes-might-have-reshaped-the-early-universe-and-created-all-matter-a",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1731,7 +1545,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 14,
     "slug": "why-are-supermassive-black-holes-growing-so-slowly",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1868,7 +1682,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 15,
     "slug": "astronomers-play-april-fool-s",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1998,6 +1812,139 @@ window.postsData = [
       "relevance": 88,
       "accessibility": 60,
       "novelty": 46
+    }
+  },
+  {
+    "id": 16,
+    "slug": "hot-jupiter-orbiting-a-metal-poor-star-discovered",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/hot-jupiter-orbiting-a.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hot-jupiter-orbiting-a.jpg",
+        "caption": "Curva de luz TESS achatada de TOI-7169 dos Setores 83 e 84. O Setor 83 usou um tempo de integração de 120 s e o tempo de integração do Setor 84 foi de 200 s. Os 15 trânsitos do TOI-7169 b que ocorrem nesses dois setores são indicados em vermelho.",
+        "caption_pt": "Curva de luz TESS achatada de TOI-7169 dos Setores 83 e 84. O Setor 83 usou um tempo de integração de 120 s e o tempo de integração do Setor 84 foi de 200 s. Os 15 trânsitos do TOI-7169 b que ocorrem nesses dois setores são indicados em vermelho.",
+        "caption_en": "Flattened TESS light curve of TOI-7169 from Sectors 83 and 84. Sector 83 used an integration time of 120 s and the Sector 84 integration time was 200 s. The 15 transits of TOI-7169 b that occur across these two sectors are indicated by red.",
+        "alt": "Descoberto \"Júpiter Quente\" orbitando uma estrela pobre em metais",
+        "alt_pt": "Descoberto \"Júpiter Quente\" orbitando uma estrela pobre em metais",
+        "alt_en": "\"Hot Jupiter\" orbiting a metal-poor star discovered"
+      },
+      {
+        "src": "https://scx0.b-cdn.net/pic/tomasz.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx0.b-cdn.net/pic/sadie.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Descoberto 'Júpiter Quente' orbitando uma estrela pobre em metais",
+    "title_pt": "Descoberto 'Júpiter Quente' orbitando uma estrela pobre em metais",
+    "title_en": "'Hot Jupiter' orbiting a metal-poor star discovered",
+    "sub": "Usando o Transiting Exoplanet Survey Satellite da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter quente”. O novo mundo alienígena, designado.",
+    "sub_pt": "Usando o Transiting Exoplanet Survey Satellite da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter quente”. O novo mundo alienígena, designado.",
+    "sub_en": "Using NASA's Transiting Exoplanet Survey Satellite, an international team of astronomers has discovered a new \"hot Jupiter\" exoplanet. The newfound alien world, designated.",
+    "excerpt": "Usando o Transiting Exoplanet Survey Satellite da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter quente”. O novo mundo alienígena, designado TOI-7169 b, orbita uma estrela pobre em metais, o que é raro entre eles.",
+    "excerpt_pt": "Usando o Transiting Exoplanet Survey Satellite da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter quente”. O novo mundo alienígena, designado TOI-7169 b, orbita uma estrela pobre em metais, o que é raro entre eles.",
+    "excerpt_en": "Using NASA's Transiting Exoplanet Survey Satellite, an international team of astronomers has discovered a new \"hot Jupiter\" exoplanet. The newfound alien world, designated TOI-7169 b, orbits a metal-poor star, which is rare among.",
+    "body": "<p>Usando o Transiting Exoplanet Survey Satellite da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter quente”. O novo mundo alienígena, designado TOI-7169 b, orbita uma estrela pobre em metais, o que é raro entre eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Usando o Transiting Exoplanet Survey Satellite (TESS) da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter quente”. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial arXiv (2026).</p><p>&quot;&gt; Curva de luz TESS achatada de TOI-7169 dos Setores 83 e 84. Usando o Transiting Exoplanet Survey Satellite (TESS) da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta &quot;Júpiter quente&quot;.</p><p>A descoberta foi detalhada em um artigo publicado em 26 de março no servidor de pré-impressão arXiv. O TESS continua a sua pesquisa de cerca de 200.000 estrelas brilhantes próximas do Sol, em busca de exoplanetas em trânsito.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-hot-jupiter-orbiting-metal-poor.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Usando o Transiting Exoplanet Survey Satellite da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter quente”. O novo mundo alienígena, designado TOI-7169 b, orbita uma estrela pobre em metais, o que é raro entre eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Usando o Transiting Exoplanet Survey Satellite (TESS) da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter quente”. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial arXiv (2026).</p><p>&quot;&gt; Curva de luz TESS achatada de TOI-7169 dos Setores 83 e 84. Usando o Transiting Exoplanet Survey Satellite (TESS) da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta &quot;Júpiter quente&quot;.</p><p>A descoberta foi detalhada em um artigo publicado em 26 de março no servidor de pré-impressão arXiv. O TESS continua a sua pesquisa de cerca de 200.000 estrelas brilhantes próximas do Sol, em busca de exoplanetas em trânsito.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-hot-jupiter-orbiting-metal-poor.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Using NASA&#x27;s Transiting Exoplanet Survey Satellite, an international team of astronomers has discovered a new &quot;hot Jupiter&quot; exoplanet. The newfound alien world, designated TOI-7169 b, orbits a metal-poor star, which is rare among. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. Using NASA&#x27;s Transiting Exoplanet Survey Satellite (TESS), an international team of astronomers has discovered a new &quot;hot Jupiter&quot; exoplanet. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source arXiv (2026).</p><p>&quot;&gt; Flattened TESS light curve of TOI-7169 from Sectors 83 and 84. The finding was detailed in a paper published March 26 on the arXiv pre-print server.</p><p>TESS continues its survey of about 200,000 bright stars near the sun, searching for transiting exoplanets. To date, nearly 8,000 potential extrasolar worlds (known as TESS Objects of Interest, or TOI) have been identified using this space observatory, with 765 of those discoveries.</p><p>Simon from the Observatories of the Carnegie Institution for Science in Pasadena, California, has confirmed another TOI monitored by TESS. A transit signal was identified in the light curve of TOI-7169 —a metal-poor star of spectral type G3V, at a distance of some 1,477 light years.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>The planetary nature of this signal was confirmed by follow-up ground-based imaging and spectroscopy. When it comes to the properties of the host star TOI-7169, it is a slightly evolved early G star with a radius of about 1.5 solar radii and a mass of 0.88 solar masses.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-hot-jupiter-orbiting-metal-poor.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Usando o Transiting Exoplanet Survey Satellite da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter quente”. O novo.",
+      "Dado-chave: Usando o Transiting Exoplanet Survey Satellite (TESS) da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Usando o Transiting Exoplanet Survey Satellite da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter quente”. O novo.",
+      "Dado-chave: Usando o Transiting Exoplanet Survey Satellite (TESS) da NASA, uma equipe internacional de astrônomos descobriu um novo exoplaneta “Júpiter.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Using NASA's Transiting Exoplanet Survey Satellite, an international team of astronomers has discovered a new \"hot Jupiter\" exoplanet. The newfound.",
+      "Key detail: Using NASA's Transiting Exoplanet Survey Satellite (TESS), an international team of astronomers has discovered a new \"hot Jupiter\" exoplanet.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "06 abr 2026",
+    "date_pt": "06 abr 2026",
+    "date_en": "06 Apr 2026",
+    "time": "14h40",
+    "time_pt": "14h40",
+    "time_en": "14:40 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-06T14:40:01+00:00",
+    "lastModifiedIso": "2026-04-06T14:40:01+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Exoplanetas",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Descoberto 'Júpiter Quente' orbitando uma estrela pobre em metais"
+    ],
+    "keywords_pt": [
+      "Exoplanetas",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Descoberto 'Júpiter Quente' orbitando uma estrela pobre em metais"
+    ],
+    "keywords_en": [
+      "Exoplanets",
+      "Phys.org Space",
+      "Cosmos Week",
+      "'Hot Jupiter' discovered orbiting metal-poor star"
+    ],
+    "srcUrl": "https://phys.org/news/2026-04-hot-jupiter-orbiting-metal-poor.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=hot-jupiter-orbiting-a-metal-poor-star-discovered",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=hot-jupiter-orbiting-a-metal-poor-star-discovered",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=hot-jupiter-orbiting-a-metal-poor-star-discovered&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
     }
   },
   {
@@ -2875,6 +2822,164 @@ window.postsData = [
   },
   {
     "id": 24,
+    "slug": "meet-nasa-s-new-artemis-ii-science-officers",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/jsc2026e006229.jpg?w=7230&h=5423&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/jsc2026e006227_Trevor_mug2.png?w=1016&h=1016&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Trevor Graff",
+        "caption_pt": "Trevor Graff",
+        "caption_en": "Trevor Graff",
+        "alt": "Trevor Graff",
+        "alt_pt": "Trevor Graff",
+        "alt_en": "Trevor Graff"
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/jsc2026e019596_Kelsey_Young_Science.jpg?w=7194&h=4796&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "A foto de uma mulher sentada em uma mesa em uma sala repleta de mesas grandes e modernas de madeira com vários monitores em todas elas. Ela está vestindo traje de negócios e focada na tela do computador. Ela tem cabelos longos e escuros e é.",
+        "caption_pt": "A foto de uma mulher sentada em uma mesa em uma sala repleta de mesas grandes e modernas de madeira com vários monitores em todas elas. Ela está vestindo traje de negócios e focada na tela do computador. Ela tem cabelos longos e escuros e é.",
+        "caption_en": "A picture of a woman sitting at a desk in room filled with large, modern, wooden desks that have multiple monitors across all of them. She is wearing business attire and is focused on a computer screen. She has long, dark, hair and is.",
+        "alt": "A foto de uma mulher sentada em uma mesa em uma sala repleta de mesas grandes e modernas de madeira com vários monitores em todas elas. Ela está vestindo traje de negócios e focada na tela do computador. Ela tem cabelos longos e escuros e é.",
+        "alt_pt": "A foto de uma mulher sentada em uma mesa em uma sala repleta de mesas grandes e modernas de madeira com vários monitores em todas elas. Ela está vestindo traje de negócios e focada na tela do computador. Ela tem cabelos longos e escuros e é.",
+        "alt_en": "A picture of a woman sitting at a desk in room filled with large, modern, wooden desks that have multiple monitors across all of them. She is wearing business attire and is focused on a computer screen. She has long, dark, hair and is."
+      },
+      {
+        "src": "https://images-assets.nasa.gov/image/KSC%20-%20SLS_03302026_Artemis%20II%20Launch%20wide_4/KSC%20-%20SLS_03302026_Artemis%20II%20Launch%20wide_4~large.jpg?w=1920&h=1080&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": {
+      "kind": "file",
+      "platform": "html5",
+      "embedUrl": "",
+      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/psd/ares/Trevor_Graff_Science_Officer_Clip.mp4",
+      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/jsc2026e006229.jpg?w=7230&h=5423&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "Conheça os novos oficiais científicos do Artemis II da NASA - NASA Science",
+      "title_pt": "Conheça os novos oficiais científicos do Artemis II da NASA - NASA Science",
+      "title_en": "Meet NASA's New Artemis II Science Officers - NASA Science",
+      "caption": "Os primeiros oficiais científicos do Artemis II da NASA – Kelsey Young, Trevor Graff e Angela Garcia – são pioneiros em uma nova era de operações de missão, integrando ciência lunar avançada diretamente no Controle da Missão. O seu trabalho moldará a forma como as futuras tripulações do Artemis observarão, analisarão e aprofundarão a nossa compreensão da Lua.",
+      "caption_pt": "Os primeiros oficiais científicos do Artemis II da NASA – Kelsey Young, Trevor Graff e Angela Garcia – são pioneiros em uma nova era de operações de missão, integrando ciência lunar avançada diretamente no Controle da Missão. O seu trabalho moldará a forma como as futuras tripulações do Artemis observarão, analisarão e aprofundarão a nossa compreensão da Lua.",
+      "caption_en": "NASA’s first Artemis II science officers—Kelsey Young, Trevor Graff, and Angela Garcia—are pioneering a new era of mission operations by integrating advanced lunar science directly into Mission Control. Their work will shape how future Artemis crews observe, analyze, and deepen our understanding of the Moon.",
+      "sourcePage": "https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/"
+    },
+    "audio": {
+      "kind": "file",
+      "platform": "html5-audio",
+      "embedUrl": "",
+      "fileUrl": "https://science.nasa.gov/wp-content/uploads/2026/04/a2-ep-4-audiogram-kelsey-1.wav",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/"
+    },
+    "title": "Conheça os novos oficiais científicos Artemis II da NASA",
+    "title_pt": "Conheça os novos oficiais científicos Artemis II da NASA",
+    "title_en": "Meet NASA’s New Artemis II Science Officers",
+    "sub": "Os primeiros oficiais científicos do Artemis II da NASA, Kelsey Young, Trevor Graff e Angela Garcia, são pioneiros em uma nova era de operações de missão, integrando ciência lunar.",
+    "sub_pt": "Os primeiros oficiais científicos do Artemis II da NASA, Kelsey Young, Trevor Graff e Angela Garcia, são pioneiros em uma nova era de operações de missão, integrando ciência lunar.",
+    "sub_en": "NASA’s first Artemis II science officers, Kelsey Young, Trevor Graff, and Angela Garcia, are pioneering a new era of mission operations by integrating advanced lunar science.",
+    "excerpt": "Os primeiros oficiais científicos do Artemis II da NASA, Kelsey Young, Trevor Graff e Angela Garcia, são pioneiros em uma nova era de operações de missão, integrando ciência lunar avançada diretamente no Controle da Missão. Seu trabalho moldará o futuro.",
+    "excerpt_pt": "Os primeiros oficiais científicos do Artemis II da NASA, Kelsey Young, Trevor Graff e Angela Garcia, são pioneiros em uma nova era de operações de missão, integrando ciência lunar avançada diretamente no Controle da Missão. Seu trabalho moldará o futuro.",
+    "excerpt_en": "NASA’s first Artemis II science officers, Kelsey Young, Trevor Graff, and Angela Garcia, are pioneering a new era of mission operations by integrating advanced lunar science directly into Mission Control. Their work will shape how future.",
+    "body": "<p>Os primeiros oficiais científicos do Artemis II da NASA, Kelsey Young, Trevor Graff e Angela Garcia, são pioneiros em uma nova era de operações de missão, integrando ciência lunar avançada diretamente no Controle da Missão. Seu trabalho moldará o futuro. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 5 minutos de leitura Conheça os novos oficiais científicos do Artemis II da NASA Os oficiais científicos da Artemis, a partir da esquerda, Kelsey Young, Trevor Graff e Angela. A integração das operações científicas nos voos espaciais humanos remonta à Apollo, mas Artemis introduz uma nova posição dedicada no Controlo da Missão da NASA, marcando uma.</p><p>“Eles se integrarão com todas as outras disciplinas de console e garantirão que os objetivos científicos lunares da NASA sejam perfeitamente integrados na execução da missão.” Os. Créditos NASA/Josh Valcarcel A sala frontal do Controle da Missão está repleta de consoles, ou estações de trabalho, cada um dedicado a um sistema ou função específica da missão.</p><p>NASA/Bill Stafford Ouça este clipe de áudio de Kelsey Young falando sobre como os astronautas do Artemis II estudaram a geografia lunar para se prepararem para sua missão. 00 / 0: 00 Seu navegador não suporta o elemento de áudio.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os primeiros oficiais científicos do Artemis II da NASA, Kelsey Young, Trevor Graff e Angela Garcia, são pioneiros em uma nova era de operações de missão, integrando ciência lunar avançada diretamente no Controle da Missão. Seu trabalho moldará o futuro. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 5 minutos de leitura Conheça os novos oficiais científicos do Artemis II da NASA Os oficiais científicos da Artemis, a partir da esquerda, Kelsey Young, Trevor Graff e Angela. A integração das operações científicas nos voos espaciais humanos remonta à Apollo, mas Artemis introduz uma nova posição dedicada no Controlo da Missão da NASA, marcando uma.</p><p>“Eles se integrarão com todas as outras disciplinas de console e garantirão que os objetivos científicos lunares da NASA sejam perfeitamente integrados na execução da missão.” Os. Créditos NASA/Josh Valcarcel A sala frontal do Controle da Missão está repleta de consoles, ou estações de trabalho, cada um dedicado a um sistema ou função específica da missão.</p><p>NASA/Bill Stafford Ouça este clipe de áudio de Kelsey Young falando sobre como os astronautas do Artemis II estudaram a geografia lunar para se prepararem para sua missão. 00 / 0: 00 Seu navegador não suporta o elemento de áudio.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>NASA’s first Artemis II science officers, Kelsey Young, Trevor Graff, and Angela Garcia, are pioneering a new era of mission operations by integrating advanced lunar science directly into Mission Control. Their work will shape how future. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 5 Min Read Meet NASA’s New Artemis II Science Officers Artemis science officers, from left, Kelsey Young, Trevor Graff, and Angela Garcia stand at the new SCIENCE console in the. The integration of science operations into human spaceflight dates back to Apollo, but Artemis introduces a new dedicated position in NASA’s Mission Control, marking an evolution.</p><p>“They will integrate with all the other console disciplines and ensure NASA’s lunar science objectives are seamlessly integrated into mission execution.” Artemis science officers. Credits NASA/Josh Valcarcel The front room of Mission Control is filled with consoles, or workstations, each dedicated to a particular system or function of the mission.</p><p>NASA/Bill Stafford Listen to this audio clip from Kelsey Young talking about how the Artemis II astronauts have studied lunar geography to prepare for their mission. 00 / 0: 00 Your browser does not support the audio element.</p><p>To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video Trevor Graff, Artemis II science officer, discusses astronaut. NASA/Robert Markowitz As the astronauts make those observations, their photos and recorded audio will be fed down to two science back rooms at NASA Johnson, the Science Evaluation.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>“They will integrate with all the other console disciplines and ensure NASA’s lunar science objectives are seamlessly integrated into mission execution.” The front room of Mission. The simulations often included the Artemis II astronauts and covered the lunar flyby portion of the mission, planned for Monday, April 6, during which time the crew will take.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os primeiros oficiais científicos do Artemis II da NASA, Kelsey Young, Trevor Graff e Angela Garcia, são pioneiros em uma nova era de operações de.",
+      "Dado-chave: 5 minutos de leitura Conheça os novos oficiais científicos do Artemis II da NASA Os oficiais científicos da Artemis, a partir da esquerda.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os primeiros oficiais científicos do Artemis II da NASA, Kelsey Young, Trevor Graff e Angela Garcia, são pioneiros em uma nova era de operações de.",
+      "Dado-chave: 5 minutos de leitura Conheça os novos oficiais científicos do Artemis II da NASA Os oficiais científicos da Artemis, a partir da esquerda.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: NASA’s first Artemis II science officers, Kelsey Young, Trevor Graff, and Angela Garcia, are pioneering a new era of mission operations by.",
+      "Key detail: 5 Min Read Meet NASA’s New Artemis II Science Officers Artemis science officers, from left, Kelsey Young, Trevor Graff, and Angela Garcia stand.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "03 abr 2026",
+    "date_pt": "03 abr 2026",
+    "date_en": "03 Apr 2026",
+    "time": "17h35",
+    "time_pt": "17h35",
+    "time_en": "17:35 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-03T17:35:44+00:00",
+    "lastModifiedIso": "2026-04-03T17:35:44+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Conheça os novos oficiais científicos Artemis II da NASA"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Conheça os novos oficiais científicos Artemis II da NASA"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Meet NASA's New Artemis II Science Officers"
+    ],
+    "srcUrl": "https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=meet-nasa-s-new-artemis-ii-science-officers",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=meet-nasa-s-new-artemis-ii-science-officers",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=meet-nasa-s-new-artemis-ii-science-officers&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 81,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 49
+    }
+  },
+  {
+    "id": 25,
     "slug": "nasa-answers-your-most-pressing-artemis-ii-questions",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2979,7 +3084,7 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "how-to-follow-the-smile-launch-live",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3112,7 +3217,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "xrism-solves-famous-star-s-50-year-mystery",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3217,7 +3322,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "t-20-days-smile-to-launch-on-9-april",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3325,7 +3430,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3461,7 +3566,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3588,7 +3693,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "science-release-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3724,7 +3829,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "do-the-moon-s-poles-hold-less-water-than-we-thought",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3790,14 +3895,14 @@ window.postsData = [
     "date": "03 abr 2026",
     "date_pt": "03 abr 2026",
     "date_en": "03 Apr 2026",
-    "time": "12h00",
-    "time_pt": "12h00",
-    "time_en": "12:00 UTC",
+    "time": "07h00",
+    "time_pt": "07h00",
+    "time_en": "07:00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-03T12:00:00+00:00",
-    "lastModifiedIso": "2026-04-03T12:00:00+00:00",
+    "publishedIso": "2026-04-03T07:00:00+00:00",
+    "lastModifiedIso": "2026-04-03T07:00:00+00:00",
     "source": "Sky & Telescope",
     "sourceDomain": "skyandtelescope.org",
     "sourceType": "agency",
@@ -3857,7 +3962,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "nsf-doe-vera-c-rubin-observatory-launches-real-time-discovery-machine-for-monitoring-the-night-s",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4006,7 +4111,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "nasa-sets-coverage-for-northrop-grumman-s-crs-24-resupply-launch",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4114,7 +4219,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "jwst-spies-once-hidden-treasures-in-the-w51-starbirth-creche",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4247,7 +4352,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "this-week-s-sky-at-a-glance-april-3-12",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4363,139 +4468,6 @@ window.postsData = [
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=this-week-s-sky-at-a-glance-april-3-12",
     "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=this-week-s-sky-at-a-glance-april-3-12",
     "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=this-week-s-sky-at-a-glance-april-3-12&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 74,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
-    "id": 36,
-    "slug": "dawn-comet-c-2025-r3-panstarrs-may-hold-a-surprise",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://dq0hsqwjhea1.cloudfront.net/Comet-C_2025-R3-Panstarrs-March-29-2026-Dan-Bartlett-C-900px.webp",
-    "inline_images": [
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/C-2025-R3-composite-image-DIDAC-MESA-ROMEU-v2-1.webp",
-        "caption": "Vemos o cometa evoluir de um fio tênue (à esquerda) para um objeto substancial facilmente visível em um pequeno telescópio e binóculos 10x50 ou maiores. A composição cobre o período do início de outubro de 2025 até o final de março de 2026. Didac Mesa Romeu",
-        "caption_pt": "Vemos o cometa evoluir de um fio tênue (à esquerda) para um objeto substancial facilmente visível em um pequeno telescópio e binóculos 10x50 ou maiores. A composição cobre o período do início de outubro de 2025 até o final de março de 2026. Didac Mesa Romeu",
-        "caption_en": "We see the comet evolve from a faint wisp (left) into a substantial object easily visible in a small telescope and 10x50 or larger binoculars. The composite covers the period from early October 2025 through late March 2026. Didac Mesa Romeu",
-        "alt": "Vemos o cometa evoluir de um fio tênue (à esquerda) para um objeto substancial facilmente visível em um pequeno telescópio e binóculos 10x50 ou maiores. A composição cobre o período do início de outubro de 2025 até o final de março de 2026. Didac Mesa Romeu",
-        "alt_pt": "Vemos o cometa evoluir de um fio tênue (à esquerda) para um objeto substancial facilmente visível em um pequeno telescópio e binóculos 10x50 ou maiores. A composição cobre o período do início de outubro de 2025 até o final de março de 2026. Didac Mesa Romeu",
-        "alt_en": "We see the comet evolve from a faint wisp (left) into a substantial object easily visible in a small telescope and 10x50 or larger binoculars. The composite covers the period from early October 2025 through late March 2026. Didac Mesa Romeu"
-      },
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/WEBVIC_CC_Apr26_comet_finder.jpg",
-        "caption": "O cometa PanSTARRS cai como uma montanha-russa pela Grande Praça de Pégaso este mês. Provavelmente será brilhante o suficiente para ser seguido com binóculos até cerca de 15 de abril, antes de sucumbir ao brilho solar. Embora se espere que chegue.",
-        "caption_pt": "O cometa PanSTARRS cai como uma montanha-russa pela Grande Praça de Pégaso este mês. Provavelmente será brilhante o suficiente para ser seguido com binóculos até cerca de 15 de abril, antes de sucumbir ao brilho solar. Embora se espere que chegue.",
-        "caption_en": "Comet PanSTARRS drops like a roller coaster through the Great Square of Pegasus this month. It will likely be bright enough to follow in binoculars through about April 15th before succumbing to the solar glare. While it's expected to reach.",
-        "alt": "Caminho do cometa PanSTARRS",
-        "alt_pt": "Caminho do cometa PanSTARRS",
-        "alt_en": "Comet PanSTARRS path"
-      },
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/theme/src/img/comment.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Dawn Comet C/2025 R3 (PanSTARRS) pode trazer uma surpresa",
-    "title_pt": "Dawn Comet C/2025 R3 (PanSTARRS) pode trazer uma surpresa",
-    "title_en": "Dawn Comet C/2025 R3 (PanSTARRS) May Hold a Surprise",
-    "sub": "Se tivermos sorte, em breve teremos cometas brilhantes ao amanhecer e ao anoitecer. O posto Dawn Comet C/2025 R3 pode conter uma surpresa apareceu pela primeira vez em Sky &.",
-    "sub_pt": "Se tivermos sorte, em breve teremos cometas brilhantes ao amanhecer e ao anoitecer. O posto Dawn Comet C/2025 R3 pode conter uma surpresa apareceu pela primeira vez em Sky &.",
-    "sub_en": "If we're lucky, we'll soon have bright comets at both dawn and dusk. The post Dawn Comet C/2025 R3 May Hold a Surprise appeared first on Sky & Telescope.",
-    "excerpt": "Se tivermos sorte, em breve teremos cometas brilhantes ao amanhecer e ao anoitecer. O posto Dawn Comet C/2025 R3 pode conter uma surpresa apareceu pela primeira vez em Sky & Telescope.",
-    "excerpt_pt": "Se tivermos sorte, em breve teremos cometas brilhantes ao amanhecer e ao anoitecer. O posto Dawn Comet C/2025 R3 pode conter uma surpresa apareceu pela primeira vez em Sky & Telescope.",
-    "excerpt_en": "If we're lucky, we'll soon have bright comets at both dawn and dusk. The post Dawn Comet C/2025 R3 May Hold a Surprise appeared first on Sky & Telescope.",
-    "body": "<p>Se tivermos sorte, em breve teremos cometas brilhantes ao amanhecer e ao anoitecer. O posto Dawn Comet C/2025 R3 pode conter uma surpresa apareceu pela primeira vez em Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O posto Dawn Comet C/2025 R3 (PanSTARRS) pode conter uma surpresa apareceu pela primeira vez em Sky &amp; Telescope. Maravilhas do céu noturno que você deve ver antes de morrer (2018) e Lendas Urbanas do Espaço (2019) e Magnífica Aurora, publicado em 2024.</p><p>Embora o Cometa PanSTARRS (C/2025 R3) possa nunca atingir o esplendor esperado do Sungrazer Comet MAPS, pelo menos o seu futuro parece mais certo. Ele passa pelo periélio a uma temperatura relativamente fria de 74,6 milhões de km (46,4 milhões de milhas) em 19 de abril, em comparação com os 162.000 km (100.700 milhas).</p><p>O telescópio de pesquisa Pan-STARRS de 1,8 metros no Havaí capturou o cometa em 8 de setembro de 2025, quando ele tinha cerca de magnitude 20. Na minha casa 10 × 50, em 23 de março, o cometa PanSTARRS era uma mancha pequena e redonda de magnitude 8,2 localizada a oeste da Grande Praça de Pégaso, baixa no céu oriental no.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/dawn-comet-c-2025-r3-panstarrs-may-hold-a-surprise/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Se tivermos sorte, em breve teremos cometas brilhantes ao amanhecer e ao anoitecer. O posto Dawn Comet C/2025 R3 pode conter uma surpresa apareceu pela primeira vez em Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O posto Dawn Comet C/2025 R3 (PanSTARRS) pode conter uma surpresa apareceu pela primeira vez em Sky &amp; Telescope. Maravilhas do céu noturno que você deve ver antes de morrer (2018) e Lendas Urbanas do Espaço (2019) e Magnífica Aurora, publicado em 2024.</p><p>Embora o Cometa PanSTARRS (C/2025 R3) possa nunca atingir o esplendor esperado do Sungrazer Comet MAPS, pelo menos o seu futuro parece mais certo. Ele passa pelo periélio a uma temperatura relativamente fria de 74,6 milhões de km (46,4 milhões de milhas) em 19 de abril, em comparação com os 162.000 km (100.700 milhas).</p><p>O telescópio de pesquisa Pan-STARRS de 1,8 metros no Havaí capturou o cometa em 8 de setembro de 2025, quando ele tinha cerca de magnitude 20. Na minha casa 10 × 50, em 23 de março, o cometa PanSTARRS era uma mancha pequena e redonda de magnitude 8,2 localizada a oeste da Grande Praça de Pégaso, baixa no céu oriental no.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/dawn-comet-c-2025-r3-panstarrs-may-hold-a-surprise/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>If we&#x27;re lucky, we&#x27;ll soon have bright comets at both dawn and dusk. The post Dawn Comet C/2025 R3 May Hold a Surprise appeared first on Sky &amp; Telescope. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The post Dawn Comet C/2025 R3 (PanSTARRS) May Hold a Surprise appeared first on Sky &amp; Telescope. Wonders of the Night Sky You Must See Before You Die (2018) and Urban Legends from Space (2019) and Magnificent Aurora, published in 2024.</p><p>While Comet PanSTARRS (C/2025 R3) may never achieve the hoped-for splendor of the sungrazer Comet MAPS, at least its future appears more certain. It passes perihelion at a relatively chill 74.6 million km (46.4 million miles) on April 19th, compared to a Sun-scorching 162,000 km (100,700 miles) for the MAPS comet.</p><p>The Pan-STARRS 1.8-meter survey telescope in Hawai&#x27;i nabbed the comet on September 8, 2025, when it was around magnitude 20. In my 10×50s on March 23rd, Comet PanSTARRS was a small, round, 8.2-magnitude smudge located just west of the Great Square of Pegasus low in the eastern sky at the start of dawn.</p><p>My 15-inch reflector at 76× revealed a bright, dense, aqua-colored coma about 3.5′ across. The viewing window was narrow, I only had 20 minutes of dark-sky time due to the comet&#x27;s low altitude of about 10° at the start of twilight.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Keep in mind that the Moon will interfere for the next few mornings until its phase diminishes to around half. Although its altitude declines, slowly at first, then with increasing speed, it waxes brighter and brighter.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/dawn-comet-c-2025-r3-panstarrs-may-hold-a-surprise/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Se tivermos sorte, em breve teremos cometas brilhantes ao amanhecer e ao anoitecer. O posto Dawn Comet C/2025 R3 pode conter uma surpresa apareceu.",
-      "Dado-chave: O posto Dawn Comet C/2025 R3 (PanSTARRS) pode conter uma surpresa apareceu pela primeira vez em Sky & Telescope.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Se tivermos sorte, em breve teremos cometas brilhantes ao amanhecer e ao anoitecer. O posto Dawn Comet C/2025 R3 pode conter uma surpresa apareceu.",
-      "Dado-chave: O posto Dawn Comet C/2025 R3 (PanSTARRS) pode conter uma surpresa apareceu pela primeira vez em Sky & Telescope.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: If we're lucky, we'll soon have bright comets at both dawn and dusk. The post Dawn Comet C/2025 R3 May Hold a Surprise appeared first on Sky &.",
-      "Key detail: The post Dawn Comet C/2025 R3 (PanSTARRS) May Hold a Surprise appeared first on Sky & Telescope.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "02 abr 2026",
-    "date_pt": "02 abr 2026",
-    "date_en": "02 Apr 2026",
-    "time": "16h09",
-    "time_pt": "16h09",
-    "time_en": "16:09 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-02T16:09:20+00:00",
-    "lastModifiedIso": "2026-04-02T16:09:20+00:00",
-    "source": "Sky & Telescope",
-    "sourceDomain": "skyandtelescope.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Dawn Comet C/2025 R3 (PanSTARRS) pode trazer uma surpresa"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Dawn Comet C/2025 R3 (PanSTARRS) pode trazer uma surpresa"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Dawn Comet C/2025 R3 (PanSTARRS) could bring a surprise"
-    ],
-    "srcUrl": "https://skyandtelescope.org/astronomy-news/dawn-comet-c-2025-r3-panstarrs-may-hold-a-surprise/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=dawn-comet-c-2025-r3-panstarrs-may-hold-a-surprise",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=dawn-comet-c-2025-r3-panstarrs-may-hold-a-surprise",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=dawn-comet-c-2025-r3-panstarrs-may-hold-a-surprise&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -4917,11 +4889,29 @@ window.postsData = [
   },
   {
     "id": 40,
-    "slug": "have-we-found-the-black-hole-desert",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://dq0hsqwjhea1.cloudfront.net/Masses_in_the_Stellar_Graveyard_GWTC4-1-scaled-1.webp",
+    "slug": "dawn-comet-c-2025-r3-panstarrs-may-hold-a-surprise",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://dq0hsqwjhea1.cloudfront.net/Comet-C_2025-R3-Panstarrs-March-29-2026-Dan-Bartlett-C-900px.webp",
     "inline_images": [
+      {
+        "src": "https://dq0hsqwjhea1.cloudfront.net/C-2025-R3-composite-image-DIDAC-MESA-ROMEU-v2-1.webp",
+        "caption": "Vemos o cometa evoluir de um fio tênue (à esquerda) para um objeto substancial facilmente visível em um pequeno telescópio e binóculos 10x50 ou maiores. A composição cobre o período do início de outubro de 2025 até o final de março de 2026. Didac Mesa Romeu",
+        "caption_pt": "Vemos o cometa evoluir de um fio tênue (à esquerda) para um objeto substancial facilmente visível em um pequeno telescópio e binóculos 10x50 ou maiores. A composição cobre o período do início de outubro de 2025 até o final de março de 2026. Didac Mesa Romeu",
+        "caption_en": "We see the comet evolve from a faint wisp (left) into a substantial object easily visible in a small telescope and 10x50 or larger binoculars. The composite covers the period from early October 2025 through late March 2026. Didac Mesa Romeu",
+        "alt": "Vemos o cometa evoluir de um fio tênue (à esquerda) para um objeto substancial facilmente visível em um pequeno telescópio e binóculos 10x50 ou maiores. A composição cobre o período do início de outubro de 2025 até o final de março de 2026. Didac Mesa Romeu",
+        "alt_pt": "Vemos o cometa evoluir de um fio tênue (à esquerda) para um objeto substancial facilmente visível em um pequeno telescópio e binóculos 10x50 ou maiores. A composição cobre o período do início de outubro de 2025 até o final de março de 2026. Didac Mesa Romeu",
+        "alt_en": "We see the comet evolve from a faint wisp (left) into a substantial object easily visible in a small telescope and 10x50 or larger binoculars. The composite covers the period from early October 2025 through late March 2026. Didac Mesa Romeu"
+      },
+      {
+        "src": "https://dq0hsqwjhea1.cloudfront.net/WEBVIC_CC_Apr26_comet_finder.jpg",
+        "caption": "O cometa PanSTARRS cai como uma montanha-russa pela Grande Praça de Pégaso este mês. Provavelmente será brilhante o suficiente para ser seguido com binóculos até cerca de 15 de abril, antes de sucumbir ao brilho solar. Embora se espere que chegue.",
+        "caption_pt": "O cometa PanSTARRS cai como uma montanha-russa pela Grande Praça de Pégaso este mês. Provavelmente será brilhante o suficiente para ser seguido com binóculos até cerca de 15 de abril, antes de sucumbir ao brilho solar. Embora se espere que chegue.",
+        "caption_en": "Comet PanSTARRS drops like a roller coaster through the Great Square of Pegasus this month. It will likely be bright enough to follow in binoculars through about April 15th before succumbing to the solar glare. While it's expected to reach.",
+        "alt": "Caminho do cometa PanSTARRS",
+        "alt_pt": "Caminho do cometa PanSTARRS",
+        "alt_en": "Comet PanSTARRS path"
+      },
       {
         "src": "https://dq0hsqwjhea1.cloudfront.net/theme/src/img/comment.png",
         "caption": "",
@@ -4930,66 +4920,48 @@ window.postsData = [
         "alt": "",
         "alt_pt": "",
         "alt_en": ""
-      },
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/Saturn-JWST-featured.webp",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/Gemini-Jupiter-Moon-April-22.webp",
-        "caption": "Gêmeos Júpiter Lua 22 de abril",
-        "caption_pt": "Gêmeos Júpiter Lua 22 de abril",
-        "caption_en": "Gemini Jupiter Moon April 22",
-        "alt": "Gêmeos Júpiter Lua 22 de abril",
-        "alt_pt": "Gêmeos Júpiter Lua 22 de abril",
-        "alt_en": "Gemini Jupiter Moon April 22"
       }
     ],
     "video": null,
     "audio": null,
-    "title": "Encontramos o deserto do buraco negro?",
-    "title_pt": "Encontramos o deserto do buraco negro?",
-    "title_en": "Have We Found the Black Hole Desert?",
-    "sub": "Os astrônomos discordam sobre se encontraram evidências de que as estrelas não formam buracos negros de determinados tamanhos. O post Encontramos o deserto do buraco negro?.",
-    "sub_pt": "Os astrônomos discordam sobre se encontraram evidências de que as estrelas não formam buracos negros de determinados tamanhos. O post Encontramos o deserto do buraco negro?.",
-    "sub_en": "Astronomers disagree on whether they’ve found evidence that stars don’t make certain sizes of black hole. The post Have We Found the Black Hole Desert? appeared first on Sky &.",
-    "excerpt": "Os astrônomos discordam sobre se encontraram evidências de que as estrelas não formam buracos negros de determinados tamanhos. O post Encontramos o deserto do buraco negro? apareceu primeiro em Sky & Telescope.",
-    "excerpt_pt": "Os astrônomos discordam sobre se encontraram evidências de que as estrelas não formam buracos negros de determinados tamanhos. O post Encontramos o deserto do buraco negro? apareceu primeiro em Sky & Telescope.",
-    "excerpt_en": "Astronomers disagree on whether they’ve found evidence that stars don’t make certain sizes of black hole. The post Have We Found the Black Hole Desert? appeared first on Sky & Telescope.",
-    "body": "<p>Os astrônomos discordam sobre se encontraram evidências de que as estrelas não formam buracos negros de determinados tamanhos. O post Encontramos o deserto do buraco negro? apareceu primeiro em Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestes e as últimas notícias de astronomia. A editora científica Camille M. Devido aos caprichos da fusão nuclear, algumas estrelas gigantes, estamos falando de 100 a 260 vezes a massa do Sol, deveriam explodir em pedacinhos, sem deixar nenhum vestígio.</p><p>Esta aniquilação estelar deixará a sua marca na população de buracos negros que nascem quando as estrelas morrem: não deveriam existir buracos negros com massas entre. Tong e seus colaboradores analisaram os 153 eventos mais claros do quarto e mais recente catálogo da LVK.</p><p>A sua análise, publicada em 1 de abril na Nature, indica que começa uma lacuna acentuada nas massas dos secundários em torno de 45 Sóis. (A equipa de Tong contesta essa comparação.) Embora ambos os grupos concordem que há uma queda no número de secundários com massas acima de cerca de 40 Sóis, Ray e Kalogera dizem.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/black-holes/have-we-found-the-black-hole-desert/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os astrônomos discordam sobre se encontraram evidências de que as estrelas não formam buracos negros de determinados tamanhos. O post Encontramos o deserto do buraco negro? apareceu primeiro em Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestes e as últimas notícias de astronomia. A editora científica Camille M. Devido aos caprichos da fusão nuclear, algumas estrelas gigantes, estamos falando de 100 a 260 vezes a massa do Sol, deveriam explodir em pedacinhos, sem deixar nenhum vestígio.</p><p>Esta aniquilação estelar deixará a sua marca na população de buracos negros que nascem quando as estrelas morrem: não deveriam existir buracos negros com massas entre. Tong e seus colaboradores analisaram os 153 eventos mais claros do quarto e mais recente catálogo da LVK.</p><p>A sua análise, publicada em 1 de abril na Nature, indica que começa uma lacuna acentuada nas massas dos secundários em torno de 45 Sóis. (A equipa de Tong contesta essa comparação.) Embora ambos os grupos concordem que há uma queda no número de secundários com massas acima de cerca de 40 Sóis, Ray e Kalogera dizem.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/black-holes/have-we-found-the-black-hole-desert/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Astronomers disagree on whether they’ve found evidence that stars don’t make certain sizes of black hole. The post Have We Found the Black Hole Desert? appeared first on Sky &amp; Telescope. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. Explore the universe with Sky &amp; Telescope, your ultimate source for stargazing, celestial events, and the latest astronomy news Science Editor Camille M. Due to the vagaries of nuclear fusion, some goliath stars, we’re talking 100 to 260 times the Sun’s mass, should blow themselves to smithereens, leaving no remnant behind.</p><p>This stellar annihilation will leave its mark on the population of black holes that are born when stars die: No black holes should exist with masses between roughly 50 and 130. Tong and his collaborators looked at the 153 clearest events from the fourth, latest LVK catalog.</p><p>Their analysis, reported April 1st in Nature, indicates a sharp gap begins in the secondaries’ masses around 45 Suns. (Tong’s team disputes that comparison.) While both groups agree that there’s a drop-off in the number of secondaries with masses above roughly 40 Suns, Ray and Kalogera say it’s a.</p><p>There’s a hint of a gap starting around 60 solar masses, but we haven’t detected enough events to know for sure, they conclude. Furthermore, the duo’s analysis suggests that many of these high-mass binaries pair objects with more equal sizes than expected if a second-generation and first-generation black.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>The study appears in the February 10th Astrophysical Journal Letters. LVK will likely announce another 200 or so detections in the next year.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/black-holes/have-we-found-the-black-hole-desert/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Dawn Comet C/2025 R3 (PanSTARRS) pode trazer uma surpresa",
+    "title_pt": "Dawn Comet C/2025 R3 (PanSTARRS) pode trazer uma surpresa",
+    "title_en": "Dawn Comet C/2025 R3 (PanSTARRS) May Hold a Surprise",
+    "sub": "Se tivermos sorte, em breve teremos cometas brilhantes ao amanhecer e ao anoitecer. O posto Dawn Comet C/2025 R3 pode conter uma surpresa apareceu pela primeira vez em Sky &.",
+    "sub_pt": "Se tivermos sorte, em breve teremos cometas brilhantes ao amanhecer e ao anoitecer. O posto Dawn Comet C/2025 R3 pode conter uma surpresa apareceu pela primeira vez em Sky &.",
+    "sub_en": "If we're lucky, we'll soon have bright comets at both dawn and dusk. The post Dawn Comet C/2025 R3 May Hold a Surprise appeared first on Sky & Telescope.",
+    "excerpt": "Se tivermos sorte, em breve teremos cometas brilhantes ao amanhecer e ao anoitecer. O posto Dawn Comet C/2025 R3 pode conter uma surpresa apareceu pela primeira vez em Sky & Telescope.",
+    "excerpt_pt": "Se tivermos sorte, em breve teremos cometas brilhantes ao amanhecer e ao anoitecer. O posto Dawn Comet C/2025 R3 pode conter uma surpresa apareceu pela primeira vez em Sky & Telescope.",
+    "excerpt_en": "If we're lucky, we'll soon have bright comets at both dawn and dusk. The post Dawn Comet C/2025 R3 May Hold a Surprise appeared first on Sky & Telescope.",
+    "body": "<p>Se tivermos sorte, em breve teremos cometas brilhantes ao amanhecer e ao anoitecer. O posto Dawn Comet C/2025 R3 pode conter uma surpresa apareceu pela primeira vez em Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O posto Dawn Comet C/2025 R3 (PanSTARRS) pode conter uma surpresa apareceu pela primeira vez em Sky &amp; Telescope. Maravilhas do céu noturno que você deve ver antes de morrer (2018) e Lendas Urbanas do Espaço (2019) e Magnífica Aurora, publicado em 2024.</p><p>Embora o Cometa PanSTARRS (C/2025 R3) possa nunca atingir o esplendor esperado do Sungrazer Comet MAPS, pelo menos o seu futuro parece mais certo. Ele passa pelo periélio a uma temperatura relativamente fria de 74,6 milhões de km (46,4 milhões de milhas) em 19 de abril, em comparação com os 162.000 km (100.700 milhas).</p><p>O telescópio de pesquisa Pan-STARRS de 1,8 metros no Havaí capturou o cometa em 8 de setembro de 2025, quando ele tinha cerca de magnitude 20. Na minha casa 10 × 50, em 23 de março, o cometa PanSTARRS era uma mancha pequena e redonda de magnitude 8,2 localizada a oeste da Grande Praça de Pégaso, baixa no céu oriental no.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/dawn-comet-c-2025-r3-panstarrs-may-hold-a-surprise/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Se tivermos sorte, em breve teremos cometas brilhantes ao amanhecer e ao anoitecer. O posto Dawn Comet C/2025 R3 pode conter uma surpresa apareceu pela primeira vez em Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O posto Dawn Comet C/2025 R3 (PanSTARRS) pode conter uma surpresa apareceu pela primeira vez em Sky &amp; Telescope. Maravilhas do céu noturno que você deve ver antes de morrer (2018) e Lendas Urbanas do Espaço (2019) e Magnífica Aurora, publicado em 2024.</p><p>Embora o Cometa PanSTARRS (C/2025 R3) possa nunca atingir o esplendor esperado do Sungrazer Comet MAPS, pelo menos o seu futuro parece mais certo. Ele passa pelo periélio a uma temperatura relativamente fria de 74,6 milhões de km (46,4 milhões de milhas) em 19 de abril, em comparação com os 162.000 km (100.700 milhas).</p><p>O telescópio de pesquisa Pan-STARRS de 1,8 metros no Havaí capturou o cometa em 8 de setembro de 2025, quando ele tinha cerca de magnitude 20. Na minha casa 10 × 50, em 23 de março, o cometa PanSTARRS era uma mancha pequena e redonda de magnitude 8,2 localizada a oeste da Grande Praça de Pégaso, baixa no céu oriental no.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/dawn-comet-c-2025-r3-panstarrs-may-hold-a-surprise/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>If we&#x27;re lucky, we&#x27;ll soon have bright comets at both dawn and dusk. The post Dawn Comet C/2025 R3 May Hold a Surprise appeared first on Sky &amp; Telescope. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The post Dawn Comet C/2025 R3 (PanSTARRS) May Hold a Surprise appeared first on Sky &amp; Telescope. Wonders of the Night Sky You Must See Before You Die (2018) and Urban Legends from Space (2019) and Magnificent Aurora, published in 2024.</p><p>While Comet PanSTARRS (C/2025 R3) may never achieve the hoped-for splendor of the sungrazer Comet MAPS, at least its future appears more certain. It passes perihelion at a relatively chill 74.6 million km (46.4 million miles) on April 19th, compared to a Sun-scorching 162,000 km (100,700 miles) for the MAPS comet.</p><p>The Pan-STARRS 1.8-meter survey telescope in Hawai&#x27;i nabbed the comet on September 8, 2025, when it was around magnitude 20. In my 10×50s on March 23rd, Comet PanSTARRS was a small, round, 8.2-magnitude smudge located just west of the Great Square of Pegasus low in the eastern sky at the start of dawn.</p><p>My 15-inch reflector at 76× revealed a bright, dense, aqua-colored coma about 3.5′ across. The viewing window was narrow, I only had 20 minutes of dark-sky time due to the comet&#x27;s low altitude of about 10° at the start of twilight.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Keep in mind that the Moon will interfere for the next few mornings until its phase diminishes to around half. Although its altitude declines, slowly at first, then with increasing speed, it waxes brighter and brighter.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/dawn-comet-c-2025-r3-panstarrs-may-hold-a-surprise/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Os astrônomos discordam sobre se encontraram evidências de que as estrelas não formam buracos negros de determinados tamanhos. O post Encontramos o.",
-      "Dado-chave: Explore o universo com Sky & Telescope, sua melhor fonte de observação de estrelas, eventos celestes e as últimas notícias de astronomia. A.",
+      "Ponto central: Se tivermos sorte, em breve teremos cometas brilhantes ao amanhecer e ao anoitecer. O posto Dawn Comet C/2025 R3 pode conter uma surpresa apareceu.",
+      "Dado-chave: O posto Dawn Comet C/2025 R3 (PanSTARRS) pode conter uma surpresa apareceu pela primeira vez em Sky & Telescope.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Os astrônomos discordam sobre se encontraram evidências de que as estrelas não formam buracos negros de determinados tamanhos. O post Encontramos o.",
-      "Dado-chave: Explore o universo com Sky & Telescope, sua melhor fonte de observação de estrelas, eventos celestes e as últimas notícias de astronomia. A.",
+      "Ponto central: Se tivermos sorte, em breve teremos cometas brilhantes ao amanhecer e ao anoitecer. O posto Dawn Comet C/2025 R3 pode conter uma surpresa apareceu.",
+      "Dado-chave: O posto Dawn Comet C/2025 R3 (PanSTARRS) pode conter uma surpresa apareceu pela primeira vez em Sky & Telescope.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: Astronomers disagree on whether they’ve found evidence that stars don’t make certain sizes of black hole. The post Have We Found the Black Hole.",
-      "Key detail: Explore the universe with Sky & Telescope, your ultimate source for stargazing, celestial events, and the latest astronomy news Science Editor.",
+      "Core point: If we're lucky, we'll soon have bright comets at both dawn and dusk. The post Dawn Comet C/2025 R3 May Hold a Surprise appeared first on Sky &.",
+      "Key detail: The post Dawn Comet C/2025 R3 (PanSTARRS) May Hold a Surprise appeared first on Sky & Telescope.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "01 abr 2026",
-    "date_pt": "01 abr 2026",
-    "date_en": "01 Apr 2026",
-    "time": "18h55",
-    "time_pt": "18h55",
-    "time_en": "18:55 UTC",
+    "date": "02 abr 2026",
+    "date_pt": "02 abr 2026",
+    "date_en": "02 Apr 2026",
+    "time": "16h09",
+    "time_pt": "16h09",
+    "time_en": "16:09 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-01T18:55:46+00:00",
-    "lastModifiedIso": "2026-04-01T18:55:46+00:00",
+    "publishedIso": "2026-04-02T16:09:20+00:00",
+    "lastModifiedIso": "2026-04-02T16:09:20+00:00",
     "source": "Sky & Telescope",
     "sourceDomain": "skyandtelescope.org",
     "sourceType": "agency",
@@ -5008,27 +4980,27 @@ window.postsData = [
     "editorialBandLabel_pt": "Prioridade editorial",
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
-      "Astrofísica",
+      "Astronomia",
       "Sky & Telescope",
       "Cosmos Week",
-      "Encontramos o deserto do buraco negro?"
+      "Dawn Comet C/2025 R3 (PanSTARRS) pode trazer uma surpresa"
     ],
     "keywords_pt": [
-      "Astrofísica",
+      "Astronomia",
       "Sky & Telescope",
       "Cosmos Week",
-      "Encontramos o deserto do buraco negro?"
+      "Dawn Comet C/2025 R3 (PanSTARRS) pode trazer uma surpresa"
     ],
     "keywords_en": [
-      "Astrophysics",
+      "Astronomy",
       "Sky & Telescope",
       "Cosmos Week",
-      "Have we found the black hole desert?"
+      "Dawn Comet C/2025 R3 (PanSTARRS) could bring a surprise"
     ],
-    "srcUrl": "https://skyandtelescope.org/astronomy-news/black-holes/have-we-found-the-black-hole-desert/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=have-we-found-the-black-hole-desert",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=have-we-found-the-black-hole-desert",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=have-we-found-the-black-hole-desert&lang=en",
+    "srcUrl": "https://skyandtelescope.org/astronomy-news/dawn-comet-c-2025-r3-panstarrs-may-hold-a-surprise/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=dawn-comet-c-2025-r3-panstarrs-may-hold-a-surprise",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=dawn-comet-c-2025-r3-panstarrs-may-hold-a-surprise",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=dawn-comet-c-2025-r3-panstarrs-may-hold-a-surprise&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",

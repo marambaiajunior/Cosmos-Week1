@@ -3,111 +3,6 @@
 window.postsData = [
   {
     "id": 1,
-    "slug": "nih-supported-trial-reduces-hiv-incidence-by-70-in-rural-populations",
-    "cat": "Biologia",
-    "catCls": "biologia",
-    "img": "https://www.nih.gov/sites/default/files/styles/max_650x650/public/2026-02/20260224-niaid.jpg?itok=lLfxIM8L",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "O ensaio apoiado pelo NIH reduz a incidência do VIH em 70% nas populações rurais",
-    "title_pt": "O ensaio apoiado pelo NIH reduz a incidência do VIH em 70% nas populações rurais",
-    "title_en": "NIH-supported trial reduces HIV incidence by 70% in rural populations",
-    "sub": "Estude utilizou a tecnologia para alargar o alcance da infra-estrutura existente, ligando as pessoas aos cuidados de saúde.",
-    "sub_pt": "Estude utilizou a tecnologia para alargar o alcance da infra-estrutura existente, ligando as pessoas aos cuidados de saúde.",
-    "sub_en": "Study&nbsp. used technology to extend reach of existing infrastructure, linking people to care.",
-    "excerpt": "Estude utilizou a tecnologia para alargar o alcance da infra-estrutura existente, ligando as pessoas aos cuidados de saúde.",
-    "excerpt_pt": "Estude utilizou a tecnologia para alargar o alcance da infra-estrutura existente, ligando as pessoas aos cuidados de saúde.",
-    "excerpt_en": "Study&nbsp. used technology to extend reach of existing infrastructure, linking people to care.",
-    "body": "<p>Estude utilizou a tecnologia para alargar o alcance da infra-estrutura existente, ligando as pessoas aos cuidados de saúde. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Um estudo financiado pelos Institutos Nacionais de Saúde (NIH) reduziu os novos casos de VIH em 70% nas zonas rurais do Quénia e do Uganda, combinando ferramentas digitais com. As descobertas foram apresentadas hoje na 33ª Conferência sobre Retrovírus e Infecções Oportunistas (CROI 2026) em Denver.</p><p>Taubenberger, M. D, Ph. D, diretor interino do Instituto Nacional de Alergia e Doenças Infecciosas do NIH (NIAID). O NIAID co-financiou o estudo juntamente com o Instituto Nacional do Coração, Pulmão e Sangue do NIH.</p><p>Apesar da disponibilidade de medicamentos seguros e altamente eficazes para prevenir e tratar o VIH, estima-se que 30.000 pessoas nos Estados Unidos e 1,3 milhões de pessoas em. O ensaio envolveu 16 comunidades rurais remotas, oito em cada país.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/nih-supported-trial-reduces-hiv-incidence-70-rural-populations\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Estude utilizou a tecnologia para alargar o alcance da infra-estrutura existente, ligando as pessoas aos cuidados de saúde. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Um estudo financiado pelos Institutos Nacionais de Saúde (NIH) reduziu os novos casos de VIH em 70% nas zonas rurais do Quénia e do Uganda, combinando ferramentas digitais com. As descobertas foram apresentadas hoje na 33ª Conferência sobre Retrovírus e Infecções Oportunistas (CROI 2026) em Denver.</p><p>Taubenberger, M. D, Ph. D, diretor interino do Instituto Nacional de Alergia e Doenças Infecciosas do NIH (NIAID). O NIAID co-financiou o estudo juntamente com o Instituto Nacional do Coração, Pulmão e Sangue do NIH.</p><p>Apesar da disponibilidade de medicamentos seguros e altamente eficazes para prevenir e tratar o VIH, estima-se que 30.000 pessoas nos Estados Unidos e 1,3 milhões de pessoas em. O ensaio envolveu 16 comunidades rurais remotas, oito em cada país.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/nih-supported-trial-reduces-hiv-incidence-70-rural-populations\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Study&amp;nbsp. used technology to extend reach of existing infrastructure, linking people to care. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. A study funded by the National Institutes of Health (NIH) reduced new HIV cases by 70% in rural Kenya and Uganda by pairing digital tools with tailored HIV services delivered by. The findings were presented today at the 33rd Conference on Retroviruses and Opportunistic Infections ( CROI 2026 ) in Denver.</p><p>Taubenberger, M. D, Ph. D, acting director of NIH’s National Institute of Allergy and Infectious Diseases (NIAID). NIAID co-funded the study along with NIH’s National Heart, Lung, and Blood Institute.</p><p>Despite the availability of safe and highly effective medications to prevent and treat HIV, an estimated 30,000 people in the United States and 1.3 million people globally newly. The trial involved 16 remote, rural communities, eight within each country.</p><p>The intervention had three components, which were delivered during a two-year period beginning in 2023 to people aged 15 years and older, considered adults in their communities. Two years after the intervention began, the study team measured HIV incidence among adults in the 16 participating communities.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>Seven of about 42,000 people in the intervention communities and 22 of about 42,000 people in the control communities had acquired HIV in recent months, indicating that the. They found that 0.41% of adults in the control communities and 1.67% in the intervention communities had recently used PrEP or PEP, meaning the intervention strategy drove a.</p><p>Because the account originates with NIH News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/nih-supported-trial-reduces-hiv-incidence-70-rural-populations\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Estude utilizou a tecnologia para alargar o alcance da infra-estrutura existente, ligando as pessoas aos cuidados de saúde.",
-      "Dado-chave: Um estudo financiado pelos Institutos Nacionais de Saúde (NIH) reduziu os novos casos de VIH em 70% nas zonas rurais do Quénia e do Uganda.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Estude utilizou a tecnologia para alargar o alcance da infra-estrutura existente, ligando as pessoas aos cuidados de saúde.",
-      "Dado-chave: Um estudo financiado pelos Institutos Nacionais de Saúde (NIH) reduziu os novos casos de VIH em 70% nas zonas rurais do Quénia e do Uganda.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Study&nbsp. used technology to extend reach of existing infrastructure, linking people to care.",
-      "Key detail: A study funded by the National Institutes of Health (NIH) reduced new HIV cases by 70% in rural Kenya and Uganda by pairing digital tools with.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "08 abr 2026",
-    "date_pt": "08 abr 2026",
-    "date_en": "08 Apr 2026",
-    "time": "20h58",
-    "time_pt": "20h58",
-    "time_en": "20:58 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-08T20:58:00.841351+00:00",
-    "lastModifiedIso": "2026-04-08T20:58:00.841351+00:00",
-    "source": "NIH News Releases",
-    "sourceDomain": "www.nih.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Biologia",
-      "NIH News Releases",
-      "Cosmos Week",
-      "O ensaio apoiado pelo NIH reduz a incidência do VIH em 70% nas populações rurais"
-    ],
-    "keywords_pt": [
-      "Biologia",
-      "NIH News Releases",
-      "Cosmos Week",
-      "O ensaio apoiado pelo NIH reduz a incidência do VIH em 70% nas populações rurais"
-    ],
-    "keywords_en": [
-      "Biology",
-      "NIH News Releases",
-      "Cosmos Week",
-      "NIH-supported trial reduces HIV incidence by 70% in rural populations"
-    ],
-    "srcUrl": "https://www.nih.gov/news-events/news-releases/nih-supported-trial-reduces-hiv-incidence-70-rural-populations",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nih-supported-trial-reduces-hiv-incidence-by-70-in-rural-populations",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nih-supported-trial-reduces-hiv-incidence-by-70-in-rural-populations",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nih-supported-trial-reduces-hiv-incidence-by-70-in-rural-populations&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 70,
-    "scoreBreakdown": {
-      "source": 79,
-      "evidence": 82,
-      "relevance": 66,
-      "accessibility": 52,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 2,
     "slug": "study-measuring-changes-in-protein-structure-establishes-new-class-of-alzheimer-s-biomarkers",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -145,14 +40,14 @@ window.postsData = [
     "date": "08 abr 2026",
     "date_pt": "08 abr 2026",
     "date_en": "08 Apr 2026",
-    "time": "20h58",
-    "time_pt": "20h58",
-    "time_en": "20:58 UTC",
+    "time": "21h56",
+    "time_pt": "21h56",
+    "time_en": "21:56 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-08T20:58:00.841298+00:00",
-    "lastModifiedIso": "2026-04-08T20:58:00.841298+00:00",
+    "publishedIso": "2026-04-08T21:56:20.691879+00:00",
+    "lastModifiedIso": "2026-04-08T21:56:20.691879+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -212,7 +107,7 @@ window.postsData = [
     }
   },
   {
-    "id": 3,
+    "id": 2,
     "slug": "automated-ct-scan-analysis-could-fast-track-clinical-assessments",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -250,14 +145,14 @@ window.postsData = [
     "date": "08 abr 2026",
     "date_pt": "08 abr 2026",
     "date_en": "08 Apr 2026",
-    "time": "20h58",
-    "time_pt": "20h58",
-    "time_en": "20:58 UTC",
+    "time": "21h56",
+    "time_pt": "21h56",
+    "time_en": "21:56 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-08T20:58:00.841241+00:00",
-    "lastModifiedIso": "2026-04-08T20:58:00.841241+00:00",
+    "publishedIso": "2026-04-08T21:56:20.691823+00:00",
+    "lastModifiedIso": "2026-04-08T21:56:20.691823+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -317,7 +212,7 @@ window.postsData = [
     }
   },
   {
-    "id": 4,
+    "id": 3,
     "slug": "researchers-develop-ai-tool-to-predict-patients-at-risk-of-intimate-partner-violence",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -355,14 +250,14 @@ window.postsData = [
     "date": "08 abr 2026",
     "date_pt": "08 abr 2026",
     "date_en": "08 Apr 2026",
-    "time": "20h58",
-    "time_pt": "20h58",
-    "time_en": "20:58 UTC",
+    "time": "21h56",
+    "time_pt": "21h56",
+    "time_en": "21:56 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-08T20:58:00.841190+00:00",
-    "lastModifiedIso": "2026-04-08T20:58:00.841190+00:00",
+    "publishedIso": "2026-04-08T21:56:20.691773+00:00",
+    "lastModifiedIso": "2026-04-08T21:56:20.691773+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -422,7 +317,7 @@ window.postsData = [
     }
   },
   {
-    "id": 5,
+    "id": 4,
     "slug": "clinical-trial-results-support-use-of-weekly-extended-release-buprenorphine-for-treatment-of-opi",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -460,14 +355,14 @@ window.postsData = [
     "date": "08 abr 2026",
     "date_pt": "08 abr 2026",
     "date_en": "08 Apr 2026",
-    "time": "20h58",
-    "time_pt": "20h58",
-    "time_en": "20:58 UTC",
+    "time": "21h56",
+    "time_pt": "21h56",
+    "time_en": "21:56 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-08T20:58:00.841123+00:00",
-    "lastModifiedIso": "2026-04-08T20:58:00.841123+00:00",
+    "publishedIso": "2026-04-08T21:56:20.691708+00:00",
+    "lastModifiedIso": "2026-04-08T21:56:20.691708+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -527,7 +422,236 @@ window.postsData = [
     }
   },
   {
+    "id": 5,
+    "slug": "nih-invests-150-million-in-human-based-research-to-reduce-use-of-animal-models",
+    "cat": "Biologia",
+    "catCls": "biologia",
+    "img": "https://www.nih.gov/sites/default/files/styles/max_650x650/public/2026-03/20260318-chip-updated.jpg?itok=hwAe0KVM",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "NIH investe US$ 150 milhões em pesquisas humanas para reduzir o uso de modelos animais",
+    "title_pt": "NIH investe US$ 150 milhões em pesquisas humanas para reduzir o uso de modelos animais",
+    "title_en": "NIH invests $150 million in human-based research to reduce use of animal models",
+    "sub": "Novo programa irá se desenvolver,&nbsp. validar&nbsp. e padronizar ferramentas de pesquisa para&nbsp. desenvolver modelos de doenças mais sofisticados e relevantes.",
+    "sub_pt": "Novo programa irá se desenvolver,&nbsp. validar&nbsp. e padronizar ferramentas de pesquisa para&nbsp. desenvolver modelos de doenças mais sofisticados e relevantes.",
+    "sub_en": "New program&nbsp. will develop,&nbsp. validate&nbsp. and standardize research tools to&nbsp. develop more sophisticated and relevant models of disease.&nbsp.",
+    "excerpt": "Novo programa irá se desenvolver,&nbsp. validar&nbsp. e padronizar ferramentas de pesquisa para&nbsp. desenvolver modelos de doenças mais sofisticados e relevantes.",
+    "excerpt_pt": "Novo programa irá se desenvolver,&nbsp. validar&nbsp. e padronizar ferramentas de pesquisa para&nbsp. desenvolver modelos de doenças mais sofisticados e relevantes.",
+    "excerpt_en": "New program&nbsp. will develop,&nbsp. validate&nbsp. and standardize research tools to&nbsp. develop more sophisticated and relevant models of disease.&nbsp.",
+    "body": "<p>Novo programa irá se desenvolver,&amp;nbsp. validar&amp;nbsp. e padronizar ferramentas de pesquisa para&amp;nbsp. desenvolver modelos de doenças mais sofisticados e relevantes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. O novo programa irá desenvolver, validar e padronizar ferramentas de investigação para desenvolver modelos de doenças mais sofisticados e relevantes. Os Institutos Nacionais de Saúde (NIH) anunciaram hoje mais de 150 milhões de dólares para desenvolver e dimensionar métodos de investigação que simulem melhor a biologia humana e.</p><p>O financiamento marca os primeiros prêmios do programa Complement Animal Research in Experimentation (Complement-ARIE), uma iniciativa para desenvolver, implementar e padronizar. “Esta é uma excelente oportunidade para criar um repertório de métodos focados no ser humano que são tão sofisticados e abrangentes que a tradução clínica bem-sucedida aumentará e.</p><p>“Estes novos projetos são passos fundamentais na expansão e fortalecimento da nossa caixa de ferramentas científicas. O investimento do NIH em NAMs é fundamental para a nossa missão de realizar pesquisas de padrão ouro.” O programa estabelecerá centros de desenvolvimento tecnológico (TDC) para.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/nih-invests-150-million-human-based-research-reduce-use-animal-models\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Novo programa irá se desenvolver,&amp;nbsp. validar&amp;nbsp. e padronizar ferramentas de pesquisa para&amp;nbsp. desenvolver modelos de doenças mais sofisticados e relevantes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. O novo programa irá desenvolver, validar e padronizar ferramentas de investigação para desenvolver modelos de doenças mais sofisticados e relevantes. Os Institutos Nacionais de Saúde (NIH) anunciaram hoje mais de 150 milhões de dólares para desenvolver e dimensionar métodos de investigação que simulem melhor a biologia humana e.</p><p>O financiamento marca os primeiros prêmios do programa Complement Animal Research in Experimentation (Complement-ARIE), uma iniciativa para desenvolver, implementar e padronizar. “Esta é uma excelente oportunidade para criar um repertório de métodos focados no ser humano que são tão sofisticados e abrangentes que a tradução clínica bem-sucedida aumentará e.</p><p>“Estes novos projetos são passos fundamentais na expansão e fortalecimento da nossa caixa de ferramentas científicas. O investimento do NIH em NAMs é fundamental para a nossa missão de realizar pesquisas de padrão ouro.” O programa estabelecerá centros de desenvolvimento tecnológico (TDC) para.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/nih-invests-150-million-human-based-research-reduce-use-animal-models\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>New program&amp;nbsp. will develop,&amp;nbsp. validate&amp;nbsp. and standardize research tools to&amp;nbsp. develop more sophisticated and relevant models of disease.&amp;nbsp. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. New program will develop, validate and standardize research tools to develop more sophisticated and relevant models of disease. The National Institutes of Health (NIH) today announced more than $150 million to develop and scale research methods that better simulate human biology and reduce reliance on.</p><p>The funding marks the first awards under the Complement Animal Research in Experimentation (Complement-ARIE) program, an initiative to develop, implement, and standardize lab or. “This is an exciting opportunity to create a repertoire of human-focused methods that are so sophisticated and comprehensive that successful clinical translation will rise and we.</p><p>“These new projects are key steps in expanding and strengthening our scientific toolbox. NIH’s investment in NAMs is critical to our mission to carry out gold-standard research.” The program will establish technology development centers (TDCs) to facilitate NAM.</p><p>Complement-ARIE has partnered with the Foundation for the National Institutes of Health to establish the VQN, intended to advance implementation of reliable and marketable NAMs. NIH plans to contribute about $20 million, pending available funds.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>The network has selected four pilot projects focused on preterm birth, developmental neurotoxicity, inhalation toxicity and acute oral toxicity, with plans to expand. Additionally, the program launched a $7 million NAMs Reduction to Practice Challenge in partnership with the U. S.</p><p>Because the account originates with NIH News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/nih-invests-150-million-human-based-research-reduce-use-animal-models\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Novo programa irá se desenvolver,&nbsp. validar&nbsp. e padronizar ferramentas de pesquisa para&nbsp. desenvolver modelos de doenças mais.",
+      "Dado-chave: O novo programa irá desenvolver, validar e padronizar ferramentas de investigação para desenvolver modelos de doenças mais sofisticados e.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Novo programa irá se desenvolver,&nbsp. validar&nbsp. e padronizar ferramentas de pesquisa para&nbsp. desenvolver modelos de doenças mais.",
+      "Dado-chave: O novo programa irá desenvolver, validar e padronizar ferramentas de investigação para desenvolver modelos de doenças mais sofisticados e.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: New program&nbsp. will develop,&nbsp. validate&nbsp. and standardize research tools to&nbsp. develop more sophisticated and relevant models of.",
+      "Key detail: New program will develop, validate and standardize research tools to develop more sophisticated and relevant models of disease.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "08 abr 2026",
+    "date_pt": "08 abr 2026",
+    "date_en": "08 Apr 2026",
+    "time": "21h56",
+    "time_pt": "21h56",
+    "time_en": "21:56 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-08T21:56:20.691646+00:00",
+    "lastModifiedIso": "2026-04-08T21:56:20.691646+00:00",
+    "source": "NIH News Releases",
+    "sourceDomain": "www.nih.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "watch",
+    "editorialBandLabel": "Leitura monitorada",
+    "editorialBandLabel_pt": "Leitura monitorada",
+    "editorialBandLabel_en": "Watchlist",
+    "keywords": [
+      "Biologia",
+      "NIH News Releases",
+      "Cosmos Week",
+      "NIH investe US$ 150 milhões em pesquisas humanas para reduzir o uso de modelos animais"
+    ],
+    "keywords_pt": [
+      "Biologia",
+      "NIH News Releases",
+      "Cosmos Week",
+      "NIH investe US$ 150 milhões em pesquisas humanas para reduzir o uso de modelos animais"
+    ],
+    "keywords_en": [
+      "Biology",
+      "NIH News Releases",
+      "Cosmos Week",
+      "NIH invests $150 million in human research to reduce use of animal models"
+    ],
+    "srcUrl": "https://www.nih.gov/news-events/news-releases/nih-invests-150-million-human-based-research-reduce-use-animal-models",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nih-invests-150-million-in-human-based-research-to-reduce-use-of-animal-models",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nih-invests-150-million-in-human-based-research-to-reduce-use-of-animal-models",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nih-invests-150-million-in-human-based-research-to-reduce-use-of-animal-models&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 64,
+    "scoreBreakdown": {
+      "source": 79,
+      "evidence": 82,
+      "relevance": 48,
+      "accessibility": 42,
+      "novelty": 55
+    }
+  },
+  {
     "id": 6,
+    "slug": "a-mercury-rover-could-explore-the-planet-by-sticking-to-the-terminator",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.universetoday.com/article_images/Mercury_profile_MDIS_MESSENGER_20260408_210727.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/mercury-messenger1_20260408_183436.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/HdsL5eiq6oJzg7wPfSaogk_20260408_210721.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Um Mercury Rover poderia explorar o planeta aderindo ao Terminator",
+    "title_pt": "Um Mercury Rover poderia explorar o planeta aderindo ao Terminator",
+    "title_en": "A Mercury Rover Could Explore the Planet by Sticking to the Terminator",
+    "sub": "Uma missão de sonda Mercury criaria oportunidades para amostrar características geológicas únicas. No entanto, as flutuações extremas de temperatura na superfície de Mercúrio.",
+    "sub_pt": "Uma missão de sonda Mercury criaria oportunidades para amostrar características geológicas únicas. No entanto, as flutuações extremas de temperatura na superfície de Mercúrio.",
+    "sub_en": "A Mercury lander mission would create opportunities to sample unique geological features. However, extreme temperature fluctuations on Mercury’s surface pose challenges for.",
+    "excerpt": "Uma missão de sonda Mercury criaria oportunidades para amostrar características geológicas únicas. No entanto, as flutuações extremas de temperatura na superfície de Mercúrio representam desafios para a exploração da superfície planetária. Em uma região.",
+    "excerpt_pt": "Uma missão de sonda Mercury criaria oportunidades para amostrar características geológicas únicas. No entanto, as flutuações extremas de temperatura na superfície de Mercúrio representam desafios para a exploração da superfície planetária. Em uma região.",
+    "excerpt_en": "A Mercury lander mission would create opportunities to sample unique geological features. However, extreme temperature fluctuations on Mercury’s surface pose challenges for exploration on the planetary surface. In a narrow region near the.",
+    "body": "<p>Uma missão de sonda Mercury criaria oportunidades para amostrar características geológicas únicas. No entanto, as flutuações extremas de temperatura na superfície de Mercúrio representam desafios para a exploração da superfície planetária. Em uma região estreita perto do. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. No lado voltado para o Sol, as temperaturas atingem escaldantes 427 °C (800 °F), o suficiente para derreter estanho e chumbo, e a superfície fica exposta a níveis de radiação. Mas no Terminator, a região entre a noite e o dia em Mercúrio, as temperaturas são suficientemente estáveis ​​e há luz suficiente para um veículo espacial movido a energia solar.</p><p>O artigo detalhando sua proposta foi apresentado na Conferência de Ciência Lunar e Planetária de 2026 (2026 LPSC). NASA/JHUAPL/Carnegie Institution of Washington* Como observam em seu artigo, uma missão de sonda Mercury criaria oportunidades para estudar características geológicas únicas.</p><p>Este conceito aproveita a ressonância spin-órbita de 3: 2 de Mercúrio, onde o planeta gira três vezes em seu eixo (58,6 dias terrestres) para cada duas órbitas que completa ao. Esta ressonância significa que um único dia solar, ou o tempo que o Sol leva para retornar ao mesmo lugar no céu (24 horas na Terra), dura impressionantes 176 dias terrestres.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/a-mercury-rover-could-explore-the-planet-by-sticking-to-the-terminator\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma missão de sonda Mercury criaria oportunidades para amostrar características geológicas únicas. No entanto, as flutuações extremas de temperatura na superfície de Mercúrio representam desafios para a exploração da superfície planetária. Em uma região estreita perto do. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. No lado voltado para o Sol, as temperaturas atingem escaldantes 427 °C (800 °F), o suficiente para derreter estanho e chumbo, e a superfície fica exposta a níveis de radiação. Mas no Terminator, a região entre a noite e o dia em Mercúrio, as temperaturas são suficientemente estáveis ​​e há luz suficiente para um veículo espacial movido a energia solar.</p><p>O artigo detalhando sua proposta foi apresentado na Conferência de Ciência Lunar e Planetária de 2026 (2026 LPSC). NASA/JHUAPL/Carnegie Institution of Washington* Como observam em seu artigo, uma missão de sonda Mercury criaria oportunidades para estudar características geológicas únicas.</p><p>Este conceito aproveita a ressonância spin-órbita de 3: 2 de Mercúrio, onde o planeta gira três vezes em seu eixo (58,6 dias terrestres) para cada duas órbitas que completa ao. Esta ressonância significa que um único dia solar, ou o tempo que o Sol leva para retornar ao mesmo lugar no céu (24 horas na Terra), dura impressionantes 176 dias terrestres.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/a-mercury-rover-could-explore-the-planet-by-sticking-to-the-terminator\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A Mercury lander mission would create opportunities to sample unique geological features. However, extreme temperature fluctuations on Mercury’s surface pose challenges for exploration on the planetary surface. In a narrow region near the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. On the Sun-facing side, temperatures reach a scorching 427 °C (800 °F), enough to melt tin and lead, and the surface is exposed to extremely lethal levels of radiation. But in the Terminator, the region between night and day on Mercury, temperatures are stable enough, and there is sufficient light for a solar-powered rover to study surface.</p><p>The paper detailing their proposal was presented at the 2026 Lunar and Planetary Science Conference (2026 LPSC). NASA/JHUAPL/Carnegie Institution of Washington* As they note in their paper, a Mercury lander mission would create opportunities to study unique geological features.</p><p>This concept takes advantage of Mercury&#x27;s 3: 2 spin-orbit resonance, where the planet spins three times on its axis (58.6 Earth days) for every two orbits it completes around the. This resonance means that a single solar day, or the time it takes for the Sun to return to the same place in the sky (24 hours on Earth), lasts a whopping 176 Earth days.</p><p>As a result, a rover mission would only need to travel fast enough to stay ahead of the Sun, and would still be able to draw enough power from its solar arrays. The rover described by Murillo and Lucey in their paper would be equipped with a specific suite of scientific instruments for elemental analysis and mineral identification.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>*Mercury&#x27;s northern polar region (red areas indicate water ice) based on data obtained by NASA&#x27;s MESSENGER probe. To calculate the Terminator velocity, Murillo and Lucey used orbital ephemeris data from the Horizons System, developed by the Solar System Dynamics group at NASA&#x27;s Jet Propulsion.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/a-mercury-rover-could-explore-the-planet-by-sticking-to-the-terminator\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Uma missão de sonda Mercury criaria oportunidades para amostrar características geológicas únicas. No entanto, as flutuações extremas de temperatura.",
+      "Dado-chave: No lado voltado para o Sol, as temperaturas atingem escaldantes 427 °C (800 °F), o suficiente para derreter estanho e chumbo, e a superfície.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Uma missão de sonda Mercury criaria oportunidades para amostrar características geológicas únicas. No entanto, as flutuações extremas de temperatura.",
+      "Dado-chave: No lado voltado para o Sol, as temperaturas atingem escaldantes 427 °C (800 °F), o suficiente para derreter estanho e chumbo, e a superfície.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: A Mercury lander mission would create opportunities to sample unique geological features. However, extreme temperature fluctuations on Mercury’s.",
+      "Key detail: On the Sun-facing side, temperatures reach a scorching 427 °C (800 °F), enough to melt tin and lead, and the surface is exposed to extremely.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "08 abr 2026",
+    "date_pt": "08 abr 2026",
+    "date_en": "08 Apr 2026",
+    "time": "21h52",
+    "time_pt": "21h52",
+    "time_en": "21:52 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-08T21:52:14+00:00",
+    "lastModifiedIso": "2026-04-08T21:52:14+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "Um Mercury Rover poderia explorar o planeta aderindo ao Terminator"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "Um Mercury Rover poderia explorar o planeta aderindo ao Terminator"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Universe Today",
+      "Cosmos Week",
+      "A Mercury Rover could explore the planet by sticking to the Terminator"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/a-mercury-rover-could-explore-the-planet-by-sticking-to-the-terminator",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=a-mercury-rover-could-explore-the-planet-by-sticking-to-the-terminator",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=a-mercury-rover-could-explore-the-planet-by-sticking-to-the-terminator",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=a-mercury-rover-could-explore-the-planet-by-sticking-to-the-terminator&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "a-new-class-of-star-merger-remnant",
     "cat": "Física",
     "catCls": "fisica",
@@ -649,7 +773,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -663,7 +787,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "student-research-on-coronal-holes-improves-space-weather-forecasting",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -796,7 +920,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "twin-nasa-control-rooms-support-artemis-safety-success",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -911,7 +1035,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "pinprick-of-light-artemis-crew-witnesses-meteorite-impacts-on-moon",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1038,124 +1162,6 @@ window.postsData = [
     }
   },
   {
-    "id": 10,
-    "slug": "meet-orpheus-a-hopper-mission-built-to-hunt-for-life-in-martian-volcanoes",
-    "cat": "Biologia",
-    "catCls": "biologia",
-    "img": "https://www.universetoday.com/article_images/PIA12956_20260408_134833.jpg",
-    "inline_images": [],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/7iojvlwbg58",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.universetoday.com/articles/meet-orpheus-a-hopper-mission-built-to-hunt-for-life-in-martian-volcanoes"
-    },
-    "audio": null,
-    "title": "Conheça Orpheus – uma missão Hopper construída para caçar vida em vulcões marcianos",
-    "title_pt": "Conheça Orpheus – uma missão Hopper construída para caçar vida em vulcões marcianos",
-    "title_en": "Meet Orpheus - A Hopper Mission Built To Hunt For Life In Martian Volcanoes",
-    "sub": "Passamos décadas arranhando a superfície de Marte tentando descobrir vida lá. Mas temos procurado um terreno baldio bombardeado por radiação e banhado em percloratos tóxicos. O.",
-    "sub_pt": "Passamos décadas arranhando a superfície de Marte tentando descobrir vida lá. Mas temos procurado um terreno baldio bombardeado por radiação e banhado em percloratos tóxicos. O.",
-    "sub_en": "We’ve spent decades scratching the surface of Mars trying to uncover life there. But we’ve been searching a barren wasteland bombarded by radiation and bathed in toxic.",
-    "excerpt": "Passamos décadas arranhando a superfície de Marte tentando descobrir vida lá. Mas temos procurado um terreno baldio bombardeado por radiação e banhado em percloratos tóxicos. O tempo todo, é provável que tenha sido muito hostil.",
-    "excerpt_pt": "Passamos décadas arranhando a superfície de Marte tentando descobrir vida lá. Mas temos procurado um terreno baldio bombardeado por radiação e banhado em percloratos tóxicos. O tempo todo, é provável que tenha sido muito hostil.",
-    "excerpt_en": "We’ve spent decades scratching the surface of Mars trying to uncover life there. But we’ve been searching a barren wasteland bombarded by radiation and bathed in toxic perchlorates. The entire time, it's likely that it’s been too hostile.",
-    "body": "<p>Passamos décadas arranhando a superfície de Marte tentando descobrir vida lá. Mas temos procurado um terreno baldio bombardeado por radiação e banhado em percloratos tóxicos. O tempo todo, é provável que tenha sido muito hostil. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Esse é exatamente o propósito do Orpheus, uma proposta de missão de decolagem e pouso vertical (VTOL) de Marte apresentada por Connor Bunn e Pascal Lee do Instituto SETI na 57ª. A missão real visa explorar as profundas fissuras vulcânicas, poços e aberturas de cavernas de uma região de Marte conhecida como Cerberus Fossae.</p><p>É a única forma de realizarmos as análises proteicas e genéticas necessárias para provar que a vida que encontrámos não se limitou a apanhar boleia da Terra num meteorito há. Cerberus Fossae também abriga a Unidade de Manto Cerberus Fossae (CFmu), um enorme depósito piroclástico que representa a atividade vulcânica eruptiva mais ativa já identificada.</p><p>Ingenuity, o companheiro voador do Perseverance que marcou o marco do primeiro voo motorizado em outro planeta, provou que a ideia de um sistema VTOL funcionaria em Marte. Voar em Marte está se tornando mais comum como arquitetura de missão, como explica Fraser.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/meet-orpheus-a-hopper-mission-built-to-hunt-for-life-in-martian-volcanoes\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Passamos décadas arranhando a superfície de Marte tentando descobrir vida lá. Mas temos procurado um terreno baldio bombardeado por radiação e banhado em percloratos tóxicos. O tempo todo, é provável que tenha sido muito hostil. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Esse é exatamente o propósito do Orpheus, uma proposta de missão de decolagem e pouso vertical (VTOL) de Marte apresentada por Connor Bunn e Pascal Lee do Instituto SETI na 57ª. A missão real visa explorar as profundas fissuras vulcânicas, poços e aberturas de cavernas de uma região de Marte conhecida como Cerberus Fossae.</p><p>É a única forma de realizarmos as análises proteicas e genéticas necessárias para provar que a vida que encontrámos não se limitou a apanhar boleia da Terra num meteorito há. Cerberus Fossae também abriga a Unidade de Manto Cerberus Fossae (CFmu), um enorme depósito piroclástico que representa a atividade vulcânica eruptiva mais ativa já identificada.</p><p>Ingenuity, o companheiro voador do Perseverance que marcou o marco do primeiro voo motorizado em outro planeta, provou que a ideia de um sistema VTOL funcionaria em Marte. Voar em Marte está se tornando mais comum como arquitetura de missão, como explica Fraser.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/meet-orpheus-a-hopper-mission-built-to-hunt-for-life-in-martian-volcanoes\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>We’ve spent decades scratching the surface of Mars trying to uncover life there. But we’ve been searching a barren wasteland bombarded by radiation and bathed in toxic perchlorates. The entire time, it&#x27;s likely that it’s been too hostile. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. That is exactly the purpose of Orpheus, a proposed Mars vertical takeoff and landing (VTOL) hopper mission put forth by Connor Bunn and Pascal Lee of the SETI Institute at the. The actual mission aims to explore the deep volcanic fissures, pits, and cave vents of a region of Mars known as Cerberus Fossae.</p><p>It’s the only way we can perform the protein and genetic analyses needed to prove that the life we found didn’t just hitch a ride from Earth on a meteorite billions of years ago. Cerberus Fossae is also home to the Cerberus Fossae Mantling Unit (CFmu), a massive pyroclastic deposit that represents the most active eruptive volcanic activity ever identified.</p><p>Ingenuity, Perseverance’s flying companion that marked the milestone of the first powered flight on another planet, proved the idea of a VTOL system would work on Mars. Taking to the air on Mars is becoming more commonplace as a mission architecture, as Fraser explains.</p><p>In other words, they are the most likely spots for internal planetary heat to meet water, just like the vents in Earth’s ocean floor that might have given rise to the first life. Most notably, it features a diffuse dark streak stretching 400 meters uphill from its rim.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>Either way, it’s most likely the site of the most recent activity on CT1, and therefore holds the most promise of finding something protected from the surface up until recently. Fraser discusses another Mars helicopter mission concept The hopper itself is designed to carry a specialized payload tailored to both astrobiological investigations and.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/meet-orpheus-a-hopper-mission-built-to-hunt-for-life-in-martian-volcanoes\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Passamos décadas arranhando a superfície de Marte tentando descobrir vida lá. Mas temos procurado um terreno baldio bombardeado por radiação e.",
-      "Dado-chave: Esse é exatamente o propósito do Orpheus, uma proposta de missão de decolagem e pouso vertical (VTOL) de Marte apresentada por Connor Bunn e.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Passamos décadas arranhando a superfície de Marte tentando descobrir vida lá. Mas temos procurado um terreno baldio bombardeado por radiação e.",
-      "Dado-chave: Esse é exatamente o propósito do Orpheus, uma proposta de missão de decolagem e pouso vertical (VTOL) de Marte apresentada por Connor Bunn e.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: We’ve spent decades scratching the surface of Mars trying to uncover life there. But we’ve been searching a barren wasteland bombarded by radiation.",
-      "Key detail: That is exactly the purpose of Orpheus, a proposed Mars vertical takeoff and landing (VTOL) hopper mission put forth by Connor Bunn and Pascal.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "08 abr 2026",
-    "date_pt": "08 abr 2026",
-    "date_en": "08 Apr 2026",
-    "time": "13h48",
-    "time_pt": "13h48",
-    "time_en": "13:48 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-08T13:48:35+00:00",
-    "lastModifiedIso": "2026-04-08T13:48:35+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Biologia",
-      "Universe Today",
-      "Cosmos Week",
-      "Conheça Orpheus – uma missão Hopper construída para caçar vida em vulcões marcianos"
-    ],
-    "keywords_pt": [
-      "Biologia",
-      "Universe Today",
-      "Cosmos Week",
-      "Conheça Orpheus – uma missão Hopper construída para caçar vida em vulcões marcianos"
-    ],
-    "keywords_en": [
-      "Biology",
-      "Universe Today",
-      "Cosmos Week",
-      "Meet Orpheus – a Hopper mission built to hunt for life in Martian volcanoes"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/meet-orpheus-a-hopper-mission-built-to-hunt-for-life-in-martian-volcanoes",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=meet-orpheus-a-hopper-mission-built-to-hunt-for-life-in-martian-volcanoes",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=meet-orpheus-a-hopper-mission-built-to-hunt-for-life-in-martian-volcanoes",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=meet-orpheus-a-hopper-mission-built-to-hunt-for-life-in-martian-volcanoes&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 73,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
     "id": 11,
     "slug": "celestial-wonders-in-leo",
     "cat": "Astronomia",
@@ -1270,150 +1276,17 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 82,
+    "score": 81,
     "scoreBreakdown": {
       "source": 94,
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
     "id": 12,
-    "slug": "how-to-follow-the-smile-launch-live",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/smile_lifts_off_into_space_artist_impression/27126092-1-eng-GB/Smile_lifts_off_into_space_artist_impression_card_full.png",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/smile_launch_timeline/27119760-2-eng-GB/Smile_launch_timeline_article.jpg",
-        "caption": "Cronograma de lançamento do Smile",
-        "caption_pt": "Cronograma de lançamento do Smile",
-        "caption_en": "Smile launch timeline",
-        "alt": "Cronograma de lançamento do Smile",
-        "alt_pt": "Cronograma de lançamento do Smile",
-        "alt_en": "Smile launch timeline"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/top_three_mysteries_smile_will_solve/27124411-1-eng-GB/Top_three_mysteries_Smile_will_solve_article.jpg",
-        "caption": "Os três principais mistérios que o Smile resolverá",
-        "caption_pt": "Os três principais mistérios que o Smile resolverá",
-        "caption_en": "Top three mysteries Smile will solve",
-        "alt": "Os três principais mistérios que o Smile resolverá",
-        "alt_pt": "Os três principais mistérios que o Smile resolverá",
-        "alt_en": "Top three mysteries Smile will solve"
-      },
-      {
-        "src": "https://www.esa.int/extension/pillars/design/pillars/images/play-button.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Como acompanhar o lançamento do Smile ao vivo",
-    "title_pt": "Como acompanhar o lançamento do Smile ao vivo",
-    "title_en": "How to follow the Smile launch live",
-    "sub": "***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema após a integração do lançador.",
-    "sub_pt": "***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema após a integração do lançador.",
-    "sub_en": "***Update 6 April 2026: launch postponed due to a technical issue occurred on a subsystem component production line after VV29 launcher integration, new launch date to be.",
-    "excerpt": "***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema após a integração do lançador VV29, nova data de lançamento a ser confirmada posteriormente, mais informações da.",
-    "excerpt_pt": "***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema após a integração do lançador VV29, nova data de lançamento a ser confirmada posteriormente, mais informações da.",
-    "excerpt_en": "***Update 6 April 2026: launch postponed due to a technical issue occurred on a subsystem component production line after VV29 launcher integration, new launch date to be confirmed at a later date, more information from Avio *** ESA will.",
-    "body": "<p>***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema após a integração do lançador VV29, nova data de lançamento a ser confirmada posteriormente, mais informações da Avio *** A ESA irá. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Sintonize a ESA Web TV diretamente ou através da transmissão ao vivo da ESA no YouTube para acompanhar o lançamento ao vivo. O programa de lançamento acontecerá das 08h10 às 09h45 CEST.</p><p>Um comunicado de imprensa da ESA será emitido quando for confirmado que os painéis solares da Smile foram implantados com sucesso, o que deverá acontecer às 09: 32 CEST. Siga @science. esa. int e @transport. esa. int (Bluesky) e @esascience e @ESA_transport (X) para cobertura detalhada ao vivo do lançamento do Smile.</p><p>Siga os marcos mais importantes e a ESA de forma mais geral em: Bluesky: @esa. int X: @ESA Instagram: Europeanspaceagency TikTok: europeanspaceagency YouTube: ESA Facebook.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema após a integração do lançador VV29, nova data de lançamento a ser confirmada posteriormente, mais informações da Avio *** A ESA irá. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Sintonize a ESA Web TV diretamente ou através da transmissão ao vivo da ESA no YouTube para acompanhar o lançamento ao vivo. O programa de lançamento acontecerá das 08h10 às 09h45 CEST.</p><p>Um comunicado de imprensa da ESA será emitido quando for confirmado que os painéis solares da Smile foram implantados com sucesso, o que deverá acontecer às 09: 32 CEST. Siga @science. esa. int e @transport. esa. int (Bluesky) e @esascience e @ESA_transport (X) para cobertura detalhada ao vivo do lançamento do Smile.</p><p>Siga os marcos mais importantes e a ESA de forma mais geral em: Bluesky: @esa. int X: @ESA Instagram: Europeanspaceagency TikTok: europeanspaceagency YouTube: ESA Facebook.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>***Update 6 April 2026: launch postponed due to a technical issue occurred on a subsystem component production line after VV29 launcher integration, new launch date to be confirmed at a later date, more information from Avio *** ESA will. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Tune into ESA Web TV directly or via the ESA YouTube livestream to follow the launch live. The launch programme will run from 08: 10, 09: 45 CEST.</p><p>An ESA press release will be issued when it is confirmed that Smile’s solar arrays have successfully deployed, which is expected to happen at 09: 32 CEST. Follow @science. esa. int and @transport. esa. int (Bluesky) and @esascience and @ESA_transport (X) for detailed live coverage of the Smile launch.</p><p>Follow the most important milestones and ESA more generally on: Bluesky: @esa. int X: @ESA Instagram: Europeanspaceagency TikTok: europeanspaceagency YouTube: ESA Facebook. These engine burns will gradually elongate Smile’s orbit around Earth’s poles, until it is reaching 121 000 km above the North Pole and 5000 km above the South Pole.</p><p>Once Smile has arrived in this final operational orbit, the mission team will prepare the spacecraft for science. About three months after launch, the team will receive the first X-ray and ultraviolet images, and then finally begin the science that Smile is designed to do.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Smile (the Solar wind Magnetosphere Ionosphere Link Explorer) is a joint mission between the European Space Agency (ESA) and the Chinese Academy of Sciences (CAS). Smile will use four science instruments to study how Earth responds to the solar wind from the Sun.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: ***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema após.",
-      "Dado-chave: ***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: ***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema após.",
-      "Dado-chave: ***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: ***Update 6 April 2026: launch postponed due to a technical issue occurred on a subsystem component production line after VV29 launcher integration.",
-      "Key detail: ***Update 6 April 2026: launch postponed due to a technical issue occurred on a subsystem component production line after VV29 launcher.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "02 abr 2026",
-    "date_pt": "02 abr 2026",
-    "date_en": "02 Apr 2026",
-    "time": "15h00",
-    "time_pt": "15h00",
-    "time_en": "15:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-02T15:00:00+00:00",
-    "lastModifiedIso": "2026-04-02T15:00:00+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www.esa.int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Como acompanhar o lançamento do Smile ao vivo"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Como acompanhar o lançamento do Smile ao vivo"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Space Science",
-      "Cosmos Week",
-      "How to follow the launch of Smile live"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=how-to-follow-the-smile-launch-live",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=how-to-follow-the-smile-launch-live",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=how-to-follow-the-smile-launch-live&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 13,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1549,7 +1422,7 @@ window.postsData = [
     }
   },
   {
-    "id": 14,
+    "id": 13,
     "slug": "science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1688,7 +1561,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 14,
     "slug": "astronomers-discover-andromeda-xxxvi-an-ultra-faint-dwarf-satellite-galaxy",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1824,7 +1697,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 15,
     "slug": "first-close-pair-of-supermassive-black-holes-detected",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1957,7 +1830,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 16,
     "slug": "why-are-supermassive-black-holes-growing-so-slowly",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2094,7 +1967,7 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 17,
     "slug": "astronomers-play-april-fool-s",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2227,7 +2100,7 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
+    "id": 18,
     "slug": "hot-jupiter-orbiting-a-metal-poor-star-discovered",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2360,7 +2233,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 19,
     "slug": "the-largest-survey-of-exoplanet-spins-confirms-a-long-held-theory",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2488,7 +2361,7 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
+    "id": 20,
     "slug": "scouring-tess-data-with-ai-reveals-a-hundred-new-exoplanets",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2612,7 +2485,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 21,
     "slug": "nsf-launches-100m-national-quantum-and-nanotechnology-research-infrastructure-program",
     "cat": "Física",
     "catCls": "fisica",
@@ -2745,7 +2618,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 22,
     "slug": "nsf-and-ukri-launch-10m-quantum-chemistry-collaborative-research-effort",
     "cat": "Física",
     "catCls": "fisica",
@@ -2878,7 +2751,7 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
+    "id": 23,
     "slug": "nasa-to-host-media-call-with-artemis-ii-crew-on-way-home-from-moon",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2980,6 +2853,111 @@ window.postsData = [
       "relevance": 80,
       "accessibility": 60,
       "novelty": 52
+    }
+  },
+  {
+    "id": 24,
+    "slug": "how-to-follow-the-smile-launch-live",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/smile_lifts_off_into_space_artist_impression/27126092-1-eng-GB/Smile_lifts_off_into_space_artist_impression_card_full.png",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Como acompanhar o lançamento do Smile ao vivo",
+    "title_pt": "Como acompanhar o lançamento do Smile ao vivo",
+    "title_en": "How to follow the Smile launch live",
+    "sub": "***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema após a integração do lançador.",
+    "sub_pt": "***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema após a integração do lançador.",
+    "sub_en": "***Update 6 April 2026: launch postponed due to a technical issue occurred on a subsystem component production line after VV29 launcher integration, new launch date to be.",
+    "excerpt": "***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema após a integração do lançador VV29, nova data de lançamento a ser confirmada posteriormente, mais informações da.",
+    "excerpt_pt": "***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema após a integração do lançador VV29, nova data de lançamento a ser confirmada posteriormente, mais informações da.",
+    "excerpt_en": "***Update 6 April 2026: launch postponed due to a technical issue occurred on a subsystem component production line after VV29 launcher integration, new launch date to be confirmed at a later date, more information from Avio *** ESA will.",
+    "body": "<p>***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema após a integração do lançador VV29, nova data de lançamento a ser confirmada posteriormente, mais informações da Avio *** A ESA irá. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Smile será lançado em um foguete europeu Vega-C a partir do porto espacial europeu na Guiana Francesa. Horários sujeitos a alterações em curto prazo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema após a integração do lançador VV29, nova data de lançamento a ser confirmada posteriormente, mais informações da Avio *** A ESA irá. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Smile será lançado em um foguete europeu Vega-C a partir do porto espacial europeu na Guiana Francesa. Horários sujeitos a alterações em curto prazo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>***Update 6 April 2026: launch postponed due to a technical issue occurred on a subsystem component production line after VV29 launcher integration, new launch date to be confirmed at a later date, more information from Avio *** ESA will. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Smile will launch on a European Vega-C rocket from Europe’s Spaceport in French Guiana. Times subject to change at short notice.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: ***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema após.",
+      "Dado-chave: ***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: ***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema após.",
+      "Dado-chave: ***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: ***Update 6 April 2026: launch postponed due to a technical issue occurred on a subsystem component production line after VV29 launcher integration.",
+      "Key detail: ***Update 6 April 2026: launch postponed due to a technical issue occurred on a subsystem component production line after VV29 launcher.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "02 abr 2026",
+    "date_pt": "02 abr 2026",
+    "date_en": "02 Apr 2026",
+    "time": "15h00",
+    "time_pt": "15h00",
+    "time_en": "15:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-02T15:00:00+00:00",
+    "lastModifiedIso": "2026-04-02T15:00:00+00:00",
+    "source": "ESA Space Science",
+    "sourceDomain": "www.esa.int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Como acompanhar o lançamento do Smile ao vivo"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Como acompanhar o lançamento do Smile ao vivo"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Space Science",
+      "Cosmos Week",
+      "How to follow the launch of Smile live"
+    ],
+    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=how-to-follow-the-smile-launch-live",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=how-to-follow-the-smile-launch-live",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=how-to-follow-the-smile-launch-live&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 90,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 46
     }
   },
   {
@@ -3765,9 +3743,9 @@ window.postsData = [
     "excerpt": "A Agência Espacial Europeia reagiu prontamente à descoberta do cometa 3I/ATLAS em 1 de julho de 2025. Pouco depois de terem sido alertados para a sua existência por sistemas de deteção automatizados, os astrónomos da ESA começaram a utilizar telescópios.",
     "excerpt_pt": "A Agência Espacial Europeia reagiu prontamente à descoberta do cometa 3I/ATLAS em 1 de julho de 2025. Pouco depois de terem sido alertados para a sua existência por sistemas de deteção automatizados, os astrónomos da ESA começaram a utilizar telescópios.",
     "excerpt_en": "The European Space Agency reacted promptly to the discovery of comet 3I/ATLAS on 1 July 2025. Soon after they were alerted to its existence by automated detection systems, ESA astronomers began using ground-based telescopes in Hawaii.",
-    "body": "<p>A Agência Espacial Europeia reagiu prontamente à descoberta do cometa 3I/ATLAS em 1 de julho de 2025. Pouco depois de terem sido alertados para a sua existência por sistemas de deteção automatizados, os astrónomos da ESA começaram a utilizar telescópios terrestres no Havai. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Desde então, o cometa tem sido observado por telescópios espaciais próximos à Terra, incluindo o Telescópio Espacial Hubble da NASA/ESA, o Telescópio Espacial James Webb da. Siga os links abaixo para mais informações.</p><p>A Agência Espacial Europeia (ESA) reagiu prontamente à descoberta do cometa 3I/ATLAS em 1 de julho de 2025. Pouco depois de terem sido alertados para a sua existência por sistemas de detecção automatizados, os astrónomos da ESA começaram a usar telescópios terrestres no Havai, no Chile.</p><p>Em outubro e novembro de 2025, a ESA direcionou os viajantes interplanetários Mars Express, ExoMars Trace Gas Orbiter e Jupiter Icy Moons Explorer (Juice) na direção do cometa.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_observations_of_interstellar_comet_3I_ATLAS\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A Agência Espacial Europeia reagiu prontamente à descoberta do cometa 3I/ATLAS em 1 de julho de 2025. Pouco depois de terem sido alertados para a sua existência por sistemas de deteção automatizados, os astrónomos da ESA começaram a utilizar telescópios terrestres no Havai. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Desde então, o cometa tem sido observado por telescópios espaciais próximos à Terra, incluindo o Telescópio Espacial Hubble da NASA/ESA, o Telescópio Espacial James Webb da. Siga os links abaixo para mais informações.</p><p>A Agência Espacial Europeia (ESA) reagiu prontamente à descoberta do cometa 3I/ATLAS em 1 de julho de 2025. Pouco depois de terem sido alertados para a sua existência por sistemas de detecção automatizados, os astrónomos da ESA começaram a usar telescópios terrestres no Havai, no Chile.</p><p>Em outubro e novembro de 2025, a ESA direcionou os viajantes interplanetários Mars Express, ExoMars Trace Gas Orbiter e Jupiter Icy Moons Explorer (Juice) na direção do cometa.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_observations_of_interstellar_comet_3I_ATLAS\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency reacted promptly to the discovery of comet 3I/ATLAS on 1 July 2025. Soon after they were alerted to its existence by automated detection systems, ESA astronomers began using ground-based telescopes in Hawaii. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Since then, the comet has been observed by space telescopes close to Earth, including the NASA/ESA Hubble Space Telescope, the NASA/ESA/CSA James Webb Space Telescope. Follow the links below for more information.</p><p>The European Space Agency (ESA) reacted promptly to the discovery of comet 3I/ATLAS on 1 July 2025. Soon after they were alerted to its existence by automated detection systems, ESA astronomers began using ground-based telescopes in Hawaii, Chile, and Australia to monitor its.</p><p>Since then, the comet has been observed by space telescopes close to Earth, including the NASA/ESA Hubble Space Telescope, the NASA/ESA/CSA James Webb Space Telescope, XMM-Newton. In October and November 2025, ESA turned interplanetary voyagers Mars Express, ExoMars Trace Gas Orbiter and the Jupiter Icy Moons Explorer ( Juice ) in the direction of the comet.</p><p>The data from Juice has recently arrived on Earth and scientists are busy analysing them to see what they reveal. You have already liked this page, you can only like it once.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_observations_of_interstellar_comet_3I_ATLAS\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A Agência Espacial Europeia reagiu prontamente à descoberta do cometa 3I/ATLAS em 1 de julho de 2025. Pouco depois de terem sido alertados para a sua existência por sistemas de deteção automatizados, os astrónomos da ESA começaram a utilizar telescópios terrestres no Havai. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Desde então, o cometa tem sido observado por telescópios espaciais próximos à Terra, incluindo o Telescópio Espacial Hubble da NASA/ESA, o Telescópio Espacial James Webb da. A Agência Espacial Europeia (ESA) reagiu prontamente à descoberta do cometa 3I/ATLAS em 1 de julho de 2025.</p><p>Pouco depois de terem sido alertados para a sua existência por sistemas de detecção automatizados, os astrónomos da ESA começaram a usar telescópios terrestres no Havai, no Chile. Em outubro e novembro de 2025, a ESA direcionou os viajantes interplanetários Mars Express, ExoMars Trace Gas Orbiter e Jupiter Icy Moons Explorer (Juice) na direção do cometa.</p><p>Os dados do Juice chegaram recentemente à Terra e os cientistas estão ocupados analisando-os para ver o que revelam.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_observations_of_interstellar_comet_3I_ATLAS\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Agência Espacial Europeia reagiu prontamente à descoberta do cometa 3I/ATLAS em 1 de julho de 2025. Pouco depois de terem sido alertados para a sua existência por sistemas de deteção automatizados, os astrónomos da ESA começaram a utilizar telescópios terrestres no Havai. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Desde então, o cometa tem sido observado por telescópios espaciais próximos à Terra, incluindo o Telescópio Espacial Hubble da NASA/ESA, o Telescópio Espacial James Webb da. A Agência Espacial Europeia (ESA) reagiu prontamente à descoberta do cometa 3I/ATLAS em 1 de julho de 2025.</p><p>Pouco depois de terem sido alertados para a sua existência por sistemas de detecção automatizados, os astrónomos da ESA começaram a usar telescópios terrestres no Havai, no Chile. Em outubro e novembro de 2025, a ESA direcionou os viajantes interplanetários Mars Express, ExoMars Trace Gas Orbiter e Jupiter Icy Moons Explorer (Juice) na direção do cometa.</p><p>Os dados do Juice chegaram recentemente à Terra e os cientistas estão ocupados analisando-os para ver o que revelam.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_observations_of_interstellar_comet_3I_ATLAS\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency reacted promptly to the discovery of comet 3I/ATLAS on 1 July 2025. Soon after they were alerted to its existence by automated detection systems, ESA astronomers began using ground-based telescopes in Hawaii. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Since then, the comet has been observed by space telescopes close to Earth, including the NASA/ESA Hubble Space Telescope, the NASA/ESA/CSA James Webb Space Telescope. The European Space Agency (ESA) reacted promptly to the discovery of comet 3I/ATLAS on 1 July 2025.</p><p>Soon after they were alerted to its existence by automated detection systems, ESA astronomers began using ground-based telescopes in Hawaii, Chile, and Australia to monitor its. Since then, the comet has been observed by space telescopes close to Earth, including the NASA/ESA Hubble Space Telescope, the NASA/ESA/CSA James Webb Space Telescope, XMM-Newton.</p><p>In October and November 2025, ESA turned interplanetary voyagers Mars Express, ExoMars Trace Gas Orbiter and the Jupiter Icy Moons Explorer ( Juice ) in the direction of the comet. The data from Juice has recently arrived on Earth and scientists are busy analysing them to see what they reveal.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_observations_of_interstellar_comet_3I_ATLAS\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A Agência Espacial Europeia reagiu prontamente à descoberta do cometa 3I/ATLAS em 1 de julho de 2025. Pouco depois de terem sido alertados para a sua.",
       "Dado-chave: Desde então, o cometa tem sido observado por telescópios espaciais próximos à Terra, incluindo o Telescópio Espacial Hubble da NASA/ESA, o.",
@@ -4124,40 +4102,8 @@ window.postsData = [
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/esa_education_s_moon_camp_and_mission_x_school_projects/27190666-5-eng-GB/ESA_Education_s_Moon_Camp_and_Mission_X_School_Projects_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/luna_and_leo_-_earth/27191717-1-eng-GB/Luna_and_Leo_-_Earth_article.png",
-        "caption": "Luna e Leo pela Terra",
-        "caption_pt": "Luna e Leo pela Terra",
-        "caption_en": "Luna and Leo by Earth",
-        "alt": "Luna e Leo pela Terra",
-        "alt_pt": "Luna e Leo pela Terra",
-        "alt_en": "Luna and Leo by Earth"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/earthset_captured_through_the_orion_spacecraft_window_at_6_41_p.m._edt_april_6_2026_during_the_artemis_ii_crew_s_flyby_of_the_moon./27192482-1-eng-GB/Earthset_captured_through_the_Orion_spacecraft_window_at_6_41_p.m._EDT_April_6_2026_during_the_Artemis_II_crew_s_flyby_of_the_Moon._article.jpg",
-        "caption": "Earthset capturado pela janela da espaçonave Orion às 18h41. EDT, 6 de abril de 2026, durante o sobrevoo da tripulação do Artemis II pela Lua.",
-        "caption_pt": "Earthset capturado pela janela da espaçonave Orion às 18h41. EDT, 6 de abril de 2026, durante o sobrevoo da tripulação do Artemis II pela Lua.",
-        "caption_en": "Earthset captured through the Orion spacecraft window at 6:41 p.m. EDT, April 6, 2026, during the Artemis II crew’s flyby of the Moon.",
-        "alt": "Earthset capturado pela janela da espaçonave Orion às 18h41. EDT, 6 de abril de 2026, durante o sobrevoo da tripulação do Artemis II pela Lua.",
-        "alt_pt": "Earthset capturado pela janela da espaçonave Orion às 18h41. EDT, 6 de abril de 2026, durante o sobrevoo da tripulação do Artemis II pela Lua.",
-        "alt_en": "Earthset captured through the Orion spacecraft window at 6:41 p.m. EDT, April 6, 2026, during the Artemis II crew’s flyby of the Moon."
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/2-hyaa1mibi",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis"
-    },
+    "inline_images": [],
+    "video": null,
     "audio": null,
     "title": "Siga os passos de Ártemis",
     "title_pt": "Siga os passos de Ártemis",
@@ -4168,9 +4114,9 @@ window.postsData = [
     "excerpt": "No dia 6 de Abril de 2026, a Missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar?.",
     "excerpt_pt": "No dia 6 de Abril de 2026, a Missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar?.",
     "excerpt_en": "On 6 April 2026, NASA’s Artemis II Mission, powered by ESA’s European Service Module, brought humans further than ever before. But how do future astronauts train to live on the Moon, and what kind of lunar base could they create? That’s.",
-    "body": "<p>No dia 6 de Abril de 2026, a Missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar? Isso é. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. No dia 6 de Abril de 2026, a Missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar.</p><p>Treine como um astronauta com o projeto Mission X Astronautas, como Christina Koch, a primeira mulher em uma missão lunar, devem treinar duro para se prepararem para suas missões. Seguindo os passos destes corajosos astronautas, os alunos podem trazer os mascotes da Missão X, Luna e Leo, para mais perto da Lua.</p><p>Ao se colocarem no lugar, os alunos podem treinar como astronautas e realizar uma ampla gama de atividades, até mesmo praticando para sua própria jornada ao espaço. Desde a compreensão da nutrição até aprender como se manter forte no espaço e na Terra, as atividades da Missão X podem levá-lo à Lua.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>No dia 6 de Abril de 2026, a Missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar? Isso é. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. No dia 6 de Abril de 2026, a Missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar.</p><p>Treine como um astronauta com o projeto Mission X Astronautas, como Christina Koch, a primeira mulher em uma missão lunar, devem treinar duro para se prepararem para suas missões. Seguindo os passos destes corajosos astronautas, os alunos podem trazer os mascotes da Missão X, Luna e Leo, para mais perto da Lua.</p><p>Ao se colocarem no lugar, os alunos podem treinar como astronautas e realizar uma ampla gama de atividades, até mesmo praticando para sua própria jornada ao espaço. Desde a compreensão da nutrição até aprender como se manter forte no espaço e na Terra, as atividades da Missão X podem levá-lo à Lua.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>On 6 April 2026, NASA’s Artemis II Mission, powered by ESA’s European Service Module, brought humans further than ever before. But how do future astronauts train to live on the Moon, and what kind of lunar base could they create? That’s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. On 6 April 2026, NASA’s Artemis II Mission, powered by ESA’s European Service Module (ESM), brought humans further than ever before. But how do future astronauts train to live on the Moon, and what kind of lunar base could they create.</p><p>Train like an astronaut with the Mission X project Astronauts, like Christina Koch, the first woman on a lunar mission, must train hard to prepare for their space missions. Following in the footsteps of these brave astronauts, students can bring Mission X’s mascots, Luna and Leo, closer to the Moon.</p><p>By stepping into their shoes, students can train like an astronaut and complete a wide range of activities, even practising for their own journey to space. From understanding nutrition to learning how to stay strong in space and on Earth, Mission X activities can take you to the Moon.</p><p>Artemis will bring astronauts to the Moon using Europe’s European Service Module (ESM), which gives air, water, and power to Artemis’ astronauts. With the Moon Camp project, students can design a habitat on the Moon using a tool of their choice from arts and crafts to 3D design, robotics, and game-based applications.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>By designing a habitat on the moon, students can take a glimpse into the design of a future lunar base. Start your journey to the moon today with Moon Camp and Mission X.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>No dia 6 de Abril de 2026, a Missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar? Isso é. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. No dia 6 de Abril de 2026, a Missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>No dia 6 de Abril de 2026, a Missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar? Isso é. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. No dia 6 de Abril de 2026, a Missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>On 6 April 2026, NASA’s Artemis II Mission, powered by ESA’s European Service Module, brought humans further than ever before. But how do future astronauts train to live on the Moon, and what kind of lunar base could they create? That’s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. On 6 April 2026, NASA’s Artemis II Mission, powered by ESA’s European Service Module (ESM), brought humans further than ever before. But how do future astronauts train to live on the Moon, and what kind of lunar base could they create.</p><p>That’s where school students like you can come in.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: No dia 6 de Abril de 2026, a Missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que.",
       "Dado-chave: No dia 6 de Abril de 2026, a Missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os humanos mais longe do.",
@@ -4809,35 +4755,7 @@ window.postsData = [
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/artemis_ii_launch/27185038-3-eng-GB/Artemis_II_launch_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/artemis_ii_proximity_operations/27124663-1-eng-GB/Artemis_II_proximity_operations_article.jpg",
-        "caption": "Operações de proximidade Artemis II usando os motores do Módulo de Serviço Europeu após a separação do segundo estágio do foguete",
-        "caption_pt": "Operações de proximidade Artemis II usando os motores do Módulo de Serviço Europeu após a separação do segundo estágio do foguete",
-        "caption_en": "Artemis II proximity operations using the European Service Module's engines after separation from rocket second stage",
-        "alt": "Operações de proximidade Artemis II usando o Módulo de Serviço Europeu",
-        "alt_pt": "Operações de proximidade Artemis II usando o Módulo de Serviço Europeu",
-        "alt_en": "Artemis II proximity operations using the European Service Module"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/artemis_ii_orion_and_its_european_service_module_head_back_to_earth/27124868-1-eng-GB/Artemis_II_Orion_and_its_European_Service_Module_head_back_to_Earth_article.jpg",
-        "caption": "Artemis II: Orion e seu Módulo de Serviço Europeu voltam à Terra",
-        "caption_pt": "Artemis II: Orion e seu Módulo de Serviço Europeu voltam à Terra",
-        "caption_en": "Artemis II: Orion and its European Service Module head back to Earth",
-        "alt": "Artemis II: Orion e seu Módulo de Serviço Europeu voltam à Terra",
-        "alt_pt": "Artemis II: Orion e seu Módulo de Serviço Europeu voltam à Terra",
-        "alt_en": "Artemis II: Orion and its European Service Module head back to Earth"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/artemis_ii_crew_and_service_module_separate/27124962-1-eng-GB/Artemis_II_crew_and_service_module_separate_article.jpg",
-        "caption": "Artemis II: tripulação e módulo de serviço se separam pouco antes da reentrada na atmosfera terrestre",
-        "caption_pt": "Artemis II: tripulação e módulo de serviço se separam pouco antes da reentrada na atmosfera terrestre",
-        "caption_en": "Artemis II: crew and service module separate shortly before reentry into Earth's atmosphere",
-        "alt": "Artemis II: tripulação e módulo de serviço se separam pouco antes da reentrada na Terra",
-        "alt_pt": "Artemis II: tripulação e módulo de serviço se separam pouco antes da reentrada na Terra",
-        "alt_en": "Artemis II: crew and service module separate shortly before reentry into Earth"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "A missão Artemis II começa",
@@ -4849,9 +4767,9 @@ window.postsData = [
     "excerpt": "35 CEST de hoje, o foguete do Sistema de Lançamento Espacial da NASA decolou do Centro Espacial Kennedy, na Flórida, transportando quatro astronautas a bordo da espaçonave Orion no Artemis II. No centro da missão está o Módulo de Serviço Europeu da ESA, que.",
     "excerpt_pt": "35 CEST de hoje, o foguete do Sistema de Lançamento Espacial da NASA decolou do Centro Espacial Kennedy, na Flórida, transportando quatro astronautas a bordo da espaçonave Orion no Artemis II. No centro da missão está o Módulo de Serviço Europeu da ESA, que.",
     "excerpt_en": "35 CEST today, NASA's Space Launch System rocket lifted off from the Kennedy Space Center in Florida, carrying four astronauts aboard the Orion spacecraft on Artemis II. At the heart of the mission is ESA's European Service Module, which.",
-    "body": "<p>35 CEST de hoje, o foguete do Sistema de Lançamento Espacial da NASA decolou do Centro Espacial Kennedy, na Flórida, transportando quatro astronautas a bordo da espaçonave Orion no Artemis II. No centro da missão está o Módulo de Serviço Europeu da ESA, que. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Às 00h35 CEST de hoje (18h35 hora local de 1º de abril), o foguete do Sistema de Lançamento Espacial da NASA decolou do Centro Espacial Kennedy, na Flórida, transportando quatro. No centro da missão está o Módulo de Serviço Europeu da ESA, que alimenta, impulsiona e sustenta a nave espacial Orion e a sua tripulação na sua viagem à volta da Lua e de.</p><p>“Esta é a primeira vez que astronautas voam a bordo do Orion”, disse o Diretor Geral da ESA, Josef Aschbacher. A ESA orgulha-se de estar lado a lado com os seus parceiros internacionais, liderados pela NASA.</p><p>Juntos, demonstramos que a cooperação continua a ser o nosso motor mais poderoso para o futuro.” Nos próximos 10 dias, os astronautas da NASA Reid Wiseman, Victor Glover e. Cerca de 20 minutos após o lançamento, os painéis solares da Orion construídos na Europa são implantados, desdobrando-se no espaço para começar a fornecer eletricidade à nave.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_mission_begins\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>35 CEST de hoje, o foguete do Sistema de Lançamento Espacial da NASA decolou do Centro Espacial Kennedy, na Flórida, transportando quatro astronautas a bordo da espaçonave Orion no Artemis II. No centro da missão está o Módulo de Serviço Europeu da ESA, que. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Às 00h35 CEST de hoje (18h35 hora local de 1º de abril), o foguete do Sistema de Lançamento Espacial da NASA decolou do Centro Espacial Kennedy, na Flórida, transportando quatro. No centro da missão está o Módulo de Serviço Europeu da ESA, que alimenta, impulsiona e sustenta a nave espacial Orion e a sua tripulação na sua viagem à volta da Lua e de.</p><p>“Esta é a primeira vez que astronautas voam a bordo do Orion”, disse o Diretor Geral da ESA, Josef Aschbacher. A ESA orgulha-se de estar lado a lado com os seus parceiros internacionais, liderados pela NASA.</p><p>Juntos, demonstramos que a cooperação continua a ser o nosso motor mais poderoso para o futuro.” Nos próximos 10 dias, os astronautas da NASA Reid Wiseman, Victor Glover e. Cerca de 20 minutos após o lançamento, os painéis solares da Orion construídos na Europa são implantados, desdobrando-se no espaço para começar a fornecer eletricidade à nave.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_mission_begins\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>35 CEST today, NASA&#x27;s Space Launch System rocket lifted off from the Kennedy Space Center in Florida, carrying four astronauts aboard the Orion spacecraft on Artemis II. At the heart of the mission is ESA&#x27;s European Service Module, which. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. 35 CEST today (18: 35 local time on 1 April), NASA&#x27;s Space Launch System rocket lifted off from the Kennedy Space Center in Florida, carrying four astronauts aboard the Orion. At the heart of the mission is ESA&#x27;s European Service Module, which powers, propels and sustains the Orion spacecraft and its crew on their journey around the Moon and safely back.</p><p>“This is the first time astronauts are flying aboard Orion,” says ESA’s Director General Josef Aschbacher. ESA is proud to stand shoulder to shoulder with its international partners, led by NASA.</p><p>Together, we are demonstrating that cooperation remains our most powerful engine for the future.” Over the next 10 days, NASA astronauts Reid Wiseman, Victor Glover and Christina. Around 20 minutes after launch, Orion&#x27;s European-built solar arrays deploy, unfurling into space to begin supplying electricity to the spacecraft.</p><p>The crew then enters a high Earth orbit, where they spend the first day testing Orion&#x27;s systems and taking manual control of the spacecraft. Using the European Service Module&#x27;s 24 reaction control system engines, they practise manoeuvres needed for future docking operations.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>On the second day of the mission, the European Service Module&#x27;s main engine will ignite for the critical trans-lunar injection burn, sending Orion and its crew on a four-day. Throughout the voyage there and back, the module will continue to play a vital role, firing its smaller engines to fine-tune Orion&#x27;s trajectory where needed and ensure the.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_mission_begins\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>35 CEST de hoje, o foguete do Sistema de Lançamento Espacial da NASA decolou do Centro Espacial Kennedy, na Flórida, transportando quatro astronautas a bordo da espaçonave Orion no Artemis II. No centro da missão está o Módulo de Serviço Europeu da ESA, que. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Às 00h35 CEST de hoje (18h35 hora local de 1º de abril), o foguete do Sistema de Lançamento Espacial da NASA decolou do Centro Espacial Kennedy, na Flórida, transportando quatro. No centro da missão está o Módulo de Serviço Europeu da ESA, que alimenta, impulsiona e sustenta a nave espacial Orion e a sua tripulação na sua viagem à volta da Lua e de.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_mission_begins\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>35 CEST de hoje, o foguete do Sistema de Lançamento Espacial da NASA decolou do Centro Espacial Kennedy, na Flórida, transportando quatro astronautas a bordo da espaçonave Orion no Artemis II. No centro da missão está o Módulo de Serviço Europeu da ESA, que. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Às 00h35 CEST de hoje (18h35 hora local de 1º de abril), o foguete do Sistema de Lançamento Espacial da NASA decolou do Centro Espacial Kennedy, na Flórida, transportando quatro. No centro da missão está o Módulo de Serviço Europeu da ESA, que alimenta, impulsiona e sustenta a nave espacial Orion e a sua tripulação na sua viagem à volta da Lua e de.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_mission_begins\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>35 CEST today, NASA&#x27;s Space Launch System rocket lifted off from the Kennedy Space Center in Florida, carrying four astronauts aboard the Orion spacecraft on Artemis II. At the heart of the mission is ESA&#x27;s European Service Module, which. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. 35 CEST today (18: 35 local time on 1 April), NASA&#x27;s Space Launch System rocket lifted off from the Kennedy Space Center in Florida, carrying four astronauts aboard the Orion. At the heart of the mission is ESA&#x27;s European Service Module, which powers, propels and sustains the Orion spacecraft and its crew on their journey around the Moon and safely back.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_mission_begins\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: 35 CEST de hoje, o foguete do Sistema de Lançamento Espacial da NASA decolou do Centro Espacial Kennedy, na Flórida, transportando quatro astronautas.",
       "Dado-chave: Às 00h35 CEST de hoje (18h35 hora local de 1º de abril), o foguete do Sistema de Lançamento Espacial da NASA decolou do Centro Espacial Kennedy.",

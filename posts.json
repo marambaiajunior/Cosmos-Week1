@@ -38,14 +38,14 @@
     "date": "10 abr 2026",
     "date_pt": "10 abr 2026",
     "date_en": "10 Apr 2026",
-    "time": "22h52",
-    "time_pt": "22h52",
-    "time_en": "22:52 UTC",
+    "time": "23h48",
+    "time_pt": "23h48",
+    "time_en": "23:48 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-10T22:52:01.805657+00:00",
-    "lastModifiedIso": "2026-04-10T22:52:01.805657+00:00",
+    "publishedIso": "2026-04-10T23:48:37.405188+00:00",
+    "lastModifiedIso": "2026-04-10T23:48:37.405188+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -143,14 +143,14 @@
     "date": "10 abr 2026",
     "date_pt": "10 abr 2026",
     "date_en": "10 Apr 2026",
-    "time": "22h52",
-    "time_pt": "22h52",
-    "time_en": "22:52 UTC",
+    "time": "23h48",
+    "time_pt": "23h48",
+    "time_en": "23:48 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-10T22:52:01.805603+00:00",
-    "lastModifiedIso": "2026-04-10T22:52:01.805603+00:00",
+    "publishedIso": "2026-04-10T23:48:37.405132+00:00",
+    "lastModifiedIso": "2026-04-10T23:48:37.405132+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -248,14 +248,14 @@
     "date": "10 abr 2026",
     "date_pt": "10 abr 2026",
     "date_en": "10 Apr 2026",
-    "time": "22h52",
-    "time_pt": "22h52",
-    "time_en": "22:52 UTC",
+    "time": "23h48",
+    "time_pt": "23h48",
+    "time_en": "23:48 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-10T22:52:01.805557+00:00",
-    "lastModifiedIso": "2026-04-10T22:52:01.805557+00:00",
+    "publishedIso": "2026-04-10T23:48:37.405080+00:00",
+    "lastModifiedIso": "2026-04-10T23:48:37.405080+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -353,14 +353,14 @@
     "date": "10 abr 2026",
     "date_pt": "10 abr 2026",
     "date_en": "10 Apr 2026",
-    "time": "22h52",
-    "time_pt": "22h52",
-    "time_en": "22:52 UTC",
+    "time": "23h48",
+    "time_pt": "23h48",
+    "time_en": "23:48 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-10T22:52:01.805495+00:00",
-    "lastModifiedIso": "2026-04-10T22:52:01.805495+00:00",
+    "publishedIso": "2026-04-10T23:48:37.405014+00:00",
+    "lastModifiedIso": "2026-04-10T23:48:37.405014+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -458,14 +458,14 @@
     "date": "10 abr 2026",
     "date_pt": "10 abr 2026",
     "date_en": "10 Apr 2026",
-    "time": "22h52",
-    "time_pt": "22h52",
-    "time_en": "22:52 UTC",
+    "time": "23h48",
+    "time_pt": "23h48",
+    "time_en": "23:48 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-10T22:52:01.805436+00:00",
-    "lastModifiedIso": "2026-04-10T22:52:01.805436+00:00",
+    "publishedIso": "2026-04-10T23:48:37.404949+00:00",
+    "lastModifiedIso": "2026-04-10T23:48:37.404949+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -1570,6 +1570,216 @@
   },
   {
     "id": 14,
+    "slug": "stochastic-problems-in-pulsar-timing",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Neutron_star_collision.jpg/1280px-Neutron_star_collision.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Problemas estocásticos no tempo do pulsar",
+    "title_pt": "Problemas estocásticos no tempo do pulsar",
+    "title_en": "Stochastic problems in pulsar timing",
+    "sub": "As equações diferenciais estocásticas de Langevin fornecem uma descrição dinâmica do ruído de tempo do pulsar e dos sinais de fundo das ondas gravitacionais. Eles também são.",
+    "sub_pt": "As equações diferenciais estocásticas de Langevin fornecem uma descrição dinâmica do ruído de tempo do pulsar e dos sinais de fundo das ondas gravitacionais. Eles também são.",
+    "sub_en": "Langevin stochastic differential equations provide a dynamical description of pulsar timing noise and gravitational wave background signals. They are also central to state space.",
+    "excerpt": "As equações diferenciais estocásticas de Langevin fornecem uma descrição dinâmica do ruído de tempo do pulsar e dos sinais de fundo das ondas gravitacionais. Eles também são fundamentais para algoritmos de espaço de estado que ganharam força na matriz de.",
+    "excerpt_pt": "As equações diferenciais estocásticas de Langevin fornecem uma descrição dinâmica do ruído de tempo do pulsar e dos sinais de fundo das ondas gravitacionais. Eles também são fundamentais para algoritmos de espaço de estado que ganharam força na matriz de.",
+    "excerpt_en": "Langevin stochastic differential equations provide a dynamical description of pulsar timing noise and gravitational wave background signals. They are also central to state space algorithms that have gained traction in pulsar timing array.",
+    "body": "<p>As equações diferenciais estocásticas de Langevin fornecem uma descrição dinâmica do ruído de tempo do pulsar e dos sinais de fundo das ondas gravitacionais. Eles também são fundamentais para algoritmos de espaço de estado que ganharam força na matriz de temporização de pulsares. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Neste trabalho, utilizamos métodos estabelecidos na teoria da difusão para derivar soluções analíticas (médias, covariâncias e. As equações diferenciais estocásticas de Langevin fornecem uma descrição dinâmica do ruído de tempo do pulsar e dos sinais de fundo das ondas gravitacionais (GWB).</p><p>Eles também são centrais para algoritmos de espaço de estados que ganharam força na análise de matrizes de temporização de pulsares devido à sua escala computacional linear com o. Neste trabalho, utilizamos métodos estabelecidos na teoria da difusão para derivar soluções analíticas (médias, covariâncias e funções de densidade de probabilidade) para equações.</p><p>Como exemplo canônico, mostramos que a frequência de spin do pulsar modelada como um processo Ornstein-Uhlenbeck é matematicamente inconsistente com um sinal GWB estacionário. A não estacionariedade pode ser parcialmente resolvida marginalizando ao longo do tempo as tendências determinísticas nos dados.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2604.08373v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>As equações diferenciais estocásticas de Langevin fornecem uma descrição dinâmica do ruído de tempo do pulsar e dos sinais de fundo das ondas gravitacionais. Eles também são fundamentais para algoritmos de espaço de estado que ganharam força na matriz de temporização de pulsares. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Neste trabalho, utilizamos métodos estabelecidos na teoria da difusão para derivar soluções analíticas (médias, covariâncias e. As equações diferenciais estocásticas de Langevin fornecem uma descrição dinâmica do ruído de tempo do pulsar e dos sinais de fundo das ondas gravitacionais (GWB).</p><p>Eles também são centrais para algoritmos de espaço de estados que ganharam força na análise de matrizes de temporização de pulsares devido à sua escala computacional linear com o. Neste trabalho, utilizamos métodos estabelecidos na teoria da difusão para derivar soluções analíticas (médias, covariâncias e funções de densidade de probabilidade) para equações.</p><p>Como exemplo canônico, mostramos que a frequência de spin do pulsar modelada como um processo Ornstein-Uhlenbeck é matematicamente inconsistente com um sinal GWB estacionário. A não estacionariedade pode ser parcialmente resolvida marginalizando ao longo do tempo as tendências determinísticas nos dados.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2604.08373v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Langevin stochastic differential equations provide a dynamical description of pulsar timing noise and gravitational wave background signals. They are also central to state space algorithms that have gained traction in pulsar timing array. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. In this work, we utilize established methods in diffusion theory to derive analytical solutions (means, covariances, and. Langevin stochastic differential equations provide a dynamical description of pulsar timing noise and gravitational wave background (GWB) signals.</p><p>They are also central to state space algorithms that have gained traction in pulsar timing array analysis due to their linear computational scaling with the number of observations. In this work, we utilize established methods in diffusion theory to derive analytical solutions (means, covariances, and probability density functions) to Langevin equations.</p><p>As a canonical example, we show that the pulsar spin frequency modeled as an Ornstein-Uhlenbeck process is mathematically inconsistent with a stationary GWB signal when the timing. The nonstationarity can be partially dealt with by marginalizing over long time deterministic trends in the data.</p><p>Then, we show that a random process based on an overdamped harmonic oscillator supports both a stationary spin frequency and phase residuals, consistent with a stationary GWB. We also turn our attention to a phenomenological model of a neutron star -- a two-component model with spin wandering -- that has been motivated to explain observed timing noise.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>We derive analytical expressions for the means, covariances, and cross-covariances of the crust and superfluid rotational states driven by white noise. The associated constant deterministic torques are linked to the quadratic spin-down of pulsars.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2604.08373v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: As equações diferenciais estocásticas de Langevin fornecem uma descrição dinâmica do ruído de tempo do pulsar e dos sinais de fundo das ondas.",
+      "Dado-chave: Neste trabalho, utilizamos métodos estabelecidos na teoria da difusão para derivar soluções analíticas (médias, covariâncias e.",
+      "Resultado ainda sem revisão por pares."
+    ],
+    "highlights_pt": [
+      "Ponto central: As equações diferenciais estocásticas de Langevin fornecem uma descrição dinâmica do ruído de tempo do pulsar e dos sinais de fundo das ondas.",
+      "Dado-chave: Neste trabalho, utilizamos métodos estabelecidos na teoria da difusão para derivar soluções analíticas (médias, covariâncias e.",
+      "Resultado ainda sem revisão por pares."
+    ],
+    "highlights_en": [
+      "Core point: Langevin stochastic differential equations provide a dynamical description of pulsar timing noise and gravitational wave background signals. They are.",
+      "Key detail: In this work, we utilize established methods in diffusion theory to derive analytical solutions (means, covariances, and.",
+      "Result not yet peer reviewed."
+    ],
+    "date": "09 abr 2026",
+    "date_pt": "09 abr 2026",
+    "date_en": "09 Apr 2026",
+    "time": "15h35",
+    "time_pt": "15h35",
+    "time_en": "15:35 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-09T15:35:35+00:00",
+    "lastModifiedIso": "2026-04-09T15:35:35+00:00",
+    "source": "arXiv High Energy Astrophysics",
+    "sourceDomain": "arxiv.org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint ainda sem revisão por pares.",
+    "sourceNote_pt": "Preprint ainda sem revisão por pares.",
+    "sourceNote_en": "Preprint not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "watch",
+    "editorialBandLabel": "Leitura monitorada",
+    "editorialBandLabel_pt": "Leitura monitorada",
+    "editorialBandLabel_en": "Watchlist",
+    "keywords": [
+      "Astrofísica",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Problemas estocásticos no tempo do pulsar"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Problemas estocásticos no tempo do pulsar"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Stochastic problems without pressing time"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2604.08373v1",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=stochastic-problems-in-pulsar-timing",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=stochastic-problems-in-pulsar-timing",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=stochastic-problems-in-pulsar-timing&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 67,
+    "scoreBreakdown": {
+      "source": 54,
+      "evidence": 64,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 15,
+    "slug": "a-statistical-ai-framework-for-detecting-transient-flares-in-sdss-stripe-82-quasar-light-curves",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/1280px-Black_hole_-_Messier_87_crop_max_res.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Uma estrutura estatística de IA para detectar explosões transitórias em curvas de luz Quasar SDSS Stripe 82",
+    "title_pt": "Uma estrutura estatística de IA para detectar explosões transitórias em curvas de luz Quasar SDSS Stripe 82",
+    "title_en": "A Statistical-AI Framework for Detecting Transient Flares in SDSS Stripe 82 Quasar Light Curves",
+    "sub": "Os quasares exibem variabilidade estocástica entre comprimentos de onda, normalmente bem descrita por um Damped Random Walk. No entanto, mudanças extremas de luminosidade.",
+    "sub_pt": "Os quasares exibem variabilidade estocástica entre comprimentos de onda, normalmente bem descrita por um Damped Random Walk. No entanto, mudanças extremas de luminosidade.",
+    "sub_en": "Quasars exhibit stochastic variability across wavelengths, typically well-described by a Damped Random Walk. However, extreme luminosity changes, known as quasar flares, represent.",
+    "excerpt": "Os quasares exibem variabilidade estocástica entre comprimentos de onda, normalmente bem descrita por um Damped Random Walk. No entanto, mudanças extremas de luminosidade, conhecidas como erupções de quasar, representam desvios significativos desta linha de.",
+    "excerpt_pt": "Os quasares exibem variabilidade estocástica entre comprimentos de onda, normalmente bem descrita por um Damped Random Walk. No entanto, mudanças extremas de luminosidade, conhecidas como erupções de quasar, representam desvios significativos desta linha de.",
+    "excerpt_en": "Quasars exhibit stochastic variability across wavelengths, typically well-described by a Damped Random Walk. However, extreme luminosity changes, known as quasar flares, represent significant departures from this baseline and offer crucial.",
+    "body": "<p>Os quasares exibem variabilidade estocástica entre comprimentos de onda, normalmente bem descrita por um Damped Random Walk. No entanto, mudanças extremas de luminosidade, conhecidas como erupções de quasar, representam desvios significativos desta linha de base e são cruciais. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Embora pesquisas transitórias tenham estimulado o interesse na detecção de flares, uma pesquisa sistemática dentro do SDSS legado. Os quasares exibem variabilidade estocástica entre comprimentos de onda, normalmente bem descrita por um Damped Random Walk (DRW).</p><p>No entanto, mudanças extremas de luminosidade, conhecidas como erupções de quasar, representam desvios significativos desta linha de base e oferecem informações cruciais sobre a. Embora pesquisas transitórias tenham estimulado o interesse na detecção de explosões, uma pesquisa sistemática no conjunto de dados legado SDSS Stripe 82, contendo 9.258 quasares.</p><p>O principal desafio estatístico reside em distinguir estes eventos raros do ruído intrínseco sempre presente. Para resolver isso, apresentamos FLARE (detecção de flares por meio de aprendizagem informada pela física, pontuação de anomalias e mecanismo de reconhecimento), uma estrutura.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2604.08196v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os quasares exibem variabilidade estocástica entre comprimentos de onda, normalmente bem descrita por um Damped Random Walk. No entanto, mudanças extremas de luminosidade, conhecidas como erupções de quasar, representam desvios significativos desta linha de base e são cruciais. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Embora pesquisas transitórias tenham estimulado o interesse na detecção de flares, uma pesquisa sistemática dentro do SDSS legado. Os quasares exibem variabilidade estocástica entre comprimentos de onda, normalmente bem descrita por um Damped Random Walk (DRW).</p><p>No entanto, mudanças extremas de luminosidade, conhecidas como erupções de quasar, representam desvios significativos desta linha de base e oferecem informações cruciais sobre a. Embora pesquisas transitórias tenham estimulado o interesse na detecção de explosões, uma pesquisa sistemática no conjunto de dados legado SDSS Stripe 82, contendo 9.258 quasares.</p><p>O principal desafio estatístico reside em distinguir estes eventos raros do ruído intrínseco sempre presente. Para resolver isso, apresentamos FLARE (detecção de flares por meio de aprendizagem informada pela física, pontuação de anomalias e mecanismo de reconhecimento), uma estrutura.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2604.08196v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Quasars exhibit stochastic variability across wavelengths, typically well-described by a Damped Random Walk. However, extreme luminosity changes, known as quasar flares, represent significant departures from this baseline and offer crucial. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. While transient surveys have spurred interest in flare detection, a systematic search within the legacy SDSS. Quasars exhibit stochastic variability across wavelengths, typically well-described by a Damped Random Walk (DRW).</p><p>However, extreme luminosity changes, known as quasar flares, represent significant departures from this baseline and offer crucial insights into accretion disc dynamics and the. While transient surveys have spurred interest in flare detection, a systematic search within the legacy SDSS Stripe 82 dataset -- containing 9,258 confirmed quasars -- has not yet.</p><p>The primary statistical challenge lies in distinguishing these rare events from ever-present intrinsic noise. To address this, we present FLARE (Flare detection via physics-informed Learning, Anomaly scoring, and Recognition Engine), a generalized three-stage framework for detecting.</p><p>FLARE operates by modeling baseline DRW behavior, applying anomaly scoring to flag potential flares, and utilizing a recognition engine to verify candidates. For Stripe 82, we implement this framework using a physics-informed probabilistic Gated Recurrent Unit (GRU) for baseline modeling, Extreme Value Theory (EVT) for anomaly.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Detection is executed on r-band light curves, with candidates cross-checked against g-band data to definitively rule out instrumental artifacts. Applying this pipeline, we successfully identify 27 quasars exhibiting distinct flaring activity.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2604.08196v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os quasares exibem variabilidade estocástica entre comprimentos de onda, normalmente bem descrita por um Damped Random Walk. No entanto, mudanças.",
+      "Dado-chave: Embora pesquisas transitórias tenham estimulado o interesse na detecção de flares, uma pesquisa sistemática dentro do SDSS legado.",
+      "Resultado ainda sem revisão por pares."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os quasares exibem variabilidade estocástica entre comprimentos de onda, normalmente bem descrita por um Damped Random Walk. No entanto, mudanças.",
+      "Dado-chave: Embora pesquisas transitórias tenham estimulado o interesse na detecção de flares, uma pesquisa sistemática dentro do SDSS legado.",
+      "Resultado ainda sem revisão por pares."
+    ],
+    "highlights_en": [
+      "Core point: Quasars exhibit stochastic variability across wavelengths, typically well-described by a Damped Random Walk. However, extreme luminosity changes.",
+      "Key detail: While transient surveys have spurred interest in flare detection, a systematic search within the legacy SDSS.",
+      "Result not yet peer reviewed."
+    ],
+    "date": "09 abr 2026",
+    "date_pt": "09 abr 2026",
+    "date_en": "09 Apr 2026",
+    "time": "12h52",
+    "time_pt": "12h52",
+    "time_en": "12:52 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-09T12:52:30+00:00",
+    "lastModifiedIso": "2026-04-09T12:52:30+00:00",
+    "source": "arXiv High Energy Astrophysics",
+    "sourceDomain": "arxiv.org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint ainda sem revisão por pares.",
+    "sourceNote_pt": "Preprint ainda sem revisão por pares.",
+    "sourceNote_en": "Preprint not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "watch",
+    "editorialBandLabel": "Leitura monitorada",
+    "editorialBandLabel_pt": "Leitura monitorada",
+    "editorialBandLabel_en": "Watchlist",
+    "keywords": [
+      "Astrofísica",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Uma estrutura estatística de IA para detectar explosões transitórias em curvas de luz Quasar SDSS Stripe 82"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Uma estrutura estatística de IA para detectar explosões transitórias em curvas de luz Quasar SDSS Stripe 82"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "An AI statistical framework for detecting transient flares in Quasar SDSS Stripe 82 light curves"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2604.08196v1",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=a-statistical-ai-framework-for-detecting-transient-flares-in-sdss-stripe-82-quasar-light-curves",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=a-statistical-ai-framework-for-detecting-transient-flares-in-sdss-stripe-82-quasar-light-curves",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=a-statistical-ai-framework-for-detecting-transient-flares-in-sdss-stripe-82-quasar-light-curves&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 67,
+    "scoreBreakdown": {
+      "source": 54,
+      "evidence": 64,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 16,
     "slug": "new-solar-telescope-turns-sunspots-into-exoplanet-finding-weapons",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -1702,7 +1912,7 @@
     }
   },
   {
-    "id": 15,
+    "id": 17,
     "slug": "a-new-class-of-star-merger-remnant",
     "cat": "Física",
     "catCls": "fisica",
@@ -1838,7 +2048,7 @@
     }
   },
   {
-    "id": 16,
+    "id": 18,
     "slug": "nsf-launches-100m-national-quantum-and-nanotechnology-research-infrastructure-program",
     "cat": "Física",
     "catCls": "fisica",
@@ -1971,7 +2181,7 @@
     }
   },
   {
-    "id": 17,
+    "id": 19,
     "slug": "a-baby-star-blows-a-giant-gaseous-ring",
     "cat": "Química",
     "catCls": "quimica",
@@ -2095,7 +2305,7 @@
     }
   },
   {
-    "id": 18,
+    "id": 20,
     "slug": "earthset-from-the-lunar-far-side",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2228,7 +2438,7 @@
     }
   },
   {
-    "id": 19,
+    "id": 21,
     "slug": "webb-hubble-capture-new-views-of-saturn",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2333,7 +2543,7 @@
     }
   },
   {
-    "id": 20,
+    "id": 22,
     "slug": "esa-observations-of-interstellar-comet-3i-atlas",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2438,7 +2648,7 @@
     }
   },
   {
-    "id": 21,
+    "id": 23,
     "slug": "indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2543,7 +2753,7 @@
     }
   },
   {
-    "id": 22,
+    "id": 24,
     "slug": "how-to-follow-the-smile-launch-live",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2648,40 +2858,12 @@
     }
   },
   {
-    "id": 23,
+    "id": 25,
     "slug": "xrism-solves-famous-star-s-50-year-mystery",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/gamma-cas_and_its_hungry_white_dwarf_companion/27166121-1-eng-GB/Gamma-Cas_and_its_hungry_white_dwarf_companion_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/gamma-cas_and_its_hungry_white_dwarf_companion/27166121-1-eng-GB/Gamma-Cas_and_its_hungry_white_dwarf_companion_article.jpg",
-        "caption": "Esta impressão artística visualiza a massiva estrela gama-Cas e a sua pequena mas densa companheira anã branca.",
-        "caption_pt": "Esta impressão artística visualiza a massiva estrela gama-Cas e a sua pequena mas densa companheira anã branca.",
-        "caption_en": "This artist's impression visualises the massive star gamma-Cas and its small-but-dense white dwarf companion.",
-        "alt": "Esta impressão artística visualiza a massiva estrela gama-Cas e a sua pequena mas densa companheira anã branca.",
-        "alt_pt": "Esta impressão artística visualiza a massiva estrela gama-Cas e a sua pequena mas densa companheira anã branca.",
-        "alt_en": "This artist's impression visualises the massive star gamma-Cas and its small-but-dense white dwarf companion."
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/where_to_find_gamma-cas_in_the_night_sky/27166215-1-eng-GB/Where_to_find_gamma-Cas_in_the_night_sky_article.png",
-        "caption": "Onde encontrar gama-Cas no céu noturno",
-        "caption_pt": "Onde encontrar gama-Cas no céu noturno",
-        "caption_en": "Where to find gamma-Cas in the night sky",
-        "alt": "Onde encontrar gama-Cas no céu noturno",
-        "alt_pt": "Onde encontrar gama-Cas no céu noturno",
-        "alt_en": "Where to find gamma-Cas in the night sky"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/the_secret_life_of_gamma-cas_revealed/27166168-1-eng-GB/The_secret_life_of_gamma-Cas_revealed_article.jpg",
-        "caption": "Observações de alta resolução feitas pelo XRISM revelaram a origem dos curiosos raios X provenientes da estrela gama-Cas vista a olho nu: matéria caindo sobre a sua companheira, uma estrela anã branca.",
-        "caption_pt": "Observações de alta resolução feitas pelo XRISM revelaram a origem dos curiosos raios X provenientes da estrela gama-Cas vista a olho nu: matéria caindo sobre a sua companheira, uma estrela anã branca.",
-        "caption_en": "High-resolution observations made by XRISM have revealed the origin of the curious X-rays coming from naked-eye star gamma-Cas: matter falling onto its companion, a white dwarf star.",
-        "alt": "Observações de alta resolução feitas pelo XRISM revelaram a origem dos curiosos raios X provenientes da estrela gama-Cas vista a olho nu: matéria caindo sobre a sua companheira, uma estrela anã branca.",
-        "alt_pt": "Observações de alta resolução feitas pelo XRISM revelaram a origem dos curiosos raios X provenientes da estrela gama-Cas vista a olho nu: matéria caindo sobre a sua companheira, uma estrela anã branca.",
-        "alt_en": "High-resolution observations made by XRISM have revealed the origin of the curious X-rays coming from naked-eye star gamma-Cas: matter falling onto its companion, a white dwarf star."
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "XRISM resolve o mistério de 50 anos da famosa estrela",
@@ -2693,22 +2875,22 @@
     "excerpt": "Uma companheira invisível que consome material da estrela gama-Cas vista a olho nu foi revelada como a culpada pelos curiosos raios X provenientes do sistema estelar. Isto encerra o caso de um mistério que tem intrigado os astrônomos há mais de um ano.",
     "excerpt_pt": "Uma companheira invisível que consome material da estrela gama-Cas vista a olho nu foi revelada como a culpada pelos curiosos raios X provenientes do sistema estelar. Isto encerra o caso de um mistério que tem intrigado os astrônomos há mais de um ano.",
     "excerpt_en": "An invisible companion consuming material from the naked-eye star gamma-Cas has been revealed as the culprit for curious X-rays coming from the stellar system. This closes the case on a mystery that has puzzled astronomers for more than.",
-    "body": "<p>Uma companheira invisível que consome material da estrela gama-Cas vista a olho nu foi revelada como a culpada pelos curiosos raios X provenientes do sistema estelar. Isto encerra o caso de um mistério que tem intrigado os astrônomos há mais de um ano. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Observações únicas de alta resolução feitas pela Missão de Imagem e Espectroscopia de Raios X (XRISM) revelaram que os raios X estão ligados ao movimento orbital de uma estrela. As observações são detalhadas num novo artigo liderado por Yaël Nazé, da Universidade de Liège, Bélgica.</p><p>Apesar da sua proeminência no céu noturno, tem estado envolta em mistério desde 1866, quando o astrónomo italiano Angelo Secchi notou algo estranho na sua assinatura luminosa. Esta estranha característica inaugurou uma nova classe de estrelas, chamadas estrelas ‘Be’, fundindo o ‘B’ associado às estrelas quentes massivas azul-brancas com o ‘e’ da.</p><p>Dado que a companheira permanece invisível para ser observada diretamente com telescópios, os astrónomos pensam que poderá ser uma anã branca, um objeto compacto com a massa do. Então, em meados da década de 1970, surgiu um novo mistério: descobriu-se que o gama-Cas brilhava em raios X incomuns de alta energia.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XRISM_solves_famous_star_s_50-year_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Uma companheira invisível que consome material da estrela gama-Cas vista a olho nu foi revelada como a culpada pelos curiosos raios X provenientes do sistema estelar. Isto encerra o caso de um mistério que tem intrigado os astrônomos há mais de um ano. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Observações únicas de alta resolução feitas pela Missão de Imagem e Espectroscopia de Raios X (XRISM) revelaram que os raios X estão ligados ao movimento orbital de uma estrela. As observações são detalhadas num novo artigo liderado por Yaël Nazé, da Universidade de Liège, Bélgica.</p><p>Apesar da sua proeminência no céu noturno, tem estado envolta em mistério desde 1866, quando o astrónomo italiano Angelo Secchi notou algo estranho na sua assinatura luminosa. Esta estranha característica inaugurou uma nova classe de estrelas, chamadas estrelas ‘Be’, fundindo o ‘B’ associado às estrelas quentes massivas azul-brancas com o ‘e’ da.</p><p>Dado que a companheira permanece invisível para ser observada diretamente com telescópios, os astrónomos pensam que poderá ser uma anã branca, um objeto compacto com a massa do. Então, em meados da década de 1970, surgiu um novo mistério: descobriu-se que o gama-Cas brilhava em raios X incomuns de alta energia.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XRISM_solves_famous_star_s_50-year_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>An invisible companion consuming material from the naked-eye star gamma-Cas has been revealed as the culprit for curious X-rays coming from the stellar system. This closes the case on a mystery that has puzzled astronomers for more than. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Unique high-resolution observations made by the X-Ray Imaging and Spectroscopy Mission (XRISM) revealed that the X-rays are linked to the orbital motion of a companion white dwarf. The observations are detailed in a new paper led by Yaël Nazé of the University of Liège, Belgium.</p><p>Despite its prominence in the night sky, it has been shrouded in mystery since 1866 when Italian astronomer Angelo Secchi noticed something odd in its light signature. This weird feature inaugurated a new class of stars, called ’Be’ stars, merging the ‘B’ associated with hot blue-white massive stars with the ‘e’ from the peculiar hydrogen.</p><p>Since the companion remains invisible to spot directly with telescopes, astronomers think it might be a white dwarf, a compact object with the mass of the Sun but the size of. Then, in the mid-1970s, a new mystery emerged: gamma-Cas was discovered to shine in unusual high-energy X-rays.</p><p>Further studies found the origin of this X-ray glow to be mostly coming from extremely hot 150-million-degree plasma, shining with a brightness some 40 times greater than. With the dawn of X-ray space telescopes including ESA’s XMM-Newton, NASA’s Chandra and the Germany-led eROSITA, astronomers have found around two dozen gamma-Cas-type stars with.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>However, new research shows they are rarer than predicted and instead tend to occur in high‑mass Be stars. “Now that we know the true nature of gamma-Cas, we can create models specifically for this class of stellar systems, and update our understanding of binary evolution accordingly.”.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XRISM_solves_famous_star_s_50-year_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Uma companheira invisível que consome material da estrela gama-Cas vista a olho nu foi revelada como a culpada pelos curiosos raios X provenientes do sistema estelar. Isto encerra o caso de um mistério que tem intrigado os astrônomos há mais de um ano. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Uma companheira invisível que consome material da estrela gama-Cas vista a olho nu foi revelada como a culpada pelos curiosos raios X provenientes do sistema estelar. Isto encerra o caso de um mistério que tem intrigado os astrónomos há mais de cinquenta anos.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XRISM_solves_famous_star_s_50-year_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma companheira invisível que consome material da estrela gama-Cas vista a olho nu foi revelada como a culpada pelos curiosos raios X provenientes do sistema estelar. Isto encerra o caso de um mistério que tem intrigado os astrônomos há mais de um ano. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Uma companheira invisível que consome material da estrela gama-Cas vista a olho nu foi revelada como a culpada pelos curiosos raios X provenientes do sistema estelar. Isto encerra o caso de um mistério que tem intrigado os astrónomos há mais de cinquenta anos.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XRISM_solves_famous_star_s_50-year_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>An invisible companion consuming material from the naked-eye star gamma-Cas has been revealed as the culprit for curious X-rays coming from the stellar system. This closes the case on a mystery that has puzzled astronomers for more than. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. An invisible companion consuming material from the naked-eye star gamma-Cas has been revealed as the culprit for curious X-rays coming from the stellar system. This closes the case on a mystery that has puzzled astronomers for more than fifty years.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XRISM_solves_famous_star_s_50-year_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Uma companheira invisível que consome material da estrela gama-Cas vista a olho nu foi revelada como a culpada pelos curiosos raios X provenientes do.",
-      "Dado-chave: Observações únicas de alta resolução feitas pela Missão de Imagem e Espectroscopia de Raios X (XRISM) revelaram que os raios X estão ligados ao.",
+      "Dado-chave: Uma companheira invisível que consome material da estrela gama-Cas vista a olho nu foi revelada como a culpada pelos curiosos raios X.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Uma companheira invisível que consome material da estrela gama-Cas vista a olho nu foi revelada como a culpada pelos curiosos raios X provenientes do.",
-      "Dado-chave: Observações únicas de alta resolução feitas pela Missão de Imagem e Espectroscopia de Raios X (XRISM) revelaram que os raios X estão ligados ao.",
+      "Dado-chave: Uma companheira invisível que consome material da estrela gama-Cas vista a olho nu foi revelada como a culpada pelos curiosos raios X.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: An invisible companion consuming material from the naked-eye star gamma-Cas has been revealed as the culprit for curious X-rays coming from the.",
-      "Key detail: Unique high-resolution observations made by the X-Ray Imaging and Spectroscopy Mission (XRISM) revealed that the X-rays are linked to the.",
+      "Key detail: An invisible companion consuming material from the naked-eye star gamma-Cas has been revealed as the culprit for curious X-rays coming from the.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "24 mar 2026",
@@ -2781,22 +2963,12 @@
     }
   },
   {
-    "id": 24,
+    "id": 26,
     "slug": "t-20-days-smile-to-launch-on-9-april",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/smile_delivered_to_space_artist_impression_gif/27126681-1-eng-GB/Smile_delivered_to_space_artist_impression_GIF_card_full.gif",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/smile_launch_timeline/27119760-2-eng-GB/Smile_launch_timeline_article.jpg",
-        "caption": "Cronograma de lançamento do Smile",
-        "caption_pt": "Cronograma de lançamento do Smile",
-        "caption_en": "Smile launch timeline",
-        "alt": "Cronograma de lançamento do Smile",
-        "alt_pt": "Cronograma de lançamento do Smile",
-        "alt_en": "Smile launch timeline"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "T-20 dias: Smile será lançado em 9 de abril",
@@ -2808,9 +2980,9 @@
     "excerpt": "A missão Smile está programada para ser lançada em um foguete Vega-C do porto espacial europeu na Guiana Francesa na quinta-feira, 9 de abril, às 08h29 CEST/07h29 BST/03h29, horário local. Acompanhe enquanto comunicamos sobre os preparativos finais para o.",
     "excerpt_pt": "A missão Smile está programada para ser lançada em um foguete Vega-C do porto espacial europeu na Guiana Francesa na quinta-feira, 9 de abril, às 08h29 CEST/07h29 BST/03h29, horário local. Acompanhe enquanto comunicamos sobre os preparativos finais para o.",
     "excerpt_en": "The Smile mission is set to launch on a Vega-C rocket from Europe’s Spaceport in French Guiana on Thursday 9 April at 08: 29 CEST/07: 29 BST/03: 29 local time. Follow along as we communicate on the final preparations for launch.",
-    "body": "<p>A missão Smile está programada para ser lançada em um foguete Vega-C do porto espacial europeu na Guiana Francesa na quinta-feira, 9 de abril, às 08h29 CEST/07h29 BST/03h29, horário local. Acompanhe enquanto comunicamos sobre os preparativos finais para o lançamento. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Smile é uma colaboração entre a Agência Espacial Europeia (ESA) e a Academia Chinesa de Ciências (CAS). Irá revelar como a Terra responde aos fluxos de partículas e às explosões de radiação do Sol, utilizando uma câmara de raios X para fazer as primeiras observações de raios X do.</p><p>Durante o lançamento, os quatro estágios do foguete Vega-C serão separados um por um, antes de finalmente liberar o Smile após 57 minutos. Os painéis solares da Smile serão desdobrados após 63 minutos, o marco que confirma o sucesso do lançamento.</p><p>O lançamento colocará o Smile em uma órbita baixa da Terra.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/T-20_days_Smile_to_launch_on_9_April\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A missão Smile está programada para ser lançada em um foguete Vega-C do porto espacial europeu na Guiana Francesa na quinta-feira, 9 de abril, às 08h29 CEST/07h29 BST/03h29, horário local. Acompanhe enquanto comunicamos sobre os preparativos finais para o lançamento. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Smile é uma colaboração entre a Agência Espacial Europeia (ESA) e a Academia Chinesa de Ciências (CAS). Irá revelar como a Terra responde aos fluxos de partículas e às explosões de radiação do Sol, utilizando uma câmara de raios X para fazer as primeiras observações de raios X do.</p><p>Durante o lançamento, os quatro estágios do foguete Vega-C serão separados um por um, antes de finalmente liberar o Smile após 57 minutos. Os painéis solares da Smile serão desdobrados após 63 minutos, o marco que confirma o sucesso do lançamento.</p><p>O lançamento colocará o Smile em uma órbita baixa da Terra.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/T-20_days_Smile_to_launch_on_9_April\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The Smile mission is set to launch on a Vega-C rocket from Europe’s Spaceport in French Guiana on Thursday 9 April at 08: 29 CEST/07: 29 BST/03: 29 local time. Follow along as we communicate on the final preparations for launch. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The Smile mission is set to launch on a Vega-C rocket from Europe’s Spaceport in French Guiana on Thursday 9 April at 08: 29 CEST/07: 29 BST/03: 29 local time. Smile is a collaboration between the European Space Agency (ESA) and the Chinese Academy of Sciences (CAS).</p><p>It will reveal how Earth responds to the streams of particles and bursts of radiation from the Sun, using an X-ray camera to make the first X-ray observations of Earth’s magnetic. During the launch, the four stages of the Vega-C rocket will separate one by one, before finally releasing Smile after 57 minutes.</p><p>Smile’s solar panels will unfold after 63 minutes, the milestone that confirms launch success. The launch will drop Smile off into a low-Earth orbit.</p><p>From there, the spacecraft will take over to bring itself to its final, egg-shaped orbit that goes 121 000 km above the North Pole to collect data, before coming 5000 km above the. Launch preparations are progressing well, with the spacecraft and all rocket parts having now arrived at Europe’s Spaceport.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>For the latest updates, visit our dedicated page and follow @science. esa. int and @transport. esa. int (Bluesky) and @esascience and @ESA_transport (X). Our Smile launch kit is a set of infographics providing an overview of the mission, its science goals and the launch timeline.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/T-20_days_Smile_to_launch_on_9_April\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A missão Smile está programada para ser lançada em um foguete Vega-C do porto espacial europeu na Guiana Francesa na quinta-feira, 9 de abril, às 08h29 CEST/07h29 BST/03h29, horário local. Acompanhe enquanto comunicamos sobre os preparativos finais para o lançamento. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Acompanhe enquanto comunicamos sobre os preparativos finais para o lançamento. Os jornalistas são convidados a participar em briefings de imprensa online em inglês, francês, espanhol, italiano e alemão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/T-20_days_Smile_to_launch_on_9_April\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A missão Smile está programada para ser lançada em um foguete Vega-C do porto espacial europeu na Guiana Francesa na quinta-feira, 9 de abril, às 08h29 CEST/07h29 BST/03h29, horário local. Acompanhe enquanto comunicamos sobre os preparativos finais para o lançamento. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Acompanhe enquanto comunicamos sobre os preparativos finais para o lançamento. Os jornalistas são convidados a participar em briefings de imprensa online em inglês, francês, espanhol, italiano e alemão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/T-20_days_Smile_to_launch_on_9_April\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The Smile mission is set to launch on a Vega-C rocket from Europe’s Spaceport in French Guiana on Thursday 9 April at 08: 29 CEST/07: 29 BST/03: 29 local time. Follow along as we communicate on the final preparations for launch. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The Smile mission is set to launch on a Vega-C rocket from Europe’s Spaceport in French Guiana on Thursday 9 April at 08: 29 CEST/07: 29 BST/03: 29 local time. Follow along as we communicate on the final preparations for launch.</p><p>Journalists are invited to join online media briefings in English, French, Spanish, Italian and German.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/T-20_days_Smile_to_launch_on_9_April\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A missão Smile está programada para ser lançada em um foguete Vega-C do porto espacial europeu na Guiana Francesa na quinta-feira, 9 de abril, às.",
       "Dado-chave: A missão Smile está programada para ser lançada em um foguete Vega-C do Porto Espacial Europeu na Guiana Francesa na quinta-feira, 9 de abril.",
@@ -2899,7 +3071,7 @@
     }
   },
   {
-    "id": 25,
+    "id": 27,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3035,7 +3207,7 @@
     }
   },
   {
-    "id": 26,
+    "id": 28,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3162,7 +3334,7 @@
     }
   },
   {
-    "id": 27,
+    "id": 29,
     "slug": "science-release-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3298,7 +3470,7 @@
     }
   },
   {
-    "id": 28,
+    "id": 30,
     "slug": "peculiar-core-collapse-supernova-breaks-the-mold-with-a-long-dim-plateau",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -3431,7 +3603,7 @@
     }
   },
   {
-    "id": 29,
+    "id": 31,
     "slug": "scientists-spot-a-solar-flare-with-surprising-spectral-behavior",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3564,45 +3736,13 @@
     }
   },
   {
-    "id": 30,
+    "id": 32,
     "slug": "walk-in-the-footsteps-of-artemis",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/esa_education_s_moon_camp_and_mission_x_school_projects/27190666-5-eng-GB/ESA_Education_s_Moon_Camp_and_Mission_X_School_Projects_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/luna_and_leo_-_earth/27191717-1-eng-GB/Luna_and_Leo_-_Earth_article.png",
-        "caption": "Luna e Leo pela Terra",
-        "caption_pt": "Luna e Leo pela Terra",
-        "caption_en": "Luna and Leo by Earth",
-        "alt": "Luna e Leo pela Terra",
-        "alt_pt": "Luna e Leo pela Terra",
-        "alt_en": "Luna and Leo by Earth"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/earthset_captured_through_the_orion_spacecraft_window_at_6_41_p.m._edt_april_6_2026_during_the_artemis_ii_crew_s_flyby_of_the_moon./27192482-1-eng-GB/Earthset_captured_through_the_Orion_spacecraft_window_at_6_41_p.m._EDT_April_6_2026_during_the_Artemis_II_crew_s_flyby_of_the_Moon._article.jpg",
-        "caption": "Earthset capturado pela janela da espaçonave Orion às 18h41. EDT, 6 de abril de 2026, durante o sobrevoo da tripulação do Artemis II pela Lua.",
-        "caption_pt": "Earthset capturado pela janela da espaçonave Orion às 18h41. EDT, 6 de abril de 2026, durante o sobrevoo da tripulação do Artemis II pela Lua.",
-        "caption_en": "Earthset captured through the Orion spacecraft window at 6:41 p.m. EDT, April 6, 2026, during the Artemis II crew’s flyby of the Moon.",
-        "alt": "Earthset capturado pela janela da espaçonave Orion às 18h41. EDT, 6 de abril de 2026, durante o sobrevoo da tripulação do Artemis II pela Lua.",
-        "alt_pt": "Earthset capturado pela janela da espaçonave Orion às 18h41. EDT, 6 de abril de 2026, durante o sobrevoo da tripulação do Artemis II pela Lua.",
-        "alt_en": "Earthset captured through the Orion spacecraft window at 6:41 p.m. EDT, April 6, 2026, during the Artemis II crew’s flyby of the Moon."
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/2-hyaa1mibi",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis"
-    },
+    "inline_images": [],
+    "video": null,
     "audio": null,
     "title": "Siga os passos de Ártemis",
     "title_pt": "Siga os passos de Ártemis",
@@ -3613,9 +3753,9 @@
     "excerpt": "No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar?.",
     "excerpt_pt": "No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar?.",
     "excerpt_en": "On 6 April 2026, NASA’s Artemis II mission, powered by ESA’s European Service Module, brought humans further than ever before. But how do future astronauts train to live on the Moon, and what kind of lunar base could they create? That’s.",
-    "body": "<p>No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar? Isso é. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar.</p><p>Treine como um astronauta com o projeto Mission X Astronautas, como Christina Koch, a primeira mulher em uma missão lunar, devem treinar duro para se prepararem para suas missões. Seguindo os passos destes corajosos astronautas, os alunos podem trazer os mascotes da Missão X, Luna e Leo, para mais perto da Lua.</p><p>Ao se colocarem no lugar, os alunos podem treinar como astronautas e realizar uma ampla gama de atividades, até mesmo praticando para sua própria jornada ao espaço. Desde a compreensão da nutrição até aprender como se manter forte no espaço e na Terra, as atividades da Missão X podem levá-lo à Lua.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar? Isso é. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar.</p><p>Treine como um astronauta com o projeto Mission X Astronautas, como Christina Koch, a primeira mulher em uma missão lunar, devem treinar duro para se prepararem para suas missões. Seguindo os passos destes corajosos astronautas, os alunos podem trazer os mascotes da Missão X, Luna e Leo, para mais perto da Lua.</p><p>Ao se colocarem no lugar, os alunos podem treinar como astronautas e realizar uma ampla gama de atividades, até mesmo praticando para sua própria jornada ao espaço. Desde a compreensão da nutrição até aprender como se manter forte no espaço e na Terra, as atividades da Missão X podem levá-lo à Lua.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>On 6 April 2026, NASA’s Artemis II mission, powered by ESA’s European Service Module, brought humans further than ever before. But how do future astronauts train to live on the Moon, and what kind of lunar base could they create? That’s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. On 6 April 2026, NASA’s Artemis II mission, powered by ESA’s European Service Module (ESM), brought humans further than ever before. But how do future astronauts train to live on the Moon, and what kind of lunar base could they create.</p><p>Train like an astronaut with the Mission X project Astronauts, like Christina Koch, the first woman on a lunar mission, must train hard to prepare for their space missions. Following in the footsteps of these brave astronauts, students can bring Mission X’s mascots, Luna and Leo, closer to the Moon.</p><p>By stepping into their shoes, students can train like an astronaut and complete a wide range of activities, even practising for their own journey to space. From understanding nutrition to learning how to stay strong in space and on Earth, Mission X activities can take you to the Moon.</p><p>Artemis will bring astronauts to the Moon using Europe’s European Service Module (ESM), which gives air, water, and power to Artemis’ astronauts. With the Moon Camp project, students can design a habitat on the Moon using a tool of their choice from arts and crafts to 3D design, robotics, and game-based applications.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>By designing a habitat on the moon, students can take a glimpse into the design of a future lunar base. Start your journey to the moon today with Moon Camp and Mission X.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar? Isso é. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar? Isso é. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>On 6 April 2026, NASA’s Artemis II mission, powered by ESA’s European Service Module, brought humans further than ever before. But how do future astronauts train to live on the Moon, and what kind of lunar base could they create? That’s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. On 6 April 2026, NASA’s Artemis II mission, powered by ESA’s European Service Module (ESM), brought humans further than ever before. But how do future astronauts train to live on the Moon, and what kind of lunar base could they create.</p><p>That’s where school students like you can come in.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que.",
       "Dado-chave: No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os seres humanos mais.",
@@ -3701,7 +3841,7 @@
     }
   },
   {
-    "id": 31,
+    "id": 33,
     "slug": "do-the-moon-s-poles-hold-less-water-than-we-thought",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3834,7 +3974,7 @@
     }
   },
   {
-    "id": 32,
+    "id": 34,
     "slug": "nsf-doe-vera-c-rubin-observatory-launches-real-time-discovery-machine-for-monitoring-the-night-s",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3983,7 +4123,7 @@
     }
   },
   {
-    "id": 33,
+    "id": 35,
     "slug": "rubin-observatory-announces-11-000-new-asteroids",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4116,7 +4256,7 @@
     }
   },
   {
-    "id": 34,
+    "id": 36,
     "slug": "this-week-s-sky-at-a-glance-april-10-19",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4252,7 +4392,7 @@
     }
   },
   {
-    "id": 35,
+    "id": 37,
     "slug": "join-us-at-the-35th-annual-northeast-astronomy-forum",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4379,7 +4519,7 @@
     }
   },
   {
-    "id": 36,
+    "id": 38,
     "slug": "amazing-views-from-artemis-2-s-historic-lunar-flyby",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4512,40 +4652,12 @@
     }
   },
   {
-    "id": 37,
+    "id": 39,
     "slug": "esa-s-celeste-broadcasts-first-navigation-signal-from-low-earth-orbit",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/esa_s_celeste_broadcasts_first_navigation_signal/27198442-1-eng-GB/ESA_s_Celeste_broadcasts_first_navigation_signal_card_full.png",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/waiting_for_esa_s_celeste_first_navigation_signal/27198536-1-eng-GB/Waiting_for_ESA_s_Celeste_first_navigation_signal_article.jpg",
-        "caption": "À espera do primeiro sinal de navegação Celeste da ESA",
-        "caption_pt": "À espera do primeiro sinal de navegação Celeste da ESA",
-        "caption_en": "Waiting for ESA’s Celeste first navigation signal",
-        "alt": "À espera do primeiro sinal de navegação Celeste da ESA",
-        "alt_pt": "À espera do primeiro sinal de navegação Celeste da ESA",
-        "alt_en": "Waiting for ESA’s Celeste first navigation signal"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/celeste_iod-2_separating_from_electron/27177910-1-eng-GB/Celeste_IOD-2_separating_from_Electron_article.gif",
-        "caption": "Celeste IOD-2 se separando do elétron",
-        "caption_pt": "Celeste IOD-2 se separando do elétron",
-        "caption_en": "Celeste IOD-2 separating from Electron",
-        "alt": "Celeste IOD-2 se separando do elétron",
-        "alt_pt": "Celeste IOD-2 se separando do elétron",
-        "alt_en": "Celeste IOD-2 separating from Electron"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/esa_s_celeste_broadcasts_first_navigation_signal/27198442-1-eng-GB/ESA_s_Celeste_broadcasts_first_navigation_signal_article.png",
-        "caption": "Celeste da ESA transmite primeiro sinal de navegação",
-        "caption_pt": "Celeste da ESA transmite primeiro sinal de navegação",
-        "caption_en": "ESA’s Celeste broadcasts first navigation signal",
-        "alt": "Celeste da ESA transmite primeiro sinal de navegação",
-        "alt_pt": "Celeste da ESA transmite primeiro sinal de navegação",
-        "alt_en": "ESA’s Celeste broadcasts first navigation signal"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Celeste da ESA transmite o primeiro sinal de navegação da órbita baixa da Terra",
@@ -4557,9 +4669,9 @@
     "excerpt": "A Agência Espacial Europeia alcançou uma estreia europeia com Celeste, transmitindo com sucesso um sinal de navegação a partir da órbita baixa da Terra, após o lançamento dos primeiros satélites da missão em 28 de março.",
     "excerpt_pt": "A Agência Espacial Europeia alcançou uma estreia europeia com Celeste, transmitindo com sucesso um sinal de navegação a partir da órbita baixa da Terra, após o lançamento dos primeiros satélites da missão em 28 de março.",
     "excerpt_en": "The European Space Agency has achieved a European first with Celeste, successfully transmitting a navigation signal from low Earth orbit, following the launch of the mission’s first satellites on March 28.",
-    "body": "<p>A Agência Espacial Europeia alcançou uma estreia europeia com Celeste, transmitindo com sucesso um sinal de navegação a partir da órbita baixa da Terra, após o lançamento dos primeiros satélites da missão em 28 de março. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Na manhã de quarta-feira, 8 de Abril, a ESA e as equipas industriais reunidas no Laboratório de Navegação da ESA no ESTEC receberam o primeiro sinal de navegação da missão Celeste. Enviado do Celeste IOD-1, o sinal é a primeira mensagem de navegação de dupla frequência nas bandas L e S, a primeira enviada por um satélite europeu em órbita baixa da Terra.</p><p>Uma transmissão do satélite Celeste IOD-2 ocorrerá nos próximos dias. Os sinais de navegação enviados da órbita baixa da Terra beneficiam de mais força, novas dinâmicas e geometria de alcance adicional.</p><p>Este é o primeiro passo numa missão que visa demonstrar como uma constelação de navegação por satélite em órbita baixa da Terra pode responder às necessidades actuais e futuras.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Satellite_navigation/Celeste/ESA_s_Celeste_broadcasts_first_navigation_signal_from_low_Earth_orbit\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A Agência Espacial Europeia alcançou uma estreia europeia com Celeste, transmitindo com sucesso um sinal de navegação a partir da órbita baixa da Terra, após o lançamento dos primeiros satélites da missão em 28 de março. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Na manhã de quarta-feira, 8 de Abril, a ESA e as equipas industriais reunidas no Laboratório de Navegação da ESA no ESTEC receberam o primeiro sinal de navegação da missão Celeste. Enviado do Celeste IOD-1, o sinal é a primeira mensagem de navegação de dupla frequência nas bandas L e S, a primeira enviada por um satélite europeu em órbita baixa da Terra.</p><p>Uma transmissão do satélite Celeste IOD-2 ocorrerá nos próximos dias. Os sinais de navegação enviados da órbita baixa da Terra beneficiam de mais força, novas dinâmicas e geometria de alcance adicional.</p><p>Este é o primeiro passo numa missão que visa demonstrar como uma constelação de navegação por satélite em órbita baixa da Terra pode responder às necessidades actuais e futuras.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Satellite_navigation/Celeste/ESA_s_Celeste_broadcasts_first_navigation_signal_from_low_Earth_orbit\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency has achieved a European first with Celeste, successfully transmitting a navigation signal from low Earth orbit, following the launch of the mission’s first satellites on March 28. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. On the morning of Wednesday, 8 April, ESA and industrial teams gathered at ESA’s Navigation Lab at ESTEC received the very first navigation signal from the Celeste mission. Sent from Celeste IOD-1, the signal is the first dual-frequency navigation message in the L- and S-band, the first sent from a European satellite in low-Earth orbit.</p><p>A transmission from the Celeste IOD-2 satellite will follow in the coming days. Navigation signals sent from low Earth orbit benefit from more strength, new dynamics and additional ranging geometry.</p><p>This is a first step in a mission aiming to demonstrate how a satellite navigation constellation in low Earth orbit can further address current and future user needs. Early April, days after their launch on March 28, the satellites completed their launch and early operations phase and were formally declared fit for life in orbit.</p><p>Celeste forms a key element of one of the three core pillars of ESA’s new European Resilience from Space (ERS) initiative. The Celeste mission is ESA&#x27;s initiative for LEO-PNT (Low Earth Orbit Positioning Navigation and Timing) and is currently in its in-orbit demonstration phase.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>This first phase features a demonstration constellation of 11 satellites that will fly in low Earth orbit to test innovative signals across various frequency bands. The Celeste In-Orbit Demonstration phase was approved at ESA’s Council at Ministerial Level of 2022.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Satellite_navigation/Celeste/ESA_s_Celeste_broadcasts_first_navigation_signal_from_low_Earth_orbit\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A Agência Espacial Europeia alcançou uma estreia europeia com Celeste, transmitindo com sucesso um sinal de navegação a partir da órbita baixa da Terra, após o lançamento dos primeiros satélites da missão em 28 de março. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Satellite_navigation/Celeste/ESA_s_Celeste_broadcasts_first_navigation_signal_from_low_Earth_orbit\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Agência Espacial Europeia alcançou uma estreia europeia com Celeste, transmitindo com sucesso um sinal de navegação a partir da órbita baixa da Terra, após o lançamento dos primeiros satélites da missão em 28 de março. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Satellite_navigation/Celeste/ESA_s_Celeste_broadcasts_first_navigation_signal_from_low_Earth_orbit\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency has achieved a European first with Celeste, successfully transmitting a navigation signal from low Earth orbit, following the launch of the mission’s first satellites on March 28. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Satellite_navigation/Celeste/ESA_s_Celeste_broadcasts_first_navigation_signal_from_low_Earth_orbit\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A Agência Espacial Europeia alcançou uma estreia europeia com Celeste, transmitindo com sucesso um sinal de navegação a partir da órbita baixa da.",
       "Dado-chave: A Agência Espacial Europeia alcançou uma estreia europeia com Celeste, transmitindo com sucesso um sinal de navegação a partir da órbita baixa.",
@@ -4645,7 +4757,7 @@
     }
   },
   {
-    "id": 38,
+    "id": 40,
     "slug": "artemis-2-astronauts-return-to-earth-today",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4757,236 +4869,6 @@
       "relevance": 80,
       "accessibility": 60,
       "novelty": 55
-    }
-  },
-  {
-    "id": 39,
-    "slug": "pareidolia-is-seeing-things-like-faces-in-random-objects",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2022/11/Hurricane-Milton-skull-Oct-2024.jpg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Pareidolia é ver coisas como rostos em objetos aleatórios",
-    "title_pt": "Pareidolia é ver coisas como rostos em objetos aleatórios",
-    "title_en": "Pareidolia is seeing things like faces in random objects",
-    "sub": "Ver coisas como um rosto assustador em imagens de satélite é chamado de pareidolia. Agora, um novo estudo diz que é mais provável que vejamos homens furiosos em objetos.",
-    "sub_pt": "Ver coisas como um rosto assustador em imagens de satélite é chamado de pareidolia. Agora, um novo estudo diz que é mais provável que vejamos homens furiosos em objetos.",
-    "sub_en": "Seeing things such as a creepy face in satellite imagery is called pareidolia. Now, a new study says we're more likely to see angry men in random objects. The post Pareidolia is.",
-    "excerpt": "Ver coisas como um rosto assustador em imagens de satélite é chamado de pareidolia. Agora, um novo estudo diz que é mais provável que vejamos homens furiosos em objetos aleatórios. A postagem Pareidolia é ver coisas como rostos em objetos aleatórios apareceu.",
-    "excerpt_pt": "Ver coisas como um rosto assustador em imagens de satélite é chamado de pareidolia. Agora, um novo estudo diz que é mais provável que vejamos homens furiosos em objetos aleatórios. A postagem Pareidolia é ver coisas como rostos em objetos aleatórios apareceu.",
-    "excerpt_en": "Seeing things such as a creepy face in satellite imagery is called pareidolia. Now, a new study says we're more likely to see angry men in random objects. The post Pareidolia is seeing things like faces in random objects first appeared on.",
-    "body": "<p>Ver coisas como um rosto assustador em imagens de satélite é chamado de pareidolia. Agora, um novo estudo diz que é mais provável que vejamos homens furiosos em objetos aleatórios. A postagem Pareidolia é ver coisas como rostos em objetos aleatórios apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Estas imagens de satélite de outubro de 2024 mostraram o furacão Milton semelhante a uma caveira assustadora ao se aproximar da Flórida. Para saber as novidades da ciência e do céu noturno, clique aqui para assinar nosso boletim informativo diário gratuito.</p><p>Em 7 de abril de 2026, pesquisadores da Universidade de Nova Gales do Sul, em Sydney, Austrália, disseram que as imagens que nossos cérebros tendem a perceber são fortemente. Os pesquisadores publicaram seu estudo na revista Royal Society Open Science em 25 de março de 2026.</p><p>Um olhar sobre a pesquisa O novo estudo consistiu em dois experimentos com 70 participantes. Pareidolia na astronomia Ver o famoso homem na lua ou os canais de Marte são exemplos clássicos da astronomia.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/human-world/seeing-things-that-arent-there/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Ver coisas como um rosto assustador em imagens de satélite é chamado de pareidolia. Agora, um novo estudo diz que é mais provável que vejamos homens furiosos em objetos aleatórios. A postagem Pareidolia é ver coisas como rostos em objetos aleatórios apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Estas imagens de satélite de outubro de 2024 mostraram o furacão Milton semelhante a uma caveira assustadora ao se aproximar da Flórida. Para saber as novidades da ciência e do céu noturno, clique aqui para assinar nosso boletim informativo diário gratuito.</p><p>Em 7 de abril de 2026, pesquisadores da Universidade de Nova Gales do Sul, em Sydney, Austrália, disseram que as imagens que nossos cérebros tendem a perceber são fortemente. Os pesquisadores publicaram seu estudo na revista Royal Society Open Science em 25 de março de 2026.</p><p>Um olhar sobre a pesquisa O novo estudo consistiu em dois experimentos com 70 participantes. Pareidolia na astronomia Ver o famoso homem na lua ou os canais de Marte são exemplos clássicos da astronomia.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/human-world/seeing-things-that-arent-there/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Seeing things such as a creepy face in satellite imagery is called pareidolia. Now, a new study says we&#x27;re more likely to see angry men in random objects. The post Pareidolia is seeing things like faces in random objects first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. This satellite imagery in October 2024 showed Hurricane Milton resembling a creepy skull as it approached Florida. For the latest in science and the night sky, click here to subscribe to our free daily newsletter.</p><p>On April 7, 2026, researchers at the University of New South Wales in Sydney, Australia, said that the images our brains tend to perceive are strongly biased toward angry male. The researchers published their study in the peer-reviewed journal Royal Society Open Science on March 25, 2026.</p><p>A look at the research The new study consisted of two experiments with 70 participants. Pareidolia in astronomy Seeing the famous man in the moon or the canals on Mars are classic examples from astronomy.</p><p>NASA shows how subsequent spacecraft revealed the “face” to be a play of light and shadows. | Peter Lowenstein in Mutare, Zimbabwe, captured these images on April 16, 2020.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>For example, consider the old photo above from an anonymous Swedish photographer of the 19th century. Staying in the realm of astronomy for a bit, many have seen a face or a rabbit in the moon or any of a variety of other figures on the face of the moon for ages.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/human-world/seeing-things-that-arent-there/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Ver coisas como um rosto assustador em imagens de satélite é chamado de pareidolia. Agora, um novo estudo diz que é mais provável que vejamos homens.",
-      "Dado-chave: Estas imagens de satélite de outubro de 2024 mostraram o furacão Milton semelhante a uma caveira assustadora ao se aproximar da Flórida.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Ver coisas como um rosto assustador em imagens de satélite é chamado de pareidolia. Agora, um novo estudo diz que é mais provável que vejamos homens.",
-      "Dado-chave: Estas imagens de satélite de outubro de 2024 mostraram o furacão Milton semelhante a uma caveira assustadora ao se aproximar da Flórida.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Seeing things such as a creepy face in satellite imagery is called pareidolia. Now, a new study says we're more likely to see angry men in random.",
-      "Key detail: This satellite imagery in October 2024 showed Hurricane Milton resembling a creepy skull as it approached Florida.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "09 abr 2026",
-    "date_pt": "09 abr 2026",
-    "date_en": "09 Apr 2026",
-    "time": "10h15",
-    "time_pt": "10h15",
-    "time_en": "10:15 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-09T10:15:31+00:00",
-    "lastModifiedIso": "2026-04-09T10:15:31+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Pareidolia é ver coisas como rostos em objetos aleatórios"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Pareidolia é ver coisas como rostos em objetos aleatórios"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "Pareidolia is seeing things like faces on random objects"
-    ],
-    "srcUrl": "https://earthsky.org/human-world/seeing-things-that-arent-there/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=pareidolia-is-seeing-things-like-faces-in-random-objects",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=pareidolia-is-seeing-things-like-faces-in-random-objects",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=pareidolia-is-seeing-things-like-faces-in-random-objects&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 72,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 40,
-    "slug": "follow-the-arc-to-arcturus-then-speed-on-to-spica",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2018/04/springtime-big-dipper-arcurus-spica.jpg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Siga o arco até Arcturus e depois acelere até Spica",
-    "title_pt": "Siga o arco até Arcturus e depois acelere até Spica",
-    "title_en": "Follow the arc to Arcturus, then speed on to Spica",
-    "sub": "Se você aprender apenas o mnemônico de 1 estrela, escolha este! Vá até Arcturus e acelere até Spica para identificar duas das estrelas mais brilhantes do céu. O post Siga o arco.",
-    "sub_pt": "Se você aprender apenas o mnemônico de 1 estrela, escolha este! Vá até Arcturus e acelere até Spica para identificar duas das estrelas mais brilhantes do céu. O post Siga o arco.",
-    "sub_en": "If you only ever learn 1 star mnemonic, make it this one! Arc to Arcturus and speed on to Spica to identify 2 of the sky's brightest stars. The post Follow the arc to Arcturus.",
-    "excerpt": "Se você aprender apenas o mnemônico de 1 estrela, escolha este! Vá até Arcturus e acelere até Spica para identificar duas das estrelas mais brilhantes do céu. O post Siga o arco para Arcturus e depois acelere para Spica apareceu pela primeira vez no EarthSky.",
-    "excerpt_pt": "Se você aprender apenas o mnemônico de 1 estrela, escolha este! Vá até Arcturus e acelere até Spica para identificar duas das estrelas mais brilhantes do céu. O post Siga o arco para Arcturus e depois acelere para Spica apareceu pela primeira vez no EarthSky.",
-    "excerpt_en": "If you only ever learn 1 star mnemonic, make it this one! Arc to Arcturus and speed on to Spica to identify 2 of the sky's brightest stars. The post Follow the arc to Arcturus, then speed on to Spica first appeared on EarthSky.",
-    "body": "<p>Se você aprender apenas o mnemônico de 1 estrela, escolha este! Vá até Arcturus e acelere até Spica para identificar duas das estrelas mais brilhantes do céu. O post Siga o arco para Arcturus e depois acelere para Spica apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Se você aprender apenas o mnemônico de 1 estrela, escolha este. Vá até Arcturus e acelere até Spica para identificar duas das estrelas mais brilhantes do céu.</p><p>Na verdade, Spica é um excelente exemplo de estrela de 1ª magnitude. Isto significa que, de acordo com uma escala de brilho usada pela primeira vez pelos primeiros astrónomos Hiparco (c.190-c.120 AC) e Ptolomeu (c.100-c.170 DC), é uma das estrelas.</p><p>Está brilhando uma magnitude (2,5 vezes) mais do que Spica. Ele brilha com uma magnitude de -0,04.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/tonight/follow-the-arc-to-arcturus/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Se você aprender apenas o mnemônico de 1 estrela, escolha este! Vá até Arcturus e acelere até Spica para identificar duas das estrelas mais brilhantes do céu. O post Siga o arco para Arcturus e depois acelere para Spica apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Se você aprender apenas o mnemônico de 1 estrela, escolha este. Vá até Arcturus e acelere até Spica para identificar duas das estrelas mais brilhantes do céu.</p><p>Na verdade, Spica é um excelente exemplo de estrela de 1ª magnitude. Isto significa que, de acordo com uma escala de brilho usada pela primeira vez pelos primeiros astrónomos Hiparco (c.190-c.120 AC) e Ptolomeu (c.100-c.170 DC), é uma das estrelas.</p><p>Está brilhando uma magnitude (2,5 vezes) mais do que Spica. Ele brilha com uma magnitude de -0,04.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/tonight/follow-the-arc-to-arcturus/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>If you only ever learn 1 star mnemonic, make it this one! Arc to Arcturus and speed on to Spica to identify 2 of the sky&#x27;s brightest stars. The post Follow the arc to Arcturus, then speed on to Spica first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. If you only ever learn 1 star mnemonic, make it this one. Arc to Arcturus and speed on to Spica to identify 2 of the sky&#x27;s brightest stars.</p><p>In fact, Spica is a prime example of a 1st-magnitude star. This means that, according to a brightness scale first used by the early astronomers Hipparchus ( c.190-c.120 BCE ) and Ptolemy (c.100-c.170 CE), it is one of our sky’s brightest.</p><p>It’s shining one magnitude (2.5 times) more brightly than Spica. It shines at a magnitude of -0.04.</p><p>Arcturus is a giant star, located an estimated 36.7 light-years from Earth. It is the 4th brightest star in the night sky.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>It shines at +1.04 magnitude. It’s the 16th brightest star in the sky.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/tonight/follow-the-arc-to-arcturus/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Se você aprender apenas o mnemônico de 1 estrela, escolha este! Vá até Arcturus e acelere até Spica para identificar duas das estrelas mais.",
-      "Dado-chave: Se você aprender apenas o mnemônico de 1 estrela, escolha este!",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Se você aprender apenas o mnemônico de 1 estrela, escolha este! Vá até Arcturus e acelere até Spica para identificar duas das estrelas mais.",
-      "Dado-chave: Se você aprender apenas o mnemônico de 1 estrela, escolha este!",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: If you only ever learn 1 star mnemonic, make it this one! Arc to Arcturus and speed on to Spica to identify 2 of the sky's brightest stars. The post.",
-      "Key detail: If you only ever learn 1 star mnemonic, make it this one!",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "09 abr 2026",
-    "date_pt": "09 abr 2026",
-    "date_en": "09 Apr 2026",
-    "time": "09h00",
-    "time_pt": "09h00",
-    "time_en": "09:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-09T09:00:00+00:00",
-    "lastModifiedIso": "2026-04-09T09:00:00+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Siga o arco até Arcturus e depois acelere até Spica"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Siga o arco até Arcturus e depois acelere até Spica"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "Follow the arch to Arcturus and then speed to Spica"
-    ],
-    "srcUrl": "https://earthsky.org/tonight/follow-the-arc-to-arcturus/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=follow-the-arc-to-arcturus-then-speed-on-to-spica",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=follow-the-arc-to-arcturus-then-speed-on-to-spica",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=follow-the-arc-to-arcturus-then-speed-on-to-spica&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 72,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 52
     }
   }
 ]

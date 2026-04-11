@@ -40,14 +40,14 @@ window.postsData = [
     "date": "11 abr 2026",
     "date_pt": "11 abr 2026",
     "date_en": "11 Apr 2026",
-    "time": "08h57",
-    "time_pt": "08h57",
-    "time_en": "08:57 UTC",
+    "time": "09h54",
+    "time_pt": "09h54",
+    "time_en": "09:54 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-11T08:57:50.455551+00:00",
-    "lastModifiedIso": "2026-04-11T08:57:50.455551+00:00",
+    "publishedIso": "2026-04-11T09:54:23.459311+00:00",
+    "lastModifiedIso": "2026-04-11T09:54:23.459311+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "11 abr 2026",
     "date_pt": "11 abr 2026",
     "date_en": "11 Apr 2026",
-    "time": "08h57",
-    "time_pt": "08h57",
-    "time_en": "08:57 UTC",
+    "time": "09h54",
+    "time_pt": "09h54",
+    "time_en": "09:54 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-11T08:57:50.455495+00:00",
-    "lastModifiedIso": "2026-04-11T08:57:50.455495+00:00",
+    "publishedIso": "2026-04-11T09:54:23.459252+00:00",
+    "lastModifiedIso": "2026-04-11T09:54:23.459252+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,14 +250,14 @@ window.postsData = [
     "date": "11 abr 2026",
     "date_pt": "11 abr 2026",
     "date_en": "11 Apr 2026",
-    "time": "08h57",
-    "time_pt": "08h57",
-    "time_en": "08:57 UTC",
+    "time": "09h54",
+    "time_pt": "09h54",
+    "time_en": "09:54 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-11T08:57:50.455447+00:00",
-    "lastModifiedIso": "2026-04-11T08:57:50.455447+00:00",
+    "publishedIso": "2026-04-11T09:54:23.459180+00:00",
+    "lastModifiedIso": "2026-04-11T09:54:23.459180+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -355,14 +355,14 @@ window.postsData = [
     "date": "11 abr 2026",
     "date_pt": "11 abr 2026",
     "date_en": "11 Apr 2026",
-    "time": "08h57",
-    "time_pt": "08h57",
-    "time_en": "08:57 UTC",
+    "time": "09h54",
+    "time_pt": "09h54",
+    "time_en": "09:54 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-11T08:57:50.455386+00:00",
-    "lastModifiedIso": "2026-04-11T08:57:50.455386+00:00",
+    "publishedIso": "2026-04-11T09:54:23.459117+00:00",
+    "lastModifiedIso": "2026-04-11T09:54:23.459117+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -460,14 +460,14 @@ window.postsData = [
     "date": "11 abr 2026",
     "date_pt": "11 abr 2026",
     "date_en": "11 Apr 2026",
-    "time": "08h57",
-    "time_pt": "08h57",
-    "time_en": "08:57 UTC",
+    "time": "09h54",
+    "time_pt": "09h54",
+    "time_en": "09:54 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-11T08:57:50.455327+00:00",
-    "lastModifiedIso": "2026-04-11T08:57:50.455327+00:00",
+    "publishedIso": "2026-04-11T09:54:23.459055+00:00",
+    "lastModifiedIso": "2026-04-11T09:54:23.459055+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -528,6 +528,121 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "artemis-2-splashdown-astronauts-return-safely-from-historic-mission",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2026/04/Artemis-2-splashdown-NASA-April-10-2026-cropped.jpg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Respingo de Artemis 2! Astronautas retornam em segurança de missão histórica",
+    "title_pt": "Respingo de Artemis 2! Astronautas retornam em segurança de missão histórica",
+    "title_en": "Artemis 2 splashdown! Astronauts return safely from historic mission",
+    "sub": "A espaçonave Artemis 2 e seus 4 astronautas chegam hoje em casa. Splashdown está marcado para 19h07. m. CDT perto da Califórnia. Assista ao retorno deles aqui. O post Splashdown.",
+    "sub_pt": "A espaçonave Artemis 2 e seus 4 astronautas chegam hoje em casa. Splashdown está marcado para 19h07. m. CDT perto da Califórnia. Assista ao retorno deles aqui. O post Splashdown.",
+    "sub_en": "The Artemis 2 spacecraft and its 4 astronauts arrive home today. Splashdown is scheduled for 7: 07 p. m. CDT near California. Watch their return here. The post Artemis 2.",
+    "excerpt": "A espaçonave Artemis 2 e seus 4 astronautas chegam hoje em casa. Splashdown está marcado para 19h07. m. CDT perto da Califórnia. Assista ao retorno deles aqui. O post Splashdown do Artemis 2! Os astronautas retornam primeiro em segurança da missão histórica.",
+    "excerpt_pt": "A espaçonave Artemis 2 e seus 4 astronautas chegam hoje em casa. Splashdown está marcado para 19h07. m. CDT perto da Califórnia. Assista ao retorno deles aqui. O post Splashdown do Artemis 2! Os astronautas retornam primeiro em segurança da missão histórica.",
+    "excerpt_en": "The Artemis 2 spacecraft and its 4 astronauts arrive home today. Splashdown is scheduled for 7: 07 p. m. CDT near California. Watch their return here. The post Artemis 2 splashdown! Astronauts return safely from historic mission first.",
+    "body": "<p>A espaçonave Artemis 2 e seus 4 astronautas chegam hoje em casa. Splashdown está marcado para 19h07. m. CDT perto da Califórnia. Assista ao retorno deles aqui. O post Splashdown do Artemis 2! Os astronautas retornam primeiro em segurança da missão histórica. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A sua missão, uma viagem à volta da Lua que os levou para mais longe da Terra do que os humanos alguma vez estiveram, está planeada como a primeira de uma série que acabará por. O vôo de teste Artemis 2 foi lançado na quarta-feira, 1º de abril, do Centro Espacial Kennedy da NASA, na Flórida.</p><p>E 10 dias depois, a nave espacial Orion com os quatro astronautas a bordo encontrou mais uma vez a atmosfera da Terra, viajando a quase 40.000 km/h (cerca de 35 vezes a velocidade. O piloto Victor Glover e a especialista em missões Christina Koch da NASA, juntamente com o especialista em missões Jeremy Hansen da CSA (Agência Espacial Canadense), após a queda.</p><p>Veja as melhores imagens da Artemis 2 A espaçonave Orion da NASA é vista enquanto as equipes de recuperação trabalham para proteger a espaçonave antes da transferência da. Por volta das 18 UTC de 6 de abril de 2026, a tripulação atingiu a maior distância da Terra já percorrida por humanos, quebrando o recorde de 248.655 milhas (400.171 km).</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/spaceflight/the-artemis-program-nasas-mission-return-to-the-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A espaçonave Artemis 2 e seus 4 astronautas chegam hoje em casa. Splashdown está marcado para 19h07. m. CDT perto da Califórnia. Assista ao retorno deles aqui. O post Splashdown do Artemis 2! Os astronautas retornam primeiro em segurança da missão histórica. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A sua missão, uma viagem à volta da Lua que os levou para mais longe da Terra do que os humanos alguma vez estiveram, está planeada como a primeira de uma série que acabará por. O vôo de teste Artemis 2 foi lançado na quarta-feira, 1º de abril, do Centro Espacial Kennedy da NASA, na Flórida.</p><p>E 10 dias depois, a nave espacial Orion com os quatro astronautas a bordo encontrou mais uma vez a atmosfera da Terra, viajando a quase 40.000 km/h (cerca de 35 vezes a velocidade. O piloto Victor Glover e a especialista em missões Christina Koch da NASA, juntamente com o especialista em missões Jeremy Hansen da CSA (Agência Espacial Canadense), após a queda.</p><p>Veja as melhores imagens da Artemis 2 A espaçonave Orion da NASA é vista enquanto as equipes de recuperação trabalham para proteger a espaçonave antes da transferência da. Por volta das 18 UTC de 6 de abril de 2026, a tripulação atingiu a maior distância da Terra já percorrida por humanos, quebrando o recorde de 248.655 milhas (400.171 km).</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/spaceflight/the-artemis-program-nasas-mission-return-to-the-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The Artemis 2 spacecraft and its 4 astronauts arrive home today. Splashdown is scheduled for 7: 07 p. m. CDT near California. Watch their return here. The post Artemis 2 splashdown! Astronauts return safely from historic mission first. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Their mission, a trip around the moon that took them farther from Earth than humans have ever been, is planned as the first in a series that’ll ultimately give us a human base on. The Artemis 2 test flight launched on Wednesday, April 1, from NASA’s Kennedy Space Center in Florida.</p><p>And 10 days later, the Orion spacecraft with the four astronauts aboard once again encountered Earth’s atmosphere, traveling at nearly 25,000 mph (roughly 35 times the speed of. Pilot Victor Glover, and Mission Specialist Christina Koch from NASA, along with Mission Specialist Jeremy Hansen from the CSA (Canadian Space Agency), following splashdown in the.</p><p>See the best images from Artemis 2 NASA’s Orion spacecraft is seen as recovery teams work to secure the spacecraft ahead of transferring the Artemis 2 crew to USS John P. At around 18 UTC on April 6, 2026, the crew reached the farthest distance from Earth ever traveled by humans, breaking the record of 248,655 miles (400,171km) set by the Apollo 13.</p><p>As they soared some 4,600 miles (7,400 km) above the lunar surface, the brave astronauts had no contact with Earth for 40 minutes. It was during that time that the crew set the new distance record: 252,756 miles (406,771km), the greatest distance humans have ever traveled from Earth.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>During the closest approach, some 21% of the moon’s far side was illuminated by the sun, revealing parts of our natural satellite that were in darkness for the Apollo astronauts. Soon after Earth reappeared over the lunar horizon, and communications with mission control were restored, the crew were treated to a unique total eclipse of the sun.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/spaceflight/the-artemis-program-nasas-mission-return-to-the-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A espaçonave Artemis 2 e seus 4 astronautas chegam hoje em casa. Splashdown está marcado para 19h07. m. CDT perto da Califórnia. Assista ao retorno.",
+      "Dado-chave: A sua missão, uma viagem à volta da Lua que os levou para mais longe da Terra do que os humanos alguma vez estiveram, está planeada como a.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A espaçonave Artemis 2 e seus 4 astronautas chegam hoje em casa. Splashdown está marcado para 19h07. m. CDT perto da Califórnia. Assista ao retorno.",
+      "Dado-chave: A sua missão, uma viagem à volta da Lua que os levou para mais longe da Terra do que os humanos alguma vez estiveram, está planeada como a.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The Artemis 2 spacecraft and its 4 astronauts arrive home today. Splashdown is scheduled for 7: 07 p. m. CDT near California. Watch their return.",
+      "Key detail: Their mission, a trip around the moon that took them farther from Earth than humans have ever been, is planned as the first in a series that’ll.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "11 abr 2026",
+    "date_pt": "11 abr 2026",
+    "date_en": "11 Apr 2026",
+    "time": "09h14",
+    "time_pt": "09h14",
+    "time_en": "09:14 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-11T09:14:31+00:00",
+    "lastModifiedIso": "2026-04-11T09:14:31+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Respingo de Artemis 2! Astronautas retornam em segurança de missão histórica"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Respingo de Artemis 2! Astronautas retornam em segurança de missão histórica"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "Artemis 2 Splash! Astronauts return safely from historic mission"
+    ],
+    "srcUrl": "https://earthsky.org/spaceflight/the-artemis-program-nasas-mission-return-to-the-moon/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=artemis-2-splashdown-astronauts-return-safely-from-historic-mission",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=artemis-2-splashdown-astronauts-return-safely-from-historic-mission",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=artemis-2-splashdown-astronauts-return-safely-from-historic-mission&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 73,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "after-artemis-ii-nasa-looks-to-spacex-blue-origin-for-moon-landings",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -643,7 +758,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -657,7 +772,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "artemis-ii-s-record-breaking-journey-around-the-moon-ends-with-dramatic-splashdown",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -790,7 +905,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -898,7 +1013,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "artemis-ii-splashdown",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1029,139 +1144,6 @@ window.postsData = [
       "source": 80,
       "evidence": 88,
       "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "chang-e-mission-samples-reveal-how-exogenous-organic-matter-evolves-on-the-moon",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/change-mission-samples.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/change-mission-samples.jpg",
-        "caption": "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na Lua",
-        "caption_pt": "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na Lua",
-        "caption_en": "Chang'e mission samples reveal how exogenous organic matter evolves on the Moon",
-        "alt": "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na Lua",
-        "alt_pt": "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na Lua",
-        "alt_en": "Chang'e mission samples reveal how exogenous organic matter evolves on the Moon"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/change-mission-samples-1.jpg",
-        "caption": "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na Lua",
-        "caption_pt": "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na Lua",
-        "caption_en": "Chang'e mission samples reveal how exogenous organic matter evolves on the Moon",
-        "alt": "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na Lua",
-        "alt_pt": "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na Lua",
-        "alt_en": "Chang'e mission samples reveal how exogenous organic matter evolves on the Moon"
-      },
-      {
-        "src": "https://scx0.b-cdn.net/pic/Gaby.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na lua",
-    "title_pt": "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na lua",
-    "title_en": "Chang'e mission samples reveal how exogenous organic matter evolves on the moon",
-    "sub": "Elementos essenciais à vida, como carbono, nitrogênio, oxigênio, fósforo e enxofre, foram “entregues” à Terra e à Lua durante os estágios iniciais do sistema solar através de.",
-    "sub_pt": "Elementos essenciais à vida, como carbono, nitrogênio, oxigênio, fósforo e enxofre, foram “entregues” à Terra e à Lua durante os estágios iniciais do sistema solar através de.",
-    "sub_en": "Elements essential to life, such as carbon, nitrogen, oxygen, phosphorus, and sulfur, were \"delivered\" to Earth and the moon during the early stages of the solar system via.",
-    "excerpt": "Elementos essenciais à vida, como carbono, nitrogênio, oxigênio, fósforo e enxofre, foram “entregues” à Terra e à Lua durante os estágios iniciais do sistema solar através de asteróides e cometas que impactaram suas superfícies. Estes exógenos.",
-    "excerpt_pt": "Elementos essenciais à vida, como carbono, nitrogênio, oxigênio, fósforo e enxofre, foram “entregues” à Terra e à Lua durante os estágios iniciais do sistema solar através de asteróides e cometas que impactaram suas superfícies. Estes exógenos.",
-    "excerpt_en": "Elements essential to life, such as carbon, nitrogen, oxygen, phosphorus, and sulfur, were \"delivered\" to Earth and the moon during the early stages of the solar system via asteroids and comets impacting their surfaces. These exogenous.",
-    "body": "<p>Elementos essenciais à vida, como carbono, nitrogênio, oxigênio, fósforo e enxofre, foram “entregues” à Terra e à Lua durante os estágios iniciais do sistema solar através de asteróides e cometas que impactaram suas superfícies. Estes exógenos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Mas a extensa atividade geológica e os processos biológicos na Terra apagaram em grande parte o direto. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida matéria orgânica representativa nos solos.</p><p>Imagens de elétrons secundários adquiridas por microscopia eletrônica de varredura sobrepostas a mapas elementares de carbono de espectroscopia de energia dispersiva. Estes materiais exógenos podem ter fornecido os blocos de construção químicos necessários para a origem e evolução inicial da vida na Terra.</p><p>Mas a extensa actividade geológica e os processos biológicos na Terra apagaram em grande parte os registos directos destes primeiros dados no nosso planeta.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-mission-samples-reveal-exogenous-evolves.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Elementos essenciais à vida, como carbono, nitrogênio, oxigênio, fósforo e enxofre, foram “entregues” à Terra e à Lua durante os estágios iniciais do sistema solar através de asteróides e cometas que impactaram suas superfícies. Estes exógenos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Mas a extensa atividade geológica e os processos biológicos na Terra apagaram em grande parte o direto. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida matéria orgânica representativa nos solos.</p><p>Imagens de elétrons secundários adquiridas por microscopia eletrônica de varredura sobrepostas a mapas elementares de carbono de espectroscopia de energia dispersiva. Estes materiais exógenos podem ter fornecido os blocos de construção químicos necessários para a origem e evolução inicial da vida na Terra.</p><p>Mas a extensa actividade geológica e os processos biológicos na Terra apagaram em grande parte os registos directos destes primeiros dados no nosso planeta.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-mission-samples-reveal-exogenous-evolves.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Elements essential to life, such as carbon, nitrogen, oxygen, phosphorus, and sulfur, were &quot;delivered&quot; to Earth and the moon during the early stages of the solar system via asteroids and comets impacting their surfaces. These exogenous. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. But extensive geological activity and biological processes on Earth have largely erased the direct. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Representative organic matter in Chang&#x27;e-6 (A, B) and Chang&#x27;e-5.</p><p>Secondary electron images acquired by scanning electron microscopy overlaid with carbon elemental maps from energy-dispersive spectroscopy. These exogenous materials may have provided the chemical building blocks necessary for the origin and early evolution of life on Earth.</p><p>But extensive geological activity and biological processes on Earth have largely erased the direct records of these early inputs on our planet. In contrast, the moon, with its relatively limited geological activity, serves as a natural &quot;time capsule,&quot; making it easier to unravel the history and evolution of.</p><p>A recent study has, for the first time, systematically identified multiple nitrogen-bearing organic species on the surfaces of lunar soil grains returned by China&#x27;s Chang&#x27;e-5 and. The study was led by a research team from the Institute of Geology and Geophysics of the Chinese Academy of Sciences (IGGCAS), in collaboration with researchers from institutions.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Their findings were published in Science Advances on April 8. For the study, the team selected lunar soil grains returned by the Chang&#x27;e-5 and Chang&#x27;e-6 missions for in-depth analysis.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-mission-samples-reveal-exogenous-evolves.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Elementos essenciais à vida, como carbono, nitrogênio, oxigênio, fósforo e enxofre, foram “entregues” à Terra e à Lua durante os estágios iniciais do.",
-      "Dado-chave: Mas a extensa atividade geológica e os processos biológicos na Terra apagaram em grande parte o direto.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Elementos essenciais à vida, como carbono, nitrogênio, oxigênio, fósforo e enxofre, foram “entregues” à Terra e à Lua durante os estágios iniciais do.",
-      "Dado-chave: Mas a extensa atividade geológica e os processos biológicos na Terra apagaram em grande parte o direto.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Elements essential to life, such as carbon, nitrogen, oxygen, phosphorus, and sulfur, were \"delivered\" to Earth and the moon during the early stages.",
-      "Key detail: But extensive geological activity and biological processes on Earth have largely erased the direct.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "10 abr 2026",
-    "date_pt": "10 abr 2026",
-    "date_en": "10 Apr 2026",
-    "time": "22h40",
-    "time_pt": "22h40",
-    "time_en": "22:40 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-10T22:40:03+00:00",
-    "lastModifiedIso": "2026-04-10T22:40:03+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Física",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na lua"
-    ],
-    "keywords_pt": [
-      "Física",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na lua"
-    ],
-    "keywords_en": [
-      "Physical",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Chang'e mission samples reveal how exogenous organic matter evolves on the moon"
-    ],
-    "srcUrl": "https://phys.org/news/2026-04-mission-samples-reveal-exogenous-evolves.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=chang-e-mission-samples-reveal-how-exogenous-organic-matter-evolves-on-the-moon",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=chang-e-mission-samples-reveal-how-exogenous-organic-matter-evolves-on-the-moon",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=chang-e-mission-samples-reveal-how-exogenous-organic-matter-evolves-on-the-moon&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 82,
       "accessibility": 60,
       "novelty": 55
     }
@@ -2371,6 +2353,139 @@ window.postsData = [
   },
   {
     "id": 21,
+    "slug": "chang-e-mission-samples-reveal-how-exogenous-organic-matter-evolves-on-the-moon",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/change-mission-samples.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/change-mission-samples.jpg",
+        "caption": "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na Lua",
+        "caption_pt": "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na Lua",
+        "caption_en": "Chang'e mission samples reveal how exogenous organic matter evolves on the Moon",
+        "alt": "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na Lua",
+        "alt_pt": "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na Lua",
+        "alt_en": "Chang'e mission samples reveal how exogenous organic matter evolves on the Moon"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/change-mission-samples-1.jpg",
+        "caption": "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na Lua",
+        "caption_pt": "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na Lua",
+        "caption_en": "Chang'e mission samples reveal how exogenous organic matter evolves on the Moon",
+        "alt": "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na Lua",
+        "alt_pt": "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na Lua",
+        "alt_en": "Chang'e mission samples reveal how exogenous organic matter evolves on the Moon"
+      },
+      {
+        "src": "https://scx0.b-cdn.net/pic/Gaby.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na lua",
+    "title_pt": "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na lua",
+    "title_en": "Chang'e mission samples reveal how exogenous organic matter evolves on the moon",
+    "sub": "Elementos essenciais à vida, como carbono, nitrogênio, oxigênio, fósforo e enxofre, foram “entregues” à Terra e à Lua durante os estágios iniciais do sistema solar através de.",
+    "sub_pt": "Elementos essenciais à vida, como carbono, nitrogênio, oxigênio, fósforo e enxofre, foram “entregues” à Terra e à Lua durante os estágios iniciais do sistema solar através de.",
+    "sub_en": "Elements essential to life, such as carbon, nitrogen, oxygen, phosphorus, and sulfur, were \"delivered\" to Earth and the moon during the early stages of the solar system via.",
+    "excerpt": "Elementos essenciais à vida, como carbono, nitrogênio, oxigênio, fósforo e enxofre, foram “entregues” à Terra e à Lua durante os estágios iniciais do sistema solar através de asteróides e cometas que impactaram suas superfícies. Estes exógenos.",
+    "excerpt_pt": "Elementos essenciais à vida, como carbono, nitrogênio, oxigênio, fósforo e enxofre, foram “entregues” à Terra e à Lua durante os estágios iniciais do sistema solar através de asteróides e cometas que impactaram suas superfícies. Estes exógenos.",
+    "excerpt_en": "Elements essential to life, such as carbon, nitrogen, oxygen, phosphorus, and sulfur, were \"delivered\" to Earth and the moon during the early stages of the solar system via asteroids and comets impacting their surfaces. These exogenous.",
+    "body": "<p>Elementos essenciais à vida, como carbono, nitrogênio, oxigênio, fósforo e enxofre, foram “entregues” à Terra e à Lua durante os estágios iniciais do sistema solar através de asteróides e cometas que impactaram suas superfícies. Estes exógenos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Mas a extensa atividade geológica e os processos biológicos na Terra apagaram em grande parte o direto. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida matéria orgânica representativa nos solos.</p><p>Imagens de elétrons secundários adquiridas por microscopia eletrônica de varredura sobrepostas a mapas elementares de carbono de espectroscopia de energia dispersiva. Estes materiais exógenos podem ter fornecido os blocos de construção químicos necessários para a origem e evolução inicial da vida na Terra.</p><p>Mas a extensa actividade geológica e os processos biológicos na Terra apagaram em grande parte os registos directos destes primeiros dados no nosso planeta.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-mission-samples-reveal-exogenous-evolves.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Elementos essenciais à vida, como carbono, nitrogênio, oxigênio, fósforo e enxofre, foram “entregues” à Terra e à Lua durante os estágios iniciais do sistema solar através de asteróides e cometas que impactaram suas superfícies. Estes exógenos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Mas a extensa atividade geológica e os processos biológicos na Terra apagaram em grande parte o direto. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida matéria orgânica representativa nos solos.</p><p>Imagens de elétrons secundários adquiridas por microscopia eletrônica de varredura sobrepostas a mapas elementares de carbono de espectroscopia de energia dispersiva. Estes materiais exógenos podem ter fornecido os blocos de construção químicos necessários para a origem e evolução inicial da vida na Terra.</p><p>Mas a extensa actividade geológica e os processos biológicos na Terra apagaram em grande parte os registos directos destes primeiros dados no nosso planeta.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-mission-samples-reveal-exogenous-evolves.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Elements essential to life, such as carbon, nitrogen, oxygen, phosphorus, and sulfur, were &quot;delivered&quot; to Earth and the moon during the early stages of the solar system via asteroids and comets impacting their surfaces. These exogenous. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. But extensive geological activity and biological processes on Earth have largely erased the direct. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Representative organic matter in Chang&#x27;e-6 (A, B) and Chang&#x27;e-5.</p><p>Secondary electron images acquired by scanning electron microscopy overlaid with carbon elemental maps from energy-dispersive spectroscopy. These exogenous materials may have provided the chemical building blocks necessary for the origin and early evolution of life on Earth.</p><p>But extensive geological activity and biological processes on Earth have largely erased the direct records of these early inputs on our planet. In contrast, the moon, with its relatively limited geological activity, serves as a natural &quot;time capsule,&quot; making it easier to unravel the history and evolution of.</p><p>A recent study has, for the first time, systematically identified multiple nitrogen-bearing organic species on the surfaces of lunar soil grains returned by China&#x27;s Chang&#x27;e-5 and. The study was led by a research team from the Institute of Geology and Geophysics of the Chinese Academy of Sciences (IGGCAS), in collaboration with researchers from institutions.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Their findings were published in Science Advances on April 8. For the study, the team selected lunar soil grains returned by the Chang&#x27;e-5 and Chang&#x27;e-6 missions for in-depth analysis.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-mission-samples-reveal-exogenous-evolves.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Elementos essenciais à vida, como carbono, nitrogênio, oxigênio, fósforo e enxofre, foram “entregues” à Terra e à Lua durante os estágios iniciais do.",
+      "Dado-chave: Mas a extensa atividade geológica e os processos biológicos na Terra apagaram em grande parte o direto.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Elementos essenciais à vida, como carbono, nitrogênio, oxigênio, fósforo e enxofre, foram “entregues” à Terra e à Lua durante os estágios iniciais do.",
+      "Dado-chave: Mas a extensa atividade geológica e os processos biológicos na Terra apagaram em grande parte o direto.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Elements essential to life, such as carbon, nitrogen, oxygen, phosphorus, and sulfur, were \"delivered\" to Earth and the moon during the early stages.",
+      "Key detail: But extensive geological activity and biological processes on Earth have largely erased the direct.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "10 abr 2026",
+    "date_pt": "10 abr 2026",
+    "date_en": "10 Apr 2026",
+    "time": "22h40",
+    "time_pt": "22h40",
+    "time_en": "22:40 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-10T22:40:03+00:00",
+    "lastModifiedIso": "2026-04-10T22:40:03+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na lua"
+    ],
+    "keywords_pt": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Amostras da missão Chang'e revelam como a matéria orgânica exógena evolui na lua"
+    ],
+    "keywords_en": [
+      "Physical",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Chang'e mission samples reveal how exogenous organic matter evolves on the moon"
+    ],
+    "srcUrl": "https://phys.org/news/2026-04-mission-samples-reveal-exogenous-evolves.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=chang-e-mission-samples-reveal-how-exogenous-organic-matter-evolves-on-the-moon",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=chang-e-mission-samples-reveal-how-exogenous-organic-matter-evolves-on-the-moon",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=chang-e-mission-samples-reveal-how-exogenous-organic-matter-evolves-on-the-moon&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 82,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 22,
     "slug": "a-new-class-of-star-merger-remnant",
     "cat": "Física",
     "catCls": "fisica",
@@ -2506,7 +2621,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "nsf-launches-100m-national-quantum-and-nanotechnology-research-infrastructure-program",
     "cat": "Física",
     "catCls": "fisica",
@@ -2639,7 +2754,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "a-baby-star-blows-a-giant-gaseous-ring",
     "cat": "Química",
     "catCls": "quimica",
@@ -2758,139 +2873,6 @@ window.postsData = [
       "source": 73,
       "evidence": 82,
       "relevance": 82,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 24,
-    "slug": "earthset-from-the-lunar-far-side",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/earthset-from-the-lunar-far-side/earthset_55192132107_00dc598014_o.jpg?w=5568&h=3712&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/snow-in-the-shadow-of-the-andes/patagoniasnow_tmo_20260403_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Grandes áreas de neve cobrem as planícies áridas do sul da Argentina. Vários grandes lagos contendo água em tons de azul leitoso são visíveis, enquanto os Andes estão velados por nuvens no lado esquerdo.",
-        "caption_pt": "Grandes áreas de neve cobrem as planícies áridas do sul da Argentina. Vários grandes lagos contendo água em tons de azul leitoso são visíveis, enquanto os Andes estão velados por nuvens no lado esquerdo.",
-        "caption_en": "Large areas of snow cover the arid plains of southern Argentina. Several large lakes containing water in shades of milky blue are visible, while the Andes are veiled by clouds along the left side.",
-        "alt": "Grandes áreas de neve cobrem as planícies áridas do sul da Argentina. Vários grandes lagos contendo água em tons de azul leitoso são visíveis, enquanto os Andes estão velados por nuvens no lado esquerdo.",
-        "alt_pt": "Grandes áreas de neve cobrem as planícies áridas do sul da Argentina. Vários grandes lagos contendo água em tons de azul leitoso são visíveis, enquanto os Andes estão velados por nuvens no lado esquerdo.",
-        "alt_en": "Large areas of snow cover the arid plains of southern Argentina. Several large lakes containing water in shades of milky blue are visible, while the Andes are veiled by clouds along the left side."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/shades-of-a-lunar-eclipse/alaskalunar_vir2_20260303_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/city-lights-glow-along-moonlit-waters/iss072e807123_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Earthset do outro lado lunar",
-    "title_pt": "Earthset do outro lado lunar",
-    "title_en": "Earthset From the Lunar Far Side",
-    "sub": "A tripulação da missão Artemis II da NASA capturou imagens extraordinárias do nosso planeta natal durante a sua viagem ao redor do outro lado da Lua.",
-    "sub_pt": "A tripulação da missão Artemis II da NASA capturou imagens extraordinárias do nosso planeta natal durante a sua viagem ao redor do outro lado da Lua.",
-    "sub_en": "The crew of NASA’s Artemis II mission captured extraordinary images of our home planet during their journey around the far side of the Moon.",
-    "excerpt": "A tripulação da missão Artemis II da NASA capturou imagens extraordinárias do nosso planeta natal durante a sua viagem ao redor do outro lado da Lua.",
-    "excerpt_pt": "A tripulação da missão Artemis II da NASA capturou imagens extraordinárias do nosso planeta natal durante a sua viagem ao redor do outro lado da Lua.",
-    "excerpt_en": "The crew of NASA’s Artemis II mission captured extraordinary images of our home planet during their journey around the far side of the Moon.",
-    "body": "<p>A tripulação da missão Artemis II da NASA capturou imagens extraordinárias do nosso planeta natal durante a sua viagem ao redor do outro lado da Lua. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 2026 A missão Artemis II da NASA concluirá sua jornada de 10 dias ao redor da Lua em 10 de abril. Downloads 6 de abril de 2026 JPEG (1,13 MB) Referências e recursos NASA (2026, 7 de abril) Artemis II Lunar Flyby.</p><p>Sombras de um Eclipse Lunar 3 min de leitura Uma série de imagens noturnas de satélite revelou como a luz da lua atingindo a Terra variou durante um eclipse lunar total. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>Artigo Veja mais imagens do dia: 9 de abril de 2026 Instrumentos: Coleções de fotografias: Terra vista de longe 6 de abril de 2026 A missão Artemis II da NASA concluirá sua.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/earthset-from-the-lunar-far-side/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A tripulação da missão Artemis II da NASA capturou imagens extraordinárias do nosso planeta natal durante a sua viagem ao redor do outro lado da Lua. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 2026 A missão Artemis II da NASA concluirá sua jornada de 10 dias ao redor da Lua em 10 de abril. Downloads 6 de abril de 2026 JPEG (1,13 MB) Referências e recursos NASA (2026, 7 de abril) Artemis II Lunar Flyby.</p><p>Sombras de um Eclipse Lunar 3 min de leitura Uma série de imagens noturnas de satélite revelou como a luz da lua atingindo a Terra variou durante um eclipse lunar total. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>Artigo Veja mais imagens do dia: 9 de abril de 2026 Instrumentos: Coleções de fotografias: Terra vista de longe 6 de abril de 2026 A missão Artemis II da NASA concluirá sua.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/earthset-from-the-lunar-far-side/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The crew of NASA’s Artemis II mission captured extraordinary images of our home planet during their journey around the far side of the Moon. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. 2026 NASA’s Artemis II mission will conclude its 10-day journey around the Moon on April 10. Downloads April 6, 2026 JPEG (1.13 MB) References &amp; Resources NASA (2026, April 7) Artemis II Lunar Flyby.</p><p>Shades of a Lunar Eclipse 3 min read A series of nighttime satellite images revealed how moonlight reaching Earth varied throughout a total lunar eclipse. Earth Observatory Image of the Day NASA’s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p><p>Article View more Images of the Day: Apr 9, 2026 Instruments: Photograph Collections: Earth from Afar April 6, 2026 NASA’s Artemis II mission will conclude its 10-day journey. Eastern Daylight Time on April 6, 2026, as the Artemis II astronauts passed behind the Moon’s far side.</p><p>References &amp; Resources NASA (2026, April 7) Artemis II Lunar Flyby. Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Article The Galaxy Next Door 3 min read The Large Magellanic Cloud, one of our closest neighboring galaxies, is a hotbed of star formation that is visible to both astronauts. NASA&#x27;s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/earthset-from-the-lunar-far-side/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A tripulação da missão Artemis II da NASA capturou imagens extraordinárias do nosso planeta natal durante a sua viagem ao redor do outro lado da Lua.",
-      "Dado-chave: 2026 A missão Artemis II da NASA concluirá sua jornada de 10 dias ao redor da Lua em 10 de abril.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A tripulação da missão Artemis II da NASA capturou imagens extraordinárias do nosso planeta natal durante a sua viagem ao redor do outro lado da Lua.",
-      "Dado-chave: 2026 A missão Artemis II da NASA concluirá sua jornada de 10 dias ao redor da Lua em 10 de abril.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The crew of NASA’s Artemis II mission captured extraordinary images of our home planet during their journey around the far side of the Moon.",
-      "Key detail: 2026 NASA’s Artemis II mission will conclude its 10-day journey around the Moon on April 10,",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "10 abr 2026",
-    "date_pt": "10 abr 2026",
-    "date_en": "10 Apr 2026",
-    "time": "04h00",
-    "time_pt": "04h00",
-    "time_en": "04:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-10T04:00:00+00:00",
-    "lastModifiedIso": "2026-04-10T04:00:00+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Earthset do outro lado lunar"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Earthset do outro lado lunar"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Earthset on the far side of the moon"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/earthset-from-the-lunar-far-side/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=earthset-from-the-lunar-far-side",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=earthset-from-the-lunar-far-side",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=earthset-from-the-lunar-far-side&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 79,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 80,
       "accessibility": 60,
       "novelty": 52
     }
@@ -3614,6 +3596,139 @@ window.postsData = [
   },
   {
     "id": 31,
+    "slug": "earthset-from-the-lunar-far-side",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/earthset-from-the-lunar-far-side/earthset_55192132107_00dc598014_o.jpg?w=5568&h=3712&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/snow-in-the-shadow-of-the-andes/patagoniasnow_tmo_20260403_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Grandes áreas de neve cobrem as planícies áridas do sul da Argentina. Vários grandes lagos contendo água em tons de azul leitoso são visíveis, enquanto os Andes estão velados por nuvens no lado esquerdo.",
+        "caption_pt": "Grandes áreas de neve cobrem as planícies áridas do sul da Argentina. Vários grandes lagos contendo água em tons de azul leitoso são visíveis, enquanto os Andes estão velados por nuvens no lado esquerdo.",
+        "caption_en": "Large areas of snow cover the arid plains of southern Argentina. Several large lakes containing water in shades of milky blue are visible, while the Andes are veiled by clouds along the left side.",
+        "alt": "Grandes áreas de neve cobrem as planícies áridas do sul da Argentina. Vários grandes lagos contendo água em tons de azul leitoso são visíveis, enquanto os Andes estão velados por nuvens no lado esquerdo.",
+        "alt_pt": "Grandes áreas de neve cobrem as planícies áridas do sul da Argentina. Vários grandes lagos contendo água em tons de azul leitoso são visíveis, enquanto os Andes estão velados por nuvens no lado esquerdo.",
+        "alt_en": "Large areas of snow cover the arid plains of southern Argentina. Several large lakes containing water in shades of milky blue are visible, while the Andes are veiled by clouds along the left side."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/shades-of-a-lunar-eclipse/alaskalunar_vir2_20260303_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/city-lights-glow-along-moonlit-waters/iss072e807123_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Earthset do outro lado lunar",
+    "title_pt": "Earthset do outro lado lunar",
+    "title_en": "Earthset From the Lunar Far Side",
+    "sub": "A tripulação da missão Artemis II da NASA capturou imagens extraordinárias do nosso planeta natal durante a sua viagem ao redor do outro lado da Lua.",
+    "sub_pt": "A tripulação da missão Artemis II da NASA capturou imagens extraordinárias do nosso planeta natal durante a sua viagem ao redor do outro lado da Lua.",
+    "sub_en": "The crew of NASA’s Artemis II mission captured extraordinary images of our home planet during their journey around the far side of the Moon.",
+    "excerpt": "A tripulação da missão Artemis II da NASA capturou imagens extraordinárias do nosso planeta natal durante a sua viagem ao redor do outro lado da Lua.",
+    "excerpt_pt": "A tripulação da missão Artemis II da NASA capturou imagens extraordinárias do nosso planeta natal durante a sua viagem ao redor do outro lado da Lua.",
+    "excerpt_en": "The crew of NASA’s Artemis II mission captured extraordinary images of our home planet during their journey around the far side of the Moon.",
+    "body": "<p>A tripulação da missão Artemis II da NASA capturou imagens extraordinárias do nosso planeta natal durante a sua viagem ao redor do outro lado da Lua. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 2026 A missão Artemis II da NASA concluirá sua jornada de 10 dias ao redor da Lua em 10 de abril. Downloads 6 de abril de 2026 JPEG (1,13 MB) Referências e recursos NASA (2026, 7 de abril) Artemis II Lunar Flyby.</p><p>Sombras de um Eclipse Lunar 3 min de leitura Uma série de imagens noturnas de satélite revelou como a luz da lua atingindo a Terra variou durante um eclipse lunar total. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>Artigo Veja mais imagens do dia: 9 de abril de 2026 Instrumentos: Coleções de fotografias: Terra vista de longe 6 de abril de 2026 A missão Artemis II da NASA concluirá sua.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/earthset-from-the-lunar-far-side/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A tripulação da missão Artemis II da NASA capturou imagens extraordinárias do nosso planeta natal durante a sua viagem ao redor do outro lado da Lua. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 2026 A missão Artemis II da NASA concluirá sua jornada de 10 dias ao redor da Lua em 10 de abril. Downloads 6 de abril de 2026 JPEG (1,13 MB) Referências e recursos NASA (2026, 7 de abril) Artemis II Lunar Flyby.</p><p>Sombras de um Eclipse Lunar 3 min de leitura Uma série de imagens noturnas de satélite revelou como a luz da lua atingindo a Terra variou durante um eclipse lunar total. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>Artigo Veja mais imagens do dia: 9 de abril de 2026 Instrumentos: Coleções de fotografias: Terra vista de longe 6 de abril de 2026 A missão Artemis II da NASA concluirá sua.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/earthset-from-the-lunar-far-side/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The crew of NASA’s Artemis II mission captured extraordinary images of our home planet during their journey around the far side of the Moon. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. 2026 NASA’s Artemis II mission will conclude its 10-day journey around the Moon on April 10. Downloads April 6, 2026 JPEG (1.13 MB) References &amp; Resources NASA (2026, April 7) Artemis II Lunar Flyby.</p><p>Shades of a Lunar Eclipse 3 min read A series of nighttime satellite images revealed how moonlight reaching Earth varied throughout a total lunar eclipse. Earth Observatory Image of the Day NASA’s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p><p>Article View more Images of the Day: Apr 9, 2026 Instruments: Photograph Collections: Earth from Afar April 6, 2026 NASA’s Artemis II mission will conclude its 10-day journey. Eastern Daylight Time on April 6, 2026, as the Artemis II astronauts passed behind the Moon’s far side.</p><p>References &amp; Resources NASA (2026, April 7) Artemis II Lunar Flyby. Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Article The Galaxy Next Door 3 min read The Large Magellanic Cloud, one of our closest neighboring galaxies, is a hotbed of star formation that is visible to both astronauts. NASA&#x27;s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/earthset-from-the-lunar-far-side/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A tripulação da missão Artemis II da NASA capturou imagens extraordinárias do nosso planeta natal durante a sua viagem ao redor do outro lado da Lua.",
+      "Dado-chave: 2026 A missão Artemis II da NASA concluirá sua jornada de 10 dias ao redor da Lua em 10 de abril.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A tripulação da missão Artemis II da NASA capturou imagens extraordinárias do nosso planeta natal durante a sua viagem ao redor do outro lado da Lua.",
+      "Dado-chave: 2026 A missão Artemis II da NASA concluirá sua jornada de 10 dias ao redor da Lua em 10 de abril.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The crew of NASA’s Artemis II mission captured extraordinary images of our home planet during their journey around the far side of the Moon.",
+      "Key detail: 2026 NASA’s Artemis II mission will conclude its 10-day journey around the Moon on April 10,",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "10 abr 2026",
+    "date_pt": "10 abr 2026",
+    "date_en": "10 Apr 2026",
+    "time": "04h00",
+    "time_pt": "04h00",
+    "time_en": "04:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-10T04:00:00+00:00",
+    "lastModifiedIso": "2026-04-10T04:00:00+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Earthset do outro lado lunar"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Earthset do outro lado lunar"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Earthset on the far side of the moon"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/earthset-from-the-lunar-far-side/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=earthset-from-the-lunar-far-side",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=earthset-from-the-lunar-far-side",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=earthset-from-the-lunar-far-side&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 79,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 32,
     "slug": "student-team-finds-one-of-the-oldest-stars-in-the-universe-that-migrated-to-the-milky-way",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3737,7 +3852,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "webb-hubble-capture-new-views-of-saturn",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3842,7 +3957,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "esa-observations-of-interstellar-comet-3i-atlas",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3947,7 +4062,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "scientists-spot-a-solar-flare-with-surprising-spectral-behavior",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4080,45 +4195,13 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "walk-in-the-footsteps-of-artemis",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/esa_education_s_moon_camp_and_mission_x_school_projects/27190666-5-eng-GB/ESA_Education_s_Moon_Camp_and_Mission_X_School_Projects_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/luna_and_leo_-_earth/27191717-1-eng-GB/Luna_and_Leo_-_Earth_article.png",
-        "caption": "Luna e Leo pela Terra",
-        "caption_pt": "Luna e Leo pela Terra",
-        "caption_en": "Luna and Leo by Earth",
-        "alt": "Luna e Leo pela Terra",
-        "alt_pt": "Luna e Leo pela Terra",
-        "alt_en": "Luna and Leo by Earth"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/earthset_captured_through_the_orion_spacecraft_window_at_6_41_p.m._edt_april_6_2026_during_the_artemis_ii_crew_s_flyby_of_the_moon./27192482-1-eng-GB/Earthset_captured_through_the_Orion_spacecraft_window_at_6_41_p.m._EDT_April_6_2026_during_the_Artemis_II_crew_s_flyby_of_the_Moon._article.jpg",
-        "caption": "Earthset capturado pela janela da espaçonave Orion às 18h41. EDT, 6 de abril de 2026, durante o sobrevoo da tripulação do Artemis II pela Lua.",
-        "caption_pt": "Earthset capturado pela janela da espaçonave Orion às 18h41. EDT, 6 de abril de 2026, durante o sobrevoo da tripulação do Artemis II pela Lua.",
-        "caption_en": "Earthset captured through the Orion spacecraft window at 6:41 p.m. EDT, April 6, 2026, during the Artemis II crew’s flyby of the Moon.",
-        "alt": "Earthset capturado pela janela da espaçonave Orion às 18h41. EDT, 6 de abril de 2026, durante o sobrevoo da tripulação do Artemis II pela Lua.",
-        "alt_pt": "Earthset capturado pela janela da espaçonave Orion às 18h41. EDT, 6 de abril de 2026, durante o sobrevoo da tripulação do Artemis II pela Lua.",
-        "alt_en": "Earthset captured through the Orion spacecraft window at 6:41 p.m. EDT, April 6, 2026, during the Artemis II crew’s flyby of the Moon."
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/2-hyaa1mibi",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis"
-    },
+    "inline_images": [],
+    "video": null,
     "audio": null,
     "title": "Siga os passos de Ártemis",
     "title_pt": "Siga os passos de Ártemis",
@@ -4129,9 +4212,9 @@ window.postsData = [
     "excerpt": "No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar?.",
     "excerpt_pt": "No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar?.",
     "excerpt_en": "On 6 April 2026, NASA’s Artemis II mission, powered by ESA’s European Service Module, brought humans further than ever before. But how do future astronauts train to live on the Moon, and what kind of lunar base could they create? That’s.",
-    "body": "<p>No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar? Isso é. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar.</p><p>Treine como um astronauta com o projeto Mission X Astronautas, como Christina Koch, a primeira mulher em uma missão lunar, devem treinar duro para se prepararem para suas missões. Seguindo os passos destes corajosos astronautas, os alunos podem trazer os mascotes da Missão X, Luna e Leo, para mais perto da Lua.</p><p>Ao se colocarem no lugar, os alunos podem treinar como astronautas e realizar uma ampla gama de atividades, até mesmo praticando para sua própria jornada ao espaço. Desde a compreensão da nutrição até aprender como se manter forte no espaço e na Terra, as atividades da Missão X podem levá-lo à Lua.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar? Isso é. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar.</p><p>Treine como um astronauta com o projeto Mission X Astronautas, como Christina Koch, a primeira mulher em uma missão lunar, devem treinar duro para se prepararem para suas missões. Seguindo os passos destes corajosos astronautas, os alunos podem trazer os mascotes da Missão X, Luna e Leo, para mais perto da Lua.</p><p>Ao se colocarem no lugar, os alunos podem treinar como astronautas e realizar uma ampla gama de atividades, até mesmo praticando para sua própria jornada ao espaço. Desde a compreensão da nutrição até aprender como se manter forte no espaço e na Terra, as atividades da Missão X podem levá-lo à Lua.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>On 6 April 2026, NASA’s Artemis II mission, powered by ESA’s European Service Module, brought humans further than ever before. But how do future astronauts train to live on the Moon, and what kind of lunar base could they create? That’s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. On 6 April 2026, NASA’s Artemis II mission, powered by ESA’s European Service Module (ESM), brought humans further than ever before. But how do future astronauts train to live on the Moon, and what kind of lunar base could they create.</p><p>Train like an astronaut with the Mission X project Astronauts, like Christina Koch, the first woman on a lunar mission, must train hard to prepare for their space missions. Following in the footsteps of these brave astronauts, students can bring Mission X’s mascots, Luna and Leo, closer to the Moon.</p><p>By stepping into their shoes, students can train like an astronaut and complete a wide range of activities, even practising for their own journey to space. From understanding nutrition to learning how to stay strong in space and on Earth, Mission X activities can take you to the Moon.</p><p>Artemis will bring astronauts to the Moon using Europe’s European Service Module (ESM), which gives air, water, and power to Artemis’ astronauts. With the Moon Camp project, students can design a habitat on the Moon using a tool of their choice from arts and crafts to 3D design, robotics, and game-based applications.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>By designing a habitat on the moon, students can take a glimpse into the design of a future lunar base. Start your journey to the moon today with Moon Camp and Mission X.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar? Isso é. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar? Isso é. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>On 6 April 2026, NASA’s Artemis II mission, powered by ESA’s European Service Module, brought humans further than ever before. But how do future astronauts train to live on the Moon, and what kind of lunar base could they create? That’s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. On 6 April 2026, NASA’s Artemis II mission, powered by ESA’s European Service Module (ESM), brought humans further than ever before. But how do future astronauts train to live on the Moon, and what kind of lunar base could they create.</p><p>That’s where school students like you can come in.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que.",
       "Dado-chave: No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os seres humanos mais.",
@@ -4217,7 +4300,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "do-the-moon-s-poles-hold-less-water-than-we-thought",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4350,7 +4433,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "nsf-doe-vera-c-rubin-observatory-launches-real-time-discovery-machine-for-monitoring-the-night-s",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4499,7 +4582,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 39,
     "slug": "it-s-not-supposed-to-be-like-this-a-giant-planet-orbits-a-small-star",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4630,7 +4713,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 40,
     "slug": "rubin-observatory-announces-11-000-new-asteroids",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4743,142 +4826,6 @@ window.postsData = [
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=rubin-observatory-announces-11-000-new-asteroids",
     "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=rubin-observatory-announces-11-000-new-asteroids",
     "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=rubin-observatory-announces-11-000-new-asteroids&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 74,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 40,
-    "slug": "this-week-s-sky-at-a-glance-april-10-19",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_Apr15_mo_VLIGHT_FEATURED.jpg",
-    "inline_images": [
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_Apr11_mo_VLIGHT.jpg",
-        "caption": "Mercúrio e Marte estão muito baixos no amanhecer agora. Você provavelmente precisará de binóculos ou de um telescópio de campo amplo até mesmo para captar Mercúrio mais brilhante.",
-        "caption_pt": "Mercúrio e Marte estão muito baixos no amanhecer agora. Você provavelmente precisará de binóculos ou de um telescópio de campo amplo até mesmo para captar Mercúrio mais brilhante.",
-        "caption_en": "Mercury and Mars are very low in bright dawn now. You'll probably need binoculars or a wide-field telescope even to pick up brighter Mercury.",
-        "alt": "Mercúrio e Saturno MUITO baixos na madrugada brilhante de 11 de abril de 2026. Você",
-        "alt_pt": "Mercúrio e Saturno MUITO baixos na madrugada brilhante de 11 de abril de 2026. Você",
-        "alt_en": "Mercury and Saturn VERY low in bright dawn, April 11, 2026. You"
-      },
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/Big-Dipper-and-Bootes-Kite_early-April.jpg",
-        "caption": "Após o anoitecer no início de abril, a Ursa Maior fica no alto do nordeste. Arcturus brilha no canto inferior esquerdo um pouco mais do que o comprimento da Dipper. Arcturus forma a ponta inferior da pipa Boőtes, que fica sempre de lado.",
-        "caption_pt": "Após o anoitecer no início de abril, a Ursa Maior fica no alto do nordeste. Arcturus brilha no canto inferior esquerdo um pouco mais do que o comprimento da Dipper. Arcturus forma a ponta inferior da pipa Boőtes, que fica sempre de lado.",
-        "caption_en": "After nightfall in early April, the Big Dipper stands high in the northeast. Arcturus sparkles down to its lower left by a little more than a Dipper length. Arcturus forms the bottom point of the Boőtes Kite, which always lies on its side.",
-        "alt": "No início de abril, após o anoitecer, a Ursa Maior fica no alto no nordeste e Arcturus está no canto inferior esquerdo, cerca de um comprimento da Ursa Maior. Arcturus é o ponto inferior do Bootes Kite, que fica deitado de lado enquanto sobe.",
-        "alt_pt": "No início de abril, após o anoitecer, a Ursa Maior fica no alto no nordeste e Arcturus está no canto inferior esquerdo, cerca de um comprimento da Ursa Maior. Arcturus é o ponto inferior do Bootes Kite, que fica deitado de lado enquanto sobe.",
-        "alt_en": "In early April after nightfall, the Big Dipper stands high in the northeast and Arcturus is down to its lower left by about a Dipper length. Arcturus is the bottom point of the Bootes Kite, which is lying on its side as it rises.."
-      },
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_Apr15_mo_VLIGHT.jpg",
-        "caption": "Mercúrio e Marte se escondem sob a lua crescente baixa na manhã brilhante de quarta-feira, dia 15. Não aposte em pegá-los!",
-        "caption_pt": "Mercúrio e Marte se escondem sob a lua crescente baixa na manhã brilhante de quarta-feira, dia 15. Não aposte em pegá-los!",
-        "caption_en": "Mercury and Mars hide under the hairline crescent Moon low in bright dawn Wednesday morning the 15th. Don't bet on catching them!",
-        "alt": "Mercúrio e Marte se escondem sob a lua crescente muito baixa na manhã de quarta-feira, 15 de abril de 2026.",
-        "alt_pt": "Mercúrio e Marte se escondem sob a lua crescente muito baixa na manhã de quarta-feira, 15 de abril de 2026.",
-        "alt_en": "Mercury and Mars hide under the hairline crescent Moon very low in bright dawn Wednesday morning, April 15, 2026."
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Visão geral do céu desta semana, 10 a 19 de abril",
-    "title_pt": "Visão geral do céu desta semana, 10 a 19 de abril",
-    "title_en": "This Week's Sky at a Glance, April 10 – 19",
-    "sub": "Uma fina Lua crescente aponta o caminho para Mercúrio e Marte superdifíceis na parte baixa do amanhecer, então o crescente oposto brinca com a ousada Vênus e as Plêiades no.",
-    "sub_pt": "Uma fina Lua crescente aponta o caminho para Mercúrio e Marte superdifíceis na parte baixa do amanhecer, então o crescente oposto brinca com a ousada Vênus e as Plêiades no.",
-    "sub_en": "A thin crescent Moon points the way to super-difficult Mercury and Mars low in the dawn, then the opposite crescent plays with bold Venus and the Pleiades in evening twilight. The.",
-    "excerpt": "Uma fina Lua crescente aponta o caminho para Mercúrio e Marte superdifíceis na parte baixa do amanhecer, então o crescente oposto brinca com a ousada Vênus e as Plêiades no crepúsculo da noite. A postagem Visão geral do céu desta semana, 10 de abril de 19.",
-    "excerpt_pt": "Uma fina Lua crescente aponta o caminho para Mercúrio e Marte superdifíceis na parte baixa do amanhecer, então o crescente oposto brinca com a ousada Vênus e as Plêiades no crepúsculo da noite. A postagem Visão geral do céu desta semana, 10 de abril de 19.",
-    "excerpt_en": "A thin crescent Moon points the way to super-difficult Mercury and Mars low in the dawn, then the opposite crescent plays with bold Venus and the Pleiades in evening twilight. The post This Week's Sky at a Glance, April 10, 19 appeared.",
-    "body": "<p>Uma fina Lua crescente aponta o caminho para Mercúrio e Marte superdifíceis na parte baixa do amanhecer, então o crescente oposto brinca com a ousada Vênus e as Plêiades no crepúsculo da noite. A postagem Visão geral do céu desta semana, 10 de abril de 19, apareceu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A postagem Visão geral do céu desta semana, 10 a 19 de abril, apareceu pela primeira vez em Sky &amp; Telescope. Uma Lua fina brinca com Vênus e as Plêiades no crepúsculo da noite, depois de apontar para Mercúrio superdifícil e Marte na baixa luminosidade do amanhecer.</p><p>Ele desempenhou um papel em praticamente todas as partes da revista e em outros produtos da empresa por mais de uma geração, tanto no lado da observação amadora quanto no lado da. Em 1994, uma coleção de livros com seus procedimentos de observação e passeios telescópicos pelo céu foi publicada como Star Hopping for Backyard Astronomers.</p><p>O cometa MAPS (C/2026 A1), que rastejava sob o sol, desapareceu das imagens da sonda SOHO após o seu periélio muito próximo do Sol em 4 de abril, não deixando nada emergir acima.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-april-10-19/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Uma fina Lua crescente aponta o caminho para Mercúrio e Marte superdifíceis na parte baixa do amanhecer, então o crescente oposto brinca com a ousada Vênus e as Plêiades no crepúsculo da noite. A postagem Visão geral do céu desta semana, 10 de abril de 19, apareceu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A postagem Visão geral do céu desta semana, 10 a 19 de abril, apareceu pela primeira vez em Sky &amp; Telescope. Uma Lua fina brinca com Vênus e as Plêiades no crepúsculo da noite, depois de apontar para Mercúrio superdifícil e Marte na baixa luminosidade do amanhecer.</p><p>Ele desempenhou um papel em praticamente todas as partes da revista e em outros produtos da empresa por mais de uma geração, tanto no lado da observação amadora quanto no lado da. Em 1994, uma coleção de livros com seus procedimentos de observação e passeios telescópicos pelo céu foi publicada como Star Hopping for Backyard Astronomers.</p><p>O cometa MAPS (C/2026 A1), que rastejava sob o sol, desapareceu das imagens da sonda SOHO após o seu periélio muito próximo do Sol em 4 de abril, não deixando nada emergir acima.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-april-10-19/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A thin crescent Moon points the way to super-difficult Mercury and Mars low in the dawn, then the opposite crescent plays with bold Venus and the Pleiades in evening twilight. The post This Week&#x27;s Sky at a Glance, April 10, 19 appeared. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A thin crescent Moon points the way to super-difficult Mercury and Mars low in the dawn, then the opposite crescent plays with bold Venus and the Pleiades in evening twilight. The post This Week&#x27;s Sky at a Glance, April 10, 19 appeared first on Sky &amp; Telescope.</p><p>A thin Moon plays with Venus and the Pleiades in the evening twilight, after pointing to super-difficult Mercury and Mars low in bright dawn. He played a role in practically every part of the magazine and the company&#x27;s other products for more than a generation, both on the amateur-observing side and the.</p><p>In 1994 a book collection of his observing how-tos and telescopic sky tours was published as Star Hopping for Backyard Astronomers. The sungrazing Comet MAPS (C/2026 A1) disappeared from SOHO spacecraft images after its perihelion very close to the Sun on April 4th, leaving nothing to emerge above our twilight.</p><p>About two fists at arm&#x27;s length: ■ Jupiter&#x27;s moon Europa crosses Jupiter&#x27;s face from 9: 11 p. m. Following well behind is Europa&#x27;s little black shadow, crossing Jupiter&#x27;s face from 11: 42 p. m.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>■ A tough dawn challenge: If you have access to an almost perfectly low, flat horizon view due east, the thin waning crescent Moon will rise there early in Wednesday&#x27;s dawn. By a half hour before sunrise the Moon will be about 6° above the true horizon, though by then the sky will be getting seriously bright.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-april-10-19/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Uma fina Lua crescente aponta o caminho para Mercúrio e Marte superdifíceis na parte baixa do amanhecer, então o crescente oposto brinca com a ousada.",
-      "Dado-chave: Uma fina Lua crescente aponta o caminho para Mercúrio e Marte superdifíceis na parte baixa do amanhecer, então o crescente oposto brinca com a.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Uma fina Lua crescente aponta o caminho para Mercúrio e Marte superdifíceis na parte baixa do amanhecer, então o crescente oposto brinca com a ousada.",
-      "Dado-chave: Uma fina Lua crescente aponta o caminho para Mercúrio e Marte superdifíceis na parte baixa do amanhecer, então o crescente oposto brinca com a.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A thin crescent Moon points the way to super-difficult Mercury and Mars low in the dawn, then the opposite crescent plays with bold Venus and the.",
-      "Key detail: A thin crescent Moon points the way to super-difficult Mercury and Mars low in the dawn, then the opposite crescent plays with bold Venus and.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "10 abr 2026",
-    "date_pt": "10 abr 2026",
-    "date_en": "10 Apr 2026",
-    "time": "08h48",
-    "time_pt": "08h48",
-    "time_en": "08:48 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-10T08:48:00+00:00",
-    "lastModifiedIso": "2026-04-10T08:48:00+00:00",
-    "source": "Sky & Telescope",
-    "sourceDomain": "skyandtelescope.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Visão geral do céu desta semana",
-      "10 a 19 de abril"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Visão geral do céu desta semana",
-      "10 a 19 de abril"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "This week's sky overview",
-      "April 10 to 19"
-    ],
-    "srcUrl": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-april-10-19/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=this-week-s-sky-at-a-glance-april-10-19",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=this-week-s-sky-at-a-glance-april-10-19",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=this-week-s-sky-at-a-glance-april-10-19&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",

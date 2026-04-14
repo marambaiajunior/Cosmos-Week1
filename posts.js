@@ -40,14 +40,14 @@ window.postsData = [
     "date": "14 abr 2026",
     "date_pt": "14 abr 2026",
     "date_en": "14 Apr 2026",
-    "time": "14h55",
-    "time_pt": "14h55",
-    "time_en": "14:55 UTC",
+    "time": "16h19",
+    "time_pt": "16h19",
+    "time_en": "16:19 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-14T14:55:50.616678+00:00",
-    "lastModifiedIso": "2026-04-14T14:55:50.616678+00:00",
+    "publishedIso": "2026-04-14T16:19:29.064906+00:00",
+    "lastModifiedIso": "2026-04-14T16:19:29.064906+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "14 abr 2026",
     "date_pt": "14 abr 2026",
     "date_en": "14 Apr 2026",
-    "time": "14h55",
-    "time_pt": "14h55",
-    "time_en": "14:55 UTC",
+    "time": "16h19",
+    "time_pt": "16h19",
+    "time_en": "16:19 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-14T14:55:50.616626+00:00",
-    "lastModifiedIso": "2026-04-14T14:55:50.616626+00:00",
+    "publishedIso": "2026-04-14T16:19:29.064858+00:00",
+    "lastModifiedIso": "2026-04-14T16:19:29.064858+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,14 +250,14 @@ window.postsData = [
     "date": "14 abr 2026",
     "date_pt": "14 abr 2026",
     "date_en": "14 Apr 2026",
-    "time": "14h55",
-    "time_pt": "14h55",
-    "time_en": "14:55 UTC",
+    "time": "16h19",
+    "time_pt": "16h19",
+    "time_en": "16:19 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-14T14:55:50.616562+00:00",
-    "lastModifiedIso": "2026-04-14T14:55:50.616562+00:00",
+    "publishedIso": "2026-04-14T16:19:29.064797+00:00",
+    "lastModifiedIso": "2026-04-14T16:19:29.064797+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -355,14 +355,14 @@ window.postsData = [
     "date": "14 abr 2026",
     "date_pt": "14 abr 2026",
     "date_en": "14 Apr 2026",
-    "time": "14h55",
-    "time_pt": "14h55",
-    "time_en": "14:55 UTC",
+    "time": "16h19",
+    "time_pt": "16h19",
+    "time_en": "16:19 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-14T14:55:50.616499+00:00",
-    "lastModifiedIso": "2026-04-14T14:55:50.616499+00:00",
+    "publishedIso": "2026-04-14T16:19:29.064737+00:00",
+    "lastModifiedIso": "2026-04-14T16:19:29.064737+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -460,14 +460,14 @@ window.postsData = [
     "date": "14 abr 2026",
     "date_pt": "14 abr 2026",
     "date_en": "14 Apr 2026",
-    "time": "14h55",
-    "time_pt": "14h55",
-    "time_en": "14:55 UTC",
+    "time": "16h19",
+    "time_pt": "16h19",
+    "time_en": "16:19 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-14T14:55:50.616436+00:00",
-    "lastModifiedIso": "2026-04-14T14:55:50.616436+00:00",
+    "publishedIso": "2026-04-14T16:19:29.064679+00:00",
+    "lastModifiedIso": "2026-04-14T16:19:29.064679+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -534,6 +534,139 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "could-dark-matter-be-made-of-black-holes-from-a-different-universe",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-dark-matter-be-m.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/could-dark-matter-be-m-2.jpg",
+        "caption": "Poderia a matéria escura ser feita de buracos negros de um universo diferente?",
+        "caption_pt": "Poderia a matéria escura ser feita de buracos negros de um universo diferente?",
+        "caption_en": "Could dark matter be made of black holes from a different universe?",
+        "alt": "Poderia a matéria escura ser feita de buracos negros de um universo diferente?",
+        "alt_pt": "Poderia a matéria escura ser feita de buracos negros de um universo diferente?",
+        "alt_en": "Could dark matter be made of black holes from a different universe?"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/could-dark-matter-be-m-3.jpg",
+        "caption": "Poderia a matéria escura ser feita de buracos negros de um universo diferente?",
+        "caption_pt": "Poderia a matéria escura ser feita de buracos negros de um universo diferente?",
+        "caption_en": "Could dark matter be made of black holes from a different universe?",
+        "alt": "Poderia a matéria escura ser feita de buracos negros de um universo diferente?",
+        "alt_pt": "Poderia a matéria escura ser feita de buracos negros de um universo diferente?",
+        "alt_en": "Could dark matter be made of black holes from a different universe?"
+      },
+      {
+        "src": "https://scx0.b-cdn.net/pic/Gaby.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Poderia a matéria escura ser feita de buracos negros de um universo diferente?",
+    "title_pt": "Poderia a matéria escura ser feita de buracos negros de um universo diferente?",
+    "title_en": "Could dark matter be made of black holes from a different universe?",
+    "sub": "Novas pesquisas sugerem que buracos negros remanescentes de antes do Big Bang ainda podem moldar galáxias hoje. Esses buracos negros poderiam explicar a matéria escura, uma das.",
+    "sub_pt": "Novas pesquisas sugerem que buracos negros remanescentes de antes do Big Bang ainda podem moldar galáxias hoje. Esses buracos negros poderiam explicar a matéria escura, uma das.",
+    "sub_en": "New research suggests that relic black holes from before the big bang may still shape galaxies today. These black holes could explain dark matter, one of the biggest unsolved.",
+    "excerpt": "Novas pesquisas sugerem que buracos negros remanescentes de antes do Big Bang ainda podem moldar galáxias hoje. Esses buracos negros poderiam explicar a matéria escura, uma das maiores questões não resolvidas da cosmologia.",
+    "excerpt_pt": "Novas pesquisas sugerem que buracos negros remanescentes de antes do Big Bang ainda podem moldar galáxias hoje. Esses buracos negros poderiam explicar a matéria escura, uma das maiores questões não resolvidas da cosmologia.",
+    "excerpt_en": "New research suggests that relic black holes from before the big bang may still shape galaxies today. These black holes could explain dark matter, one of the biggest unsolved questions in cosmology.",
+    "body": "<p>Novas pesquisas sugerem que buracos negros remanescentes de antes do Big Bang ainda podem moldar galáxias hoje. Esses buracos negros poderiam explicar a matéria escura, uma das maiores questões não resolvidas da cosmologia. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Novas pesquisas sugerem que buracos negros remanescentes de antes do Big Bang ainda podem moldar galáxias hoje. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida ESA &quot;&gt; Uma simulação da &#x27;teia cósmica&#x27;, a. ESA Uma nova pesquisa sugere que buracos negros remanescentes de antes do big bang ainda podem moldar galáxias hoje.</p><p>Eu explorei essa ideia em um novo artigo. Ele explica a radiação cósmica de fundo em micro-ondas, o brilho residual do universo primitivo, e prevê a distribuição de galáxias em grande escala com uma precisão surpreendente.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-dark-black-holes-universe.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Novas pesquisas sugerem que buracos negros remanescentes de antes do Big Bang ainda podem moldar galáxias hoje. Esses buracos negros poderiam explicar a matéria escura, uma das maiores questões não resolvidas da cosmologia. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Novas pesquisas sugerem que buracos negros remanescentes de antes do Big Bang ainda podem moldar galáxias hoje. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida ESA &quot;&gt; Uma simulação da &#x27;teia cósmica&#x27;, a. ESA Uma nova pesquisa sugere que buracos negros remanescentes de antes do big bang ainda podem moldar galáxias hoje.</p><p>Eu explorei essa ideia em um novo artigo. Ele explica a radiação cósmica de fundo em micro-ondas, o brilho residual do universo primitivo, e prevê a distribuição de galáxias em grande escala com uma precisão surpreendente.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-dark-black-holes-universe.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Relic black holes from before the big bang may still shape galaxies today. These black holes could explain dark matter, one of the biggest unsolved questions in cosmology. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. Relic black holes from before the big bang may still shape galaxies today. This article has been reviewed according to Science X&#x27;s editorial process and policies.</p><p>Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source ESA &quot;&gt; A simulation of the ‘cosmic web’, the vast network of. ESA New research suggests that relic black holes from before the big bang may still shape galaxies today.</p><p>I have explored this idea in a new paper. It explains the cosmic microwave background, the afterglow of the early universe, and predicts the large scale distribution of galaxies with astonishing accuracy.</p><p>Instead of collapsing into a singularity, it rebounds, beginning a new expanding phase. Bouncing models have been explored for decades, often requiring modifications to gravity or exotic new ingredients.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>But our work shows that a bounce can arise as a regular solution within standard physics, when gravity and the effects of quantum mechanics, the laws governing nature at the. In our work, we found that things larger than 90 meters could have survived the transition from collapse to expansion.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-dark-black-holes-universe.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Novas pesquisas sugerem que buracos negros remanescentes de antes do Big Bang ainda podem moldar galáxias hoje. Esses buracos negros poderiam.",
+      "Dado-chave: Novas pesquisas sugerem que buracos negros remanescentes de antes do Big Bang ainda podem moldar galáxias hoje.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Novas pesquisas sugerem que buracos negros remanescentes de antes do Big Bang ainda podem moldar galáxias hoje. Esses buracos negros poderiam.",
+      "Dado-chave: Novas pesquisas sugerem que buracos negros remanescentes de antes do Big Bang ainda podem moldar galáxias hoje.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: New research suggests that relic black holes from before the big bang may still shape galaxies today. These black holes could explain dark matter.",
+      "Key detail: New research suggests that relic black holes from before the big bang may still shape galaxies today.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "14 abr 2026",
+    "date_pt": "14 abr 2026",
+    "date_en": "14 Apr 2026",
+    "time": "15h00",
+    "time_pt": "15h00",
+    "time_en": "15:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-14T15:00:01+00:00",
+    "lastModifiedIso": "2026-04-14T15:00:01+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Poderia a matéria escura ser feita de buracos negros de um universo diferente?"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Poderia a matéria escura ser feita de buracos negros de um universo diferente?"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Could dark matter be made from black holes from a different universe?"
+    ],
+    "srcUrl": "https://phys.org/news/2026-04-dark-black-holes-universe.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=could-dark-matter-be-made-of-black-holes-from-a-different-universe",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=could-dark-matter-be-made-of-black-holes-from-a-different-universe",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=could-dark-matter-be-made-of-black-holes-from-a-different-universe&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "comet-r3-panstarrs-is-brightening-pics-and-chart-here",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -634,7 +767,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -648,7 +781,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "the-quietest-place-we-ve-ever-listened-from",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -781,7 +914,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "nasa-s-webb-redefines-dividing-line-between-planets-stars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -905,7 +1038,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "nutrition-research-arrives-aboard-space-station",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1005,139 +1138,6 @@ window.postsData = [
       "source": 94,
       "evidence": 82,
       "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "cosmic-dust-identified-as-the-source-of-venus-enigmatic-lower-haze",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/cosmic-dust-identified.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/cosmic-dust-identified.jpg",
-        "caption": "Poeira cósmica identificada como a fonte da enigmática neblina inferior de Vênus",
-        "caption_pt": "Poeira cósmica identificada como a fonte da enigmática neblina inferior de Vênus",
-        "caption_en": "Cosmic dust identified as the source of Venus' enigmatic lower haze",
-        "alt": "Poeira cósmica identificada como a fonte da enigmática neblina inferior de Vênus",
-        "alt_pt": "Poeira cósmica identificada como a fonte da enigmática neblina inferior de Vênus",
-        "alt_en": "Cosmic dust identified as the source of Venus' enigmatic lower haze"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/cosmic-dust-identified-1.jpg",
-        "caption": "Distribuição calculada da densidade de massa da nuvem. A linha sólida representa o modelo do estudo, que leva em conta o influxo de poeira cósmica, mostrando um alto grau de precisão quando comparado com os dados da sonda Pioneer Venus (PV) (linha pontilhada). Crédito.",
-        "caption_pt": "Distribuição calculada da densidade de massa da nuvem. A linha sólida representa o modelo do estudo, que leva em conta o influxo de poeira cósmica, mostrando um alto grau de precisão quando comparado com os dados da sonda Pioneer Venus (PV) (linha pontilhada). Crédito.",
-        "caption_en": "Calculated cloud mass density distribution. The solid line represents the study's model, which accounts for cosmic dust influx, showing a high degree of accuracy when compared to the Pioneer Venus (PV) probe data (dotted line). Credit.",
-        "alt": "Poeira cósmica identificada como a fonte da enigmática neblina inferior de Vênus",
-        "alt_pt": "Poeira cósmica identificada como a fonte da enigmática neblina inferior de Vênus",
-        "alt_en": "Cosmic dust identified as the source of Venus' enigmatic lower haze"
-      },
-      {
-        "src": "https://scx0.b-cdn.net/pic/llock.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Poeira cósmica identificada como a fonte da enigmática neblina inferior de Vênus",
-    "title_pt": "Poeira cósmica identificada como a fonte da enigmática neblina inferior de Vênus",
-    "title_en": "Cosmic dust identified as the source of Venus' enigmatic lower haze",
-    "sub": "Vênus, muitas vezes chamado de gêmeo da Terra, é na verdade um planeta de extremos. Sob sua espessa atmosfera de dióxido de carbono estão temperaturas superficiais esmagadoras e.",
-    "sub_pt": "Vênus, muitas vezes chamado de gêmeo da Terra, é na verdade um planeta de extremos. Sob sua espessa atmosfera de dióxido de carbono estão temperaturas superficiais esmagadoras e.",
-    "sub_en": "Venus, often called Earth's twin, is in fact a planet of extremes. Beneath its thick carbon dioxide atmosphere are crushing surface temperatures and dense clouds of sulfuric acid.",
-    "excerpt": "Vênus, muitas vezes chamado de gêmeo da Terra, é na verdade um planeta de extremos. Sob sua espessa atmosfera de dióxido de carbono estão temperaturas superficiais esmagadoras e densas nuvens de ácido sulfúrico. Enquanto a principal camada de nuvens do.",
-    "excerpt_pt": "Vênus, muitas vezes chamado de gêmeo da Terra, é na verdade um planeta de extremos. Sob sua espessa atmosfera de dióxido de carbono estão temperaturas superficiais esmagadoras e densas nuvens de ácido sulfúrico. Enquanto a principal camada de nuvens do.",
-    "excerpt_en": "Venus, often called Earth's twin, is in fact a planet of extremes. Beneath its thick carbon dioxide atmosphere are crushing surface temperatures and dense clouds of sulfuric acid. While the planet's main cloud layer sits between 47 and 70.",
-    "body": "<p>Vênus, muitas vezes chamado de gêmeo da Terra, é na verdade um planeta de extremos. Sob sua espessa atmosfera de dióxido de carbono estão temperaturas superficiais esmagadoras e densas nuvens de ácido sulfúrico. Enquanto a principal camada de nuvens do planeta fica entre 47 e 70. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Embora a principal camada de nuvens do planeta fique entre 47 e 70 quilómetros acima da superfície, os cientistas há muito que ficam intrigados com uma misteriosa camada de. Vênus, muitas vezes chamado de gêmeo da Terra, é na verdade um planeta de extremos.</p><p>Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Hiroki Karyu et al Vênus, muitas vezes chamado de gêmeo da Terra, é na verdade um planeta de extremos.</p><p>Sob sua espessa atmosfera de dióxido de carbono estão temperaturas superficiais esmagadoras e densas nuvens de ácido sulfúrico.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-cosmic-source-venus-enigmatic-haze.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Vênus, muitas vezes chamado de gêmeo da Terra, é na verdade um planeta de extremos. Sob sua espessa atmosfera de dióxido de carbono estão temperaturas superficiais esmagadoras e densas nuvens de ácido sulfúrico. Enquanto a principal camada de nuvens do planeta fica entre 47 e 70. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Embora a principal camada de nuvens do planeta fique entre 47 e 70 quilómetros acima da superfície, os cientistas há muito que ficam intrigados com uma misteriosa camada de. Vênus, muitas vezes chamado de gêmeo da Terra, é na verdade um planeta de extremos.</p><p>Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Hiroki Karyu et al Vênus, muitas vezes chamado de gêmeo da Terra, é na verdade um planeta de extremos.</p><p>Sob sua espessa atmosfera de dióxido de carbono estão temperaturas superficiais esmagadoras e densas nuvens de ácido sulfúrico.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-cosmic-source-venus-enigmatic-haze.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Venus, often called Earth&#x27;s twin, is in fact a planet of extremes. Beneath its thick carbon dioxide atmosphere are crushing surface temperatures and dense clouds of sulfuric acid. While the planet&#x27;s main cloud layer sits between 47 and 70. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. While the planet&#x27;s main cloud layer sits between 47 and 70 kilometers above the surface, scientists have long been puzzled by a mysterious layer of particles below 47 kilometers. Venus, often called Earth&#x27;s twin, is in fact a planet of extremes.</p><p>This article has been reviewed according to Science X&#x27;s editorial process and policies. Hiroki Karyu et al Venus, often called Earth&#x27;s twin, is in fact a planet of extremes.</p><p>Beneath its thick carbon dioxide atmosphere are crushing surface temperatures and dense clouds of sulfuric acid. The study is published in Nature Astronomy.</p><p>As they drift downward into the hotter lower atmosphere, the sulfuric acid evaporates, leaving behind solid mineral cores. These cores then collide and stick together, forming the haze layer observed by past missions such as Venera and Pioneer Venus.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>The model&#x27;s results closely match measurements collected decades ago, lending strong support to the team&#x27;s conclusions. Acting as &quot;seeds&quot; for cloud formation, they increase cloud production by an estimated 20%–30%.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-cosmic-source-venus-enigmatic-haze.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Vênus, muitas vezes chamado de gêmeo da Terra, é na verdade um planeta de extremos. Sob sua espessa atmosfera de dióxido de carbono estão.",
-      "Dado-chave: Embora a principal camada de nuvens do planeta fique entre 47 e 70 quilómetros acima da superfície, os cientistas há muito que ficam intrigados.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Vênus, muitas vezes chamado de gêmeo da Terra, é na verdade um planeta de extremos. Sob sua espessa atmosfera de dióxido de carbono estão.",
-      "Dado-chave: Embora a principal camada de nuvens do planeta fique entre 47 e 70 quilómetros acima da superfície, os cientistas há muito que ficam intrigados.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Venus, often called Earth's twin, is in fact a planet of extremes. Beneath its thick carbon dioxide atmosphere are crushing surface temperatures and.",
-      "Key detail: While the planet's main cloud layer sits between 47 and 70 kilometers above the surface, scientists have long been puzzled by a mysterious layer.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "14 abr 2026",
-    "date_pt": "14 abr 2026",
-    "date_en": "14 Apr 2026",
-    "time": "13h40",
-    "time_pt": "13h40",
-    "time_en": "13:40 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-14T13:40:02+00:00",
-    "lastModifiedIso": "2026-04-14T13:40:02+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Física",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Poeira cósmica identificada como a fonte da enigmática neblina inferior de Vênus"
-    ],
-    "keywords_pt": [
-      "Física",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Poeira cósmica identificada como a fonte da enigmática neblina inferior de Vênus"
-    ],
-    "keywords_en": [
-      "Physical",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Cosmic dust identified as source of Venus' enigmatic nether haze"
-    ],
-    "srcUrl": "https://phys.org/news/2026-04-cosmic-source-venus-enigmatic-haze.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=cosmic-dust-identified-as-the-source-of-venus-enigmatic-lower-haze",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=cosmic-dust-identified-as-the-source-of-venus-enigmatic-lower-haze",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=cosmic-dust-identified-as-the-source-of-venus-enigmatic-lower-haze&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 82,
       "accessibility": 60,
       "novelty": 55
     }
@@ -1244,7 +1244,7 @@ window.postsData = [
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -1524,142 +1524,6 @@ window.postsData = [
   },
   {
     "id": 14,
-    "slug": "self-interacting-dark-matter-may-solve-three-cosmic-puzzles",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/self-interacting-dark.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/self-interacting-dark.jpg",
-        "caption": "O sistema de lentes gravitacionais JVAS B1938+666. O anel preto e o ponto central mostram uma imagem infravermelha de uma galáxia distante distorcida por lentes gravitacionais. A emissão laranja mostra ondas de rádio do mesmo sistema. A inserção destaca a.",
-        "caption_pt": "O sistema de lentes gravitacionais JVAS B1938+666. O anel preto e o ponto central mostram uma imagem infravermelha de uma galáxia distante distorcida por lentes gravitacionais. A emissão laranja mostra ondas de rádio do mesmo sistema. A inserção destaca a.",
-        "caption_en": "The gravitational lens system JVAS B1938+666. The black ring and central dot show an infrared image of a distant galaxy distorted by gravitational lensing. The orange emission shows radio waves from the same system. The inset highlights a.",
-        "alt": "A matéria escura autointeragente pode resolver três quebra-cabeças cósmicos",
-        "alt_pt": "A matéria escura autointeragente pode resolver três quebra-cabeças cósmicos",
-        "alt_en": "Self-interacting dark matter may solve three cosmic puzzles"
-      },
-      {
-        "src": "https://scx0.b-cdn.net/pic/stephanie.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx0.b-cdn.net/pic/Robert.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "A matéria escura autointeragente pode resolver três quebra-cabeças cósmicos",
-    "title_pt": "A matéria escura autointeragente pode resolver três quebra-cabeças cósmicos",
-    "title_en": "Self-interacting dark matter may solve three cosmic puzzles",
-    "sub": "Um estudo liderado pelo físico da UC Riverside, Hai-Bo Yu, sugere que um novo tipo de matéria escura poderia explicar três quebra-cabeças astrofísicos em ambientes muito.",
-    "sub_pt": "Um estudo liderado pelo físico da UC Riverside, Hai-Bo Yu, sugere que um novo tipo de matéria escura poderia explicar três quebra-cabeças astrofísicos em ambientes muito.",
-    "sub_en": "A study led by UC Riverside physicist Hai-Bo Yu suggests that a new type of dark matter could explain three astrophysical puzzles across vastly different environments. Published.",
-    "excerpt": "Um estudo liderado pelo físico da UC Riverside, Hai-Bo Yu, sugere que um novo tipo de matéria escura poderia explicar três quebra-cabeças astrofísicos em ambientes muito diferentes. Publicado na Physical Review Letters, o estudo propõe isso denso.",
-    "excerpt_pt": "Um estudo liderado pelo físico da UC Riverside, Hai-Bo Yu, sugere que um novo tipo de matéria escura poderia explicar três quebra-cabeças astrofísicos em ambientes muito diferentes. Publicado na Physical Review Letters, o estudo propõe isso denso.",
-    "excerpt_en": "A study led by UC Riverside physicist Hai-Bo Yu suggests that a new type of dark matter could explain three astrophysical puzzles across vastly different environments. Published in Physical Review Letters, the study proposes that dense.",
-    "body": "<p>Um estudo liderado pelo físico da UC Riverside, Hai-Bo Yu, sugere que um novo tipo de matéria escura poderia explicar três quebra-cabeças astrofísicos em ambientes muito diferentes. Publicado na Physical Review Letters, o estudo propõe isso denso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Publicado na revista Physical Review Letters, o estudo propõe que aglomerados densos de matéria escura autointeragente (SIDM), cada um com cerca de um milhão de vezes a massa do. Por Iqbal Pittalwala, Universidade da Califórnia, Riverside editado por Stephanie Baum, revisado por Robert Egan Este artigo foi revisado de acordo com o processo editorial e as.</p><p>Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial O sistema de lentes gravitacionais JVAS B1938+666. A emissão laranja mostra ondas de rádio do mesmo sistema.</p><p>Devon Powell, Instituto Max Planck de Astrofísica, com base em dados de Keck/EVN/GBT/VLBA.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-interacting-dark-cosmic-puzzles.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Um estudo liderado pelo físico da UC Riverside, Hai-Bo Yu, sugere que um novo tipo de matéria escura poderia explicar três quebra-cabeças astrofísicos em ambientes muito diferentes. Publicado na Physical Review Letters, o estudo propõe isso denso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Publicado na revista Physical Review Letters, o estudo propõe que aglomerados densos de matéria escura autointeragente (SIDM), cada um com cerca de um milhão de vezes a massa do. Por Iqbal Pittalwala, Universidade da Califórnia, Riverside editado por Stephanie Baum, revisado por Robert Egan Este artigo foi revisado de acordo com o processo editorial e as.</p><p>Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial O sistema de lentes gravitacionais JVAS B1938+666. A emissão laranja mostra ondas de rádio do mesmo sistema.</p><p>Devon Powell, Instituto Max Planck de Astrofísica, com base em dados de Keck/EVN/GBT/VLBA.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-interacting-dark-cosmic-puzzles.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A study led by UC Riverside physicist Hai-Bo Yu suggests that a new type of dark matter could explain three astrophysical puzzles across vastly different environments. Published in Physical Review Letters, the study proposes that dense. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. Published in Physical Review Letters, the study proposes that dense clumps of self-interacting dark matter (SIDM)—each about a million times the mass of the sun, can account for. By Iqbal Pittalwala, University of California, Riverside edited by Stephanie Baum, reviewed by Robert Egan This article has been reviewed according to Science X&#x27;s editorial.</p><p>Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source The gravitational lens system JVAS B1938+666. The orange emission shows radio waves from the same system.</p><p>Devon Powell, Max Planck Institute for Astrophysics, based on data from Keck/EVN/GBT/VLBA. A study led by UC Riverside physicist Hai-Bo Yu suggests that a new type of dark matter could explain three astrophysical puzzles across vastly different environments.</p><p>Dark matter, which makes up about 85% of the universe&#x27;s matter, cannot be seen directly. This model struggles, however, to explain certain high-density structures observed in the universe.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Dark matter that interacts with itself can become dense enough to explain these observations.&quot; The study shows that these dense SIDM clumps can simultaneously explain: &quot;What&#x27;s. All show densities that are difficult to reconcile with standard model dark matter but arise naturally in SIDM.&quot; Hai-Bo Yu, Core-Collapsed SIDM Halos as the Common Origin of Dense.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-interacting-dark-cosmic-puzzles.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Um estudo liderado pelo físico da UC Riverside, Hai-Bo Yu, sugere que um novo tipo de matéria escura poderia explicar três quebra-cabeças.",
-      "Dado-chave: Publicado na revista Physical Review Letters, o estudo propõe que aglomerados densos de matéria escura autointeragente (SIDM), cada um com cerca.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Um estudo liderado pelo físico da UC Riverside, Hai-Bo Yu, sugere que um novo tipo de matéria escura poderia explicar três quebra-cabeças.",
-      "Dado-chave: Publicado na revista Physical Review Letters, o estudo propõe que aglomerados densos de matéria escura autointeragente (SIDM), cada um com cerca.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A study led by UC Riverside physicist Hai-Bo Yu suggests that a new type of dark matter could explain three astrophysical puzzles across vastly.",
-      "Key detail: Published in Physical Review Letters, the study proposes that dense clumps of self-interacting dark matter (SIDM)—each about a million times the.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "13 abr 2026",
-    "date_pt": "13 abr 2026",
-    "date_en": "13 Apr 2026",
-    "time": "22h50",
-    "time_pt": "22h50",
-    "time_en": "22:50 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-13T22:50:04+00:00",
-    "lastModifiedIso": "2026-04-13T22:50:04+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Cosmologia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "A matéria escura autointeragente pode resolver três quebra",
-      "cabeças cósmicos"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "A matéria escura autointeragente pode resolver três quebra",
-      "cabeças cósmicos"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Self-interacting dark matter can solve three breaks",
-      "cosmic heads"
-    ],
-    "srcUrl": "https://phys.org/news/2026-04-interacting-dark-cosmic-puzzles.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=self-interacting-dark-matter-may-solve-three-cosmic-puzzles",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=self-interacting-dark-matter-may-solve-three-cosmic-puzzles",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=self-interacting-dark-matter-may-solve-three-cosmic-puzzles&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 77,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 15,
     "slug": "two-monsters-one-galaxy-and-a-collision-100-years-away",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1782,11 +1646,11 @@ window.postsData = [
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 16,
+    "id": 15,
     "slug": "astronomers-find-evidence-for-three-subpopulations-of-merging-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1919,7 +1783,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 16,
     "slug": "the-nature-of-tilted-supercritical-accretion-discs",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2024,7 +1888,7 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 17,
     "slug": "exoplanet-host-star-shares-elemental-traits-with-its-hot-jupiter",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2148,7 +2012,7 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
+    "id": 18,
     "slug": "between-eternal-night-and-day-the-faces-of-two-cousins-of-earth",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2284,7 +2148,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 19,
     "slug": "the-ropes-project-with-harps-and-harps-n-iii-two-candidate-planets-orbiting-the-g-type-star-hd-1",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2389,6 +2253,139 @@ window.postsData = [
       "relevance": 94,
       "accessibility": 60,
       "novelty": 52
+    }
+  },
+  {
+    "id": 20,
+    "slug": "information-from-starquakes-provides-theoretical-evidence-for-fossilized-magnetism-in-stars",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/starquakes-and-the-arc.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/starquakes-and-the-arc.jpg",
+        "caption": "Starquakes e a arqueologia do magnetismo estelar",
+        "caption_pt": "Starquakes e a arqueologia do magnetismo estelar",
+        "caption_en": "Starquakes and the archaeology of stellar magnetism",
+        "alt": "Starquakes e a arqueologia do magnetismo estelar",
+        "alt_pt": "Starquakes e a arqueologia do magnetismo estelar",
+        "alt_en": "Starquakes and the archaeology of stellar magnetism"
+      },
+      {
+        "src": "https://scx0.b-cdn.net/pic/stephanie.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx0.b-cdn.net/pic/Robert.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Informações de terremotos estelares fornecem evidências teóricas de magnetismo ‘fossilizado’ em estrelas",
+    "title_pt": "Informações de terremotos estelares fornecem evidências teóricas de magnetismo ‘fossilizado’ em estrelas",
+    "title_en": "Information from starquakes provides theoretical evidence for 'fossilized' magnetism in stars",
+    "sub": "Pela primeira vez, novos modelos teóricos, publicados na Astronomy & Astrophysics, ligam o magnetismo na superfície de remanescentes estelares há muito mortos com evidências.",
+    "sub_pt": "Pela primeira vez, novos modelos teóricos, publicados na Astronomy & Astrophysics, ligam o magnetismo na superfície de remanescentes estelares há muito mortos com evidências.",
+    "sub_en": "For the first time, new theoretical models, published in Astronomy & Astrophysics, connect the magnetism at the surface of long-dead stellar remnants with recent evidence of.",
+    "excerpt": "Pela primeira vez, novos modelos teóricos, publicados na Astronomy & Astrophysics, ligam o magnetismo na superfície de remanescentes estelares há muito mortos com evidências recentes de magnetismo nos núcleos dos seus progenitores moribundos. A equipe.",
+    "excerpt_pt": "Pela primeira vez, novos modelos teóricos, publicados na Astronomy & Astrophysics, ligam o magnetismo na superfície de remanescentes estelares há muito mortos com evidências recentes de magnetismo nos núcleos dos seus progenitores moribundos. A equipe.",
+    "excerpt_en": "For the first time, new theoretical models, published in Astronomy & Astrophysics, connect the magnetism at the surface of long-dead stellar remnants with recent evidence of magnetism at the cores of their dying progenitors. The team, led.",
+    "body": "<p>Pela primeira vez, novos modelos teóricos, publicados na Astronomy &amp; Astrophysics, ligam o magnetismo na superfície de remanescentes estelares há muito mortos com evidências recentes de magnetismo nos núcleos dos seus progenitores moribundos. A equipe, liderada. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. A equipa, liderada por astrofísicos do Instituto de Ciência e Tecnologia da Áustria (ISTA), argumenta que estes campos magnéticos podem ter origem no início da vida das estrelas e. Pela primeira vez, novos modelos teóricos, publicados na Astronomy &amp; Astrophysics, ligam o magnetismo na superfície de remanescentes estelares há muito mortos (anãs brancas) com.</p><p>Editado por Stephanie Baum, revisado por Robert Egan Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Lukas Einramhof | ISTA Pela primeira vez, novos modelos teóricos, publicados na Astronomy &amp; Astrophysics, ligam o magnetismo na superfície de remanescentes estelares há muito.</p><p>O estudante Lukas Einramhof e a professora assistente Lisa Bugnet no Instituto de Ciência e Tecnologia da Áustria (ISTA), ligam observações independentes recolhidas em diferentes.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-starquakes-theoretical-evidence-fossilized-magnetism.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Pela primeira vez, novos modelos teóricos, publicados na Astronomy &amp; Astrophysics, ligam o magnetismo na superfície de remanescentes estelares há muito mortos com evidências recentes de magnetismo nos núcleos dos seus progenitores moribundos. A equipe, liderada. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. A equipa, liderada por astrofísicos do Instituto de Ciência e Tecnologia da Áustria (ISTA), argumenta que estes campos magnéticos podem ter origem no início da vida das estrelas e. Pela primeira vez, novos modelos teóricos, publicados na Astronomy &amp; Astrophysics, ligam o magnetismo na superfície de remanescentes estelares há muito mortos (anãs brancas) com.</p><p>Editado por Stephanie Baum, revisado por Robert Egan Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Lukas Einramhof | ISTA Pela primeira vez, novos modelos teóricos, publicados na Astronomy &amp; Astrophysics, ligam o magnetismo na superfície de remanescentes estelares há muito.</p><p>O estudante Lukas Einramhof e a professora assistente Lisa Bugnet no Instituto de Ciência e Tecnologia da Áustria (ISTA), ligam observações independentes recolhidas em diferentes.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-starquakes-theoretical-evidence-fossilized-magnetism.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>For the first time, new theoretical models, published in Astronomy &amp; Astrophysics, connect the magnetism at the surface of long-dead stellar remnants with recent evidence of magnetism at the cores of their dying progenitors. The team, led. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. The team, led by astrophysicists at the Institute of Science and Technology Austria (ISTA), argues that these magnetic fields might originate early in the stars&#x27; lives, and. For the first time, new theoretical models, published in Astronomy &amp; Astrophysics, connect the magnetism at the surface of long-dead stellar remnants (white dwarfs) with recent.</p><p>Edited by Stephanie Baum, reviewed by Robert Egan This article has been reviewed according to Science X&#x27;s editorial process and policies. Lukas Einramhof | ISTA For the first time, new theoretical models, published in Astronomy &amp; Astrophysics, connect the magnetism at the surface of long-dead stellar remnants (white.</p><p>Student Lukas Einramhof and Assistant Professor Lisa Bugnet at the Institute of Science and Technology Austria (ISTA)—links independent observations collected at different stages. For the first time, they connect the evidence of magnetic fields reaching the surface of older white dwarfs to recent findings of magnetism in the cores of red giants, the dying.</p><p>On the one hand, magnetic fields have been detected at the surface of older white dwarfs, suggesting that these might eventually reach the surface from within as the remnant. He adds, &quot;If the magnetic field observed during the red giant phase is the same as the one that evolves to be observed at the surface of the white dwarf, then the fossil field.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. By revisiting the fossil field scenario with new insights, the team made several key findings about the archaeology of magnetism in stars.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-starquakes-theoretical-evidence-fossilized-magnetism.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Pela primeira vez, novos modelos teóricos, publicados na Astronomy & Astrophysics, ligam o magnetismo na superfície de remanescentes estelares há.",
+      "Dado-chave: A equipa, liderada por astrofísicos do Instituto de Ciência e Tecnologia da Áustria (ISTA), argumenta que estes campos magnéticos podem ter.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Pela primeira vez, novos modelos teóricos, publicados na Astronomy & Astrophysics, ligam o magnetismo na superfície de remanescentes estelares há.",
+      "Dado-chave: A equipa, liderada por astrofísicos do Instituto de Ciência e Tecnologia da Áustria (ISTA), argumenta que estes campos magnéticos podem ter.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: For the first time, new theoretical models, published in Astronomy & Astrophysics, connect the magnetism at the surface of long-dead stellar remnants.",
+      "Key detail: The team, led by astrophysicists at the Institute of Science and Technology Austria (ISTA), argues that these magnetic fields might originate.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "14 abr 2026",
+    "date_pt": "14 abr 2026",
+    "date_en": "14 Apr 2026",
+    "time": "07h00",
+    "time_pt": "07h00",
+    "time_en": "07:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-14T07:00:02+00:00",
+    "lastModifiedIso": "2026-04-14T07:00:02+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Informações de terremotos estelares fornecem evidências teóricas de magnetismo ‘fossilizado’ em estrelas"
+    ],
+    "keywords_pt": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Informações de terremotos estelares fornecem evidências teóricas de magnetismo ‘fossilizado’ em estrelas"
+    ],
+    "keywords_en": [
+      "Physical",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Information from stellar earthquakes provides theoretical evidence of ‘fossilized’ magnetism in stars"
+    ],
+    "srcUrl": "https://phys.org/news/2026-04-starquakes-theoretical-evidence-fossilized-magnetism.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=information-from-starquakes-provides-theoretical-evidence-for-fossilized-magnetism-in-stars",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=information-from-starquakes-provides-theoretical-evidence-for-fossilized-magnetism-in-stars",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=information-from-starquakes-provides-theoretical-evidence-for-fossilized-magnetism-in-stars&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 82,
+      "accessibility": 60,
+      "novelty": 55
     }
   },
   {
@@ -3649,35 +3646,7 @@ window.postsData = [
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/proba-3_tracks_solar_wind_moving_close_to_the_sun/27200925-1-eng-GB/Proba-3_tracks_solar_wind_moving_close_to_the_Sun_card_full.png",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/11/proba-3_infographic_new_views_of_the_sun_and_space_weather/26475360-1-eng-GB/Proba-3_infographic_new_views_of_the_Sun_and_space_weather_article.jpg",
-        "caption": "Novas visualizações do Sol e do clima espacial do Proba-3",
-        "caption_pt": "Novas visualizações do Sol e do clima espacial do Proba-3",
-        "caption_en": "Proba-3's new views of the Sun and space weather",
-        "alt": "Novas visualizações do Sol e do clima espacial do Proba-3",
-        "alt_pt": "Novas visualizações do Sol e do clima espacial do Proba-3",
-        "alt_en": "Proba-3's new views of the Sun and space weather"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/streamers_around_the_sun/27200831-1-eng-GB/Streamers_around_the_Sun_article.png",
-        "caption": "Nesta imagem do Proba-3, serpentinas claras podem ser vistas na parte superior central direita e na parte inferior esquerda do Sol",
-        "caption_pt": "Nesta imagem do Proba-3, serpentinas claras podem ser vistas na parte superior central direita e na parte inferior esquerda do Sol",
-        "caption_en": "In this Proba-3 image, clear streamers can be seen to the top centre-right and bottom left of the Sun",
-        "alt": "Nesta imagem do Proba-3, serpentinas claras podem ser vistas na parte superior central direita e na parte inferior esquerda do Sol",
-        "alt_pt": "Nesta imagem do Proba-3, serpentinas claras podem ser vistas na parte superior central direita e na parte inferior esquerda do Sol",
-        "alt_en": "In this Proba-3 image, clear streamers can be seen to the top centre-right and bottom left of the Sun"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/proba-3_sees_slow_solar_wind_speeding_close_to_the_sun/27200878-1-eng-GB/Proba-3_sees_slow_solar_wind_speeding_close_to_the_Sun_article.png",
-        "caption": "Proba-3 vê vento solar lento acelerando perto do Sol",
-        "caption_pt": "Proba-3 vê vento solar lento acelerando perto do Sol",
-        "caption_en": "Proba-3 sees slow solar wind speeding close to the Sun",
-        "alt": "Proba-3 vê vento solar lento acelerando perto do Sol",
-        "alt_pt": "Proba-3 vê vento solar lento acelerando perto do Sol",
-        "alt_en": "Proba-3 sees slow solar wind speeding close to the Sun"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Primeira ciência Proba-3: vento solar surpreendentemente rápido",
@@ -3689,22 +3658,22 @@ window.postsData = [
     "excerpt": "Desde julho de 2025, o par de satélites Proba-3 da Agência Espacial Europeia já criou 57 eclipses solares artificiais. Até agora, a missão coletou mais de 250 horas de vídeos de alta resolução da atmosfera do Sol, chamados de.",
     "excerpt_pt": "Desde julho de 2025, o par de satélites Proba-3 da Agência Espacial Europeia já criou 57 eclipses solares artificiais. Até agora, a missão coletou mais de 250 horas de vídeos de alta resolução da atmosfera do Sol, chamados de.",
     "excerpt_en": "Since July 2025, the European Space Agency’s pair of Proba-3 satellites has already created 57 artificial solar eclipses. So far, the mission has collected more than 250 hours of high-resolution videos of the Sun’s atmosphere, called the.",
-    "body": "<p>Desde julho de 2025, o par de satélites Proba-3 da Agência Espacial Europeia já criou 57 eclipses solares artificiais. Até agora, a missão coletou mais de 250 horas de vídeos de alta resolução da atmosfera do Sol, chamados de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Até agora, a missão recolheu mais de 250 horas de vídeos de alta resolução da atmosfera do Sol, chamada coroa. Essa é a mesma quantidade de tempo de observação que cerca de 5.000 campanhas totais de eclipses solares realizadas na Terra.</p><p>Antes do Proba-3, um eclipse solar total visto da Terra era a melhor maneira de ver a coroa interna do Sol. Quando a Lua bloqueia a luz direta do Sol, fotógrafos especializados podem capturar belos detalhes na atmosfera ao redor do Sol.</p><p>“Estes movimentos intrincados nunca foram observados em comprimentos de onda ópticos tão baixos na coroa interna do Sol,” observa Joe Zender, cientista do projecto Proba-3 da ESA. Proba-3 é a primeira missão de produção de eclipses da Agência Espacial Europeia.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/First_Proba-3_science_surprisingly_speedy_solar_wind\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Desde julho de 2025, o par de satélites Proba-3 da Agência Espacial Europeia já criou 57 eclipses solares artificiais. Até agora, a missão coletou mais de 250 horas de vídeos de alta resolução da atmosfera do Sol, chamados de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Até agora, a missão recolheu mais de 250 horas de vídeos de alta resolução da atmosfera do Sol, chamada coroa. Essa é a mesma quantidade de tempo de observação que cerca de 5.000 campanhas totais de eclipses solares realizadas na Terra.</p><p>Antes do Proba-3, um eclipse solar total visto da Terra era a melhor maneira de ver a coroa interna do Sol. Quando a Lua bloqueia a luz direta do Sol, fotógrafos especializados podem capturar belos detalhes na atmosfera ao redor do Sol.</p><p>“Estes movimentos intrincados nunca foram observados em comprimentos de onda ópticos tão baixos na coroa interna do Sol,” observa Joe Zender, cientista do projecto Proba-3 da ESA. Proba-3 é a primeira missão de produção de eclipses da Agência Espacial Europeia.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/First_Proba-3_science_surprisingly_speedy_solar_wind\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Since July 2025, the European Space Agency’s pair of Proba-3 satellites has already created 57 artificial solar eclipses. So far, the mission has collected more than 250 hours of high-resolution videos of the Sun’s atmosphere, called the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. So far, the mission has collected more than 250 hours of high-resolution videos of the Sun’s atmosphere, called the corona. That’s the same amount of observing time as about 5000 total solar eclipse campaigns carried out on Earth.</p><p>Before Proba-3, a total solar eclipse seen from Earth was the best way to see the Sun’s inner corona. When the Moon blocks out the Sun’s direct light, expert photographers can capture beautiful details in the atmosphere around the Sun.</p><p>“These intricate movements have never been observed in optical wavelengths so low in the Sun’s inner corona,” notes Joe Zender, ESA’s Proba-3 project scientist. Proba-3 is the European Space Agency&#x27;s first eclipse-making mission.</p><p>Since their launch in December 2024, the satellite duo has claimed not one, but two world firsts, the first precise formation flight, setting the mission up for its first. After having achieved all of its technology goals, the mission has completed more than 60 extremely accurate formation flying orbits so far.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>By providing scientists with hours of science data per artificial eclipse, Proba-3 has accomplished a major feat in space-based solar and heliophysics research. Aside from the ASPIICS coronagraph, Proba-3 carries two more instruments that can be used for science.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/First_Proba-3_science_surprisingly_speedy_solar_wind\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Desde julho de 2025, o par de satélites Proba-3 da Agência Espacial Europeia já criou 57 eclipses solares artificiais. Até agora, a missão coletou mais de 250 horas de vídeos de alta resolução da atmosfera do Sol, chamados de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Pela primeira vez podemos acompanhar cuidadosamente como o material do. Desde julho de 2025, o par de satélites Proba-3 da Agência Espacial Europeia já criou 57 eclipses solares artificiais.</p><p>Até agora, a missão recolheu mais de 250 horas de vídeos de alta resolução da atmosfera do Sol, chamada coroa. Essa é a mesma quantidade de tempo de observação que cerca de 5.000 campanhas totais de eclipses solares realizadas na Terra.</p><p>Mas a ciência é ainda mais emocionante. Pela primeira vez podemos acompanhar cuidadosamente como o material do Sol se move através da coroa interna, onde nasce o clima espacial.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/First_Proba-3_science_surprisingly_speedy_solar_wind\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Desde julho de 2025, o par de satélites Proba-3 da Agência Espacial Europeia já criou 57 eclipses solares artificiais. Até agora, a missão coletou mais de 250 horas de vídeos de alta resolução da atmosfera do Sol, chamados de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Pela primeira vez podemos acompanhar cuidadosamente como o material do. Desde julho de 2025, o par de satélites Proba-3 da Agência Espacial Europeia já criou 57 eclipses solares artificiais.</p><p>Até agora, a missão recolheu mais de 250 horas de vídeos de alta resolução da atmosfera do Sol, chamada coroa. Essa é a mesma quantidade de tempo de observação que cerca de 5.000 campanhas totais de eclipses solares realizadas na Terra.</p><p>Mas a ciência é ainda mais emocionante. Pela primeira vez podemos acompanhar cuidadosamente como o material do Sol se move através da coroa interna, onde nasce o clima espacial.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/First_Proba-3_science_surprisingly_speedy_solar_wind\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Since July 2025, the European Space Agency’s pair of Proba-3 satellites has already created 57 artificial solar eclipses. So far, the mission has collected more than 250 hours of high-resolution videos of the Sun’s atmosphere, called the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. For the first time we can carefully track how material from the. Since July 2025, the European Space Agency’s pair of Proba-3 satellites has already created 57 artificial solar eclipses.</p><p>So far, the mission has collected more than 250 hours of high-resolution videos of the Sun’s atmosphere, called the corona. That’s the same amount of observing time as about 5000 total solar eclipse campaigns carried out on Earth.</p><p>But the science is even more exciting. For the first time we can carefully track how material from the Sun moves through the inner corona, where space weather is born.</p><p>The first results, recently published in The Astrophysical Journal Letters, show that solar wind structures in the inner corona can travel three to four times faster than.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/First_Proba-3_science_surprisingly_speedy_solar_wind\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Desde julho de 2025, o par de satélites Proba-3 da Agência Espacial Europeia já criou 57 eclipses solares artificiais. Até agora, a missão coletou.",
-      "Dado-chave: Até agora, a missão recolheu mais de 250 horas de vídeos de alta resolução da atmosfera do Sol, chamada coroa.",
+      "Dado-chave: Pela primeira vez podemos acompanhar cuidadosamente como o material do.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Desde julho de 2025, o par de satélites Proba-3 da Agência Espacial Europeia já criou 57 eclipses solares artificiais. Até agora, a missão coletou.",
-      "Dado-chave: Até agora, a missão recolheu mais de 250 horas de vídeos de alta resolução da atmosfera do Sol, chamada coroa.",
+      "Dado-chave: Pela primeira vez podemos acompanhar cuidadosamente como o material do.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Since July 2025, the European Space Agency’s pair of Proba-3 satellites has already created 57 artificial solar eclipses. So far, the mission has.",
-      "Key detail: So far, the mission has collected more than 250 hours of high-resolution videos of the Sun’s atmosphere, called the corona.",
+      "Key detail: For the first time we can carefully track how material from the.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "13 abr 2026",
@@ -4049,17 +4018,17 @@ window.postsData = [
     "excerpt": "No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar?.",
     "excerpt_pt": "No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar?.",
     "excerpt_en": "On 6 April 2026, NASA’s Artemis II mission, powered by ESA’s European Service Module, brought humans further than ever before. But how do future astronauts train to live on the Moon, and what kind of lunar base could they create? That’s.",
-    "body": "<p>No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar? Isso é. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar.</p><p>Treine como um astronauta com o projeto Mission X Astronautas, como Christina Koch, a primeira mulher em uma missão lunar, devem treinar duro para se prepararem para suas missões. Seguindo os passos destes corajosos astronautas, os alunos podem trazer os mascotes da Missão X, Luna e Leo, para mais perto da Lua.</p><p>Ao se colocarem no lugar, os alunos podem treinar como astronautas e realizar uma ampla gama de atividades, até mesmo praticando para sua própria jornada ao espaço. Desde a compreensão da nutrição até aprender como se manter forte no espaço e na Terra, as atividades da Missão X podem levá-lo à Lua.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar? Isso é. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar.</p><p>Treine como um astronauta com o projeto Mission X Astronautas, como Christina Koch, a primeira mulher em uma missão lunar, devem treinar duro para se prepararem para suas missões. Seguindo os passos destes corajosos astronautas, os alunos podem trazer os mascotes da Missão X, Luna e Leo, para mais perto da Lua.</p><p>Ao se colocarem no lugar, os alunos podem treinar como astronautas e realizar uma ampla gama de atividades, até mesmo praticando para sua própria jornada ao espaço. Desde a compreensão da nutrição até aprender como se manter forte no espaço e na Terra, as atividades da Missão X podem levá-lo à Lua.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body": "<p>No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar? Isso é. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar.</p><p>Treine como um astronauta com o projeto Mission X Astronautas, como Christina Koch, a primeira mulher em uma missão lunar, devem treinar duro para se prepararem para suas missões. Seguindo os passos destes corajosos astronautas, os alunos podem trazer os mascotes da Missão X, Luna e Leo, para mais perto da Lua.</p><p>Ao se colocarem no lugar, os alunos podem treinar como astronautas e realizar uma ampla gama de atividades, até mesmo praticando para sua própria jornada ao espaço. Desde a compreensão da nutrição até aprender como se manter forte no espaço e na Terra, as atividades da Missão X podem levá-lo à Lua.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar? Isso é. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os humanos mais longe do que nunca. Mas como é que os futuros astronautas treinam para viver na Lua e que tipo de base lunar poderiam criar.</p><p>Treine como um astronauta com o projeto Mission X Astronautas, como Christina Koch, a primeira mulher em uma missão lunar, devem treinar duro para se prepararem para suas missões. Seguindo os passos destes corajosos astronautas, os alunos podem trazer os mascotes da Missão X, Luna e Leo, para mais perto da Lua.</p><p>Ao se colocarem no lugar, os alunos podem treinar como astronautas e realizar uma ampla gama de atividades, até mesmo praticando para sua própria jornada ao espaço. Desde a compreensão da nutrição até aprender como se manter forte no espaço e na Terra, as atividades da Missão X podem levá-lo à Lua.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>On 6 April 2026, NASA’s Artemis II mission, powered by ESA’s European Service Module, brought humans further than ever before. But how do future astronauts train to live on the Moon, and what kind of lunar base could they create? That’s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. On 6 April 2026, NASA’s Artemis II mission, powered by ESA’s European Service Module (ESM), brought humans further than ever before. But how do future astronauts train to live on the Moon, and what kind of lunar base could they create.</p><p>Train like an astronaut with the Mission X project Astronauts, like Christina Koch, the first woman on a lunar mission, must train hard to prepare for their space missions. Following in the footsteps of these brave astronauts, students can bring Mission X’s mascots, Luna and Leo, closer to the Moon.</p><p>By stepping into their shoes, students can train like an astronaut and complete a wide range of activities, even practising for their own journey to space. From understanding nutrition to learning how to stay strong in space and on Earth, Mission X activities can take you to the Moon.</p><p>Artemis will bring astronauts to the Moon using Europe’s European Service Module (ESM), which gives air, water, and power to Artemis’ astronauts. With the Moon Camp project, students can design a habitat on the Moon using a tool of their choice from arts and crafts to 3D design, robotics, and game-based applications.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>By designing a habitat on the moon, students can take a glimpse into the design of a future lunar base. Start your journey to the moon today with Moon Camp and Mission X.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que.",
-      "Dado-chave: No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os seres humanos mais.",
+      "Dado-chave: No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os humanos mais longe do.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu da ESA, levou os seres humanos mais longe do que.",
-      "Dado-chave: No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os seres humanos mais.",
+      "Dado-chave: No dia 6 de Abril de 2026, a missão Artemis II da NASA, alimentada pelo Módulo de Serviço Europeu (ESM) da ESA, levou os humanos mais longe do.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
@@ -4544,6 +4513,114 @@ window.postsData = [
   },
   {
     "id": 38,
+    "slug": "artemis-ii-splashdown",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/artemis_ii_splashdown/27200308-3-eng-GB/Artemis_II_splashdown_card_full.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Artemis II: respingo",
+    "title_pt": "Artemis II: respingo",
+    "title_en": "Artemis II: splashdown",
+    "sub": "Às 07h07, hora local, do dia 10 de abril, a nave espacial Orion da NASA e a sua tripulação aterrissaram em segurança no Oceano Pacífico, marcando o fim da missão Artemis II. O.",
+    "sub_pt": "Às 07h07, hora local, do dia 10 de abril, a nave espacial Orion da NASA e a sua tripulação aterrissaram em segurança no Oceano Pacífico, marcando o fim da missão Artemis II. O.",
+    "sub_en": "07 local time on 10 April, NASA’s Orion spacecraft and its crew splashed down safely in the Pacific Ocean, marking the end of the Artemis II mission. ESA’s European Service Module.",
+    "excerpt": "Às 07h07, hora local, do dia 10 de abril, a nave espacial Orion da NASA e a sua tripulação aterrissaram em segurança no Oceano Pacífico, marcando o fim da missão Artemis II. O Módulo de Serviço Europeu da ESA impulsionou esta missão histórica que levou quatro.",
+    "excerpt_pt": "Às 07h07, hora local, do dia 10 de abril, a nave espacial Orion da NASA e a sua tripulação aterrissaram em segurança no Oceano Pacífico, marcando o fim da missão Artemis II. O Módulo de Serviço Europeu da ESA impulsionou esta missão histórica que levou quatro.",
+    "excerpt_en": "07 local time on 10 April, NASA’s Orion spacecraft and its crew splashed down safely in the Pacific Ocean, marking the end of the Artemis II mission. ESA’s European Service Module powered this historic mission that took four astronauts.",
+    "body": "<p>Às 07h07, hora local, do dia 10 de abril, a nave espacial Orion da NASA e a sua tripulação aterrissaram em segurança no Oceano Pacífico, marcando o fim da missão Artemis II. O Módulo de Serviço Europeu da ESA impulsionou esta missão histórica que levou quatro astronautas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Hoje, às 17h07, hora local, do dia 10 de abril (01h07 BST/02h07 CEST de 11 de abril), a nave espacial Orion da NASA e a sua tripulação aterrissaram em segurança no Oceano. O Módulo de Serviço Europeu da ESA impulsionou esta missão histórica que levou quatro astronautas à volta da Lua e regressou pela primeira vez desde a Apollo 17 em 1972.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_splashdown\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Às 07h07, hora local, do dia 10 de abril, a nave espacial Orion da NASA e a sua tripulação aterrissaram em segurança no Oceano Pacífico, marcando o fim da missão Artemis II. O Módulo de Serviço Europeu da ESA impulsionou esta missão histórica que levou quatro astronautas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Hoje, às 17h07, hora local, do dia 10 de abril (01h07 BST/02h07 CEST de 11 de abril), a nave espacial Orion da NASA e a sua tripulação aterrissaram em segurança no Oceano. O Módulo de Serviço Europeu da ESA impulsionou esta missão histórica que levou quatro astronautas à volta da Lua e regressou pela primeira vez desde a Apollo 17 em 1972.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_splashdown\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>07 local time on 10 April, NASA’s Orion spacecraft and its crew splashed down safely in the Pacific Ocean, marking the end of the Artemis II mission. ESA’s European Service Module powered this historic mission that took four astronauts. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. 07 local time on 10 April (01: 07 BST/02: 07 CEST 11 April), NASA’s Orion spacecraft and its crew splashed down safely in the Pacific Ocean, marking the end of the Artemis II. ESA’s European Service Module powered this historic mission that took four astronauts around the Moon and back for the first time since Apollo 17 in 1972.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_splashdown\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Às 07h07, hora local, do dia 10 de abril, a nave espacial Orion da NASA e a sua tripulação aterrissaram em segurança no Oceano Pacífico, marcando o.",
+      "Dado-chave: Hoje, às 17h07, hora local, do dia 10 de abril (01h07 BST/02h07 CEST de 11 de abril), a nave espacial Orion da NASA e a sua tripulação.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Às 07h07, hora local, do dia 10 de abril, a nave espacial Orion da NASA e a sua tripulação aterrissaram em segurança no Oceano Pacífico, marcando o.",
+      "Dado-chave: Hoje, às 17h07, hora local, do dia 10 de abril (01h07 BST/02h07 CEST de 11 de abril), a nave espacial Orion da NASA e a sua tripulação.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: 07 local time on 10 April, NASA’s Orion spacecraft and its crew splashed down safely in the Pacific Ocean, marking the end of the Artemis II mission.",
+      "Key detail: 07 local time on 10 April (01: 07 BST/02: 07 CEST 11 April), NASA’s Orion spacecraft and its crew splashed down safely in the Pacific Ocean.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "11 abr 2026",
+    "date_pt": "11 abr 2026",
+    "date_en": "11 Apr 2026",
+    "time": "00h51",
+    "time_pt": "00h51",
+    "time_en": "00:51 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-11T00:51:00+00:00",
+    "lastModifiedIso": "2026-04-11T00:51:00+00:00",
+    "source": "ESA Space News",
+    "sourceDomain": "www.esa.int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "Artemis II",
+      "respingo"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "Artemis II",
+      "respingo"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "ESA Space News",
+      "Cosmos Week",
+      "Artemis II",
+      "start"
+    ],
+    "srcUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_splashdown",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=artemis-ii-splashdown",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=artemis-ii-splashdown",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=artemis-ii-splashdown&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 80,
+      "evidence": 88,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 49
+    }
+  },
+  {
+    "id": 39,
     "slug": "rubin-observatory-announces-11-000-new-asteroids",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4666,149 +4743,13 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 75,
+    "score": 74,
     "scoreBreakdown": {
       "source": 74,
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
-    "id": 39,
-    "slug": "artemis-ii-splashdown",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/artemis_ii_splashdown/27200308-3-eng-GB/Artemis_II_splashdown_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/moon_joy_earth_love/27197038-1-eng-GB/Moon_joy_Earth_love_article.jpg",
-        "caption": "Orion e seu Módulo de Serviço Europeu trazendo a tripulação ao redor da Lua e de volta à Terra",
-        "caption_pt": "Orion e seu Módulo de Serviço Europeu trazendo a tripulação ao redor da Lua e de volta à Terra",
-        "caption_en": "Orion and its European Service Module bringing the crew around the Moon and back to Earth",
-        "alt": "Orion e seu Módulo de Serviço Europeu trazendo a tripulação ao redor da Lua e de volta à Terra",
-        "alt_pt": "Orion e seu Módulo de Serviço Europeu trazendo a tripulação ao redor da Lua e de volta à Terra",
-        "alt_en": "Orion and its European Service Module bringing the crew around the Moon and back to Earth"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/orion_mission_evaluation_room_in_houston/27198110-1-eng-GB/Orion_Mission_Evaluation_Room_in_Houston_article.jpg",
-        "caption": "Engenheiros europeus na Sala de Avaliação da Missão Orion no Centro Espacial Johnson da NASA.",
-        "caption_pt": "Engenheiros europeus na Sala de Avaliação da Missão Orion no Centro Espacial Johnson da NASA.",
-        "caption_en": "European engineers in the Orion Mission Evaluation Room at NASA's Johnson Space Center.",
-        "alt": "Engenheiros europeus na Sala de Avaliação da Missão Orion na NASA",
-        "alt_pt": "Engenheiros europeus na Sala de Avaliação da Missão Orion na NASA",
-        "alt_en": "European engineers in the Orion Mission Evaluation Room at NASA"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/european_service_module_mission_control_at_estec/27198063-2-eng-GB/European_Service_Module_mission_control_at_ESTEC_article.jpg",
-        "caption": "Engenheiros europeus na sala de controlo da missão Eagle nas instalações técnicas da ESA nos Países Baixos",
-        "caption_pt": "Engenheiros europeus na sala de controlo da missão Eagle nas instalações técnicas da ESA nos Países Baixos",
-        "caption_en": "European engineers in the Eagle mission control room at ESA's technical site in the Netherlands",
-        "alt": "Engenheiros europeus na sala de controlo da missão Eagle na ESA",
-        "alt_pt": "Engenheiros europeus na sala de controlo da missão Eagle na ESA",
-        "alt_en": "European engineers in the Eagle mission control room at ESA"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Artemis II: respingo",
-    "title_pt": "Artemis II: respingo",
-    "title_en": "Artemis II: splashdown",
-    "sub": "Às 07h07, hora local, do dia 10 de abril, a nave espacial Orion da NASA e a sua tripulação aterrissaram em segurança no Oceano Pacífico, marcando o fim da missão Artemis II. O.",
-    "sub_pt": "Às 07h07, hora local, do dia 10 de abril, a nave espacial Orion da NASA e a sua tripulação aterrissaram em segurança no Oceano Pacífico, marcando o fim da missão Artemis II. O.",
-    "sub_en": "07 local time on 10 April, NASA’s Orion spacecraft and its crew splashed down safely in the Pacific Ocean, marking the end of the Artemis II mission. ESA’s European Service Module.",
-    "excerpt": "Às 07h07, hora local, do dia 10 de abril, a nave espacial Orion da NASA e a sua tripulação aterrissaram em segurança no Oceano Pacífico, marcando o fim da missão Artemis II. O Módulo de Serviço Europeu da ESA impulsionou esta missão histórica que levou quatro.",
-    "excerpt_pt": "Às 07h07, hora local, do dia 10 de abril, a nave espacial Orion da NASA e a sua tripulação aterrissaram em segurança no Oceano Pacífico, marcando o fim da missão Artemis II. O Módulo de Serviço Europeu da ESA impulsionou esta missão histórica que levou quatro.",
-    "excerpt_en": "07 local time on 10 April, NASA’s Orion spacecraft and its crew splashed down safely in the Pacific Ocean, marking the end of the Artemis II mission. ESA’s European Service Module powered this historic mission that took four astronauts.",
-    "body": "<p>Às 07h07, hora local, do dia 10 de abril, a nave espacial Orion da NASA e a sua tripulação aterrissaram em segurança no Oceano Pacífico, marcando o fim da missão Artemis II. O Módulo de Serviço Europeu da ESA impulsionou esta missão histórica que levou quatro astronautas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Hoje, às 17h07, hora local, do dia 10 de abril (01h07 BST/02h07 CEST de 11 de abril), a nave espacial Orion da NASA e a sua tripulação aterrissaram em segurança no Oceano. O Módulo de Serviço Europeu da ESA impulsionou esta missão histórica que levou quatro astronautas à volta da Lua e regressou pela primeira vez desde a Apollo 17 em 1972.</p><p>Construído maioritariamente pela indústria europeia sob a liderança da ESA, o Módulo de Serviço Europeu foi montado pela Airbus Defence and Space em Bremen, Alemanha, com. Os engenheiros europeus apoiaram a missão 24 horas por dia, a partir do centro técnico ESTEC da ESA, na Holanda, do Centro Espacial Johnson da NASA, em Houston, e do Centro.</p><p>“O Módulo de Serviço Europeu constituiu uma demonstração poderosa da capacidade da Europa de fornecer elementos críticos para ambiciosas missões de exploração internacionais”. Em particular, gostaria de reconhecer a Airbus Defence and Space, como contratante principal deste esforço complexo e verdadeiramente pan-europeu.&quot; Às 00: 35 CEST do dia 2 de.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_splashdown\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Às 07h07, hora local, do dia 10 de abril, a nave espacial Orion da NASA e a sua tripulação aterrissaram em segurança no Oceano Pacífico, marcando o fim da missão Artemis II. O Módulo de Serviço Europeu da ESA impulsionou esta missão histórica que levou quatro astronautas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Hoje, às 17h07, hora local, do dia 10 de abril (01h07 BST/02h07 CEST de 11 de abril), a nave espacial Orion da NASA e a sua tripulação aterrissaram em segurança no Oceano. O Módulo de Serviço Europeu da ESA impulsionou esta missão histórica que levou quatro astronautas à volta da Lua e regressou pela primeira vez desde a Apollo 17 em 1972.</p><p>Construído maioritariamente pela indústria europeia sob a liderança da ESA, o Módulo de Serviço Europeu foi montado pela Airbus Defence and Space em Bremen, Alemanha, com. Os engenheiros europeus apoiaram a missão 24 horas por dia, a partir do centro técnico ESTEC da ESA, na Holanda, do Centro Espacial Johnson da NASA, em Houston, e do Centro.</p><p>“O Módulo de Serviço Europeu constituiu uma demonstração poderosa da capacidade da Europa de fornecer elementos críticos para ambiciosas missões de exploração internacionais”. Em particular, gostaria de reconhecer a Airbus Defence and Space, como contratante principal deste esforço complexo e verdadeiramente pan-europeu.&quot; Às 00: 35 CEST do dia 2 de.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_splashdown\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>07 local time on 10 April, NASA’s Orion spacecraft and its crew splashed down safely in the Pacific Ocean, marking the end of the Artemis II mission. ESA’s European Service Module powered this historic mission that took four astronauts. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. 07 local time on 10 April (01: 07 BST/02: 07 CEST 11 April), NASA’s Orion spacecraft and its crew splashed down safely in the Pacific Ocean, marking the end of the Artemis II. ESA’s European Service Module powered this historic mission that took four astronauts around the Moon and back for the first time since Apollo 17 in 1972.</p><p>Mostly built by European industry under ESA leadership, the European Service Module was assembled by Airbus Defence and Space in Bremen, Germany, with contributions from companies. European engineers supported the mission around the clock from ESA’s technical centre ESTEC in the Netherlands, from NASA’s Johnson Space Center in Houston, and from ESA’s.</p><p>“The European Service Module put on a powerful demonstration of Europe’s capability to deliver critical elements for ambitious international exploration missions,&quot; says ESA’s. In particular, I would like to recognise Airbus Defence and Space, as prime contractor of this complex and truly pan‑European effort.&quot; At 00: 35 CEST on 2 April, NASA’s Space.</p><p>Around three hours into the mission, Orion separated from the rocket’s upper stage and the astronauts took manual control, using the European Service Module’s engines to practise. On flight day 2 of the Artemis II mission, after a day of safety checks in Earth orbit, mission control gave the go for the translunar injection.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>This 350-second burn performed by the European Service Module’s main engine set Orion and its crew on their free-return trajectory around the Moon. From the European engineers working for years on the development of the hardware, to the experts supporting the mission from the control rooms in Europe and in the United States.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_splashdown\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Às 07h07, hora local, do dia 10 de abril, a nave espacial Orion da NASA e a sua tripulação aterrissaram em segurança no Oceano Pacífico, marcando o.",
-      "Dado-chave: Hoje, às 17h07, hora local, do dia 10 de abril (01h07 BST/02h07 CEST de 11 de abril), a nave espacial Orion da NASA e a sua tripulação.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Às 07h07, hora local, do dia 10 de abril, a nave espacial Orion da NASA e a sua tripulação aterrissaram em segurança no Oceano Pacífico, marcando o.",
-      "Dado-chave: Hoje, às 17h07, hora local, do dia 10 de abril (01h07 BST/02h07 CEST de 11 de abril), a nave espacial Orion da NASA e a sua tripulação.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: 07 local time on 10 April, NASA’s Orion spacecraft and its crew splashed down safely in the Pacific Ocean, marking the end of the Artemis II mission.",
-      "Key detail: 07 local time on 10 April (01: 07 BST/02: 07 CEST 11 April), NASA’s Orion spacecraft and its crew splashed down safely in the Pacific Ocean.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "11 abr 2026",
-    "date_pt": "11 abr 2026",
-    "date_en": "11 Apr 2026",
-    "time": "00h51",
-    "time_pt": "00h51",
-    "time_en": "00:51 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-11T00:51:00+00:00",
-    "lastModifiedIso": "2026-04-11T00:51:00+00:00",
-    "source": "ESA Space News",
-    "sourceDomain": "www.esa.int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "Artemis II",
-      "respingo"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "Artemis II",
-      "respingo"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "ESA Space News",
-      "Cosmos Week",
-      "Artemis II",
-      "start"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_splashdown",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=artemis-ii-splashdown",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=artemis-ii-splashdown",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=artemis-ii-splashdown&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 80,
-      "evidence": 88,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 49
+      "novelty": 46
     }
   },
   {

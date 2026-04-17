@@ -38,14 +38,14 @@
     "date": "17 abr 2026",
     "date_pt": "17 abr 2026",
     "date_en": "17 Apr 2026",
-    "time": "20h23",
-    "time_pt": "20h23",
-    "time_en": "20:23 UTC",
+    "time": "21h24",
+    "time_pt": "21h24",
+    "time_en": "21:24 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-17T20:23:18.317277+00:00",
-    "lastModifiedIso": "2026-04-17T20:23:18.317277+00:00",
+    "publishedIso": "2026-04-17T21:24:14.288761+00:00",
+    "lastModifiedIso": "2026-04-17T21:24:14.288761+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -143,14 +143,14 @@
     "date": "17 abr 2026",
     "date_pt": "17 abr 2026",
     "date_en": "17 Apr 2026",
-    "time": "20h23",
-    "time_pt": "20h23",
-    "time_en": "20:23 UTC",
+    "time": "21h24",
+    "time_pt": "21h24",
+    "time_en": "21:24 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-17T20:23:18.317228+00:00",
-    "lastModifiedIso": "2026-04-17T20:23:18.317228+00:00",
+    "publishedIso": "2026-04-17T21:24:14.288713+00:00",
+    "lastModifiedIso": "2026-04-17T21:24:14.288713+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -248,14 +248,14 @@
     "date": "17 abr 2026",
     "date_pt": "17 abr 2026",
     "date_en": "17 Apr 2026",
-    "time": "20h23",
-    "time_pt": "20h23",
-    "time_en": "20:23 UTC",
+    "time": "21h24",
+    "time_pt": "21h24",
+    "time_en": "21:24 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-17T20:23:18.317166+00:00",
-    "lastModifiedIso": "2026-04-17T20:23:18.317166+00:00",
+    "publishedIso": "2026-04-17T21:24:14.288653+00:00",
+    "lastModifiedIso": "2026-04-17T21:24:14.288653+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -353,14 +353,14 @@
     "date": "17 abr 2026",
     "date_pt": "17 abr 2026",
     "date_en": "17 Apr 2026",
-    "time": "20h23",
-    "time_pt": "20h23",
-    "time_en": "20:23 UTC",
+    "time": "21h24",
+    "time_pt": "21h24",
+    "time_en": "21:24 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-17T20:23:18.317105+00:00",
-    "lastModifiedIso": "2026-04-17T20:23:18.317105+00:00",
+    "publishedIso": "2026-04-17T21:24:14.288595+00:00",
+    "lastModifiedIso": "2026-04-17T21:24:14.288595+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -458,14 +458,14 @@
     "date": "17 abr 2026",
     "date_pt": "17 abr 2026",
     "date_en": "17 Apr 2026",
-    "time": "20h23",
-    "time_pt": "20h23",
-    "time_en": "20:23 UTC",
+    "time": "21h24",
+    "time_pt": "21h24",
+    "time_en": "21:24 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-17T20:23:18.317044+00:00",
-    "lastModifiedIso": "2026-04-17T20:23:18.317044+00:00",
+    "publishedIso": "2026-04-17T21:24:14.288537+00:00",
+    "lastModifiedIso": "2026-04-17T21:24:14.288537+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -532,6 +532,130 @@
   },
   {
     "id": 6,
+    "slug": "how-a-black-hole-and-a-shredded-star-could-light-up-a-galaxy",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://www.universetoday.com/article_images/fig1-13-1078x516_20260417_205916.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/TDE_Longshot_Landscape_01.width-1280_20260417_205541.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/csm_Mayer_Stream-Intersection_crop_b3a0d2d3e0.width-1280_20260417_205641.png",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Como um buraco negro e uma estrela desfiada poderiam iluminar uma galáxia",
+    "title_pt": "Como um buraco negro e uma estrela desfiada poderiam iluminar uma galáxia",
+    "title_en": "How a Black Hole and a Shredded Star Could Light Up a Galaxy",
+    "sub": "Em 2014, um estranho objeto nublado chamado G2 aproximou-se de Sagitário A*, o buraco negro supermassivo no coração da Via Láctea. Os astrônomos ficaram bastante entusiasmados, em.",
+    "sub_pt": "Em 2014, um estranho objeto nublado chamado G2 aproximou-se de Sagitário A*, o buraco negro supermassivo no coração da Via Láctea. Os astrônomos ficaram bastante entusiasmados, em.",
+    "sub_en": "In 2014, a strange cloudy object called G2 made a close approach to Sagittarius A*, the supermassive black hole at the heart of the Milky Way Galaxy. Astronomers were pretty.",
+    "excerpt": "Em 2014, um estranho objeto nublado chamado G2 aproximou-se de Sagitário A*, o buraco negro supermassivo no coração da Via Láctea. Os astrônomos ficaram bastante entusiasmados, em parte porque pensaram que ele poderia ser destruído.",
+    "excerpt_pt": "Em 2014, um estranho objeto nublado chamado G2 aproximou-se de Sagitário A*, o buraco negro supermassivo no coração da Via Láctea. Os astrônomos ficaram bastante entusiasmados, em parte porque pensaram que ele poderia ser destruído.",
+    "excerpt_en": "In 2014, a strange cloudy object called G2 made a close approach to Sagittarius A*, the supermassive black hole at the heart of the Milky Way Galaxy. Astronomers were pretty excited, partly because they thought it might get torn apart by.",
+    "body": "<p>Em 2014, um estranho objeto nublado chamado G2 aproximou-se de Sagitário A*, o buraco negro supermassivo no coração da Via Láctea. Os astrônomos ficaram bastante entusiasmados, em parte porque pensaram que ele poderia ser destruído. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Em vez disso, o G2 contornou o buraco negro. Em 2014, um estranho objeto nublado chamado G2 aproximou-se de Sagitário A*, (Sag A*), o buraco negro supermassivo no coração da Via Láctea.</p><p>G2 contornou o buraco negro, sobreviveu ao sobrevôo e continuou em uma órbita encurtada. Se o G2 tivesse experimentado um encontro mais direto com Sag A*, os astrónomos poderiam ter capturado um espetáculo deslumbrante iluminando a galáxia à medida que o G2 era.</p><p>Novas pesquisas realizadas por astrônomos da Universidade de Syracuse e da Universidade de Zurique (Suíça) produziram simulações de computador que explicam como a destruição. Os detritos dessa trituração eventualmente começam a “circular pelo ralo” ao redor do buraco negro no disco de acreção.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/how-a-black-hole-and-a-shredded-star-could-light-up-a-galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Em 2014, um estranho objeto nublado chamado G2 aproximou-se de Sagitário A*, o buraco negro supermassivo no coração da Via Láctea. Os astrônomos ficaram bastante entusiasmados, em parte porque pensaram que ele poderia ser destruído. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Em vez disso, o G2 contornou o buraco negro. Em 2014, um estranho objeto nublado chamado G2 aproximou-se de Sagitário A*, (Sag A*), o buraco negro supermassivo no coração da Via Láctea.</p><p>G2 contornou o buraco negro, sobreviveu ao sobrevôo e continuou em uma órbita encurtada. Se o G2 tivesse experimentado um encontro mais direto com Sag A*, os astrónomos poderiam ter capturado um espetáculo deslumbrante iluminando a galáxia à medida que o G2 era.</p><p>Novas pesquisas realizadas por astrônomos da Universidade de Syracuse e da Universidade de Zurique (Suíça) produziram simulações de computador que explicam como a destruição. Os detritos dessa trituração eventualmente começam a “circular pelo ralo” ao redor do buraco negro no disco de acreção.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/how-a-black-hole-and-a-shredded-star-could-light-up-a-galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>In 2014, a strange cloudy object called G2 made a close approach to Sagittarius A*, the supermassive black hole at the heart of the Milky Way Galaxy. Astronomers were pretty excited, partly because they thought it might get torn apart by. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. Instead, G2 skipped around the black hole. In 2014, a strange cloudy object called G2 made a close approach to Sagittarius A*, (Sag A*) the supermassive black hole at the heart of the Milky Way Galaxy.</p><p>G2 skipped around the black hole, survived the flyby, and continued on a shortened orbit. If G2 had experienced a more direct encounter with Sag A*, astronomers might have captured a dazzling spectacle lighting up the galaxy as G2 got shredded and its material heated.</p><p>New research by astronomers at Syracuse University and the University of Zurich (Switzerland), have produced computer simulations that explain how black hole-induced stellar. The debris from that shredding eventually starts to &quot;circle the drain&quot; around the black hole in the accretion disk.</p><p>Artist’s depiction of a supermassive black hole tearing apart a star, with roughly half of the stellar debris flung back into space while the remainder forms a glowing accretion. TDEs offer one of the few ways to study supermassive black holes in more depth, including Sagittarius A*, as well as those in in other galaxies, according to Eric Coughlin.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>To simulate them, the science team had to use a special method to simulate the conditions of the star and its interaction with the black hole. It decomposes a star into &quot;particles&quot; that interact with one another hydrodynamically (i. e, according to the same fundamental equations that govern the flow of water through a.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/how-a-black-hole-and-a-shredded-star-could-light-up-a-galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Em 2014, um estranho objeto nublado chamado G2 aproximou-se de Sagitário A*, o buraco negro supermassivo no coração da Via Láctea. Os astrônomos.",
+      "Dado-chave: Em vez disso, o G2 contornou o buraco negro.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Em 2014, um estranho objeto nublado chamado G2 aproximou-se de Sagitário A*, o buraco negro supermassivo no coração da Via Láctea. Os astrônomos.",
+      "Dado-chave: Em vez disso, o G2 contornou o buraco negro.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: In 2014, a strange cloudy object called G2 made a close approach to Sagittarius A*, the supermassive black hole at the heart of the Milky Way Galaxy.",
+      "Key detail: Instead, G2 skipped around the black hole.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "17 abr 2026",
+    "date_pt": "17 abr 2026",
+    "date_en": "17 Apr 2026",
+    "time": "21h03",
+    "time_pt": "21h03",
+    "time_en": "21:03 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-17T21:03:36+00:00",
+    "lastModifiedIso": "2026-04-17T21:03:36+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "Como um buraco negro e uma estrela desfiada poderiam iluminar uma galáxia"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "Como um buraco negro e uma estrela desfiada poderiam iluminar uma galáxia"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "Universe Today",
+      "Cosmos Week",
+      "How a Black Hole and a Frayed Star Could Light Up a Galaxy"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/how-a-black-hole-and-a-shredded-star-could-light-up-a-galaxy",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=how-a-black-hole-and-a-shredded-star-could-light-up-a-galaxy",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=how-a-black-hole-and-a-shredded-star-could-light-up-a-galaxy",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=how-a-black-hole-and-a-shredded-star-could-light-up-a-galaxy&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "small-trojan-asteroids-defy-expectations",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -635,7 +759,7 @@
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -649,7 +773,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "nasa-artemis-ii-human-research-data-methodology-challenge",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -754,7 +878,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "life-beyond-biosignatures-a-new-method-in-the-search-for-life",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -875,7 +999,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "volunteers-discover-rare-space-weather-events-using-their-ears",
     "cat": "Física",
     "catCls": "fisica",
@@ -1008,7 +1132,7 @@
     }
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "nasa-opm-announce-new-nasa-force-website-open-job-applications",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1116,7 +1240,7 @@
     }
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "how-to-follow-the-smile-launch-live",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1221,7 +1345,7 @@
     }
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1357,7 +1481,7 @@
     }
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1496,7 +1620,7 @@
     }
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "a-student-led-experiment-sets-new-limits-in-the-search-for-axions",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1629,7 +1753,7 @@
     }
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "alma-confirms-rare-quasar-pair-at-redshift-5-7-in-merging-galaxies",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1765,7 +1889,7 @@
     }
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "webb-s-little-red-dots-may-reveal-how-giant-black-holes-formed-soon-after-the-big-bang",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1898,20 +2022,29 @@
     }
   },
   {
-    "id": 17,
-    "slug": "dancing-jets-from-black-hole-reveal-an-immense-power-equivalent-to-10-000-suns",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/dancing-jets-from-blac.jpg",
+    "id": 18,
+    "slug": "alien-life-may-hide-in-plain-sight-statistical-patterns-across-exoplanets-move-beyond-traditiona",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-way-to-detect-li.jpg",
     "inline_images": [
       {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/dancing-jets-from-blac.jpg",
-        "caption": "'Jatos dançantes' do buraco negro revelam seu imenso poder",
-        "caption_pt": "'Jatos dançantes' do buraco negro revelam seu imenso poder",
-        "caption_en": "'Dancing jets' from black hole reveal their immense power",
-        "alt": "'Jatos dançantes' do buraco negro revelam seu imenso poder",
-        "alt_pt": "'Jatos dançantes' do buraco negro revelam seu imenso poder",
-        "alt_en": "'Dancing jets' from black hole reveal their immense power"
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-way-to-detect-li.jpg",
+        "caption": "O conceito por trás do modelo é simples: a vida pode viajar e terraformar planetas em torno de outras estrelas. Ao fazer isso, o planeta para onde a vida viaja torna-se mais semelhante ao planeta de onde veio. Neste exemplo, a vida em um planeta.",
+        "caption_pt": "O conceito por trás do modelo é simples: a vida pode viajar e terraformar planetas em torno de outras estrelas. Ao fazer isso, o planeta para onde a vida viaja torna-se mais semelhante ao planeta de onde veio. Neste exemplo, a vida em um planeta.",
+        "caption_en": "The concept behind the model is simple: life can travel to and terraform planets around other stars. In doing so, the planet that life travels to becomes more similar to the planet it came from. In this example, life from a planet.",
+        "alt": "Uma nova maneira de detectar vida fora da Terra sem saber como é a vida",
+        "alt_pt": "Uma nova maneira de detectar vida fora da Terra sem saber como é a vida",
+        "alt_en": "A new way to detect life beyond Earth without knowing what life looks like"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-way-to-detect-li-1.jpg",
+        "caption": "Se a vida puder viajar para outros planetas e terraformá-los, espera-se que surjam padrões entre as localizações dos planetas e as suas características observáveis ​​(por exemplo, a composição atmosférica). À esquerda, planetas (coloridos.",
+        "caption_pt": "Se a vida puder viajar para outros planetas e terraformá-los, espera-se que surjam padrões entre as localizações dos planetas e as suas características observáveis ​​(por exemplo, a composição atmosférica). À esquerda, planetas (coloridos.",
+        "caption_en": "If life can travel to other planets and terraform them, it is expected that patterns will emerge between the locations of planets and their observable characteristics (for example, atmospheric composition). On the left, planets (colored.",
+        "alt": "Uma nova maneira de detectar vida fora da Terra sem saber como é a vida",
+        "alt_pt": "Uma nova maneira de detectar vida fora da Terra sem saber como é a vida",
+        "alt_en": "A new way to detect life beyond Earth without knowing what life looks like"
       },
       {
         "src": "https://scx0.b-cdn.net/pic/sadie.jpg",
@@ -1921,70 +2054,48 @@
         "alt": "",
         "alt_pt": "",
         "alt_en": ""
-      },
-      {
-        "src": "https://scx0.b-cdn.net/pic/Robert.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
       }
     ],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://scx2.b-cdn.net/gfx/video/2026/dancing-jets-from-blac.mp4",
-      "poster": "https://scx1.b-cdn.net/gfx/video_tmb/2026/dancing-jets-from-blac.mp4.jpg",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://phys.org/news/2026-04-jets-black-hole-reveal-immense.html"
-    },
+    "video": null,
     "audio": null,
-    "title": "'Jatos dançantes' do buraco negro revelam um imenso poder equivalente a 10.000 sóis",
-    "title_pt": "'Jatos dançantes' do buraco negro revelam um imenso poder equivalente a 10.000 sóis",
-    "title_en": "'Dancing jets' from black hole reveal an immense power equivalent to 10,000 suns",
-    "sub": "Uma nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos jatos de buracos negros.",
-    "sub_pt": "Uma nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos jatos de buracos negros.",
-    "sub_en": "New Curtin University-led research has used a radio telescope that spans Earth to snap images that measure the immense power of jets from black holes, confirming scientists'.",
-    "excerpt": "Uma nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos jatos de buracos negros, confirmando as teorias dos cientistas sobre como os buracos negros ajudam a moldar a.",
-    "excerpt_pt": "Uma nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos jatos de buracos negros, confirmando as teorias dos cientistas sobre como os buracos negros ajudam a moldar a.",
-    "excerpt_en": "New Curtin University-led research has used a radio telescope that spans Earth to snap images that measure the immense power of jets from black holes, confirming scientists' theories of how black holes help shape the structure of the.",
-    "body": "<p>Uma nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos jatos de buracos negros, confirmando as teorias dos cientistas sobre como os buracos negros ajudam a moldar a estrutura do. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. A nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos jatos dos buracos negros. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida O forte vento estelar da estrela supergigante. Centro Internacional de Pesquisa em Radioastronomia (ICRAR) A nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que.</p><p>Num artigo publicado na Nature Astronomy, os investigadores descobriram que a potência dos jatos em Cygnus X-1, um sistema composto pelo primeiro buraco negro confirmado e uma. Para registar a medição, os investigadores usaram um conjunto de telescópios interligados, separados por grandes distâncias, para observar os jatos do buraco negro a serem.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-jets-black-hole-reveal-immense.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Uma nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos jatos de buracos negros, confirmando as teorias dos cientistas sobre como os buracos negros ajudam a moldar a estrutura do. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. A nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos jatos dos buracos negros. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida O forte vento estelar da estrela supergigante. Centro Internacional de Pesquisa em Radioastronomia (ICRAR) A nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que.</p><p>Num artigo publicado na Nature Astronomy, os investigadores descobriram que a potência dos jatos em Cygnus X-1, um sistema composto pelo primeiro buraco negro confirmado e uma. Para registar a medição, os investigadores usaram um conjunto de telescópios interligados, separados por grandes distâncias, para observar os jatos do buraco negro a serem.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-jets-black-hole-reveal-immense.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>New Curtin University-led research has used a radio telescope that spans Earth to snap images that measure the immense power of jets from black holes, confirming scientists&#x27; theories of how black holes help shape the structure of the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source The strong stellar wind from the supergiant star pushes the.</p><p>International Center for Radio Astronomy Research (ICRAR) New Curtin University-led research has used a radio telescope that spans Earth to snap images that measure the immense. In a paper published in Nature Astronomy, researchers found the power of the jets in Cygnus X-1, a system comprised of the first confirmed black hole and a supergiant star, was.</p><p>To record the measurement, researchers used an array of linked-up telescopes separated by large distances to observe the black hole jets being buffeted by the winds of the star as. By knowing the power of the wind and measuring how much the jets were bent, the researchers could determine the instantaneous power of the jets for the first time.</p><p>In addition, they were able to determine the speed of the black hole&#x27;s jets —about half the speed of light, or 150,000 km per second, another measurement that has challenged. A key finding from this research is that about 10% of the energy released as matter falls in towards the black hole is carried away by the jets,&quot; Dr.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>And because our theories suggest that the physics around black holes is very similar, we can now use this measurement to anchor our understanding of jets, whether they are from. With radio telescope projects such as the Square Kilometer Array Observatory currently under construction in Western Australia and South Africa, we expect to detect jets from.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-jets-black-hole-reveal-immense.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "A vida alienígena pode se esconder à vista de todos: os padrões estatísticos nos exoplanetas vão além das bioassinaturas tradicionais",
+    "title_pt": "A vida alienígena pode se esconder à vista de todos: os padrões estatísticos nos exoplanetas vão além das bioassinaturas tradicionais",
+    "title_en": "Alien life may hide in plain sight: Statistical patterns across exoplanets move beyond traditional biosignatures",
+    "sub": "Uma equipa de investigação desenvolveu uma nova abordagem para detectar vida fora da Terra que não depende da identificação de marcadores biológicos específicos. Em vez disso, o.",
+    "sub_pt": "Uma equipa de investigação desenvolveu uma nova abordagem para detectar vida fora da Terra que não depende da identificação de marcadores biológicos específicos. Em vez disso, o.",
+    "sub_en": "A research team has developed a new approach to detecting life beyond Earth that does not rely on identifying specific biological markers. Instead, the study suggests that life.",
+    "excerpt": "Uma equipa de investigação desenvolveu uma nova abordagem para detectar vida fora da Terra que não depende da identificação de marcadores biológicos específicos. Em vez disso, o estudo sugere que a vida pode ser detectável através de padrões emergentes em.",
+    "excerpt_pt": "Uma equipa de investigação desenvolveu uma nova abordagem para detectar vida fora da Terra que não depende da identificação de marcadores biológicos específicos. Em vez disso, o estudo sugere que a vida pode ser detectável através de padrões emergentes em.",
+    "excerpt_en": "A research team has developed a new approach to detecting life beyond Earth that does not rely on identifying specific biological markers. Instead, the study suggests that life may be detectable through patterns emerging across groups of.",
+    "body": "<p>Uma equipa de investigação desenvolveu uma nova abordagem para detectar vida fora da Terra que não depende da identificação de marcadores biológicos específicos. Em vez disso, o estudo sugere que a vida pode ser detectável através de padrões emergentes em grupos de pessoas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Uma equipa de investigação desenvolveu uma nova abordagem para detectar vida fora da Terra que não depende da identificação de marcadores biológicos específicos. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Neste exemplo, a vida de um planeta semelhante à Terra viaja para um planeta vermelho. Cada vez, depois de ser terraformado, um planeta se torna mais &quot;semelhante à Terra&quot; do que seria esperado do acaso, dadas as localizações dos planetas.</p><p>No entanto, o foco não está na identificação de planetas semelhantes à Terra. Smith Uma equipe de pesquisa desenvolveu uma nova abordagem para detectar vida fora da Terra que não depende da identificação de marcadores biológicos específicos.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-alien-life-plain-sight-statistical.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma equipa de investigação desenvolveu uma nova abordagem para detectar vida fora da Terra que não depende da identificação de marcadores biológicos específicos. Em vez disso, o estudo sugere que a vida pode ser detectável através de padrões emergentes em grupos de pessoas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Uma equipa de investigação desenvolveu uma nova abordagem para detectar vida fora da Terra que não depende da identificação de marcadores biológicos específicos. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Neste exemplo, a vida de um planeta semelhante à Terra viaja para um planeta vermelho. Cada vez, depois de ser terraformado, um planeta se torna mais &quot;semelhante à Terra&quot; do que seria esperado do acaso, dadas as localizações dos planetas.</p><p>No entanto, o foco não está na identificação de planetas semelhantes à Terra. Smith Uma equipe de pesquisa desenvolveu uma nova abordagem para detectar vida fora da Terra que não depende da identificação de marcadores biológicos específicos.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-alien-life-plain-sight-statistical.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A research team has developed a new approach to detecting life beyond Earth that does not rely on identifying specific biological markers. Instead, the study suggests that life may be detectable through patterns emerging across groups of. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. A research team has developed a new approach to detecting life beyond Earth that does not rely on identifying specific biological markers. This article has been reviewed according to Science X&#x27;s editorial process and policies.</p><p>In this example, life from a planet resembling Earth travels to a red planet. Each time, after being terraformed, a planet becomes more &quot;Earth-like&quot; than would be expected from random chance, given the locations of the planets.</p><p>However, the focus is not on identifying Earth-like planets. Smith A research team has developed a new approach to detecting life beyond Earth that does not rely on identifying specific biological markers.</p><p>Instead, the study suggests that life may be detectable through patterns emerging across groups of planets, offering a new framework for astrobiology in situations where. Although technosignatures might offer more reliable signals, they rely heavily on strong assumptions about the nature and behavior of extraterrestrial intelligence.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>To overcome these limitations, the researchers considered a fundamentally different idea: instead of searching for life on individual planets, what if life could be detected. Smith of the Earth-Life Science Institute (ELSI) at the Institute of Science Tokyo and Specially Appointed Associate Professor Lana Sinapayen of the National Institute for Basic.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-alien-life-plain-sight-statistical.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Uma nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos.",
-      "Dado-chave: A nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos.",
+      "Ponto central: Uma equipa de investigação desenvolveu uma nova abordagem para detectar vida fora da Terra que não depende da identificação de marcadores biológicos.",
+      "Dado-chave: Uma equipa de investigação desenvolveu uma nova abordagem para detectar vida fora da Terra que não depende da identificação de marcadores.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Uma nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos.",
-      "Dado-chave: A nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos.",
+      "Ponto central: Uma equipa de investigação desenvolveu uma nova abordagem para detectar vida fora da Terra que não depende da identificação de marcadores biológicos.",
+      "Dado-chave: Uma equipa de investigação desenvolveu uma nova abordagem para detectar vida fora da Terra que não depende da identificação de marcadores.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: New Curtin University-led research has used a radio telescope that spans Earth to snap images that measure the immense power of jets from black.",
-      "Key detail: New Curtin University-led research has used a radio telescope that spans Earth to snap images that measure the immense power of jets from black.",
+      "Core point: A research team has developed a new approach to detecting life beyond Earth that does not rely on identifying specific biological markers. Instead.",
+      "Key detail: A research team has developed a new approach to detecting life beyond Earth that does not rely on identifying specific biological markers.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "16 abr 2026",
-    "date_pt": "16 abr 2026",
-    "date_en": "16 Apr 2026",
-    "time": "09h00",
-    "time_pt": "09h00",
-    "time_en": "09:00 UTC",
+    "date": "15 abr 2026",
+    "date_pt": "15 abr 2026",
+    "date_en": "15 Apr 2026",
+    "time": "20h20",
+    "time_pt": "20h20",
+    "time_en": "20:20 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-16T09:00:03+00:00",
-    "lastModifiedIso": "2026-04-16T09:00:03+00:00",
+    "publishedIso": "2026-04-15T20:20:04+00:00",
+    "lastModifiedIso": "2026-04-15T20:20:04+00:00",
     "source": "Phys.org Space",
     "sourceDomain": "phys.org",
     "sourceType": "agency",
@@ -2003,27 +2114,30 @@
     "editorialBandLabel_pt": "Prioridade editorial",
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
-      "Astrofísica",
+      "Exoplanetas",
       "Phys.org Space",
       "Cosmos Week",
-      "'Jatos dançantes' do buraco negro revelam um imenso poder equivalente a 10.000 sóis"
+      "A vida alienígena pode se esconder à vista de todos",
+      "os padrões estatísticos nos exoplanetas vão além das bioassinaturas tradicionais"
     ],
     "keywords_pt": [
-      "Astrofísica",
+      "Exoplanetas",
       "Phys.org Space",
       "Cosmos Week",
-      "'Jatos dançantes' do buraco negro revelam um imenso poder equivalente a 10.000 sóis"
+      "A vida alienígena pode se esconder à vista de todos",
+      "os padrões estatísticos nos exoplanetas vão além das bioassinaturas tradicionais"
     ],
     "keywords_en": [
-      "Astrophysics",
+      "Exoplanets",
       "Phys.org Space",
       "Cosmos Week",
-      "Black hole's 'dancing jets' reveal immense power equivalent to 10,000 suns"
+      "Alien Life Could Hide in Plain Sight",
+      "statistical patterns on exoplanets go beyond traditional biosignatures"
     ],
-    "srcUrl": "https://phys.org/news/2026-04-jets-black-hole-reveal-immense.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=dancing-jets-from-black-hole-reveal-an-immense-power-equivalent-to-10-000-suns",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=dancing-jets-from-black-hole-reveal-an-immense-power-equivalent-to-10-000-suns",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=dancing-jets-from-black-hole-reveal-an-immense-power-equivalent-to-10-000-suns&lang=en",
+    "srcUrl": "https://phys.org/news/2026-04-alien-life-plain-sight-statistical.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=alien-life-may-hide-in-plain-sight-statistical-patterns-across-exoplanets-move-beyond-traditiona",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=alien-life-may-hide-in-plain-sight-statistical-patterns-across-exoplanets-move-beyond-traditiona",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=alien-life-may-hide-in-plain-sight-statistical-patterns-across-exoplanets-move-beyond-traditiona&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -2034,17 +2148,17 @@
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 75,
+    "score": 77,
     "scoreBreakdown": {
       "source": 76,
-      "evidence": 82,
+      "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 52
+      "novelty": 49
     }
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "the-identification-of-cs2-and-evidence-for-carbon-sulfur-chemical-coupling-in-a-warm-giant-exopl",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2149,114 +2263,6 @@
       "relevance": 94,
       "accessibility": 60,
       "novelty": 49
-    }
-  },
-  {
-    "id": 19,
-    "slug": "cloudy-with-a-chance-of-metals-indications-of-co-2-in-the-atmosphere-of-gj-1214-b-from-high-reso",
-    "cat": "Exoplanetas",
-    "catCls": "exoplanetas",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Earth%27s_magnetic_field_and_magnetosphere.jpg/1280px-Earth%27s_magnetic_field_and_magnetosphere.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Nublado com possibilidade de metais: Indicações de CO$_2$ na atmosfera de GJ 1214 b a partir de espectroscopia de banda K de alta resolução",
-    "title_pt": "Nublado com possibilidade de metais: Indicações de CO$_2$ na atmosfera de GJ 1214 b a partir de espectroscopia de banda K de alta resolução",
-    "title_en": "Cloudy with a chance of metals: Indications of CO$_2$ in the atmosphere of GJ 1214 b from high-resolution K-band spectroscopy",
-    "sub": "Os exoplanetas sub-Netuno exibem frequentemente espectros de transmissão silenciados, sendo GJ 1214 b o exemplo mais proeminente. Após anos de intensas campanhas de observação.",
-    "sub_pt": "Os exoplanetas sub-Netuno exibem frequentemente espectros de transmissão silenciados, sendo GJ 1214 b o exemplo mais proeminente. Após anos de intensas campanhas de observação.",
-    "sub_en": "Sub-Neptune exoplanets frequently exhibit muted transmission spectra, with GJ 1214 b being the most prominent example. Following years of intense observing campaigns yielding.",
-    "excerpt": "Os exoplanetas sub-Netuno exibem frequentemente espectros de transmissão silenciados, sendo GJ 1214 b o exemplo mais proeminente. Após anos de intensas campanhas de observação produzindo espectros planetários inexpressivos, observações recentes com o JWST.",
-    "excerpt_pt": "Os exoplanetas sub-Netuno exibem frequentemente espectros de transmissão silenciados, sendo GJ 1214 b o exemplo mais proeminente. Após anos de intensas campanhas de observação produzindo espectros planetários inexpressivos, observações recentes com o JWST.",
-    "excerpt_en": "Sub-Neptune exoplanets frequently exhibit muted transmission spectra, with GJ 1214 b being the most prominent example. Following years of intense observing campaigns yielding featureless planetary spectra, recent observations with JWST.",
-    "body": "<p>Os exoplanetas sub-Netuno exibem frequentemente espectros de transmissão silenciados, sendo GJ 1214 b o exemplo mais proeminente. Após anos de intensas campanhas de observação produzindo espectros planetários inexpressivos, observações recentes com o JWST. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os exoplanetas sub-Netuno exibem frequentemente espectros de transmissão silenciados, sendo GJ 1214 b o exemplo mais proeminente. Após anos de intensas campanhas de observação produzindo espectros planetários inexpressivos, observações recentes com o JWST revelaram as primeiras assinaturas atmosféricas.</p><p>Apresentamos espectroscopia de transmissão de alta resolução de GJ 1214 b baseada em oito trânsitos obtidos com o espectrógrafo CRIRES$^+$ na banda K. Usamos o SYSREM para remover sinais telúricos e estelares e procuramos assinaturas de H2O, CO, CH4, H2S, NH3 e CO2 usando a técnica de correlação cruzada.</p><p>Obtivemos não-detecções para as primeiras cinco moléculas e usamos testes de recuperação de injeção para derivar os limites superiores da atmosfera. Para CO$_2$ medimos um sinal CCF em S/N ~ 3,6, com uma investigação detalhada não mostrando nenhuma indicação óbvia de que seja causado por ruído correlacionado.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2604.15292v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os exoplanetas sub-Netuno exibem frequentemente espectros de transmissão silenciados, sendo GJ 1214 b o exemplo mais proeminente. Após anos de intensas campanhas de observação produzindo espectros planetários inexpressivos, observações recentes com o JWST. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os exoplanetas sub-Netuno exibem frequentemente espectros de transmissão silenciados, sendo GJ 1214 b o exemplo mais proeminente. Após anos de intensas campanhas de observação produzindo espectros planetários inexpressivos, observações recentes com o JWST revelaram as primeiras assinaturas atmosféricas.</p><p>Apresentamos espectroscopia de transmissão de alta resolução de GJ 1214 b baseada em oito trânsitos obtidos com o espectrógrafo CRIRES$^+$ na banda K. Usamos o SYSREM para remover sinais telúricos e estelares e procuramos assinaturas de H2O, CO, CH4, H2S, NH3 e CO2 usando a técnica de correlação cruzada.</p><p>Obtivemos não-detecções para as primeiras cinco moléculas e usamos testes de recuperação de injeção para derivar os limites superiores da atmosfera. Para CO$_2$ medimos um sinal CCF em S/N ~ 3,6, com uma investigação detalhada não mostrando nenhuma indicação óbvia de que seja causado por ruído correlacionado.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2604.15292v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Sub-Neptune exoplanets frequently exhibit muted transmission spectra, with GJ 1214 b being the most prominent example. Following years of intense observing campaigns yielding featureless planetary spectra, recent observations with JWST. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. Sub-Neptune exoplanets frequently exhibit muted transmission spectra, with GJ 1214 b being the most prominent example. Following years of intense observing campaigns yielding featureless planetary spectra, recent observations with JWST revealed the first possible atmospheric signatures.</p><p>We present high-resolution transmission spectroscopy of GJ 1214 b based on eight transits obtained with the CRIRES$^+$ spectrograph in the K band. We used SYSREM to remove telluric and stellar signals and searched for signatures of H2O, CO, CH4, H2S, NH3, and CO2 using the cross-correlation technique.</p><p>We obtained non-detections for the first five molecules and used injection recovery tests to derive upper limits on the atmosphere. For CO$_2$ we measure a CCF signal at S/N ~ 3.6, with a detailed investigation showing no obvious indication that it is caused by correlated noise.</p><p>A Welch t-test confirmed the in-trail and out-of-trail distributions to be different at $3.4 σ$ confidence. While these values correspond to relatively large signal amplitudes predicted for CO2 features in the mid-infrared, they are compatible with JWST NIRSpec observations within the.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>Further modelling and additional data are required to confirm the atmospheric signatures and obtain a comprehensive interpretation of low- and high-resolution data. Overall, our results support previous findings that CO2 is likely to be a significant component of the atmosphere of GJ 1214 b.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2604.15292v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os exoplanetas sub-Netuno exibem frequentemente espectros de transmissão silenciados, sendo GJ 1214 b o exemplo mais proeminente. Após anos de.",
-      "Dado-chave: Os exoplanetas sub-Netuno exibem frequentemente espectros de transmissão silenciados, sendo GJ 1214 b o exemplo mais proeminente.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os exoplanetas sub-Netuno exibem frequentemente espectros de transmissão silenciados, sendo GJ 1214 b o exemplo mais proeminente. Após anos de.",
-      "Dado-chave: Os exoplanetas sub-Netuno exibem frequentemente espectros de transmissão silenciados, sendo GJ 1214 b o exemplo mais proeminente.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_en": [
-      "Core point: Sub-Neptune exoplanets frequently exhibit muted transmission spectra, with GJ 1214 b being the most prominent example. Following years of intense.",
-      "Key detail: Sub-Neptune exoplanets frequently exhibit muted transmission spectra, with GJ 1214 b being the most prominent example.",
-      "Result not yet peer reviewed."
-    ],
-    "date": "16 abr 2026",
-    "date_pt": "16 abr 2026",
-    "date_en": "16 Apr 2026",
-    "time": "17h54",
-    "time_pt": "17h54",
-    "time_en": "17:54 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-16T17:54:55+00:00",
-    "lastModifiedIso": "2026-04-16T17:54:55+00:00",
-    "source": "arXiv Astrophysics",
-    "sourceDomain": "arxiv.org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint ainda sem revisão por pares.",
-    "sourceNote_pt": "Preprint ainda sem revisão por pares.",
-    "sourceNote_en": "Preprint not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "watch",
-    "editorialBandLabel": "Leitura monitorada",
-    "editorialBandLabel_pt": "Leitura monitorada",
-    "editorialBandLabel_en": "Watchlist",
-    "keywords": [
-      "Exoplanetas",
-      "arXiv Astrophysics",
-      "Cosmos Week",
-      "Nublado com possibilidade de metais",
-      "Indicações de CO$_2$ na atmosfera de GJ 1214 b a partir de espectroscopia de banda K de alta resolução"
-    ],
-    "keywords_pt": [
-      "Exoplanetas",
-      "arXiv Astrophysics",
-      "Cosmos Week",
-      "Nublado com possibilidade de metais",
-      "Indicações de CO$_2$ na atmosfera de GJ 1214 b a partir de espectroscopia de banda K de alta resolução"
-    ],
-    "keywords_en": [
-      "Exoplanets",
-      "arXiv Astrophysics",
-      "Cosmos Week",
-      "Cloudy with a chance of metals",
-      "Indications of CO$_2$ in the atmosphere of GJ 1214 b from high-resolution K-band spectroscopy"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2604.15292v1",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=cloudy-with-a-chance-of-metals-indications-of-co-2-in-the-atmosphere-of-gj-1214-b-from-high-reso",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=cloudy-with-a-chance-of-metals-indications-of-co-2-in-the-atmosphere-of-gj-1214-b-from-high-reso",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=cloudy-with-a-chance-of-metals-indications-of-co-2-in-the-atmosphere-of-gj-1214-b-from-high-reso&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 66,
-    "scoreBreakdown": {
-      "source": 56,
-      "evidence": 64,
-      "relevance": 94,
-      "accessibility": 50,
-      "novelty": 52
     }
   },
   {
@@ -2506,117 +2512,6 @@
   },
   {
     "id": 22,
-    "slug": "what-happens-when-light-goes-boom-part-2-the-crowd-the-molasses-and-the-speed-of-light-sort-of",
-    "cat": "Química",
-    "catCls": "quimica",
-    "img": "https://www.universetoday.com/article_images/james_clerk_maxwell_20260412_004510.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "O que acontece quando a luz explode? Parte 2: A multidão, o melaço e a velocidade da luz (mais ou menos)",
-    "title_pt": "O que acontece quando a luz explode? Parte 2: A multidão, o melaço e a velocidade da luz (mais ou menos)",
-    "title_en": "What Happens When Light Goes Boom? Part 2: The Crowd, the Molasses, and the Speed of Light (Sort Of)",
-    "sub": "Antes que Brad Bradington possa correr pelo tapete vermelho, precisamos entender a multidão. Especificamente, precisamos entender por que uma multidão de átomos e moléculas.",
-    "sub_pt": "Antes que Brad Bradington possa correr pelo tapete vermelho, precisamos entender a multidão. Especificamente, precisamos entender por que uma multidão de átomos e moléculas.",
-    "sub_en": "Before Brad Bradington can sprint down the red carpet, we need to understand the crowd. Specifically, we need to understand why a crowd of atoms and molecules slows down light.",
-    "excerpt": "Antes que Brad Bradington possa correr pelo tapete vermelho, precisamos entender a multidão. Especificamente, precisamos entender por que uma multidão de átomos e moléculas retarda a luz e por que isso cria uma lacuna que muda tudo.",
-    "excerpt_pt": "Antes que Brad Bradington possa correr pelo tapete vermelho, precisamos entender a multidão. Especificamente, precisamos entender por que uma multidão de átomos e moléculas retarda a luz e por que isso cria uma lacuna que muda tudo.",
-    "excerpt_en": "Before Brad Bradington can sprint down the red carpet, we need to understand the crowd. Specifically, we need to understand why a crowd of atoms and molecules slows down light, and why that creates a loophole that changes everything.",
-    "body": "<p>Antes que Brad Bradington possa correr pelo tapete vermelho, precisamos entender a multidão. Especificamente, precisamos entender por que uma multidão de átomos e moléculas retarda a luz e por que isso cria uma lacuna que muda tudo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. (Esta é a Parte 2 de uma série sobre a radiação de Cherenkov, o “boom de luz”. Leia a Parte 1 primeiro.) Antes de chegarmos a Brad Bradington correndo pelo tapete vermelho. Em 1865, James Clerk Maxwell publicou quatro equações que unificaram eletricidade, magnetismo e luz em uma única estrutura.</p><p>É uma das maiores conquistas da física do século XIX, o tipo de resultado que faz você sentir como se o universo estivesse tentando nos dizer algo, e Maxwell era apenas a pessoa. Ele sai de duas constantes, propriedades do próprio espaço vazio, e fornece exatamente 299.792.458 metros por segundo.</p><p>Os físicos capturam isso com um único número chamado índice de refração, a razão entre a velocidade da luz no vácuo e a velocidade real no meio. No ar, o índice é de cerca de 1,0003, tão próximo do vácuo que você nunca notaria a diferença.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/what-happens-when-light-goes-boom-part-2-the-crowd-the-molasses-and-the-speed-of-light-sort-of\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Antes que Brad Bradington possa correr pelo tapete vermelho, precisamos entender a multidão. Especificamente, precisamos entender por que uma multidão de átomos e moléculas retarda a luz e por que isso cria uma lacuna que muda tudo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. (Esta é a Parte 2 de uma série sobre a radiação de Cherenkov, o “boom de luz”. Leia a Parte 1 primeiro.) Antes de chegarmos a Brad Bradington correndo pelo tapete vermelho. Em 1865, James Clerk Maxwell publicou quatro equações que unificaram eletricidade, magnetismo e luz em uma única estrutura.</p><p>É uma das maiores conquistas da física do século XIX, o tipo de resultado que faz você sentir como se o universo estivesse tentando nos dizer algo, e Maxwell era apenas a pessoa. Ele sai de duas constantes, propriedades do próprio espaço vazio, e fornece exatamente 299.792.458 metros por segundo.</p><p>Os físicos capturam isso com um único número chamado índice de refração, a razão entre a velocidade da luz no vácuo e a velocidade real no meio. No ar, o índice é de cerca de 1,0003, tão próximo do vácuo que você nunca notaria a diferença.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/what-happens-when-light-goes-boom-part-2-the-crowd-the-molasses-and-the-speed-of-light-sort-of\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Before Brad Bradington can sprint down the red carpet, we need to understand the crowd. Specifically, we need to understand why a crowd of atoms and molecules slows down light, and why that creates a loophole that changes everything. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because chemistry gains force when a claimed structure or process can be described with enough precision to be reproduced by others. Synthetic routes, spectroscopic signatures, yield under defined conditions and stability under realistic operating parameters are the currency of credibility in chemistry, and a result that lacks these details cannot be evaluated independently. The distance between a discovery on a laboratory bench and a process that works reliably at scale is measured in years of optimization, and each step reveals constraints that were invisible at smaller scale. (This is Part 2 of a series on Cherenkov radiation, the &quot;light boom.&quot; Read Part 1 first.) Before we get to Brad Bradington sprinting down the red carpet, we need to talk about the. In 1865, James Clerk Maxwell published four equations that unified electricity, magnetism, and light into a single framework.</p><p>It&#x27;s one of the towering achievements of 19th century physics, the kind of result that makes you feel like the universe was trying to tell us something, and Maxwell was just the. It falls out of two constants, properties of empty space itself, and gives you exactly 299,792,458 meters per second.</p><p>Physicists capture this with a single number called the index of refraction, the ratio of the vacuum speed of light to the actual speed in the medium. In air, the index is about 1.0003, so close to vacuum you&#x27;d never notice the difference.</p><p>In water it&#x27;s 1.33, meaning light moves at about 75% of its maximum speed. In diamond it&#x27;s 2.4, meaning light is cut to less than half its vacuum speed passing through the stone.</p><p>The broader interest lies in whether the claimed property or reaction pathway can be characterized with enough precision to support replication by other groups. Chemistry has a replication problem that is less discussed than the one in psychology or medicine, but it is real: synthetic procedures that work reliably in one laboratory sometimes fail to transfer, for reasons ranging from impure starting materials to undocumented temperature sensitivities. A result that comes with full experimental detail and a clear characterization of the product is far more valuable than one that reports a discovery without the procedural backbone.</p><p>You can imagine the light waves interacting with the electrons in each atom or molecule, which then generate their own little electromagnetic waves, which then interfere with the. Einstein&#x27;s special relativity closes that door completely, with no exceptions and no loopholes.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent groups working with orthogonal techniques reach compatible conclusions, and whether the result scales beyond the conditions used in the original study. Chemical discoveries that matter tend to be ones whose key properties can be measured by multiple spectroscopic, crystallographic or computational methods that are unlikely to share the same blind spots. Scalability, cost and long-term stability under realistic operating conditions are additional filters that come into play before any practical application becomes viable.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/what-happens-when-light-goes-boom-part-2-the-crowd-the-molasses-and-the-speed-of-light-sort-of\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Antes que Brad Bradington possa correr pelo tapete vermelho, precisamos entender a multidão. Especificamente, precisamos entender por que uma.",
-      "Dado-chave: (Esta é a Parte 2 de uma série sobre a radiação de Cherenkov, o “boom de luz”. Leia a Parte 1 primeiro.) Antes de chegarmos a Brad Bradington.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Antes que Brad Bradington possa correr pelo tapete vermelho, precisamos entender a multidão. Especificamente, precisamos entender por que uma.",
-      "Dado-chave: (Esta é a Parte 2 de uma série sobre a radiação de Cherenkov, o “boom de luz”. Leia a Parte 1 primeiro.) Antes de chegarmos a Brad Bradington.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Before Brad Bradington can sprint down the red carpet, we need to understand the crowd. Specifically, we need to understand why a crowd of atoms and.",
-      "Key detail: (This is Part 2 of a series on Cherenkov radiation, the \"light boom.\" Read Part 1 first.) Before we get to Brad Bradington sprinting down the.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 abr 2026",
-    "date_pt": "17 abr 2026",
-    "date_en": "17 Apr 2026",
-    "time": "02h06",
-    "time_pt": "02h06",
-    "time_en": "02:06 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-17T02:06:00+00:00",
-    "lastModifiedIso": "2026-04-17T02:06:00+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Química",
-      "Universe Today",
-      "Cosmos Week",
-      "O que acontece quando a luz explode? Parte 2",
-      "A multidão",
-      "o melaço e a velocidade da luz (mais ou menos)"
-    ],
-    "keywords_pt": [
-      "Química",
-      "Universe Today",
-      "Cosmos Week",
-      "O que acontece quando a luz explode? Parte 2",
-      "A multidão",
-      "o melaço e a velocidade da luz (mais ou menos)"
-    ],
-    "keywords_en": [
-      "Chemical",
-      "Universe Today",
-      "Cosmos Week",
-      "What happens when the light explodes? Part 2",
-      "The crowd",
-      "molasses and the speed of light (more or less)"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/what-happens-when-light-goes-boom-part-2-the-crowd-the-molasses-and-the-speed-of-light-sort-of",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=what-happens-when-light-goes-boom-part-2-the-crowd-the-molasses-and-the-speed-of-light-sort-of",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=what-happens-when-light-goes-boom-part-2-the-crowd-the-molasses-and-the-speed-of-light-sort-of",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=what-happens-when-light-goes-boom-part-2-the-crowd-the-molasses-and-the-speed-of-light-sort-of&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 68,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 64,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 23,
     "slug": "quality-assessment-report-evaluates-tomorrow-io-precipitation-radar-data",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2721,7 +2616,7 @@
     }
   },
   {
-    "id": 24,
+    "id": 23,
     "slug": "first-proba-3-science-surprisingly-speedy-solar-wind",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2829,7 +2724,7 @@
     }
   },
   {
-    "id": 25,
+    "id": 24,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2965,7 +2860,7 @@
     }
   },
   {
-    "id": 26,
+    "id": 25,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3092,7 +2987,7 @@
     }
   },
   {
-    "id": 27,
+    "id": 26,
     "slug": "science-release-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3228,7 +3123,7 @@
     }
   },
   {
-    "id": 28,
+    "id": 27,
     "slug": "webb-hubble-capture-new-views-of-saturn",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3333,7 +3228,7 @@
     }
   },
   {
-    "id": 29,
+    "id": 28,
     "slug": "esa-observations-of-interstellar-comet-3i-atlas",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3438,7 +3333,7 @@
     }
   },
   {
-    "id": 30,
+    "id": 29,
     "slug": "nasa-invites-media-to-latvia-artemis-accords-signing-ceremony",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3543,7 +3438,7 @@
     }
   },
   {
-    "id": 31,
+    "id": 30,
     "slug": "eyeing-the-richat-structure",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3676,7 +3571,7 @@
     }
   },
   {
-    "id": 32,
+    "id": 31,
     "slug": "desi-s-3d-map-of-the-universe-is-complete",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -3791,7 +3686,7 @@
     }
   },
   {
-    "id": 33,
+    "id": 32,
     "slug": "nsf-doe-vera-c-rubin-observatory-launches-real-time-discovery-machine-for-monitoring-the-night-s",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3940,7 +3835,7 @@
     }
   },
   {
-    "id": 34,
+    "id": 33,
     "slug": "this-week-s-sky-at-a-glance-april-17-26",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4076,7 +3971,7 @@
     }
   },
   {
-    "id": 35,
+    "id": 34,
     "slug": "what-were-the-flashes-that-artemis-2-astronauts-saw",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4209,7 +4104,7 @@
     }
   },
   {
-    "id": 36,
+    "id": 35,
     "slug": "see-the-moon-hide-regulus-the-stellar-heart-of-the-lion",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4345,7 +4240,7 @@
     }
   },
   {
-    "id": 37,
+    "id": 36,
     "slug": "ash-creeps-across-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4478,7 +4373,7 @@
     }
   },
   {
-    "id": 38,
+    "id": 37,
     "slug": "planets-collide-around-young-sun-like-star",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4602,7 +4497,7 @@
     }
   },
   {
-    "id": 39,
+    "id": 38,
     "slug": "sky-telescope-reports-new-telescopes-and-more-at-neaf",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4647,9 +4542,9 @@
     "excerpt": "Os editores da Sky & Telescope fizeram sua peregrinação anual ao Fórum de Astronomia do Nordeste para conferir novos equipamentos astronômicos e se encontrar com colaboradores e leitores. O post Sky & Telescope Reports: New Telescopes and More at NEAF.",
     "excerpt_pt": "Os editores da Sky & Telescope fizeram sua peregrinação anual ao Fórum de Astronomia do Nordeste para conferir novos equipamentos astronômicos e se encontrar com colaboradores e leitores. O post Sky & Telescope Reports: New Telescopes and More at NEAF.",
     "excerpt_en": "Sky & Telescope editors made their annual pilgrimage to the Northeast Astronomy Forum to check out new astro-gear and meet up with contributors and readers alike. The post Sky & Telescope Reports: New Telescopes and More at NEAF appeared.",
-    "body": "<p>Os editores da Sky &amp; Telescope fizeram sua peregrinação anual ao Fórum de Astronomia do Nordeste para conferir novos equipamentos astronômicos e se encontrar com colaboradores e leitores. O post Sky &amp; Telescope Reports: New Telescopes and More at NEAF apareceu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestiais e as últimas notícias de astronomia Por: Os Editores da Sky &amp; Telescope 13. (Você pode cancelar a assinatura a qualquer momento) Os editores da Sky &amp; Telescope fizeram sua peregrinação anual ao Fórum de Astronomia do Nordeste para conferir novos.</p><p>Mas o que realmente chamou minha atenção foi o refletor de mesa StarSense Explorer 114 mm, que trouxe de volta boas lembranças de uma certa mira telescópica de mesa do passado. A Celestron motivou os clientes com seu programa Lumina: para cada Dobsoniano de mesa de 130 mm vendido, a empresa doa um para uma escola primária.</p><p>A Explore Scientific revelou duas novas séries de oculares, a à prova d&#x27;água 92ED e 72ED, bem como vários novos Dobsonianos. Eles também exibiram uma nova montagem alt-az: o Sidara com um telescópio Maksutov-Cassegrain 127.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/sky-telescope-reports-new-telescopes-and-more-at-neaf/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os editores da Sky &amp; Telescope fizeram sua peregrinação anual ao Fórum de Astronomia do Nordeste para conferir novos equipamentos astronômicos e se encontrar com colaboradores e leitores. O post Sky &amp; Telescope Reports: New Telescopes and More at NEAF apareceu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestiais e as últimas notícias de astronomia Por: Os Editores da Sky &amp; Telescope 13. (Você pode cancelar a assinatura a qualquer momento) Os editores da Sky &amp; Telescope fizeram sua peregrinação anual ao Fórum de Astronomia do Nordeste para conferir novos.</p><p>Mas o que realmente chamou minha atenção foi o refletor de mesa StarSense Explorer 114 mm, que trouxe de volta boas lembranças de uma certa mira telescópica de mesa do passado. A Celestron motivou os clientes com seu programa Lumina: para cada Dobsoniano de mesa de 130 mm vendido, a empresa doa um para uma escola primária.</p><p>A Explore Scientific revelou duas novas séries de oculares, a à prova d&#x27;água 92ED e 72ED, bem como vários novos Dobsonianos. Eles também exibiram uma nova montagem alt-az: o Sidara com um telescópio Maksutov-Cassegrain 127.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/sky-telescope-reports-new-telescopes-and-more-at-neaf/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Sky &amp; Telescope editors made their annual pilgrimage to the Northeast Astronomy Forum to check out new astro-gear and meet up with contributors and readers alike. The post Sky &amp; Telescope Reports: New Telescopes and More at NEAF appeared. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Explore the universe with Sky &amp; Telescope, your ultimate source for stargazing, celestial events, and the latest astronomy news By: The Editors of Sky &amp; Telescope April 13, 2026 0. (You can unsubscribe anytime) Sky &amp; Telescope editors made their annual pilgrimage to the Northeast Astronomy Forum to check out new astro-gear and meet up with contributors and.</p><p>But what really caught my eye was the tabletop StarSense Explorer 114-mm reflector, which brought back fond memories of a certain beloved tabletop scope from in the past. Celestron motivated customers with their Lumina program: For each 130-mm tabletop Dobsonian sold, the company donates one to an elementary school.</p><p>Explore Scientific revealed two new series of eyepieces, the waterproof 92ED and 72ED, as well as several new Dobsonians. They also showed off a new alt-az mount: the Sidara with a 127 Maksutov-Cassegrain telescope.</p><p>Of course, there were many new smartscopes on hand from ZWO (the Seestar s30 Pro), DwarfLab (DWARF Mini), Vaonis (Vespera III), and several new offerings from Spectrum Optical. The ES Astro 53 Pro offered by Spectrum may be the most affordable smartscope on the market today at only $299.99.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>ZWO also rolled out a new, higher-capacity strain-wave mount, the AM7 and several deep-sky cameras for advanced imagers. Takahashi was represented at the Texas Nautical booth and used the opportunity to unveil two new refractors: the FCT-114D, a fluorite apochromat as well as a new entry in their.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/sky-telescope-reports-new-telescopes-and-more-at-neaf/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Os editores da Sky &amp; Telescope fizeram sua peregrinação anual ao Fórum de Astronomia do Nordeste para conferir novos equipamentos astronômicos e se encontrar com colaboradores e leitores. O post Sky &amp; Telescope Reports: New Telescopes and More at NEAF apareceu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestiais e as últimas notícias de astronomia Por: Os Editores da Sky &amp; Telescope 13. Mas o que realmente chamou minha atenção foi o refletor de mesa StarSense Explorer 114 mm, que trouxe de volta boas lembranças de uma certa mira telescópica de mesa do passado.</p><p>A Celestron motivou os clientes com seu programa Lumina: para cada Dobsoniano de mesa de 130 mm vendido, a empresa doa um para uma escola primária. A Sky-Watcher possui uma nova e atraente Maksutov-Cassegrain 200 mm f/10, a Skymax 200DX que promete um grande campo fotográfico corrigido mesmo com um redutor f/7 dedicado, e.</p><p>A vista através da Heliostar 100 foi particularmente memorável, com uma série de filamentos curvando-se em torno do lado esquerdo do disco solar deixando uma impressão duradoura. A Explore Scientific revelou duas novas séries de oculares, a à prova d&#x27;água 92ED e 72ED, bem como vários novos Dobsonianos.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/sky-telescope-reports-new-telescopes-and-more-at-neaf/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os editores da Sky &amp; Telescope fizeram sua peregrinação anual ao Fórum de Astronomia do Nordeste para conferir novos equipamentos astronômicos e se encontrar com colaboradores e leitores. O post Sky &amp; Telescope Reports: New Telescopes and More at NEAF apareceu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestiais e as últimas notícias de astronomia Por: Os Editores da Sky &amp; Telescope 13. Mas o que realmente chamou minha atenção foi o refletor de mesa StarSense Explorer 114 mm, que trouxe de volta boas lembranças de uma certa mira telescópica de mesa do passado.</p><p>A Celestron motivou os clientes com seu programa Lumina: para cada Dobsoniano de mesa de 130 mm vendido, a empresa doa um para uma escola primária. A Sky-Watcher possui uma nova e atraente Maksutov-Cassegrain 200 mm f/10, a Skymax 200DX que promete um grande campo fotográfico corrigido mesmo com um redutor f/7 dedicado, e.</p><p>A vista através da Heliostar 100 foi particularmente memorável, com uma série de filamentos curvando-se em torno do lado esquerdo do disco solar deixando uma impressão duradoura. A Explore Scientific revelou duas novas séries de oculares, a à prova d&#x27;água 92ED e 72ED, bem como vários novos Dobsonianos.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/sky-telescope-reports-new-telescopes-and-more-at-neaf/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Sky &amp; Telescope editors made their annual pilgrimage to the Northeast Astronomy Forum to check out new astro-gear and meet up with contributors and readers alike. The post Sky &amp; Telescope Reports: New Telescopes and More at NEAF appeared. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Explore the universe with Sky &amp; Telescope, your ultimate source for stargazing, celestial events, and the latest astronomy news By: The Editors of Sky &amp; Telescope April 13, 2026 0. But what really caught my eye was the tabletop StarSense Explorer 114-mm reflector, which brought back fond memories of a certain beloved tabletop scope from in the past.</p><p>Celestron motivated customers with their Lumina program: For each 130-mm tabletop Dobsonian sold, the company donates one to an elementary school. Sky-Watcher has an attractive new 200-mm f/10 Maksutov-Cassegrain, the Skymax 200DX that promises a large corrected photographic field even with a dedicated f/7 reducer, and.</p><p>The view through the Heliostar 100 was particularly memorable, with a series of filaments curving around the left side of the solar disk leaving a lasting impression. Explore Scientific revealed two new series of eyepieces, the waterproof 92ED and 72ED, as well as several new Dobsonians.</p><p>They also showed off a new alt-az mount: the Sidara with a 127 Maksutov-Cassegrain telescope. Of course, there were many new smartscopes on hand from ZWO (the Seestar s30 Pro), DwarfLab (DWARF Mini), Vaonis (Vespera III), and several new offerings from Spectrum Optical.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The ES Astro 53 Pro offered by Spectrum may be the most affordable smartscope on the market today at only $299.99. ZWO also rolled out a new, higher-capacity strain-wave mount, the AM7 and several deep-sky cameras for advanced imagers.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/sky-telescope-reports-new-telescopes-and-more-at-neaf/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Os editores da Sky & Telescope fizeram sua peregrinação anual ao Fórum de Astronomia do Nordeste para conferir novos equipamentos astronômicos e se.",
       "Dado-chave: Explore o universo com Sky & Telescope, sua melhor fonte de observação de estrelas, eventos celestiais e as últimas notícias de astronomia Por.",
@@ -4738,7 +4633,7 @@
     }
   },
   {
-    "id": 40,
+    "id": 39,
     "slug": "antarctica-s-vanishing-sea-ice-transforms-marine-life",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4868,6 +4763,124 @@
       "relevance": 80,
       "accessibility": 60,
       "novelty": 49
+    }
+  },
+  {
+    "id": 40,
+    "slug": "alpha-centauri-the-star-system-closest-to-our-sun",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2026/04/closest-to-sun-Alpha-Centauri-Proxima-e1776421755674.jpg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Alpha Centauri, o sistema estelar mais próximo do nosso sol",
+    "title_pt": "Alpha Centauri, o sistema estelar mais próximo do nosso sol",
+    "title_en": "Alpha Centauri, the star system closest to our sun",
+    "sub": "Nossos vizinhos estelares mais próximos são as 3 estrelas que compõem o sistema Alpha Centauri. Eles estão a pouco mais de 4 anos-luz de distância de nós. O post Alpha Centauri, o.",
+    "sub_pt": "Nossos vizinhos estelares mais próximos são as 3 estrelas que compõem o sistema Alpha Centauri. Eles estão a pouco mais de 4 anos-luz de distância de nós. O post Alpha Centauri, o.",
+    "sub_en": "Our closest stellar neighbors are the 3 stars that make up the Alpha Centauri system. They lie just over 4 light-years away from us. The post Alpha Centauri, the star system.",
+    "excerpt": "Nossos vizinhos estelares mais próximos são as 3 estrelas que compõem o sistema Alpha Centauri. Eles estão a pouco mais de 4 anos-luz de distância de nós. O post Alpha Centauri, o sistema estelar mais próximo do nosso Sol, apareceu pela primeira vez no.",
+    "excerpt_pt": "Nossos vizinhos estelares mais próximos são as 3 estrelas que compõem o sistema Alpha Centauri. Eles estão a pouco mais de 4 anos-luz de distância de nós. O post Alpha Centauri, o sistema estelar mais próximo do nosso Sol, apareceu pela primeira vez no.",
+    "excerpt_en": "Our closest stellar neighbors are the 3 stars that make up the Alpha Centauri system. They lie just over 4 light-years away from us. The post Alpha Centauri, the star system closest to our sun first appeared on EarthSky.",
+    "body": "<p>Nossos vizinhos estelares mais próximos são as 3 estrelas que compõem o sistema Alpha Centauri. Eles estão a pouco mais de 4 anos-luz de distância de nós. O post Alpha Centauri, o sistema estelar mais próximo do nosso Sol, apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Eles estão a pouco mais de 4 anos-luz de distância de nós. Este par está a apenas 4,37 anos-luz de nós.</p><p>As 2 estrelas principais do sistema Alpha Centauri As duas estrelas semelhantes ao Sol que constituem Alpha Centauri são Rigil Kentaurus e Toliman. Eles orbitam um centro de massa comum a cada 79,9 anos em uma proximidade relativamente próxima, variando entre 11,2 a 35,6 unidades astronômicas.</p><p>Ou seja, 11,2 a 35,6 vezes a distância entre a Terra e o nosso sol. Alpha Centauri, a terceira estrela mais brilhante do céu, fotografada em Coonabarabran, Nova Gales do Sul, Austrália.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/brightest-stars/alpha-centauri-is-the-nearest-bright-star/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Nossos vizinhos estelares mais próximos são as 3 estrelas que compõem o sistema Alpha Centauri. Eles estão a pouco mais de 4 anos-luz de distância de nós. O post Alpha Centauri, o sistema estelar mais próximo do nosso Sol, apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Eles estão a pouco mais de 4 anos-luz de distância de nós. Este par está a apenas 4,37 anos-luz de nós.</p><p>As 2 estrelas principais do sistema Alpha Centauri As duas estrelas semelhantes ao Sol que constituem Alpha Centauri são Rigil Kentaurus e Toliman. Eles orbitam um centro de massa comum a cada 79,9 anos em uma proximidade relativamente próxima, variando entre 11,2 a 35,6 unidades astronômicas.</p><p>Ou seja, 11,2 a 35,6 vezes a distância entre a Terra e o nosso sol. Alpha Centauri, a terceira estrela mais brilhante do céu, fotografada em Coonabarabran, Nova Gales do Sul, Austrália.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/brightest-stars/alpha-centauri-is-the-nearest-bright-star/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Our closest stellar neighbors are the 3 stars that make up the Alpha Centauri system. They lie just over 4 light-years away from us. The post Alpha Centauri, the star system closest to our sun first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. They lie just over 4 light-years away from us. This pair is just 4.37 light-years away from us.</p><p>The 2 main stars of the Alpha Centauri system The two sunlike stars that make up Alpha Centauri are Rigil Kentaurus and Toliman. They orbit a common center of mass every 79.9 years at a relatively close proximity, varying between 11.2 to 35.6 astronomical units.</p><p>That is, 11.2 to 35.6 times the distance between the Earth and our sun. Alpha Centauri, the 3rd-brightest star in the sky, photographed in Coonabarabran, New South Wales, Australia.</p><p>And this dim reddish star, weighing in at just 12% of the sun’s mass, is currently about 13,000 astronomical units from Alpha Centauri A and B. Recent analysis of ground- and space-based data, published in 2017, has shown that Proxima is gravitationally bound to its bright companions.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>So far, three planets have been confirmed orbiting Proxima Centauri, one in 2016 and another in 2020. And in 2022, a smaller planet, only about 25% of Earth’s mass, was found orbiting very close to the star.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/brightest-stars/alpha-centauri-is-the-nearest-bright-star/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Nossos vizinhos estelares mais próximos são as 3 estrelas que compõem o sistema Alpha Centauri. Eles estão a pouco mais de 4 anos-luz de distância de.",
+      "Dado-chave: Eles estão a pouco mais de 4 anos-luz de distância de nós.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Nossos vizinhos estelares mais próximos são as 3 estrelas que compõem o sistema Alpha Centauri. Eles estão a pouco mais de 4 anos-luz de distância de.",
+      "Dado-chave: Eles estão a pouco mais de 4 anos-luz de distância de nós.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Our closest stellar neighbors are the 3 stars that make up the Alpha Centauri system. They lie just over 4 light-years away from us. The post Alpha.",
+      "Key detail: They lie just over 4 light-years away from us.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "17 abr 2026",
+    "date_pt": "17 abr 2026",
+    "date_en": "17 Apr 2026",
+    "time": "08h00",
+    "time_pt": "08h00",
+    "time_en": "08:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-17T08:00:17+00:00",
+    "lastModifiedIso": "2026-04-17T08:00:17+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Alpha Centauri",
+      "o sistema estelar mais próximo do nosso sol"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Alpha Centauri",
+      "o sistema estelar mais próximo do nosso sol"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "Alpha Centauri",
+      "the closest star system to our sun"
+    ],
+    "srcUrl": "https://earthsky.org/brightest-stars/alpha-centauri-is-the-nearest-bright-star/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=alpha-centauri-the-star-system-closest-to-our-sun",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=alpha-centauri-the-star-system-closest-to-our-sun",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=alpha-centauri-the-star-system-closest-to-our-sun&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 73,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 55
     }
   }
 ]

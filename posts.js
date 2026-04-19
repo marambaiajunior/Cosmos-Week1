@@ -40,14 +40,14 @@ window.postsData = [
     "date": "19 abr 2026",
     "date_pt": "19 abr 2026",
     "date_en": "19 Apr 2026",
-    "time": "16h05",
-    "time_pt": "16h05",
-    "time_en": "16:05 UTC",
+    "time": "16h56",
+    "time_pt": "16h56",
+    "time_en": "16:56 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-19T16:05:37.232736+00:00",
-    "lastModifiedIso": "2026-04-19T16:05:37.232736+00:00",
+    "publishedIso": "2026-04-19T16:56:41.288764+00:00",
+    "lastModifiedIso": "2026-04-19T16:56:41.288764+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "19 abr 2026",
     "date_pt": "19 abr 2026",
     "date_en": "19 Apr 2026",
-    "time": "16h05",
-    "time_pt": "16h05",
-    "time_en": "16:05 UTC",
+    "time": "16h56",
+    "time_pt": "16h56",
+    "time_en": "16:56 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-19T16:05:37.232685+00:00",
-    "lastModifiedIso": "2026-04-19T16:05:37.232685+00:00",
+    "publishedIso": "2026-04-19T16:56:41.288716+00:00",
+    "lastModifiedIso": "2026-04-19T16:56:41.288716+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,14 +250,14 @@ window.postsData = [
     "date": "19 abr 2026",
     "date_pt": "19 abr 2026",
     "date_en": "19 Apr 2026",
-    "time": "16h05",
-    "time_pt": "16h05",
-    "time_en": "16:05 UTC",
+    "time": "16h56",
+    "time_pt": "16h56",
+    "time_en": "16:56 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-19T16:05:37.232621+00:00",
-    "lastModifiedIso": "2026-04-19T16:05:37.232621+00:00",
+    "publishedIso": "2026-04-19T16:56:41.288656+00:00",
+    "lastModifiedIso": "2026-04-19T16:56:41.288656+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -355,14 +355,14 @@ window.postsData = [
     "date": "19 abr 2026",
     "date_pt": "19 abr 2026",
     "date_en": "19 Apr 2026",
-    "time": "16h05",
-    "time_pt": "16h05",
-    "time_en": "16:05 UTC",
+    "time": "16h56",
+    "time_pt": "16h56",
+    "time_en": "16:56 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-19T16:05:37.232558+00:00",
-    "lastModifiedIso": "2026-04-19T16:05:37.232558+00:00",
+    "publishedIso": "2026-04-19T16:56:41.288598+00:00",
+    "lastModifiedIso": "2026-04-19T16:56:41.288598+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -460,14 +460,14 @@ window.postsData = [
     "date": "19 abr 2026",
     "date_pt": "19 abr 2026",
     "date_en": "19 Apr 2026",
-    "time": "16h05",
-    "time_pt": "16h05",
-    "time_en": "16:05 UTC",
+    "time": "16h56",
+    "time_pt": "16h56",
+    "time_en": "16:56 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-19T16:05:37.232495+00:00",
-    "lastModifiedIso": "2026-04-19T16:05:37.232495+00:00",
+    "publishedIso": "2026-04-19T16:56:41.288540+00:00",
+    "lastModifiedIso": "2026-04-19T16:56:41.288540+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -2172,6 +2172,114 @@ window.postsData = [
   },
   {
     "id": 19,
+    "slug": "the-identification-of-cs2-and-evidence-for-carbon-sulfur-chemical-coupling-in-a-warm-giant-exopl",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HAtomOrbitals.png/1280px-HAtomOrbitals.png",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "A identificação de CS2 e evidências de acoplamento químico carbono-enxofre em uma atmosfera de exoplaneta gigante quente",
+    "title_pt": "A identificação de CS2 e evidências de acoplamento químico carbono-enxofre em uma atmosfera de exoplaneta gigante quente",
+    "title_en": "The Identification of CS2 and Evidence for Carbon-Sulfur Chemical Coupling in a Warm Giant Exoplanet Atmosphere",
+    "sub": "A espectroscopia de transmissão com o Telescópio Espacial James Webb está revelando a crescente complexidade química em atmosferas de exoplanetas gigantes. De particular interesse.",
+    "sub_pt": "A espectroscopia de transmissão com o Telescópio Espacial James Webb está revelando a crescente complexidade química em atmosferas de exoplanetas gigantes. De particular interesse.",
+    "sub_en": "Transmission spectroscopy with the James Webb Space Telescope is revealing growing chemical complexity in giant exoplanet atmospheres. Of particular interest is sulfur, which had.",
+    "excerpt": "A espectroscopia de transmissão com o Telescópio Espacial James Webb está revelando a crescente complexidade química em atmosferas de exoplanetas gigantes. De particular interesse é o enxofre, que essencialmente não tinha restrições observacionais antes do.",
+    "excerpt_pt": "A espectroscopia de transmissão com o Telescópio Espacial James Webb está revelando a crescente complexidade química em atmosferas de exoplanetas gigantes. De particular interesse é o enxofre, que essencialmente não tinha restrições observacionais antes do.",
+    "excerpt_en": "Transmission spectroscopy with the James Webb Space Telescope is revealing growing chemical complexity in giant exoplanet atmospheres. Of particular interest is sulfur, which had essentially no observational constraints before JWST. Recent.",
+    "body": "<p>A espectroscopia de transmissão com o Telescópio Espacial James Webb está revelando a crescente complexidade química em atmosferas de exoplanetas gigantes. De particular interesse é o enxofre, que essencialmente não tinha restrições observacionais antes do JWST. Recente. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Mas apesar da crescente biblioteca de dados do JWST, o enxofre. A espectroscopia de transmissão com o Telescópio Espacial James Webb (JWST) está revelando a crescente complexidade química em atmosferas de exoplanetas gigantes.</p><p>De particular interesse é o enxofre, que essencialmente não tinha restrições observacionais antes do JWST. Trabalhos recentes mostraram que o teor de enxofre atmosférico de um planeta traça o seu orçamento refratário e é, portanto, um indicador sensível dos caminhos de formação.</p><p>Mas, apesar da crescente biblioteca de dados do JWST, o inventário de enxofre dos exoplanetas gigantes permanece pouco limitado: as espécies portadoras de enxofre são governadas. Aqui apresentamos um espectro de transmissão do planeta gigante quente WASP-80 b obtido com JWST/NIRCam e MIRI ao longo de 2,4 $μ$m--10$μ$m em três trânsitos.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2604.13168v2\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A espectroscopia de transmissão com o Telescópio Espacial James Webb está revelando a crescente complexidade química em atmosferas de exoplanetas gigantes. De particular interesse é o enxofre, que essencialmente não tinha restrições observacionais antes do JWST. Recente. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Mas apesar da crescente biblioteca de dados do JWST, o enxofre. A espectroscopia de transmissão com o Telescópio Espacial James Webb (JWST) está revelando a crescente complexidade química em atmosferas de exoplanetas gigantes.</p><p>De particular interesse é o enxofre, que essencialmente não tinha restrições observacionais antes do JWST. Trabalhos recentes mostraram que o teor de enxofre atmosférico de um planeta traça o seu orçamento refratário e é, portanto, um indicador sensível dos caminhos de formação.</p><p>Mas, apesar da crescente biblioteca de dados do JWST, o inventário de enxofre dos exoplanetas gigantes permanece pouco limitado: as espécies portadoras de enxofre são governadas. Aqui apresentamos um espectro de transmissão do planeta gigante quente WASP-80 b obtido com JWST/NIRCam e MIRI ao longo de 2,4 $μ$m--10$μ$m em três trânsitos.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2604.13168v2\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Transmission spectroscopy with the James Webb Space Telescope is revealing growing chemical complexity in giant exoplanet atmospheres. Of particular interest is sulfur, which had essentially no observational constraints before JWST. Recent. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. But despite the growing library of JWST data, the sulfur. Transmission spectroscopy with the James Webb Space Telescope (JWST) is revealing growing chemical complexity in giant exoplanet atmospheres.</p><p>Of particular interest is sulfur, which had essentially no observational constraints before JWST. Recent work has shown that a planet&#x27;s atmospheric sulfur content traces its refractory budget and is therefore a sensitive indicator of formation pathways.</p><p>But despite the growing library of JWST data, the sulfur inventory of giant exoplanets remains poorly constrained: sulfur-bearing species are governed by disequilibrium chemistry. Here we present a transmission spectrum of the warm giant planet WASP-80 b obtained with JWST/NIRCam and MIRI over 2.4 $μ$m--10$μ$m in three transits.</p><p>We find evidence for H$_2$O, CH$_4$, CO$_2$, NH$_3$, and CS$_2$ in the atmosphere and place upper limits on CO and SO$_2$. Our atmospheric retrievals yield $\\log_{10}\\mathrm{X}_{\\mathrm{CS_2}} = -2.25^{+0.33}_{-0.32}$.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>This CS$_2$ abundance is substantially higher than predicted by earlier sulfur-chemistry schemes for H$_2$-rich atmospheres in WASP-80 b&#x27;s temperature range, but is consistent. These results identify CS$_2$ as an observable tracer of sulfur disequilibrium chemistry and provide observational support for theoretically predicted carbon-sulfur chemical.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2604.13168v2\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A espectroscopia de transmissão com o Telescópio Espacial James Webb está revelando a crescente complexidade química em atmosferas de exoplanetas.",
+      "Dado-chave: Mas apesar da crescente biblioteca de dados do JWST, o enxofre.",
+      "Resultado ainda sem revisão por pares."
+    ],
+    "highlights_pt": [
+      "Ponto central: A espectroscopia de transmissão com o Telescópio Espacial James Webb está revelando a crescente complexidade química em atmosferas de exoplanetas.",
+      "Dado-chave: Mas apesar da crescente biblioteca de dados do JWST, o enxofre.",
+      "Resultado ainda sem revisão por pares."
+    ],
+    "highlights_en": [
+      "Core point: Transmission spectroscopy with the James Webb Space Telescope is revealing growing chemical complexity in giant exoplanet atmospheres. Of particular.",
+      "Key detail: But despite the growing library of JWST data, the sulfur.",
+      "Result not yet peer reviewed."
+    ],
+    "date": "14 abr 2026",
+    "date_pt": "14 abr 2026",
+    "date_en": "14 Apr 2026",
+    "time": "18h00",
+    "time_pt": "18h00",
+    "time_en": "18:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-14T18:00:05+00:00",
+    "lastModifiedIso": "2026-04-14T18:00:05+00:00",
+    "source": "arXiv Earth & Planetary",
+    "sourceDomain": "arxiv.org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint ainda sem revisão por pares.",
+    "sourceNote_pt": "Preprint ainda sem revisão por pares.",
+    "sourceNote_en": "Preprint not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "watch",
+    "editorialBandLabel": "Leitura monitorada",
+    "editorialBandLabel_pt": "Leitura monitorada",
+    "editorialBandLabel_en": "Watchlist",
+    "keywords": [
+      "Exoplanetas",
+      "arXiv Earth & Planetary",
+      "Cosmos Week",
+      "A identificação de CS2 e evidências de acoplamento químico carbono",
+      "enxofre em uma atmosfera de exoplaneta gigante quente"
+    ],
+    "keywords_pt": [
+      "Exoplanetas",
+      "arXiv Earth & Planetary",
+      "Cosmos Week",
+      "A identificação de CS2 e evidências de acoplamento químico carbono",
+      "enxofre em uma atmosfera de exoplaneta gigante quente"
+    ],
+    "keywords_en": [
+      "Exoplanets",
+      "arXiv Earth & Planetary",
+      "Cosmos Week",
+      "The identification of CS2 and evidence for carbon chemical coupling",
+      "sulfur in a hot giant exoplanet atmosphere"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2604.13168v2",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-identification-of-cs2-and-evidence-for-carbon-sulfur-chemical-coupling-in-a-warm-giant-exopl",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-identification-of-cs2-and-evidence-for-carbon-sulfur-chemical-coupling-in-a-warm-giant-exopl",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-identification-of-cs2-and-evidence-for-carbon-sulfur-chemical-coupling-in-a-warm-giant-exopl&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 67,
+    "scoreBreakdown": {
+      "source": 56,
+      "evidence": 64,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 20,
     "slug": "volunteers-discover-rare-space-weather-events-using-their-ears",
     "cat": "Física",
     "catCls": "fisica",
@@ -2304,7 +2412,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "erosita-disentangles-the-solar-system-s-x-ray-glow-from-deep-space-signals",
     "cat": "Física",
     "catCls": "fisica",
@@ -2450,7 +2558,7 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "why-nasa-s-cheapest-missions-produce-the-least-science",
     "cat": "Física",
     "catCls": "fisica",
@@ -2587,7 +2695,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "what-happens-when-light-goes-boom-part-2-the-crowd-the-molasses-and-the-speed-of-light-sort-of",
     "cat": "Química",
     "catCls": "quimica",
@@ -2698,7 +2806,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "csda-quality-assessment-report-evaluates-satellogic-newsat-data",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2803,7 +2911,7 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
+    "id": 25,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2939,7 +3047,7 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3066,7 +3174,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "science-release-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3202,7 +3310,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "quality-assessment-report-evaluates-tomorrow-io-precipitation-radar-data",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3307,7 +3415,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "nasa-artemis-ii-human-research-data-methodology-challenge",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3412,7 +3520,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "first-proba-3-science-surprisingly-speedy-solar-wind",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3548,7 +3656,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "webb-hubble-capture-new-views-of-saturn",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3663,7 +3771,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "esa-observations-of-interstellar-comet-3i-atlas",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3768,7 +3876,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "comet-r3-panstarrs-at-perihelion",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3901,7 +4009,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "desi-s-3d-map-of-the-universe-is-complete",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -4016,7 +4124,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "nsf-doe-vera-c-rubin-observatory-launches-real-time-discovery-machine-for-monitoring-the-night-s",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4165,7 +4273,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "simulating-how-black-holes-light-up-the-dark",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4280,7 +4388,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "this-week-s-sky-at-a-glance-april-17-26",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4416,7 +4524,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "what-were-the-flashes-that-artemis-2-astronauts-saw",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4549,7 +4657,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 39,
     "slug": "see-the-moon-hide-regulus-the-stellar-heart-of-the-lion",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4685,7 +4793,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 40,
     "slug": "ash-creeps-across-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4813,130 +4921,6 @@ window.postsData = [
       "source": 90,
       "evidence": 88,
       "relevance": 70,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 40,
-    "slug": "planets-collide-around-young-sun-like-star",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://dq0hsqwjhea1.cloudfront.net/planet-collision.webp",
-    "inline_images": [
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/visible-vs-infrared-lightcurve.png",
-        "caption": "À medida que a luz visível da estrela diminuía, as suas emissões infravermelhas aumentavam. O gráfico superior mostra medições de brilho (pontos verdes e amarelos) em comprimentos de onda visíveis. Três pequenas quedas no brilho são aparentes, seguidas por um geral mais caótico.",
-        "caption_pt": "À medida que a luz visível da estrela diminuía, as suas emissões infravermelhas aumentavam. O gráfico superior mostra medições de brilho (pontos verdes e amarelos) em comprimentos de onda visíveis. Três pequenas quedas no brilho são aparentes, seguidas por um geral mais caótico.",
-        "caption_en": "As the star's visible light dimmed, its infrared emissions shot up. The top graph shows brightness measurements (green and yellow dots) at visible wavelengths. Three small dips in brightness are apparent, followed by a more chaotic overall.",
-        "alt": "Curva de luz em comprimentos de onda visíveis e infravermelhos",
-        "alt_pt": "Curva de luz em comprimentos de onda visíveis e infravermelhos",
-        "alt_en": "Lightcurve in visible and infrared wavelengths"
-      },
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/theme/src/img/comment.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Planetas colidem em torno de uma estrela jovem semelhante ao Sol",
-    "title_pt": "Planetas colidem em torno de uma estrela jovem semelhante ao Sol",
-    "title_en": "Planets Collide Around Young, Sun-like Star",
-    "sub": "Os astrónomos descobriram evidências de que dois planetas colidiram em torno de uma estrela jovem, revelando como impactos gigantescos esculpem sistemas solares bebés. O post.",
-    "sub_pt": "Os astrónomos descobriram evidências de que dois planetas colidiram em torno de uma estrela jovem, revelando como impactos gigantescos esculpem sistemas solares bebés. O post.",
-    "sub_en": "Astronomers have uncovered evidence that two planets collided around a young star, revealing how giant impacts sculpt baby solar systems. The post Planets Collide Around Young.",
-    "excerpt": "Os astrónomos descobriram evidências de que dois planetas colidiram em torno de uma estrela jovem, revelando como impactos gigantescos esculpem sistemas solares bebés. O post Planetas colidem em torno de uma estrela jovem semelhante ao Sol apareceu pela.",
-    "excerpt_pt": "Os astrónomos descobriram evidências de que dois planetas colidiram em torno de uma estrela jovem, revelando como impactos gigantescos esculpem sistemas solares bebés. O post Planetas colidem em torno de uma estrela jovem semelhante ao Sol apareceu pela.",
-    "excerpt_en": "Astronomers have uncovered evidence that two planets collided around a young star, revealing how giant impacts sculpt baby solar systems. The post Planets Collide Around Young, Sun-like Star appeared first on Sky & Telescope.",
-    "body": "<p>Os astrónomos descobriram evidências de que dois planetas colidiram em torno de uma estrela jovem, revelando como impactos gigantescos esculpem sistemas solares bebés. O post Planetas colidem em torno de uma estrela jovem semelhante ao Sol apareceu pela primeira vez na Sky &amp;. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestes e as últimas notícias sobre astronomia. Arielle Frommer escreve para Sky &amp;. A mais de 11.500 anos-luz de distância, numa versão infantil do nosso sistema solar, dois planetas primordiais colidiram um com o outro, vaporizando-se num disco poeirento de.</p><p>Os astrónomos suspeitam que impactos gigantescos desempenharam um papel na escultura do nosso próprio sistema solar, desde a criação da Lua até à explicação da inclinação de Úrano. Tzanidakis notou pela primeira vez o escurecimento incomum de uma estrela semelhante ao Sol, chamada Gaia-GIC-1, como parte de sua pesquisa em busca de “estrelas estranhas que.</p><p>À medida que a poeira da colisão obscurecia a estrela, ela diminuiria a intensidade da luz de Gaia-GIC-1 nos comprimentos de onda visíveis, enquanto aumentava no infravermelho à. Para explicar as observações, a nuvem de detritos teria de abranger uns impressionantes 16 milhões de quilómetros (10 milhões de milhas), ou cerca de um terço do caminho entre o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/planets-collide-around-young-sun-like-star/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os astrónomos descobriram evidências de que dois planetas colidiram em torno de uma estrela jovem, revelando como impactos gigantescos esculpem sistemas solares bebés. O post Planetas colidem em torno de uma estrela jovem semelhante ao Sol apareceu pela primeira vez na Sky &amp;. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestes e as últimas notícias sobre astronomia. Arielle Frommer escreve para Sky &amp;. A mais de 11.500 anos-luz de distância, numa versão infantil do nosso sistema solar, dois planetas primordiais colidiram um com o outro, vaporizando-se num disco poeirento de.</p><p>Os astrónomos suspeitam que impactos gigantescos desempenharam um papel na escultura do nosso próprio sistema solar, desde a criação da Lua até à explicação da inclinação de Úrano. Tzanidakis notou pela primeira vez o escurecimento incomum de uma estrela semelhante ao Sol, chamada Gaia-GIC-1, como parte de sua pesquisa em busca de “estrelas estranhas que.</p><p>À medida que a poeira da colisão obscurecia a estrela, ela diminuiria a intensidade da luz de Gaia-GIC-1 nos comprimentos de onda visíveis, enquanto aumentava no infravermelho à. Para explicar as observações, a nuvem de detritos teria de abranger uns impressionantes 16 milhões de quilómetros (10 milhões de milhas), ou cerca de um terço do caminho entre o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/planets-collide-around-young-sun-like-star/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Uncovered evidence that two planets collided around a young star, revealing how giant impacts sculpt baby solar systems. The post Planets Collide Around Young, Sun-like Star appeared first on Sky &amp; Telescope. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Explore the universe with Sky &amp; Telescope, your ultimate source for stargazing, celestial events, and the latest astronomy news Arielle Frommer has been writing for Sky &amp;. More than 11,500 light-years away, in an infant version of our solar system, two primordial planets have crashed into each other, vaporizing into a dusty disk of debris that’s now.</p><p>Astronomers suspect that giant impacts played a role in sculpting our own solar system, from creating the Moon to explaining Uranus’s tilt and Saturn’s rings. Tzanidakis first noticed the unusual dimming of a Sun-like star, called Gaia-GIC-1, as part of his research looking “for weird stars that could tell us all sorts of stories.” The.</p><p>As dust from the collision obscured the star, it would dim Gaia-GIC-1’s light in visible wavelengths, while spiking in the infrared as heat radiated off of the collision’s dusty. To explain the observations, the cloud of debris would have to span a whopping 16 million kilometers (10 million miles) across, or about a third of the way from the Sun to Mercury.</p><p>With the dust cloud weighing as much as a small icy moon, such as Saturn’s Enceladus, the collision is certainly catastrophic enough to form a new moon or planet. It’s possible that we observed a collision akin to the very same one theorized to have occurred between Earth (or, Earth 1.0) and a Mars-sized object, nicknamed Theia.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>That long-ago crash is thought to have pulverized both worlds into a gooey mess that eventually coalesced into our Earth (really, Earth 2.0) and the Moon. The Gaia observations initially showed the star’s visible light dimming every 380 days or so, suggesting that the dust cloud is orbiting its star at a little more than the.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/planets-collide-around-young-sun-like-star/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os astrónomos descobriram evidências de que dois planetas colidiram em torno de uma estrela jovem, revelando como impactos gigantescos esculpem.",
-      "Dado-chave: Explore o universo com Sky & Telescope, sua melhor fonte de observação de estrelas, eventos celestes e as últimas notícias sobre astronomia.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os astrónomos descobriram evidências de que dois planetas colidiram em torno de uma estrela jovem, revelando como impactos gigantescos esculpem.",
-      "Dado-chave: Explore o universo com Sky & Telescope, sua melhor fonte de observação de estrelas, eventos celestes e as últimas notícias sobre astronomia.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Astronomers have uncovered evidence that two planets collided around a young star, revealing how giant impacts sculpt baby solar systems. The post.",
-      "Key detail: Explore the universe with Sky & Telescope, your ultimate source for stargazing, celestial events, and the latest astronomy news Arielle Frommer.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "13 abr 2026",
-    "date_pt": "13 abr 2026",
-    "date_en": "13 Apr 2026",
-    "time": "18h00",
-    "time_pt": "18h00",
-    "time_en": "18:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-13T18:00:00+00:00",
-    "lastModifiedIso": "2026-04-13T18:00:00+00:00",
-    "source": "Sky & Telescope",
-    "sourceDomain": "skyandtelescope.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Planetas colidem em torno de uma estrela jovem semelhante ao Sol"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Planetas colidem em torno de uma estrela jovem semelhante ao Sol"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Planets collide around a young Sun-like star"
-    ],
-    "srcUrl": "https://skyandtelescope.org/astronomy-news/planets-collide-around-young-sun-like-star/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=planets-collide-around-young-sun-like-star",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=planets-collide-around-young-sun-like-star",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=planets-collide-around-young-sun-like-star&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 74,
-      "evidence": 82,
-      "relevance": 88,
       "accessibility": 60,
       "novelty": 46
     }

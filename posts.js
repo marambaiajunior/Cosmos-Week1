@@ -40,14 +40,14 @@ window.postsData = [
     "date": "19 abr 2026",
     "date_pt": "19 abr 2026",
     "date_en": "19 Apr 2026",
-    "time": "13h22",
-    "time_pt": "13h22",
-    "time_en": "13:22 UTC",
+    "time": "14h21",
+    "time_pt": "14h21",
+    "time_en": "14:21 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-19T13:22:45.063243+00:00",
-    "lastModifiedIso": "2026-04-19T13:22:45.063243+00:00",
+    "publishedIso": "2026-04-19T14:21:54.887045+00:00",
+    "lastModifiedIso": "2026-04-19T14:21:54.887045+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "19 abr 2026",
     "date_pt": "19 abr 2026",
     "date_en": "19 Apr 2026",
-    "time": "13h22",
-    "time_pt": "13h22",
-    "time_en": "13:22 UTC",
+    "time": "14h21",
+    "time_pt": "14h21",
+    "time_en": "14:21 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-19T13:22:45.063189+00:00",
-    "lastModifiedIso": "2026-04-19T13:22:45.063189+00:00",
+    "publishedIso": "2026-04-19T14:21:54.886993+00:00",
+    "lastModifiedIso": "2026-04-19T14:21:54.886993+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,14 +250,14 @@ window.postsData = [
     "date": "19 abr 2026",
     "date_pt": "19 abr 2026",
     "date_en": "19 Apr 2026",
-    "time": "13h22",
-    "time_pt": "13h22",
-    "time_en": "13:22 UTC",
+    "time": "14h21",
+    "time_pt": "14h21",
+    "time_en": "14:21 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-19T13:22:45.063120+00:00",
-    "lastModifiedIso": "2026-04-19T13:22:45.063120+00:00",
+    "publishedIso": "2026-04-19T14:21:54.886929+00:00",
+    "lastModifiedIso": "2026-04-19T14:21:54.886929+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -355,14 +355,14 @@ window.postsData = [
     "date": "19 abr 2026",
     "date_pt": "19 abr 2026",
     "date_en": "19 Apr 2026",
-    "time": "13h22",
-    "time_pt": "13h22",
-    "time_en": "13:22 UTC",
+    "time": "14h21",
+    "time_pt": "14h21",
+    "time_en": "14:21 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-19T13:22:45.063054+00:00",
-    "lastModifiedIso": "2026-04-19T13:22:45.063054+00:00",
+    "publishedIso": "2026-04-19T14:21:54.886867+00:00",
+    "lastModifiedIso": "2026-04-19T14:21:54.886867+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -460,14 +460,14 @@ window.postsData = [
     "date": "19 abr 2026",
     "date_pt": "19 abr 2026",
     "date_en": "19 Apr 2026",
-    "time": "13h22",
-    "time_pt": "13h22",
-    "time_en": "13:22 UTC",
+    "time": "14h21",
+    "time_pt": "14h21",
+    "time_en": "14:21 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-19T13:22:45.062988+00:00",
-    "lastModifiedIso": "2026-04-19T13:22:45.062988+00:00",
+    "publishedIso": "2026-04-19T14:21:54.886804+00:00",
+    "lastModifiedIso": "2026-04-19T14:21:54.886804+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -534,6 +534,130 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "blue-origin-reuses-new-glenn-booster-for-the-first-time-in-florida-launch",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/blue-origins-new-glenn.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/blue-origins-new-glenn.jpg",
+        "caption": "Foguete New Glenn da Blue Origin no Complexo de Lançamento 36 no Centro Espacial Kennedy, na Flórida, em 12 de abril de 2026.",
+        "caption_pt": "Foguete New Glenn da Blue Origin no Complexo de Lançamento 36 no Centro Espacial Kennedy, na Flórida, em 12 de abril de 2026.",
+        "caption_en": "Blue Origin's New Glenn rocket at Launch Complex 36 at the Kennedy Space Center in Florida on April 12, 2026.",
+        "alt": "Foguete New Glenn da Blue Origin no Complexo de Lançamento 36 no Centro Espacial Kennedy, na Flórida, em 12 de abril de 2026",
+        "alt_pt": "Foguete New Glenn da Blue Origin no Complexo de Lançamento 36 no Centro Espacial Kennedy, na Flórida, em 12 de abril de 2026",
+        "alt_en": "Blue Origin's New Glenn rocket at Launch Complex 36 at the Kennedy Space Center in Florida on April 12, 2026"
+      },
+      {
+        "src": "https://scx0.b-cdn.net/pic/andrew.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Blue Origin reutiliza o reforço New Glenn pela primeira vez no lançamento na Flórida",
+    "title_pt": "Blue Origin reutiliza o reforço New Glenn pela primeira vez no lançamento na Flórida",
+    "title_en": "Blue Origin reuses New Glenn booster for the first time in Florida launch",
+    "sub": "A Blue Origin, empresa espacial norte-americana do fundador da Amazon, Jeff Bezos, reutilizou e recuperou com sucesso um propulsor para seu foguete New Glenn no domingo.",
+    "sub_pt": "A Blue Origin, empresa espacial norte-americana do fundador da Amazon, Jeff Bezos, reutilizou e recuperou com sucesso um propulsor para seu foguete New Glenn no domingo.",
+    "sub_en": "Blue Origin, the U. S. space company of Amazon founder Jeff Bezos, successfully reused and recovered a booster for its New Glenn rocket on Sunday, confirming its mastery of a.",
+    "excerpt": "A Blue Origin, empresa espacial norte-americana do fundador da Amazon, Jeff Bezos, reutilizou e recuperou com sucesso um propulsor para seu foguete New Glenn no domingo, confirmando seu domínio de um feito técnico que poderia aumentar sua cadência de.",
+    "excerpt_pt": "A Blue Origin, empresa espacial norte-americana do fundador da Amazon, Jeff Bezos, reutilizou e recuperou com sucesso um propulsor para seu foguete New Glenn no domingo, confirmando seu domínio de um feito técnico que poderia aumentar sua cadência de.",
+    "excerpt_en": "Blue Origin, the U. S. space company of Amazon founder Jeff Bezos, successfully reused and recovered a booster for its New Glenn rocket on Sunday, confirming its mastery of a technical feat that could boost its launch cadence and expand.",
+    "body": "<p>A Blue Origin, empresa espacial norte-americana do fundador da Amazon, Jeff Bezos, reutilizou e recuperou com sucesso um propulsor para seu foguete New Glenn no domingo, confirmando seu domínio de um feito técnico que poderia aumentar sua cadência de lançamento e expansão. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial o foguete New Glenn da Blue Origin no Complexo de.</p><p>A empresa espacial do fundador da Amazon, Jeff Bezos, reutilizou e recuperou com sucesso um propulsor para seu foguete New Glenn no domingo, confirmando seu domínio de um feito. A empresa já lançou o New Glenn duas vezes, mas apenas com novos foguetes propulsores.</p><p>Anteriormente, lançou seu foguete New Shepard menor, usado principalmente para turismo espacial suborbital, com componentes reutilizados em uma operação menos desafiadora. O foguete New Glenn, com 98 metros (321 pés) de altura, decolou do Cabo Canaveral, na Flórida, com seu propulsor reutilizado por volta das 7h25.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-blue-reuses-glenn-booster-florida.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Blue Origin, empresa espacial norte-americana do fundador da Amazon, Jeff Bezos, reutilizou e recuperou com sucesso um propulsor para seu foguete New Glenn no domingo, confirmando seu domínio de um feito técnico que poderia aumentar sua cadência de lançamento e expansão. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial o foguete New Glenn da Blue Origin no Complexo de.</p><p>A empresa espacial do fundador da Amazon, Jeff Bezos, reutilizou e recuperou com sucesso um propulsor para seu foguete New Glenn no domingo, confirmando seu domínio de um feito. A empresa já lançou o New Glenn duas vezes, mas apenas com novos foguetes propulsores.</p><p>Anteriormente, lançou seu foguete New Shepard menor, usado principalmente para turismo espacial suborbital, com componentes reutilizados em uma operação menos desafiadora. O foguete New Glenn, com 98 metros (321 pés) de altura, decolou do Cabo Canaveral, na Flórida, com seu propulsor reutilizado por volta das 7h25.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-blue-reuses-glenn-booster-florida.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Blue Origin, the U. S. space company of Amazon founder Jeff Bezos, successfully reused and recovered a booster for its New Glenn rocket on Sunday, confirming its mastery of a technical feat that could boost its launch cadence and expand. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Blue Origin&#x27;s New Glenn rocket at Launch Complex 36 at the.</p><p>Space company of Amazon founder Jeff Bezos, successfully reused and recovered a booster for its New Glenn rocket on Sunday, confirming its mastery of a technical feat that could. The company has launched the New Glenn twice before, but only with new rocket boosters.</p><p>It has previously launched its smaller New Shepard rocket, primarily used for suborbital space tourism, with reused components in a less technically challenging operation. The New Glenn rocket, standing at 98 meters (321 feet) tall, lifted off from Florida&#x27;s Cape Canaveral with its reused booster about 7: 25 a. m.</p><p>(1125 GMT) carrying a communications satellite for the company AST SpaceMobile. Its booster successfully landed on a floating platform in the Atlantic Ocean about nine minutes and 30 seconds after takeoff.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>In November, Blue Origin recovered a New Glenn booster for the first time, succeeding in the complex technical challenge that culminated with a controlled vertical landing on a. A previous attempt in January 2025 to recover the booster was unsuccessful after its engines failed to reignite during descent.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-blue-reuses-glenn-booster-florida.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A Blue Origin, empresa espacial norte-americana do fundador da Amazon, Jeff Bezos, reutilizou e recuperou com sucesso um propulsor para seu foguete.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A Blue Origin, empresa espacial norte-americana do fundador da Amazon, Jeff Bezos, reutilizou e recuperou com sucesso um propulsor para seu foguete.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Blue Origin, the U. S. space company of Amazon founder Jeff Bezos, successfully reused and recovered a booster for its New Glenn rocket on Sunday.",
+      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "19 abr 2026",
+    "date_pt": "19 abr 2026",
+    "date_en": "19 Apr 2026",
+    "time": "14h10",
+    "time_pt": "14h10",
+    "time_en": "14:10 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-19T14:10:45+00:00",
+    "lastModifiedIso": "2026-04-19T14:10:45+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Blue Origin reutiliza o reforço New Glenn pela primeira vez no lançamento na Flórida"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Blue Origin reutiliza o reforço New Glenn pela primeira vez no lançamento na Flórida"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Blue Origin reuses New Glenn booster for first time at Florida launch"
+    ],
+    "srcUrl": "https://phys.org/news/2026-04-blue-reuses-glenn-booster-florida.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=blue-origin-reuses-new-glenn-booster-for-the-first-time-in-florida-launch",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=blue-origin-reuses-new-glenn-booster-for-the-first-time-in-florida-launch",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=blue-origin-reuses-new-glenn-booster-for-the-first-time-in-florida-launch&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 71,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "sun-news-auroras-light-up-skies-as-g2-storm-continues",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -637,7 +761,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -651,7 +775,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "can-we-find-alien-life-in-groups-of-similar-planets",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -766,7 +890,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "do-newton-and-einstein-s-laws-of-gravity-hold-across-the-cosmos",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -881,7 +1005,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "meteor-showers-are-here-10-easy-tips-for-watching",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -991,121 +1115,6 @@ window.postsData = [
       "source": 72,
       "evidence": 82,
       "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "simulating-how-black-holes-light-up-the-dark",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://earthsky.org/upl/2026/02/supermassive-black-hole-shredding-star-Univ-of-Oregon.jpg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Simulando como os buracos negros iluminam a escuridão",
-    "title_pt": "Simulando como os buracos negros iluminam a escuridão",
-    "title_en": "Simulating how black holes light up the dark",
-    "sub": "Quando os buracos negros destroem as estrelas, os destroços aquecem, criando explosões brilhantes. Novas simulações estão mostrando essas explosões com mais detalhes do que nunca.",
-    "sub_pt": "Quando os buracos negros destroem as estrelas, os destroços aquecem, criando explosões brilhantes. Novas simulações estão mostrando essas explosões com mais detalhes do que nunca.",
-    "sub_en": "When black holes tear apart stars, the wreckage heats up, creating brilliant flares. New simulations are showing these flares with more detail than ever before. The post.",
-    "excerpt": "Quando os buracos negros destroem as estrelas, os destroços aquecem, criando explosões brilhantes. Novas simulações estão mostrando essas explosões com mais detalhes do que nunca. O post Simulando como os buracos negros iluminam a escuridão apareceu pela.",
-    "excerpt_pt": "Quando os buracos negros destroem as estrelas, os destroços aquecem, criando explosões brilhantes. Novas simulações estão mostrando essas explosões com mais detalhes do que nunca. O post Simulando como os buracos negros iluminam a escuridão apareceu pela.",
-    "excerpt_en": "When black holes tear apart stars, the wreckage heats up, creating brilliant flares. New simulations are showing these flares with more detail than ever before. The post Simulating how black holes light up the dark first appeared on.",
-    "body": "<p>Quando os buracos negros destroem as estrelas, os destroços aquecem, criando explosões brilhantes. Novas simulações estão mostrando essas explosões com mais detalhes do que nunca. O post Simulando como os buracos negros iluminam a escuridão apareceu pela primeira vez em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Novas simulações estão mostrando essas explosões com mais detalhes do que nunca. O post Simulando como os buracos negros iluminam a escuridão apareceu pela primeira vez no EarthSky.</p><p>Pesquisadores da Universidade de Syracuse criaram novas simulações de alta resolução para mostrar como os buracos negros criam fluxos de detritos estelares. Imagem via DESY/Science Communication Lab/Syracuse University.</p><p>Notícias científicas, eventos noturnos e lindas fotos, tudo em um só lugar. Novas simulações de alta resolução confirmam que os detritos estelares formam um fluxo estreito que circunda o buraco negro e colide consigo mesmo.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/black-holes-simulations-light-up-the-dark/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Quando os buracos negros destroem as estrelas, os destroços aquecem, criando explosões brilhantes. Novas simulações estão mostrando essas explosões com mais detalhes do que nunca. O post Simulando como os buracos negros iluminam a escuridão apareceu pela primeira vez em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Novas simulações estão mostrando essas explosões com mais detalhes do que nunca. O post Simulando como os buracos negros iluminam a escuridão apareceu pela primeira vez no EarthSky.</p><p>Pesquisadores da Universidade de Syracuse criaram novas simulações de alta resolução para mostrar como os buracos negros criam fluxos de detritos estelares. Imagem via DESY/Science Communication Lab/Syracuse University.</p><p>Notícias científicas, eventos noturnos e lindas fotos, tudo em um só lugar. Novas simulações de alta resolução confirmam que os detritos estelares formam um fluxo estreito que circunda o buraco negro e colide consigo mesmo.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/black-holes-simulations-light-up-the-dark/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>When black holes tear apart stars, the wreckage heats up, creating brilliant flares. New simulations are showing these flares with more detail than ever before. The post Simulating how black holes light up the dark first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. New simulations are showing these flares with more detail than ever before. The post Simulating how black holes light up the dark first appeared on EarthSky.</p><p>Researchers at Syracuse University have created new high-resolution simulations to show how black holes create streams of stellar debris. Image via DESY/ Science Communication Lab/ Syracuse University.</p><p>Science news, night sky events and beautiful photos, all in one place. New high-resolution simulations confirm the stellar debris forms a narrow stream that encircles the black hole and collides with itself.</p><p>Syracuse University published this original story on April 9, 2026. It has the mass of about 4 million suns.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>The Astrophysical Journal Letters published a new study on March 9, 2026. Seeing the debris clearly That is where new high-resolution simulations are changing the picture.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/black-holes-simulations-light-up-the-dark/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Quando os buracos negros destroem as estrelas, os destroços aquecem, criando explosões brilhantes. Novas simulações estão mostrando essas explosões.",
-      "Dado-chave: Novas simulações estão mostrando essas explosões com mais detalhes do que nunca.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Quando os buracos negros destroem as estrelas, os destroços aquecem, criando explosões brilhantes. Novas simulações estão mostrando essas explosões.",
-      "Dado-chave: Novas simulações estão mostrando essas explosões com mais detalhes do que nunca.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: When black holes tear apart stars, the wreckage heats up, creating brilliant flares. New simulations are showing these flares with more detail than.",
-      "Key detail: New simulations are showing these flares with more detail than ever before.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "19 abr 2026",
-    "date_pt": "19 abr 2026",
-    "date_en": "19 Apr 2026",
-    "time": "10h04",
-    "time_pt": "10h04",
-    "time_en": "10:04 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-19T10:04:51+00:00",
-    "lastModifiedIso": "2026-04-19T10:04:51+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "EarthSky",
-      "Cosmos Week",
-      "Simulando como os buracos negros iluminam a escuridão"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "EarthSky",
-      "Cosmos Week",
-      "Simulando como os buracos negros iluminam a escuridão"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "EarthSky",
-      "Cosmos Week",
-      "Simulating how black holes light up the darkness"
-    ],
-    "srcUrl": "https://earthsky.org/space/black-holes-simulations-light-up-the-dark/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=simulating-how-black-holes-light-up-the-dark",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=simulating-how-black-holes-light-up-the-dark",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=simulating-how-black-holes-light-up-the-dark&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 88,
       "accessibility": 60,
       "novelty": 55
     }
@@ -1353,142 +1362,6 @@ window.postsData = [
   },
   {
     "id": 13,
-    "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://cdn.esahubble.org/archives/images/screen/heic2606a.jpg",
-    "inline_images": [
-      {
-        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2606a.jpg",
-        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025",
-        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2606a.jpg",
-        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025",
-        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2606b.jpg",
-        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
-        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
-        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025 (annotated)",
-        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
-        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
-        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025 (annotated)"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Divulgação Científica: Hubble inesperadamente captura cometa se rompendo",
-    "title_pt": "Divulgação Científica: Hubble inesperadamente captura cometa se rompendo",
-    "title_en": "Science Release: Hubble unexpectedly catches comet breaking up",
-    "sub": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias.",
-    "sub_pt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias.",
-    "sub_en": "Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before.",
-    "excerpt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA.",
-    "excerpt_pt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA.",
-    "excerpt_en": "Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA.",
-    "body": "<p>O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA observava. O cometa K1, cujo nome completo é Cometa C/2025 K1 (ATLAS), não deve ser confundido com o cometa interestelar 3I/ATLAS, não foi o alvo original de um estudo recente do Hubble.</p><p>Tivemos que encontrar um novo alvo, e logo quando o observamos, ele se quebrou, o que é a menor das mínimas chances.” Noonan não sabia que o K1 estava se fragmentando até ver as. “Então sabíamos que isso era algo muito, muito especial.” Este é um experimento que os pesquisadores sempre quiseram fazer com o Hubble.</p><p>As imagens do Hubble foram tiradas apenas um mês após a maior aproximação do K1 ao Sol, chamada periélio. O periélio do cometa estava dentro da órbita de Mercúrio, cerca de um terço da distância da Terra ao Sol.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA observava. O cometa K1, cujo nome completo é Cometa C/2025 K1 (ATLAS), não deve ser confundido com o cometa interestelar 3I/ATLAS, não foi o alvo original de um estudo recente do Hubble.</p><p>Tivemos que encontrar um novo alvo, e logo quando o observamos, ele se quebrou, o que é a menor das mínimas chances.” Noonan não sabia que o K1 estava se fragmentando até ver as. “Então sabíamos que isso era algo muito, muito especial.” Este é um experimento que os pesquisadores sempre quiseram fazer com o Hubble.</p><p>As imagens do Hubble foram tiradas apenas um mês após a maior aproximação do K1 ao Sol, chamada periélio. O periélio do cometa estava dentro da órbita de Mercúrio, cerca de um terço da distância da Terra ao Sol.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching. Comet K1, whose full name is Comet C/2025 K1 (ATLAS), not to be confused with interstellar comet 3I/ATLAS, was not the original target of a recent Hubble study.</p><p>We had to find a new target, and right when we observed it, it happened to break apart, which is the slimmest of slim chances.” Noonan didn’t know K1 was fragmenting until he. “So we knew this was something really, really special.” This is an experiment the researchers always wanted to do with Hubble.</p><p>Hubble’s images were taken just a month after K1’s closest approach to the Sun, called perihelion. The comet&#x27;s perihelion was inside Mercury’s orbit, about one-third the distance of the Earth from the Sun.</p><p>Hubble took three 20-second images, one on each day from 8 November through 10 November 2025. Already, ground-based analysis shows that K1 is chemically very strange, it is significantly depleted in carbon, compared with other comets.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Spectroscopic analysis from Hubble’s STIS ( Space Telescope Imaging Spectrograph ) and COS ( Cosmic Origins Spectrograph ) instruments is likely to reveal much more about the. The comet K1 is now a collection of fragments about 400 million kilometers from Earth.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora.",
-      "Dado-chave: Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora.",
-      "Dado-chave: Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had.",
-      "Key detail: Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "18 mar 2026",
-    "date_pt": "18 mar 2026",
-    "date_en": "18 Mar 2026",
-    "time": "14h00",
-    "time_pt": "14h00",
-    "time_en": "14:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-03-18T14:00:00+00:00",
-    "lastModifiedIso": "2026-03-18T14:00:00+00:00",
-    "source": "ESA Hubble News",
-    "sourceDomain": "esahubble.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Divulgação Científica",
-      "Hubble inesperadamente captura cometa se rompendo"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Divulgação Científica",
-      "Hubble inesperadamente captura cometa se rompendo"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Scientific Dissemination",
-      "Hubble unexpectedly captures comet breaking up"
-    ],
-    "srcUrl": "https://esahubble.org/news/heic2606/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 79,
-    "scoreBreakdown": {
-      "source": 89,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 14,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1624,7 +1497,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 14,
     "slug": "science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1763,7 +1636,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 15,
     "slug": "alma-confirms-rare-quasar-pair-at-redshift-5-7-in-merging-galaxies",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1899,7 +1772,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 16,
     "slug": "how-a-black-hole-and-a-shredded-star-could-light-up-a-galaxy",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2020,6 +1893,121 @@ window.postsData = [
       "relevance": 88,
       "accessibility": 60,
       "novelty": 52
+    }
+  },
+  {
+    "id": 17,
+    "slug": "simulating-how-black-holes-light-up-the-dark",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://earthsky.org/upl/2026/02/supermassive-black-hole-shredding-star-Univ-of-Oregon.jpg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Simulando como os buracos negros iluminam a escuridão",
+    "title_pt": "Simulando como os buracos negros iluminam a escuridão",
+    "title_en": "Simulating how black holes light up the dark",
+    "sub": "Quando os buracos negros destroem as estrelas, os destroços aquecem, criando explosões brilhantes. Novas simulações estão mostrando essas explosões com mais detalhes do que nunca.",
+    "sub_pt": "Quando os buracos negros destroem as estrelas, os destroços aquecem, criando explosões brilhantes. Novas simulações estão mostrando essas explosões com mais detalhes do que nunca.",
+    "sub_en": "When black holes tear apart stars, the wreckage heats up, creating brilliant flares. New simulations are showing these flares with more detail than ever before. The post.",
+    "excerpt": "Quando os buracos negros destroem as estrelas, os destroços aquecem, criando explosões brilhantes. Novas simulações estão mostrando essas explosões com mais detalhes do que nunca. O post Simulando como os buracos negros iluminam a escuridão apareceu pela.",
+    "excerpt_pt": "Quando os buracos negros destroem as estrelas, os destroços aquecem, criando explosões brilhantes. Novas simulações estão mostrando essas explosões com mais detalhes do que nunca. O post Simulando como os buracos negros iluminam a escuridão apareceu pela.",
+    "excerpt_en": "When black holes tear apart stars, the wreckage heats up, creating brilliant flares. New simulations are showing these flares with more detail than ever before. The post Simulating how black holes light up the dark first appeared on.",
+    "body": "<p>Quando os buracos negros destroem as estrelas, os destroços aquecem, criando explosões brilhantes. Novas simulações estão mostrando essas explosões com mais detalhes do que nunca. O post Simulando como os buracos negros iluminam a escuridão apareceu pela primeira vez em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Novas simulações estão mostrando essas explosões com mais detalhes do que nunca. O post Simulando como os buracos negros iluminam a escuridão apareceu pela primeira vez no EarthSky.</p><p>Pesquisadores da Universidade de Syracuse criaram novas simulações de alta resolução para mostrar como os buracos negros criam fluxos de detritos estelares. Imagem via DESY/Science Communication Lab/Syracuse University.</p><p>Notícias científicas, eventos noturnos e lindas fotos, tudo em um só lugar. Novas simulações de alta resolução confirmam que os detritos estelares formam um fluxo estreito que circunda o buraco negro e colide consigo mesmo.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/black-holes-simulations-light-up-the-dark/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Quando os buracos negros destroem as estrelas, os destroços aquecem, criando explosões brilhantes. Novas simulações estão mostrando essas explosões com mais detalhes do que nunca. O post Simulando como os buracos negros iluminam a escuridão apareceu pela primeira vez em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Novas simulações estão mostrando essas explosões com mais detalhes do que nunca. O post Simulando como os buracos negros iluminam a escuridão apareceu pela primeira vez no EarthSky.</p><p>Pesquisadores da Universidade de Syracuse criaram novas simulações de alta resolução para mostrar como os buracos negros criam fluxos de detritos estelares. Imagem via DESY/Science Communication Lab/Syracuse University.</p><p>Notícias científicas, eventos noturnos e lindas fotos, tudo em um só lugar. Novas simulações de alta resolução confirmam que os detritos estelares formam um fluxo estreito que circunda o buraco negro e colide consigo mesmo.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/black-holes-simulations-light-up-the-dark/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>When black holes tear apart stars, the wreckage heats up, creating brilliant flares. New simulations are showing these flares with more detail than ever before. The post Simulating how black holes light up the dark first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. New simulations are showing these flares with more detail than ever before. The post Simulating how black holes light up the dark first appeared on EarthSky.</p><p>Researchers at Syracuse University have created new high-resolution simulations to show how black holes create streams of stellar debris. Image via DESY/ Science Communication Lab/ Syracuse University.</p><p>Science news, night sky events and beautiful photos, all in one place. New high-resolution simulations confirm the stellar debris forms a narrow stream that encircles the black hole and collides with itself.</p><p>Syracuse University published this original story on April 9, 2026. It has the mass of about 4 million suns.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>The Astrophysical Journal Letters published a new study on March 9, 2026. Seeing the debris clearly That is where new high-resolution simulations are changing the picture.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/black-holes-simulations-light-up-the-dark/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Quando os buracos negros destroem as estrelas, os destroços aquecem, criando explosões brilhantes. Novas simulações estão mostrando essas explosões.",
+      "Dado-chave: Novas simulações estão mostrando essas explosões com mais detalhes do que nunca.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Quando os buracos negros destroem as estrelas, os destroços aquecem, criando explosões brilhantes. Novas simulações estão mostrando essas explosões.",
+      "Dado-chave: Novas simulações estão mostrando essas explosões com mais detalhes do que nunca.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: When black holes tear apart stars, the wreckage heats up, creating brilliant flares. New simulations are showing these flares with more detail than.",
+      "Key detail: New simulations are showing these flares with more detail than ever before.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "19 abr 2026",
+    "date_pt": "19 abr 2026",
+    "date_en": "19 Apr 2026",
+    "time": "10h04",
+    "time_pt": "10h04",
+    "time_en": "10:04 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-19T10:04:51+00:00",
+    "lastModifiedIso": "2026-04-19T10:04:51+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "EarthSky",
+      "Cosmos Week",
+      "Simulando como os buracos negros iluminam a escuridão"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "EarthSky",
+      "Cosmos Week",
+      "Simulando como os buracos negros iluminam a escuridão"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "EarthSky",
+      "Cosmos Week",
+      "Simulating how black holes light up the darkness"
+    ],
+    "srcUrl": "https://earthsky.org/space/black-holes-simulations-light-up-the-dark/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=simulating-how-black-holes-light-up-the-dark",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=simulating-how-black-holes-light-up-the-dark",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=simulating-how-black-holes-light-up-the-dark&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
     }
   },
   {
@@ -2790,7 +2778,7 @@ window.postsData = [
       "Phys.org Space",
       "Cosmos Week",
       "The domino effect of solar flares is not limited to the sun",
-      "revela uma varredura de 16.000 estrelas"
+      "reveals a scan of 16,000 stars"
     ],
     "srcUrl": "https://phys.org/news/2026-04-solar-flares-domino-effect-isnt.html",
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=solar-flares-domino-effect-isn-t-limited-to-the-sun-16-000-star-sweep-reveals",
@@ -2928,6 +2916,142 @@ window.postsData = [
   },
   {
     "id": 25,
+    "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://cdn.esahubble.org/archives/images/screen/heic2606a.jpg",
+    "inline_images": [
+      {
+        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2606a.jpg",
+        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025",
+        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2606a.jpg",
+        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025",
+        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2606b.jpg",
+        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
+        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
+        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025 (annotated)",
+        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
+        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
+        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025 (annotated)"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Divulgação Científica: Hubble inesperadamente captura cometa se rompendo",
+    "title_pt": "Divulgação Científica: Hubble inesperadamente captura cometa se rompendo",
+    "title_en": "Science Release: Hubble unexpectedly catches comet breaking up",
+    "sub": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias.",
+    "sub_pt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias.",
+    "sub_en": "Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before.",
+    "excerpt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA.",
+    "excerpt_pt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA.",
+    "excerpt_en": "Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA.",
+    "body": "<p>O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA observava. O cometa K1, cujo nome completo é Cometa C/2025 K1 (ATLAS), não deve ser confundido com o cometa interestelar 3I/ATLAS, não foi o alvo original de um estudo recente do Hubble.</p><p>Tivemos que encontrar um novo alvo, e logo quando o observamos, ele se quebrou, o que é a menor das mínimas chances.” Noonan não sabia que o K1 estava se fragmentando até ver as. “Então sabíamos que isso era algo muito, muito especial.” Este é um experimento que os pesquisadores sempre quiseram fazer com o Hubble.</p><p>As imagens do Hubble foram tiradas apenas um mês após a maior aproximação do K1 ao Sol, chamada periélio. O periélio do cometa estava dentro da órbita de Mercúrio, cerca de um terço da distância da Terra ao Sol.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA observava. O cometa K1, cujo nome completo é Cometa C/2025 K1 (ATLAS), não deve ser confundido com o cometa interestelar 3I/ATLAS, não foi o alvo original de um estudo recente do Hubble.</p><p>Tivemos que encontrar um novo alvo, e logo quando o observamos, ele se quebrou, o que é a menor das mínimas chances.” Noonan não sabia que o K1 estava se fragmentando até ver as. “Então sabíamos que isso era algo muito, muito especial.” Este é um experimento que os pesquisadores sempre quiseram fazer com o Hubble.</p><p>As imagens do Hubble foram tiradas apenas um mês após a maior aproximação do K1 ao Sol, chamada periélio. O periélio do cometa estava dentro da órbita de Mercúrio, cerca de um terço da distância da Terra ao Sol.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching. Comet K1, whose full name is Comet C/2025 K1 (ATLAS), not to be confused with interstellar comet 3I/ATLAS, was not the original target of a recent Hubble study.</p><p>We had to find a new target, and right when we observed it, it happened to break apart, which is the slimmest of slim chances.” Noonan didn’t know K1 was fragmenting until he. “So we knew this was something really, really special.” This is an experiment the researchers always wanted to do with Hubble.</p><p>Hubble’s images were taken just a month after K1’s closest approach to the Sun, called perihelion. The comet&#x27;s perihelion was inside Mercury’s orbit, about one-third the distance of the Earth from the Sun.</p><p>Hubble took three 20-second images, one on each day from 8 November through 10 November 2025. Already, ground-based analysis shows that K1 is chemically very strange, it is significantly depleted in carbon, compared with other comets.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Spectroscopic analysis from Hubble’s STIS ( Space Telescope Imaging Spectrograph ) and COS ( Cosmic Origins Spectrograph ) instruments is likely to reveal much more about the. The comet K1 is now a collection of fragments about 400 million kilometers from Earth.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora.",
+      "Dado-chave: Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora.",
+      "Dado-chave: Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had.",
+      "Key detail: Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "18 mar 2026",
+    "date_pt": "18 mar 2026",
+    "date_en": "18 Mar 2026",
+    "time": "14h00",
+    "time_pt": "14h00",
+    "time_en": "14:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-03-18T14:00:00+00:00",
+    "lastModifiedIso": "2026-03-18T14:00:00+00:00",
+    "source": "ESA Hubble News",
+    "sourceDomain": "esahubble.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Divulgação Científica",
+      "Hubble inesperadamente captura cometa se rompendo"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Divulgação Científica",
+      "Hubble inesperadamente captura cometa se rompendo"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Scientific Dissemination",
+      "Hubble unexpectedly captures comet breaking up"
+    ],
+    "srcUrl": "https://esahubble.org/news/heic2606/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 79,
+    "scoreBreakdown": {
+      "source": 89,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 26,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3054,7 +3178,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "science-release-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3190,7 +3314,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "csda-quality-assessment-report-evaluates-satellogic-newsat-data",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3295,7 +3419,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "quality-assessment-report-evaluates-tomorrow-io-precipitation-radar-data",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3400,7 +3524,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "nasa-artemis-ii-human-research-data-methodology-challenge",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3502,139 +3626,6 @@ window.postsData = [
       "relevance": 80,
       "accessibility": 60,
       "novelty": 52
-    }
-  },
-  {
-    "id": 30,
-    "slug": "desi-completes-planned-3d-map-of-the-universe-and-continues-exploring",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/desi-completes-planned.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/desi-completes-planned.jpg",
-        "caption": "Uma pequena fatia do mapa produzido pela pesquisa de cinco anos do DESI mostra galáxias e quasares acima e abaixo do plano da Via Láctea. A estrutura em grande escala do universo é visível na imagem ampliada. A Terra está no centro do.",
-        "caption_pt": "Uma pequena fatia do mapa produzido pela pesquisa de cinco anos do DESI mostra galáxias e quasares acima e abaixo do plano da Via Láctea. A estrutura em grande escala do universo é visível na imagem ampliada. A Terra está no centro do.",
-        "caption_en": "A thin slice of the map produced by the DESI five-year survey shows galaxies and quasars above and below the plane of the Milky Way. The universe's large-scale structure is visible in the magnified inset. Earth lies at the center of the.",
-        "alt": "DESI conclui mapa 3D planejado do universo e continua explorando",
-        "alt_pt": "DESI conclui mapa 3D planejado do universo e continua explorando",
-        "alt_en": "DESI completes planned 3D map of the universe and continues exploring"
-      },
-      {
-        "src": "https://scx0.b-cdn.net/pic/llock.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx0.b-cdn.net/pic/Robert.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "DESI conclui mapa 3D planejado do universo e continua explorando",
-    "title_pt": "DESI conclui mapa 3D planejado do universo e continua explorando",
-    "title_en": "DESI completes planned 3D map of the universe and continues exploring",
-    "sub": "O Instrumento Espectroscópico de Energia Escura completou com sucesso o maior mapa 3D de alta resolução do universo já feito, um marco importante na compreensão da força que.",
-    "sub_pt": "O Instrumento Espectroscópico de Energia Escura completou com sucesso o maior mapa 3D de alta resolução do universo já feito, um marco importante na compreensão da força que.",
-    "sub_en": "The Dark Energy Spectroscopic Instrument has successfully completed the largest high-resolution 3D map of the universe ever made, a major milestone in understanding the force.",
-    "excerpt": "O Instrumento Espectroscópico de Energia Escura completou com sucesso o maior mapa 3D de alta resolução do universo já feito, um marco importante na compreensão da força que impulsiona a expansão cósmica. O marco foi alcançado quando o DESI.",
-    "excerpt_pt": "O Instrumento Espectroscópico de Energia Escura completou com sucesso o maior mapa 3D de alta resolução do universo já feito, um marco importante na compreensão da força que impulsiona a expansão cósmica. O marco foi alcançado quando o DESI.",
-    "excerpt_en": "The Dark Energy Spectroscopic Instrument has successfully completed the largest high-resolution 3D map of the universe ever made, a major milestone in understanding the force driving cosmic expansion. The milestone was reached when DESI's.",
-    "body": "<p>O Instrumento Espectroscópico de Energia Escura completou com sucesso o maior mapa 3D de alta resolução do universo já feito, um marco importante na compreensão da força que impulsiona a expansão cósmica. O marco foi alcançado quando o DESI. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. O Instrumento Espectroscópico de Energia Escura (DESI) completou com sucesso o maior mapa 3D de alta resolução do universo já feito, um marco importante na compreensão da força. A luz das galáxias mais distantes mostradas tem 11 bilhões de anos quando chega à Terra.</p><p>Colaboração Claire Lamman/DESI O Instrumento Espectroscópico de Energia Escura (DESI) concluiu com sucesso o maior mapa 3D de alta resolução do universo já feito, um marco. O marco foi alcançado quando os 5.000 sensores de fibra óptica do DESI capturaram as suas observações finais programadas, visando uma região do céu perto da Ursa Menor.</p><p>Os investigadores estão a utilizar o conjunto de dados para investigar a energia escura, a força misteriosa que constitui cerca de 70% do universo e impulsiona a sua expansão. Ao comparar a forma como as galáxias se agrupavam há milhares de milhões de anos com a sua distribuição actual, a colaboração DESI traçou a influência da energia escura ao longo.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-desi-3d-universe-exploring.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O Instrumento Espectroscópico de Energia Escura completou com sucesso o maior mapa 3D de alta resolução do universo já feito, um marco importante na compreensão da força que impulsiona a expansão cósmica. O marco foi alcançado quando o DESI. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. O Instrumento Espectroscópico de Energia Escura (DESI) completou com sucesso o maior mapa 3D de alta resolução do universo já feito, um marco importante na compreensão da força. A luz das galáxias mais distantes mostradas tem 11 bilhões de anos quando chega à Terra.</p><p>Colaboração Claire Lamman/DESI O Instrumento Espectroscópico de Energia Escura (DESI) concluiu com sucesso o maior mapa 3D de alta resolução do universo já feito, um marco. O marco foi alcançado quando os 5.000 sensores de fibra óptica do DESI capturaram as suas observações finais programadas, visando uma região do céu perto da Ursa Menor.</p><p>Os investigadores estão a utilizar o conjunto de dados para investigar a energia escura, a força misteriosa que constitui cerca de 70% do universo e impulsiona a sua expansão. Ao comparar a forma como as galáxias se agrupavam há milhares de milhões de anos com a sua distribuição actual, a colaboração DESI traçou a influência da energia escura ao longo.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-desi-3d-universe-exploring.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The Dark Energy Spectroscopic Instrument has successfully completed the largest high-resolution 3D map of the universe ever made, a major milestone in understanding the force driving cosmic expansion. The milestone was reached when DESI&#x27;s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. The Dark Energy Spectroscopic Instrument (DESI) has successfully completed the largest high-resolution 3D map of the universe ever made, a major milestone in understanding the. Light from the furthest galaxies shown is 11 billion years old by the time it reaches Earth.</p><p>Claire Lamman/DESI collaboration The Dark Energy Spectroscopic Instrument ( DESI ) has successfully completed the largest high-resolution 3D map of the universe ever made, a major. The milestone was reached when DESI&#x27;s 5,000 fiber-optic sensors captured their final scheduled observations, targeting a region of sky near the Little Dipper.</p><p>Researchers are using the dataset to investigate dark energy, the mysterious force that makes up roughly 70% of the universe and drives its accelerating expansion. By comparing how galaxies clustered billions of years ago with their distribution today, the DESI collaboration has traced dark energy&#x27;s influence across 11 billion years of.</p><p>Early results from the first three years of DESI data hinted that dark energy, long thought to be a &quot;cosmological constant,&quot; might be evolving over time. We&#x27;ve barely scratched the surface so far, and I&#x27;m excited to see what else we can learn.&quot; DESI&#x27;s quest to understand dark energy is a global endeavor, with more than 900.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>We&#x27;re going to celebrate completion of the original survey and then get started on the work of churning through the data, because we&#x27;re all curious about what new surprises are. The collaboration will now begin processing the full dataset, with the first dark energy results from DESI&#x27;s full five-year survey expected in 2027.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-desi-3d-universe-exploring.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O Instrumento Espectroscópico de Energia Escura completou com sucesso o maior mapa 3D de alta resolução do universo já feito, um marco importante na.",
-      "Dado-chave: O Instrumento Espectroscópico de Energia Escura (DESI) completou com sucesso o maior mapa 3D de alta resolução do universo já feito, um marco.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O Instrumento Espectroscópico de Energia Escura completou com sucesso o maior mapa 3D de alta resolução do universo já feito, um marco importante na.",
-      "Dado-chave: O Instrumento Espectroscópico de Energia Escura (DESI) completou com sucesso o maior mapa 3D de alta resolução do universo já feito, um marco.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The Dark Energy Spectroscopic Instrument has successfully completed the largest high-resolution 3D map of the universe ever made, a major milestone.",
-      "Key detail: The Dark Energy Spectroscopic Instrument (DESI) has successfully completed the largest high-resolution 3D map of the universe ever made, a major.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "18 abr 2026",
-    "date_pt": "18 abr 2026",
-    "date_en": "18 Apr 2026",
-    "time": "20h00",
-    "time_pt": "20h00",
-    "time_en": "20:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-18T20:00:02+00:00",
-    "lastModifiedIso": "2026-04-18T20:00:02+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Cosmologia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "DESI conclui mapa 3D planejado do universo e continua explorando"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "DESI conclui mapa 3D planejado do universo e continua explorando"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "Phys.org Space",
-      "Cosmos Week",
-      "DESI completes planned 3D map of the universe and continues exploring"
-    ],
-    "srcUrl": "https://phys.org/news/2026-04-desi-3d-universe-exploring.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=desi-completes-planned-3d-map-of-the-universe-and-continues-exploring",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=desi-completes-planned-3d-map-of-the-universe-and-continues-exploring",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=desi-completes-planned-3d-map-of-the-universe-and-continues-exploring&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 77,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
     }
   },
   {

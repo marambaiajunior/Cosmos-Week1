@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 19 Apr 2026 17:51:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 19:08:14 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>A análise automatizada da tomografia computadorizada pode acelerar as avaliações clínicas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=automated-ct-scan-analysis-could-fast-track-clinical-assessments</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=automated-ct-scan-analysis-could-fast-track-clinical-assessments</guid>
-              <pubDate>Sun, 19 Apr 2026 17:49:52 +0000</pubDate>
+              <pubDate>Sun, 19 Apr 2026 19:05:14 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Uma pesquisa financiada pelo NIH sugere que uma ferramenta alimentada por IA poderia agilizar diagnósticos e revelar marcadores precoces de doenças crônicas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A análise automatizada da tomografia computadorizada pode acelerar as avaliações clínicas</category>
@@ -21,7 +21,7 @@
               <title>Pesquisadores desenvolvem ferramenta de IA para prever pacientes em risco de violência por parceiro íntimo</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=researchers-develop-ai-tool-to-predict-patients-at-risk-of-intimate-partner-violence</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=researchers-develop-ai-tool-to-predict-patients-at-risk-of-intimate-partner-violence</guid>
-              <pubDate>Sun, 19 Apr 2026 17:49:52 +0000</pubDate>
+              <pubDate>Sun, 19 Apr 2026 19:05:14 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Financiado pelo NIH, automatizado. suporte à decisão clínica poderia&amp;nbsp. facilitar&amp;nbsp. oportuna&amp;nbsp. intervenções para&amp;nbsp. em risco. pacientes anos&amp;nbsp. antes que eles pudessem procurar ajuda.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Pesquisadores desenvolvem ferramenta de IA para prever pacientes em risco de violência por parceiro íntimo</category>
@@ -31,7 +31,7 @@
               <title>Os resultados dos ensaios clínicos apoiam o uso semanal de buprenorfina de liberação prolongada para o tratamento do transtorno por uso de opioides durante a gravidez</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-results-support-use-of-weekly-extended-release-buprenorphine-for-treatment-of-opi</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-results-support-use-of-weekly-extended-release-buprenorphine-for-treatment-of-opi</guid>
-              <pubDate>Sun, 19 Apr 2026 17:49:52 +0000</pubDate>
+              <pubDate>Sun, 19 Apr 2026 19:05:14 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Estudo apoiado pelo NIH mostra. isso&amp;nbsp. tratamento&amp;nbsp. resultou em&amp;nbsp. taxas mais altas de &amp; nbsp. ilícito&amp;nbsp. abstinência de opioides do que a atual. padrão de atendimento.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Os resultados dos ensaios clínicos apoiam o uso semanal de buprenorfina de liberação prolongada para o tratamento do transtorno por uso de opioides durante a gravidez</category>
@@ -41,22 +41,32 @@
               <title>NIH investe US$ 150 milhões em pesquisas humanas para reduzir o uso de modelos animais</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-invests-150-million-in-human-based-research-to-reduce-use-of-animal-models</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-invests-150-million-in-human-based-research-to-reduce-use-of-animal-models</guid>
-              <pubDate>Sun, 19 Apr 2026 17:49:52 +0000</pubDate>
+              <pubDate>Sun, 19 Apr 2026 19:05:14 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Novo programa irá se desenvolver,&amp;nbsp. validar&amp;nbsp. e padronizar ferramentas de pesquisa para&amp;nbsp. desenvolver modelos de doenças mais sofisticados e relevantes.</description>
+              <description>Novo programa. irá se desenvolver,&amp;nbsp. validar&amp;nbsp. e padronizar ferramentas de pesquisa para. desenvolver modelos de doenças mais sofisticados e relevantes.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>NIH investe US$ 150 milhões em pesquisas humanas para reduzir o uso de modelos animais</category>
               <source url="https://www.nih.gov/news-events/news-releases/nih-invests-150-million-human-based-research-reduce-use-animal-models">NIH News Releases</source>
-              <content:encoded>Novo programa irá se desenvolver,&amp;nbsp. validar&amp;nbsp. e padronizar ferramentas de pesquisa para&amp;nbsp. desenvolver modelos de doenças mais sofisticados e relevantes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. O nov</content:encoded>
+              <content:encoded>Novo programa. irá se desenvolver,&amp;nbsp. validar&amp;nbsp. e padronizar ferramentas de pesquisa para. desenvolver modelos de doenças mais sofisticados e relevantes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. O novo pr</content:encoded>
             </item><item>
               <title>A inflamação crônica deixa uma impressão duradoura nas células-tronco intestinais, aumentando o risco de câncer colorretal</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=chronic-inflammation-leaves-long-lasting-impression-on-gut-stem-cells-increasing-colorectal-canc</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=chronic-inflammation-leaves-long-lasting-impression-on-gut-stem-cells-increasing-colorectal-canc</guid>
-              <pubDate>Sun, 19 Apr 2026 17:49:52 +0000</pubDate>
+              <pubDate>Sun, 19 Apr 2026 19:05:14 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Um estudo em animais financiado pelo NIH descobriu que memórias hereditárias de danos persistiram nas células meses após o fim da inflamação.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A inflamação crônica deixa uma impressão duradoura nas células</category>
               <source url="https://www.nih.gov/news-events/news-releases/chronic-inflammation-leaves-long-lasting-impression-gut-stem-cells-increasing-colorectal-cancer-risk">NIH News Releases</source>
               <content:encoded>Um estudo em animais financiado pelo NIH descobriu que memórias hereditárias de danos persistiram nas células meses após o fim da inflamação. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Num novo estudo, financiado </content:encoded>
+            </item><item>
+              <title>Magmas de Mercúrio ricos em enxofre comportam-se de maneira diferente dos da Terra</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do</guid>
+              <pubDate>Sun, 19 Apr 2026 19:00:01 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Mercúrio é um planeta pequeno e rochoso sobre o qual os pesquisadores sabem relativamente pouco. Duas missões, que fizeram leituras à medida que passavam pelo planeta, revelaram que Mercúrio é coberto por uma crosta pobre em ferro e rica em enxofre. Também é.</description>
+              <category>Ciências da Terra</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Magmas de Mercúrio ricos em enxofre comportam</category>
+              <source url="https://phys.org/news/2026-04-sulfur-rich-mercury-magmas-differently.html">Phys.org Space</source>
+              <content:encoded>Mercúrio é um planeta pequeno e rochoso sobre o qual os pesquisadores sabem relativamente pouco. Duas missões, que fizeram leituras à medida que passavam pelo planeta, revelaram que Mercúrio é coberto por uma crosta pobre em ferro e rica em enxofre. Também é reduzido. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial m</content:encoded>
             </item><item>
               <title>Essas explosões azuis brilhantes podem nascer quando uma estrela morta compacta colide com uma estrela Wolf-Rayet</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=these-blazing-blue-explosions-may-be-born-when-a-compact-dead-star-slams-into-a-wolf-rayet-star</link>
@@ -98,16 +108,6 @@
               <source url="https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/">EarthSky</source>
               <content:encoded>Notícias do Sol para 19 de abril de 2026: Uma tempestade G2 iluminou o céu com uma aurora. O vento solar rápido atingiu um pico perto de 700 km/s. Mais ataques G1 e G2 são possíveis neste fim de semana. A postagem Notícias do Sol: Auroras iluminam o céu enquanto a tempestade G2. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura</content:encoded>
             </item><item>
-              <title>Podemos encontrar vida alienígena em grupos de planetas semelhantes?</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=can-we-find-alien-life-in-groups-of-similar-planets</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=can-we-find-alien-life-in-groups-of-similar-planets</guid>
-              <pubDate>Sun, 19 Apr 2026 12:03:50 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Um novo estudo do Japão sugere que poderíamos procurar sinais de vida alienígena procurando planetas suspeitamente semelhantes próximos uns dos outros. O post Podemos encontrar vida alienígena em grupos de planetas semelhantes? apareceu pela primeira vez no.</description>
-              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>Podemos encontrar vida alienígena em grupos de planetas semelhantes?</category>
-              <source url="https://earthsky.org/space/suspiciously-similar-planets-sign-of-alien-life/">EarthSky</source>
-              <content:encoded>Um novo estudo do Japão sugere que poderíamos procurar sinais de vida alienígena procurando planetas suspeitamente semelhantes próximos uns dos outros. O post Podemos encontrar vida alienígena em grupos de planetas semelhantes? apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial ma</content:encoded>
-            </item><item>
               <title>Como acompanhar o lançamento do Smile ao vivo</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=how-to-follow-the-smile-launch-live</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=how-to-follow-the-smile-launch-live</guid>
@@ -148,16 +148,6 @@
               <source url="https://phys.org/news/2026-04-desi-3d-universe-exploring.html">Phys.org Space</source>
               <content:encoded>O Instrumento Espectroscópico de Energia Escura completou com sucesso o maior mapa 3D de alta resolução do universo já feito, um marco importante na compreensão da força que impulsiona a expansão cósmica. O marco foi alcançado quando o DESI. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independ</content:encoded>
             </item><item>
-              <title>ALMA confirma par raro de quasares com desvio para o vermelho 5,7 em galáxias em fusão</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=alma-confirms-rare-quasar-pair-at-redshift-5-7-in-merging-galaxies</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=alma-confirms-rare-quasar-pair-at-redshift-5-7-in-merging-galaxies</guid>
-              <pubDate>Thu, 16 Apr 2026 13:32:51 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Usando o Atacama Large Millimeter/submillimeter Array, os astrônomos descobriram um par próximo de quasares, que é o resultado de uma fusão de galáxias massivas e distantes. A detecção do par de quasares foi detalhada em um artigo de pesquisa publicado.</description>
-              <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>ALMA confirma par raro de quasares com desvio para o vermelho 5</category>
-              <source url="https://phys.org/news/2026-04-alma-rare-quasar-pair-redshift.html">Phys.org Space</source>
-              <content:encoded>Usando o Atacama Large Millimeter/submillimeter Array, os astrônomos descobriram um par próximo de quasares, que é o resultado de uma fusão de galáxias massivas e distantes. A detecção do par de quasares foi detalhada em um artigo de pesquisa publicado. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantit</content:encoded>
-            </item><item>
               <title>Como um buraco negro e uma estrela desfiada poderiam iluminar uma galáxia</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=how-a-black-hole-and-a-shredded-star-could-light-up-a-galaxy</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=how-a-black-hole-and-a-shredded-star-could-light-up-a-galaxy</guid>
@@ -167,6 +157,16 @@
               <category>Astrofísica</category><category>Universe Today</category><category>Cosmos Week</category><category>Como um buraco negro e uma estrela desfiada poderiam iluminar uma galáxia</category>
               <source url="https://www.universetoday.com/articles/how-a-black-hole-and-a-shredded-star-could-light-up-a-galaxy">Universe Today</source>
               <content:encoded>Em 2014, um estranho objeto nublado chamado G2 aproximou-se de Sagitário A*, o buraco negro supermassivo no coração da Via Láctea. Os astrônomos ficaram bastante entusiasmados, em parte porque pensaram que ele poderia ser destruído. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de </content:encoded>
+            </item><item>
+              <title>Simulando como os buracos negros iluminam a escuridão</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=simulating-how-black-holes-light-up-the-dark</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=simulating-how-black-holes-light-up-the-dark</guid>
+              <pubDate>Sun, 19 Apr 2026 10:04:51 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Quando os buracos negros destroem as estrelas, os destroços aquecem, criando explosões brilhantes. Novas simulações estão mostrando essas explosões com mais detalhes do que nunca. O post Simulando como os buracos negros iluminam a escuridão apareceu pela.</description>
+              <category>Astrofísica</category><category>EarthSky</category><category>Cosmos Week</category><category>Simulando como os buracos negros iluminam a escuridão</category>
+              <source url="https://earthsky.org/space/black-holes-simulations-light-up-the-dark/">EarthSky</source>
+              <content:encoded>Quando os buracos negros destroem as estrelas, os destroços aquecem, criando explosões brilhantes. Novas simulações estão mostrando essas explosões com mais detalhes do que nunca. O post Simulando como os buracos negros iluminam a escuridão apareceu pela primeira vez em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal </content:encoded>
             </item><item>
               <title>A vida além das bioassinaturas: um novo método na busca pela vida</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=life-beyond-biosignatures-a-new-method-in-the-search-for-life</link>
@@ -193,10 +193,10 @@
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=cloudy-with-a-chance-of-metals-indications-of-co-2-in-the-atmosphere-of-gj-1214-b-from-high-reso</guid>
               <pubDate>Thu, 16 Apr 2026 17:54:55 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Os exoplanetas sub-Netuno exibem frequentemente espectros de transmissão silenciados, sendo GJ 1214 b o exemplo mais proeminente. Após anos de intensas campanhas de observação produzindo espectros planetários inexpressivos, observações recentes com o JWST.</description>
+              <description>Os exoplanetas subnetunos exibem frequentemente espectros de transmissão silenciados, sendo GJ 1214 b o exemplo mais proeminente. Após anos de intensas campanhas de observação produzindo espectros planetários inexpressivos, observações recentes com o JWST.</description>
               <category>Exoplanetas</category><category>arXiv Astrophysics</category><category>Cosmos Week</category><category>Nublado com possibilidade de metais</category>
               <source url="https://arxiv.org/abs/2604.15292v1">arXiv Astrophysics</source>
-              <content:encoded>Os exoplanetas sub-Netuno exibem frequentemente espectros de transmissão silenciados, sendo GJ 1214 b o exemplo mais proeminente. Após anos de intensas campanhas de observação produzindo espectros planetários inexpressivos, observações recentes com o JWST. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando </content:encoded>
+              <content:encoded>Os exoplanetas subnetunos exibem frequentemente espectros de transmissão silenciados, sendo GJ 1214 b o exemplo mais proeminente. Após anos de intensas campanhas de observação produzindo espectros planetários inexpressivos, observações recentes com o JWST. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando </content:encoded>
             </item><item>
               <title>Voluntários descobrem eventos climáticos espaciais raros usando seus ouvidos</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=volunteers-discover-rare-space-weather-events-using-their-ears</link>

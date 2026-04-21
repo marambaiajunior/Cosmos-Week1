@@ -5,23 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 17:40:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 19:27:12 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
-              <title>A análise automatizada da tomografia computadorizada pode acelerar as avaliações clínicas</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=automated-ct-scan-analysis-could-fast-track-clinical-assessments</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=automated-ct-scan-analysis-could-fast-track-clinical-assessments</guid>
-              <pubDate>Tue, 21 Apr 2026 17:37:25 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Uma pesquisa financiada pelo NIH sugere que uma ferramenta alimentada por IA poderia agilizar diagnósticos e revelar marcadores precoces de doenças crônicas.</description>
-              <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A análise automatizada da tomografia computadorizada pode acelerar as avaliações clínicas</category>
-              <source url="https://www.nih.gov/news-events/news-releases/automated-ct-scan-analysis-could-fast-track-clinical-assessments">NIH News Releases</source>
-              <content:encoded>Uma pesquisa financiada pelo NIH sugere que uma ferramenta alimentada por IA poderia agilizar diagnósticos e revelar marcadores precoces de doenças crônicas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Os cientista</content:encoded>
-            </item><item>
               <title>Pesquisadores desenvolvem ferramenta de IA para prever pacientes em risco de violência por parceiro íntimo</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=researchers-develop-ai-tool-to-predict-patients-at-risk-of-intimate-partner-violence</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=researchers-develop-ai-tool-to-predict-patients-at-risk-of-intimate-partner-violence</guid>
-              <pubDate>Tue, 21 Apr 2026 17:37:25 +0000</pubDate>
+              <pubDate>Tue, 21 Apr 2026 19:24:51 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Financiado pelo NIH, automatizado. suporte à decisão clínica poderia&amp;nbsp. facilitar&amp;nbsp. oportuna&amp;nbsp. intervenções para&amp;nbsp. em risco. pacientes anos&amp;nbsp. antes que eles pudessem procurar ajuda.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Pesquisadores desenvolvem ferramenta de IA para prever pacientes em risco de violência por parceiro íntimo</category>
@@ -31,7 +21,7 @@
               <title>Os resultados dos ensaios clínicos apoiam o uso semanal de buprenorfina de liberação prolongada para o tratamento do transtorno por uso de opioides durante a gravidez</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-results-support-use-of-weekly-extended-release-buprenorphine-for-treatment-of-opi</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-results-support-use-of-weekly-extended-release-buprenorphine-for-treatment-of-opi</guid>
-              <pubDate>Tue, 21 Apr 2026 17:37:25 +0000</pubDate>
+              <pubDate>Tue, 21 Apr 2026 19:24:51 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Estudo apoiado pelo NIH mostra. isso&amp;nbsp. tratamento&amp;nbsp. resultou em&amp;nbsp. taxas mais altas de &amp; nbsp. ilícito&amp;nbsp. abstinência de opioides do que a atual. padrão de atendimento.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Os resultados dos ensaios clínicos apoiam o uso semanal de buprenorfina de liberação prolongada para o tratamento do transtorno por uso de opioides durante a gravidez</category>
@@ -41,7 +31,7 @@
               <title>NIH investe US$ 150 milhões em pesquisas humanas para reduzir o uso de modelos animais</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-invests-150-million-in-human-based-research-to-reduce-use-of-animal-models</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-invests-150-million-in-human-based-research-to-reduce-use-of-animal-models</guid>
-              <pubDate>Tue, 21 Apr 2026 17:37:25 +0000</pubDate>
+              <pubDate>Tue, 21 Apr 2026 19:24:51 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Novo programa irá se desenvolver,&amp;nbsp. validar&amp;nbsp. e padronizar ferramentas de pesquisa para&amp;nbsp. desenvolver modelos de doenças mais sofisticados e relevantes.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>NIH investe US$ 150 milhões em pesquisas humanas para reduzir o uso de modelos animais</category>
@@ -51,62 +41,92 @@
               <title>A inflamação crônica deixa uma impressão duradoura nas células-tronco intestinais, aumentando o risco de câncer colorretal</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=chronic-inflammation-leaves-long-lasting-impression-on-gut-stem-cells-increasing-colorectal-canc</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=chronic-inflammation-leaves-long-lasting-impression-on-gut-stem-cells-increasing-colorectal-canc</guid>
-              <pubDate>Tue, 21 Apr 2026 17:37:25 +0000</pubDate>
+              <pubDate>Tue, 21 Apr 2026 19:24:51 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Um estudo em animais financiado pelo NIH descobriu que memórias hereditárias de danos persistiram nas células meses após o fim da inflamação.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A inflamação crônica deixa uma impressão duradoura nas células</category>
               <source url="https://www.nih.gov/news-events/news-releases/chronic-inflammation-leaves-long-lasting-impression-gut-stem-cells-increasing-colorectal-cancer-risk">NIH News Releases</source>
               <content:encoded>Um estudo em animais financiado pelo NIH descobriu que memórias hereditárias de danos persistiram nas células meses após o fim da inflamação. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Num novo estudo, financiado </content:encoded>
             </item><item>
-              <title>A borda do disco de formação estelar da Via Láctea revelada</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=the-edge-of-the-milky-way-s-star-forming-disk-revealed</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=the-edge-of-the-milky-way-s-star-forming-disk-revealed</guid>
-              <pubDate>Tue, 21 Apr 2026 16:40:03 +0000</pubDate>
+              <title>Elisabeth Armstrong nomeada Chefe de Gabinete do NIH</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=dr-elisabeth-armstrong-named-nih-chief-of-staff</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=dr-elisabeth-armstrong-named-nih-chief-of-staff</guid>
+              <pubDate>Tue, 21 Apr 2026 19:24:51 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Até onde se estende o disco da Via Láctea tem sido difícil de definir há muito tempo, ele não termina abruptamente, mas desaparece gradualmente em suas bordas externas. Agora, pela primeira vez, uma equipa internacional de astrónomos identificou a borda do.</description>
-              <category>Astronomia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>A borda do disco de formação estelar da Via Láctea revelada</category>
-              <source url="https://phys.org/news/2026-04-edge-milky-star-disk-revealed.html">Phys.org Space</source>
-              <content:encoded>Até onde se estende o disco da Via Láctea tem sido difícil de definir há muito tempo, ele não termina abruptamente, mas desaparece gradualmente em suas bordas externas. Agora, pela primeira vez, uma equipa internacional de astrónomos identificou a borda do Láctea. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um re</content:encoded>
+              <description>Ela fornecerá aconselhamento estratégico ao Diretor do NIH e a outros líderes importantes do NIH, além de gerenciar processos, operações e fluxos de informações.</description>
+              <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Elisabeth Armstrong nomeada Chefe de Gabinete do NIH</category>
+              <source url="https://www.nih.gov/news-events/news-releases/dr-elisabeth-armstrong-named-nih-chief-staff">NIH News Releases</source>
+              <content:encoded>Ela fornecerá aconselhamento estratégico ao Diretor do NIH e a outros líderes importantes do NIH, além de gerenciar processos, operações e fluxos de informações. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Os Insti</content:encoded>
             </item><item>
-              <title>Astrônomos encontram o limite da Via Láctea</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-find-the-edge-of-the-milky-way</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-find-the-edge-of-the-milky-way</guid>
-              <pubDate>Tue, 21 Apr 2026 16:12:02 +0000</pubDate>
+              <title>NASA no caminho certo para missões futuras com avaliações iniciais do Artemis II</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments</guid>
+              <pubDate>Tue, 21 Apr 2026 19:20:01 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Os astrónomos localizaram pela primeira vez a borda do disco de formação estelar da Via Láctea, mostrando que a formação estelar se concentra a 40.000 anos-luz do nosso centro galáctico. O post Astrônomos encontram o limite da Via Láctea.</description>
-              <category>Astronomia</category><category>Sky &amp; Telescope</category><category>Cosmos Week</category><category>Astrônomos encontram o limite da Via Láctea</category>
-              <source url="https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/">Sky &amp; Telescope</source>
-              <content:encoded>Os astrónomos localizaram pela primeira vez a borda do disco de formação estelar da Via Láctea, mostrando que a formação estelar se concentra a 40.000 anos-luz do nosso centro galáctico. O post Astrônomos encontram o limite da Via Láctea. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa t</content:encoded>
+              <description>Após a missão Artemis II da NASA pousar com sucesso na Terra, os engenheiros começaram a mergulhar na análise detalhada dos dados para avaliar como os principais sistemas e subsistemas da espaçonave Orion, do foguete SLS e dos sistemas na plataforma de.</description>
+              <category>Ciências da Terra</category><category>Phys.org Space</category><category>Cosmos Week</category><category>NASA no caminho certo para missões futuras com avaliações iniciais do Artemis II</category>
+              <source url="https://phys.org/news/2026-04-nasa-track-future-missions-artemis.html">Phys.org Space</source>
+              <content:encoded>Após a missão Artemis II da NASA pousar com sucesso na Terra, os engenheiros começaram a mergulhar na análise detalhada dos dados para avaliar como os principais sistemas e subsistemas da espaçonave Orion, do foguete SLS e dos sistemas na plataforma de lançamento. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais </content:encoded>
+            </item><item>
+              <title>NASA no SXSW: Vanessa Wyche, diretora da Johnson, sobre por que Artemis muda tudo</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-at-sxsw-johnson-director-vanessa-wyche-on-why-artemis-changes-everything</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-at-sxsw-johnson-director-vanessa-wyche-on-why-artemis-changes-everything</guid>
+              <pubDate>Tue, 21 Apr 2026 19:13:36 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Em 21 de março de 2026, Vanessa Wyche, diretora do Centro Espacial Johnson da NASA, subiu ao palco no evento Space House em South by Southwest em Austin, Texas, para delinear o próximo salto gigante da NASA em voos espaciais humanos, da órbita baixa da Terra.</description>
+              <category>Ciências da Terra</category><category>NASA News Releases</category><category>Cosmos Week</category><category>NASA no SXSW</category>
+              <source url="https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-sxsw-johnson-director-vanessa-wyche-on-why-artemis-changes-everything/">NASA News Releases</source>
+              <content:encoded>Em 21 de março de 2026, Vanessa Wyche, diretora do Centro Espacial Johnson da NASA, subiu ao palco no evento Space House em South by Southwest em Austin, Texas, para delinear o próximo salto gigante da NASA em voos espaciais humanos, da órbita baixa da Terra até a Lua. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial </content:encoded>
+            </item><item>
+              <title>Hubble revela filamentos da Nebulosa do Caranguejo correndo a 3,4 milhões de mph</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=hubble-reveals-crab-nebula-filaments-racing-outward-at-3-4-million-mph</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=hubble-reveals-crab-nebula-filaments-racing-outward-at-3-4-million-mph</guid>
+              <pubDate>Tue, 21 Apr 2026 18:40:06 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Esta observação do Telescópio Espacial Hubble da NASA, lançada em 23 de março de 2026, oferece uma visão detalhada e incomparável das consequências de uma supernova e de como ela evoluiu ao longo da longa vida útil do telescópio.</description>
+              <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Hubble revela filamentos da Nebulosa do Caranguejo correndo a 3</category>
+              <source url="https://phys.org/news/2026-04-hubble-reveals-crab-nebula-filaments.html">Phys.org Space</source>
+              <content:encoded>Esta observação do Telescópio Espacial Hubble da NASA, lançada em 23 de março de 2026, oferece uma visão detalhada e incomparável das consequências de uma supernova e de como ela evoluiu ao longo da longa vida útil do telescópio. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um </content:encoded>
+            </item><item>
+              <title>NASA, Organ Sharing Network UNOS estudará transporte mais rápido de órgãos</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-organ-sharing-network-unos-to-study-faster-organ-transport</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-organ-sharing-network-unos-to-study-faster-organ-transport</guid>
+              <pubDate>Tue, 21 Apr 2026 17:56:04 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Cada segundo conta no mundo dos transplantes médicos que salvam vidas. Para ajudar a resolver essa urgência, o Langley Research Center da NASA em Hampton, Virgínia, está a associar-se à United Network for Organ Sharing para explorar mais rapidamente e mais.</description>
+              <category>Biologia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>NASA</category>
+              <source url="https://www.nasa.gov/centers-and-facilities/langley/nasa-organ-sharing-network-unos-to-study-faster-organ-transport/">NASA News Releases</source>
+              <content:encoded>Cada segundo conta no mundo dos transplantes médicos que salvam vidas. Para ajudar a resolver essa urgência, o Langley Research Center da NASA em Hampton, Virgínia, está a associar-se à United Network for Organ Sharing para explorar mais rapidamente e mais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta purament</content:encoded>
+            </item><item>
+              <title>Quais são as contribuições de Ames para Artemis II?</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=what-are-ames-contributions-to-artemis-ii</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=what-are-ames-contributions-to-artemis-ii</guid>
+              <pubDate>Tue, 21 Apr 2026 17:41:48 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>A NASA enviou com sucesso quatro astronautas ao redor da Lua pela primeira vez em mais de 50 anos, preparando o terreno para futuras missões de pouso lunar. À medida que a agência continua a ampliar os limites da exploração espacial, a Ames Research da NASA.</description>
+              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Quais são as contribuições de Ames para Artemis II?</category>
+              <source url="https://www.nasa.gov/centers-and-facilities/ames/what-are-ames-contributions-to-artemis-ii/">NASA News Releases</source>
+              <content:encoded>A NASA enviou com sucesso quatro astronautas ao redor da Lua pela primeira vez em mais de 50 anos, preparando o terreno para futuras missões de pouso lunar. À medida que a agência continua a ampliar os limites da exploração espacial, a Ames Research da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultad</content:encoded>
             </item><item>
               <title>NASA lança estágio central do foguete lunar Artemis III</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-rolls-out-artemis-iii-moon-rocket-core-stage</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-rolls-out-artemis-iii-moon-rocket-core-stage</guid>
-              <pubDate>Tue, 21 Apr 2026 16:00:04 +0000</pubDate>
+              <pubDate>Mon, 20 Apr 2026 20:31:57 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Após o recente voo de teste bem-sucedido da missão Artemis II da NASA ao redor da Lua, a NASA lançou o estágio central, ou a maior seção, do foguete SLS da agência que lançará a missão tripulada Artemis III em 2027. O estágio.</description>
-              <category>Astronomia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>NASA lança estágio central do foguete lunar Artemis III</category>
-              <source url="https://phys.org/news/2026-04-nasa-artemis-iii-moon-rocket.html">Phys.org Space</source>
+              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>NASA lança estágio central do foguete lunar Artemis III</category>
+              <source url="https://www.nasa.gov/news-release/nasa-rolls-out-artemis-iii-moon-rocket-core-stage/">NASA News Releases</source>
               <content:encoded>Após o recente voo de teste bem-sucedido da missão Artemis II da NASA ao redor da Lua, a NASA lançou o estágio central, ou a maior seção, do foguete SLS da agência que lançará a missão tripulada Artemis III em 2027. O estágio. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação </content:encoded>
             </item><item>
-              <title>CHIME rastreia uma fonte de rajada de rádio rápida e hiperativa de repetição</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=chime-tracks-a-hyperactive-repeating-fast-radio-burst-source</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=chime-tracks-a-hyperactive-repeating-fast-radio-burst-source</guid>
-              <pubDate>Tue, 21 Apr 2026 15:40:03 +0000</pubDate>
+              <title>Como acompanhar o lançamento do Smile ao vivo</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=how-to-follow-the-smile-launch-live</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=how-to-follow-the-smile-launch-live</guid>
+              <pubDate>Thu, 02 Apr 2026 15:00:00 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Usando o Experimento Canadense de Mapeamento de Intensidade de Hidrogênio, uma equipe internacional de astrônomos realizou observações de rádio do FRB 20220912A, uma fonte altamente ativa de repetidas rajadas de rádio rápidas. Resultados da campanha de.</description>
-              <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>CHIME rastreia uma fonte de rajada de rádio rápida e hiperativa de repetição</category>
-              <source url="https://phys.org/news/2026-04-chime-tracks-hyperactive-fast-radio.html">Phys.org Space</source>
-              <content:encoded>Usando o Experimento Canadense de Mapeamento de Intensidade de Hidrogênio, uma equipe internacional de astrônomos realizou observações de rádio do FRB 20220912A, uma fonte altamente ativa de repetidas rajadas de rádio rápidas. Resultados da campanha de monitoramento. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se e</content:encoded>
-            </item><item>
-              <title>O projeto de ciência cidadã Euclid Space Warps ajuda a procurar lentes gravitacionais fortes</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=euclid-space-warps-citizen-science-project-helps-hunt-for-strong-gravitational-lenses</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=euclid-space-warps-citizen-science-project-helps-hunt-for-strong-gravitational-lenses</guid>
-              <pubDate>Tue, 21 Apr 2026 15:00:08 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Com o lançamento do Space Warps, um novo projeto de ciência cidadã na plataforma Zooniverse, agora você pode participar da busca para encontrar lentes gravitacionais fortes, raras e indescritíveis, em imagens nunca antes vistas capturadas pelo Espaço Europeu.</description>
-              <category>Cosmologia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>O projeto de ciência cidadã Euclid Space Warps ajuda a procurar lentes gravitacionais fortes</category>
-              <source url="https://phys.org/news/2026-04-euclid-space-warps-citizen-science.html">Phys.org Space</source>
-              <content:encoded>Com o lançamento do Space Warps, um novo projeto de ciência cidadã na plataforma Zooniverse, agora você pode participar da busca para encontrar lentes gravitacionais fortes, raras e indescritíveis, em imagens nunca antes vistas capturadas pelo Espaço Europeu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sis</content:encoded>
+              <description>***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema após a integração do lançador VV29, nova data de lançamento a ser confirmada posteriormente, mais informações da.</description>
+              <category>Astronomia</category><category>ESA Space Science</category><category>Cosmos Week</category><category>Como acompanhar o lançamento do Smile ao vivo</category>
+              <source url="https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live">ESA Space Science</source>
+              <content:encoded>***Atualização 6 de abril de 2026: lançamento adiado devido a um problema técnico ocorrido em uma linha de produção de componentes de subsistema após a integração do lançador VV29, nova data de lançamento a ser confirmada posteriormente, mais informações da Avio *** A ESA irá. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual ex</content:encoded>
             </item><item>
               <title>Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</link>
@@ -127,6 +147,16 @@
               <category>Cosmologia</category><category>ESA Hubble News</category><category>Cosmos Week</category><category>Lançamento científico</category>
               <source url="https://esahubble.org/news/heic2601/">ESA Hubble News</source>
               <content:encoded>Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico, uma nuvem de matéria escura, rica em gás e sem estrelas, considerada uma “relíquia” ou remanescente da formação inicial de galáxias. Apelidado de “Cloud-9”, este é o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse territ</content:encoded>
+            </item><item>
+              <title>O projeto de ciência cidadã Euclid Space Warps ajuda a procurar lentes gravitacionais fortes</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=euclid-space-warps-citizen-science-project-helps-hunt-for-strong-gravitational-lenses</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=euclid-space-warps-citizen-science-project-helps-hunt-for-strong-gravitational-lenses</guid>
+              <pubDate>Tue, 21 Apr 2026 15:00:08 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Com o lançamento do Space Warps, um novo projeto de ciência cidadã na plataforma Zooniverse, agora você pode participar da busca para encontrar lentes gravitacionais fortes, raras e indescritíveis, em imagens nunca antes vistas capturadas pelo Espaço Europeu.</description>
+              <category>Cosmologia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>O projeto de ciência cidadã Euclid Space Warps ajuda a procurar lentes gravitacionais fortes</category>
+              <source url="https://phys.org/news/2026-04-euclid-space-warps-citizen-science.html">Phys.org Space</source>
+              <content:encoded>Com o lançamento do Space Warps, um novo projeto de ciência cidadã na plataforma Zooniverse, agora você pode participar da busca para encontrar lentes gravitacionais fortes, raras e indescritíveis, em imagens nunca antes vistas capturadas pelo Espaço Europeu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sis</content:encoded>
             </item><item>
               <title>Seis novos pulsares isolados de milissegundos descobertos com FAST</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=six-new-isolated-millisecond-pulsars-discovered-with-fast</link>
@@ -177,36 +207,6 @@
               <category>Exoplanetas</category><category>arXiv Astrophysics</category><category>Cosmos Week</category><category>Dois exoplanetas potenciais em torno de estrelas do tipo A selecionados entre 18 candidatos planetários</category>
               <source url="https://arxiv.org/abs/2604.18281v1">arXiv Astrophysics</source>
               <content:encoded>Selecionamos e analisamos candidatos a exoplanetas em torno de estrelas do tipo A observadas pelo Transiting Exoplanet Survey Satellite para avaliar a sua probabilidade de serem exoplanetas genuínos. Nossa análise envolve pesquisas de sinais de trânsito, curva de luz. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos,</content:encoded>
-            </item><item>
-              <title>Eis o Sistema Solar em toda a sua glória de raios X</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=behold-the-solar-system-in-all-its-x-ray-glory</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=behold-the-solar-system-in-all-its-x-ray-glory</guid>
-              <pubDate>Tue, 21 Apr 2026 00:07:26 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Utilizando o telescópio espacial eROSITA, os investigadores do MPE isolaram com sucesso o brilho dos raios X do nosso Sistema Solar, revelando o seu impacto no céu suave de raios X. As descobertas, publicadas na Science, sublinham a importância de considerar.</description>
-              <category>Física</category><category>Universe Today</category><category>Cosmos Week</category><category>Eis o Sistema Solar em toda a sua glória de raios X</category>
-              <source url="https://www.universetoday.com/articles/behold-the-solar-system-in-all-its-x-ray-glory">Universe Today</source>
-              <content:encoded>Utilizando o telescópio espacial eROSITA, os investigadores do MPE isolaram com sucesso o brilho dos raios X do nosso Sistema Solar, revelando o seu impacto no céu suave de raios X. As descobertas, publicadas na Science, sublinham a importância de considerar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas</content:encoded>
-            </item><item>
-              <title>Por que as missões mais baratas da NASA produzem menos ciência</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=why-nasa-s-cheapest-missions-produce-the-least-science</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=why-nasa-s-cheapest-missions-produce-the-least-science</guid>
-              <pubDate>Thu, 16 Apr 2026 14:12:01 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Dizer que a NASA tem passado por grandes mudanças administrativas ultimamente é um grande eufemismo. Um dos mais preocupantes, de acordo com um novo artigo na 57ª Conferência de Ciência Lunar e Planetária de Ari Koeppel e Casey.</description>
-              <category>Física</category><category>Universe Today</category><category>Cosmos Week</category><category>Por que as missões mais baratas da NASA produzem menos ciência</category>
-              <source url="https://www.universetoday.com/articles/why-nasas-cheapest-missions-produce-the-least-science">Universe Today</source>
-              <content:encoded>Dizer que a NASA tem passado por grandes mudanças administrativas ultimamente é um grande eufemismo. Um dos mais preocupantes, de acordo com um novo artigo na 57ª Conferência de Ciência Lunar e Planetária de Ari Koeppel e Casey. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como </content:encoded>
-            </item><item>
-              <title>NSF lança programa nacional de infraestrutura de pesquisa quântica e nanotecnologia de US$ 100 milhões</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nsf-launches-100m-national-quantum-and-nanotechnology-research-infrastructure-program</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nsf-launches-100m-national-quantum-and-nanotechnology-research-infrastructure-program</guid>
-              <pubDate>Fri, 13 Feb 2026 15:00:08 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A Fundação Nacional de Ciência dos EUA está investindo até US$ 100 milhões para estabelecer uma rede nacional de instalações de pesquisa de acesso aberto para tecnologias quânticas e em nanoescala, inovação e treinamento de força de trabalho. Através da nova.</description>
-              <category>Física</category><category>NSF News</category><category>Cosmos Week</category><category>NSF lança programa nacional de infraestrutura de pesquisa quântica e nanotecnologia de US$ 100 milhões</category>
-              <source url="https://www.nsf.gov/news/nsf-launches-100m-national-quantum-nanotechnology-research">NSF News</source>
-              <content:encoded>A Fundação Nacional de Ciência dos EUA está investindo até US$ 100 milhões para estabelecer uma rede nacional de instalações de pesquisa de acesso aberto para tecnologias quânticas e em nanoescala, inovação e treinamento de força de trabalho. Através da nova NSF. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genu</content:encoded>
             </item>
   </channel>
 </rss>

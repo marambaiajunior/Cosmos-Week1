@@ -38,14 +38,14 @@
     "date": "23 abr 2026",
     "date_pt": "23 abr 2026",
     "date_en": "23 Apr 2026",
-    "time": "04h37",
-    "time_pt": "04h37",
-    "time_en": "04:37 UTC",
+    "time": "07h06",
+    "time_pt": "07h06",
+    "time_en": "07:06 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-23T04:37:34.895742+00:00",
-    "lastModifiedIso": "2026-04-23T04:37:34.895742+00:00",
+    "publishedIso": "2026-04-23T07:06:04.053843+00:00",
+    "lastModifiedIso": "2026-04-23T07:06:04.053843+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -143,14 +143,14 @@
     "date": "23 abr 2026",
     "date_pt": "23 abr 2026",
     "date_en": "23 Apr 2026",
-    "time": "04h37",
-    "time_pt": "04h37",
-    "time_en": "04:37 UTC",
+    "time": "07h06",
+    "time_pt": "07h06",
+    "time_en": "07:06 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-23T04:37:34.895679+00:00",
-    "lastModifiedIso": "2026-04-23T04:37:34.895679+00:00",
+    "publishedIso": "2026-04-23T07:06:04.053777+00:00",
+    "lastModifiedIso": "2026-04-23T07:06:04.053777+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -248,14 +248,14 @@
     "date": "23 abr 2026",
     "date_pt": "23 abr 2026",
     "date_en": "23 Apr 2026",
-    "time": "04h37",
-    "time_pt": "04h37",
-    "time_en": "04:37 UTC",
+    "time": "07h06",
+    "time_pt": "07h06",
+    "time_en": "07:06 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-23T04:37:34.895612+00:00",
-    "lastModifiedIso": "2026-04-23T04:37:34.895612+00:00",
+    "publishedIso": "2026-04-23T07:06:04.053703+00:00",
+    "lastModifiedIso": "2026-04-23T07:06:04.053703+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -359,14 +359,14 @@
     "date": "23 abr 2026",
     "date_pt": "23 abr 2026",
     "date_en": "23 Apr 2026",
-    "time": "04h37",
-    "time_pt": "04h37",
-    "time_en": "04:37 UTC",
+    "time": "07h06",
+    "time_pt": "07h06",
+    "time_en": "07:06 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-23T04:37:34.895560+00:00",
-    "lastModifiedIso": "2026-04-23T04:37:34.895560+00:00",
+    "publishedIso": "2026-04-23T07:06:04.053626+00:00",
+    "lastModifiedIso": "2026-04-23T07:06:04.053626+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -464,14 +464,14 @@
     "date": "23 abr 2026",
     "date_pt": "23 abr 2026",
     "date_en": "23 Apr 2026",
-    "time": "04h37",
-    "time_pt": "04h37",
-    "time_en": "04:37 UTC",
+    "time": "07h06",
+    "time_pt": "07h06",
+    "time_en": "07:06 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-23T04:37:34.895367+00:00",
-    "lastModifiedIso": "2026-04-23T04:37:34.895367+00:00",
+    "publishedIso": "2026-04-23T07:06:04.053430+00:00",
+    "lastModifiedIso": "2026-04-23T07:06:04.053430+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -1704,13 +1704,31 @@
   },
   {
     "id": 15,
-    "slug": "black-hole-cygnus-x-1-has-fast-powerful-dancing-jets",
+    "slug": "hubble-reveals-crab-nebula-filaments-racing-outward-at-3-4-million-mph",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
-    "img": "https://earthsky.org/upl/2026/04/Cygnus-X-1-location-Stellarium-lightened.png",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/fresh-look-at-crab-neb.jpg",
     "inline_images": [
       {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fresh-look-at-crab-neb.jpg",
+        "caption": "Esta imagem que o Telescópio Espacial Hubble da NASA capturou da Nebulosa do Caranguejo, combinada com as suas observações anteriores e as de outros telescópios, permite aos astrónomos estudar como o remanescente da supernova se está a expandir e a evoluir ao longo do tempo. Crédito.",
+        "caption_pt": "Esta imagem que o Telescópio Espacial Hubble da NASA capturou da Nebulosa do Caranguejo, combinada com as suas observações anteriores e as de outros telescópios, permite aos astrónomos estudar como o remanescente da supernova se está a expandir e a evoluir ao longo do tempo. Crédito.",
+        "caption_en": "This image that NASA’s Hubble Space Telescope captured of the Crab Nebula, paired with its past observations and those of other telescopes, allows astronomers to study how the supernova remnant is expanding and evolving over time. Credit.",
+        "alt": "Um novo olhar sobre a nebulosa do caranguejo",
+        "alt_pt": "Um novo olhar sobre a nebulosa do caranguejo",
+        "alt_en": "Fresh look at crab nebula"
+      },
+      {
+        "src": "https://scx0.b-cdn.net/pic/llock.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx0.b-cdn.net/pic/andrew.jpg",
         "caption": "",
         "caption_pt": "",
         "caption_en": "",
@@ -1721,46 +1739,46 @@
     ],
     "video": null,
     "audio": null,
-    "title": "O buraco negro Cygnus X-1 tem jatos dançantes rápidos e poderosos",
-    "title_pt": "O buraco negro Cygnus X-1 tem jatos dançantes rápidos e poderosos",
-    "title_en": "Black hole Cygnus X-1 has fast, powerful dancing jets",
-    "sub": "O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira. Isso permitiu aos astrônomos calcular a potência desses jatos. O post O.",
-    "sub_pt": "O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira. Isso permitiu aos astrônomos calcular a potência desses jatos. O post O.",
-    "sub_en": "The Cygnus X-1 black hole emits jets that are bent by stellar winds from a companion star. This has enabled astronomers to calculate the power of those jets. The post Black hole.",
-    "excerpt": "O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira. Isso permitiu aos astrônomos calcular a potência desses jatos. O post O buraco negro Cygnus X-1 tem jatos dançantes rápidos e poderosos apareceu pela.",
-    "excerpt_pt": "O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira. Isso permitiu aos astrônomos calcular a potência desses jatos. O post O buraco negro Cygnus X-1 tem jatos dançantes rápidos e poderosos apareceu pela.",
-    "excerpt_en": "The Cygnus X-1 black hole emits jets that are bent by stellar winds from a companion star. This has enabled astronomers to calculate the power of those jets. The post Black hole Cygnus X-1 has fast, powerful dancing jets first appeared on.",
-    "body": "<p>O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira. Isso permitiu aos astrônomos calcular a potência desses jatos. O post O buraco negro Cygnus X-1 tem jatos dançantes rápidos e poderosos apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira. O post Buraco negro Cygnus X-1 tem jatos dançantes rápidos e poderosos apareceu pela primeira vez no EarthSky.</p><p>A força dos ventos estelares da estrela curva os jatos do Cygnus X-1. Em 1971, os astrónomos confirmaram-no como o primeiro buraco negro conhecido.</p><p>Agora, em 16 de abril de 2026, astrônomos do Centro Internacional de Pesquisa em Radioastronomia (ICRAR) na Austrália disseram que os ventos de uma grande estrela companheira. Estas descobertas são significativas porque, embora Cygnus X-1 seja um buraco negro estelar, o estudo dos seus jatos ajuda os astrónomos a compreender a evolução das galáxias.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/black-hole-cygnus-x-1-dancing-jets/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira. Isso permitiu aos astrônomos calcular a potência desses jatos. O post O buraco negro Cygnus X-1 tem jatos dançantes rápidos e poderosos apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira. O post Buraco negro Cygnus X-1 tem jatos dançantes rápidos e poderosos apareceu pela primeira vez no EarthSky.</p><p>A força dos ventos estelares da estrela curva os jatos do Cygnus X-1. Em 1971, os astrónomos confirmaram-no como o primeiro buraco negro conhecido.</p><p>Agora, em 16 de abril de 2026, astrônomos do Centro Internacional de Pesquisa em Radioastronomia (ICRAR) na Austrália disseram que os ventos de uma grande estrela companheira. Estas descobertas são significativas porque, embora Cygnus X-1 seja um buraco negro estelar, o estudo dos seus jatos ajuda os astrónomos a compreender a evolução das galáxias.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/black-hole-cygnus-x-1-dancing-jets/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The Cygnus X-1 black hole emits jets that are bent by stellar winds from a companion star. This has enabled astronomers to calculate the power of those jets. The post Black hole Cygnus X-1 has fast, powerful dancing jets first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. The Cygnus X-1 black hole emits jets that are bent by stellar winds from a companion star. The post Black hole Cygnus X-1 has fast, powerful dancing jets first appeared on EarthSky.</p><p>The force of stellar winds from the star bends the jets from Cygnus X-1. In 1971, astronomers confirmed it as the first known black hole.</p><p>Now, on April 16, 2026, astronomers from the International Centre for Radio Astronomy Research ( ICRAR ) in Australia said that winds from a large companion star buffet the jets. These findings are significant because even though Cygnus X-1 is a stellar black hole, studying its jets ultimately helps astronomers understand the evolution of galaxies.</p><p>The researchers published their findings in the peer-reviewed journal Nature Astronomy on April 16, 2026. This map from the Stellarium app shows the location of Cygnus X-1 (the white circle) in the constellation Cygnus the Swan.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Determining the power in Cygnus X-1 jets In the past, astronomers did not quite grasp how the energy from black hole jets affected their surrounding environment. The team studied x-rays emitted by the Cygnus X-1 jets using high-resolution radio images they collected over 18 years.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/black-hole-cygnus-x-1-dancing-jets/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Hubble revela filamentos da Nebulosa do Caranguejo correndo a 3,4 milhões de mph",
+    "title_pt": "Hubble revela filamentos da Nebulosa do Caranguejo correndo a 3,4 milhões de mph",
+    "title_en": "Hubble reveals Crab Nebula filaments racing outward at 3.4 million mph",
+    "sub": "Esta observação do Telescópio Espacial Hubble da NASA, lançada em 23 de março de 2026, oferece uma visão detalhada e incomparável das consequências de uma supernova e de como ela.",
+    "sub_pt": "Esta observação do Telescópio Espacial Hubble da NASA, lançada em 23 de março de 2026, oferece uma visão detalhada e incomparável das consequências de uma supernova e de como ela.",
+    "sub_en": "This observation from NASA's Hubble Space Telescope, released on March 23, 2026, gives an unparalleled, detailed look at the aftermath of a supernova and how it has evolved over.",
+    "excerpt": "Esta observação do Telescópio Espacial Hubble da NASA, lançada em 23 de março de 2026, oferece uma visão detalhada e incomparável das consequências de uma supernova e de como ela evoluiu ao longo da longa vida útil do telescópio.",
+    "excerpt_pt": "Esta observação do Telescópio Espacial Hubble da NASA, lançada em 23 de março de 2026, oferece uma visão detalhada e incomparável das consequências de uma supernova e de como ela evoluiu ao longo da longa vida útil do telescópio.",
+    "excerpt_en": "This observation from NASA's Hubble Space Telescope, released on March 23, 2026, gives an unparalleled, detailed look at the aftermath of a supernova and how it has evolved over the telescope's long lifetime.",
+    "body": "<p>Esta observação do Telescópio Espacial Hubble da NASA, lançada em 23 de março de 2026, oferece uma visão detalhada e incomparável das consequências de uma supernova e de como ela evoluiu ao longo da longa vida útil do telescópio. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Esta imagem que o Telescópio Espacial Hubble.</p><p>NASA, ESA, STScI, William Blair (JHU). Joseph DePasquale (STScI) Esta observação do Telescópio Espacial Hubble da NASA, lançada em 23 de março de 2026, oferece uma visão detalhada e incomparável das consequências de.</p><p>O Hubble capturou a intrincada estrutura filamentar da nebulosa, bem como o considerável movimento para fora desses filamentos ao longo de 25 anos, a um ritmo de 5,5 milhões de.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-hubble-reveals-crab-nebula-filaments.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Esta observação do Telescópio Espacial Hubble da NASA, lançada em 23 de março de 2026, oferece uma visão detalhada e incomparável das consequências de uma supernova e de como ela evoluiu ao longo da longa vida útil do telescópio. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Esta imagem que o Telescópio Espacial Hubble.</p><p>NASA, ESA, STScI, William Blair (JHU). Joseph DePasquale (STScI) Esta observação do Telescópio Espacial Hubble da NASA, lançada em 23 de março de 2026, oferece uma visão detalhada e incomparável das consequências de.</p><p>O Hubble capturou a intrincada estrutura filamentar da nebulosa, bem como o considerável movimento para fora desses filamentos ao longo de 25 anos, a um ritmo de 5,5 milhões de.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-hubble-reveals-crab-nebula-filaments.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>This observation from NASA&#x27;s Hubble Space Telescope, released on March 23, 2026, gives an unparalleled, detailed look at the aftermath of a supernova and how it has evolved over the telescope&#x27;s long lifetime. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source This image that NASA’s Hubble Space Telescope captured of the.</p><p>NASA, ESA, STScI, William Blair (JHU). Joseph DePasquale (STScI) This observation from NASA&#x27;s Hubble Space Telescope, released on March 23, 2026, gives an unparalleled, detailed look at the aftermath of a supernova and.</p><p>Hubble captured the nebula&#x27;s intricate filamentary structure, as well as the considerable outward movement of those filaments over 25 years, at a pace of 3.4 million miles per.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-hubble-reveals-crab-nebula-filaments.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira. Isso permitiu aos astrônomos calcular a.",
-      "Dado-chave: O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira.",
+      "Ponto central: Esta observação do Telescópio Espacial Hubble da NASA, lançada em 23 de março de 2026, oferece uma visão detalhada e incomparável das consequências.",
+      "Dado-chave: Esta observação do Telescópio Espacial Hubble da NASA, lançada em 23 de março de 2026, oferece uma visão detalhada e incomparável das.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira. Isso permitiu aos astrônomos calcular a.",
-      "Dado-chave: O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira.",
+      "Ponto central: Esta observação do Telescópio Espacial Hubble da NASA, lançada em 23 de março de 2026, oferece uma visão detalhada e incomparável das consequências.",
+      "Dado-chave: Esta observação do Telescópio Espacial Hubble da NASA, lançada em 23 de março de 2026, oferece uma visão detalhada e incomparável das.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: The Cygnus X-1 black hole emits jets that are bent by stellar winds from a companion star. This has enabled astronomers to calculate the power of.",
-      "Key detail: The Cygnus X-1 black hole emits jets that are bent by stellar winds from a companion star.",
+      "Core point: This observation from NASA's Hubble Space Telescope, released on March 23, 2026, gives an unparalleled, detailed look at the aftermath of a supernova.",
+      "Key detail: This observation from NASA's Hubble Space Telescope, released on March 23, 2026, gives an unparalleled, detailed look at the aftermath of a.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "22 abr 2026",
-    "date_pt": "22 abr 2026",
-    "date_en": "22 Apr 2026",
-    "time": "11h30",
-    "time_pt": "11h30",
-    "time_en": "11:30 UTC",
+    "date": "21 abr 2026",
+    "date_pt": "21 abr 2026",
+    "date_en": "21 Apr 2026",
+    "time": "18h40",
+    "time_pt": "18h40",
+    "time_en": "18:40 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-22T11:30:45+00:00",
-    "lastModifiedIso": "2026-04-22T11:30:45+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
+    "publishedIso": "2026-04-21T18:40:06+00:00",
+    "lastModifiedIso": "2026-04-21T18:40:06+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -1778,29 +1796,29 @@
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
       "Astrofísica",
-      "EarthSky",
+      "Phys.org Space",
       "Cosmos Week",
-      "O buraco negro Cygnus X",
-      "1 tem jatos dançantes rápidos e poderosos"
+      "Hubble revela filamentos da Nebulosa do Caranguejo correndo a 3",
+      "4 milhões de mph"
     ],
     "keywords_pt": [
       "Astrofísica",
-      "EarthSky",
+      "Phys.org Space",
       "Cosmos Week",
-      "O buraco negro Cygnus X",
-      "1 tem jatos dançantes rápidos e poderosos"
+      "Hubble revela filamentos da Nebulosa do Caranguejo correndo a 3",
+      "4 milhões de mph"
     ],
     "keywords_en": [
       "Astrophysics",
-      "EarthSky",
+      "Phys.org Space",
       "Cosmos Week",
-      "The Cygnus X black hole",
-      "1 has fast and powerful dancing jets"
+      "Hubble reveals filaments of the Crab Nebula running at 3",
+      "4 million mph"
     ],
-    "srcUrl": "https://earthsky.org/space/black-hole-cygnus-x-1-dancing-jets/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=black-hole-cygnus-x-1-has-fast-powerful-dancing-jets",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=black-hole-cygnus-x-1-has-fast-powerful-dancing-jets",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=black-hole-cygnus-x-1-has-fast-powerful-dancing-jets&lang=en",
+    "srcUrl": "https://phys.org/news/2026-04-hubble-reveals-crab-nebula-filaments.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=hubble-reveals-crab-nebula-filaments-racing-outward-at-3-4-million-mph",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=hubble-reveals-crab-nebula-filaments-racing-outward-at-3-4-million-mph",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=hubble-reveals-crab-nebula-filaments-racing-outward-at-3-4-million-mph&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -1813,11 +1831,11 @@
     "geminiModel": "gemini-2.0-flash",
     "score": 75,
     "scoreBreakdown": {
-      "source": 72,
+      "source": 76,
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -1962,72 +1980,66 @@
   },
   {
     "id": 17,
-    "slug": "nasa-unveils-roman-telescope-to-map-universe-find-10-000s-of-exoplanets",
+    "slug": "life-beyond-biosignatures-a-new-method-in-the-search-for-life",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-roman-telescope-wi.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/the-roman-telescope-wi.jpg",
-        "caption": "O telescópio romano irá explodir no espaço a bordo de um foguete SpaceX em um lançamento planejado para setembro, no mínimo.",
-        "caption_pt": "O telescópio romano irá explodir no espaço a bordo de um foguete SpaceX em um lançamento planejado para setembro, no mínimo.",
-        "caption_en": "The Roman telescope will blast into space aboard a SpaceX rocket in a launch planned for September at the earliest.",
-        "alt": "O telescópio romano irá explodir no espaço a bordo de um foguete SpaceX em um lançamento planejado para setembro, no mínimo",
-        "alt_pt": "O telescópio romano irá explodir no espaço a bordo de um foguete SpaceX em um lançamento planejado para setembro, no mínimo",
-        "alt_en": "The Roman telescope will blast into space aboard a SpaceX rocket in a launch planned for September at the earliest"
-      },
-      {
-        "src": "https://scx0.b-cdn.net/pic/andrew.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
+    "img": "https://www.universetoday.com/article_images/image_6258_1-Mars-Terraforming_20260416_203842.jpg",
+    "inline_images": [],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/z31awzrlob0",
+      "fileUrl": "",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://www.universetoday.com/articles/life-beyond-biosignatures-a-new-method-in-the-search-for-life"
+    },
     "audio": null,
-    "title": "NASA revela telescópio romano para mapear o universo e encontrar 10.000 exoplanetas",
-    "title_pt": "NASA revela telescópio romano para mapear o universo e encontrar 10.000 exoplanetas",
-    "title_en": "NASA unveils Roman telescope to map universe, find 10,000s of exoplanets",
-    "sub": "A NASA revelou um novo telescópio na terça-feira para examinar vastas áreas do universo em busca de planetas fora do nosso sistema solar e investigar os mistérios da matéria.",
-    "sub_pt": "A NASA revelou um novo telescópio na terça-feira para examinar vastas áreas do universo em busca de planetas fora do nosso sistema solar e investigar os mistérios da matéria.",
-    "sub_en": "NASA unveiled a new telescope on Tuesday to scan vast swaths of the universe for planets outside our solar system and probe the mysteries of dark matter and dark energy.",
-    "excerpt": "A NASA revelou um novo telescópio na terça-feira para examinar vastas áreas do universo em busca de planetas fora do nosso sistema solar e investigar os mistérios da matéria escura e da energia escura.",
-    "excerpt_pt": "A NASA revelou um novo telescópio na terça-feira para examinar vastas áreas do universo em busca de planetas fora do nosso sistema solar e investigar os mistérios da matéria escura e da energia escura.",
-    "excerpt_en": "NASA unveiled a new telescope on Tuesday to scan vast swaths of the universe for planets outside our solar system and probe the mysteries of dark matter and dark energy.",
-    "body": "<p>A NASA revelou um novo telescópio na terça-feira para examinar vastas áreas do universo em busca de planetas fora do nosso sistema solar e investigar os mistérios da matéria escura e da energia escura. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida O telescópio romano irá explodir no espaço a.</p><p>Roman dará à Terra um novo atlas do universo&quot;, disse o administrador da NASA, Jared Isaacman, em entrevista coletiva no Goddard Space Flight Center, em Maryland, onde o telescópio. A engenhoca prateada de 12 metros (39 pés) com enormes painéis solares será transportada para a Flórida antes do lançamento ao espaço a bordo de um foguete SpaceX planejado para.</p><p>Roman, que custou mais de US$ 4 bilhões e mais de uma década para ser construído, leva o nome da astrônoma Nancy Grace Roman, apelidada de “Mãe do Hubble” por seu papel no.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-nasa-unveils-roman-telescope-universe.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A NASA revelou um novo telescópio na terça-feira para examinar vastas áreas do universo em busca de planetas fora do nosso sistema solar e investigar os mistérios da matéria escura e da energia escura. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida O telescópio romano irá explodir no espaço a.</p><p>Roman dará à Terra um novo atlas do universo&quot;, disse o administrador da NASA, Jared Isaacman, em entrevista coletiva no Goddard Space Flight Center, em Maryland, onde o telescópio. A engenhoca prateada de 12 metros (39 pés) com enormes painéis solares será transportada para a Flórida antes do lançamento ao espaço a bordo de um foguete SpaceX planejado para.</p><p>Roman, que custou mais de US$ 4 bilhões e mais de uma década para ser construído, leva o nome da astrônoma Nancy Grace Roman, apelidada de “Mãe do Hubble” por seu papel no.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-nasa-unveils-roman-telescope-universe.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>NASA unveiled a new telescope on Tuesday to scan vast swaths of the universe for planets outside our solar system and probe the mysteries of dark matter and dark energy. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source The Roman telescope will blast into space aboard a SpaceX.</p><p>Roman will give Earth a new atlas of the universe,&quot; NASA administrator Jared Isaacman told a news conference at the Goddard Space Flight Center in Maryland, where the telescope. The 12-meter (39-feet), silvery contraption with massive solar panels will be transported to Florida ahead of a launch into space aboard a SpaceX rocket planned for September at.</p><p>Roman, which took more than $4 billion and over a decade to build, is named after astronomer Nancy Grace Roman, nicknamed the &quot;Mother of Hubble&quot; for her role in developing the. Thirty-six years after Hubble launched into space, revolutionizing astronomical observations, NASA hopes Roman will help to shed light on questions that remain unresolved.</p><p>Boasting a field of view at least 100 times larger than Hubble&#x27;s, the telescope will sweep across vast regions of space from its position 1.5 million kilometers (930,000 miles). The telescope will send 11 terabytes of data a day down to Earth, said Mark Melton, a systems engineer at Goddard Space Flight Center.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>In the first year, we&#x27;ll have sent down more data than Hubble will have for its entire life,&quot; he told AFP. The telescope&#x27;s wide-angle lens will allow NASA to conduct a census of the objects that make up our universe, said Nicky Fox, associate administrator for NASA&#x27;s Science Mission.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-nasa-unveils-roman-telescope-universe.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "A vida além das bioassinaturas: um novo método na busca pela vida",
+    "title_pt": "A vida além das bioassinaturas: um novo método na busca pela vida",
+    "title_en": "Life Beyond Biosignatures: A New Method In The Search For Life",
+    "sub": "Pesquisadores do Earth-Life Science Institute e do National Institute for Basic Biology desenvolveram um novo método para detectar vida extraterrestre sem depender de.",
+    "sub_pt": "Pesquisadores do Earth-Life Science Institute e do National Institute for Basic Biology desenvolveram um novo método para detectar vida extraterrestre sem depender de.",
+    "sub_en": "Researchers from the Earth-Life Science Institute and National Institute for Basic Biology have developed a new method to detect extraterrestrial life without relying on.",
+    "excerpt": "Pesquisadores do Earth-Life Science Institute e do National Institute for Basic Biology desenvolveram um novo método para detectar vida extraterrestre sem depender de bioassinaturas tradicionais. Modelando como a vida pode se espalhar entre eles.",
+    "excerpt_pt": "Pesquisadores do Earth-Life Science Institute e do National Institute for Basic Biology desenvolveram um novo método para detectar vida extraterrestre sem depender de bioassinaturas tradicionais. Modelando como a vida pode se espalhar entre eles.",
+    "excerpt_en": "Researchers from the Earth-Life Science Institute and National Institute for Basic Biology have developed a new method to detect extraterrestrial life without relying on traditional biosignatures. By modelling how life might spread between.",
+    "body": "<p>Pesquisadores do Earth-Life Science Institute e do National Institute for Basic Biology desenvolveram um novo método para detectar vida extraterrestre sem depender de bioassinaturas tradicionais. Modelando como a vida pode se espalhar entre eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Pesquisadores do Earth-Life Science Institute (ELSI) e do National Institute for Basic Biology desenvolveram um novo método para detectar vida extraterrestre sem depender de. Ao modelar como a vida pode se espalhar entre os planetas, eles demonstram que a vida pode ser detectada através de padrões estatísticos nas populações planetárias, e não em.</p><p>Esta abordagem de “bioassinatura agnóstica” poderia ajudar a orientar futuras pesquisas de vida fora da Terra. A primeira é a água líquida, que, até onde sabemos, é necessária à vida.</p><p>Uma das razões pelas quais o JWST foi construído foi para estudar atmosferas de exoplanetas e determinar o seu conteúdo, e foram encontradas algumas bioassinaturas potenciais. Mas os cientistas lutam com o facto de uma bioassinatura atmosférica aqui na Terra poder ter uma origem não biológica em exoplanetas que são muito diferentes da Terra.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/life-beyond-biosignatures-a-new-method-in-the-search-for-life\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Pesquisadores do Earth-Life Science Institute e do National Institute for Basic Biology desenvolveram um novo método para detectar vida extraterrestre sem depender de bioassinaturas tradicionais. Modelando como a vida pode se espalhar entre eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Pesquisadores do Earth-Life Science Institute (ELSI) e do National Institute for Basic Biology desenvolveram um novo método para detectar vida extraterrestre sem depender de. Ao modelar como a vida pode se espalhar entre os planetas, eles demonstram que a vida pode ser detectada através de padrões estatísticos nas populações planetárias, e não em.</p><p>Esta abordagem de “bioassinatura agnóstica” poderia ajudar a orientar futuras pesquisas de vida fora da Terra. A primeira é a água líquida, que, até onde sabemos, é necessária à vida.</p><p>Uma das razões pelas quais o JWST foi construído foi para estudar atmosferas de exoplanetas e determinar o seu conteúdo, e foram encontradas algumas bioassinaturas potenciais. Mas os cientistas lutam com o facto de uma bioassinatura atmosférica aqui na Terra poder ter uma origem não biológica em exoplanetas que são muito diferentes da Terra.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/life-beyond-biosignatures-a-new-method-in-the-search-for-life\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Researchers from the Earth-Life Science Institute and National Institute for Basic Biology have developed a new method to detect extraterrestrial life without relying on traditional biosignatures. By modelling how life might spread between. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. Researchers from the Earth-Life Science Institute (ELSI) and National Institute for Basic Biology have developed a new method to detect extraterrestrial life without relying on. By modelling how life might spread between planets, they demonstrate that life could be detected through statistical patterns across planetary populations rather than on.</p><p>This &quot;agnostic biosignature&quot; approach could assist in guiding future searches for life beyond Earth. The first is liquid water, which, as far as we know, is necessary for life.</p><p>One of the reasons the JWST was built was to study exoplanet atmospheres and determine their contents, and it&#x27;s found some very interesting potential biosignatures. But scientists struggle with the fact that an atmospheric biosignature here on Earth could have a non-biological origin on exoplanets that are much different from Earth.</p><p>That&#x27;s the focus of new research in The Astrophysical Journal titled &quot; An Agnostic Biosignature Based on Modeling Panspermia and Terraforming. The authors are Harrison Smith from the Earth-Life Science Institute (ELSI) at Institute of Science Tokyo and Lana Sinapayen from the National Institute for Basic Biology in.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>They&#x27;re based on a whole host of underlying assumptions about the nature of a civilization&#x27;s technology and culture. By clustering planets based only on their observed characteristics and retaining clusters localized in space, we demonstrate (and evaluate) a way to prioritize specific planets.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/life-beyond-biosignatures-a-new-method-in-the-search-for-life\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: A NASA revelou um novo telescópio na terça-feira para examinar vastas áreas do universo em busca de planetas fora do nosso sistema solar e investigar.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Ponto central: Pesquisadores do Earth-Life Science Institute e do National Institute for Basic Biology desenvolveram um novo método para detectar vida.",
+      "Dado-chave: Pesquisadores do Earth-Life Science Institute (ELSI) e do National Institute for Basic Biology desenvolveram um novo método para detectar vida.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: A NASA revelou um novo telescópio na terça-feira para examinar vastas áreas do universo em busca de planetas fora do nosso sistema solar e investigar.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Ponto central: Pesquisadores do Earth-Life Science Institute e do National Institute for Basic Biology desenvolveram um novo método para detectar vida.",
+      "Dado-chave: Pesquisadores do Earth-Life Science Institute (ELSI) e do National Institute for Basic Biology desenvolveram um novo método para detectar vida.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: NASA unveiled a new telescope on Tuesday to scan vast swaths of the universe for planets outside our solar system and probe the mysteries of dark.",
-      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
+      "Core point: Researchers from the Earth-Life Science Institute and National Institute for Basic Biology have developed a new method to detect extraterrestrial.",
+      "Key detail: Researchers from the Earth-Life Science Institute (ELSI) and National Institute for Basic Biology have developed a new method to detect.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "22 abr 2026",
-    "date_pt": "22 abr 2026",
-    "date_en": "22 Apr 2026",
-    "time": "14h29",
-    "time_pt": "14h29",
-    "time_en": "14:29 UTC",
+    "date": "17 abr 2026",
+    "date_pt": "17 abr 2026",
+    "date_en": "17 Apr 2026",
+    "time": "17h37",
+    "time_pt": "17h37",
+    "time_en": "17:37 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-22T14:29:03+00:00",
-    "lastModifiedIso": "2026-04-22T14:29:03+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
+    "publishedIso": "2026-04-17T17:37:00+00:00",
+    "lastModifiedIso": "2026-04-17T17:37:00+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -2045,26 +2057,29 @@
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
       "Exoplanetas",
-      "Phys.org Space",
+      "Universe Today",
       "Cosmos Week",
-      "NASA revela telescópio romano para mapear o universo e encontrar 10.000 exoplanetas"
+      "A vida além das bioassinaturas",
+      "um novo método na busca pela vida"
     ],
     "keywords_pt": [
       "Exoplanetas",
-      "Phys.org Space",
+      "Universe Today",
       "Cosmos Week",
-      "NASA revela telescópio romano para mapear o universo e encontrar 10.000 exoplanetas"
+      "A vida além das bioassinaturas",
+      "um novo método na busca pela vida"
     ],
     "keywords_en": [
       "Exoplanets",
-      "Phys.org Space",
+      "Universe Today",
       "Cosmos Week",
-      "NASA unveils Roman telescope to map the universe and find 10,000 exoplanets"
+      "Life beyond biosignatures",
+      "a new method in the search for life"
     ],
-    "srcUrl": "https://phys.org/news/2026-04-nasa-unveils-roman-telescope-universe.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-unveils-roman-telescope-to-map-universe-find-10-000s-of-exoplanets",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-unveils-roman-telescope-to-map-universe-find-10-000s-of-exoplanets",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-unveils-roman-telescope-to-map-universe-find-10-000s-of-exoplanets&lang=en",
+    "srcUrl": "https://www.universetoday.com/articles/life-beyond-biosignatures-a-new-method-in-the-search-for-life",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=life-beyond-biosignatures-a-new-method-in-the-search-for-life",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=life-beyond-biosignatures-a-new-method-in-the-search-for-life",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=life-beyond-biosignatures-a-new-method-in-the-search-for-life&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -2075,13 +2090,13 @@
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 77,
+    "score": 75,
     "scoreBreakdown": {
-      "source": 76,
+      "source": 73,
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 46
     }
   },
   {
@@ -2442,124 +2457,6 @@
   },
   {
     "id": 21,
-    "slug": "nasa-s-spherex-telescope-just-mapped-the-cosmic-ices-that-will-someday-build-planets",
-    "cat": "Química",
-    "catCls": "quimica",
-    "img": "https://www.universetoday.com/article_images/noao-cyg_x1_20260420_145949.jpg",
-    "inline_images": [],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/q0otepasjwc",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.universetoday.com/articles/nasas-spherex-telescope-just-mapped-the-cosmic-ices-that-will-someday-build-planets"
-    },
-    "audio": null,
-    "title": "O telescópio SPHEREx da NASA acaba de mapear os gelos cósmicos que um dia construirão planetas",
-    "title_pt": "O telescópio SPHEREx da NASA acaba de mapear os gelos cósmicos que um dia construirão planetas",
-    "title_en": "NASA’s SPHEREx Telescope Just Mapped the Cosmic Ices That Will Someday Build Planets",
-    "sub": "Novas missões significam novas capacidades, e uma nova missão particularmente interessante está finalmente em funcionamento. Os dados estão começando a chegar do SPHEREx, o.",
-    "sub_pt": "Novas missões significam novas capacidades, e uma nova missão particularmente interessante está finalmente em funcionamento. Os dados estão começando a chegar do SPHEREx, o.",
-    "sub_en": "New missions mean new capabilities, and one particularly interesting new mission is finally up and running. Data is starting to come in from SPHEREx, the medium-class surveyor.",
-    "excerpt": "Novas missões significam novas capacidades, e uma nova missão particularmente interessante está finalmente em funcionamento. Os dados estão começando a chegar do SPHEREx, o topógrafo de classe média que mapeia todo o céu a cada seis meses. Um papel baseado.",
-    "excerpt_pt": "Novas missões significam novas capacidades, e uma nova missão particularmente interessante está finalmente em funcionamento. Os dados estão começando a chegar do SPHEREx, o topógrafo de classe média que mapeia todo o céu a cada seis meses. Um papel baseado.",
-    "excerpt_en": "New missions mean new capabilities, and one particularly interesting new mission is finally up and running. Data is starting to come in from SPHEREx, the medium-class surveyor that is mapping the entire sky every six months. A paper based.",
-    "body": "<p>Novas missões significam novas capacidades, e uma nova missão particularmente interessante está finalmente em funcionamento. Os dados estão começando a chegar do SPHEREx, o topógrafo de classe média que mapeia todo o céu a cada seis meses. Um papel baseado. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. Um artigo baseado em alguns desses dados iniciais foi publicado recentemente no The Astrophysical Journal, mapeando gelo e compostos chamados Hidrocarbonetos Aromáticos. Ele está localizado a cerca de 4.500 anos-luz de distância da Terra e abriga mais de 3 milhões de massas solares de material.</p><p>Também acolhe a associação Cygnus OB2, um aglomerado massivo de milhares de estrelas jovens, incluindo algumas estrelas do tipo O altamente luminosas que desempenharam um papel. A outra região era a Nebulosa Norte-Americana, especificamente LDN 935, a região “escura” que tem a forma do “Golfo do México” naquela nebulosa de formato famoso que fica a 2.600.</p><p>O próprio LDN 935 atua como um “congelador cósmico”, as suas nuvens densas isolam o seu interior da radiação ultravioleta bombeada para a sua vizinhança estelar local. Na verdade, água e gelo de dióxido de carbono foram encontrados em abundância em LDN 935 e Cygnus-X, distribuídos principalmente ao longo de estruturas filamentares complexas que.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/nasas-spherex-telescope-just-mapped-the-cosmic-ices-that-will-someday-build-planets\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Novas missões significam novas capacidades, e uma nova missão particularmente interessante está finalmente em funcionamento. Os dados estão começando a chegar do SPHEREx, o topógrafo de classe média que mapeia todo o céu a cada seis meses. Um papel baseado. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. Um artigo baseado em alguns desses dados iniciais foi publicado recentemente no The Astrophysical Journal, mapeando gelo e compostos chamados Hidrocarbonetos Aromáticos. Ele está localizado a cerca de 4.500 anos-luz de distância da Terra e abriga mais de 3 milhões de massas solares de material.</p><p>Também acolhe a associação Cygnus OB2, um aglomerado massivo de milhares de estrelas jovens, incluindo algumas estrelas do tipo O altamente luminosas que desempenharam um papel. A outra região era a Nebulosa Norte-Americana, especificamente LDN 935, a região “escura” que tem a forma do “Golfo do México” naquela nebulosa de formato famoso que fica a 2.600.</p><p>O próprio LDN 935 atua como um “congelador cósmico”, as suas nuvens densas isolam o seu interior da radiação ultravioleta bombeada para a sua vizinhança estelar local. Na verdade, água e gelo de dióxido de carbono foram encontrados em abundância em LDN 935 e Cygnus-X, distribuídos principalmente ao longo de estruturas filamentares complexas que.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/nasas-spherex-telescope-just-mapped-the-cosmic-ices-that-will-someday-build-planets\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>New missions mean new capabilities, and one particularly interesting new mission is finally up and running. Data is starting to come in from SPHEREx, the medium-class surveyor that is mapping the entire sky every six months. A paper based. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because chemistry gains force when a claimed structure or process can be described with enough precision to be reproduced by others. Synthetic routes, spectroscopic signatures, yield under defined conditions and stability under realistic operating parameters are the currency of credibility in chemistry, and a result that lacks these details cannot be evaluated independently. The distance between a discovery on a laboratory bench and a process that works reliably at scale is measured in years of optimization, and each step reveals constraints that were invisible at smaller scale. A paper based on some of that early data was recently published in The Astrophysical Journal, mapping ice and compounds called Polycyclic Aromatic Hydrocarbons (PAHs) throughout. It&#x27;s located about 4,500 light years away from Earth, and is home to more than 3 million solar masses of material.</p><p>It also hosts the Cygnus OB2 association, a massive cluster of thousands of young stars, including some highly luminous O-type stars that played a critical role in the recent. The other region was the North American Nebula, specifically LDN 935, the “dark” region that forms the shape of the “Gulf of Mexico” in that famously shaped nebula that lies 2,600.</p><p>LDN 935 itself acts as a “cosmic freezer”, its dense clouds insulate its interior from the ultraviolet radiation pumping into its local stellar neighborhood. In fact, water and carbon dioxide ice both were found in abundance in LDN 935 and Cygnus-X, mainly distributed along complex, filamentary structures that can extend several.</p><p>Ices like this are key building blocks of water planets, such as Earth, and tracking their path through star-forming regions like Cygnus-X is a major step forward in our. Video from JPL about NASA’s SPHEREx missions.</p><p>The broader interest lies in whether the claimed property or reaction pathway can be characterized with enough precision to support replication by other groups. Chemistry has a replication problem that is less discussed than the one in psychology or medicine, but it is real: synthetic procedures that work reliably in one laboratory sometimes fail to transfer, for reasons ranging from impure starting materials to undocumented temperature sensitivities. A result that comes with full experimental detail and a clear characterization of the product is far more valuable than one that reports a discovery without the procedural backbone.</p><p>By tracing “hydrogen recombination lines” like the Brackett-alpha line at 4.05 um, the researchers were able to piece together hydrogen shocks emitted by massive protostars like. While this has been done before, doing so with a wide field survey is certainly novel.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent groups working with orthogonal techniques reach compatible conclusions, and whether the result scales beyond the conditions used in the original study. Chemical discoveries that matter tend to be ones whose key properties can be measured by multiple spectroscopic, crystallographic or computational methods that are unlikely to share the same blind spots. Scalability, cost and long-term stability under realistic operating conditions are additional filters that come into play before any practical application becomes viable.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/nasas-spherex-telescope-just-mapped-the-cosmic-ices-that-will-someday-build-planets\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Novas missões significam novas capacidades, e uma nova missão particularmente interessante está finalmente em funcionamento. Os dados estão começando.",
-      "Dado-chave: Um artigo baseado em alguns desses dados iniciais foi publicado recentemente no The Astrophysical Journal, mapeando gelo e compostos chamados.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Novas missões significam novas capacidades, e uma nova missão particularmente interessante está finalmente em funcionamento. Os dados estão começando.",
-      "Dado-chave: Um artigo baseado em alguns desses dados iniciais foi publicado recentemente no The Astrophysical Journal, mapeando gelo e compostos chamados.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: New missions mean new capabilities, and one particularly interesting new mission is finally up and running. Data is starting to come in from SPHEREx.",
-      "Key detail: A paper based on some of that early data was recently published in The Astrophysical Journal, mapping ice and compounds called Polycyclic.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "20 abr 2026",
-    "date_pt": "20 abr 2026",
-    "date_en": "20 Apr 2026",
-    "time": "14h59",
-    "time_pt": "14h59",
-    "time_en": "14:59 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-20T14:59:51+00:00",
-    "lastModifiedIso": "2026-04-20T14:59:51+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Química",
-      "Universe Today",
-      "Cosmos Week",
-      "O telescópio SPHEREx da NASA acaba de mapear os gelos cósmicos que um dia construirão planetas"
-    ],
-    "keywords_pt": [
-      "Química",
-      "Universe Today",
-      "Cosmos Week",
-      "O telescópio SPHEREx da NASA acaba de mapear os gelos cósmicos que um dia construirão planetas"
-    ],
-    "keywords_en": [
-      "Chemical",
-      "Universe Today",
-      "Cosmos Week",
-      "NASA's SPHEREx telescope has just mapped the cosmic ices that will one day build planets"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/nasas-spherex-telescope-just-mapped-the-cosmic-ices-that-will-someday-build-planets",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-spherex-telescope-just-mapped-the-cosmic-ices-that-will-someday-build-planets",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-spherex-telescope-just-mapped-the-cosmic-ices-that-will-someday-build-planets",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-spherex-telescope-just-mapped-the-cosmic-ices-that-will-someday-build-planets&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 88,
-      "relevance": 82,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
-    "id": 22,
     "slug": "first-proba-3-science-surprisingly-speedy-solar-wind",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2667,7 +2564,7 @@
     }
   },
   {
-    "id": 23,
+    "id": 22,
     "slug": "esa-observations-of-interstellar-comet-3i-atlas",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2772,7 +2669,7 @@
     }
   },
   {
-    "id": 24,
+    "id": 23,
     "slug": "lights-out-for-birds-during-spring-migration",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2887,7 +2784,7 @@
     }
   },
   {
-    "id": 25,
+    "id": 24,
     "slug": "nasa-astronaut-anil-menon-to-discuss-upcoming-launch-mission",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2992,7 +2889,7 @@
     }
   },
   {
-    "id": 26,
+    "id": 25,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3128,7 +3025,7 @@
     }
   },
   {
-    "id": 27,
+    "id": 26,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3255,7 +3152,7 @@
     }
   },
   {
-    "id": 28,
+    "id": 27,
     "slug": "science-release-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3391,7 +3288,7 @@
     }
   },
   {
-    "id": 29,
+    "id": 28,
     "slug": "nasa-s-777-aircraft-returns-home-with-science-flights-on-the-horizon",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3515,7 +3412,7 @@
     }
   },
   {
-    "id": 30,
+    "id": 29,
     "slug": "belts-of-green-in-the-washington-suburbs",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3648,7 +3545,7 @@
     }
   },
   {
-    "id": 31,
+    "id": 30,
     "slug": "nsf-doe-vera-c-rubin-observatory-launches-real-time-discovery-machine-for-monitoring-the-night-s",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3797,7 +3694,7 @@
     }
   },
   {
-    "id": 32,
+    "id": 31,
     "slug": "the-nancy-grace-roman-space-telescope-is-ready-to-fly",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3930,7 +3827,7 @@
     }
   },
   {
-    "id": 33,
+    "id": 32,
     "slug": "sun-observing-satellite-uses-artificial-eclipse-to-capture-the-solar-wind",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4059,11 +3956,11 @@
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 34,
+    "id": 33,
     "slug": "astronomers-find-the-edge-of-the-milky-way",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4196,7 +4093,7 @@
     }
   },
   {
-    "id": 35,
+    "id": 34,
     "slug": "galaxies-don-t-die-all-at-once",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4329,12 +4226,40 @@
     }
   },
   {
-    "id": 36,
+    "id": 35,
     "slug": "ash-creeps-across-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/mars_express_captures_dark_ash_covering_mars_s_utopia_planitia/27198962-1-eng-GB/Mars_Express_captures_dark_ash_covering_Mars_s_Utopia_Planitia_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/viking_and_mars_express_images_of_part_of_utopia_planitia_on_mars/27200000-3-eng-GB/Viking_and_Mars_Express_images_of_part_of_Utopia_Planitia_on_Mars_article.jpg",
+        "caption": "Comparando as imagens Viking (esquerda) e Mars Express (direita) deste pedaço de Marte. A caixa branca marca a área coberta na imagem principal no topo desta página e abaixo. Abrir imagem",
+        "caption_pt": "Comparando as imagens Viking (esquerda) e Mars Express (direita) deste pedaço de Marte. A caixa branca marca a área coberta na imagem principal no topo desta página e abaixo. Abrir imagem",
+        "caption_en": "Comparing the Viking (left) and Mars Express (right) images of this patch of Mars. The white box marks the area covered in the main image at the top of this page and below. Open Image",
+        "alt": "Comparando as imagens Viking (esquerda) e Mars Express (direita) deste pedaço de Marte. A caixa branca marca a área coberta na imagem principal no topo desta página e abaixo. Abrir imagem",
+        "alt_pt": "Comparando as imagens Viking (esquerda) e Mars Express (direita) deste pedaço de Marte. A caixa branca marca a área coberta na imagem principal no topo desta página e abaixo. Abrir imagem",
+        "alt_en": "Comparing the Viking (left) and Mars Express (right) images of this patch of Mars. The white box marks the area covered in the main image at the top of this page and below. Open Image"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/mars_express_captures_dark_ash_covering_mars_s_utopia_planitia/27198962-1-eng-GB/Mars_Express_captures_dark_ash_covering_Mars_s_Utopia_Planitia_article.jpg",
+        "caption": "Ampliando a caixa branca marcada na comparação Viking/Mars Express",
+        "caption_pt": "Ampliando a caixa branca marcada na comparação Viking/Mars Express",
+        "caption_en": "Zooming in on the white box marked in the Viking/Mars Express comparison",
+        "alt": "Ampliando a caixa branca marcada na comparação Viking/Mars Express",
+        "alt_pt": "Ampliando a caixa branca marcada na comparação Viking/Mars Express",
+        "alt_en": "Zooming in on the white box marked in the Viking/Mars Express comparison"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/bird_s-eye_view_of_dark_ash_in_utopia_planitia/27199009-1-eng-GB/Bird_s-eye_view_of_dark_ash_in_Utopia_Planitia_article.jpg",
+        "caption": "Vista aérea de uma cratera de impacto no lado cinza da imagem principal",
+        "caption_pt": "Vista aérea de uma cratera de impacto no lado cinza da imagem principal",
+        "caption_en": "Bird's-eye view of an impact crater on the ash-y side of the main image",
+        "alt": "Vista aérea de uma cratera de impacto no lado cinza da imagem principal",
+        "alt_pt": "Vista aérea de uma cratera de impacto no lado cinza da imagem principal",
+        "alt_en": "Bird's-eye view of an impact crater on the ash-y side of the main image"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Ash rasteja por Marte",
@@ -4346,9 +4271,9 @@
     "excerpt": "Mudanças perceptíveis em Marte muitas vezes levam milhões de anos, mas o Mars Express da Agência Espacial Europeia capturou um manto de cinzas escuras que se arrastava por todo o planeta em apenas algumas décadas.",
     "excerpt_pt": "Mudanças perceptíveis em Marte muitas vezes levam milhões de anos, mas o Mars Express da Agência Espacial Europeia capturou um manto de cinzas escuras que se arrastava por todo o planeta em apenas algumas décadas.",
     "excerpt_en": "Noticeable change on Mars often takes millions of years, but the European Space Agency’s Mars Express has captured a blanket of dark ash creeping across the planet in just decades.",
-    "body": "<p>Mudanças perceptíveis em Marte muitas vezes levam milhões de anos, mas o Mars Express da Agência Espacial Europeia capturou um manto de cinzas escuras que se arrastava por todo o planeta em apenas algumas décadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Mudanças perceptíveis em Marte demoram frequentemente milhões de anos, mas o Mars Express da Agência Espacial Europeia capturou um manto de cinzas escuras que se arrastava por.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Ash_creeps_across_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Mudanças perceptíveis em Marte muitas vezes levam milhões de anos, mas o Mars Express da Agência Espacial Europeia capturou um manto de cinzas escuras que se arrastava por todo o planeta em apenas algumas décadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Mudanças perceptíveis em Marte demoram frequentemente milhões de anos, mas o Mars Express da Agência Espacial Europeia capturou um manto de cinzas escuras que se arrastava por.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Ash_creeps_across_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Noticeable change on Mars often takes millions of years, but the European Space Agency’s Mars Express has captured a blanket of dark ash creeping across the planet in just decades. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Ash_creeps_across_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Mudanças perceptíveis em Marte muitas vezes levam milhões de anos, mas o Mars Express da Agência Espacial Europeia capturou um manto de cinzas escuras que se arrastava por todo o planeta em apenas algumas décadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Mudanças perceptíveis em Marte demoram frequentemente milhões de anos, mas o Mars Express da Agência Espacial Europeia capturou um manto de cinzas escuras que se arrastava por. Uma nova imagem da Câmara Estéreo de Alta Resolução (HRSC) da Mars Express mostra uma cena de duas metades, com as areias castanhas brilhantes de Marte colidindo com depósitos.</p><p>Quando esta parte de Marte foi vista pelas sondas Viking da NASA em 1976, as cinzas estavam visivelmente menos espalhadas do que são hoje (ver comparação abaixo). Diferente da poeira de cor ocre e das rochas fragmentadas que cobrem a maior parte de Marte, pensa-se que este material escuro tenha sido produzido e distribuído por vulcões.</p><p>Ele ainda abriga o maior vulcão do Sistema Solar, Olympus Mons, que tem mais que o dobro da altura do maior da Terra (Mauna Kea). A propagação das cinzas ao longo dos últimos 50 anos tem duas explicações possíveis: ou foram recolhidas e transportadas pelos ventos marcianos, ou a poeira ocre que anteriormente.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Ash_creeps_across_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Mudanças perceptíveis em Marte muitas vezes levam milhões de anos, mas o Mars Express da Agência Espacial Europeia capturou um manto de cinzas escuras que se arrastava por todo o planeta em apenas algumas décadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Mudanças perceptíveis em Marte demoram frequentemente milhões de anos, mas o Mars Express da Agência Espacial Europeia capturou um manto de cinzas escuras que se arrastava por. Uma nova imagem da Câmara Estéreo de Alta Resolução (HRSC) da Mars Express mostra uma cena de duas metades, com as areias castanhas brilhantes de Marte colidindo com depósitos.</p><p>Quando esta parte de Marte foi vista pelas sondas Viking da NASA em 1976, as cinzas estavam visivelmente menos espalhadas do que são hoje (ver comparação abaixo). Diferente da poeira de cor ocre e das rochas fragmentadas que cobrem a maior parte de Marte, pensa-se que este material escuro tenha sido produzido e distribuído por vulcões.</p><p>Ele ainda abriga o maior vulcão do Sistema Solar, Olympus Mons, que tem mais que o dobro da altura do maior da Terra (Mauna Kea). A propagação das cinzas ao longo dos últimos 50 anos tem duas explicações possíveis: ou foram recolhidas e transportadas pelos ventos marcianos, ou a poeira ocre que anteriormente.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Ash_creeps_across_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Noticeable change on Mars often takes millions of years, but the European Space Agency’s Mars Express has captured a blanket of dark ash creeping across the planet in just decades. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A new image from Mars Express&#x27;s High Resolution Stereo Camera (HRSC), shows a scene of two halves, with Mars’s bright tan-coloured sands butting up against dark deposits of. When this part of Mars was seen by NASA’s Viking orbiters in 1976, the ash was noticeably less widespread than it is today (see comparison below).</p><p>Differing from the ochre-coloured dust and broken up rock that covers most of Mars, this dark material is thought to have been made and distributed by volcanoes. It even hosts the largest volcano in the Solar System, Olympus Mons, which stands at more than double the height of the largest on Earth (Mauna Kea).</p><p>The spread of the ash over the last 50 years has two possible explanations: either it has been picked up and moved about by martian winds, or the ochre dust that previously. This crater is about 15 km across and has interesting squiggly lines within it, marking where icy material has crept about within the crater.</p><p>Mars has a few colossal impact basins, all initially formed as large rocks collided with the planet. This scene lies in one of them: Utopia Planitia, an ancient basin with a diameter of around 3300 km ( just under twice the north-south size of Earth’s Sahara Desert ).</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>They don’t occur in isolation but rather merge to form larger areas, providing a perfect example of how Mars’s surface is constantly changing. Far on the left lies a curious feature seen often across Utopia Planitia: a series of shadowy ditches around 20 km long and 2 km wide stretching out across the surface, meeting to.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Ash_creeps_across_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Mudanças perceptíveis em Marte muitas vezes levam milhões de anos, mas o Mars Express da Agência Espacial Europeia capturou um manto de cinzas.",
       "Dado-chave: Mudanças perceptíveis em Marte demoram frequentemente milhões de anos, mas o Mars Express da Agência Espacial Europeia capturou um manto de.",
@@ -4434,7 +4359,7 @@
     }
   },
   {
-    "id": 37,
+    "id": 36,
     "slug": "five-things-juice-has-revealed-about-comet-3i-atlas",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4536,6 +4461,124 @@
       "relevance": 70,
       "accessibility": 60,
       "novelty": 46
+    }
+  },
+  {
+    "id": 37,
+    "slug": "black-hole-cygnus-x-1-has-fast-powerful-dancing-jets",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://earthsky.org/upl/2026/04/Cygnus-X-1-location-Stellarium-lightened.png",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "O buraco negro Cygnus X-1 tem jatos dançantes rápidos e poderosos",
+    "title_pt": "O buraco negro Cygnus X-1 tem jatos dançantes rápidos e poderosos",
+    "title_en": "Black hole Cygnus X-1 has fast, powerful dancing jets",
+    "sub": "O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira. Isso permitiu aos astrônomos calcular a potência desses jatos. O post O.",
+    "sub_pt": "O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira. Isso permitiu aos astrônomos calcular a potência desses jatos. O post O.",
+    "sub_en": "The Cygnus X-1 black hole emits jets that are bent by stellar winds from a companion star. This has enabled astronomers to calculate the power of those jets. The post Black hole.",
+    "excerpt": "O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira. Isso permitiu aos astrônomos calcular a potência desses jatos. O post O buraco negro Cygnus X-1 tem jatos dançantes rápidos e poderosos apareceu pela.",
+    "excerpt_pt": "O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira. Isso permitiu aos astrônomos calcular a potência desses jatos. O post O buraco negro Cygnus X-1 tem jatos dançantes rápidos e poderosos apareceu pela.",
+    "excerpt_en": "The Cygnus X-1 black hole emits jets that are bent by stellar winds from a companion star. This has enabled astronomers to calculate the power of those jets. The post Black hole Cygnus X-1 has fast, powerful dancing jets first appeared on.",
+    "body": "<p>O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira. Isso permitiu aos astrônomos calcular a potência desses jatos. O post O buraco negro Cygnus X-1 tem jatos dançantes rápidos e poderosos apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira. O post Buraco negro Cygnus X-1 tem jatos dançantes rápidos e poderosos apareceu pela primeira vez no EarthSky.</p><p>A força dos ventos estelares da estrela curva os jatos do Cygnus X-1. Em 1971, os astrónomos confirmaram-no como o primeiro buraco negro conhecido.</p><p>Agora, em 16 de abril de 2026, astrônomos do Centro Internacional de Pesquisa em Radioastronomia (ICRAR) na Austrália disseram que os ventos de uma grande estrela companheira. Estas descobertas são significativas porque, embora Cygnus X-1 seja um buraco negro estelar, o estudo dos seus jatos ajuda os astrónomos a compreender a evolução das galáxias.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/black-hole-cygnus-x-1-dancing-jets/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira. Isso permitiu aos astrônomos calcular a potência desses jatos. O post O buraco negro Cygnus X-1 tem jatos dançantes rápidos e poderosos apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira. O post Buraco negro Cygnus X-1 tem jatos dançantes rápidos e poderosos apareceu pela primeira vez no EarthSky.</p><p>A força dos ventos estelares da estrela curva os jatos do Cygnus X-1. Em 1971, os astrónomos confirmaram-no como o primeiro buraco negro conhecido.</p><p>Agora, em 16 de abril de 2026, astrônomos do Centro Internacional de Pesquisa em Radioastronomia (ICRAR) na Austrália disseram que os ventos de uma grande estrela companheira. Estas descobertas são significativas porque, embora Cygnus X-1 seja um buraco negro estelar, o estudo dos seus jatos ajuda os astrónomos a compreender a evolução das galáxias.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/black-hole-cygnus-x-1-dancing-jets/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The Cygnus X-1 black hole emits jets that are bent by stellar winds from a companion star. This has enabled astronomers to calculate the power of those jets. The post Black hole Cygnus X-1 has fast, powerful dancing jets first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. The Cygnus X-1 black hole emits jets that are bent by stellar winds from a companion star. The post Black hole Cygnus X-1 has fast, powerful dancing jets first appeared on EarthSky.</p><p>The force of stellar winds from the star bends the jets from Cygnus X-1. In 1971, astronomers confirmed it as the first known black hole.</p><p>Now, on April 16, 2026, astronomers from the International Centre for Radio Astronomy Research ( ICRAR ) in Australia said that winds from a large companion star buffet the jets. These findings are significant because even though Cygnus X-1 is a stellar black hole, studying its jets ultimately helps astronomers understand the evolution of galaxies.</p><p>The researchers published their findings in the peer-reviewed journal Nature Astronomy on April 16, 2026. This map from the Stellarium app shows the location of Cygnus X-1 (the white circle) in the constellation Cygnus the Swan.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Determining the power in Cygnus X-1 jets In the past, astronomers did not quite grasp how the energy from black hole jets affected their surrounding environment. The team studied x-rays emitted by the Cygnus X-1 jets using high-resolution radio images they collected over 18 years.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/black-hole-cygnus-x-1-dancing-jets/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira. Isso permitiu aos astrônomos calcular a.",
+      "Dado-chave: O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira. Isso permitiu aos astrônomos calcular a.",
+      "Dado-chave: O buraco negro Cygnus X-1 emite jatos que são curvados pelos ventos estelares de uma estrela companheira.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The Cygnus X-1 black hole emits jets that are bent by stellar winds from a companion star. This has enabled astronomers to calculate the power of.",
+      "Key detail: The Cygnus X-1 black hole emits jets that are bent by stellar winds from a companion star.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "22 abr 2026",
+    "date_pt": "22 abr 2026",
+    "date_en": "22 Apr 2026",
+    "time": "11h30",
+    "time_pt": "11h30",
+    "time_en": "11:30 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-22T11:30:45+00:00",
+    "lastModifiedIso": "2026-04-22T11:30:45+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "EarthSky",
+      "Cosmos Week",
+      "O buraco negro Cygnus X",
+      "1 tem jatos dançantes rápidos e poderosos"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "EarthSky",
+      "Cosmos Week",
+      "O buraco negro Cygnus X",
+      "1 tem jatos dançantes rápidos e poderosos"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "EarthSky",
+      "Cosmos Week",
+      "The Cygnus X black hole",
+      "1 has fast and powerful dancing jets"
+    ],
+    "srcUrl": "https://earthsky.org/space/black-hole-cygnus-x-1-dancing-jets/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=black-hole-cygnus-x-1-has-fast-powerful-dancing-jets",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=black-hole-cygnus-x-1-has-fast-powerful-dancing-jets",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=black-hole-cygnus-x-1-has-fast-powerful-dancing-jets&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
     }
   },
   {

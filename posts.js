@@ -40,14 +40,14 @@ window.postsData = [
     "date": "26 abr 2026",
     "date_pt": "26 abr 2026",
     "date_en": "26 Apr 2026",
-    "time": "10h26",
-    "time_pt": "10h26",
-    "time_en": "10:26 UTC",
+    "time": "11h24",
+    "time_pt": "11h24",
+    "time_en": "11:24 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-26T10:26:49.518794+00:00",
-    "lastModifiedIso": "2026-04-26T10:26:49.518794+00:00",
+    "publishedIso": "2026-04-26T11:24:24.766284+00:00",
+    "lastModifiedIso": "2026-04-26T11:24:24.766284+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "26 abr 2026",
     "date_pt": "26 abr 2026",
     "date_en": "26 Apr 2026",
-    "time": "10h26",
-    "time_pt": "10h26",
-    "time_en": "10:26 UTC",
+    "time": "11h24",
+    "time_pt": "11h24",
+    "time_en": "11:24 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-26T10:26:49.518731+00:00",
-    "lastModifiedIso": "2026-04-26T10:26:49.518731+00:00",
+    "publishedIso": "2026-04-26T11:24:24.766215+00:00",
+    "lastModifiedIso": "2026-04-26T11:24:24.766215+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -256,14 +256,14 @@ window.postsData = [
     "date": "26 abr 2026",
     "date_pt": "26 abr 2026",
     "date_en": "26 Apr 2026",
-    "time": "10h26",
-    "time_pt": "10h26",
-    "time_en": "10:26 UTC",
+    "time": "11h24",
+    "time_pt": "11h24",
+    "time_en": "11:24 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-26T10:26:49.518678+00:00",
-    "lastModifiedIso": "2026-04-26T10:26:49.518678+00:00",
+    "publishedIso": "2026-04-26T11:24:24.766137+00:00",
+    "lastModifiedIso": "2026-04-26T11:24:24.766137+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -361,14 +361,14 @@ window.postsData = [
     "date": "26 abr 2026",
     "date_pt": "26 abr 2026",
     "date_en": "26 Apr 2026",
-    "time": "10h26",
-    "time_pt": "10h26",
-    "time_en": "10:26 UTC",
+    "time": "11h24",
+    "time_pt": "11h24",
+    "time_en": "11:24 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-26T10:26:49.518467+00:00",
-    "lastModifiedIso": "2026-04-26T10:26:49.518467+00:00",
+    "publishedIso": "2026-04-26T11:24:24.765950+00:00",
+    "lastModifiedIso": "2026-04-26T11:24:24.765950+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -466,14 +466,14 @@ window.postsData = [
     "date": "26 abr 2026",
     "date_pt": "26 abr 2026",
     "date_en": "26 Apr 2026",
-    "time": "10h26",
-    "time_pt": "10h26",
-    "time_en": "10:26 UTC",
+    "time": "11h24",
+    "time_pt": "11h24",
+    "time_en": "11:24 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-26T10:26:49.518417+00:00",
-    "lastModifiedIso": "2026-04-26T10:26:49.518417+00:00",
+    "publishedIso": "2026-04-26T11:24:24.765902+00:00",
+    "lastModifiedIso": "2026-04-26T11:24:24.765902+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -534,6 +534,248 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "save-the-frogs-day-is-today-tuesday-april-28",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2023/04/Save-The-Frogs-Day-April-28th-Every-Year-Public-Domain-Image-e1682768464361.jpg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "O Dia de Salvar os Sapos é hoje, terça-feira, 28 de abril",
+    "title_pt": "O Dia de Salvar os Sapos é hoje, terça-feira, 28 de abril",
+    "title_en": "Save the Frogs Day is today, Tuesday, April 28",
+    "sub": "O Dia de Salvar as Rãs, um esforço global de conservação dos anfíbios, é terça-feira, 28 de abril de 2026. A saúde dos anfíbios é um importante marcador da qualidade do.",
+    "sub_pt": "O Dia de Salvar as Rãs, um esforço global de conservação dos anfíbios, é terça-feira, 28 de abril de 2026. A saúde dos anfíbios é um importante marcador da qualidade do.",
+    "sub_en": "Save the Frogs Day, a global amphibian conservation effort, is Tuesday, April 28, 2026. Amphibian health is an important marker of ecosystem quality. The post Save the Frogs Day.",
+    "excerpt": "O Dia de Salvar as Rãs, um esforço global de conservação dos anfíbios, é terça-feira, 28 de abril de 2026. A saúde dos anfíbios é um importante marcador da qualidade do ecossistema. O post O Dia de Salvar os Sapos é hoje, terça-feira, 28 de abril, apareceu.",
+    "excerpt_pt": "O Dia de Salvar as Rãs, um esforço global de conservação dos anfíbios, é terça-feira, 28 de abril de 2026. A saúde dos anfíbios é um importante marcador da qualidade do ecossistema. O post O Dia de Salvar os Sapos é hoje, terça-feira, 28 de abril, apareceu.",
+    "excerpt_en": "Save the Frogs Day, a global amphibian conservation effort, is Tuesday, April 28, 2026. Amphibian health is an important marker of ecosystem quality. The post Save the Frogs Day is today, Tuesday, April 28 first appeared on EarthSky.",
+    "body": "<p>O Dia de Salvar as Rãs, um esforço global de conservação dos anfíbios, é terça-feira, 28 de abril de 2026. A saúde dos anfíbios é um importante marcador da qualidade do ecossistema. O post O Dia de Salvar os Sapos é hoje, terça-feira, 28 de abril, apareceu pela primeira vez no. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O Dia de Salvar as Rãs, um esforço global de conservação dos anfíbios, é terça-feira, 28 de abril de 2026. O post O Dia de Salvar os Sapos é hoje, terça-feira, 28 de abril, apareceu pela primeira vez no EarthSky.</p><p>Realizado todo dia 28 de abril, o Save the Frogs Day é um esforço global de conservação para retardar o declínio das populações de anfíbios e de seus habitats. A Amphibian Survival Alliance não faz rodeios ao descrever a crise desesperada: cerca de metade de todas as espécies de anfíbios estão em declínio e estima-se que a proporção.</p><p>Outrora um santuário para mais de 8.000 espécies, vivemos agora num mundo que é cada vez mais inseguro para os anfíbios. Portanto, nesta segunda-feira, 28 de abril de 2025, todos podem, e devem, participar do 18º Dia Anual do Save the Frogs.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/save-the-frogs-day-april-28/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O Dia de Salvar as Rãs, um esforço global de conservação dos anfíbios, é terça-feira, 28 de abril de 2026. A saúde dos anfíbios é um importante marcador da qualidade do ecossistema. O post O Dia de Salvar os Sapos é hoje, terça-feira, 28 de abril, apareceu pela primeira vez no. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O Dia de Salvar as Rãs, um esforço global de conservação dos anfíbios, é terça-feira, 28 de abril de 2026. O post O Dia de Salvar os Sapos é hoje, terça-feira, 28 de abril, apareceu pela primeira vez no EarthSky.</p><p>Realizado todo dia 28 de abril, o Save the Frogs Day é um esforço global de conservação para retardar o declínio das populações de anfíbios e de seus habitats. A Amphibian Survival Alliance não faz rodeios ao descrever a crise desesperada: cerca de metade de todas as espécies de anfíbios estão em declínio e estima-se que a proporção.</p><p>Outrora um santuário para mais de 8.000 espécies, vivemos agora num mundo que é cada vez mais inseguro para os anfíbios. Portanto, nesta segunda-feira, 28 de abril de 2025, todos podem, e devem, participar do 18º Dia Anual do Save the Frogs.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/save-the-frogs-day-april-28/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Save the Frogs Day, a global amphibian conservation effort, is Tuesday, April 28, 2026. Amphibian health is an important marker of ecosystem quality. The post Save the Frogs Day is today, Tuesday, April 28 first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Save the Frogs Day, a global amphibian conservation effort, is Tuesday, April 28, 2026. The post Save the Frogs Day is today, Tuesday, April 28 first appeared on EarthSky.</p><p>Held every April 28, Save the Frogs Day is a global conservation effort to slow the decline of amphibian populations and their habitats. The Amphibian Survival Alliance pulls no punches in describing the desperate crisis: Around half of all amphibian species are declining, and the proportion threatened with.</p><p>Once a sanctuary for over 8,000 species, we now live in a world that is increasingly unsafe for amphibians. So, this Monday, April 28, 2025, everyone can, and should, join in during the 18th annual Save the Frogs Day.</p><p>See images from the 2025 Save the Frogs Day All hands on deck to save the amphibians While the loss of such charismatic creatures is disheartening, the response doesn’t need to be. In fact, there have been thousands of past local happenings on Save the Frog Day in 58 different countries.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Maybe he will settle near me.” A horned marsupial frog ( Gastrotheca cornuta ) clings to a reed in a wetland near El Cope, Panama, in 2002. The annual Save the Frogs Day held every April 28 ( savethefrogs. com ) is a global effort to raise awareness and encourage people to take action to protect threatened species and.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/save-the-frogs-day-april-28/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O Dia de Salvar as Rãs, um esforço global de conservação dos anfíbios, é terça-feira, 28 de abril de 2026. A saúde dos anfíbios é um importante.",
+      "Dado-chave: O Dia de Salvar as Rãs, um esforço global de conservação dos anfíbios, é terça-feira, 28 de abril de 2026.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O Dia de Salvar as Rãs, um esforço global de conservação dos anfíbios, é terça-feira, 28 de abril de 2026. A saúde dos anfíbios é um importante.",
+      "Dado-chave: O Dia de Salvar as Rãs, um esforço global de conservação dos anfíbios, é terça-feira, 28 de abril de 2026.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Save the Frogs Day, a global amphibian conservation effort, is Tuesday, April 28, 2026. Amphibian health is an important marker of ecosystem quality.",
+      "Key detail: Save the Frogs Day, a global amphibian conservation effort, is Tuesday, April 28, 2026.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "26 abr 2026",
+    "date_pt": "26 abr 2026",
+    "date_en": "26 Apr 2026",
+    "time": "11h07",
+    "time_pt": "11h07",
+    "time_en": "11:07 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-26T11:07:44+00:00",
+    "lastModifiedIso": "2026-04-26T11:07:44+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "O Dia de Salvar os Sapos é hoje",
+      "terça",
+      "feira",
+      "28 de abril"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "O Dia de Salvar os Sapos é hoje",
+      "terça",
+      "feira",
+      "28 de abril"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "Save the Frogs Day is today",
+      "third",
+      "fair",
+      "April 28"
+    ],
+    "srcUrl": "https://earthsky.org/earth/save-the-frogs-day-april-28/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=save-the-frogs-day-is-today-tuesday-april-28",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=save-the-frogs-day-is-today-tuesday-april-28",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=save-the-frogs-day-is-today-tuesday-april-28&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 68,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 62,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
+    "slug": "slow-solar-wind-is-oddly-fast-first-proba-3-data-reveals",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2026/04/Proba-3_tracks_solar_wind_moving_close_to_the_Sun-esa-2026.png",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "O vento solar lento é estranhamente rápido, revelam os primeiros dados do Proba-3",
+    "title_pt": "O vento solar lento é estranhamente rápido, revelam os primeiros dados do Proba-3",
+    "title_en": "Slow solar wind is oddly fast, first Proba-3 data reveals",
+    "sub": "Os primeiros dados da sonda Proba-3 revelaram que o vento solar lento viaja muito mais rápido do que o esperado na coroa interna do Sol. O vento solar pós-lento é estranhamente.",
+    "sub_pt": "Os primeiros dados da sonda Proba-3 revelaram que o vento solar lento viaja muito mais rápido do que o esperado na coroa interna do Sol. O vento solar pós-lento é estranhamente.",
+    "sub_en": "Early data from the Proba-3 spacecraft has revealed that slow solar wind travels much faster than expected in the sun's inner corona. The post Slow solar wind is oddly fast, first.",
+    "excerpt": "Os primeiros dados da sonda Proba-3 revelaram que o vento solar lento viaja muito mais rápido do que o esperado na coroa interna do Sol. O vento solar pós-lento é estranhamente rápido, os primeiros dados do Proba-3 revelam que apareceram pela primeira vez no.",
+    "excerpt_pt": "Os primeiros dados da sonda Proba-3 revelaram que o vento solar lento viaja muito mais rápido do que o esperado na coroa interna do Sol. O vento solar pós-lento é estranhamente rápido, os primeiros dados do Proba-3 revelam que apareceram pela primeira vez no.",
+    "excerpt_en": "Early data from the Proba-3 spacecraft has revealed that slow solar wind travels much faster than expected in the sun's inner corona. The post Slow solar wind is oddly fast, first Proba-3 data reveals first appeared on EarthSky.",
+    "body": "<p>Os primeiros dados da sonda Proba-3 revelaram que o vento solar lento viaja muito mais rápido do que o esperado na coroa interna do Sol. O vento solar pós-lento é estranhamente rápido, os primeiros dados do Proba-3 revelam que apareceram pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O vento solar pós-lento é estranhamente rápido, os primeiros dados do Proba-3 revelam que apareceram pela primeira vez no EarthSky. A parte laranja desta imagem mostra o Sol em luz ultravioleta, capturada pela sonda Proba-2 da ESA.</p><p>A parte cinza é uma visão em luz visível do vento solar fluindo através da atmosfera do Sol, capturada pela nova espaçonave Proba-3. Este notável novo telescópio espacial revelou que o lento vento solar pode acelerar até 5 vezes mais rápido do que pensávamos.</p><p>Imagem via ESA / Proba-3/ ASPIICS &amp; ESA/ Proba-2/ SWAP (ROB), A. O vento solar lento é estranhamente rápido, revelam os primeiros dados do Proba-3. Graças a uma nova nave espacial inovadora de observação do Sol, os cientistas são finalmente.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/slow-solar-wind-is-oddly-fast-proba-3/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os primeiros dados da sonda Proba-3 revelaram que o vento solar lento viaja muito mais rápido do que o esperado na coroa interna do Sol. O vento solar pós-lento é estranhamente rápido, os primeiros dados do Proba-3 revelam que apareceram pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O vento solar pós-lento é estranhamente rápido, os primeiros dados do Proba-3 revelam que apareceram pela primeira vez no EarthSky. A parte laranja desta imagem mostra o Sol em luz ultravioleta, capturada pela sonda Proba-2 da ESA.</p><p>A parte cinza é uma visão em luz visível do vento solar fluindo através da atmosfera do Sol, capturada pela nova espaçonave Proba-3. Este notável novo telescópio espacial revelou que o lento vento solar pode acelerar até 5 vezes mais rápido do que pensávamos.</p><p>Imagem via ESA / Proba-3/ ASPIICS &amp; ESA/ Proba-2/ SWAP (ROB), A. O vento solar lento é estranhamente rápido, revelam os primeiros dados do Proba-3. Graças a uma nova nave espacial inovadora de observação do Sol, os cientistas são finalmente.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/slow-solar-wind-is-oddly-fast-proba-3/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Early data from the Proba-3 spacecraft has revealed that slow solar wind travels much faster than expected in the sun&#x27;s inner corona. The post Slow solar wind is oddly fast, first Proba-3 data reveals first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The post Slow solar wind is oddly fast, first Proba-3 data reveals first appeared on EarthSky. The orange part of this image shows the sun in ultraviolet light, captured by ESA’s Proba-2 spacecraft.</p><p>The gray part is a visible-light view of solar wind streaming through the sun’s atmosphere, captured by the new Proba-3 spacecraft. This remarkable new space telescope has revealed that slow solar wind can accelerate up to 5 times faster than we thought.</p><p>Image via ESA / Proba-3/ ASPIICS &amp; ESA/ Proba-2/ SWAP (ROB), A. Slow solar wind is oddly fast, first Proba-3 data reveals Thanks to a groundbreaking new sun-observing spacecraft, scientists are finally able to study how solar material moves.</p><p>The European Space Agency’s remarkable new Proba-3 spacecraft made the discovery. And now, analysis of the early data has provided a first scientific discovery for Proba-3.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The European Space Agency announced the finding on April 13, 2026, after the researchers published their peer-reviewed paper in The Astrophysical Journal Letters on March 9, 2026. It’s when our natural occulting disk, the moon, is over 238,000 miles (383,000 kilometers) away.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/slow-solar-wind-is-oddly-fast-proba-3/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os primeiros dados da sonda Proba-3 revelaram que o vento solar lento viaja muito mais rápido do que o esperado na coroa interna do Sol. O vento.",
+      "Dado-chave: O vento solar pós-lento é estranhamente rápido, os primeiros dados do Proba-3 revelam que apareceram pela primeira vez no EarthSky.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os primeiros dados da sonda Proba-3 revelaram que o vento solar lento viaja muito mais rápido do que o esperado na coroa interna do Sol. O vento.",
+      "Dado-chave: O vento solar pós-lento é estranhamente rápido, os primeiros dados do Proba-3 revelam que apareceram pela primeira vez no EarthSky.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Early data from the Proba-3 spacecraft has revealed that slow solar wind travels much faster than expected in the sun's inner corona. The post Slow.",
+      "Key detail: The post Slow solar wind is oddly fast, first Proba-3 data reveals first appeared on EarthSky.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "26 abr 2026",
+    "date_pt": "26 abr 2026",
+    "date_en": "26 Apr 2026",
+    "time": "10h33",
+    "time_pt": "10h33",
+    "time_en": "10:33 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-26T10:33:31+00:00",
+    "lastModifiedIso": "2026-04-26T10:33:31+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "O vento solar lento é estranhamente rápido",
+      "revelam os primeiros dados do Proba"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "O vento solar lento é estranhamente rápido",
+      "revelam os primeiros dados do Proba"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "The slow solar wind is strangely fast",
+      "reveal the first data from Proba"
+    ],
+    "srcUrl": "https://earthsky.org/sun/slow-solar-wind-is-oddly-fast-proba-3/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=slow-solar-wind-is-oddly-fast-first-proba-3-data-reveals",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=slow-solar-wind-is-oddly-fast-first-proba-3-data-reveals",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=slow-solar-wind-is-oddly-fast-first-proba-3-data-reveals&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 73,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 8,
     "slug": "new-organics-on-mars-raise-questions-about-ancient-life",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -560,22 +802,22 @@ window.postsData = [
     "excerpt": "O rover Curiosity da NASA identificou a coleção mais diversa de produtos orgânicos já encontrada em Marte. Eles incluem alguns produtos orgânicos nunca vistos antes. A postagem Novos orgânicos em Marte levantam questões sobre a vida antiga apareceu pela.",
     "excerpt_pt": "O rover Curiosity da NASA identificou a coleção mais diversa de produtos orgânicos já encontrada em Marte. Eles incluem alguns produtos orgânicos nunca vistos antes. A postagem Novos orgânicos em Marte levantam questões sobre a vida antiga apareceu pela.",
     "excerpt_en": "NASA's Curiosity rover has identified the most diverse collection of organics on Mars ever found. They include some organics never seen before. The post New organics on Mars raise questions about ancient life first appeared on EarthSky.",
-    "body": "<p>O rover Curiosity da NASA identificou a coleção mais diversa de produtos orgânicos já encontrada em Marte. Eles incluem alguns produtos orgânicos nunca vistos antes. A postagem Novos orgânicos em Marte levantam questões sobre a vida antiga apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O veículo espacial os encontrou em uma rocha chamada Mary Anning, que perfurou pela primeira vez em 2020. A matéria orgânica inclui sete novas moléculas contendo carbono que os cientistas nunca tinham visto antes em Marte.</p><p>Os novos compostos orgânicos aumentam a evidência de que Marte tinha a química certa para sustentar a vida no passado antigo. A NASA disse em 21 de abril de 2026 que identificá-los levou anos de trabalho de laboratório, tanto no laboratório a bordo do Curiosity quanto em estudos de comparação na Terra.</p><p>No geral, o rover encontrou 21 moléculas contendo carbono em uma rocha que amostrou pela primeira vez em 2020. Os pesquisadores publicaram os tentadores resultados revisados ​​por pares na Nature Communications em 21 de abril de 2026.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/organics-on-mars-mary-anning-3-curiosity-rover/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O rover Curiosity da NASA identificou a coleção mais diversa de produtos orgânicos já encontrada em Marte. Eles incluem alguns produtos orgânicos nunca vistos antes. A postagem Novos orgânicos em Marte levantam questões sobre a vida antiga apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O veículo espacial os encontrou em uma rocha chamada Mary Anning, que perfurou pela primeira vez em 2020. A matéria orgânica inclui sete novas moléculas contendo carbono que os cientistas nunca tinham visto antes em Marte.</p><p>Os novos compostos orgânicos aumentam a evidência de que Marte tinha a química certa para sustentar a vida no passado antigo. A NASA disse em 21 de abril de 2026 que identificá-los levou anos de trabalho de laboratório, tanto no laboratório a bordo do Curiosity quanto em estudos de comparação na Terra.</p><p>No geral, o rover encontrou 21 moléculas contendo carbono em uma rocha que amostrou pela primeira vez em 2020. Os pesquisadores publicaram os tentadores resultados revisados ​​por pares na Nature Communications em 21 de abril de 2026.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/organics-on-mars-mary-anning-3-curiosity-rover/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>NASA&#x27;s Curiosity rover has identified the most diverse collection of organics on Mars ever found. They include some organics never seen before. The post New organics on Mars raise questions about ancient life first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The rover found them in a rock called Mary Anning, which it first drilled in 2020. The organics include seven new carbon-bearing molecules that scientists had never seen before on Mars.</p><p>The new organics add to the evidence that Mars had the right chemistry to support life in the ancient past. NASA said on April 21, 2026, that pinpointing them took years of lab work, both in Curiosity’s onboard laboratory and in comparison studies back on Earth.</p><p>Overall, the rover found 21 carbon-bearing molecules in a rock it first sampled in 2020. The researchers published the tantalizing peer-reviewed results in Nature Communications on April 21, 2026.</p><p>NASA’s Curiosity Finds Organic Molecules Never Seen Before on Marswww. nasa. gov/missions/mar, HiRISE Beautiful Mars (NASA) (@uahirise. bsky. social) 2026-04-21T21: 25: 34.798Z. Amy Williams at the University of Florida is the lead author of the new study about organics on Mars.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The minicab inside the rover, called Sample Analysis at Mars ( SAM ), can drop samples of powdered rock into small cups containing solvent. Largest organic molecules on Mars The new findings by Curiosity also complement the announcement last year of the largest organic molecules ever found on Mars.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/organics-on-mars-mary-anning-3-curiosity-rover/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>O rover Curiosity da NASA identificou a coleção mais diversa de produtos orgânicos já encontrada em Marte. Eles incluem alguns produtos orgânicos nunca vistos antes. A postagem Novos orgânicos em Marte levantam questões sobre a vida antiga apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. É dentro desta rocha que os cientistas detectaram diversos compostos orgânicos em Marte. Os novos produtos orgânicos aumentam as evidências da vida em Marte agora ou no passado.</p><p>A NASA disse em 21 de abril de 2026 que identificá-los levou anos de trabalho de laboratório, tanto no laboratório a bordo do Curiosity quanto em estudos de comparação na Terra. No geral, o rover encontrou 21 moléculas contendo carbono em uma rocha que amostrou pela primeira vez em 2020.</p><p>Os pesquisadores publicaram os tentadores resultados revisados ​​por pares na Nature Communications em 21 de abril de 2026. Curiosity da NASA encontra moléculas orgânicas nunca vistas antes em Martewww. nasa. gov/missions/mar, HiRISE Beautiful Mars (NASA) (@uahirise. bsky. social) 2026-04-21T21: 25.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/organics-on-mars-mary-anning-3-curiosity-rover/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O rover Curiosity da NASA identificou a coleção mais diversa de produtos orgânicos já encontrada em Marte. Eles incluem alguns produtos orgânicos nunca vistos antes. A postagem Novos orgânicos em Marte levantam questões sobre a vida antiga apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. É dentro desta rocha que os cientistas detectaram diversos compostos orgânicos em Marte. Os novos produtos orgânicos aumentam as evidências da vida em Marte agora ou no passado.</p><p>A NASA disse em 21 de abril de 2026 que identificá-los levou anos de trabalho de laboratório, tanto no laboratório a bordo do Curiosity quanto em estudos de comparação na Terra. No geral, o rover encontrou 21 moléculas contendo carbono em uma rocha que amostrou pela primeira vez em 2020.</p><p>Os pesquisadores publicaram os tentadores resultados revisados ​​por pares na Nature Communications em 21 de abril de 2026. Curiosity da NASA encontra moléculas orgânicas nunca vistas antes em Martewww. nasa. gov/missions/mar, HiRISE Beautiful Mars (NASA) (@uahirise. bsky. social) 2026-04-21T21: 25.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/organics-on-mars-mary-anning-3-curiosity-rover/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>NASA&#x27;s Curiosity rover has identified the most diverse collection of organics on Mars ever found. They include some organics never seen before. The post New organics on Mars raise questions about ancient life first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. It’s within this rock that scientists have now detected diverse organics on Mars. The new organics add to the evidence for Mars’ life now or in the past.</p><p>NASA said on April 21, 2026, that pinpointing them took years of lab work, both in Curiosity’s onboard laboratory and in comparison studies back on Earth. Overall, the rover found 21 carbon-bearing molecules in a rock it first sampled in 2020.</p><p>The researchers published the tantalizing peer-reviewed results in Nature Communications on April 21, 2026. NASA’s Curiosity Finds Organic Molecules Never Seen Before on Marswww. nasa. gov/missions/mar, HiRISE Beautiful Mars (NASA) (@uahirise. bsky. social) 2026-04-21T21: 25: 34.798Z.</p><p>Amy Williams at the University of Florida is the lead author of the new study about organics on Mars. The minicab inside the rover, called Sample Analysis at Mars ( SAM ), can drop samples of powdered rock into small cups containing solvent.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>And Mary Anning 3 was the first sample tested in one of those cups. Largest organic molecules on Mars The new findings by Curiosity also complement the announcement last year of the largest organic molecules ever found on Mars.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/organics-on-mars-mary-anning-3-curiosity-rover/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: O rover Curiosity da NASA identificou a coleção mais diversa de produtos orgânicos já encontrada em Marte. Eles incluem alguns produtos orgânicos.",
-      "Dado-chave: O veículo espacial os encontrou em uma rocha chamada Mary Anning, que perfurou pela primeira vez em 2020.",
+      "Dado-chave: É dentro desta rocha que os cientistas detectaram diversos compostos orgânicos em Marte.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: O rover Curiosity da NASA identificou a coleção mais diversa de produtos orgânicos já encontrada em Marte. Eles incluem alguns produtos orgânicos.",
-      "Dado-chave: O veículo espacial os encontrou em uma rocha chamada Mary Anning, que perfurou pela primeira vez em 2020.",
+      "Dado-chave: É dentro desta rocha que os cientistas detectaram diversos compostos orgânicos em Marte.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: NASA's Curiosity rover has identified the most diverse collection of organics on Mars ever found. They include some organics never seen before. The.",
-      "Key detail: The rover found them in a rock called Mary Anning, which it first drilled in 2020.",
+      "Key detail: It’s within this rock that scientists have now detected diverse organics on Mars.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "26 abr 2026",
@@ -634,7 +876,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -648,7 +890,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 9,
     "slug": "may-s-full-moon-is-called-the-flower-moon",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -763,7 +1005,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 10,
     "slug": "crater-the-cup-sits-upon-hydra-the-snake-s-back",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -876,263 +1118,6 @@ window.postsData = [
       "source": 72,
       "evidence": 82,
       "relevance": 62,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 9,
-    "slug": "webb-finds-water-ice-clouds-on-nearby-super-jupiter",
-    "cat": "Exoplanetas",
-    "catCls": "exoplanetas",
-    "img": "https://www.universetoday.com/article_images/ezgif-7135a6dbf527e30a_750_20260426_040536.jpg",
-    "inline_images": [],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/jxww7if3qfe",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.universetoday.com/articles/webb-finds-water-ice-clouds-on-nearby-super-jupiter"
-    },
-    "audio": null,
-    "title": "Webb encontra nuvens de água e gelo no vizinho Super-Júpiter",
-    "title_pt": "Webb encontra nuvens de água e gelo no vizinho Super-Júpiter",
-    "title_en": "Webb Finds Water-Ice Clouds on Nearby Super-Jupiter",
-    "sub": "Os planetas gigantes do nosso sistema solar, Júpiter, Saturno, Urano e Netuno, desafiaram a nossa compreensão da formação e evolução planetária. Especificamente, suas formações e.",
-    "sub_pt": "Os planetas gigantes do nosso sistema solar, Júpiter, Saturno, Urano e Netuno, desafiaram a nossa compreensão da formação e evolução planetária. Especificamente, suas formações e.",
-    "sub_en": "The giant planets in our solar system, Jupiter, Saturn, Uranus, and Neptune, have challenged our understanding of planetary formation and evolution. Specifically, their.",
-    "excerpt": "Os planetas gigantes do nosso sistema solar, Júpiter, Saturno, Urano e Netuno, desafiaram a nossa compreensão da formação e evolução planetária. Especificamente, suas formações e composições atmosféricas proporcionaram inspiração.",
-    "excerpt_pt": "Os planetas gigantes do nosso sistema solar, Júpiter, Saturno, Urano e Netuno, desafiaram a nossa compreensão da formação e evolução planetária. Especificamente, suas formações e composições atmosféricas proporcionaram inspiração.",
-    "excerpt_en": "The giant planets in our solar system, Jupiter, Saturn, Uranus, and Neptune, have challenged our understanding of planetary formation and evolution. Specifically, their atmospheric formations and compositions have provided awe-inspiring.",
-    "body": "<p>Os planetas gigantes do nosso sistema solar, Júpiter, Saturno, Urano e Netuno, desafiaram a nossa compreensão da formação e evolução planetária. Especificamente, suas formações e composições atmosféricas proporcionaram inspiração. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Agora, uma equipa internacional de investigadores poderá ajudar a colmatar esta lacuna de conhecimento, estudando a atmosfera de um exoplaneta super-Júpiter, utilizando um dos. Para o estudo, os pesquisadores usaram o Telescópio Espacial James Webb (JWST) da NASA para analisar a atmosfera de Eps Ind Ab, que se estima ter várias massas maiores que Júpiter.</p><p>Ele orbita aproximadamente 30 unidades astronômicas (UA), ou próximo à órbita de Netuno, de sua estrela do tipo K, Eps Ind A. Embora este sistema tenha duas anãs marrons que orbitam uma à outra, Epsilon Indi Ba e Bb, elas estão localizadas a aproximadamente 1.460 UA da estrela primária de Eps Ind A.</p><p>Eps Ind Ab é conhecido como um exoplaneta frio com uma temperatura estimada de aproximadamente 275 Kelvin (2 graus Celsius/35 graus Fahrenheit). Embora a amônia já tivesse sido descoberta na atmosfera de Eps Ind Ab em um estudo de 2024, essa equipe também observou que a atmosfera de Eps Ind Ab era mais brilhante do que o.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/webb-finds-water-ice-clouds-on-nearby-super-jupiter\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os planetas gigantes do nosso sistema solar, Júpiter, Saturno, Urano e Netuno, desafiaram a nossa compreensão da formação e evolução planetária. Especificamente, suas formações e composições atmosféricas proporcionaram inspiração. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Agora, uma equipa internacional de investigadores poderá ajudar a colmatar esta lacuna de conhecimento, estudando a atmosfera de um exoplaneta super-Júpiter, utilizando um dos. Para o estudo, os pesquisadores usaram o Telescópio Espacial James Webb (JWST) da NASA para analisar a atmosfera de Eps Ind Ab, que se estima ter várias massas maiores que Júpiter.</p><p>Ele orbita aproximadamente 30 unidades astronômicas (UA), ou próximo à órbita de Netuno, de sua estrela do tipo K, Eps Ind A. Embora este sistema tenha duas anãs marrons que orbitam uma à outra, Epsilon Indi Ba e Bb, elas estão localizadas a aproximadamente 1.460 UA da estrela primária de Eps Ind A.</p><p>Eps Ind Ab é conhecido como um exoplaneta frio com uma temperatura estimada de aproximadamente 275 Kelvin (2 graus Celsius/35 graus Fahrenheit). Embora a amônia já tivesse sido descoberta na atmosfera de Eps Ind Ab em um estudo de 2024, essa equipe também observou que a atmosfera de Eps Ind Ab era mais brilhante do que o.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/webb-finds-water-ice-clouds-on-nearby-super-jupiter\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The giant planets in our solar system, Jupiter, Saturn, Uranus, and Neptune, have challenged our understanding of planetary formation and evolution. Specifically, their atmospheric formations and compositions have provided awe-inspiring. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. Now, an international team of researchers might help close this knowledge gap by studying the atmosphere of a super-Jupiter exoplanet using one of NASA’s most powerful space. For the study, the researchers used NASA’s James Webb Space Telescope (JWST) to analyze the atmosphere of Eps Ind Ab, which is estimated to be several masses larger than Jupiter.</p><p>It orbits approximately 30 astronomical units (AU), or about the orbit of Neptune, from its K-type star, Eps Ind A. While this system does have two brown dwarfs that orbit each other, Epsilon Indi Ba and Bb, they are located approximately 1,460 AU from the primary star of Eps Ind A.</p><p>Eps Ind Ab is known as a cold exoplanet with an estimated temperature of approximately 275 Kelvin (2 degrees Celsius/35 degrees Fahrenheit). While ammonia had previously been discovered in the atmosphere of Eps Ind Ab in a 2024 study, that team also observed the atmosphere of Eps Ind Ab to be brighter than they.</p><p>Using a higher observation wavelength than in the 2024 study, this study found that Eps Ind Ab was even brighter at this new wavelength, but the team found the amount of ammonia. “It’s a great problem to have, and it speaks to the immense progress we’re making thanks to JWST,” said James Mang, who is a PhD student at the University of Texas at Austin and a.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>This reveals new layers of complexity that our models are now beginning to capture and opens the door to even more detailed characterization of these cold, distant worlds.”. Orbital eccentricity is measured from 0 to 10 with 0 being a perfect circle.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/webb-finds-water-ice-clouds-on-nearby-super-jupiter\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os planetas gigantes do nosso sistema solar, Júpiter, Saturno, Urano e Netuno, desafiaram a nossa compreensão da formação e evolução planetária.",
-      "Dado-chave: Agora, uma equipa internacional de investigadores poderá ajudar a colmatar esta lacuna de conhecimento, estudando a atmosfera de um exoplaneta.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os planetas gigantes do nosso sistema solar, Júpiter, Saturno, Urano e Netuno, desafiaram a nossa compreensão da formação e evolução planetária.",
-      "Dado-chave: Agora, uma equipa internacional de investigadores poderá ajudar a colmatar esta lacuna de conhecimento, estudando a atmosfera de um exoplaneta.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The giant planets in our solar system, Jupiter, Saturn, Uranus, and Neptune, have challenged our understanding of planetary formation and evolution.",
-      "Key detail: Now, an international team of researchers might help close this knowledge gap by studying the atmosphere of a super-Jupiter exoplanet using one.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "26 abr 2026",
-    "date_pt": "26 abr 2026",
-    "date_en": "26 Apr 2026",
-    "time": "04h05",
-    "time_pt": "04h05",
-    "time_en": "04:05 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-26T04:05:48+00:00",
-    "lastModifiedIso": "2026-04-26T04:05:48+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Exoplanetas",
-      "Universe Today",
-      "Cosmos Week",
-      "Webb encontra nuvens de água e gelo no vizinho Super",
-      "Júpiter"
-    ],
-    "keywords_pt": [
-      "Exoplanetas",
-      "Universe Today",
-      "Cosmos Week",
-      "Webb encontra nuvens de água e gelo no vizinho Super",
-      "Júpiter"
-    ],
-    "keywords_en": [
-      "Exoplanets",
-      "Universe Today",
-      "Cosmos Week",
-      "Webb finds clouds of water and ice in nearby Super",
-      "Jupiter"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/webb-finds-water-ice-clouds-on-nearby-super-jupiter",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-finds-water-ice-clouds-on-nearby-super-jupiter",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-finds-water-ice-clouds-on-nearby-super-jupiter",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-finds-water-ice-clouds-on-nearby-super-jupiter&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "contribution-to-artemis-ii-moon-mission-sees-successful-test-of-a-space-camera-under-cosmic-ray-",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/important-contribution-2.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/important-contribution-2.jpg",
-        "caption": "Capturada pela tripulação do Artemis II durante seu sobrevôo lunar em 6 de abril de 2026, esta imagem mostra a lua eclipsando totalmente o sol. Da perspectiva da tripulação, a lua parece grande o suficiente para bloquear completamente o sol, criando quase 54.",
-        "caption_pt": "Capturada pela tripulação do Artemis II durante seu sobrevôo lunar em 6 de abril de 2026, esta imagem mostra a lua eclipsando totalmente o sol. Da perspectiva da tripulação, a lua parece grande o suficiente para bloquear completamente o sol, criando quase 54.",
-        "caption_en": "Captured by the Artemis II crew during their lunar flyby on April 6, 2026, this image shows the moon fully eclipsing the sun. From the crew's perspective, the moon appears large enough to completely block the sun, creating nearly 54.",
-        "alt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
-        "alt_pt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
-        "alt_en": "Important contribution by GSI/FAIR to the Artemis II Moon mission — Successful test of a space camera under cosmic ray conditions"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800/2026/important-contribution-1.jpg",
-        "caption": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
-        "caption_pt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
-        "caption_en": "Important contribution by GSI/FAIR to the Artemis II Moon mission — Successful test of a space camera under cosmic ray conditions",
-        "alt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
-        "alt_pt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
-        "alt_en": "Important contribution by GSI/FAIR to the Artemis II Moon mission — Successful test of a space camera under cosmic ray conditions"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800/2026/important-contribution.jpg",
-        "caption": "Em primeiro plano à esquerda, o tubo do feixe é visível, seguido pelos monitores do feixe (câmara de prata com folha de ouro). No fundo, a estação de testes eletrônicos está localizada com a câmera Nikon Z9 montada, que a NASA testou.",
-        "caption_pt": "Em primeiro plano à esquerda, o tubo do feixe é visível, seguido pelos monitores do feixe (câmara de prata com folha de ouro). No fundo, a estação de testes eletrônicos está localizada com a câmera Nikon Z9 montada, que a NASA testou.",
-        "caption_en": "In the foreground on the left, the beam pipe is visible, followed by beam monitors (silver chamber with gold foil). In the background, the electronics test station is located with the mounted Nikon Z9 camera, which NASA has tested at.",
-        "alt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
-        "alt_pt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
-        "alt_en": "Important contribution by GSI/FAIR to the Artemis II Moon mission — Successful test of a space camera under cosmic ray conditions"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Contribuição para a missão Artemis II Moon vê teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
-    "title_pt": "Contribuição para a missão Artemis II Moon vê teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
-    "title_en": "Contribution to Artemis II Moon mission sees successful test of a space camera under cosmic ray conditions",
-    "sub": "O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Foi uma câmera.",
-    "sub_pt": "O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Foi uma câmera.",
-    "sub_en": "The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the success of the Artemis II moon.",
-    "excerpt": "O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Foi uma câmera desenvolvida especialmente para uso no espaço.",
-    "excerpt_pt": "O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Foi uma câmera desenvolvida especialmente para uso no espaço.",
-    "excerpt_en": "The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the success of the Artemis II moon mission. A camera specially developed for use in space was.",
-    "body": "<p>O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Foi uma câmera desenvolvida especialmente para uso no espaço. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Capturada pela tripulação do Artemis II.</p><p>Da perspectiva da tripulação, a Lua parece grande o suficiente para bloquear completamente o Sol, criando quase 54 minutos de totalidade e estendendo a visão muito além do que é. A foto foi tirada com o modelo de câmera Nikon Z9 testado na GSI/FAIR.</p><p>NASA O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. A câmera, um modelo especialmente modificado da Nikon Z9, foi submetida a extensos testes de radiação pela NASA no acelerador de partículas GSI/FAIR em março de 2025.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-contribution-artemis-ii-moon-mission.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Foi uma câmera desenvolvida especialmente para uso no espaço. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Capturada pela tripulação do Artemis II.</p><p>Da perspectiva da tripulação, a Lua parece grande o suficiente para bloquear completamente o Sol, criando quase 54 minutos de totalidade e estendendo a visão muito além do que é. A foto foi tirada com o modelo de câmera Nikon Z9 testado na GSI/FAIR.</p><p>NASA O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. A câmera, um modelo especialmente modificado da Nikon Z9, foi submetida a extensos testes de radiação pela NASA no acelerador de partículas GSI/FAIR em março de 2025.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-contribution-artemis-ii-moon-mission.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the success of the Artemis II moon mission. A camera specially developed for use in space was. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the success of the Artemis II moon mission. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Captured by the Artemis II crew during their lunar flyby on.</p><p>From the crew&#x27;s perspective, the moon appears large enough to completely block the sun, creating nearly 54 minutes of totality and extending the view far beyond what is possible. The picture was taken with the Nikon Z9 camera model tested at GSI/FAIR.</p><p>NASA The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the success of the Artemis II moon. The camera, a specially modified model of the Nikon Z9, was subjected to extensive radiation testing by NASA at the GSI/FAIR particle accelerator in March 2025.</p><p>The camera model, successfully tested in this manner, was now used in NASA&#x27;s recently successfully completed Artemis II lunar mission and delivered impressive images, including. NASA plans to use this camera model in future missions under the Artemis program as well, particularly during the planned return of astronauts to the lunar surface.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>This will mark the first time in over 50 years that humans will set foot on the moon. Our accelerator facilities enable us to precisely simulate cosmic radiation on Earth,&quot; explains Professor Thomas Nilsson, Scientific Managing Director of GSI/FAIR.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-contribution-artemis-ii-moon-mission.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar.",
-      "Dado-chave: O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar.",
-      "Dado-chave: O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the success.",
-      "Key detail: The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "25 abr 2026",
-    "date_pt": "25 abr 2026",
-    "date_en": "25 Apr 2026",
-    "time": "17h30",
-    "time_pt": "17h30",
-    "time_en": "17:30 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-25T17:30:01+00:00",
-    "lastModifiedIso": "2026-04-25T17:30:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Física",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Contribuição para a missão Artemis II Moon vê teste bem",
-      "sucedido de uma câmera espacial sob condições de raios cósmicos"
-    ],
-    "keywords_pt": [
-      "Física",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Contribuição para a missão Artemis II Moon vê teste bem",
-      "sucedido de uma câmera espacial sob condições de raios cósmicos"
-    ],
-    "keywords_en": [
-      "Physical",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Contribution to Artemis II Moon mission sees test well",
-      "taken from a space camera under cosmic ray conditions"
-    ],
-    "srcUrl": "https://phys.org/news/2026-04-contribution-artemis-ii-moon-mission.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=contribution-to-artemis-ii-moon-mission-sees-successful-test-of-a-space-camera-under-cosmic-ray-",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=contribution-to-artemis-ii-moon-mission-sees-successful-test-of-a-space-camera-under-cosmic-ray-",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=contribution-to-artemis-ii-moon-mission-sees-successful-test-of-a-space-camera-under-cosmic-ray-&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 82,
       "accessibility": 60,
       "novelty": 55
     }
@@ -1251,7 +1236,35 @@ window.postsData = [
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/smile_delivered_to_space_artist_impression_gif/27126681-1-eng-GB/Smile_delivered_to_space_artist_impression_GIF_card_full.gif",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/smile_launch_timeline/27119760-2-eng-GB/Smile_launch_timeline_article.jpg",
+        "caption": "Cronograma de lançamento do Smile",
+        "caption_pt": "Cronograma de lançamento do Smile",
+        "caption_en": "Smile launch timeline",
+        "alt": "Cronograma de lançamento do Smile",
+        "alt_pt": "Cronograma de lançamento do Smile",
+        "alt_en": "Smile launch timeline"
+      },
+      {
+        "src": "https://www.esa.int/extension/pillars/design/pillars/images/play-button.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/what_is_smile_about_to_discover/27167698-1-eng-GB/What_is_Smile_about_to_discover_pillars.jpg",
+        "caption": "$video.data_map.short_description.content",
+        "caption_pt": "$video.data_map.short_description.content",
+        "caption_en": "$video.data_map.short_description.content",
+        "alt": "$video.data_map.short_description.content",
+        "alt_pt": "$video.data_map.short_description.content",
+        "alt_en": "$video.data_map.short_description.content"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Smile será lançado em 19 de maio",
@@ -1263,9 +1276,9 @@ window.postsData = [
     "excerpt": "A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C.",
     "excerpt_pt": "A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C.",
     "excerpt_en": "The European-Chinese Smile mission is due to launch on Tuesday 19 May 2026, at 05: 52 CEST / 04: 52 BST / 00: 52 local time on a European Vega-C rocket.",
-    "body": "<p>A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Smile Europeu-Chinesa deverá ser lançada na terça-feira, 19 de maio de 2026, às 05: 52 CEST/04: 52 BST/00: 52 hora local em um foguete europeu Vega-C.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Smile Europeu-Chinesa deverá ser lançada na terça-feira, 19 de maio de 2026, às 05: 52 CEST/04: 52 BST/00: 52 hora local em um foguete europeu Vega-C.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European-Chinese Smile mission is due to launch on Tuesday 19 May 2026, at 05: 52 CEST / 04: 52 BST / 00: 52 local time on a European Vega-C rocket. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Smile Europeu-Chinesa deverá ser lançada na terça-feira, 19 de maio de 2026, às 05: 52 CEST/04: 52 BST/00: 52 hora local em um foguete europeu Vega-C. Após a conclusão de investigações cuidadosas sobre a questão, todos os parceiros concordaram em 19 de maio como a nova data de lançamento.</p><p>Irá revelar como a Terra responde aos fluxos de partículas e às explosões de radiação do Sol, utilizando uma câmara de raios X para fazer as primeiras observações de raios X do. Durante o lançamento, os quatro estágios do Vega-C serão separados um por um, antes de finalmente liberar o Smile após 57 minutos.</p><p>Os painéis solares da Smile serão desdobrados após 63 minutos, o marco que confirma o sucesso do lançamento. O lançamento colocará o Smile em uma órbita baixa da Terra.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Smile Europeu-Chinesa deverá ser lançada na terça-feira, 19 de maio de 2026, às 05: 52 CEST/04: 52 BST/00: 52 hora local em um foguete europeu Vega-C. Após a conclusão de investigações cuidadosas sobre a questão, todos os parceiros concordaram em 19 de maio como a nova data de lançamento.</p><p>Irá revelar como a Terra responde aos fluxos de partículas e às explosões de radiação do Sol, utilizando uma câmara de raios X para fazer as primeiras observações de raios X do. Durante o lançamento, os quatro estágios do Vega-C serão separados um por um, antes de finalmente liberar o Smile após 57 minutos.</p><p>Os painéis solares da Smile serão desdobrados após 63 minutos, o marco que confirma o sucesso do lançamento. O lançamento colocará o Smile em uma órbita baixa da Terra.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European-Chinese Smile mission is due to launch on Tuesday 19 May 2026, at 05: 52 CEST / 04: 52 BST / 00: 52 local time on a European Vega-C rocket. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Following the completion of careful investigations into the issue, all partners have agreed on 19 May as the new launch date. It will reveal how Earth responds to the streams of particles and bursts of radiation from the Sun, using an X-ray camera to make the first X-ray observations of Earth’s magnetic.</p><p>During the launch, the four stages of the Vega-C will separate one by one, before finally releasing Smile after 57 minutes. Smile’s solar panels will unfold after 63 minutes, the milestone that confirms launch success.</p><p>The launch will drop Smile off into a low-Earth orbit. From there, the spacecraft will take over to bring itself to its final, egg-shaped orbit that goes 121 000 km above the North Pole to collect data, before coming 5000 km above the.</p><p>For the latest updates on the launch, visit our dedicated page and follow @science. esa. int and @transport. esa. int (Bluesky) and @esascience and @ESA_transport (X). Our Smile launch kit is a set of infographics providing an overview of the mission, its science goals and the launch timeline.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Smile (the Solar wind Magnetosphere Ionosphere Link Explorer) is a joint mission between the European Space Agency (ESA) and the Chinese Academy of Sciences (CAS). Smile will use four science instruments to study how Earth responds to the solar wind from the Sun.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu.",
       "Dado-chave: A missão Smile Europeu-Chinesa deverá ser lançada na terça-feira, 19 de maio de 2026, às 05: 52 CEST/04: 52 BST/00: 52 hora local em um foguete.",
@@ -1356,7 +1369,35 @@ window.postsData = [
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/close-up_of_plato_s_cameras/27212574-1-eng-GB/Close-up_of_Plato_s_cameras_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/close-up_of_plato_s_cameras/27212574-1-eng-GB/Close-up_of_Plato_s_cameras_pillars.jpg",
+        "caption": "Close das câmeras de Platão",
+        "caption_pt": "Close das câmeras de Platão",
+        "caption_en": "Close-up of Plato’s cameras",
+        "alt": "Close das câmeras de Platão",
+        "alt_pt": "Close das câmeras de Platão",
+        "alt_en": "Close-up of Plato’s cameras"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/lifting_plato_out_of_the_large_space_simulator/27212621-1-eng-GB/Lifting_Plato_out_of_the_Large_Space_Simulator_pillars.jpg",
+        "caption": "Tirando Platão do Grande Simulador Espacial",
+        "caption_pt": "Tirando Platão do Grande Simulador Espacial",
+        "caption_en": "Lifting Plato out of the Large Space Simulator",
+        "alt": "Tirando Platão do Grande Simulador Espacial",
+        "alt_pt": "Tirando Platão do Grande Simulador Espacial",
+        "alt_en": "Lifting Plato out of the Large Space Simulator"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/plato_leaves_the_large_space_simulator/27212668-1-eng-GB/Plato_leaves_the_Large_Space_Simulator_pillars.jpg",
+        "caption": "Platão deixa o Grande Simulador de Espaço",
+        "caption_pt": "Platão deixa o Grande Simulador de Espaço",
+        "caption_en": "Plato leaves the Large Space Simulator",
+        "alt": "Platão deixa o Grande Simulador de Espaço",
+        "alt_pt": "Platão deixa o Grande Simulador de Espaço",
+        "alt_en": "Plato leaves the Large Space Simulator"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Platão acerta testes espaciais",
@@ -1368,22 +1409,22 @@ window.postsData = [
     "excerpt": "A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra.",
     "excerpt_pt": "A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra.",
     "excerpt_en": "The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial.",
-    "body": "<p>A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial planets.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres. Plato emergiu recentemente da câmara do Large Space Simulator (LSS) no Centro de Testes da ESA, onde a nave espacial conheceu pela primeira vez os rigores do espaço.</p><p>O objetivo geral da missão é descobrir planetas potencialmente habitáveis, semelhantes à Terra, em torno de estrelas brilhantes semelhantes ao Sol. Para isso, o desempenho das 26 câmeras ultrassensíveis de Platão é crucial.</p><p>“Para encontrar e caracterizar planetas semelhantes à Terra em órbita em torno de estrelas semelhantes ao Sol, precisamos de descobrir variações na luminosidade de uma estrela. Gestor de Projeto Plato da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres. Plato emergiu recentemente da câmara do Large Space Simulator (LSS) no Centro de Testes da ESA, onde a nave espacial conheceu pela primeira vez os rigores do espaço.</p><p>O objetivo geral da missão é descobrir planetas potencialmente habitáveis, semelhantes à Terra, em torno de estrelas brilhantes semelhantes ao Sol. Para isso, o desempenho das 26 câmeras ultrassensíveis de Platão é crucial.</p><p>“Para encontrar e caracterizar planetas semelhantes à Terra em órbita em torno de estrelas semelhantes ao Sol, precisamos de descobrir variações na luminosidade de uma estrela. Gestor de Projeto Plato da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial planets. Plato recently emerged from the Large Space Simulator (LSS) chamber at ESA’s Test Centre, where the spacecraft made its first acquaintance with the rigours of space.</p><p>The mission’s overarching goal is to discover potentially habitable, Earth-like planets around bright stars similar to the Sun. For this, the performance of Plato’s 26 ultrasensitive cameras is crucial.</p><p>“To find and characterise Earth-like planets in orbit around Sun-like stars, we need to tease out variations in a star’s luminosity smaller than 80 parts per million,” explains. ESA’s Plato Project Manager.</p><p>“We want to verify that the spacecraft can do what we expect it to do in harsh as well as nominal space conditions.” During the hot phase, engineers ran all the spacecraft’s. At the same time, they made sure that the cameras, protected by the sunshield and facing the cold part of the chamber, stayed between –70 and –90 °C.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The tests in a space-like environment have been completed, but the analysis of the data collected while Plato was inside the LSS will continue in the coming months. Lift-off on an Ariane 6 is planned by Arianespace for January 2027.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta.",
-      "Dado-chave: A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço.",
+      "Dado-chave: Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta.",
-      "Dado-chave: A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço.",
+      "Dado-chave: Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions. With this accomplishment, the.",
-      "Key detail: The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions.",
+      "Key detail: With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial planets.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "23 abr 2026",
@@ -2500,6 +2541,282 @@ window.postsData = [
   },
   {
     "id": 22,
+    "slug": "msl-curiosity-found-new-organic-chemicals-on-mars-proof-that-the-planet-can-preserve-ancient-bio",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://www.universetoday.com/article_images/E2-PIA23139-Landscape_showing_clay_region.width-1320_20260422_174258.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/e2-Curiosity_drill_holes_at_Mary_Anning_PIA24.width-1280_20260422_173948.jpg",
+        "caption": "MSL Curiosity perfurou três furos de amostra na rocha Mary Anning e encontrou mais de 20 moléculas orgânicas em um deles. Sete destas moléculas nunca foram encontradas em Marte antes, incluindo uma que",
+        "caption_pt": "MSL Curiosity perfurou três furos de amostra na rocha Mary Anning e encontrou mais de 20 moléculas orgânicas em um deles. Sete destas moléculas nunca foram encontradas em Marte antes, incluindo uma que",
+        "caption_en": "MSL Curiosity drilled three sample holes in the Mary Anning rock and found more than 20 organic molecules in one of them. Seven of these molecules have never been found on Mars before, including one that",
+        "alt": "MSL Curiosity perfurou três furos de amostra na rocha Mary Anning e encontrou mais de 20 moléculas orgânicas em um deles. Sete destas moléculas nunca foram encontradas em Marte antes, incluindo uma que",
+        "alt_pt": "MSL Curiosity perfurou três furos de amostra na rocha Mary Anning e encontrou mais de 20 moléculas orgânicas em um deles. Sete destas moléculas nunca foram encontradas em Marte antes, incluindo uma que",
+        "alt_en": "MSL Curiosity drilled three sample holes in the Mary Anning rock and found more than 20 organic molecules in one of them. Seven of these molecules have never been found on Mars before, including one that"
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/1920px-Sample_Analysis_at_Mars_MSL_20260422_174238.jpg",
+        "caption": "Curiosidade MSL",
+        "caption_pt": "Curiosidade MSL",
+        "caption_en": "MSL Curiosity",
+        "alt": "Curiosidade MSL",
+        "alt_pt": "Curiosidade MSL",
+        "alt_en": "MSL Curiosity"
+      }
+    ],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/svjydqekbea",
+      "fileUrl": "",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://www.universetoday.com/articles/msl-curiosity-found-new-organic-chemicals-on-mars-proof-that-the-planet-can-preserve-ancient-biosign"
+    },
+    "audio": null,
+    "title": "MSL Curiosity encontrou novos produtos químicos orgânicos em Marte, prova de que o planeta pode preservar antigas bioassinaturas",
+    "title_pt": "MSL Curiosity encontrou novos produtos químicos orgânicos em Marte, prova de que o planeta pode preservar antigas bioassinaturas",
+    "title_en": "MSL Curiosity Found New Organic Chemicals On Mars, Proof That The Planet Can Preserve Ancient Biosignatures",
+    "sub": "MSL Curiosity encontrou 7 novas moléculas orgânicas preservadas em arenito marciano. Embora não sejam prova de que existiu vida em Marte, são importantes. Eles mostram que o.",
+    "sub_pt": "MSL Curiosity encontrou 7 novas moléculas orgânicas preservadas em arenito marciano. Embora não sejam prova de que existiu vida em Marte, são importantes. Eles mostram que o.",
+    "sub_en": "MSL Curiosity found 7 new organic molecules preserved in Martian sandstone. While they aren't proof that life existed on Mars, they are important. They show that the planet is.",
+    "excerpt": "MSL Curiosity encontrou 7 novas moléculas orgânicas preservadas em arenito marciano. Embora não sejam prova de que existiu vida em Marte, são importantes. Eles mostram que o planeta é capaz de proteger bioassinaturas antigas da radiação e.",
+    "excerpt_pt": "MSL Curiosity encontrou 7 novas moléculas orgânicas preservadas em arenito marciano. Embora não sejam prova de que existiu vida em Marte, são importantes. Eles mostram que o planeta é capaz de proteger bioassinaturas antigas da radiação e.",
+    "excerpt_en": "MSL Curiosity found 7 new organic molecules preserved in Martian sandstone. While they aren't proof that life existed on Mars, they are important. They show that the planet is capable of protecting ancient biosignatures from radiation and.",
+    "body": "<p>MSL Curiosity encontrou 7 novas moléculas orgânicas preservadas em arenito marciano. Embora não sejam prova de que existiu vida em Marte, são importantes. Eles mostram que o planeta é capaz de proteger bioassinaturas antigas da radiação e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. MSL Curiosity encontrou 7 novas moléculas orgânicas preservadas em arenito marciano. O rover MSL Curiosity da NASA encontrou mais algumas peças do quebra-cabeça que é a antiga habitabilidade de Marte.</p><p>O rover encontrou 21 compostos orgânicos em rochas na cratera Gale com seu instrumento Sample Analysis at Mars (SAM). Esses resultados resultam do trabalho do Curiosity em 2020, quando perfurou uma rocha de arenito argilosa chamada Mary Anning 3.</p><p>Agora, após um minucioso trabalho laboratorial a bordo, o rover identificou a mais diversa coleção de moléculas orgânicas já encontrada em Marte. A descoberta é apresentada em uma nova pesquisa na Nature Communications intitulada “Diversas moléculas orgânicas em Marte reveladas pelo primeiro experimento SAM TMAH”.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/msl-curiosity-found-new-organic-chemicals-on-mars-proof-that-the-planet-can-preserve-ancient-biosign\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>MSL Curiosity encontrou 7 novas moléculas orgânicas preservadas em arenito marciano. Embora não sejam prova de que existiu vida em Marte, são importantes. Eles mostram que o planeta é capaz de proteger bioassinaturas antigas da radiação e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. MSL Curiosity encontrou 7 novas moléculas orgânicas preservadas em arenito marciano. O rover MSL Curiosity da NASA encontrou mais algumas peças do quebra-cabeça que é a antiga habitabilidade de Marte.</p><p>O rover encontrou 21 compostos orgânicos em rochas na cratera Gale com seu instrumento Sample Analysis at Mars (SAM). Esses resultados resultam do trabalho do Curiosity em 2020, quando perfurou uma rocha de arenito argilosa chamada Mary Anning 3.</p><p>Agora, após um minucioso trabalho laboratorial a bordo, o rover identificou a mais diversa coleção de moléculas orgânicas já encontrada em Marte. A descoberta é apresentada em uma nova pesquisa na Nature Communications intitulada “Diversas moléculas orgânicas em Marte reveladas pelo primeiro experimento SAM TMAH”.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/msl-curiosity-found-new-organic-chemicals-on-mars-proof-that-the-planet-can-preserve-ancient-biosign\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>MSL Curiosity found 7 new organic molecules preserved in Martian sandstone. While they aren&#x27;t proof that life existed on Mars, they are important. They show that the planet is capable of protecting ancient biosignatures from radiation and. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. MSL Curiosity found 7 new organic molecules preserved in Martian sandstone. NASA&#x27;s MSL Curiosity rover has found some more pieces of the puzzle that is Mars&#x27; ancient habitability.</p><p>The rover found 21 organic compounds in rocks in Gale Crater with its Sample Analysis at Mars (SAM) instrument. These results stem from Curiosity&#x27;s work back in 2020, when it drilled into a clay-bearing sandstone rock named Mary Anning 3.</p><p>Now, after thorough onboard laboratory work, the rover has identified the most diverse collection of organic molecules ever found on Mars. The discovery is presented in new research in Nature Communications titled &quot; Diverse organic molecules on Mars revealed by the first SAM TMAH experiment.</p><p>The search for organic matter on Mars has rapidly evolved in the past decade with simple aromatic, S-heterocycles, and aliphatic organic molecules detected in Gale crater,&quot; the. We report the in situ detection of &gt;20 organic molecules from clay-bearing sandstones in the ~3.5-billion-year-old Knockfarrill Hill member of Glen Torridon, Gale crater, by the.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>It has both a biotic and an abiotic source, but its presence shows that Mars has preserved more complex or &quot;mature&quot; organic chemicals than has been previously confirmed. The fact that methyl benzoate survived for about 3.5 billion years on Mars&#x27; radiation-blasted surface is significant and shows that the planet can preserve complex organic.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/msl-curiosity-found-new-organic-chemicals-on-mars-proof-that-the-planet-can-preserve-ancient-biosign\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: MSL Curiosity encontrou 7 novas moléculas orgânicas preservadas em arenito marciano. Embora não sejam prova de que existiu vida em Marte, são.",
+      "Dado-chave: MSL Curiosity encontrou 7 novas moléculas orgânicas preservadas em arenito marciano.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: MSL Curiosity encontrou 7 novas moléculas orgânicas preservadas em arenito marciano. Embora não sejam prova de que existiu vida em Marte, são.",
+      "Dado-chave: MSL Curiosity encontrou 7 novas moléculas orgânicas preservadas em arenito marciano.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: MSL Curiosity found 7 new organic molecules preserved in Martian sandstone. While they aren't proof that life existed on Mars, they are important.",
+      "Key detail: MSL Curiosity found 7 new organic molecules preserved in Martian sandstone.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "22 abr 2026",
+    "date_pt": "22 abr 2026",
+    "date_en": "22 Apr 2026",
+    "time": "18h39",
+    "time_pt": "18h39",
+    "time_en": "18:39 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-22T18:39:42+00:00",
+    "lastModifiedIso": "2026-04-22T18:39:42+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Exoplanetas",
+      "Universe Today",
+      "Cosmos Week",
+      "MSL Curiosity encontrou novos produtos químicos orgânicos em Marte",
+      "prova de que o planeta pode preservar antigas bioassinaturas"
+    ],
+    "keywords_pt": [
+      "Exoplanetas",
+      "Universe Today",
+      "Cosmos Week",
+      "MSL Curiosity encontrou novos produtos químicos orgânicos em Marte",
+      "prova de que o planeta pode preservar antigas bioassinaturas"
+    ],
+    "keywords_en": [
+      "Exoplanets",
+      "Universe Today",
+      "Cosmos Week",
+      "MSL Curiosity found new organic chemicals on Mars",
+      "proof that the planet can preserve ancient biosignatures"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/msl-curiosity-found-new-organic-chemicals-on-mars-proof-that-the-planet-can-preserve-ancient-biosign",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=msl-curiosity-found-new-organic-chemicals-on-mars-proof-that-the-planet-can-preserve-ancient-bio",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=msl-curiosity-found-new-organic-chemicals-on-mars-proof-that-the-planet-can-preserve-ancient-bio",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=msl-curiosity-found-new-organic-chemicals-on-mars-proof-that-the-planet-can-preserve-ancient-bio&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 49
+    }
+  },
+  {
+    "id": 23,
+    "slug": "contribution-to-artemis-ii-moon-mission-sees-successful-test-of-a-space-camera-under-cosmic-ray-",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/important-contribution-2.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/important-contribution-2.jpg",
+        "caption": "Capturada pela tripulação do Artemis II durante seu sobrevôo lunar em 6 de abril de 2026, esta imagem mostra a lua eclipsando totalmente o sol. Da perspectiva da tripulação, a lua parece grande o suficiente para bloquear completamente o sol, criando quase 54.",
+        "caption_pt": "Capturada pela tripulação do Artemis II durante seu sobrevôo lunar em 6 de abril de 2026, esta imagem mostra a lua eclipsando totalmente o sol. Da perspectiva da tripulação, a lua parece grande o suficiente para bloquear completamente o sol, criando quase 54.",
+        "caption_en": "Captured by the Artemis II crew during their lunar flyby on April 6, 2026, this image shows the moon fully eclipsing the sun. From the crew's perspective, the moon appears large enough to completely block the sun, creating nearly 54.",
+        "alt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
+        "alt_pt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
+        "alt_en": "Important contribution by GSI/FAIR to the Artemis II Moon mission — Successful test of a space camera under cosmic ray conditions"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800/2026/important-contribution-1.jpg",
+        "caption": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
+        "caption_pt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
+        "caption_en": "Important contribution by GSI/FAIR to the Artemis II Moon mission — Successful test of a space camera under cosmic ray conditions",
+        "alt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
+        "alt_pt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
+        "alt_en": "Important contribution by GSI/FAIR to the Artemis II Moon mission — Successful test of a space camera under cosmic ray conditions"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800/2026/important-contribution.jpg",
+        "caption": "Em primeiro plano à esquerda, o tubo do feixe é visível, seguido pelos monitores do feixe (câmara de prata com folha de ouro). No fundo, a estação de testes eletrônicos está localizada com a câmera Nikon Z9 montada, que a NASA testou.",
+        "caption_pt": "Em primeiro plano à esquerda, o tubo do feixe é visível, seguido pelos monitores do feixe (câmara de prata com folha de ouro). No fundo, a estação de testes eletrônicos está localizada com a câmera Nikon Z9 montada, que a NASA testou.",
+        "caption_en": "In the foreground on the left, the beam pipe is visible, followed by beam monitors (silver chamber with gold foil). In the background, the electronics test station is located with the mounted Nikon Z9 camera, which NASA has tested at.",
+        "alt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
+        "alt_pt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
+        "alt_en": "Important contribution by GSI/FAIR to the Artemis II Moon mission — Successful test of a space camera under cosmic ray conditions"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Contribuição para a missão Artemis II Moon vê teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
+    "title_pt": "Contribuição para a missão Artemis II Moon vê teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
+    "title_en": "Contribution to Artemis II Moon mission sees successful test of a space camera under cosmic ray conditions",
+    "sub": "O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Foi uma câmera.",
+    "sub_pt": "O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Foi uma câmera.",
+    "sub_en": "The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the success of the Artemis II moon.",
+    "excerpt": "O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Foi uma câmera desenvolvida especialmente para uso no espaço.",
+    "excerpt_pt": "O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Foi uma câmera desenvolvida especialmente para uso no espaço.",
+    "excerpt_en": "The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the success of the Artemis II moon mission. A camera specially developed for use in space was.",
+    "body": "<p>O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Foi uma câmera desenvolvida especialmente para uso no espaço. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Capturada pela tripulação do Artemis II.</p><p>Da perspectiva da tripulação, a Lua parece grande o suficiente para bloquear completamente o Sol, criando quase 54 minutos de totalidade e estendendo a visão muito além do que é. A foto foi tirada com o modelo de câmera Nikon Z9 testado na GSI/FAIR.</p><p>NASA O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. A câmera, um modelo especialmente modificado da Nikon Z9, foi submetida a extensos testes de radiação pela NASA no acelerador de partículas GSI/FAIR em março de 2025.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-contribution-artemis-ii-moon-mission.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Foi uma câmera desenvolvida especialmente para uso no espaço. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Capturada pela tripulação do Artemis II.</p><p>Da perspectiva da tripulação, a Lua parece grande o suficiente para bloquear completamente o Sol, criando quase 54 minutos de totalidade e estendendo a visão muito além do que é. A foto foi tirada com o modelo de câmera Nikon Z9 testado na GSI/FAIR.</p><p>NASA O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. A câmera, um modelo especialmente modificado da Nikon Z9, foi submetida a extensos testes de radiação pela NASA no acelerador de partículas GSI/FAIR em março de 2025.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-contribution-artemis-ii-moon-mission.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the success of the Artemis II moon mission. A camera specially developed for use in space was. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the success of the Artemis II moon mission. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Captured by the Artemis II crew during their lunar flyby on.</p><p>From the crew&#x27;s perspective, the moon appears large enough to completely block the sun, creating nearly 54 minutes of totality and extending the view far beyond what is possible. The picture was taken with the Nikon Z9 camera model tested at GSI/FAIR.</p><p>NASA The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the success of the Artemis II moon. The camera, a specially modified model of the Nikon Z9, was subjected to extensive radiation testing by NASA at the GSI/FAIR particle accelerator in March 2025.</p><p>The camera model, successfully tested in this manner, was now used in NASA&#x27;s recently successfully completed Artemis II lunar mission and delivered impressive images, including. NASA plans to use this camera model in future missions under the Artemis program as well, particularly during the planned return of astronauts to the lunar surface.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>This will mark the first time in over 50 years that humans will set foot on the moon. Our accelerator facilities enable us to precisely simulate cosmic radiation on Earth,&quot; explains Professor Thomas Nilsson, Scientific Managing Director of GSI/FAIR.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-contribution-artemis-ii-moon-mission.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar.",
+      "Dado-chave: O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar.",
+      "Dado-chave: O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the success.",
+      "Key detail: The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "25 abr 2026",
+    "date_pt": "25 abr 2026",
+    "date_en": "25 Apr 2026",
+    "time": "17h30",
+    "time_pt": "17h30",
+    "time_en": "17:30 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-25T17:30:01+00:00",
+    "lastModifiedIso": "2026-04-25T17:30:01+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Contribuição para a missão Artemis II Moon vê teste bem",
+      "sucedido de uma câmera espacial sob condições de raios cósmicos"
+    ],
+    "keywords_pt": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Contribuição para a missão Artemis II Moon vê teste bem",
+      "sucedido de uma câmera espacial sob condições de raios cósmicos"
+    ],
+    "keywords_en": [
+      "Physical",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Contribution to Artemis II Moon mission sees test well",
+      "taken from a space camera under cosmic ray conditions"
+    ],
+    "srcUrl": "https://phys.org/news/2026-04-contribution-artemis-ii-moon-mission.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=contribution-to-artemis-ii-moon-mission-sees-successful-test-of-a-space-camera-under-cosmic-ray-",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=contribution-to-artemis-ii-moon-mission-sees-successful-test-of-a-space-camera-under-cosmic-ray-",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=contribution-to-artemis-ii-moon-mission-sees-successful-test-of-a-space-camera-under-cosmic-ray-&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 82,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 24,
     "slug": "the-most-energetic-neutrino-ever-detected-could-be-primordial",
     "cat": "Física",
     "catCls": "fisica",
@@ -2645,7 +2962,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 25,
     "slug": "nsf-launches-100m-national-quantum-and-nanotechnology-research-infrastructure-program",
     "cat": "Física",
     "catCls": "fisica",
@@ -2778,7 +3095,7 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
+    "id": 26,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2914,7 +3231,7 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 27,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3041,7 +3358,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 28,
     "slug": "science-release-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3177,7 +3494,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 29,
     "slug": "nasa-kennedy-prepares-facility-for-roman-space-telescope-arrival",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3310,7 +3627,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 30,
     "slug": "liquid-lifeline-nasa-tech-could-create-iv-fluid-in-space",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3446,7 +3763,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 31,
     "slug": "catching-the-earliest-stars-in-the-universe",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3579,7 +3896,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 32,
     "slug": "interstellar-comet-3i-atlas-left-a-trail-of-methane-in-its-wake",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3707,7 +4024,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 33,
     "slug": "nsf-doe-vera-c-rubin-observatory-launches-real-time-discovery-machine-for-monitoring-the-night-s",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3856,7 +4173,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 34,
     "slug": "an-agricultural-mosaic-in-taiwan",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3989,7 +4306,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 35,
     "slug": "this-week-s-sky-at-a-glance-april-24-may-3",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4125,7 +4442,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 36,
     "slug": "uranus-s-outermost-rings-are-made-of-two-different-things",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4258,7 +4575,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 37,
     "slug": "the-nancy-grace-roman-space-telescope-is-ready-to-fly",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4391,7 +4708,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 38,
     "slug": "sun-observing-satellite-uses-artificial-eclipse-to-capture-the-solar-wind",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4524,7 +4841,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 39,
     "slug": "nasa-welcomes-jordan-as-63rd-artemis-accords-signatory",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4632,12 +4949,40 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 40,
     "slug": "ash-creeps-across-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/mars_express_captures_dark_ash_covering_mars_s_utopia_planitia/27198962-1-eng-GB/Mars_Express_captures_dark_ash_covering_Mars_s_Utopia_Planitia_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/viking_and_mars_express_images_of_part_of_utopia_planitia_on_mars/27200000-3-eng-GB/Viking_and_Mars_Express_images_of_part_of_Utopia_Planitia_on_Mars_article.jpg",
+        "caption": "Comparando as imagens Viking (esquerda) e Mars Express (direita) deste pedaço de Marte. A caixa branca marca a área coberta na imagem principal no topo desta página e abaixo. Abrir imagem",
+        "caption_pt": "Comparando as imagens Viking (esquerda) e Mars Express (direita) deste pedaço de Marte. A caixa branca marca a área coberta na imagem principal no topo desta página e abaixo. Abrir imagem",
+        "caption_en": "Comparing the Viking (left) and Mars Express (right) images of this patch of Mars. The white box marks the area covered in the main image at the top of this page and below. Open Image",
+        "alt": "Comparando as imagens Viking (esquerda) e Mars Express (direita) deste pedaço de Marte. A caixa branca marca a área coberta na imagem principal no topo desta página e abaixo. Abrir imagem",
+        "alt_pt": "Comparando as imagens Viking (esquerda) e Mars Express (direita) deste pedaço de Marte. A caixa branca marca a área coberta na imagem principal no topo desta página e abaixo. Abrir imagem",
+        "alt_en": "Comparing the Viking (left) and Mars Express (right) images of this patch of Mars. The white box marks the area covered in the main image at the top of this page and below. Open Image"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/mars_express_captures_dark_ash_covering_mars_s_utopia_planitia/27198962-1-eng-GB/Mars_Express_captures_dark_ash_covering_Mars_s_Utopia_Planitia_article.jpg",
+        "caption": "Ampliando a caixa branca marcada na comparação Viking/Mars Express",
+        "caption_pt": "Ampliando a caixa branca marcada na comparação Viking/Mars Express",
+        "caption_en": "Zooming in on the white box marked in the Viking/Mars Express comparison",
+        "alt": "Ampliando a caixa branca marcada na comparação Viking/Mars Express",
+        "alt_pt": "Ampliando a caixa branca marcada na comparação Viking/Mars Express",
+        "alt_en": "Zooming in on the white box marked in the Viking/Mars Express comparison"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/bird_s-eye_view_of_dark_ash_in_utopia_planitia/27199009-1-eng-GB/Bird_s-eye_view_of_dark_ash_in_Utopia_Planitia_article.jpg",
+        "caption": "Vista aérea de uma cratera de impacto no lado cinza da imagem principal",
+        "caption_pt": "Vista aérea de uma cratera de impacto no lado cinza da imagem principal",
+        "caption_en": "Bird's-eye view of an impact crater on the ash-y side of the main image",
+        "alt": "Vista aérea de uma cratera de impacto no lado cinza da imagem principal",
+        "alt_pt": "Vista aérea de uma cratera de impacto no lado cinza da imagem principal",
+        "alt_en": "Bird's-eye view of an impact crater on the ash-y side of the main image"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Ash rasteja por Marte",
@@ -4649,9 +4994,9 @@ window.postsData = [
     "excerpt": "Mudanças perceptíveis em Marte muitas vezes levam milhões de anos, mas o Mars Express da Agência Espacial Europeia capturou um manto de cinzas escuras que se arrastava por todo o planeta em apenas algumas décadas.",
     "excerpt_pt": "Mudanças perceptíveis em Marte muitas vezes levam milhões de anos, mas o Mars Express da Agência Espacial Europeia capturou um manto de cinzas escuras que se arrastava por todo o planeta em apenas algumas décadas.",
     "excerpt_en": "Noticeable change on Mars often takes millions of years, but the European Space Agency’s Mars Express has captured a blanket of dark ash creeping across the planet in just decades.",
-    "body": "<p>Mudanças perceptíveis em Marte muitas vezes levam milhões de anos, mas o Mars Express da Agência Espacial Europeia capturou um manto de cinzas escuras que se arrastava por todo o planeta em apenas algumas décadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Ash_creeps_across_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Mudanças perceptíveis em Marte muitas vezes levam milhões de anos, mas o Mars Express da Agência Espacial Europeia capturou um manto de cinzas escuras que se arrastava por todo o planeta em apenas algumas décadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Ash_creeps_across_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Noticeable change on Mars often takes millions of years, but the European Space Agency’s Mars Express has captured a blanket of dark ash creeping across the planet in just decades. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Ash_creeps_across_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Mudanças perceptíveis em Marte muitas vezes levam milhões de anos, mas o Mars Express da Agência Espacial Europeia capturou um manto de cinzas escuras que se arrastava por todo o planeta em apenas algumas décadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Uma nova imagem da Câmara Estéreo de Alta Resolução (HRSC) da Mars Express mostra uma cena de duas metades, com as areias castanhas brilhantes de Marte colidindo com depósitos. Quando esta parte de Marte foi vista pelas sondas Viking da NASA em 1976, as cinzas estavam visivelmente menos espalhadas do que são hoje (ver comparação abaixo).</p><p>Diferente da poeira de cor ocre e das rochas fragmentadas que cobrem a maior parte de Marte, pensa-se que este material escuro tenha sido produzido e distribuído por vulcões. Ele ainda abriga o maior vulcão do Sistema Solar, Olympus Mons, que tem mais que o dobro da altura do maior da Terra (Mauna Kea).</p><p>A propagação das cinzas ao longo dos últimos 50 anos tem duas explicações possíveis: ou foram recolhidas e transportadas pelos ventos marcianos, ou a poeira ocre que anteriormente.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Ash_creeps_across_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Mudanças perceptíveis em Marte muitas vezes levam milhões de anos, mas o Mars Express da Agência Espacial Europeia capturou um manto de cinzas escuras que se arrastava por todo o planeta em apenas algumas décadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Uma nova imagem da Câmara Estéreo de Alta Resolução (HRSC) da Mars Express mostra uma cena de duas metades, com as areias castanhas brilhantes de Marte colidindo com depósitos. Quando esta parte de Marte foi vista pelas sondas Viking da NASA em 1976, as cinzas estavam visivelmente menos espalhadas do que são hoje (ver comparação abaixo).</p><p>Diferente da poeira de cor ocre e das rochas fragmentadas que cobrem a maior parte de Marte, pensa-se que este material escuro tenha sido produzido e distribuído por vulcões. Ele ainda abriga o maior vulcão do Sistema Solar, Olympus Mons, que tem mais que o dobro da altura do maior da Terra (Mauna Kea).</p><p>A propagação das cinzas ao longo dos últimos 50 anos tem duas explicações possíveis: ou foram recolhidas e transportadas pelos ventos marcianos, ou a poeira ocre que anteriormente.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Ash_creeps_across_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Noticeable change on Mars often takes millions of years, but the European Space Agency’s Mars Express has captured a blanket of dark ash creeping across the planet in just decades. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A new image from Mars Express&#x27;s High Resolution Stereo Camera (HRSC), shows a scene of two halves, with Mars’s bright tan-coloured sands butting up against dark deposits of. When this part of Mars was seen by NASA’s Viking orbiters in 1976, the ash was noticeably less widespread than it is today (see comparison below).</p><p>Differing from the ochre-coloured dust and broken up rock that covers most of Mars, this dark material is thought to have been made and distributed by volcanoes. It even hosts the largest volcano in the Solar System, Olympus Mons, which stands at more than double the height of the largest on Earth (Mauna Kea).</p><p>The spread of the ash over the last 50 years has two possible explanations: either it has been picked up and moved about by martian winds, or the ochre dust that previously. This crater is about 15 km across and has interesting squiggly lines within it, marking where icy material has crept about within the crater.</p><p>Mars has a few colossal impact basins, all initially formed as large rocks collided with the planet. This scene lies in one of them: Utopia Planitia, an ancient basin with a diameter of around 3300 km ( just under twice the north-south size of Earth’s Sahara Desert ).</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>They don’t occur in isolation but rather merge to form larger areas, providing a perfect example of how Mars’s surface is constantly changing. Far on the left lies a curious feature seen often across Utopia Planitia: a series of shadowy ditches around 20 km long and 2 km wide stretching out across the surface, meeting to.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Ash_creeps_across_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Mudanças perceptíveis em Marte muitas vezes levam milhões de anos, mas o Mars Express da Agência Espacial Europeia capturou um manto de cinzas.",
       "Dado-chave: Mudanças perceptíveis em Marte muitas vezes levam milhões de anos, mas o Mars Express da Agência Espacial Europeia capturou um manto de cinzas.",
@@ -4734,226 +5079,6 @@ window.postsData = [
       "relevance": 70,
       "accessibility": 60,
       "novelty": 46
-    }
-  },
-  {
-    "id": 39,
-    "slug": "braving-the-arctic-for-upcoming-polar-focused-satellites",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/not_your_normal_commute/27239667-3-eng-GB/Not_your_normal_commute_card_full.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Enfrentando o Ártico em busca dos próximos satélites com foco polar",
-    "title_pt": "Enfrentando o Ártico em busca dos próximos satélites com foco polar",
-    "title_en": "Braving the Arctic for upcoming polar-focused satellites",
-    "sub": "À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente. Para enfrentar este desafio, a Agência Espacial.",
-    "sub_pt": "À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente. Para enfrentar este desafio, a Agência Espacial.",
-    "sub_en": "As sea ice continues to succumb to the climate crisis, measuring its decline with precision has never been more urgent. To meet this challenge, the European Space Agency is.",
-    "excerpt": "À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente. Para enfrentar este desafio, a Agência Espacial Europeia está a desenvolver três novos satélites Copernicus, cada um empregando.",
-    "excerpt_pt": "À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente. Para enfrentar este desafio, a Agência Espacial Europeia está a desenvolver três novos satélites Copernicus, cada um empregando.",
-    "excerpt_en": "As sea ice continues to succumb to the climate crisis, measuring its decline with precision has never been more urgent. To meet this challenge, the European Space Agency is developing three new Copernicus satellites, each employing.",
-    "body": "<p>À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente. Para enfrentar este desafio, a Agência Espacial Europeia está a desenvolver três novos satélites Copernicus, cada um empregando. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Para garantir que os dados destes novos satélites sejam nítidos, uma equipa internacional de cientistas experientes está agora no mar Ártico. À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente.</p><p>Para enfrentar este desafio, a Agência Espacial Europeia está a desenvolver três novos satélites Copernicus, cada um empregando técnicas distintas mas complementares para. Para garantir que os dados destes novos satélites sejam nítidos, uma equipa internacional de cientistas experientes está agora no gelo marinho do Ártico, enfrentando o frio e.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Braving_the_Arctic_for_upcoming_polar-focused_satellites\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente. Para enfrentar este desafio, a Agência Espacial Europeia está a desenvolver três novos satélites Copernicus, cada um empregando. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Para garantir que os dados destes novos satélites sejam nítidos, uma equipa internacional de cientistas experientes está agora no mar Ártico. À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente.</p><p>Para enfrentar este desafio, a Agência Espacial Europeia está a desenvolver três novos satélites Copernicus, cada um empregando técnicas distintas mas complementares para. Para garantir que os dados destes novos satélites sejam nítidos, uma equipa internacional de cientistas experientes está agora no gelo marinho do Ártico, enfrentando o frio e.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Braving_the_Arctic_for_upcoming_polar-focused_satellites\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>As sea ice continues to succumb to the climate crisis, measuring its decline with precision has never been more urgent. To meet this challenge, the European Space Agency is developing three new Copernicus satellites, each employing. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. To ensure the data from these new satellites are razor-sharp, an international team of hardy scientists is now out on the Arctic sea. As sea ice continues to succumb to the climate crisis, measuring its decline with precision has never been more urgent.</p><p>To meet this challenge, the European Space Agency is developing three new Copernicus satellites, each employing distinct but complementary techniques to monitor this fragile. To ensure the data from these new satellites are razor-sharp, an international team of hardy scientists is now out on the Arctic sea ice braving the cold and flying above to.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Braving_the_Arctic_for_upcoming_polar-focused_satellites\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente. Para enfrentar este.",
-      "Dado-chave: Para garantir que os dados destes novos satélites sejam nítidos, uma equipa internacional de cientistas experientes está agora no mar Ártico.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente. Para enfrentar este.",
-      "Dado-chave: Para garantir que os dados destes novos satélites sejam nítidos, uma equipa internacional de cientistas experientes está agora no mar Ártico.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: As sea ice continues to succumb to the climate crisis, measuring its decline with precision has never been more urgent. To meet this challenge, the.",
-      "Key detail: To ensure the data from these new satellites are razor-sharp, an international team of hardy scientists is now out on the Arctic sea.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "24 abr 2026",
-    "date_pt": "24 abr 2026",
-    "date_en": "24 Apr 2026",
-    "time": "09h08",
-    "time_pt": "09h08",
-    "time_en": "09:08 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-24T09:08:00+00:00",
-    "lastModifiedIso": "2026-04-24T09:08:00+00:00",
-    "source": "ESA Space News",
-    "sourceDomain": "www.esa.int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "Enfrentando o Ártico em busca dos próximos satélites com foco polar"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "Enfrentando o Ártico em busca dos próximos satélites com foco polar"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "ESA Space News",
-      "Cosmos Week",
-      "Braving the Arctic for the Next Polar-Focused Satellites"
-    ],
-    "srcUrl": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Braving_the_Arctic_for_upcoming_polar-focused_satellites",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=braving-the-arctic-for-upcoming-polar-focused-satellites",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=braving-the-arctic-for-upcoming-polar-focused-satellites",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=braving-the-arctic-for-upcoming-polar-focused-satellites&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 80,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
-    "id": 40,
-    "slug": "visible-planets-and-night-sky-guide-for-april-and-may",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2026/03/2026-Apr-24-25-Moon-E.jpeg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Planetas visíveis e guia do céu noturno para abril e maio",
-    "title_pt": "Planetas visíveis e guia do céu noturno para abril e maio",
-    "title_en": "Visible planets and night sky guide for April and May",
-    "sub": "Planetas visíveis e guia do céu noturno. Procure a lua crescente brilhando perto da foice em Leão, o Leão. Estará bem ao lado da estrela brilhante Regulus. O post Planetas.",
-    "sub_pt": "Planetas visíveis e guia do céu noturno. Procure a lua crescente brilhando perto da foice em Leão, o Leão. Estará bem ao lado da estrela brilhante Regulus. O post Planetas.",
-    "sub_en": "Visible planets and night sky guide. Look for the waxing gibbous moon shining near the Sickle in Leo the Lion. It'll be right next to the bright star Regulus. The post Visible.",
-    "excerpt": "Planetas visíveis e guia do céu noturno. Procure a lua crescente brilhando perto da foice em Leão, o Leão. Estará bem ao lado da estrela brilhante Regulus. O post Planetas visíveis e guia do céu noturno para abril e maio apareceu pela primeira vez em.",
-    "excerpt_pt": "Planetas visíveis e guia do céu noturno. Procure a lua crescente brilhando perto da foice em Leão, o Leão. Estará bem ao lado da estrela brilhante Regulus. O post Planetas visíveis e guia do céu noturno para abril e maio apareceu pela primeira vez em.",
-    "excerpt_en": "Visible planets and night sky guide. Look for the waxing gibbous moon shining near the Sickle in Leo the Lion. It'll be right next to the bright star Regulus. The post Visible planets and night sky guide for April and May first appeared on.",
-    "body": "<p>Planetas visíveis e guia do céu noturno. Procure a lua crescente brilhando perto da foice em Leão, o Leão. Estará bem ao lado da estrela brilhante Regulus. O post Planetas visíveis e guia do céu noturno para abril e maio apareceu pela primeira vez em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Lua, Régulo e a Foice Na noite de 25 de abril, a lua minguante crescente estará perto de Régulo, a estrela mais brilhante de Leão, o Leão. Veja como ver o Lunar X e V na lua do primeiro quarto crescente Fases e alinhamentos da lua de abril Junte-se a Marcy Curran da EarthSky em uma prévia de vídeo das constelações.</p><p>| Marcy Curran enviou esta imagem de sua câmera de todo o céu em 18 de abril dos dois planetas brilhantes Vênus, Júpiter e a lua. Noites de 28, 29 e 30 de abril: Lua e Spica No final das noites de 28, 29 e 30 de abril, a lua minguante crescente estará perto de Spica, a estrela mais brilhante de Virgem, a.</p><p>1º de maio: Lua Cheia de Flores fica entre Antares e Spica Na noite de 1º de maio, a Lua Cheia de Flores ficará entre a estrela brilhante Antares, a estrela mais brilhante de. A lua atingirá o apogeu, sua distância mais distante da Terra em sua órbita elíptica, às 23 UTC de 4 de maio de 2026, quando estiver a 252.176 milhas (405.839 km) de distância.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Planetas visíveis e guia do céu noturno. Procure a lua crescente brilhando perto da foice em Leão, o Leão. Estará bem ao lado da estrela brilhante Regulus. O post Planetas visíveis e guia do céu noturno para abril e maio apareceu pela primeira vez em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Lua, Régulo e a Foice Na noite de 25 de abril, a lua minguante crescente estará perto de Régulo, a estrela mais brilhante de Leão, o Leão. Veja como ver o Lunar X e V na lua do primeiro quarto crescente Fases e alinhamentos da lua de abril Junte-se a Marcy Curran da EarthSky em uma prévia de vídeo das constelações.</p><p>| Marcy Curran enviou esta imagem de sua câmera de todo o céu em 18 de abril dos dois planetas brilhantes Vênus, Júpiter e a lua. Noites de 28, 29 e 30 de abril: Lua e Spica No final das noites de 28, 29 e 30 de abril, a lua minguante crescente estará perto de Spica, a estrela mais brilhante de Virgem, a.</p><p>1º de maio: Lua Cheia de Flores fica entre Antares e Spica Na noite de 1º de maio, a Lua Cheia de Flores ficará entre a estrela brilhante Antares, a estrela mais brilhante de. A lua atingirá o apogeu, sua distância mais distante da Terra em sua órbita elíptica, às 23 UTC de 4 de maio de 2026, quando estiver a 252.176 milhas (405.839 km) de distância.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Visible planets and night sky guide. Look for the waxing gibbous moon shining near the Sickle in Leo the Lion. It&#x27;ll be right next to the bright star Regulus. The post Visible planets and night sky guide for April and May first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Moon, Regulus and the Sickle On the evening of April 25, the waxing gibbous moon will be close to Regulus, the brightest star in Leo the Lion. Here’s how to see the Lunar X and V at 1st quarter moon April moon phases and alignments Join EarthSky’s Marcy Curran in a video preview of the constellations, planets and.</p><p>| Marcy Curran submitted this image from their all-sky camera on April 18 of the two bright planets Venus, Jupiter, and the moon. Moon and Spica Late on the evenings of April 28, 29 and 30, the waxing gibbous moon will be near Spica, the brightest star in Virgo the Maiden.</p><p>Full Flower Moon lies between Antares and Spica On the evening of May 1, the full Flower Moon will lie between the bright star Antares, the brightest star in Scorpius the. The moon will reach apogee, its farthest distance from Earth in its elliptical orbit, at 23 UTC on May 4, 2026, when it’s 252,176 miles (405,839 km) away.</p><p>The 2026 Eta Aquariids will compete with a bright waning gibbous moon, reducing how many meteors you might see. All you need to know about Eta Aquariid meteors May 6 and 7 mornings: Moon and the Teapot On the morning of May 6, the waning gibbous moon will hang among the stars of the.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Moon near Capricornus On the mornings of May 8, 9 and 10, the moon will shine in front of the stars of the constellation Capricornus the Sea Goat. Capricornus the Sea Goat May 13 and 14 mornings: Moon near Mars and Saturn On the mornings of May 13 and 14, a thin waning crescent moon will shine near Saturn and Mars.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Planetas visíveis e guia do céu noturno. Procure a lua crescente brilhando perto da foice em Leão, o Leão. Estará bem ao lado da estrela brilhante.",
-      "Dado-chave: Lua, Régulo e a Foice Na noite de 25 de abril, a lua minguante crescente estará perto de Régulo, a estrela mais brilhante de Leão, o Leão.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Planetas visíveis e guia do céu noturno. Procure a lua crescente brilhando perto da foice em Leão, o Leão. Estará bem ao lado da estrela brilhante.",
-      "Dado-chave: Lua, Régulo e a Foice Na noite de 25 de abril, a lua minguante crescente estará perto de Régulo, a estrela mais brilhante de Leão, o Leão.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Visible planets and night sky guide. Look for the waxing gibbous moon shining near the Sickle in Leo the Lion. It'll be right next to the bright star.",
-      "Key detail: Moon, Regulus and the Sickle On the evening of April 25, the waxing gibbous moon will be close to Regulus, the brightest star in Leo the Lion.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "25 abr 2026",
-    "date_pt": "25 abr 2026",
-    "date_en": "25 Apr 2026",
-    "time": "08h25",
-    "time_pt": "08h25",
-    "time_en": "08:25 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-25T08:25:08+00:00",
-    "lastModifiedIso": "2026-04-25T08:25:08+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Planetas visíveis e guia do céu noturno para abril e maio"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Planetas visíveis e guia do céu noturno para abril e maio"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "Visible Planets and Night Sky Guide for April and May"
-    ],
-    "srcUrl": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-april-and-may",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-april-and-may",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-april-and-may&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 72,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 52
     }
   }
 ];

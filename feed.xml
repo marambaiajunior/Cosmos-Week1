@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 12:16:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 15:10:11 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>A inflamação crônica deixa uma impressão duradoura nas células-tronco intestinais, aumentando o risco de câncer colorretal</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=chronic-inflammation-leaves-long-lasting-impression-on-gut-stem-cells-increasing-colorectal-canc</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=chronic-inflammation-leaves-long-lasting-impression-on-gut-stem-cells-increasing-colorectal-canc</guid>
-              <pubDate>Tue, 28 Apr 2026 12:14:10 +0000</pubDate>
+              <pubDate>Tue, 28 Apr 2026 15:08:00 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Um estudo em animais financiado pelo NIH descobriu que memórias hereditárias de danos persistiram nas células meses após o fim da inflamação.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A inflamação crônica deixa uma impressão duradoura nas células</category>
@@ -21,7 +21,7 @@
               <title>Elisabeth Armstrong nomeada Chefe de Gabinete do NIH</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=dr-elisabeth-armstrong-named-nih-chief-of-staff</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=dr-elisabeth-armstrong-named-nih-chief-of-staff</guid>
-              <pubDate>Tue, 28 Apr 2026 12:14:10 +0000</pubDate>
+              <pubDate>Tue, 28 Apr 2026 15:08:00 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ela fornecerá aconselhamento estratégico ao Diretor do NIH e a outros líderes importantes do NIH, além de gerenciar processos, operações e fluxos de informações.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Elisabeth Armstrong nomeada Chefe de Gabinete do NIH</category>
@@ -31,7 +31,7 @@
               <title>Modelo de cuidados de baixo custo reduz a pressão arterial em populações de alto risco</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=low-cost-care-model-reduces-blood-pressure-in-high-risk-populations</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=low-cost-care-model-reduces-blood-pressure-in-high-risk-populations</guid>
-              <pubDate>Tue, 28 Apr 2026 12:14:10 +0000</pubDate>
+              <pubDate>Tue, 28 Apr 2026 15:08:00 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ensaio clínico apoiado pelo NIH mostra que a estratégia de cuidados coordenados é mais eficaz do que os cuidados padrão</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de cuidados de baixo custo reduz a pressão arterial em populações de alto risco</category>
@@ -41,22 +41,52 @@
               <title>Avanço financiado pelo NIH reduz o CRISPR para entrega precisa no corpo</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-breakthrough-shrinks-crispr-for-precision-delivery-in-the-body</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-breakthrough-shrinks-crispr-for-precision-delivery-in-the-body</guid>
-              <pubDate>Tue, 28 Apr 2026 12:14:10 +0000</pubDate>
+              <pubDate>Tue, 28 Apr 2026 15:08:00 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Avanço financiado pelo NIH reduz o CRISPR para entrega precisa no corpo</category>
               <source url="https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body">NIH News Releases</source>
-              <content:encoded>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Uma equipe de pesquisa financiada pelos Institutos Naciona</content:encoded>
+              <content:encoded>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Uma equipe de pesquisa financiada pelo National Institutes</content:encoded>
             </item><item>
               <title>Dr. Jonathan M. Green selecionado como CEO do NIH Clinical Center</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=dr-jonathan-m-green-selected-as-ceo-of-the-nih-clinical-center</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=dr-jonathan-m-green-selected-as-ceo-of-the-nih-clinical-center</guid>
-              <pubDate>Tue, 28 Apr 2026 12:14:10 +0000</pubDate>
+              <pubDate>Tue, 28 Apr 2026 15:08:00 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O NIH Clinical Center é o maior hospital de pesquisa do mundo.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Dr. Jonathan M. Green selecionado como CEO do NIH Clinical Center</category>
               <source url="https://www.nih.gov/news-events/news-releases/dr-jonathan-m-green-selected-ceo-nih-clinical-center">NIH News Releases</source>
               <content:encoded>O NIH Clinical Center é o maior hospital de pesquisa do mundo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Ao anunciar a seleção, o diretor do NIH, Jay Bhattacharya, M. D, Ph. D, disse: "Dr. A liderança de Green no</content:encoded>
+            </item><item>
+              <title>Fungos resistentes poderiam sobreviver à viagem a Marte</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=tough-fungi-could-survive-the-trip-to-mars</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=tough-fungi-could-survive-the-trip-to-mars</guid>
+              <pubDate>Tue, 28 Apr 2026 14:03:59 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>A NASA e outras agências espaciais gastam muito tempo e dinheiro considerando a limpeza de suas missões. Bilhões de dólares são gastos em salas limpas todos os anos, com o esforço expresso de garantir que o equipamento funcione.</description>
+              <category>Ciências da Terra</category><category>Universe Today</category><category>Cosmos Week</category><category>Fungos resistentes poderiam sobreviver à viagem a Marte</category>
+              <source url="https://www.universetoday.com/articles/tough-fungi-could-survive-the-trip-to-mars">Universe Today</source>
+              <content:encoded>A NASA e outras agências espaciais gastam muito tempo e dinheiro considerando a limpeza de suas missões. Bilhões de dólares são gastos em salas limpas todos os anos, com o esforço expresso de garantir que o equipamento funcione. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabili</content:encoded>
+            </item><item>
+              <title>Astrônomos lançam enorme conjunto de ‘universos virtuais’ para pesquisa global</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-release-massive-set-of-virtual-universes-for-global-research</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-release-massive-set-of-virtual-universes-for-global-research</guid>
+              <pubDate>Tue, 28 Apr 2026 13:00:02 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Compreender o universo como um todo requer simulações em escalas cósmicas. Uma equipe internacional de astrofísicos, com papel de liderança para pesquisadores da Universidade de Leiden, na Holanda, lançou agora um dos maiores dados cosmológicos.</description>
+              <category>Astronomia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Astrônomos lançam enorme conjunto de ‘universos virtuais’ para pesquisa global</category>
+              <source url="https://phys.org/news/2026-04-astronomers-massive-virtual-universes-global.html">Phys.org Space</source>
+              <content:encoded>Compreender o universo como um todo requer simulações em escalas cósmicas. Uma equipe internacional de astrofísicos, com papel de liderança para pesquisadores da Universidade de Leiden, na Holanda, lançou agora um dos maiores dados cosmológicos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a</content:encoded>
+            </item><item>
+              <title>ALMA revela nuvens moleculares gigantes em todo o disco da galáxia Needle</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=alma-reveals-giant-molecular-clouds-across-needle-galaxy-s-full-disk</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=alma-reveals-giant-molecular-clouds-across-needle-galaxy-s-full-disk</guid>
+              <pubDate>Tue, 28 Apr 2026 12:20:01 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Uma equipe internacional de astrônomos empregou o Atacama Large Millimeter/submillimeter Array para realizar observações de alta resolução da galáxia Needle. Resultados da nova campanha observacional, apresentada em 15 de abril no arXiv.</description>
+              <category>Química</category><category>Phys.org Space</category><category>Cosmos Week</category><category>ALMA revela nuvens moleculares gigantes em todo o disco da galáxia Needle</category>
+              <source url="https://phys.org/news/2026-04-alma-reveals-giant-molecular-clouds.html">Phys.org Space</source>
+              <content:encoded>Uma equipe internacional de astrônomos empregou o Atacama Large Millimeter/submillimeter Array para realizar observações de alta resolução da galáxia Needle. Resultados da nova campanha observacional, apresentada em 15 de abril no arXiv. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é me</content:encoded>
             </item><item>
               <title>Lago antigo em Marte? Rover encontra novas evidências fortes</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=ancient-lake-on-mars-rover-finds-strong-new-evidence</link>
@@ -68,45 +98,15 @@
               <source url="https://earthsky.org/space/ancient-lake-on-mars-dragon-scales-curiosity-rover/">EarthSky</source>
               <content:encoded>O rover Curiosity da NASA encontrou ainda mais evidências de um antigo lago em Marte. Minerais metálicos em ondulações rochosas preservadas fornecem as pistas. O posto Lago antigo em Marte? Rover encontra novas evidências fortes que apareceram pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espa</content:encoded>
             </item><item>
-              <title>Os panoramas Perseverance e Curiosity da NASA capturam dois lados de Marte</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-perseverance-curiosity-panoramas-capture-two-sides-of-mars</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-perseverance-curiosity-panoramas-capture-two-sides-of-mars</guid>
+              <title>Panoramas do Perseverance e Curiosity revelam lados duplos de Marte</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=perseverance-and-curiosity-panoramas-reveal-dual-sides-of-mars</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=perseverance-and-curiosity-panoramas-reveal-dual-sides-of-mars</guid>
               <pubDate>Tue, 28 Apr 2026 11:20:01 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Os rovers Curiosity e Perseverance da NASA capturaram duas paisagens de 360 ​​graus que destacam como as missões estão revelando detalhes da formação do planeta vermelho, passado aquático e potencial para vida. Localizados a 2.345 milhas de distância de cada.</description>
-              <category>Biologia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Os panoramas Perseverance e Curiosity da NASA capturam dois lados de Marte</category>
+              <description>Os rovers Curiosity e Perseverance da NASA capturaram duas paisagens de 360 ​​graus que destacam como as missões estão revelando detalhes da formação do Planeta Vermelho, do passado aquático e do potencial de vida. Localizados a 2.345 milhas de distância de.</description>
+              <category>Biologia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Panoramas do Perseverance e Curiosity revelam lados duplos de Marte</category>
               <source url="https://phys.org/news/2026-04-nasa-perseverance-curiosity-panoramas-capture.html">Phys.org Space</source>
-              <content:encoded>Os rovers Curiosity e Perseverance da NASA capturaram duas paisagens de 360 ​​graus que destacam como as missões estão revelando detalhes da formação do planeta vermelho, passado aquático e potencial para vida. Localizados a 2.345 milhas de distância de cada um. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta pur</content:encoded>
-            </item><item>
-              <title>Notícias do sol: a atividade diminui, mas as regiões de manchas solares parecem potentes</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-activity-dips-but-sunspot-regions-look-potent</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-activity-dips-but-sunspot-regions-look-potent</guid>
-              <pubDate>Tue, 28 Apr 2026 11:00:53 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Notícias da Sun para 28 de abril de 2026: A atividade cai apenas para flares de classe C, mas AR4420 e AR4425 continuam promissores com configurações magnéticas de alto potencial. A postagem Notícias do Sol: A atividade diminui, mas as regiões de manchas.</description>
-              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>Notícias do sol</category>
-              <source url="https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/">EarthSky</source>
-              <content:encoded>Notícias da Sun para 28 de abril de 2026: A atividade cai apenas para flares de classe C, mas AR4420 e AR4425 continuam promissores com configurações magnéticas de alto potencial. A postagem Notícias do Sol: A atividade diminui, mas as regiões de manchas solares parecem potentes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertur</content:encoded>
-            </item><item>
-              <title>Planetas visíveis e guia do céu noturno para abril e maio</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-april-and-may</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-april-and-may</guid>
-              <pubDate>Tue, 28 Apr 2026 10:45:08 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Planetas visíveis e guia do céu noturno. Esta noite, procure a lua perto de Spica, a estrela mais brilhante de Virgem. A lua está ficando cheia esta semana. O post Planetas visíveis e guia do céu noturno para abril e maio apareceu pela primeira vez em.</description>
-              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>Planetas visíveis e guia do céu noturno para abril e maio</category>
-              <source url="https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/">EarthSky</source>
-              <content:encoded>Planetas visíveis e guia do céu noturno. Esta noite, procure a lua perto de Spica, a estrela mais brilhante de Virgem. A lua está ficando cheia esta semana. O post Planetas visíveis e guia do céu noturno para abril e maio apareceu pela primeira vez em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que pe</content:encoded>
-            </item><item>
-              <title>O Dia de Salvar os Sapos é hoje, terça-feira, 28 de abril</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=save-the-frogs-day-is-today-tuesday-april-28</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=save-the-frogs-day-is-today-tuesday-april-28</guid>
-              <pubDate>Tue, 28 Apr 2026 10:30:44 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>O Dia de Salvar as Rãs, um esforço global de conservação dos anfíbios, é hoje, terça-feira, 28 de abril de 2026. A saúde dos anfíbios é um importante marcador da qualidade do ecossistema. O post O Dia de Salvar os Sapos é hoje, terça-feira, 28 de abril.</description>
-              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>O Dia de Salvar os Sapos é hoje</category>
-              <source url="https://earthsky.org/earth/save-the-frogs-day-april-28/">EarthSky</source>
-              <content:encoded>O Dia de Salvar as Rãs, um esforço global de conservação dos anfíbios, é hoje, terça-feira, 28 de abril de 2026. A saúde dos anfíbios é um importante marcador da qualidade do ecossistema. O post O Dia de Salvar os Sapos é hoje, terça-feira, 28 de abril, apareceu pela primeira. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura e</content:encoded>
+              <content:encoded>Os rovers Curiosity e Perseverance da NASA capturaram duas paisagens de 360 ​​graus que destacam como as missões estão revelando detalhes da formação do Planeta Vermelho, do passado aquático e do potencial de vida. Localizados a 2.345 milhas de distância de cada um. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta</content:encoded>
             </item><item>
               <title>Você pode ajudar os humanos a prosperar no espaço</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=you-can-help-humans-thrive-in-space</link>
@@ -127,16 +127,6 @@
               <category>Astronomia</category><category>ESA Space Science</category><category>Cosmos Week</category><category>Smile será lançado em 19 de maio</category>
               <source url="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May">ESA Space Science</source>
               <content:encoded>A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Smile Euro</content:encoded>
-            </item><item>
-              <title>Platão acerta testes espaciais</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=plato-aces-space-like-tests</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=plato-aces-space-like-tests</guid>
-              <pubDate>Thu, 23 Apr 2026 08:00:00 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra.</description>
-              <category>Astronomia</category><category>ESA Space Science</category><category>Cosmos Week</category><category>Platão acerta testes espaciais</category>
-              <source url="https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests">ESA Space Science</source>
-              <content:encoded>A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviv</content:encoded>
             </item><item>
               <title>Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</link>
@@ -198,15 +188,25 @@
               <source url="https://phys.org/news/2026-04-aquila-booster-theoretical-limits-particle.html">Phys.org Space</source>
               <content:encoded>O Large High Altitude Air Shower Observatory detectou emissão de raios gama PeV de uma nebulosa de vento pulsar alimentada por PSR J1849-0001 na constelação de Aquila, marcando a descoberta de um novo PeVatron e representando um desafio para o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativament</content:encoded>
             </item><item>
-              <title>JWST procura um gêmeo ‘Terra-lua’ em uma zona habitável, mas a estrela tem outros planos</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=jwst-hunts-for-an-earth-moon-twin-in-a-habitable-zone-but-the-star-has-other-plans</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=jwst-hunts-for-an-earth-moon-twin-in-a-habitable-zone-but-the-star-has-other-plans</guid>
-              <pubDate>Tue, 28 Apr 2026 00:20:08 +0000</pubDate>
+              <title>Pequeno telescópio antártico causa um impacto descomunal na ciência exoplanetária</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science</guid>
+              <pubDate>Sun, 26 Apr 2026 15:03:00 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A lua desempenhou um papel enorme no desenvolvimento da Terra. Estabiliza o planeta, atenua mudanças climáticas dramáticas e possivelmente até fornece o aquecimento das marés que pode ter levado às primeiras formas de vida. Então é natural que queiramos.</description>
-              <category>Exoplanetas</category><category>Phys.org Space</category><category>Cosmos Week</category><category>JWST procura um gêmeo ‘Terra</category>
-              <source url="https://phys.org/news/2026-04-jwst-earth-moon-twin-habitable.html">Phys.org Space</source>
-              <content:encoded>A lua desempenhou um papel enorme no desenvolvimento da Terra. Estabiliza o planeta, atenua mudanças climáticas dramáticas e possivelmente até fornece o aquecimento das marés que pode ter levado às primeiras formas de vida. Então é natural que queiramos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros c</content:encoded>
+              <description>ASTEP, a Busca Antártica por Exoplanetas em Trânsito, um pequeno telescópio visível operando na estação Concordia, continua causando um impacto real na caracterização de novos sistemas exoplanetários estranhos.</description>
+              <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>Pequeno telescópio antártico causa um impacto descomunal na ciência exoplanetária</category>
+              <source url="https://www.universetoday.com/articles/small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science">Universe Today</source>
+              <content:encoded>ASTEP, a Busca Antártica por Exoplanetas em Trânsito, um pequeno telescópio visível operando na estação Concordia, continua causando um impacto real na caracterização de novos sistemas exoplanetários estranhos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como </content:encoded>
+            </item><item>
+              <title>Webb encontra nuvens de água e gelo no vizinho Super-Júpiter</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=webb-finds-water-ice-clouds-on-nearby-super-jupiter</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=webb-finds-water-ice-clouds-on-nearby-super-jupiter</guid>
+              <pubDate>Sun, 26 Apr 2026 04:05:48 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Os planetas gigantes do nosso sistema solar, Júpiter, Saturno, Urano e Netuno, desafiaram a nossa compreensão da formação e evolução planetária. Especificamente, suas formações e composições atmosféricas proporcionaram inspiração.</description>
+              <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>Webb encontra nuvens de água e gelo no vizinho Super</category>
+              <source url="https://www.universetoday.com/articles/webb-finds-water-ice-clouds-on-nearby-super-jupiter">Universe Today</source>
+              <content:encoded>Os planetas gigantes do nosso sistema solar, Júpiter, Saturno, Urano e Netuno, desafiaram a nossa compreensão da formação e evolução planetária. Especificamente, suas formações e composições atmosféricas proporcionaram inspiração. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando </content:encoded>
             </item>
   </channel>
 </rss>

@@ -40,14 +40,14 @@ window.postsData = [
     "date": "28 abr 2026",
     "date_pt": "28 abr 2026",
     "date_en": "28 Apr 2026",
-    "time": "17h14",
-    "time_pt": "17h14",
-    "time_en": "17:14 UTC",
+    "time": "19h10",
+    "time_pt": "19h10",
+    "time_en": "19:10 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-28T17:14:44.238376+00:00",
-    "lastModifiedIso": "2026-04-28T17:14:44.238376+00:00",
+    "publishedIso": "2026-04-28T19:10:30.051649+00:00",
+    "lastModifiedIso": "2026-04-28T19:10:30.051649+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -151,14 +151,14 @@ window.postsData = [
     "date": "28 abr 2026",
     "date_pt": "28 abr 2026",
     "date_en": "28 Apr 2026",
-    "time": "17h14",
-    "time_pt": "17h14",
-    "time_en": "17:14 UTC",
+    "time": "19h10",
+    "time_pt": "19h10",
+    "time_en": "19:10 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-28T17:14:44.238321+00:00",
-    "lastModifiedIso": "2026-04-28T17:14:44.238321+00:00",
+    "publishedIso": "2026-04-28T19:10:30.051593+00:00",
+    "lastModifiedIso": "2026-04-28T19:10:30.051593+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -256,14 +256,14 @@ window.postsData = [
     "date": "28 abr 2026",
     "date_pt": "28 abr 2026",
     "date_en": "28 Apr 2026",
-    "time": "17h14",
-    "time_pt": "17h14",
-    "time_en": "17:14 UTC",
+    "time": "19h10",
+    "time_pt": "19h10",
+    "time_en": "19:10 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-28T17:14:44.238124+00:00",
-    "lastModifiedIso": "2026-04-28T17:14:44.238124+00:00",
+    "publishedIso": "2026-04-28T19:10:30.051393+00:00",
+    "lastModifiedIso": "2026-04-28T19:10:30.051393+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -361,14 +361,14 @@ window.postsData = [
     "date": "28 abr 2026",
     "date_pt": "28 abr 2026",
     "date_en": "28 Apr 2026",
-    "time": "17h14",
-    "time_pt": "17h14",
-    "time_en": "17:14 UTC",
+    "time": "19h10",
+    "time_pt": "19h10",
+    "time_en": "19:10 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-28T17:14:44.238074+00:00",
-    "lastModifiedIso": "2026-04-28T17:14:44.238074+00:00",
+    "publishedIso": "2026-04-28T19:10:30.051344+00:00",
+    "lastModifiedIso": "2026-04-28T19:10:30.051344+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -476,14 +476,14 @@ window.postsData = [
     "date": "28 abr 2026",
     "date_pt": "28 abr 2026",
     "date_en": "28 Apr 2026",
-    "time": "17h14",
-    "time_pt": "17h14",
-    "time_en": "17:14 UTC",
+    "time": "19h10",
+    "time_pt": "19h10",
+    "time_en": "19:10 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-28T17:14:44.238023+00:00",
-    "lastModifiedIso": "2026-04-28T17:14:44.238023+00:00",
+    "publishedIso": "2026-04-28T19:10:30.051293+00:00",
+    "lastModifiedIso": "2026-04-28T19:10:30.051293+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -544,6 +544,152 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "nighttime-imaging-grows-landsat-s-science-value",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2026/04/Greg_at_yellowstone_DSC_4465crop.jpg?w=340&h=468&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2026/04/Landsat%20thermal.jpg?w=750&h=470&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2026/04/img7596.jpg?w=750&h=470&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Uma vista aérea da área na imagem noturna do Landsat 8 mostra a nova área térmica (centro à esquerda) que R. Greg Vaughan avistou na imagem do Landsat. A área termal existente do Lago Tern é a mancha branca e brilhante de solo na parte superior.",
+        "caption_pt": "Uma vista aérea da área na imagem noturna do Landsat 8 mostra a nova área térmica (centro à esquerda) que R. Greg Vaughan avistou na imagem do Landsat. A área termal existente do Lago Tern é a mancha branca e brilhante de solo na parte superior.",
+        "caption_en": "An aerial view of the area in the Landsat 8 nighttime image shows the new thermal area (center left) that R. Greg Vaughan spotted in the Landsat image. The existing Tern Lake Thermal Area is the bright white patch of ground in the upper.",
+        "alt": "Uma vista aérea da área na imagem noturna do Landsat 8 mostra a nova área térmica (centro à esquerda) que R. Greg Vaughan avistou na imagem do Landsat. A área termal existente do Lago Tern é a mancha branca e brilhante de solo na parte superior.",
+        "alt_pt": "Uma vista aérea da área na imagem noturna do Landsat 8 mostra a nova área térmica (centro à esquerda) que R. Greg Vaughan avistou na imagem do Landsat. A área termal existente do Lago Tern é a mancha branca e brilhante de solo na parte superior.",
+        "alt_en": "An aerial view of the area in the Landsat 8 nighttime image shows the new thermal area (center left) that R. Greg Vaughan spotted in the Landsat image. The existing Tern Lake Thermal Area is the bright white patch of ground in the upper."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2026/04/right_2021-08-29_L8.jpeg?w=750&h=470&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": {
+      "kind": "file",
+      "platform": "html5",
+      "embedUrl": "",
+      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/missions/landsat/2026/04/IOW%20-%20A%20New%20Yellowstone%20Hot%20Spot.mp4",
+      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2026/04/20240105_Band11.png?w=750&h=470&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "Imagens noturnas aumentam o valor científico do Landsat - NASA Science",
+      "title_pt": "Imagens noturnas aumentam o valor científico do Landsat - NASA Science",
+      "title_en": "Nighttime Imaging Grows Landsat's Science Value - NASA Science",
+      "caption": "As bandas espectrais visíveis do Landsat – as mesmas cores de comprimento de onda azul, verde e vermelho que nossos olhos podem ver – normalmente não são tão úteis quando coletadas no",
+      "caption_pt": "As bandas espectrais visíveis do Landsat – as mesmas cores de comprimento de onda azul, verde e vermelho que nossos olhos podem ver – normalmente não são tão úteis quando coletadas no",
+      "caption_en": "The visible spectral bands of Landsat—the same blue, green and red wavelength colors our eyes can see—are typically not that useful when collected on the",
+      "sourcePage": "https://science.nasa.gov/missions/landsat/nighttime-imaging-grows-landsats-science-value/"
+    },
+    "audio": null,
+    "title": "Imagens noturnas aumentam o valor científico do Landsat",
+    "title_pt": "Imagens noturnas aumentam o valor científico do Landsat",
+    "title_en": "Nighttime Imaging Grows Landsat’s Science Value",
+    "sub": "Pelo Centro de Observação e Ciência de Recursos Terrestres Por mais de 50 anos, o Landsat obteve imagens da terra e das superfícies próximas à costa da Terra enquanto os satélites.",
+    "sub_pt": "Pelo Centro de Observação e Ciência de Recursos Terrestres Por mais de 50 anos, o Landsat obteve imagens da terra e das superfícies próximas à costa da Terra enquanto os satélites.",
+    "sub_en": "By Earth Resources Observation and Science Center For more than 50 years, Landsat has imaged Earth’s land and near-shore surfaces as the satellites descend in midmorning orbit.",
+    "excerpt": "Pelo Centro de Observação e Ciência de Recursos Terrestres Por mais de 50 anos, o Landsat obteve imagens da terra e das superfícies próximas à costa da Terra enquanto os satélites desciam em órbita no meio da manhã, quando a luz solar diária é ideal. Isso é.",
+    "excerpt_pt": "Pelo Centro de Observação e Ciência de Recursos Terrestres Por mais de 50 anos, o Landsat obteve imagens da terra e das superfícies próximas à costa da Terra enquanto os satélites desciam em órbita no meio da manhã, quando a luz solar diária é ideal. Isso é.",
+    "excerpt_en": "By Earth Resources Observation and Science Center For more than 50 years, Landsat has imaged Earth’s land and near-shore surfaces as the satellites descend in midmorning orbit, when daily sunlight is optimal. That’s just what they’ve.",
+    "body": "<p>Pelo Centro de Observação e Ciência de Recursos Terrestres Por mais de 50 anos, o Landsat obteve imagens da terra e das superfícies próximas à costa da Terra enquanto os satélites desciam em órbita no meio da manhã, quando a luz solar diária é ideal. Isso é exatamente o que eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Pelo Centro de Observação e Ciência de Recursos Terrestres (EROS) Por mais de 50 anos, o Landsat obteve imagens da terra e das superfícies próximas à costa da Terra enquanto os. Para visualizar este vídeo, habilite o JavaScript e considere atualizar para um navegador que suporte vídeo HTML5. Assista a um vídeo sobre imagens relacionadas à descoberta de.</p><p>Uma imagem infravermelha térmica noturna Landsat 8 de abril de 2017 mostra a área do Lago Tern no Parque Nacional de Yellowstone. Uma vista aérea da área na imagem noturna do Landsat 8 mostra a nova área termal (centro à esquerda) que R.</p><p>Crawford avalia cuidadosamente este tipo de pedido, colocando estas questões: “Isto avança a missão científica. “Procuro áreas onde os dados de imagem do Landsat possam ser subutilizados, bem como áreas para o avanço da missão científica estratégica e benefícios sociais e, de muitas.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/landsat/nighttime-imaging-grows-landsats-science-value/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Pelo Centro de Observação e Ciência de Recursos Terrestres Por mais de 50 anos, o Landsat obteve imagens da terra e das superfícies próximas à costa da Terra enquanto os satélites desciam em órbita no meio da manhã, quando a luz solar diária é ideal. Isso é exatamente o que eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Pelo Centro de Observação e Ciência de Recursos Terrestres (EROS) Por mais de 50 anos, o Landsat obteve imagens da terra e das superfícies próximas à costa da Terra enquanto os. Para visualizar este vídeo, habilite o JavaScript e considere atualizar para um navegador que suporte vídeo HTML5. Assista a um vídeo sobre imagens relacionadas à descoberta de.</p><p>Uma imagem infravermelha térmica noturna Landsat 8 de abril de 2017 mostra a área do Lago Tern no Parque Nacional de Yellowstone. Uma vista aérea da área na imagem noturna do Landsat 8 mostra a nova área termal (centro à esquerda) que R.</p><p>Crawford avalia cuidadosamente este tipo de pedido, colocando estas questões: “Isto avança a missão científica. “Procuro áreas onde os dados de imagem do Landsat possam ser subutilizados, bem como áreas para o avanço da missão científica estratégica e benefícios sociais e, de muitas.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/landsat/nighttime-imaging-grows-landsats-science-value/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>By Earth Resources Observation and Science Center For more than 50 years, Landsat has imaged Earth’s land and near-shore surfaces as the satellites descend in midmorning orbit, when daily sunlight is optimal. That’s just what they’ve. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. By Earth Resources Observation and Science (EROS) Center For more than 50 years, Landsat has imaged Earth’s land and near-shore surfaces as the satellites descend in midmorning. To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video Watch a video about imagery related to the discovery of a new.</p><p>A Landsat 8 nighttime thermal infrared image from April 2017 shows the Tern Lake area in Yellowstone National Park. An aerial view of the area in the Landsat 8 nighttime image shows the new thermal area (center left) that R.</p><p>Crawford weighs this type of request carefully, posing these questions: “Does this advance the science mission. “I look for areas where Landsat imaging data may be underutilized, as well as areas for strategic science mission advancement and societal benefits, and in many ways, these growth.</p><p>Landsat 8’s thermal infrared, shortwave infrared and near infrared spectral bands expose the Caldor Fire’s advancing edge south of Lake Tahoe in California in a nighttime image. A LEAP Forward A significant advancement in learning about Landsat’s nighttime capabilities came with the effort to monitor polar regions year-round, with leadership from former.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Currently, Landsat 8 and Landsat 9 circle the globe while also making better use of their ascending paths, peering into the darkness for special requests. Geological Survey (USGS) Earth Resources Observation and Science (EROS) Center.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/landsat/nighttime-imaging-grows-landsats-science-value/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Pelo Centro de Observação e Ciência de Recursos Terrestres Por mais de 50 anos, o Landsat obteve imagens da terra e das superfícies próximas à costa.",
+      "Dado-chave: Pelo Centro de Observação e Ciência de Recursos Terrestres (EROS) Por mais de 50 anos, o Landsat obteve imagens da terra e das superfícies.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Pelo Centro de Observação e Ciência de Recursos Terrestres Por mais de 50 anos, o Landsat obteve imagens da terra e das superfícies próximas à costa.",
+      "Dado-chave: Pelo Centro de Observação e Ciência de Recursos Terrestres (EROS) Por mais de 50 anos, o Landsat obteve imagens da terra e das superfícies.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: By Earth Resources Observation and Science Center For more than 50 years, Landsat has imaged Earth’s land and near-shore surfaces as the satellites.",
+      "Key detail: By Earth Resources Observation and Science (EROS) Center For more than 50 years, Landsat has imaged Earth’s land and near-shore surfaces as the.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "28 abr 2026",
+    "date_pt": "28 abr 2026",
+    "date_en": "28 Apr 2026",
+    "time": "17h57",
+    "time_pt": "17h57",
+    "time_en": "17:57 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-28T17:57:30+00:00",
+    "lastModifiedIso": "2026-04-28T17:57:30+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Imagens noturnas aumentam o valor científico do Landsat"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Imagens noturnas aumentam o valor científico do Landsat"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Night images increase the scientific value of Landsat"
+    ],
+    "srcUrl": "https://science.nasa.gov/missions/landsat/nighttime-imaging-grows-landsats-science-value/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nighttime-imaging-grows-landsat-s-science-value",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nighttime-imaging-grows-landsat-s-science-value",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nighttime-imaging-grows-landsat-s-science-value&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 79,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -573,9 +719,9 @@ window.postsData = [
     "excerpt": "Uma tecnologia que poderia impulsionar missões tripuladas a Marte e naves espaciais robóticas por todo o sistema solar foi recentemente posta à prova no Laboratório de Propulsão a Jato da NASA, no sul da Califórnia. Em 24 de fevereiro, pela primeira vez em.",
     "excerpt_pt": "Uma tecnologia que poderia impulsionar missões tripuladas a Marte e naves espaciais robóticas por todo o sistema solar foi recentemente posta à prova no Laboratório de Propulsão a Jato da NASA, no sul da Califórnia. Em 24 de fevereiro, pela primeira vez em.",
     "excerpt_en": "A technology that could propel crewed missions to Mars and robotic spacecraft throughout the solar system was recently put to the test at NASA’s Jet Propulsion Laboratory in Southern California. On Feb. 24, for the first time in years and.",
-    "body": "<p>Uma tecnologia que poderia impulsionar missões tripuladas a Marte e naves espaciais robóticas por todo o sistema solar foi recentemente posta à prova no Laboratório de Propulsão a Jato da NASA, no sul da Califórnia. Em 24 de fevereiro, pela primeira vez em anos e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um protótipo de propulsor magnetoplasmadinâmico alimentado com lítio foi testado em uma câmara especial no Laboratório de Propulsão a Jato da NASA em fevereiro de 2026. Continuaremos a fazer investimentos estratégicos que impulsionarão esse próximo salto gigante.” O cientista pesquisador sênior do JPL, James Polk, examina a instalação de vácuo de.</p><p>NASA/JPL-Caltech Durante cinco ignições, o eletrodo de tungstênio no centro do propulsor brilhou em uma cor branca brilhante, atingindo mais de 2.800 graus Celsius (5.000 graus. NASA/JPL-Caltech Durante o teste, a equipe alcançou níveis de potência de até 120 quilowatts.</p><p>626-314-4928 melissa. pamer@jpl. nasa. gov 2026-026 Explore mais 5 minutos de leitura Terminal de laser da NASA melhora as visualizações durante o artigo da missão Artemis II 49. Conteúdo do artigo Ligando-se Tornando-se elétrico Um protótipo de um propulsor magnetoplasmadinâmico alimentado com lítio foi testado em uma câmara especial no Laboratório de.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Uma tecnologia que poderia impulsionar missões tripuladas a Marte e naves espaciais robóticas por todo o sistema solar foi recentemente posta à prova no Laboratório de Propulsão a Jato da NASA, no sul da Califórnia. Em 24 de fevereiro, pela primeira vez em anos e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um protótipo de propulsor magnetoplasmadinâmico alimentado com lítio foi testado em uma câmara especial no Laboratório de Propulsão a Jato da NASA em fevereiro de 2026. Continuaremos a fazer investimentos estratégicos que impulsionarão esse próximo salto gigante.” O cientista pesquisador sênior do JPL, James Polk, examina a instalação de vácuo de.</p><p>NASA/JPL-Caltech Durante cinco ignições, o eletrodo de tungstênio no centro do propulsor brilhou em uma cor branca brilhante, atingindo mais de 2.800 graus Celsius (5.000 graus. NASA/JPL-Caltech Durante o teste, a equipe alcançou níveis de potência de até 120 quilowatts.</p><p>626-314-4928 melissa. pamer@jpl. nasa. gov 2026-026 Explore mais 5 minutos de leitura Terminal de laser da NASA melhora as visualizações durante o artigo da missão Artemis II 49. Conteúdo do artigo Ligando-se Tornando-se elétrico Um protótipo de um propulsor magnetoplasmadinâmico alimentado com lítio foi testado em uma câmara especial no Laboratório de.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A technology that could propel crewed missions to Mars and robotic spacecraft throughout the solar system was recently put to the test at NASA’s Jet Propulsion Laboratory in Southern California. On Feb. 24, for the first time in years and. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A prototype of a lithium-fed magnetoplasmadynamic thruster was tested in a special chamber at NASA’s Jet Propulsion Laboratory in February 2026. We will continue to make strategic investments that will propel that next giant leap.” JPL senior research scientist James Polk peers into the condensable metal propellant (CoMeT).</p><p>NASA/JPL-Caltech During five ignitions, the tungsten electrode at the thruster’s center glowed bright white, reaching over 5,000 degrees Fahrenheit (2,800 degrees Celsius). NASA/JPL-Caltech During the test, the team achieved power levels of up to 120 kilowatts.</p><p>626-314-4928 melissa. pamer@jpl. nasa. gov 2026-026 Explore More 5 min read NASA Laser Terminal Enhances Views During Artemis II Mission Article 49 minutes ago 5 min read NASA’s. Article Contents Powering up Going electric A prototype of a lithium-fed magnetoplasmadynamic thruster was tested in a special chamber at NASA’s Jet Propulsion Laboratory in.</p><p>NASA JPL is testing a lithium-fed magnetoplasmadynamic (MPD) thruster, a technology that has been researched since the 1960s but never flown operationally. That’s over 25 times the power of the thrusters on Psyche, which is currently operating the highest-power electric thrusters of any NASA spacecraft.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Polk has researched lithium-fed MPD thrusters for decades, having worked on NASA’s Dawn mission and the agency’s Deep Space 1, the first demonstration of electric propulsion. A human mission to Mars might need 2 to 4 megawatts of power, requiring multiple MPD thrusters, which would have to operate for more than 23,000 hours.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Uma tecnologia que poderia impulsionar missões tripuladas a Marte e naves espaciais robóticas por todo o sistema solar foi recentemente posta à prova no Laboratório de Propulsão a Jato da NASA, no sul da Califórnia. Em 24 de fevereiro, pela primeira vez em anos e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um protótipo de propulsor magnetoplasmadinâmico alimentado com lítio foi testado em uma câmara especial no Laboratório de Propulsão a Jato da NASA em fevereiro de 2026. Continuaremos a fazer investimentos estratégicos que impulsionarão esse próximo salto gigante.” O cientista pesquisador sênior do JPL, James Polk, examina a instalação de vácuo de.</p><p>NASA/JPL-Caltech Durante cinco ignições, o eletrodo de tungstênio no centro do propulsor brilhou em uma cor branca brilhante, atingindo mais de 2.800 graus Celsius (5.000 graus. NASA/JPL-Caltech Durante o teste, a equipe alcançou níveis de potência de até 120 quilowatts.</p><p>626-314-4928 melissa. pamer@jpl. nasa. gov 2026-026 Explore mais 4 minutos de leitura Terminal de laser da NASA melhora as visualizações durante o artigo da missão Artemis II 3. Conteúdo do artigo Ligando-se Tornando-se elétrico Um protótipo de um propulsor magnetoplasmadinâmico alimentado com lítio foi testado em uma câmara especial no Laboratório de.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma tecnologia que poderia impulsionar missões tripuladas a Marte e naves espaciais robóticas por todo o sistema solar foi recentemente posta à prova no Laboratório de Propulsão a Jato da NASA, no sul da Califórnia. Em 24 de fevereiro, pela primeira vez em anos e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um protótipo de propulsor magnetoplasmadinâmico alimentado com lítio foi testado em uma câmara especial no Laboratório de Propulsão a Jato da NASA em fevereiro de 2026. Continuaremos a fazer investimentos estratégicos que impulsionarão esse próximo salto gigante.” O cientista pesquisador sênior do JPL, James Polk, examina a instalação de vácuo de.</p><p>NASA/JPL-Caltech Durante cinco ignições, o eletrodo de tungstênio no centro do propulsor brilhou em uma cor branca brilhante, atingindo mais de 2.800 graus Celsius (5.000 graus. NASA/JPL-Caltech Durante o teste, a equipe alcançou níveis de potência de até 120 quilowatts.</p><p>626-314-4928 melissa. pamer@jpl. nasa. gov 2026-026 Explore mais 4 minutos de leitura Terminal de laser da NASA melhora as visualizações durante o artigo da missão Artemis II 3. Conteúdo do artigo Ligando-se Tornando-se elétrico Um protótipo de um propulsor magnetoplasmadinâmico alimentado com lítio foi testado em uma câmara especial no Laboratório de.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A technology that could propel crewed missions to Mars and robotic spacecraft throughout the solar system was recently put to the test at NASA’s Jet Propulsion Laboratory in Southern California. On Feb. 24, for the first time in years and. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A prototype of a lithium-fed magnetoplasmadynamic thruster was tested in a special chamber at NASA’s Jet Propulsion Laboratory in February 2026. We will continue to make strategic investments that will propel that next giant leap.” JPL senior research scientist James Polk peers into the condensable metal propellant (CoMeT).</p><p>NASA/JPL-Caltech During five ignitions, the tungsten electrode at the thruster’s center glowed bright white, reaching over 5,000 degrees Fahrenheit (2,800 degrees Celsius). NASA/JPL-Caltech During the test, the team achieved power levels of up to 120 kilowatts.</p><p>626-314-4928 melissa. pamer@jpl. nasa. gov 2026-026 Explore More 4 min read NASA Laser Terminal Enhances Views During Artemis II Mission Article 3 hours ago 5 min read NASA’s. Article Contents Powering up Going electric A prototype of a lithium-fed magnetoplasmadynamic thruster was tested in a special chamber at NASA’s Jet Propulsion Laboratory in.</p><p>NASA JPL is testing a lithium-fed magnetoplasmadynamic (MPD) thruster, a technology that has been researched since the 1960s but never flown operationally. That’s over 25 times the power of the thrusters on Psyche, which is currently operating the highest-power electric thrusters of any NASA spacecraft.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Polk has researched lithium-fed MPD thrusters for decades, having worked on NASA’s Dawn mission and the agency’s Deep Space 1, the first demonstration of electric propulsion. A human mission to Mars might need 2 to 4 megawatts of power, requiring multiple MPD thrusters, which would have to operate for more than 23,000 hours.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Uma tecnologia que poderia impulsionar missões tripuladas a Marte e naves espaciais robóticas por todo o sistema solar foi recentemente posta à prova.",
       "Dado-chave: Um protótipo de propulsor magnetoplasmadinâmico alimentado com lítio foi testado em uma câmara especial no Laboratório de Propulsão a Jato da.",
@@ -647,7 +793,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -661,7 +807,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "astronomers-find-the-edge-of-the-milky-way-s-star-forming-disc",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -789,7 +935,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "nasa-laser-terminal-enhances-views-during-artemis-ii-mission",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -840,7 +986,7 @@ window.postsData = [
     "excerpt_en": "Millions of people watched the historic launch of Artemis II and were captivated by the mission’s 10-day journey around the Moon as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA astronaut Jeremy Hansen ventured.",
     "body": "<p>Milhões de pessoas assistiram ao histórico lançamento do Artemis II e ficaram cativadas pela viagem de 10 dias da missão ao redor da Lua, enquanto os astronautas da NASA Reid Wiseman, Victor Glover e Christina Koch, e o astronauta da CSA Jeremy Hansen se aventuravam. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. NASA “O acesso a imagens de alta resolução e outros dados científicos durante as fases dinâmicas da missão científica é um divisor de águas”, disse o Dr. Parecia que estávamos ali com a tripulação, e isso maximizou o impacto científico lunar da missão, pois permitiu uma conferência científica da tripulação mais produtiva na manhã.</p><p>Kelsey jovem Artemis II Lunar Science Lead Durante a viagem de cerca de 10 dias, o sistema de comunicação a laser trocou 484 gigabytes de dados entre Orion e a Terra. ANU/Nic Vevers Ao longo da missão, o site australiano obteve vídeo dual-stream com Orion por mais de 15,5 horas, contribuindo para o feed “Live Views from Orion” da NASA, que.</p><p>Saiba mais sobre a missão Artemis II: https: //www. nasa. gov/artemis-ii Detalhes de compartilhamento Última atualização em 28 de abril de.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/missions/artemis/artemis-2/nasa-laser-terminal-enhances-views-during-artemis-ii-mission/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_pt": "<p>Milhões de pessoas assistiram ao histórico lançamento do Artemis II e ficaram cativadas pela viagem de 10 dias da missão ao redor da Lua, enquanto os astronautas da NASA Reid Wiseman, Victor Glover e Christina Koch, e o astronauta da CSA Jeremy Hansen se aventuravam. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. NASA “O acesso a imagens de alta resolução e outros dados científicos durante as fases dinâmicas da missão científica é um divisor de águas”, disse o Dr. Parecia que estávamos ali com a tripulação, e isso maximizou o impacto científico lunar da missão, pois permitiu uma conferência científica da tripulação mais produtiva na manhã.</p><p>Kelsey jovem Artemis II Lunar Science Lead Durante a viagem de cerca de 10 dias, o sistema de comunicação a laser trocou 484 gigabytes de dados entre Orion e a Terra. ANU/Nic Vevers Ao longo da missão, o site australiano obteve vídeo dual-stream com Orion por mais de 15,5 horas, contribuindo para o feed “Live Views from Orion” da NASA, que.</p><p>Saiba mais sobre a missão Artemis II: https: //www. nasa. gov/artemis-ii Detalhes de compartilhamento Última atualização em 28 de abril de.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/missions/artemis/artemis-2/nasa-laser-terminal-enhances-views-during-artemis-ii-mission/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Millions of people watched the historic launch of Artemis II and were captivated by the mission’s 10-day journey around the Moon as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA astronaut Jeremy Hansen ventured. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. NASA “Access to high-resolution imagery and other scientific data during dynamic science mission phases is a game changer,” said Dr. It felt like we were right there with the crew, and it maximized the lunar science impact of the mission as it allowed for a more productive crew science conference the morning.</p><p>Kelsey young Artemis II Lunar Science Lead During the about 10-day journey, the laser communications system exchanged 484 gigabytes of data between Orion and Earth, roughly. ANU/Nic Vevers Throughout the mission, the Australian site achieved dual-stream video with Orion for more than 15.5 hours, contributing to NASA’s “Live Views from Orion” feed.</p><p>Learn more about the Artemis II mission: https: //www. nasa. gov/artemis-ii Share Details Last Updated Apr 28. “Access to high-resolution imagery and other scientific data during dynamic science mission phases is a game changer,” said Dr.</p><p>“It means faster insights, better science decision-making to support the crew as they’re completing science exploration, and a mission with a more integrated science presence. On Earth, NASA ground station telescopes at the NASA’s Jet Propulsion Laboratory in Southern California and White Sands Complex in New Mexico were selected for their.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>These stations collected the bulk of Orion’s optical signals, hitting a record of 26 gigabytes of data received, downloaded, and transmitted to mission control in under an hour. Throughout the mission, the Australian site achieved dual-stream video with Orion for more than 15.5 hours, contributing to a live streaming view from Orion, which enabled.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/missions/artemis/artemis-2/nasa-laser-terminal-enhances-views-during-artemis-ii-mission/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body_en": "<p>Millions of people watched the historic launch of Artemis II and were captivated by the mission’s 10-day journey around the Moon as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA astronaut Jeremy Hansen ventured. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. NASA “Access to high-resolution imagery and other scientific data during dynamic science mission phases is a game changer,” said Dr. It felt like we were right there with the crew, and it maximized the lunar science impact of the mission as it allowed for a more productive crew science conference the morning.</p><p>Kelsey young Artemis II Lunar Science Lead During the about 10-day journey, the laser communications system exchanged 484 gigabytes of data between Orion and Earth, roughly. ANU/Nic Vevers Throughout the mission, the Australian site achieved dual-stream video with Orion for more than 15.5 hours, contributing to NASA’s “Live Views from Orion” feed.</p><p>Learn more about the Artemis II mission: https: //www. nasa. gov/artemis-ii Share Details Last Updated Apr 28. The terminal collected and transmitted high-definition video, flight procedures, photos, engineering and science data, and voice communications to Earth over laser signals when.</p><p>“Access to high-resolution imagery and other scientific data during dynamic science mission phases is a game changer,” said Dr. “It means faster insights, better science decision-making to support the crew as they’re completing science exploration, and a mission with a more integrated science presence.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>On Earth, NASA ground station telescopes at the NASA’s Jet Propulsion Laboratory in Southern California and White Sands Complex in New Mexico were selected for their. These stations collected the bulk of Orion’s optical signals, hitting a record of 26 gigabytes of data received, downloaded, and transmitted to mission control in under an hour.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/missions/artemis/artemis-2/nasa-laser-terminal-enhances-views-during-artemis-ii-mission/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Milhões de pessoas assistiram ao histórico lançamento do Artemis II e ficaram cativadas pela viagem de 10 dias da missão ao redor da Lua, enquanto os.",
       "Dado-chave: Milhões de pessoas assistiram ao histórico lançamento do Artemis II e ficaram cativadas pela viagem de 10 dias da missão ao redor da Lua.",
@@ -926,7 +1072,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "tough-fungi-could-survive-the-trip-to-mars",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1039,139 +1185,6 @@ window.postsData = [
       "source": 73,
       "evidence": 82,
       "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "astronomers-release-massive-set-of-virtual-universes-for-global-research",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-release-ma.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/astronomers-release-ma.jpg",
-        "caption": "Astrônomos lançam enorme conjunto de ‘universos virtuais’ para pesquisa global",
-        "caption_pt": "Astrônomos lançam enorme conjunto de ‘universos virtuais’ para pesquisa global",
-        "caption_en": "Astronomers release massive set of 'virtual universes' for global research",
-        "alt": "Astrônomos lançam enorme conjunto de ‘universos virtuais’ para pesquisa global",
-        "alt_pt": "Astrônomos lançam enorme conjunto de ‘universos virtuais’ para pesquisa global",
-        "alt_en": "Astronomers release massive set of 'virtual universes' for global research"
-      },
-      {
-        "src": "https://scx0.b-cdn.net/pic/llock.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx0.b-cdn.net/pic/Robert.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Astrônomos lançam enorme conjunto de ‘universos virtuais’ para pesquisa global",
-    "title_pt": "Astrônomos lançam enorme conjunto de ‘universos virtuais’ para pesquisa global",
-    "title_en": "Astronomers release massive set of 'virtual universes' for global research",
-    "sub": "Compreender o universo como um todo requer simulações em escalas cósmicas. Uma equipe internacional de astrofísicos, com papel de liderança para pesquisadores da Universidade de.",
-    "sub_pt": "Compreender o universo como um todo requer simulações em escalas cósmicas. Uma equipe internacional de astrofísicos, com papel de liderança para pesquisadores da Universidade de.",
-    "sub_en": "Understanding the universe as a whole requires simulations on cosmic scales. An international team of astrophysicists, with a leading role for researchers at Leiden University.",
-    "excerpt": "Compreender o universo como um todo requer simulações em escalas cósmicas. Uma equipe internacional de astrofísicos, com papel de liderança para pesquisadores da Universidade de Leiden, na Holanda, lançou agora um dos maiores dados cosmológicos.",
-    "excerpt_pt": "Compreender o universo como um todo requer simulações em escalas cósmicas. Uma equipe internacional de astrofísicos, com papel de liderança para pesquisadores da Universidade de Leiden, na Holanda, lançou agora um dos maiores dados cosmológicos.",
-    "excerpt_en": "Understanding the universe as a whole requires simulations on cosmic scales. An international team of astrophysicists, with a leading role for researchers at Leiden University, Netherlands, has now released one of the largest cosmological.",
-    "body": "<p>Compreender o universo como um todo requer simulações em escalas cósmicas. Uma equipe internacional de astrofísicos, com papel de liderança para pesquisadores da Universidade de Leiden, na Holanda, lançou agora um dos maiores dados cosmológicos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Schaye et al (2023) Compreender o universo como um todo requer simulações em escalas cósmicas.</p><p>Uma equipa internacional de astrofísicos, com um papel de liderança para investigadores da Universidade de Leiden, na Holanda, lançou agora um dos maiores conjuntos de dados de. O conjunto de dados contém mais de 2,5 petabytes de dados de simulação, aproximadamente o equivalente a meio milhão de filmes em HD.</p><p>A divulgação dos dados está descrita em um artigo submetido à Astronomy &amp; Computing e está disponível no servidor de pré-impressão arXiv. Eles mostram como a matéria evoluiu desde o Big Bang, desde pequenas flutuações de densidade até galáxias e vastas estruturas.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-astronomers-massive-virtual-universes-global.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Compreender o universo como um todo requer simulações em escalas cósmicas. Uma equipe internacional de astrofísicos, com papel de liderança para pesquisadores da Universidade de Leiden, na Holanda, lançou agora um dos maiores dados cosmológicos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Schaye et al (2023) Compreender o universo como um todo requer simulações em escalas cósmicas.</p><p>Uma equipa internacional de astrofísicos, com um papel de liderança para investigadores da Universidade de Leiden, na Holanda, lançou agora um dos maiores conjuntos de dados de. O conjunto de dados contém mais de 2,5 petabytes de dados de simulação, aproximadamente o equivalente a meio milhão de filmes em HD.</p><p>A divulgação dos dados está descrita em um artigo submetido à Astronomy &amp; Computing e está disponível no servidor de pré-impressão arXiv. Eles mostram como a matéria evoluiu desde o Big Bang, desde pequenas flutuações de densidade até galáxias e vastas estruturas.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-astronomers-massive-virtual-universes-global.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Understanding the universe as a whole requires simulations on cosmic scales. An international team of astrophysicists, with a leading role for researchers at Leiden University, Netherlands, has now released one of the largest cosmological. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. This article has been reviewed according to Science X&#x27;s editorial process and policies. Schaye et al (2023) Understanding the universe as a whole requires simulations on cosmic scales.</p><p>An international team of astrophysicists, with a leading role for researchers at Leiden University, Netherlands, has now released one of the largest cosmological simulation. The dataset contains more than 2.5 petabytes of simulation data, roughly equivalent to half a million HD movies.</p><p>The data release is described in a paper that was submitted to Astronomy &amp; Computing and is available on the arXiv preprint server. They show how matter has evolved since the Big Bang, from small density fluctuations to galaxies and vast structures.</p><p>By comparing such simulations with observations, researchers can investigate fundamental questions, such as the nature of dark matter and dark energy, the invisible components. By making the data publicly available, we hope researchers worldwide will use FLAMINGO to test new ideas about how the universe works.&quot; The simulations were carried out using the.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>That is precisely why we believe it is important to make these data openly available.&quot; To make the dataset usable, the team developed a dedicated online platform that allows. We want to lower the barrier to entry as much as possible,&quot; says John Helly from Durham University who led the development of the system.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-astronomers-massive-virtual-universes-global.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Compreender o universo como um todo requer simulações em escalas cósmicas. Uma equipe internacional de astrofísicos, com papel de liderança para.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Compreender o universo como um todo requer simulações em escalas cósmicas. Uma equipe internacional de astrofísicos, com papel de liderança para.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Understanding the universe as a whole requires simulations on cosmic scales. An international team of astrophysicists, with a leading role for.",
-      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "28 abr 2026",
-    "date_pt": "28 abr 2026",
-    "date_en": "28 Apr 2026",
-    "time": "13h00",
-    "time_pt": "13h00",
-    "time_en": "13:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-28T13:00:02+00:00",
-    "lastModifiedIso": "2026-04-28T13:00:02+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Astrônomos lançam enorme conjunto de ‘universos virtuais’ para pesquisa global"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Astrônomos lançam enorme conjunto de ‘universos virtuais’ para pesquisa global"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Astronomers launch huge set of ‘virtual universes’ for global research"
-    ],
-    "srcUrl": "https://phys.org/news/2026-04-astronomers-massive-virtual-universes-global.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-release-massive-set-of-virtual-universes-for-global-research",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-release-massive-set-of-virtual-universes-for-global-research",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-release-massive-set-of-virtual-universes-for-global-research&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 77,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
-      "relevance": 88,
       "accessibility": 60,
       "novelty": 55
     }
@@ -1747,13 +1760,13 @@ window.postsData = [
         "alt_en": "Siimulation results"
       },
       {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/theme/src/img/comment.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
+        "src": "https://dq0hsqwjhea1.cloudfront.net/58dbd094481f1c1e456548521f8f4fe3.png",
+        "caption": "Imagem de Bhibuthi Busan Patel",
+        "caption_pt": "Imagem de Bhibuthi Busan Patel",
+        "caption_en": "Image of Bhibuthi bhusan Patel",
+        "alt": "Imagem de Bhibuthi Busan Patel",
+        "alt_pt": "Imagem de Bhibuthi Busan Patel",
+        "alt_en": "Image of Bhibuthi bhusan Patel"
       }
     ],
     "video": null,
@@ -1989,6 +2002,134 @@ window.postsData = [
   },
   {
     "id": 17,
+    "slug": "small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://www.universetoday.com/article_images/Aurora_Australis_over_Concordia_base_pillars_20260426_144128.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/Coupole_Venus_ASTEP_1_1_20260426_144722.png",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/o_zl9xzeqs8",
+      "fileUrl": "",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://www.universetoday.com/articles/small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science"
+    },
+    "audio": null,
+    "title": "Pequeno telescópio antártico causa um impacto descomunal na ciência exoplanetária",
+    "title_pt": "Pequeno telescópio antártico causa um impacto descomunal na ciência exoplanetária",
+    "title_en": "Small Antarctic Telescope Makes An Outsized Impact On Exoplanetary Science",
+    "sub": "ASTEP, a Pesquisa Antártica de Exoplanetas em Trânsito, um pequeno telescópio visível que opera na estação Concordia, continua a causar um impacto real na caracterização de novos.",
+    "sub_pt": "ASTEP, a Pesquisa Antártica de Exoplanetas em Trânsito, um pequeno telescópio visível que opera na estação Concordia, continua a causar um impacto real na caracterização de novos.",
+    "sub_en": "ASTEP, the Antarctic Search for Transiting ExoPlanets, a small visible telescope operating at Concordia station, continues making a real impact in characterizing odd new.",
+    "excerpt": "ASTEP, a Pesquisa Antártica de Exoplanetas em Trânsito, um pequeno telescópio visível que opera na estação Concordia, continua a causar um impacto real na caracterização de novos sistemas exoplanetários estranhos.",
+    "excerpt_pt": "ASTEP, a Pesquisa Antártica de Exoplanetas em Trânsito, um pequeno telescópio visível que opera na estação Concordia, continua a causar um impacto real na caracterização de novos sistemas exoplanetários estranhos.",
+    "excerpt_en": "ASTEP, the Antarctic Search for Transiting ExoPlanets, a small visible telescope operating at Concordia station, continues making a real impact in characterizing odd new exoplanetary systems.",
+    "body": "<p>ASTEP, a Pesquisa Antártica de Exoplanetas em Trânsito, um pequeno telescópio visível que opera na estação Concordia, continua a causar um impacto real na caracterização de novos sistemas exoplanetários estranhos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. A Antártica, que abriga um dos ambientes mais hostis da Terra, dificilmente pareceria um Valhalla para observações astronômicas convencionais. Mas há mais de uma década e meia que uma equipa de astrónomos liderada pela França e pelo Reino Unido tem utilizado um telescópio de 40 cm no topo do planalto antártico para.</p><p>Quando usada em astronomia, a fotometria mede a intensidade da luz de alvos celestes, mais frequentemente no espectro visível. Até à data, a ASTEP contribuiu para a descoberta de cerca de vinte a trinta planetas extrasolares em trânsito, todos a partir da sua localização a cerca de 1200 km para o.</p><p>A mais recente é a sua participação na caracterização do TOI-201, um sistema planetário excêntrico que orbita uma estrela do tipo espectral F 30% mais massiva e 30% maior que o. Este sistema excêntrico é composto por uma ‘super Terra’ com cerca de seis vezes a massa da Terra, que orbita TO1-201 a cada 5,8 dias.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>ASTEP, a Pesquisa Antártica de Exoplanetas em Trânsito, um pequeno telescópio visível que opera na estação Concordia, continua a causar um impacto real na caracterização de novos sistemas exoplanetários estranhos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. A Antártica, que abriga um dos ambientes mais hostis da Terra, dificilmente pareceria um Valhalla para observações astronômicas convencionais. Mas há mais de uma década e meia que uma equipa de astrónomos liderada pela França e pelo Reino Unido tem utilizado um telescópio de 40 cm no topo do planalto antártico para.</p><p>Quando usada em astronomia, a fotometria mede a intensidade da luz de alvos celestes, mais frequentemente no espectro visível. Até à data, a ASTEP contribuiu para a descoberta de cerca de vinte a trinta planetas extrasolares em trânsito, todos a partir da sua localização a cerca de 1200 km para o.</p><p>A mais recente é a sua participação na caracterização do TOI-201, um sistema planetário excêntrico que orbita uma estrela do tipo espectral F 30% mais massiva e 30% maior que o. Este sistema excêntrico é composto por uma ‘super Terra’ com cerca de seis vezes a massa da Terra, que orbita TO1-201 a cada 5,8 dias.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>ASTEP, the Antarctic Search for Transiting ExoPlanets, a small visible telescope operating at Concordia station, continues making a real impact in characterizing odd new exoplanetary systems. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. Antarctica, which harbors one of the harshest environments on Earth, would hardly seem to be a Valhalla for conventional astronomical observations. But for over a decade and a half, a French- and U. K.-led team of astronomers have been using a 40-cm telescope atop the high Antarctic plateau to look for transiting exoplanets.</p><p>When used in astronomy, photometry measures the intensity of light from celestial targets, most often in the visible spectrum. To date, ASTEP has contributed to the discovery of some twenty to thirty transiting extrasolar planets, all from its location some 1200km inland on the high Antarctic plateau.</p><p>The most recent is its participation in the characterization of TOI-201, an oddball planetary system orbiting a F-spectral type star 30 percent more massive and 30 percent bigger. This oddball system is made up of a ‘super Earth’ some six times the mass of Earth which orbits TO1-201 every 5.8 days.</p><p>There’s a gas giant half the mass of Jupiter which orbits the star every 53 days. Then there’s a brown dwarf --- some 15 times heavier than Jupiter on a very unusual and very elliptical 7.9-year orbit.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>Sometimes called ‘failed stars,’ they are too small to burn hydrogen but are at least 13 times the mass of our own Jupiter. But what makes TOI-201 particularly interesting is that has extremely different objects that are all gravitationally interacting on orbits that are changing fast enough to be seen.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: ASTEP, a Pesquisa Antártica de Exoplanetas em Trânsito, um pequeno telescópio visível que opera na estação Concordia, continua a causar um impacto.",
+      "Dado-chave: A Antártica, que abriga um dos ambientes mais hostis da Terra, dificilmente pareceria um Valhalla para observações astronômicas convencionais.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: ASTEP, a Pesquisa Antártica de Exoplanetas em Trânsito, um pequeno telescópio visível que opera na estação Concordia, continua a causar um impacto.",
+      "Dado-chave: A Antártica, que abriga um dos ambientes mais hostis da Terra, dificilmente pareceria um Valhalla para observações astronômicas convencionais.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: ASTEP, the Antarctic Search for Transiting ExoPlanets, a small visible telescope operating at Concordia station, continues making a real impact in.",
+      "Key detail: Antarctica, which harbors one of the harshest environments on Earth, would hardly seem to be a Valhalla for conventional astronomical.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "26 abr 2026",
+    "date_pt": "26 abr 2026",
+    "date_en": "26 Apr 2026",
+    "time": "15h03",
+    "time_pt": "15h03",
+    "time_en": "15:03 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-26T15:03:00+00:00",
+    "lastModifiedIso": "2026-04-26T15:03:00+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Exoplanetas",
+      "Universe Today",
+      "Cosmos Week",
+      "Pequeno telescópio antártico causa um impacto descomunal na ciência exoplanetária"
+    ],
+    "keywords_pt": [
+      "Exoplanetas",
+      "Universe Today",
+      "Cosmos Week",
+      "Pequeno telescópio antártico causa um impacto descomunal na ciência exoplanetária"
+    ],
+    "keywords_en": [
+      "Exoplanets",
+      "Universe Today",
+      "Cosmos Week",
+      "Small Antarctic telescope makes huge impact on exoplanetary science"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 49
+    }
+  },
+  {
+    "id": 18,
     "slug": "jwst-hunts-for-an-earth-moon-twin-in-a-habitable-zone-but-the-star-has-other-plans",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2130,141 +2271,13 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 76,
+    "score": 75,
     "scoreBreakdown": {
       "source": 76,
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 18,
-    "slug": "small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science",
-    "cat": "Exoplanetas",
-    "catCls": "exoplanetas",
-    "img": "https://www.universetoday.com/article_images/Aurora_Australis_over_Concordia_base_pillars_20260426_144128.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/Coupole_Venus_ASTEP_1_1_20260426_144722.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/o_zl9xzeqs8",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.universetoday.com/articles/small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science"
-    },
-    "audio": null,
-    "title": "Pequeno telescópio antártico causa um impacto descomunal na ciência exoplanetária",
-    "title_pt": "Pequeno telescópio antártico causa um impacto descomunal na ciência exoplanetária",
-    "title_en": "Small Antarctic Telescope Makes An Outsized Impact On Exoplanetary Science",
-    "sub": "ASTEP, a Pesquisa Antártica de Exoplanetas em Trânsito, um pequeno telescópio visível que opera na estação Concordia, continua a causar um impacto real na caracterização de novos.",
-    "sub_pt": "ASTEP, a Pesquisa Antártica de Exoplanetas em Trânsito, um pequeno telescópio visível que opera na estação Concordia, continua a causar um impacto real na caracterização de novos.",
-    "sub_en": "ASTEP, the Antarctic Search for Transiting ExoPlanets, a small visible telescope operating at Concordia station, continues making a real impact in characterizing odd new.",
-    "excerpt": "ASTEP, a Pesquisa Antártica de Exoplanetas em Trânsito, um pequeno telescópio visível que opera na estação Concordia, continua a causar um impacto real na caracterização de novos sistemas exoplanetários estranhos.",
-    "excerpt_pt": "ASTEP, a Pesquisa Antártica de Exoplanetas em Trânsito, um pequeno telescópio visível que opera na estação Concordia, continua a causar um impacto real na caracterização de novos sistemas exoplanetários estranhos.",
-    "excerpt_en": "ASTEP, the Antarctic Search for Transiting ExoPlanets, a small visible telescope operating at Concordia station, continues making a real impact in characterizing odd new exoplanetary systems.",
-    "body": "<p>ASTEP, a Pesquisa Antártica de Exoplanetas em Trânsito, um pequeno telescópio visível que opera na estação Concordia, continua a causar um impacto real na caracterização de novos sistemas exoplanetários estranhos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. A Antártica, que abriga um dos ambientes mais hostis da Terra, dificilmente pareceria um Valhalla para observações astronômicas convencionais. Mas há mais de uma década e meia que uma equipa de astrónomos liderada pela França e pelo Reino Unido tem utilizado um telescópio de 40 cm no topo do planalto antártico para.</p><p>Quando usada em astronomia, a fotometria mede a intensidade da luz de alvos celestes, mais frequentemente no espectro visível. Até à data, a ASTEP contribuiu para a descoberta de cerca de vinte a trinta planetas extrasolares em trânsito, todos a partir da sua localização a cerca de 1200 km para o.</p><p>A mais recente é a sua participação na caracterização do TOI-201, um sistema planetário excêntrico que orbita uma estrela do tipo espectral F 30% mais massiva e 30% maior que o. Este sistema excêntrico é composto por uma ‘super Terra’ com cerca de seis vezes a massa da Terra, que orbita TO1-201 a cada 5,8 dias.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>ASTEP, a Pesquisa Antártica de Exoplanetas em Trânsito, um pequeno telescópio visível que opera na estação Concordia, continua a causar um impacto real na caracterização de novos sistemas exoplanetários estranhos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. A Antártica, que abriga um dos ambientes mais hostis da Terra, dificilmente pareceria um Valhalla para observações astronômicas convencionais. Mas há mais de uma década e meia que uma equipa de astrónomos liderada pela França e pelo Reino Unido tem utilizado um telescópio de 40 cm no topo do planalto antártico para.</p><p>Quando usada em astronomia, a fotometria mede a intensidade da luz de alvos celestes, mais frequentemente no espectro visível. Até à data, a ASTEP contribuiu para a descoberta de cerca de vinte a trinta planetas extrasolares em trânsito, todos a partir da sua localização a cerca de 1200 km para o.</p><p>A mais recente é a sua participação na caracterização do TOI-201, um sistema planetário excêntrico que orbita uma estrela do tipo espectral F 30% mais massiva e 30% maior que o. Este sistema excêntrico é composto por uma ‘super Terra’ com cerca de seis vezes a massa da Terra, que orbita TO1-201 a cada 5,8 dias.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>ASTEP, the Antarctic Search for Transiting ExoPlanets, a small visible telescope operating at Concordia station, continues making a real impact in characterizing odd new exoplanetary systems. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. Antarctica, which harbors one of the harshest environments on Earth, would hardly seem to be a Valhalla for conventional astronomical observations. But for over a decade and a half, a French- and U. K.-led team of astronomers have been using a 40-cm telescope atop the high Antarctic plateau to look for transiting exoplanets.</p><p>When used in astronomy, photometry measures the intensity of light from celestial targets, most often in the visible spectrum. To date, ASTEP has contributed to the discovery of some twenty to thirty transiting extrasolar planets, all from its location some 1200km inland on the high Antarctic plateau.</p><p>The most recent is its participation in the characterization of TOI-201, an oddball planetary system orbiting a F-spectral type star 30 percent more massive and 30 percent bigger. This oddball system is made up of a ‘super Earth’ some six times the mass of Earth which orbits TO1-201 every 5.8 days.</p><p>There’s a gas giant half the mass of Jupiter which orbits the star every 53 days. Then there’s a brown dwarf --- some 15 times heavier than Jupiter on a very unusual and very elliptical 7.9-year orbit.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>Sometimes called ‘failed stars,’ they are too small to burn hydrogen but are at least 13 times the mass of our own Jupiter. But what makes TOI-201 particularly interesting is that has extremely different objects that are all gravitationally interacting on orbits that are changing fast enough to be seen.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: ASTEP, a Pesquisa Antártica de Exoplanetas em Trânsito, um pequeno telescópio visível que opera na estação Concordia, continua a causar um impacto.",
-      "Dado-chave: A Antártica, que abriga um dos ambientes mais hostis da Terra, dificilmente pareceria um Valhalla para observações astronômicas convencionais.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: ASTEP, a Pesquisa Antártica de Exoplanetas em Trânsito, um pequeno telescópio visível que opera na estação Concordia, continua a causar um impacto.",
-      "Dado-chave: A Antártica, que abriga um dos ambientes mais hostis da Terra, dificilmente pareceria um Valhalla para observações astronômicas convencionais.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: ASTEP, the Antarctic Search for Transiting ExoPlanets, a small visible telescope operating at Concordia station, continues making a real impact in.",
-      "Key detail: Antarctica, which harbors one of the harshest environments on Earth, would hardly seem to be a Valhalla for conventional astronomical.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "26 abr 2026",
-    "date_pt": "26 abr 2026",
-    "date_en": "26 Apr 2026",
-    "time": "15h03",
-    "time_pt": "15h03",
-    "time_en": "15:03 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-26T15:03:00+00:00",
-    "lastModifiedIso": "2026-04-26T15:03:00+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Exoplanetas",
-      "Universe Today",
-      "Cosmos Week",
-      "Pequeno telescópio antártico causa um impacto descomunal na ciência exoplanetária"
-    ],
-    "keywords_pt": [
-      "Exoplanetas",
-      "Universe Today",
-      "Cosmos Week",
-      "Pequeno telescópio antártico causa um impacto descomunal na ciência exoplanetária"
-    ],
-    "keywords_en": [
-      "Exoplanets",
-      "Universe Today",
-      "Cosmos Week",
-      "Small Antarctic telescope makes huge impact on exoplanetary science"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 76,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 49
+      "novelty": 52
     }
   },
   {
@@ -2514,6 +2527,142 @@ window.postsData = [
   },
   {
     "id": 21,
+    "slug": "contribution-to-artemis-ii-moon-mission-sees-successful-test-of-a-space-camera-under-cosmic-ray-",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/important-contribution-2.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/important-contribution-2.jpg",
+        "caption": "Capturada pela tripulação do Artemis II durante seu sobrevoo lunar em 6 de abril de 2026, esta imagem mostra a lua eclipsando totalmente o sol. Da perspectiva da tripulação, a lua parece grande o suficiente para bloquear completamente o sol, criando quase 54.",
+        "caption_pt": "Capturada pela tripulação do Artemis II durante seu sobrevoo lunar em 6 de abril de 2026, esta imagem mostra a lua eclipsando totalmente o sol. Da perspectiva da tripulação, a lua parece grande o suficiente para bloquear completamente o sol, criando quase 54.",
+        "caption_en": "Captured by the Artemis II crew during their lunar flyby on April 6, 2026, this image shows the moon fully eclipsing the sun. From the crew's perspective, the moon appears large enough to completely block the sun, creating nearly 54.",
+        "alt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
+        "alt_pt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
+        "alt_en": "Important contribution by GSI/FAIR to the Artemis II Moon mission — Successful test of a space camera under cosmic ray conditions"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800/2026/important-contribution-1.jpg",
+        "caption": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
+        "caption_pt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
+        "caption_en": "Important contribution by GSI/FAIR to the Artemis II Moon mission — Successful test of a space camera under cosmic ray conditions",
+        "alt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
+        "alt_pt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
+        "alt_en": "Important contribution by GSI/FAIR to the Artemis II Moon mission — Successful test of a space camera under cosmic ray conditions"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800/2026/important-contribution.jpg",
+        "caption": "Em primeiro plano à esquerda, é visível o tubo do feixe, seguido pelos monitores do feixe (câmara de prata com folha de ouro). No fundo, a estação de testes eletrônicos está localizada com a câmera Nikon Z9 montada, que a NASA testou.",
+        "caption_pt": "Em primeiro plano à esquerda, é visível o tubo do feixe, seguido pelos monitores do feixe (câmara de prata com folha de ouro). No fundo, a estação de testes eletrônicos está localizada com a câmera Nikon Z9 montada, que a NASA testou.",
+        "caption_en": "In the foreground on the left, the beam pipe is visible, followed by beam monitors (silver chamber with gold foil). In the background, the electronics test station is located with the mounted Nikon Z9 camera, which NASA has tested at.",
+        "alt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
+        "alt_pt": "Importante contribuição do GSI/FAIR para a missão Artemis II Moon — Teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
+        "alt_en": "Important contribution by GSI/FAIR to the Artemis II Moon mission — Successful test of a space camera under cosmic ray conditions"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Contribuição para a missão Artemis II Moon vê teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
+    "title_pt": "Contribuição para a missão Artemis II Moon vê teste bem-sucedido de uma câmera espacial sob condições de raios cósmicos",
+    "title_en": "Contribution to Artemis II Moon mission sees successful test of a space camera under cosmic ray conditions",
+    "sub": "O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Foi uma câmera.",
+    "sub_pt": "O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Foi uma câmera.",
+    "sub_en": "The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the success of the Artemis II moon.",
+    "excerpt": "O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Foi uma câmera desenvolvida especialmente para uso no espaço.",
+    "excerpt_pt": "O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Foi uma câmera desenvolvida especialmente para uso no espaço.",
+    "excerpt_en": "The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the success of the Artemis II moon mission. A camera specially developed for use in space was.",
+    "body": "<p>O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Foi uma câmera desenvolvida especialmente para uso no espaço. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Capturada pela tripulação do Artemis II.</p><p>Da perspectiva da tripulação, a Lua parece grande o suficiente para bloquear completamente o Sol, criando quase 54 minutos de totalidade e estendendo a visão muito além do que é. A foto foi tirada com o modelo de câmera Nikon Z9 testado na GSI/FAIR.</p><p>NASA O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. A câmera, um modelo especialmente modificado da Nikon Z9, foi submetida a extensos testes de radiação pela NASA no acelerador de partículas GSI/FAIR em março de 2025.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-contribution-artemis-ii-moon-mission.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Foi uma câmera desenvolvida especialmente para uso no espaço. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Capturada pela tripulação do Artemis II.</p><p>Da perspectiva da tripulação, a Lua parece grande o suficiente para bloquear completamente o Sol, criando quase 54 minutos de totalidade e estendendo a visão muito além do que é. A foto foi tirada com o modelo de câmera Nikon Z9 testado na GSI/FAIR.</p><p>NASA O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar Artemis II. A câmera, um modelo especialmente modificado da Nikon Z9, foi submetida a extensos testes de radiação pela NASA no acelerador de partículas GSI/FAIR em março de 2025.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-contribution-artemis-ii-moon-mission.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the success of the Artemis II moon mission. A camera specially developed for use in space was. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the success of the Artemis II moon mission. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Captured by the Artemis II crew during their lunar flyby on.</p><p>From the crew&#x27;s perspective, the moon appears large enough to completely block the sun, creating nearly 54 minutes of totality and extending the view far beyond what is possible. The picture was taken with the Nikon Z9 camera model tested at GSI/FAIR.</p><p>NASA The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the success of the Artemis II moon. The camera, a specially modified model of the Nikon Z9, was subjected to extensive radiation testing by NASA at the GSI/FAIR particle accelerator in March 2025.</p><p>The camera model, successfully tested in this manner, was now used in NASA&#x27;s recently successfully completed Artemis II lunar mission and delivered impressive images, including. NASA plans to use this camera model in future missions under the Artemis program as well, particularly during the planned return of astronauts to the lunar surface.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>This will mark the first time in over 50 years that humans will set foot on the moon. Our accelerator facilities enable us to precisely simulate cosmic radiation on Earth,&quot; explains Professor Thomas Nilsson, Scientific Managing Director of GSI/FAIR.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-contribution-artemis-ii-moon-mission.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar.",
+      "Dado-chave: O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão lunar.",
+      "Dado-chave: O GSI Helmholtzzentrum für Schwerionenforschung e o acelerador internacional FAIR deram uma importante contribuição para o sucesso da missão.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the success.",
+      "Key detail: The GSI Helmholtzzentrum für Schwerionenforschung and the international accelerator facility FAIR have made an important contribution to the.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "25 abr 2026",
+    "date_pt": "25 abr 2026",
+    "date_en": "25 Apr 2026",
+    "time": "17h30",
+    "time_pt": "17h30",
+    "time_en": "17:30 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-25T17:30:01+00:00",
+    "lastModifiedIso": "2026-04-25T17:30:01+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Contribuição para a missão Artemis II Moon vê teste bem",
+      "sucedido de uma câmera espacial sob condições de raios cósmicos"
+    ],
+    "keywords_pt": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Contribuição para a missão Artemis II Moon vê teste bem",
+      "sucedido de uma câmera espacial sob condições de raios cósmicos"
+    ],
+    "keywords_en": [
+      "Physical",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Contribution to Artemis II Moon mission sees test well",
+      "taken from a space camera under cosmic ray conditions"
+    ],
+    "srcUrl": "https://phys.org/news/2026-04-contribution-artemis-ii-moon-mission.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=contribution-to-artemis-ii-moon-mission-sees-successful-test-of-a-space-camera-under-cosmic-ray-",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=contribution-to-artemis-ii-moon-mission-sees-successful-test-of-a-space-camera-under-cosmic-ray-",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=contribution-to-artemis-ii-moon-mission-sees-successful-test-of-a-space-camera-under-cosmic-ray-&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 82,
+      "accessibility": 60,
+      "novelty": 49
+    }
+  },
+  {
+    "id": 22,
     "slug": "nsf-launches-100m-national-quantum-and-nanotechnology-research-infrastructure-program",
     "cat": "Física",
     "catCls": "fisica",
@@ -2646,230 +2795,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
-    "slug": "halfway-to-the-peak-kinematic-signatures-of-stable-rotating-disks-in-luminous-infrared-galaxies-",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pillars_of_creation_2014_HST_WFC3-UVIS_full-res_denoised.jpg/1280px-Pillars_of_creation_2014_HST_WFC3-UVIS_full-res_denoised.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "A meio caminho do pico: assinaturas cinemáticas de discos giratórios estáveis ​​em galáxias infravermelhas luminosas em z = 0,5-0,6",
-    "title_pt": "A meio caminho do pico: assinaturas cinemáticas de discos giratórios estáveis ​​em galáxias infravermelhas luminosas em z = 0,5-0,6",
-    "title_en": "Halfway to the Peak: Kinematic Signatures of Stable Rotating Disks in Luminous Infrared Galaxies at z=0.5-0.6",
-    "sub": "Apresentamos um estudo cinemático de seis galáxias infravermelhas luminosas observadas com o espectrômetro de média resolução Mid-InfraRed Instrument a bordo do JWST. Essas.",
-    "sub_pt": "Apresentamos um estudo cinemático de seis galáxias infravermelhas luminosas observadas com o espectrômetro de média resolução Mid-InfraRed Instrument a bordo do JWST. Essas.",
-    "sub_en": "We present a kinematic study of six infrared-luminous galaxies observed with the Mid-InfraRed Instrument Medium-Resolution Spectrometer onboard JWST. These galaxies lie at $z =.",
-    "excerpt": "Apresentamos um estudo cinemático de seis galáxias infravermelhas luminosas observadas com o espectrômetro de média resolução Mid-InfraRed Instrument a bordo do JWST. Essas galáxias estão em $z = 0,5$--$0,6$, a meio caminho entre os dias atuais e o pico de.",
-    "excerpt_pt": "Apresentamos um estudo cinemático de seis galáxias infravermelhas luminosas observadas com o espectrômetro de média resolução Mid-InfraRed Instrument a bordo do JWST. Essas galáxias estão em $z = 0,5$--$0,6$, a meio caminho entre os dias atuais e o pico de.",
-    "excerpt_en": "We present a kinematic study of six infrared-luminous galaxies observed with the Mid-InfraRed Instrument Medium-Resolution Spectrometer onboard JWST. These galaxies lie at $z = 0.5$--$0.6$, midway between the present day and the peak of.",
-    "body": "<p>Apresentamos um estudo cinemático de seis galáxias infravermelhas luminosas observadas com o espectrômetro de média resolução Mid-InfraRed Instrument a bordo do JWST. Essas galáxias estão em $z = 0,5$--$0,6$, a meio caminho entre os dias atuais e o pico de. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Apresentamos um estudo cinemático de seis galáxias infravermelhas luminosas observadas com o espectrômetro de média resolução Mid-InfraRed Instrument (MIRI/MRS) a bordo do JWST. Essas galáxias estão em $z = 0,5$--$0,6$, a meio caminho entre os dias atuais e o pico da formação estelar cósmica.</p><p>Caracterizamos o estado dinâmico dessas galáxias luminosas infravermelhas e avaliamos como a atividade AGN influencia a cinemática do meio interestelar. Usando linhas atômicas de infravermelho médio, mapeamos pela primeira vez a cinemática das galáxias além do Universo local.</p><p>A resolução espacial do MIRI/MRS (3,0 kpc para 0,46$\\arcsec$ em z $\\sim$ 0,55) nos permite resolver a cinemática interna de nossos alvos. Calculamos mapas cinemáticos em três linhas de emissão diferentes ( 6,99$μ$m, 12,81$μ$m e H$_2$ 0-0 S(5)6,91$μ$m).</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2604.24711v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Apresentamos um estudo cinemático de seis galáxias infravermelhas luminosas observadas com o espectrômetro de média resolução Mid-InfraRed Instrument a bordo do JWST. Essas galáxias estão em $z = 0,5$--$0,6$, a meio caminho entre os dias atuais e o pico de. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Apresentamos um estudo cinemático de seis galáxias infravermelhas luminosas observadas com o espectrômetro de média resolução Mid-InfraRed Instrument (MIRI/MRS) a bordo do JWST. Essas galáxias estão em $z = 0,5$--$0,6$, a meio caminho entre os dias atuais e o pico da formação estelar cósmica.</p><p>Caracterizamos o estado dinâmico dessas galáxias luminosas infravermelhas e avaliamos como a atividade AGN influencia a cinemática do meio interestelar. Usando linhas atômicas de infravermelho médio, mapeamos pela primeira vez a cinemática das galáxias além do Universo local.</p><p>A resolução espacial do MIRI/MRS (3,0 kpc para 0,46$\\arcsec$ em z $\\sim$ 0,55) nos permite resolver a cinemática interna de nossos alvos. Calculamos mapas cinemáticos em três linhas de emissão diferentes ( 6,99$μ$m, 12,81$μ$m e H$_2$ 0-0 S(5)6,91$μ$m).</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2604.24711v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>We present a kinematic study of six infrared-luminous galaxies observed with the Mid-InfraRed Instrument Medium-Resolution Spectrometer onboard JWST. These galaxies lie at $z = 0.5$--$0.6$, midway between the present day and the peak of. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. We present a kinematic study of six infrared-luminous galaxies observed with the Mid-InfraRed Instrument Medium-Resolution Spectrometer (MIRI/MRS) onboard JWST. These galaxies lie at $z = 0.5$--$0.6$, midway between the present day and the peak of cosmic star formation.</p><p>We characterize the dynamical state of these IR-luminous galaxies and assess how AGN activity influences the kinematics of the interstellar medium. Using mid-IR atomic lines, we map galaxy kinematics beyond the local Universe for the first time.</p><p>The spatial resolution of MIRI/MRS (3.0 kpc for 0.46$\\arcsec$ at z $\\sim$ 0.55) allows us to resolve the internal kinematics of our targets. We compute kinematic maps in three different emission lines ( 6.99$μ$m, 12.81$μ$m, and H$_2$ 0-0 S(5)6.91$μ$m).</p><p>Using the 6.99$μ$m kinematic maps, we derive rotation curves for these sources. All galaxies exhibit ordered rotation, with \\(V/σ\\geq 2\\), consistent with stable disks.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>We find no correlation between \\(V/σ\\) and AGN fraction, suggesting AGN activity does not significantly disrupt global kinematics or that disk disruption is not required to. However, galaxies with higher AGN fractions show elevated central dispersions, indicating localized turbulence, possibly due to AGN feedback, stellar feedback, accretion or bulge.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2604.24711v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Apresentamos um estudo cinemático de seis galáxias infravermelhas luminosas observadas com o espectrômetro de média resolução Mid-InfraRed Instrument.",
-      "Dado-chave: Apresentamos um estudo cinemático de seis galáxias infravermelhas luminosas observadas com o espectrômetro de média resolução Mid-InfraRed.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_pt": [
-      "Ponto central: Apresentamos um estudo cinemático de seis galáxias infravermelhas luminosas observadas com o espectrômetro de média resolução Mid-InfraRed Instrument.",
-      "Dado-chave: Apresentamos um estudo cinemático de seis galáxias infravermelhas luminosas observadas com o espectrômetro de média resolução Mid-InfraRed.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_en": [
-      "Core point: We present a kinematic study of six infrared-luminous galaxies observed with the Mid-InfraRed Instrument Medium-Resolution Spectrometer onboard JWST.",
-      "Key detail: We present a kinematic study of six infrared-luminous galaxies observed with the Mid-InfraRed Instrument Medium-Resolution Spectrometer.",
-      "Result not yet peer reviewed."
-    ],
-    "date": "27 abr 2026",
-    "date_pt": "27 abr 2026",
-    "date_en": "27 Apr 2026",
-    "time": "17h19",
-    "time_pt": "17h19",
-    "time_en": "17:19 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-27T17:19:54+00:00",
-    "lastModifiedIso": "2026-04-27T17:19:54+00:00",
-    "source": "arXiv Astrophysics",
-    "sourceDomain": "arxiv.org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint ainda sem revisão por pares.",
-    "sourceNote_pt": "Preprint ainda sem revisão por pares.",
-    "sourceNote_en": "Preprint not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "watch",
-    "editorialBandLabel": "Leitura monitorada",
-    "editorialBandLabel_pt": "Leitura monitorada",
-    "editorialBandLabel_en": "Watchlist",
-    "keywords": [
-      "Física",
-      "arXiv Astrophysics",
-      "Cosmos Week",
-      "A meio caminho do pico",
-      "assinaturas cinemáticas de discos giratórios estáveis ​​em galáxias infravermelhas luminosas em z = 0"
-    ],
-    "keywords_pt": [
-      "Física",
-      "arXiv Astrophysics",
-      "Cosmos Week",
-      "A meio caminho do pico",
-      "assinaturas cinemáticas de discos giratórios estáveis ​​em galáxias infravermelhas luminosas em z = 0"
-    ],
-    "keywords_en": [
-      "Physical",
-      "arXiv Astrophysics",
-      "Cosmos Week",
-      "Halfway to the peak",
-      "Kinematic signatures of stable rotating disks in luminous infrared galaxies at z = 0"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2604.24711v1",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=halfway-to-the-peak-kinematic-signatures-of-stable-rotating-disks-in-luminous-infrared-galaxies-",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=halfway-to-the-peak-kinematic-signatures-of-stable-rotating-disks-in-luminous-infrared-galaxies-",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=halfway-to-the-peak-kinematic-signatures-of-stable-rotating-disks-in-luminous-infrared-galaxies-&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 66,
-    "scoreBreakdown": {
-      "source": 56,
-      "evidence": 64,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
     "id": 23,
-    "slug": "volunteers-help-nasa-astronauts-record-lunar-flashes",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/impact-flash-telescope-citsci.jpg?w=2000&h=1125&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/2026/Jeff_Matthew_Citizen_Science_Exo_5F5A9487_lo-Bryan_Simpson.jpg?w=2400&h=1600&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Voluntários ajudam astronautas da NASA a registrar flashes lunares",
-    "title_pt": "Voluntários ajudam astronautas da NASA a registrar flashes lunares",
-    "title_en": "Volunteers Help NASA Astronauts Record Lunar Flashes",
-    "sub": "Quando os astronautas do Artemis II da NASA orbitaram a Lua no início de abril, observaram flashes de luz causados ​​por meteoróides que atingiram a superfície lunar. Ao mesmo.",
-    "sub_pt": "Quando os astronautas do Artemis II da NASA orbitaram a Lua no início de abril, observaram flashes de luz causados ​​por meteoróides que atingiram a superfície lunar. Ao mesmo.",
-    "sub_en": "As NASA’s Artemis II astronauts zipped around the Moon in early April, they observed flashes of light caused by meteoroids hitting the lunar surface. At the same time, volunteers.",
-    "excerpt": "Quando os astronautas do Artemis II da NASA orbitaram a Lua no início de abril, observaram flashes de luz causados ​​por meteoróides que atingiram a superfície lunar. Ao mesmo tempo, voluntários do projeto Impact Flash, financiado pela NASA, escanearam a Lua.",
-    "excerpt_pt": "Quando os astronautas do Artemis II da NASA orbitaram a Lua no início de abril, observaram flashes de luz causados ​​por meteoróides que atingiram a superfície lunar. Ao mesmo tempo, voluntários do projeto Impact Flash, financiado pela NASA, escanearam a Lua.",
-    "excerpt_en": "As NASA’s Artemis II astronauts zipped around the Moon in early April, they observed flashes of light caused by meteoroids hitting the lunar surface. At the same time, volunteers for the NASA-funded Impact Flash project scanned the Moon.",
-    "body": "<p>Quando os astronautas do Artemis II da NASA orbitaram a Lua no início de abril, observaram flashes de luz causados ​​por meteoróides que atingiram a superfície lunar. Ao mesmo tempo, voluntários do projeto Impact Flash, financiado pela NASA, escanearam a Lua. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O voluntário do Impact Flash, Joerg Tomczak, enviou esta imagem da Lua que ele tirou durante a missão Artemis II da NASA, bem como uma foto de seu telescópio. Quando os astronautas do Artemis II da NASA orbitaram a Lua no início de abril, observaram flashes de luz causados ​​por meteoróides que atingiram a superfície lunar.</p><p>Artigo Enquanto os astronautas do Artemis II da NASA orbitavam a Lua no início de abril, eles observaram flashes de luz causados ​​por meteoróides atingindo a superfície lunar. Ao mesmo tempo, voluntários do projeto Impact Flash, financiado pela NASA, escanearam a Lua com seus próprios telescópios e enviaram seus vídeos aos cientistas para compartilharem.</p><p>A localização e o brilho dos flashes observados por diferentes instrumentos em diferentes locais podem ajudar a restringir a natureza e a origem dos impactadores, bem como as. Os astronautas do Artemis II regressaram à Terra, pelo que as suas observações da Lua a partir do espaço foram interrompidas por enquanto, mas a equipa do Impact Flash está apenas.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/get-involved/citizen-science/volunteers-help-nasa-astronauts-record-lunar-flashes/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Quando os astronautas do Artemis II da NASA orbitaram a Lua no início de abril, observaram flashes de luz causados ​​por meteoróides que atingiram a superfície lunar. Ao mesmo tempo, voluntários do projeto Impact Flash, financiado pela NASA, escanearam a Lua. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O voluntário do Impact Flash, Joerg Tomczak, enviou esta imagem da Lua que ele tirou durante a missão Artemis II da NASA, bem como uma foto de seu telescópio. Quando os astronautas do Artemis II da NASA orbitaram a Lua no início de abril, observaram flashes de luz causados ​​por meteoróides que atingiram a superfície lunar.</p><p>Artigo Enquanto os astronautas do Artemis II da NASA orbitavam a Lua no início de abril, eles observaram flashes de luz causados ​​por meteoróides atingindo a superfície lunar. Ao mesmo tempo, voluntários do projeto Impact Flash, financiado pela NASA, escanearam a Lua com seus próprios telescópios e enviaram seus vídeos aos cientistas para compartilharem.</p><p>A localização e o brilho dos flashes observados por diferentes instrumentos em diferentes locais podem ajudar a restringir a natureza e a origem dos impactadores, bem como as. Os astronautas do Artemis II regressaram à Terra, pelo que as suas observações da Lua a partir do espaço foram interrompidas por enquanto, mas a equipa do Impact Flash está apenas.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/get-involved/citizen-science/volunteers-help-nasa-astronauts-record-lunar-flashes/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>As NASA’s Artemis II astronauts zipped around the Moon in early April, they observed flashes of light caused by meteoroids hitting the lunar surface. At the same time, volunteers for the NASA-funded Impact Flash project scanned the Moon. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Impact Flash volunteer Joerg Tomczak sent in this image of the Moon he took during NASA’s Artemis II mission, as well as a photo of his telescope. As NASA’s Artemis II astronauts zipped around the Moon in early April, they observed flashes of light caused by meteoroids hitting the lunar surface.</p><p>Article As NASA’s Artemis II astronauts zipped around the Moon in early April, they observed flashes of light caused by meteoroids hitting the lunar surface. At the same time, volunteers for the NASA-funded Impact Flash project scanned the Moon with their own telescopes and sent their videos to scientists to share what they saw from.</p><p>The locations and brightness of flashes observed by different instruments at different locations together can help constrain the nature and origin of the impactors, as well as the. The Artemis II astronauts have splashed back down to Earth, so their observations of the Moon from space have come to a halt for now, but the Impact Flash team is just getting.</p><p>The more observations you submit, the better the team will be able to constrain the present-day impact rate on the Moon and how it changes over time. In the future, the project team also plans to use your impact flash observations to study tremors on the Moon, similar to earthquakes.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>“We are planning to send seismometers to the Moon to measure how the ground shakes,” said Fernando. This will help us work out what the Moon’s interior looks like.” To collect data during the Artemis II mission, the Impact Flash investigators teamed up with several other groups.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/get-involved/citizen-science/volunteers-help-nasa-astronauts-record-lunar-flashes/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Quando os astronautas do Artemis II da NASA orbitaram a Lua no início de abril, observaram flashes de luz causados ​​por meteoróides que atingiram a.",
-      "Dado-chave: O voluntário do Impact Flash, Joerg Tomczak, enviou esta imagem da Lua que ele tirou durante a missão Artemis II da NASA, bem como uma foto de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Quando os astronautas do Artemis II da NASA orbitaram a Lua no início de abril, observaram flashes de luz causados ​​por meteoróides que atingiram a.",
-      "Dado-chave: O voluntário do Impact Flash, Joerg Tomczak, enviou esta imagem da Lua que ele tirou durante a missão Artemis II da NASA, bem como uma foto de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: As NASA’s Artemis II astronauts zipped around the Moon in early April, they observed flashes of light caused by meteoroids hitting the lunar surface.",
-      "Key detail: Impact Flash volunteer Joerg Tomczak sent in this image of the Moon he took during NASA’s Artemis II mission, as well as a photo of his.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "27 abr 2026",
-    "date_pt": "27 abr 2026",
-    "date_en": "27 Apr 2026",
-    "time": "15h01",
-    "time_pt": "15h01",
-    "time_en": "15:01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-27T15:01:35+00:00",
-    "lastModifiedIso": "2026-04-27T15:01:35+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Voluntários ajudam astronautas da NASA a registrar flashes lunares"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Voluntários ajudam astronautas da NASA a registrar flashes lunares"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Volunteers help NASA astronauts record lunar flashes"
-    ],
-    "srcUrl": "https://science.nasa.gov/get-involved/citizen-science/volunteers-help-nasa-astronauts-record-lunar-flashes/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=volunteers-help-nasa-astronauts-record-lunar-flashes",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=volunteers-help-nasa-astronauts-record-lunar-flashes",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=volunteers-help-nasa-astronauts-record-lunar-flashes&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 79,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 24,
     "slug": "braving-the-arctic-for-upcoming-polar-focused-satellites",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3002,7 +2928,7 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 24,
     "slug": "you-can-help-humans-thrive-in-space",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3135,7 +3061,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 25,
     "slug": "smile-set-to-launch-on-19-may",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3268,7 +3194,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 26,
     "slug": "plato-aces-space-like-tests",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3401,7 +3327,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 27,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3537,7 +3463,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 28,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3664,7 +3590,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 29,
     "slug": "science-release-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3800,7 +3726,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 30,
     "slug": "nasa-s-perseverance-curiosity-panoramas-capture-two-sides-of-mars",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3946,7 +3872,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 31,
     "slug": "catching-the-earliest-stars-in-the-universe",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4079,7 +4005,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 32,
     "slug": "nsf-doe-vera-c-rubin-observatory-launches-real-time-discovery-machine-for-monitoring-the-night-s",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4228,7 +4154,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 33,
     "slug": "voyager-1-shuts-down-another-instrument",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4361,7 +4287,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 34,
     "slug": "ash-creeps-across-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4494,7 +4420,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 35,
     "slug": "this-week-s-sky-at-a-glance-april-24-may-3",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4630,7 +4556,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 36,
     "slug": "uranus-s-outermost-rings-are-made-of-two-different-things",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4763,7 +4689,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 37,
     "slug": "ancient-lake-on-mars-rover-finds-strong-new-evidence",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4878,7 +4804,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 38,
     "slug": "visible-planets-and-night-sky-guide-for-april-and-may",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4993,7 +4919,7 @@ window.postsData = [
     }
   },
   {
-    "id": 40,
+    "id": 39,
     "slug": "jan-oort-birthday-and-discovery-of-the-oort-cloud",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -5014,27 +4940,27 @@ window.postsData = [
     "title": "Aniversário de Jan Oort e descoberta da Nuvem de Oort",
     "title_pt": "Aniversário de Jan Oort e descoberta da Nuvem de Oort",
     "title_en": "Jan Oort birthday and discovery of the Oort Cloud",
-    "sub": "O astrônomo holandês Jan Oort nasceu em 28 de abril de 1900. Ele visualizou um vasto reservatório de cometas gelados nas periferias do nosso sistema solar, que agora leva seu.",
-    "sub_pt": "O astrônomo holandês Jan Oort nasceu em 28 de abril de 1900. Ele visualizou um vasto reservatório de cometas gelados nas periferias do nosso sistema solar, que agora leva seu.",
-    "sub_en": "Dutch astronomer Jan Oort was born on April 28, 1900. He visualized a vast reservoir of icy comets on the fringes of our solar system, which now bears his name. The post Jan Oort.",
-    "excerpt": "O astrônomo holandês Jan Oort nasceu em 28 de abril de 1900. Ele visualizou um vasto reservatório de cometas gelados nas periferias do nosso sistema solar, que agora leva seu nome. O post Aniversário de Jan Oort e descoberta da Nuvem de Oort apareceu pela.",
-    "excerpt_pt": "O astrônomo holandês Jan Oort nasceu em 28 de abril de 1900. Ele visualizou um vasto reservatório de cometas gelados nas periferias do nosso sistema solar, que agora leva seu nome. O post Aniversário de Jan Oort e descoberta da Nuvem de Oort apareceu pela.",
-    "excerpt_en": "Dutch astronomer Jan Oort was born on April 28, 1900. He visualized a vast reservoir of icy comets on the fringes of our solar system, which now bears his name. The post Jan Oort birthday and discovery of the Oort Cloud first appeared on.",
-    "body": "<p>O astrônomo holandês Jan Oort nasceu em 28 de abril de 1900. Ele visualizou um vasto reservatório de cometas gelados nas periferias do nosso sistema solar, que agora leva seu nome. O post Aniversário de Jan Oort e descoberta da Nuvem de Oort apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Pai da Nuvem de Oort Jan Hendrick Oort nasceu na data de hoje, 28 de abril de 1900, em Franeker, Holanda. Já em 1932, Oort também se tornou um dos primeiros a usar o termo matéria escura.</p><p>E, quando se tratava de conhecimentos sobre a nossa galáxia natal, a Via Láctea, poucos astrónomos no século XX tinham mais conhecimentos do que Jan Oort. Öpik postulou de forma independente a existência de uma nuvem de cometas circundando o nosso sistema solar em 1932.</p><p>Se existir, esta nuvem de cometas, a Nuvem de Oort, contém restos de material da formação do nosso sistema solar, há 4,5 mil milhões de anos. Os cometas dentro dele ficam a uma distância de cerca de 5.000 vezes até cerca de 100.000 vezes a distância entre a Terra e o Sol.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/jan-oort-biography-contributions-oort-cloud/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O astrônomo holandês Jan Oort nasceu em 28 de abril de 1900. Ele visualizou um vasto reservatório de cometas gelados nas periferias do nosso sistema solar, que agora leva seu nome. O post Aniversário de Jan Oort e descoberta da Nuvem de Oort apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Pai da Nuvem de Oort Jan Hendrick Oort nasceu na data de hoje, 28 de abril de 1900, em Franeker, Holanda. Já em 1932, Oort também se tornou um dos primeiros a usar o termo matéria escura.</p><p>E, quando se tratava de conhecimentos sobre a nossa galáxia natal, a Via Láctea, poucos astrónomos no século XX tinham mais conhecimentos do que Jan Oort. Öpik postulou de forma independente a existência de uma nuvem de cometas circundando o nosso sistema solar em 1932.</p><p>Se existir, esta nuvem de cometas, a Nuvem de Oort, contém restos de material da formação do nosso sistema solar, há 4,5 mil milhões de anos. Os cometas dentro dele ficam a uma distância de cerca de 5.000 vezes até cerca de 100.000 vezes a distância entre a Terra e o Sol.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/jan-oort-biography-contributions-oort-cloud/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Dutch astronomer Jan Oort was born on April 28, 1900. He visualized a vast reservoir of icy comets on the fringes of our solar system, which now bears his name. The post Jan Oort birthday and discovery of the Oort Cloud first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Father of the Oort Cloud Jan Hendrick Oort was born on today’s date, April 28, 1900, in Franeker, Netherlands. As early as 1932, Oort also became one of the first to use the term dark matter.</p><p>And, when it came to expertise about our home galaxy, the Milky Way, few astronomers in the 20th century were more knowledgeable than Jan Oort. Öpik had independently postulated the existence of a cloud of comets encircling our solar system in 1932.</p><p>If it exists, this cloud of comets, the Oort Cloud, contains material leftover from the formation of our solar system, 4 1/2 billion years ago. The comets within it lie as close as about 5,000 times up to about 100,000 times the Earth-sun distance.</p><p>Astronomers in the 20th century knew that comets collide with other celestial bodies. The scale bar is in astronomical units, with each set distance beyond 1 AU representing 10 times the previous distance.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>One AU is the distance from the sun to the Earth, which is about 93 million miles or 150 million km. NASA’s Voyager 1, humankind’s most distant spacecraft, is around 172 AU.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/jan-oort-biography-contributions-oort-cloud/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "sub": "O astrônomo holandês Jan Oort nasceu em 28 de abril de 1900. Ele visualizou um vasto reservatório de cometas gelados nas periferias do nosso Sistema Solar, que agora leva seu.",
+    "sub_pt": "O astrônomo holandês Jan Oort nasceu em 28 de abril de 1900. Ele visualizou um vasto reservatório de cometas gelados nas periferias do nosso Sistema Solar, que agora leva seu.",
+    "sub_en": "Dutch astronomer Jan Oort was born on April 28, 1900. He visualized a vast reservoir of icy comets on the fringes of our Solar System, which now bears his name. The post Jan Oort.",
+    "excerpt": "O astrônomo holandês Jan Oort nasceu em 28 de abril de 1900. Ele visualizou um vasto reservatório de cometas gelados nas periferias do nosso Sistema Solar, que agora leva seu nome. O post Aniversário de Jan Oort e descoberta da Nuvem de Oort apareceu pela.",
+    "excerpt_pt": "O astrônomo holandês Jan Oort nasceu em 28 de abril de 1900. Ele visualizou um vasto reservatório de cometas gelados nas periferias do nosso Sistema Solar, que agora leva seu nome. O post Aniversário de Jan Oort e descoberta da Nuvem de Oort apareceu pela.",
+    "excerpt_en": "Dutch astronomer Jan Oort was born on April 28, 1900. He visualized a vast reservoir of icy comets on the fringes of our Solar System, which now bears his name. The post Jan Oort birthday and discovery of the Oort Cloud first appeared on.",
+    "body": "<p>O astrônomo holandês Jan Oort nasceu em 28 de abril de 1900. Ele visualizou um vasto reservatório de cometas gelados nas periferias do nosso Sistema Solar, que agora leva seu nome. O post Aniversário de Jan Oort e descoberta da Nuvem de Oort apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Pai da Nuvem de Oort Jan Hendrick Oort nasceu na data de hoje, 28 de abril de 1900, em Franeker, Holanda. Já em 1932, Oort também se tornou um dos primeiros a usar o termo matéria escura.</p><p>E, quando se tratava de conhecimentos sobre a nossa galáxia natal, a Via Láctea, poucos astrónomos no século XX tinham mais conhecimentos do que Jan Oort. Öpik postulou de forma independente a existência de uma nuvem de cometas circundando o nosso Sistema Solar em 1932.</p><p>Se existir, esta nuvem de cometas, a Nuvem de Oort, contém restos de material da formação do nosso Sistema Solar, há 4,5 mil milhões de anos. Os cometas dentro dele ficam cerca de 2.000 vezes até cerca de 100.000 vezes a distância Terra-Sol.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/jan-oort-biography-contributions-oort-cloud/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O astrônomo holandês Jan Oort nasceu em 28 de abril de 1900. Ele visualizou um vasto reservatório de cometas gelados nas periferias do nosso Sistema Solar, que agora leva seu nome. O post Aniversário de Jan Oort e descoberta da Nuvem de Oort apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Pai da Nuvem de Oort Jan Hendrick Oort nasceu na data de hoje, 28 de abril de 1900, em Franeker, Holanda. Já em 1932, Oort também se tornou um dos primeiros a usar o termo matéria escura.</p><p>E, quando se tratava de conhecimentos sobre a nossa galáxia natal, a Via Láctea, poucos astrónomos no século XX tinham mais conhecimentos do que Jan Oort. Öpik postulou de forma independente a existência de uma nuvem de cometas circundando o nosso Sistema Solar em 1932.</p><p>Se existir, esta nuvem de cometas, a Nuvem de Oort, contém restos de material da formação do nosso Sistema Solar, há 4,5 mil milhões de anos. Os cometas dentro dele ficam cerca de 2.000 vezes até cerca de 100.000 vezes a distância Terra-Sol.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/jan-oort-biography-contributions-oort-cloud/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Dutch astronomer Jan Oort was born on April 28, 1900. He visualized a vast reservoir of icy comets on the fringes of our Solar System, which now bears his name. The post Jan Oort birthday and discovery of the Oort Cloud first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Father of the Oort Cloud Jan Hendrick Oort was born on today’s date, April 28, 1900, in Franeker, Netherlands. As early as 1932, Oort also became one of the first to use the term dark matter.</p><p>And, when it came to expertise about our home galaxy, the Milky Way, few astronomers in the 20th century were more knowledgeable than Jan Oort. Öpik had independently postulated the existence of a cloud of comets encircling our Solar System in 1932.</p><p>If it exists, this cloud of comets, the Oort Cloud, contains material leftover from the formation of our Solar System, 4.5 billion years ago. The comets within it lie as close as about 2,000 times up to about 100,000 times the Earth-sun distance.</p><p>Astronomers in the 20th century knew that comets collide with other celestial bodies. The scale bar is in astronomical units ( AU ), with each set distance beyond 1 AU representing 10 times the previous distance.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>One AU is the distance from the sun to the Earth, which is about 93 million miles or 150 million km. NASA’s Voyager 1, humankind’s most distant spacecraft, is around 172 AU.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/jan-oort-biography-contributions-oort-cloud/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: O astrônomo holandês Jan Oort nasceu em 28 de abril de 1900. Ele visualizou um vasto reservatório de cometas gelados nas periferias do nosso sistema.",
+      "Ponto central: O astrônomo holandês Jan Oort nasceu em 28 de abril de 1900. Ele visualizou um vasto reservatório de cometas gelados nas periferias do nosso Sistema.",
       "Dado-chave: Pai da Nuvem de Oort Jan Hendrick Oort nasceu na data de hoje, 28 de abril de 1900, em Franeker, Holanda.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: O astrônomo holandês Jan Oort nasceu em 28 de abril de 1900. Ele visualizou um vasto reservatório de cometas gelados nas periferias do nosso sistema.",
+      "Ponto central: O astrônomo holandês Jan Oort nasceu em 28 de abril de 1900. Ele visualizou um vasto reservatório de cometas gelados nas periferias do nosso Sistema.",
       "Dado-chave: Pai da Nuvem de Oort Jan Hendrick Oort nasceu na data de hoje, 28 de abril de 1900, em Franeker, Holanda.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: Dutch astronomer Jan Oort was born on April 28, 1900. He visualized a vast reservoir of icy comets on the fringes of our solar system, which now.",
+      "Core point: Dutch astronomer Jan Oort was born on April 28, 1900. He visualized a vast reservoir of icy comets on the fringes of our Solar System, which now.",
       "Key detail: Father of the Oort Cloud Jan Hendrick Oort was born on today’s date, April 28, 1900, in Franeker, Netherlands.",
       "Institutional origin: separate announcement from evidence."
     ],
@@ -5105,6 +5031,121 @@ window.postsData = [
       "relevance": 80,
       "accessibility": 60,
       "novelty": 55
+    }
+  },
+  {
+    "id": 40,
+    "slug": "interstellar-comet-3i-atlas-born-in-a-cold-environment",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2026/04/Comet-3IATLAS-NOIRLab.png",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Cometa interestelar 3I/ATLAS nasce em ambiente frio",
+    "title_pt": "Cometa interestelar 3I/ATLAS nasce em ambiente frio",
+    "title_en": "Interstellar comet 3I/ATLAS born in a cold environment",
+    "sub": "A química da água no cometa interestelar 3I/ATLAS indica que a sua estrela natal se formou em condições mais frias em comparação com as do nosso Sol. O cometa interestelar.",
+    "sub_pt": "A química da água no cometa interestelar 3I/ATLAS indica que a sua estrela natal se formou em condições mais frias em comparação com as do nosso Sol. O cometa interestelar.",
+    "sub_en": "The chemistry of water in interstellar comet 3I/ATLAS indicates that its home star formed in colder conditions compared to that of our sun. The post Interstellar comet 3I/ATLAS.",
+    "excerpt": "A química da água no cometa interestelar 3I/ATLAS indica que a sua estrela natal se formou em condições mais frias em comparação com as do nosso Sol. O cometa interestelar 3I/ATLAS nascido em um ambiente frio apareceu pela primeira vez no EarthSky.",
+    "excerpt_pt": "A química da água no cometa interestelar 3I/ATLAS indica que a sua estrela natal se formou em condições mais frias em comparação com as do nosso Sol. O cometa interestelar 3I/ATLAS nascido em um ambiente frio apareceu pela primeira vez no EarthSky.",
+    "excerpt_en": "The chemistry of water in interstellar comet 3I/ATLAS indicates that its home star formed in colder conditions compared to that of our sun. The post Interstellar comet 3I/ATLAS born in a cold environment first appeared on EarthSky.",
+    "body": "<p>A química da água no cometa interestelar 3I/ATLAS indica que a sua estrela natal se formou em condições mais frias em comparação com as do nosso Sol. O cometa interestelar 3I/ATLAS nascido em um ambiente frio apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Nossos cometas consistem em H2O comum, com átomos de hidrogênio comuns contendo apenas um próton e nenhum nêutron. O cometa 3I/ATLAS vem de longe Em julho de 2025, os astrónomos avistaram um objeto a cerca de três vezes a distância de Marte ao nosso Sol.</p><p>Observações por radiotelescópio detectaram altos níveis de água “pesada” no 3I/ATLAS. Nossas novas observações mostram que as condições que levaram à formação do nosso sistema solar são muito diferentes de como os sistemas planetários evoluíram em diferentes partes.</p><p>Os pesquisadores publicaram suas descobertas na revista científica Nature Astronomy em 23 de abril de 2026. São restos gelados da formação do nosso sistema solar, há 4,6 mil milhões de anos.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/interstellar-comet-3i-atlas-born-in-a-cold-environment/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A química da água no cometa interestelar 3I/ATLAS indica que a sua estrela natal se formou em condições mais frias em comparação com as do nosso Sol. O cometa interestelar 3I/ATLAS nascido em um ambiente frio apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Nossos cometas consistem em H2O comum, com átomos de hidrogênio comuns contendo apenas um próton e nenhum nêutron. O cometa 3I/ATLAS vem de longe Em julho de 2025, os astrónomos avistaram um objeto a cerca de três vezes a distância de Marte ao nosso Sol.</p><p>Observações por radiotelescópio detectaram altos níveis de água “pesada” no 3I/ATLAS. Nossas novas observações mostram que as condições que levaram à formação do nosso sistema solar são muito diferentes de como os sistemas planetários evoluíram em diferentes partes.</p><p>Os pesquisadores publicaram suas descobertas na revista científica Nature Astronomy em 23 de abril de 2026. São restos gelados da formação do nosso sistema solar, há 4,6 mil milhões de anos.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/interstellar-comet-3i-atlas-born-in-a-cold-environment/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The chemistry of water in interstellar comet 3I/ATLAS indicates that its home star formed in colder conditions compared to that of our sun. The post Interstellar comet 3I/ATLAS born in a cold environment first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Our comets consist of ordinary H2O, with ordinary hydrogen atoms containing just one proton and no neutron. Comet 3I/ATLAS comes from afar In July 2025, astronomers spied an object at about three times Mars’ distance from our sun.</p><p>Radio telescope observations detected high levels of “heavy” water in 3I/ATLAS. Our new observations show that the conditions that led to the formation of our solar system are much different from how planetary systems evolved in different parts of our galaxy.</p><p>The researchers published their findings in the peer-reviewed journal Nature Astronomy on April 23, 2026. They’re icy remnants from the formation of our solar system, 4.6 billion years ago.</p><p>(Its chemical name is HDO, one atom each of hydrogen, deuterium, and oxygen.) When astronomers looked at 3I/ATLAS with radio telescopes, they discovered, to their surprise, that. In 3I/ATLAS, the higher ratio of deuterated water suggests that the environment where its star formed was colder and had lower levels of radiation, compared to the environment in.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The chemical processes that lead to the enhancement of deuterated water are really sensitive to temperature and usually require environments colder than about 30 Kelvin, or about. Radio telescopes have been observing 3I/ATLAS For this study of 3I/ATLAS, the researchers used radio telescopes at the Atacama Large Millimeter/submillimeter Array ( ALMA ) in.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/interstellar-comet-3i-atlas-born-in-a-cold-environment/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A química da água no cometa interestelar 3I/ATLAS indica que a sua estrela natal se formou em condições mais frias em comparação com as do nosso Sol.",
+      "Dado-chave: Nossos cometas consistem em H2O comum, com átomos de hidrogênio comuns contendo apenas um próton e nenhum nêutron.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A química da água no cometa interestelar 3I/ATLAS indica que a sua estrela natal se formou em condições mais frias em comparação com as do nosso Sol.",
+      "Dado-chave: Nossos cometas consistem em H2O comum, com átomos de hidrogênio comuns contendo apenas um próton e nenhum nêutron.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The chemistry of water in interstellar comet 3I/ATLAS indicates that its home star formed in colder conditions compared to that of our sun. The post.",
+      "Key detail: Our comets consist of ordinary H2O, with ordinary hydrogen atoms containing just one proton and no neutron.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "26 abr 2026",
+    "date_pt": "26 abr 2026",
+    "date_en": "26 Apr 2026",
+    "time": "11h46",
+    "time_pt": "11h46",
+    "time_en": "11:46 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-26T11:46:24+00:00",
+    "lastModifiedIso": "2026-04-26T11:46:24+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Cometa interestelar 3I/ATLAS nasce em ambiente frio"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Cometa interestelar 3I/ATLAS nasce em ambiente frio"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "Interstellar comet 3I/ATLAS is born in a cold environment"
+    ],
+    "srcUrl": "https://earthsky.org/space/interstellar-comet-3i-atlas-born-in-a-cold-environment/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=interstellar-comet-3i-atlas-born-in-a-cold-environment",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=interstellar-comet-3i-atlas-born-in-a-cold-environment",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=interstellar-comet-3i-atlas-born-in-a-cold-environment&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 72,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 49
     }
   }
 ];

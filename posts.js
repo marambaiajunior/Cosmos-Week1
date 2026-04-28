@@ -40,14 +40,14 @@ window.postsData = [
     "date": "28 abr 2026",
     "date_pt": "28 abr 2026",
     "date_en": "28 Apr 2026",
-    "time": "01h18",
-    "time_pt": "01h18",
-    "time_en": "01:18 UTC",
+    "time": "05h02",
+    "time_pt": "05h02",
+    "time_en": "05:02 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-28T01:18:05.689615+00:00",
-    "lastModifiedIso": "2026-04-28T01:18:05.689615+00:00",
+    "publishedIso": "2026-04-28T05:02:05.251241+00:00",
+    "lastModifiedIso": "2026-04-28T05:02:05.251241+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -151,14 +151,14 @@ window.postsData = [
     "date": "28 abr 2026",
     "date_pt": "28 abr 2026",
     "date_en": "28 Apr 2026",
-    "time": "01h18",
-    "time_pt": "01h18",
-    "time_en": "01:18 UTC",
+    "time": "05h02",
+    "time_pt": "05h02",
+    "time_en": "05:02 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-28T01:18:05.689565+00:00",
-    "lastModifiedIso": "2026-04-28T01:18:05.689565+00:00",
+    "publishedIso": "2026-04-28T05:02:05.251202+00:00",
+    "lastModifiedIso": "2026-04-28T05:02:05.251202+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -256,14 +256,14 @@ window.postsData = [
     "date": "28 abr 2026",
     "date_pt": "28 abr 2026",
     "date_en": "28 Apr 2026",
-    "time": "01h18",
-    "time_pt": "01h18",
-    "time_en": "01:18 UTC",
+    "time": "05h02",
+    "time_pt": "05h02",
+    "time_en": "05:02 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-28T01:18:05.689381+00:00",
-    "lastModifiedIso": "2026-04-28T01:18:05.689381+00:00",
+    "publishedIso": "2026-04-28T05:02:05.251064+00:00",
+    "lastModifiedIso": "2026-04-28T05:02:05.251064+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -340,17 +340,17 @@ window.postsData = [
     "excerpt": "Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças.",
     "excerpt_pt": "Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças.",
     "excerpt_en": "Smaller gene-editing system could expand treatment options for cancer, ALS and other diseases.",
-    "body": "<p>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Uma equipe de pesquisa financiada pelos Institutos Nacionais de Saúde (NIH) descobriu um sistema aprimorado de edição genética CRISPR que poderia permitir a entrega direcionada. Os pesquisadores identificaram uma enzima que ocorre naturalmente, Al3Cas12f, que é pequena o suficiente para caber em vetores de vírus adeno-associados, um método líder de.</p><p>“A entrega inteligente de sistemas de edição genética é uma noção poderosa com amplas implicações clínicas, e esta descoberta científica básica nos leva a um passo significativo. Em comparação com os outros que analisamos, o Al3Cas12f basicamente vem pré-montado e pronto para uso logo após a produção de suas peças”, disse o autor correspondente David.</p><p>A equipe então projetou uma variante, conhecida como Al3Cas12f RKK, que melhorou significativamente a eficiência de edição de menos de 10% para mais de 80% nos alvos testados. Numa região do genoma comumente editada, a eficiência atingiu 90%.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Uma equipe de pesquisa financiada pelos Institutos Nacionais de Saúde (NIH) descobriu um sistema aprimorado de edição genética CRISPR que poderia permitir a entrega direcionada. Os pesquisadores identificaram uma enzima que ocorre naturalmente, Al3Cas12f, que é pequena o suficiente para caber em vetores de vírus adeno-associados, um método líder de.</p><p>“A entrega inteligente de sistemas de edição genética é uma noção poderosa com amplas implicações clínicas, e esta descoberta científica básica nos leva a um passo significativo. Em comparação com os outros que analisamos, o Al3Cas12f basicamente vem pré-montado e pronto para uso logo após a produção de suas peças”, disse o autor correspondente David.</p><p>A equipe então projetou uma variante, conhecida como Al3Cas12f RKK, que melhorou significativamente a eficiência de edição de menos de 10% para mais de 80% nos alvos testados. Numa região do genoma comumente editada, a eficiência atingiu 90%.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body": "<p>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Uma equipe de pesquisa financiada pelo National Institutes of Health (NIH) descobriu um sistema aprimorado de edição genética CRISPR que poderia permitir a entrega direcionada. Os pesquisadores identificaram uma enzima que ocorre naturalmente, Al3Cas12f, que é pequena o suficiente para caber em vetores de vírus adeno-associados, um método líder de.</p><p>“A entrega inteligente de sistemas de edição genética é uma noção poderosa com amplas implicações clínicas, e esta descoberta científica básica nos leva a um passo significativo. Em comparação com os outros que analisamos, o Al3Cas12f basicamente vem pré-montado e pronto para uso logo após a produção de suas peças”, disse o autor correspondente David.</p><p>A equipe então projetou uma variante, conhecida como Al3Cas12f RKK, que melhorou significativamente a eficiência de edição de menos de 10% para mais de 80% nos alvos testados. Numa região do genoma comumente editada, a eficiência atingiu 90%.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Uma equipe de pesquisa financiada pelo National Institutes of Health (NIH) descobriu um sistema aprimorado de edição genética CRISPR que poderia permitir a entrega direcionada. Os pesquisadores identificaram uma enzima que ocorre naturalmente, Al3Cas12f, que é pequena o suficiente para caber em vetores de vírus adeno-associados, um método líder de.</p><p>“A entrega inteligente de sistemas de edição genética é uma noção poderosa com amplas implicações clínicas, e esta descoberta científica básica nos leva a um passo significativo. Em comparação com os outros que analisamos, o Al3Cas12f basicamente vem pré-montado e pronto para uso logo após a produção de suas peças”, disse o autor correspondente David.</p><p>A equipe então projetou uma variante, conhecida como Al3Cas12f RKK, que melhorou significativamente a eficiência de edição de menos de 10% para mais de 80% nos alvos testados. Numa região do genoma comumente editada, a eficiência atingiu 90%.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>Smaller gene-editing system could expand treatment options for cancer, ALS and other diseases. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. A National Institutes of Health (NIH)-funded research team has discovered an enhanced CRISPR gene-editing system that could enable targeted delivery inside the human body, a key. Researchers identified a naturally occurring enzyme, Al3Cas12f, that is small enough to fit into adeno-associated virus vectors, a leading targeted delivery method for gene.</p><p>“Smart delivery of gene editing systems is a powerful notion with broad clinical implications, and this basic science finding takes us a significant step toward that future,” said. Compared to the others we looked at, Al3Cas12f basically comes preassembled and ready to go shortly after its pieces are produced,” said corresponding author David Taylor, Ph. D.</p><p>The team then engineered a variant, known as Al3Cas12f RKK, which significantly improved editing efficiency from less than 10% to more than 80% across tested targets. In a commonly edited region of the genome, efficiency reached 90%.</p><p>Of the many variants the team produced, Al3Cas12f RKK stood above the rest. This research was supported in part by NIGMS through grant R35GM138348.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>For more information on the Institute&#x27;s research and training programs, visit https: //www. nigms. nih. gov. About the National Institutes of Health (NIH): NIH, the nation&#x27;s medical research agency, includes 27 Institutes and Centers and is a component of the U. S.</p><p>Because the account originates with NIH News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças.",
-      "Dado-chave: Uma equipe de pesquisa financiada pelos Institutos Nacionais de Saúde (NIH) descobriu um sistema aprimorado de edição genética CRISPR que.",
+      "Dado-chave: Uma equipe de pesquisa financiada pelo National Institutes of Health (NIH) descobriu um sistema aprimorado de edição genética CRISPR que poderia.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças.",
-      "Dado-chave: Uma equipe de pesquisa financiada pelos Institutos Nacionais de Saúde (NIH) descobriu um sistema aprimorado de edição genética CRISPR que.",
+      "Dado-chave: Uma equipe de pesquisa financiada pelo National Institutes of Health (NIH) descobriu um sistema aprimorado de edição genética CRISPR que poderia.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
@@ -361,14 +361,14 @@ window.postsData = [
     "date": "28 abr 2026",
     "date_pt": "28 abr 2026",
     "date_en": "28 Apr 2026",
-    "time": "01h18",
-    "time_pt": "01h18",
-    "time_en": "01:18 UTC",
+    "time": "05h02",
+    "time_pt": "05h02",
+    "time_en": "05:02 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-28T01:18:05.689335+00:00",
-    "lastModifiedIso": "2026-04-28T01:18:05.689335+00:00",
+    "publishedIso": "2026-04-28T05:02:05.251029+00:00",
+    "lastModifiedIso": "2026-04-28T05:02:05.251029+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -476,14 +476,14 @@ window.postsData = [
     "date": "28 abr 2026",
     "date_pt": "28 abr 2026",
     "date_en": "28 Apr 2026",
-    "time": "01h18",
-    "time_pt": "01h18",
-    "time_en": "01:18 UTC",
+    "time": "05h02",
+    "time_pt": "05h02",
+    "time_en": "05:02 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-28T01:18:05.689287+00:00",
-    "lastModifiedIso": "2026-04-28T01:18:05.689287+00:00",
+    "publishedIso": "2026-04-28T05:02:05.250992+00:00",
+    "lastModifiedIso": "2026-04-28T05:02:05.250992+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -544,6 +544,257 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "space-travel-may-impact-human-fertility-and-fertilization",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.universetoday.com/article_images/aa-Cover-r7s8taq5hp0fm1upu432k0g040-20170810104629.Medi_750_20260428_043532.jpg",
+    "inline_images": [],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/4xlsrpw11rq",
+      "fileUrl": "",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://www.universetoday.com/articles/space-travel-may-impact-human-fertility-and-fertilization"
+    },
+    "audio": null,
+    "title": "A viagem espacial pode impactar a fertilidade e fertilização humana",
+    "title_pt": "A viagem espacial pode impactar a fertilidade e fertilização humana",
+    "title_en": "Space Travel May Impact Human Fertility and Fertilization",
+    "sub": "As viagens espaciais ensinaram-nos lições valiosas para viver e trabalhar no espaço exterior, especificamente no que diz respeito ao impacto da microgravidade no corpo humano.",
+    "sub_pt": "As viagens espaciais ensinaram-nos lições valiosas para viver e trabalhar no espaço exterior, especificamente no que diz respeito ao impacto da microgravidade no corpo humano.",
+    "sub_en": "Space travel has taught us valuable lessons for living and working in outer space, specifically regarding how microgravity impacts the human body during short- and long-term.",
+    "excerpt": "As viagens espaciais ensinaram-nos lições valiosas para viver e trabalhar no espaço exterior, especificamente no que diz respeito ao impacto da microgravidade no corpo humano durante voos espaciais de curto e longo prazo. Isso inclui diminuição da massa.",
+    "excerpt_pt": "As viagens espaciais ensinaram-nos lições valiosas para viver e trabalhar no espaço exterior, especificamente no que diz respeito ao impacto da microgravidade no corpo humano durante voos espaciais de curto e longo prazo. Isso inclui diminuição da massa.",
+    "excerpt_en": "Space travel has taught us valuable lessons for living and working in outer space, specifically regarding how microgravity impacts the human body during short- and long-term spaceflight. This includes decreased muscle and bone mass, fluid.",
+    "body": "<p>As viagens espaciais ensinaram-nos lições valiosas para viver e trabalhar no espaço exterior, especificamente no que diz respeito ao impacto da microgravidade no corpo humano durante voos espaciais de curto e longo prazo. Isso inclui diminuição da massa muscular e óssea, fluido. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Mas com agências como a NASA aspirando a construir uma base lunar e estabelecer uma. Mas com agências como a NASA aspirando a construir uma base lunar e estabelecer uma presença de longo prazo na Lua e, eventualmente, em Marte, como as viagens espaciais poderiam.</p><p>Suas descobertas foram publicadas recentemente na Communications Biology, com os pesquisadores se concentrando em como a microgravidade afeta o modo como o espermatozóide nada por. No final, os investigadores descobriram que a navegação do esperma humano foi alterada, mas a sua capacidade de nadar não, sendo a primeira abordada através da progesterona, que.</p><p>Para os ratos, os pesquisadores encontraram uma diminuição de 30% nos óvulos fertilizados com sucesso e também encontraram uma diminuição na fertilização bem-sucedida de. Estas incluem missões espaciais soviéticas na década de 1980 que exploraram o acasalamento de animais e a gravidez no espaço e experiências a bordo da Estação Espacial.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/space-travel-may-impact-human-fertility-and-fertilization\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>As viagens espaciais ensinaram-nos lições valiosas para viver e trabalhar no espaço exterior, especificamente no que diz respeito ao impacto da microgravidade no corpo humano durante voos espaciais de curto e longo prazo. Isso inclui diminuição da massa muscular e óssea, fluido. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Mas com agências como a NASA aspirando a construir uma base lunar e estabelecer uma. Mas com agências como a NASA aspirando a construir uma base lunar e estabelecer uma presença de longo prazo na Lua e, eventualmente, em Marte, como as viagens espaciais poderiam.</p><p>Suas descobertas foram publicadas recentemente na Communications Biology, com os pesquisadores se concentrando em como a microgravidade afeta o modo como o espermatozóide nada por. No final, os investigadores descobriram que a navegação do esperma humano foi alterada, mas a sua capacidade de nadar não, sendo a primeira abordada através da progesterona, que.</p><p>Para os ratos, os pesquisadores encontraram uma diminuição de 30% nos óvulos fertilizados com sucesso e também encontraram uma diminuição na fertilização bem-sucedida de. Estas incluem missões espaciais soviéticas na década de 1980 que exploraram o acasalamento de animais e a gravidez no espaço e experiências a bordo da Estação Espacial.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/space-travel-may-impact-human-fertility-and-fertilization\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Space travel has taught us valuable lessons for living and working in outer space, specifically regarding how microgravity impacts the human body during short- and long-term spaceflight. This includes decreased muscle and bone mass, fluid. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. But with agencies like NASA aspiring to build a lunar base and establish a. But with agencies like NASA aspiring to build a lunar base and establish a long-term presence on the Moon, and eventually Mars, how could space travel impact potentially having.</p><p>Their findings were recently published in Communications Biology, with the researchers focusing on how microgravity impacts how the sperm both swims down a channel and finds an. In the end, the researchers found that human sperm’s navigation was altered but its ability to swim was not, with the former being addressed through progesterone, which acts as a.</p><p>For the mice, the researchers found a 30 percent decrease in successfully fertilized eggs and the researchers also found a decrease in successful fertilization for pig sperm, as. These include Soviet space missions in the 1980s that explored animal mating and pregnancy in space and experiments aboard the Internation Space Station that explored human sperm.</p><p>However, this most recent study could be the first to identify the navigational mechanisms that are influenced under microgravity, along with how to fix it. This study comes as NASA recently announced plans to build a Moon base near the lunar south pole through the Artemis Program, with NASA Administrator Jared Isaacman having the.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Through this, NASA plans to use its Moon to Mars Architecture program to develop and test new technologies on the Moon that can be used for future crewed missions to Mars. Most recently, Artemis II successfully sent four humans around the Moon for the first time since 1972, and Artemis III is scheduled for 2027 to test docking maneuvers, with.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/space-travel-may-impact-human-fertility-and-fertilization\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: As viagens espaciais ensinaram-nos lições valiosas para viver e trabalhar no espaço exterior, especificamente no que diz respeito ao impacto da.",
+      "Dado-chave: Mas com agências como a NASA aspirando a construir uma base lunar e estabelecer uma.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: As viagens espaciais ensinaram-nos lições valiosas para viver e trabalhar no espaço exterior, especificamente no que diz respeito ao impacto da.",
+      "Dado-chave: Mas com agências como a NASA aspirando a construir uma base lunar e estabelecer uma.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Space travel has taught us valuable lessons for living and working in outer space, specifically regarding how microgravity impacts the human body.",
+      "Key detail: But with agencies like NASA aspiring to build a lunar base and establish a.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "28 abr 2026",
+    "date_pt": "28 abr 2026",
+    "date_en": "28 Apr 2026",
+    "time": "04h35",
+    "time_pt": "04h35",
+    "time_en": "04:35 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-28T04:35:42+00:00",
+    "lastModifiedIso": "2026-04-28T04:35:42+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "A viagem espacial pode impactar a fertilidade e fertilização humana"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "A viagem espacial pode impactar a fertilidade e fertilização humana"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Universe Today",
+      "Cosmos Week",
+      "Space travel could impact human fertility and fertilization"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/space-travel-may-impact-human-fertility-and-fertilization",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=space-travel-may-impact-human-fertility-and-fertilization",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=space-travel-may-impact-human-fertility-and-fertilization",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=space-travel-may-impact-human-fertility-and-fertilization&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 70,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 82,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
+    "slug": "fiery-fall-color-in-southern-chile",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fiery-fall-color-in-southern-chile/fallinpatagoniawide_oli2_20260412.jpg?w=1440&h=1200&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/snow-is-scarce-in-the-upper-colorado-basin/coloradobasin_swe_20260315_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Um mapa mostra quantidades equivalentes de água da neve abaixo da média na maioria das áreas montanhosas da Bacia do Alto Colorado.",
+        "caption_pt": "Um mapa mostra quantidades equivalentes de água da neve abaixo da média na maioria das áreas montanhosas da Bacia do Alto Colorado.",
+        "caption_en": "A map depicts below-average snow water equivalent amounts in most mountainous areas of the Upper Colorado Basin.",
+        "alt": "Um mapa mostra quantidades equivalentes de água da neve abaixo da média na maioria das áreas montanhosas da Bacia do Alto Colorado.",
+        "alt_pt": "Um mapa mostra quantidades equivalentes de água da neve abaixo da média na maioria das áreas montanhosas da Bacia do Alto Colorado.",
+        "alt_en": "A map depicts below-average snow water equivalent amounts in most mountainous areas of the Upper Colorado Basin."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fiery-fall-color-in-southern-chile/fallinpatagonia_oli2_20260412.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "A vegetação laranja avermelhada cobre as encostas de uma montanha coberta de neve no sul do Chile. A montanha desce abruptamente em direção a um vale de rio no lado esquerdo e desce mais suavemente para a direita.",
+        "caption_pt": "A vegetação laranja avermelhada cobre as encostas de uma montanha coberta de neve no sul do Chile. A montanha desce abruptamente em direção a um vale de rio no lado esquerdo e desce mais suavemente para a direita.",
+        "caption_en": "Reddish orange vegetation covers the slopes of a snow-capped mountain in southern Chile. The mountain drops off steeply toward a river valley on the left side and slopes more gently to the right.",
+        "alt": "A vegetação laranja avermelhada cobre as encostas de uma montanha coberta de neve no sul do Chile. A montanha desce abruptamente em direção a um vale de rio no lado esquerdo e desce mais suavemente para a direita.",
+        "alt_pt": "A vegetação laranja avermelhada cobre as encostas de uma montanha coberta de neve no sul do Chile. A montanha desce abruptamente em direção a um vale de rio no lado esquerdo e desce mais suavemente para a direita.",
+        "alt_en": "Reddish orange vegetation covers the slopes of a snow-capped mountain in southern Chile. The mountain drops off steeply toward a river valley on the left side and slopes more gently to the right."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fiery-fall-color-in-southern-chile/fallinpatagonia_oli2_20260412_lrg.jpg?w=5676&h=3778&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Colinas tingidas de laranja avermelhado aparecem através de uma fresta nas nuvens.",
+        "caption_pt": "Colinas tingidas de laranja avermelhado aparecem através de uma fresta nas nuvens.",
+        "caption_en": "Hills tinged with reddish orange appear through a break in the clouds.",
+        "alt": "Colinas tingidas de laranja avermelhado aparecem através de uma fresta nas nuvens.",
+        "alt_pt": "Colinas tingidas de laranja avermelhado aparecem através de uma fresta nas nuvens.",
+        "alt_en": "Hills tinged with reddish orange appear through a break in the clouds."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Cor ardente do outono no sul do Chile",
+    "title_pt": "Cor ardente do outono no sul do Chile",
+    "title_en": "Fiery Fall Color in Southern Chile",
+    "sub": "Uma faixa de vegetação avermelhada cobre as encostas de uma montanha coberta de neve, cerca de 40 quilómetros a oeste da área mostrada no topo da página.",
+    "sub_pt": "Uma faixa de vegetação avermelhada cobre as encostas de uma montanha coberta de neve, cerca de 40 quilómetros a oeste da área mostrada no topo da página.",
+    "sub_en": "A band of reddish vegetation covers the slopes of a snow-capped mountain about 40 kilometers west of the area shown at the top of the page.",
+    "excerpt": "Uma faixa de vegetação avermelhada cobre as encostas de uma montanha coberta de neve, cerca de 40 quilómetros a oeste da área mostrada no topo da página.",
+    "excerpt_pt": "Uma faixa de vegetação avermelhada cobre as encostas de uma montanha coberta de neve, cerca de 40 quilómetros a oeste da área mostrada no topo da página.",
+    "excerpt_en": "A band of reddish vegetation covers the slopes of a snow-capped mountain about 40 kilometers west of the area shown at the top of the page.",
+    "body": "<p>Uma faixa de vegetação avermelhada cobre as encostas de uma montanha coberta de neve, cerca de 40 quilómetros a oeste da área mostrada no topo da página. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Uma faixa de vegetação avermelhada cobre as encostas de uma montanha coberta de neve a cerca de 40 quilómetros (25 milhas) a oeste da área mostrada no topo da página. Observatório da Terra da NASA/Lauren Dauphin Exibições coloridas de outono de lengas e outras florestas de faias do sul deslumbram os observadores de folhas em locais icônicos da.</p><p>Neve na sombra dos Andes 2 min de leitura Uma tempestade no início do outono deixou as altitudes mais elevadas no sul da Argentina com uma camada branca fresca e fugaz. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>NASA Earth Observatory/Lauren Dauphin Os brancos brilhantes da neve das montanhas, os marrons suaves das planícies áridas e os azuis e marrecos semelhantes a pedras preciosas dos. Em 12 de abril de 2026, uma ruptura nas nuvens permitiu ao satélite Landsat 9 capturar uma imagem de encostas avermelhadas na região de Magalhães, no sul do Chile.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/fiery-fall-color-in-southern-chile/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma faixa de vegetação avermelhada cobre as encostas de uma montanha coberta de neve, cerca de 40 quilómetros a oeste da área mostrada no topo da página. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Uma faixa de vegetação avermelhada cobre as encostas de uma montanha coberta de neve a cerca de 40 quilómetros (25 milhas) a oeste da área mostrada no topo da página. Observatório da Terra da NASA/Lauren Dauphin Exibições coloridas de outono de lengas e outras florestas de faias do sul deslumbram os observadores de folhas em locais icônicos da.</p><p>Neve na sombra dos Andes 2 min de leitura Uma tempestade no início do outono deixou as altitudes mais elevadas no sul da Argentina com uma camada branca fresca e fugaz. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>NASA Earth Observatory/Lauren Dauphin Os brancos brilhantes da neve das montanhas, os marrons suaves das planícies áridas e os azuis e marrecos semelhantes a pedras preciosas dos. Em 12 de abril de 2026, uma ruptura nas nuvens permitiu ao satélite Landsat 9 capturar uma imagem de encostas avermelhadas na região de Magalhães, no sul do Chile.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/fiery-fall-color-in-southern-chile/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A band of reddish vegetation covers the slopes of a snow-capped mountain about 40 kilometers west of the area shown at the top of the page. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A band of reddish vegetation covers the slopes of a snow-capped mountain about 40 kilometers (25 miles) west of the area shown at the top of the page. NASA Earth Observatory/Lauren Dauphin Colorful autumn displays of lenga and other southern beech forests dazzle leaf-peepers across Patagonia’s iconic locales.</p><p>Snow in the Shadow of the Andes 2 min read An early autumn storm left higher elevations in southern Argentina with a fresh and fleeting coat of white. Earth Observatory Image of the Day NASA’s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p><p>NASA Earth Observatory/Lauren Dauphin The bright whites of mountain snow, muted browns of the arid plains, and gem-like blues and teals of glacial lakes typically dominate the. On April 12, 2026, a break in the clouds allowed the Landsat 9 satellite to capture an image of reddish hillsides in the Magallanes region of southern Chile.</p><p>One of these species, known as the lenga beech ( Nothofagus pumilio ), occurs from about 36 degrees south latitude down to Tierra del Fuego at around 55 degrees south. The red ridgetops in the scene above, located about 100 kilometers (60 miles) northwest of Punta Arenas, are at about 600 meters (2,000 feet) above sea level.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U. S. Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/fiery-fall-color-in-southern-chile/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Uma faixa de vegetação avermelhada cobre as encostas de uma montanha coberta de neve, cerca de 40 quilómetros a oeste da área mostrada no topo da.",
+      "Dado-chave: Uma faixa de vegetação avermelhada cobre as encostas de uma montanha coberta de neve a cerca de 40 quilómetros (25 milhas) a oeste da área.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Uma faixa de vegetação avermelhada cobre as encostas de uma montanha coberta de neve, cerca de 40 quilómetros a oeste da área mostrada no topo da.",
+      "Dado-chave: Uma faixa de vegetação avermelhada cobre as encostas de uma montanha coberta de neve a cerca de 40 quilómetros (25 milhas) a oeste da área.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: A band of reddish vegetation covers the slopes of a snow-capped mountain about 40 kilometers west of the area shown at the top of the page.",
+      "Key detail: A band of reddish vegetation covers the slopes of a snow-capped mountain about 40 kilometers (25 miles) west of the area shown at the top of the.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "28 abr 2026",
+    "date_pt": "28 abr 2026",
+    "date_en": "28 Apr 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04:01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-28T04:01:00+00:00",
+    "lastModifiedIso": "2026-04-28T04:01:00+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Cor ardente do outono no sul do Chile"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Cor ardente do outono no sul do Chile"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Fiery autumn color in southern Chile"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/fiery-fall-color-in-southern-chile/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=fiery-fall-color-in-southern-chile",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=fiery-fall-color-in-southern-chile",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=fiery-fall-color-in-southern-chile&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 8,
     "slug": "jwst-hunts-for-an-earth-moon-twin-in-a-habitable-zone-but-the-star-has-other-plans",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -681,7 +932,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -695,7 +946,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 9,
     "slug": "tiny-ultra-faint-dwarf-galaxies-reflect-the-conditions-in-the-early-universe",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -819,7 +1070,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 10,
     "slug": "why-stars-spin-down-or-up-before-they-die",
     "cat": "Física",
     "catCls": "fisica",
@@ -943,409 +1194,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
-    "slug": "voyager-1-shuts-down-another-instrument",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://dq0hsqwjhea1.cloudfront.net/1_Voyager_artist_concept-ezgif.com-jpg-to-webp-converter.webp",
-    "inline_images": [
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/jpegPIA16484.width-1600-ezgif.com-jpg-to-webp-converter.webp",
-        "caption": "Um esquema do instrumento LECP na espaçonave Voyager 1 NASA-JPL / Caltech",
-        "caption_pt": "Um esquema do instrumento LECP na espaçonave Voyager 1 NASA-JPL / Caltech",
-        "caption_en": "A schematic of the LECP instrument on the Voyager 1 spacecraft NASA-JPL / Caltech",
-        "alt": "Partícula carregada de baixa energia",
-        "alt_pt": "Partícula carregada de baixa energia",
-        "alt_en": "Low-Energy Charged Particle"
-      },
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/PIA23645-ezgif.com-jpg-to-webp-converter.webp",
-        "caption": "A Voyager 1 tirou esta imagem da Terra do tipo \"Ponto Azul Pálido\" em 1990, além da órbita de Netuno. NASA/JPL-Caltech",
-        "caption_pt": "A Voyager 1 tirou esta imagem da Terra do tipo \"Ponto Azul Pálido\" em 1990, além da órbita de Netuno. NASA/JPL-Caltech",
-        "caption_en": "Voyager 1 took this \"Pale Blue Dot\" image of Earth in 1990, from beyond the orbit of Neptune. NASA / JPL-Caltech",
-        "alt": "Pequeno ponto na visão de campo amplo",
-        "alt_pt": "Pequeno ponto na visão de campo amplo",
-        "alt_en": "Little dot in wide field view"
-      },
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/theme/src/img/comment.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Voyager 1 desliga outro instrumento",
-    "title_pt": "Voyager 1 desliga outro instrumento",
-    "title_en": "Voyager 1 Shuts Down Another Instrument",
-    "sub": "A Voyager 1, uma das missões interplanetárias mais antigas da NASA, teve outro instrumento desligado na semana passada, num esforço para manter a nave espacial operacional. Em 17.",
-    "sub_pt": "A Voyager 1, uma das missões interplanetárias mais antigas da NASA, teve outro instrumento desligado na semana passada, num esforço para manter a nave espacial operacional. Em 17.",
-    "sub_en": "Voyager 1, one of NASA’s longest continuously running interplanetary missions, had another instrument turned off last week, in an effort to keep the spacecraft operational. On.",
-    "excerpt": "A Voyager 1, uma das missões interplanetárias mais antigas da NASA, teve outro instrumento desligado na semana passada, num esforço para manter a nave espacial operacional. Em 17 de abril, os controladores viraram [.] O pós-Voyager 1 fecha.",
-    "excerpt_pt": "A Voyager 1, uma das missões interplanetárias mais antigas da NASA, teve outro instrumento desligado na semana passada, num esforço para manter a nave espacial operacional. Em 17 de abril, os controladores viraram [.] O pós-Voyager 1 fecha.",
-    "excerpt_en": "Voyager 1, one of NASA’s longest continuously running interplanetary missions, had another instrument turned off last week, in an effort to keep the spacecraft operational. On April 17th, controllers turned [.] The post Voyager 1 Shuts.",
-    "body": "<p>A Voyager 1, uma das missões interplanetárias mais antigas da NASA, teve outro instrumento desligado na semana passada, num esforço para manter a nave espacial operacional. Em 17 de abril, os controladores viraram O pós-Voyager 1 fecha. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Em 17 de abril, os controladores viraram O post Voyager 1 desliga outro instrumento apareceu pela primeira vez na Sky &amp; Telescope. Engenheiros desligaram um instrumento que media a densidade de partículas carregadas em um esforço para manter operacional a antiga Voyager 1.</p><p>Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestiais e as últimas notícias sobre astronomia. David Dickinson é escritor freelance. (Você pode cancelar a assinatura a qualquer momento) Os engenheiros desligaram um instrumento que media a densidade de partículas carregadas em um esforço para manter operacional.</p><p>A Voyager 1, uma das missões interplanetárias mais antigas da NASA, teve outro instrumento desligado na semana passada, num esforço para manter a nave espacial operacional. “A Voyager 1 ainda tem dois instrumentos científicos em operação.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/voyager-1-shuts-down-another-instrument/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A Voyager 1, uma das missões interplanetárias mais antigas da NASA, teve outro instrumento desligado na semana passada, num esforço para manter a nave espacial operacional. Em 17 de abril, os controladores viraram O pós-Voyager 1 fecha. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Em 17 de abril, os controladores viraram O post Voyager 1 desliga outro instrumento apareceu pela primeira vez na Sky &amp; Telescope. Engenheiros desligaram um instrumento que media a densidade de partículas carregadas em um esforço para manter operacional a antiga Voyager 1.</p><p>Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestiais e as últimas notícias sobre astronomia. David Dickinson é escritor freelance. (Você pode cancelar a assinatura a qualquer momento) Os engenheiros desligaram um instrumento que media a densidade de partículas carregadas em um esforço para manter operacional.</p><p>A Voyager 1, uma das missões interplanetárias mais antigas da NASA, teve outro instrumento desligado na semana passada, num esforço para manter a nave espacial operacional. “A Voyager 1 ainda tem dois instrumentos científicos em operação.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/voyager-1-shuts-down-another-instrument/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Voyager 1, one of NASA’s longest continuously running interplanetary missions, had another instrument turned off last week, in an effort to keep the spacecraft operational. On April 17th, controllers turned The post Voyager 1 Shuts. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. On April 17th, controllers turned The post Voyager 1 Shuts Down Another Instrument appeared first on Sky &amp; Telescope. Engineers have turned off an instrument that measured the density of charged particles in an effort to keep the aging Voyager 1 operational.</p><p>Explore the universe with Sky &amp; Telescope, your ultimate source for stargazing, celestial events, and the latest astronomy news David Dickinson is a freelance science writer, high. (You can unsubscribe anytime) Engineers have turned off an instrument that measured the density of charged particles in an effort to keep the aging Voyager 1 operational.</p><p>Voyager 1, one of NASA’s longest continuously running interplanetary missions, had another instrument turned off last week, in an effort to keep the spacecraft operational. “Voyager 1 still has two remaining operating science instruments.</p><p>Engineers opted to send Voyager 1 for a close flyby past Saturn’s enigmatic moon Titan, a maneuver that sent the spacecraft out of the plane of the solar system in 1980. It’s amazing to think that Voyager 1 has actually survived almost 10 times longer than its five-year nominal mission.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Ironically, the mission was off to a rocky start, Voyager 1 was almost lost shortly after launch, when the second stage shut down prematurely and nearly stranded the mission in an. Voyager 1 is currently the most distant spacecraft, at more 170 astronomical units (au) from Earth, in the direction of the Ophiuchus constellation.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/voyager-1-shuts-down-another-instrument/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A Voyager 1, uma das missões interplanetárias mais antigas da NASA, teve outro instrumento desligado na semana passada, num esforço para manter a.",
-      "Dado-chave: Em 17 de abril, os controladores viraram [.] O post Voyager 1 desliga outro instrumento apareceu pela primeira vez na Sky & Telescope.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A Voyager 1, uma das missões interplanetárias mais antigas da NASA, teve outro instrumento desligado na semana passada, num esforço para manter a.",
-      "Dado-chave: Em 17 de abril, os controladores viraram [.] O post Voyager 1 desliga outro instrumento apareceu pela primeira vez na Sky & Telescope.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Voyager 1, one of NASA’s longest continuously running interplanetary missions, had another instrument turned off last week, in an effort to keep the.",
-      "Key detail: On April 17th, controllers turned [.] The post Voyager 1 Shuts Down Another Instrument appeared first on Sky & Telescope.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "27 abr 2026",
-    "date_pt": "27 abr 2026",
-    "date_en": "27 Apr 2026",
-    "time": "17h57",
-    "time_pt": "17h57",
-    "time_en": "17:57 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-27T17:57:22+00:00",
-    "lastModifiedIso": "2026-04-27T17:57:22+00:00",
-    "source": "Sky & Telescope",
-    "sourceDomain": "skyandtelescope.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Voyager 1 desliga outro instrumento"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Voyager 1 desliga outro instrumento"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Voyager 1 turns off another instrument"
-    ],
-    "srcUrl": "https://skyandtelescope.org/astronomy-news/voyager-1-shuts-down-another-instrument/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=voyager-1-shuts-down-another-instrument",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=voyager-1-shuts-down-another-instrument",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=voyager-1-shuts-down-another-instrument&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 74,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "potential-signs-of-life-on-distant-planets-sound-exciting-but-confirmation-can-take-years",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/potential-signs-of-lif.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/potential-signs-of-lif.jpg",
-        "caption": "Potenciais sinais de vida em planetas distantes parecem emocionantes, mas a confirmação pode levar anos",
-        "caption_pt": "Potenciais sinais de vida em planetas distantes parecem emocionantes, mas a confirmação pode levar anos",
-        "caption_en": "Potential signs of life on distant planets sound exciting, but confirmation can take years",
-        "alt": "Potenciais sinais de vida em planetas distantes parecem emocionantes, mas a confirmação pode levar anos",
-        "alt_pt": "Potenciais sinais de vida em planetas distantes parecem emocionantes, mas a confirmação pode levar anos",
-        "alt_en": "Potential signs of life on distant planets sound exciting, but confirmation can take years"
-      },
-      {
-        "src": "https://scx0.b-cdn.net/pic/llock.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx0.b-cdn.net/pic/andrew.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Potenciais sinais de vida em planetas distantes parecem emocionantes, mas a confirmação pode levar anos",
-    "title_pt": "Potenciais sinais de vida em planetas distantes parecem emocionantes, mas a confirmação pode levar anos",
-    "title_en": "Potential signs of life on distant planets sound exciting, but confirmation can take years",
-    "sub": "Os astrônomos podem usar telescópios para encontrar moléculas específicas nas atmosferas de planetas vizinhos, em nebulosas, nuvens de poeira e gás interestelar, a centenas ou.",
-    "sub_pt": "Os astrônomos podem usar telescópios para encontrar moléculas específicas nas atmosferas de planetas vizinhos, em nebulosas, nuvens de poeira e gás interestelar, a centenas ou.",
-    "sub_en": "Astronomers can use telescopes to find specific molecules in the atmospheres of neighboring planets, in nebulae, clouds of interstellar dust and gas, hundreds or thousands of.",
-    "excerpt": "Os astrônomos podem usar telescópios para encontrar moléculas específicas nas atmosferas de planetas vizinhos, em nebulosas, nuvens de poeira e gás interestelar, a centenas ou milhares de anos-luz de distância, ou em galáxias além dos confins do planeta.",
-    "excerpt_pt": "Os astrônomos podem usar telescópios para encontrar moléculas específicas nas atmosferas de planetas vizinhos, em nebulosas, nuvens de poeira e gás interestelar, a centenas ou milhares de anos-luz de distância, ou em galáxias além dos confins do planeta.",
-    "excerpt_en": "Astronomers can use telescopes to find specific molecules in the atmospheres of neighboring planets, in nebulae, clouds of interstellar dust and gas, hundreds or thousands of light-years away, or in galaxies beyond the far reaches of the.",
-    "body": "<p>Os astrônomos podem usar telescópios para encontrar moléculas específicas nas atmosferas de planetas vizinhos, em nebulosas, nuvens de poeira e gás interestelar, a centenas ou milhares de anos-luz de distância, ou em galáxias além dos confins do planeta. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida A nuvem molecular Taurus é uma região de.</p><p>Até agora, os astrónomos encontraram mais de 350 moléculas nos espaços entre e em torno das estrelas em pouco menos de cem anos, a primeira molécula deste tipo foi relatada em. A cada ano, o estoque de produtos químicos cósmicos cresce de um punhado para algumas dúzias de novas descobertas.</p><p>Cada fóton carrega essa energia consigo para um telescópio, que registra seu sinal. Telescópios infravermelhos, como o Telescópio Espacial James Webb, ou telescópios que detectam luz visível, como o Telescópio Espacial Hubble, também podem ser usados ​​para.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-potential-life-distant-planets-years.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os astrônomos podem usar telescópios para encontrar moléculas específicas nas atmosferas de planetas vizinhos, em nebulosas, nuvens de poeira e gás interestelar, a centenas ou milhares de anos-luz de distância, ou em galáxias além dos confins do planeta. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida A nuvem molecular Taurus é uma região de.</p><p>Até agora, os astrónomos encontraram mais de 350 moléculas nos espaços entre e em torno das estrelas em pouco menos de cem anos, a primeira molécula deste tipo foi relatada em. A cada ano, o estoque de produtos químicos cósmicos cresce de um punhado para algumas dúzias de novas descobertas.</p><p>Cada fóton carrega essa energia consigo para um telescópio, que registra seu sinal. Telescópios infravermelhos, como o Telescópio Espacial James Webb, ou telescópios que detectam luz visível, como o Telescópio Espacial Hubble, também podem ser usados ​​para.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-potential-life-distant-planets-years.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Astronomers can use telescopes to find specific molecules in the atmospheres of neighboring planets, in nebulae, clouds of interstellar dust and gas, hundreds or thousands of light-years away, or in galaxies beyond the far reaches of the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source The Taurus molecular cloud is a relatively close star-forming.</p><p>So far, astronomers have found more than 350 molecules in the spaces between and around stars in just under a hundred years— the first such molecule was reported in 1937. Each year, the cosmic chemical stockroom grows by anywhere from a handful to a couple of dozen new finds.</p><p>Each photon carries that energy with it to a telescope, which records its signal. Infrared telescopes, such as the James Webb Space Telescope, or telescopes that detect visible light, such as the Hubble Space Telescope, can also be used for astrochemistry.</p><p>Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. I worked with a team of scientists to adjust the computer inputs over and over until the simulated spectra matched the experimental data.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>While my contributions to the Cologne team didn&#x27;t lead to a discovery of a new molecule in space, I gained an appreciation for the work behind the scenes of molecule discovery. Detected molecules relevant to biological processes back on Earth in comets and the atmospheres of other planets.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-potential-life-distant-planets-years.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os astrônomos podem usar telescópios para encontrar moléculas específicas nas atmosferas de planetas vizinhos, em nebulosas, nuvens de poeira e gás.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os astrônomos podem usar telescópios para encontrar moléculas específicas nas atmosferas de planetas vizinhos, em nebulosas, nuvens de poeira e gás.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Astronomers can use telescopes to find specific molecules in the atmospheres of neighboring planets, in nebulae, clouds of interstellar dust and gas.",
-      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "27 abr 2026",
-    "date_pt": "27 abr 2026",
-    "date_en": "27 Apr 2026",
-    "time": "17h40",
-    "time_pt": "17h40",
-    "time_en": "17:40 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-27T17:40:01+00:00",
-    "lastModifiedIso": "2026-04-27T17:40:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Potenciais sinais de vida em planetas distantes parecem emocionantes",
-      "mas a confirmação pode levar anos"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Potenciais sinais de vida em planetas distantes parecem emocionantes",
-      "mas a confirmação pode levar anos"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Potential signs of life on distant planets sound exciting",
-      "but confirmation could take years"
-    ],
-    "srcUrl": "https://phys.org/news/2026-04-potential-life-distant-planets-years.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=potential-signs-of-life-on-distant-planets-sound-exciting-but-confirmation-can-take-years",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=potential-signs-of-life-on-distant-planets-sound-exciting-but-confirmation-can-take-years",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=potential-signs-of-life-on-distant-planets-sound-exciting-but-confirmation-can-take-years&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
     "id": 11,
-    "slug": "you-can-help-humans-thrive-in-space",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/esnt/EarthSet.png?w=2988&h=1992&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/2026/Jeff_Matthew_Citizen_Science_Exo_5F5A9487_lo-Bryan_Simpson.jpg?w=2400&h=1600&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/HARP_graphic.jpg?w=1920&h=1080&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/emerge_project.jpg?w=1600&h=1200&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Você pode ajudar os humanos a prosperar no espaço",
-    "title_pt": "Você pode ajudar os humanos a prosperar no espaço",
-    "title_en": "You Can Help Humans Thrive in Space",
-    "sub": "A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro voo tripulado para o espaço profundo desde 1972. Nem todo mundo tem a chance de vestir um.",
-    "sub_pt": "A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro voo tripulado para o espaço profundo desde 1972. Nem todo mundo tem a chance de vestir um.",
-    "sub_en": "The second Artemis mission took four astronauts around the moon and back, the first crewed deep-space flight since 1972. Not everyone gets a chance to put on a space suit, but you.",
-    "excerpt": "A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro voo tripulado para o espaço profundo desde 1972. Nem todo mundo tem a chance de vestir um traje espacial, mas você ainda pode ser uma parte importante do espaço humano da.",
-    "excerpt_pt": "A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro voo tripulado para o espaço profundo desde 1972. Nem todo mundo tem a chance de vestir um traje espacial, mas você ainda pode ser uma parte importante do espaço humano da.",
-    "excerpt_en": "The second Artemis mission took four astronauts around the moon and back, the first crewed deep-space flight since 1972. Not everyone gets a chance to put on a space suit, but you can still be an important part of NASA’s human space.",
-    "body": "<p>A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro voo tripulado para o espaço profundo desde 1972. Nem todo mundo tem a chance de vestir um traje espacial, mas você ainda pode ser uma parte importante do espaço humano da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Confira todos os projetos atuais apoiados pela NASA que precisam de sua ajuda para responder perguntas sobre nosso universo, sistema solar e Terra. A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro voo tripulado no espaço profundo desde 1972.</p><p>Artigo A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro vôo tripulado ao espaço profundo desde 1972. Nem todo mundo tem a chance de vestir um traje espacial, mas você ainda pode ser uma parte importante da história da exploração espacial humana da NASA fazendo ciência da NASA.</p><p>Voluntários dos projetos de ciência cidadã da NASA testaram variedades de plantas de pimenta para crescer no espaço, monitoraram regiões ativas no Sol e analisaram dados de. A participação não requer cidadania de nenhum país em particular, você só precisa de amor pela ciência e desejo de ajudar.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/get-involved/citizen-science/you-can-help-humans-thrive-in-space/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro voo tripulado para o espaço profundo desde 1972. Nem todo mundo tem a chance de vestir um traje espacial, mas você ainda pode ser uma parte importante do espaço humano da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Confira todos os projetos atuais apoiados pela NASA que precisam de sua ajuda para responder perguntas sobre nosso universo, sistema solar e Terra. A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro voo tripulado no espaço profundo desde 1972.</p><p>Artigo A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro vôo tripulado ao espaço profundo desde 1972. Nem todo mundo tem a chance de vestir um traje espacial, mas você ainda pode ser uma parte importante da história da exploração espacial humana da NASA fazendo ciência da NASA.</p><p>Voluntários dos projetos de ciência cidadã da NASA testaram variedades de plantas de pimenta para crescer no espaço, monitoraram regiões ativas no Sol e analisaram dados de. A participação não requer cidadania de nenhum país em particular, você só precisa de amor pela ciência e desejo de ajudar.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/get-involved/citizen-science/you-can-help-humans-thrive-in-space/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The second Artemis mission took four astronauts around the moon and back, the first crewed deep-space flight since 1972. Not everyone gets a chance to put on a space suit, but you can still be an important part of NASA’s human space. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Check out all the current projects supported by NASA that need your help answering questions about our universe, solar system, and Earth. The second Artemis mission took four astronauts around the moon and back, the first crewed deep-space flight since 1972.</p><p>Article The second Artemis mission took four astronauts around the moon and back, the first crewed deep-space flight since 1972. Not everyone gets a chance to put on a space suit, but you can still be an important part of NASA’s human space exploration story by doing NASA science.</p><p>Volunteers with NASA’s citizen science projects have tested chili pepper plant varieties to grow in space, monitored active regions on the Sun, and analyzed data from experiments. Participation does not require citizenship in any particular country, you only need a love of science and a desire to help.</p><p>Join one of the projects below and help NASA make space travel safer and healthier. The brief online project tutorial will teach you how to read data collected by NASA’s Magnetosphere Multiscale (MMS) mission, which has been flying back and forth across Earth’s.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Through Growing Beyond Earth, middle and high school students and their teachers collaborate with Fairchild Botanical Garden scientists to grow candidate plants that are being. Do you have some experience with data analysis.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/get-involved/citizen-science/you-can-help-humans-thrive-in-space/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro voo tripulado para o espaço profundo desde 1972. Nem todo.",
-      "Dado-chave: Confira todos os projetos atuais apoiados pela NASA que precisam de sua ajuda para responder perguntas sobre nosso universo, sistema solar e.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro voo tripulado para o espaço profundo desde 1972. Nem todo.",
-      "Dado-chave: Confira todos os projetos atuais apoiados pela NASA que precisam de sua ajuda para responder perguntas sobre nosso universo, sistema solar e.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The second Artemis mission took four astronauts around the moon and back, the first crewed deep-space flight since 1972. Not everyone gets a chance.",
-      "Key detail: Check out all the current projects supported by NASA that need your help answering questions about our universe, solar system, and Earth.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "27 abr 2026",
-    "date_pt": "27 abr 2026",
-    "date_en": "27 Apr 2026",
-    "time": "15h54",
-    "time_pt": "15h54",
-    "time_en": "15:54 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-27T15:54:01+00:00",
-    "lastModifiedIso": "2026-04-27T15:54:01+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Você pode ajudar os humanos a prosperar no espaço"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Você pode ajudar os humanos a prosperar no espaço"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "You can help humans thrive in space"
-    ],
-    "srcUrl": "https://science.nasa.gov/get-involved/citizen-science/you-can-help-humans-thrive-in-space/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=you-can-help-humans-thrive-in-space",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=you-can-help-humans-thrive-in-space",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=you-can-help-humans-thrive-in-space&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 82,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 12,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1481,7 +1330,7 @@ window.postsData = [
     }
   },
   {
-    "id": 13,
+    "id": 12,
     "slug": "science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1620,7 +1469,7 @@ window.postsData = [
     }
   },
   {
-    "id": 14,
+    "id": 13,
     "slug": "a-cosmic-survey-reveals-the-universe-s-hidden-side",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1757,7 +1606,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 14,
     "slug": "mysterious-gas-clouds-near-milky-way-s-black-hole-now-have-a-likely-source",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1890,7 +1739,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 15,
     "slug": "how-tilted-orbits-impact-supermassive-black-hole-collisions",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2023,7 +1872,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 16,
     "slug": "aquila-booster-challenges-theoretical-limits-of-particle-acceleration-in-pulsar-wind-nebulae",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2156,7 +2005,7 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 17,
     "slug": "small-antarctic-telescope-makes-an-outsized-impact-on-exoplanetary-science",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2284,67 +2133,82 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
-    "slug": "webb-finds-water-ice-clouds-on-nearby-super-jupiter",
+    "id": 18,
+    "slug": "stellar-flares-may-expand-habitable-zones-around-small-stars",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
-    "img": "https://www.universetoday.com/article_images/ezgif-7135a6dbf527e30a_750_20260426_040536.jpg",
-    "inline_images": [],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/jxww7if3qfe",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.universetoday.com/articles/webb-finds-water-ice-clouds-on-nearby-super-jupiter"
-    },
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/stellar-flares-may-exp-1.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stellar-flares-may-exp-1.jpg",
+        "caption": "As erupções estelares podem expandir zonas habitáveis ​​em torno de pequenas estrelas",
+        "caption_pt": "As erupções estelares podem expandir zonas habitáveis ​​em torno de pequenas estrelas",
+        "caption_en": "Stellar flares may expand habitable zones around small stars",
+        "alt": "As erupções estelares podem expandir zonas habitáveis ​​em torno de pequenas estrelas",
+        "alt_pt": "As erupções estelares podem expandir zonas habitáveis ​​em torno de pequenas estrelas",
+        "alt_en": "Stellar flares may expand habitable zones around small stars"
+      },
+      {
+        "src": "https://scx0.b-cdn.net/pic/llock.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx0.b-cdn.net/pic/andrew.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
     "audio": null,
-    "title": "Webb encontra nuvens de água gelada em Super-Júpiter próximo",
-    "title_pt": "Webb encontra nuvens de água gelada em Super-Júpiter próximo",
-    "title_en": "Webb Finds Water-Ice Clouds on Nearby Super-Jupiter",
-    "sub": "Os planetas gigantes do nosso sistema solar, Júpiter, Saturno, Urano e Netuno, desafiaram a nossa compreensão da formação e evolução planetária. Especificamente, suas formações e.",
-    "sub_pt": "Os planetas gigantes do nosso sistema solar, Júpiter, Saturno, Urano e Netuno, desafiaram a nossa compreensão da formação e evolução planetária. Especificamente, suas formações e.",
-    "sub_en": "The giant planets in our solar system, Jupiter, Saturn, Uranus, and Neptune, have challenged our understanding of planetary formation and evolution. Specifically, their.",
-    "excerpt": "Os planetas gigantes do nosso sistema solar, Júpiter, Saturno, Urano e Netuno, desafiaram a nossa compreensão da formação e evolução planetária. Especificamente, suas formações e composições atmosféricas proporcionaram inspiração.",
-    "excerpt_pt": "Os planetas gigantes do nosso sistema solar, Júpiter, Saturno, Urano e Netuno, desafiaram a nossa compreensão da formação e evolução planetária. Especificamente, suas formações e composições atmosféricas proporcionaram inspiração.",
-    "excerpt_en": "The giant planets in our solar system, Jupiter, Saturn, Uranus, and Neptune, have challenged our understanding of planetary formation and evolution. Specifically, their atmospheric formations and compositions have provided awe-inspiring.",
-    "body": "<p>Os planetas gigantes do nosso sistema solar, Júpiter, Saturno, Urano e Netuno, desafiaram a nossa compreensão da formação e evolução planetária. Especificamente, suas formações e composições atmosféricas proporcionaram inspiração. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Agora, uma equipa internacional de investigadores poderá ajudar a colmatar esta lacuna de conhecimento, estudando a atmosfera de um exoplaneta super-Júpiter, utilizando um dos. Para o estudo, os pesquisadores usaram o Telescópio Espacial James Webb (JWST) da NASA para analisar a atmosfera de Eps Ind Ab, que se estima ter várias massas maiores que Júpiter.</p><p>Ele orbita aproximadamente 30 unidades astronômicas (UA), ou próximo à órbita de Netuno, de sua estrela do tipo K, Eps Ind A. Embora este sistema tenha duas anãs marrons que orbitam uma à outra, Epsilon Indi Ba e Bb, elas estão localizadas a aproximadamente 1.460 UA da estrela primária de Eps Ind A.</p><p>Eps Ind Ab é conhecido como um exoplaneta frio com uma temperatura estimada de aproximadamente 275 Kelvin (2 graus Celsius/35 graus Fahrenheit). Embora a amônia já tivesse sido descoberta na atmosfera de Eps Ind Ab em um estudo de 2024, essa equipe também observou que a atmosfera de Eps Ind Ab era mais brilhante do que o.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/webb-finds-water-ice-clouds-on-nearby-super-jupiter\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os planetas gigantes do nosso sistema solar, Júpiter, Saturno, Urano e Netuno, desafiaram a nossa compreensão da formação e evolução planetária. Especificamente, suas formações e composições atmosféricas proporcionaram inspiração. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Agora, uma equipa internacional de investigadores poderá ajudar a colmatar esta lacuna de conhecimento, estudando a atmosfera de um exoplaneta super-Júpiter, utilizando um dos. Para o estudo, os pesquisadores usaram o Telescópio Espacial James Webb (JWST) da NASA para analisar a atmosfera de Eps Ind Ab, que se estima ter várias massas maiores que Júpiter.</p><p>Ele orbita aproximadamente 30 unidades astronômicas (UA), ou próximo à órbita de Netuno, de sua estrela do tipo K, Eps Ind A. Embora este sistema tenha duas anãs marrons que orbitam uma à outra, Epsilon Indi Ba e Bb, elas estão localizadas a aproximadamente 1.460 UA da estrela primária de Eps Ind A.</p><p>Eps Ind Ab é conhecido como um exoplaneta frio com uma temperatura estimada de aproximadamente 275 Kelvin (2 graus Celsius/35 graus Fahrenheit). Embora a amônia já tivesse sido descoberta na atmosfera de Eps Ind Ab em um estudo de 2024, essa equipe também observou que a atmosfera de Eps Ind Ab era mais brilhante do que o.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/webb-finds-water-ice-clouds-on-nearby-super-jupiter\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The giant planets in our solar system, Jupiter, Saturn, Uranus, and Neptune, have challenged our understanding of planetary formation and evolution. Specifically, their atmospheric formations and compositions have provided awe-inspiring. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. Now, an international team of researchers might help close this knowledge gap by studying the atmosphere of a super-Jupiter exoplanet using one of NASA’s most powerful space. For the study, the researchers used NASA’s James Webb Space Telescope (JWST) to analyze the atmosphere of Eps Ind Ab, which is estimated to be several masses larger than Jupiter.</p><p>It orbits approximately 30 astronomical units (AU), or about the orbit of Neptune, from its K-type star, Eps Ind A. While this system does have two brown dwarfs that orbit each other, Epsilon Indi Ba and Bb, they are located approximately 1,460 AU from the primary star of Eps Ind A.</p><p>Eps Ind Ab is known as a cold exoplanet with an estimated temperature of approximately 275 Kelvin (2 degrees Celsius/35 degrees Fahrenheit). While ammonia had previously been discovered in the atmosphere of Eps Ind Ab in a 2024 study, that team also observed the atmosphere of Eps Ind Ab to be brighter than they.</p><p>Using a higher observation wavelength than in the 2024 study, this study found that Eps Ind Ab was even brighter at this new wavelength, but the team found the amount of ammonia. “It’s a great problem to have, and it speaks to the immense progress we’re making thanks to JWST,” said James Mang, who is a PhD student at the University of Texas at Austin and a.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>This reveals new layers of complexity that our models are now beginning to capture and opens the door to even more detailed characterization of these cold, distant worlds.”. Orbital eccentricity is measured from 0 to 10 with 0 being a perfect circle.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/webb-finds-water-ice-clouds-on-nearby-super-jupiter\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "As erupções estelares podem expandir zonas habitáveis ​​em torno de pequenas estrelas",
+    "title_pt": "As erupções estelares podem expandir zonas habitáveis ​​em torno de pequenas estrelas",
+    "title_en": "Stellar flares may expand habitable zones around small stars",
+    "sub": "A busca por vida fora da Terra tem se concentrado tradicionalmente em exoplanetas orbitando estrelas semelhantes ao Sol, que é uma estrela do tipo G. No entanto, estrelas de baixa.",
+    "sub_pt": "A busca por vida fora da Terra tem se concentrado tradicionalmente em exoplanetas orbitando estrelas semelhantes ao Sol, que é uma estrela do tipo G. No entanto, estrelas de baixa.",
+    "sub_en": "The search for life beyond Earth has traditionally focused on exoplanets orbiting sun-like stars, which is a G-type star. However, low-mass stars, which are designated as K-type.",
+    "excerpt": "A busca por vida fora da Terra tem se concentrado tradicionalmente em exoplanetas orbitando estrelas semelhantes ao Sol, que é uma estrela do tipo G. No entanto, estrelas de baixa massa, designadas como estrelas do tipo K e do tipo M, tornaram-se rapidamente.",
+    "excerpt_pt": "A busca por vida fora da Terra tem se concentrado tradicionalmente em exoplanetas orbitando estrelas semelhantes ao Sol, que é uma estrela do tipo G. No entanto, estrelas de baixa massa, designadas como estrelas do tipo K e do tipo M, tornaram-se rapidamente.",
+    "excerpt_en": "The search for life beyond Earth has traditionally focused on exoplanets orbiting sun-like stars, which is a G-type star. However, low-mass stars, which are designated as K-type and M-type stars, have rapidly become a target for.",
+    "body": "<p>A busca por vida fora da Terra tem se concentrado tradicionalmente em exoplanetas orbitando estrelas semelhantes ao Sol, que é uma estrela do tipo G. No entanto, estrelas de baixa massa, designadas como estrelas do tipo K e do tipo M, tornaram-se rapidamente um alvo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. A busca por vida fora da Terra tem se concentrado tradicionalmente em exoplanetas orbitando estrelas semelhantes ao Sol, que é uma estrela do tipo G. Os editores destacaram os seguintes atributos garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial The Innovation (2026).</p><p>. xinn.2026.101265&quot;&gt; Ilustração gráfica representando a zona habitável em água líquida (LW-HZ) e a zona habitável ultravioleta (UV-HZ) examinadas neste estudo. . xinn.2026.101265 A busca por vida além da Terra tem se concentrado tradicionalmente em exoplanetas orbitando estrelas semelhantes ao Sol, que é uma estrela do tipo G.</p><p>As suas descobertas foram publicadas recentemente no The Innovation e poderão ajudar os cientistas a compreender melhor os parâmetros e condições de descoberta de vida fora da. Os pesquisadores aplicaram seus modelos a nove exoplanetas confirmados orbitando estrelas do tipo K e do tipo M: Kepler-1540 b (tipo K), KOI-7703.01 (tipo K), KOI-8047.01 (tipo.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-stellar-flares-habitable-zones-small.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A busca por vida fora da Terra tem se concentrado tradicionalmente em exoplanetas orbitando estrelas semelhantes ao Sol, que é uma estrela do tipo G. No entanto, estrelas de baixa massa, designadas como estrelas do tipo K e do tipo M, tornaram-se rapidamente um alvo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. A busca por vida fora da Terra tem se concentrado tradicionalmente em exoplanetas orbitando estrelas semelhantes ao Sol, que é uma estrela do tipo G. Os editores destacaram os seguintes atributos garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial The Innovation (2026).</p><p>. xinn.2026.101265&quot;&gt; Ilustração gráfica representando a zona habitável em água líquida (LW-HZ) e a zona habitável ultravioleta (UV-HZ) examinadas neste estudo. . xinn.2026.101265 A busca por vida além da Terra tem se concentrado tradicionalmente em exoplanetas orbitando estrelas semelhantes ao Sol, que é uma estrela do tipo G.</p><p>As suas descobertas foram publicadas recentemente no The Innovation e poderão ajudar os cientistas a compreender melhor os parâmetros e condições de descoberta de vida fora da. Os pesquisadores aplicaram seus modelos a nove exoplanetas confirmados orbitando estrelas do tipo K e do tipo M: Kepler-1540 b (tipo K), KOI-7703.01 (tipo K), KOI-8047.01 (tipo.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-stellar-flares-habitable-zones-small.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The search for life beyond Earth has traditionally focused on exoplanets orbiting sun-like stars, which is a G-type star. However, low-mass stars, which are designated as K-type and M-type stars, have rapidly become a target for. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. The search for life beyond Earth has traditionally focused on exoplanets orbiting sun-like stars, which is a G-type star. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source The Innovation (2026).</p><p>. xinn.2026.101265&quot;&gt; Graphical illustration depicting the liquid water habitable zone (LW-HZ) and the ultraviolet habitable zone (UV-HZ) examained in this study. . xinn.2026.101265 The search for life beyond Earth has traditionally focused on exoplanets orbiting sun-like stars, which is a G-type star.</p><p>Their findings were recently published in The Innovation and could help scientists better understand the parameters and conditions of finding life beyond Earth, and specifically. The researchers applied their models to nine confirmed exoplanets orbiting K-type and M-type stars: Kepler-1540 b (K-type), KOI-7703.01 (K-type), KOI-8047.01 (M-type), Kepler-155.</p><p>All these exoplanets have been confirmed or likely confirmed as being rocky except for Kepler-1540 b, which has been designated as a Neptune-like exoplanet. The researchers note how further observations on Kepler-1540 b, Kepler-438 b, and Kepler-155 c are needed to confirm the habitability of their surface temperatures.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>By re-evaluating the habitable zones and creating a comprehensive catalog of planets within them, we can infer that terrestrial planets in both liquid water and UV radiation. As noted, K-type and M-type stars are both smaller and cooler than our sun with average masses of 0.45, 0.8 solar masses and 0.08, 0.45 solar masses, respectively.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-stellar-flares-habitable-zones-small.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Os planetas gigantes do nosso sistema solar, Júpiter, Saturno, Urano e Netuno, desafiaram a nossa compreensão da formação e evolução planetária.",
-      "Dado-chave: Agora, uma equipa internacional de investigadores poderá ajudar a colmatar esta lacuna de conhecimento, estudando a atmosfera de um exoplaneta.",
+      "Ponto central: A busca por vida fora da Terra tem se concentrado tradicionalmente em exoplanetas orbitando estrelas semelhantes ao Sol, que é uma estrela do tipo G.",
+      "Dado-chave: A busca por vida fora da Terra tem se concentrado tradicionalmente em exoplanetas orbitando estrelas semelhantes ao Sol, que é uma estrela do.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Os planetas gigantes do nosso sistema solar, Júpiter, Saturno, Urano e Netuno, desafiaram a nossa compreensão da formação e evolução planetária.",
-      "Dado-chave: Agora, uma equipa internacional de investigadores poderá ajudar a colmatar esta lacuna de conhecimento, estudando a atmosfera de um exoplaneta.",
+      "Ponto central: A busca por vida fora da Terra tem se concentrado tradicionalmente em exoplanetas orbitando estrelas semelhantes ao Sol, que é uma estrela do tipo G.",
+      "Dado-chave: A busca por vida fora da Terra tem se concentrado tradicionalmente em exoplanetas orbitando estrelas semelhantes ao Sol, que é uma estrela do.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: The giant planets in our solar system, Jupiter, Saturn, Uranus, and Neptune, have challenged our understanding of planetary formation and evolution.",
-      "Key detail: Now, an international team of researchers might help close this knowledge gap by studying the atmosphere of a super-Jupiter exoplanet using one.",
+      "Core point: The search for life beyond Earth has traditionally focused on exoplanets orbiting sun-like stars, which is a G-type star. However, low-mass stars.",
+      "Key detail: The search for life beyond Earth has traditionally focused on exoplanets orbiting sun-like stars, which is a G-type star.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "26 abr 2026",
-    "date_pt": "26 abr 2026",
-    "date_en": "26 Apr 2026",
-    "time": "04h05",
-    "time_pt": "04h05",
-    "time_en": "04:05 UTC",
+    "date": "22 abr 2026",
+    "date_pt": "22 abr 2026",
+    "date_en": "22 Apr 2026",
+    "time": "23h00",
+    "time_pt": "23h00",
+    "time_en": "23:00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-26T04:05:48+00:00",
-    "lastModifiedIso": "2026-04-26T04:05:48+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
+    "publishedIso": "2026-04-22T23:00:05+00:00",
+    "lastModifiedIso": "2026-04-22T23:00:05+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -2362,29 +2226,26 @@ window.postsData = [
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
       "Exoplanetas",
-      "Universe Today",
+      "Phys.org Space",
       "Cosmos Week",
-      "Webb encontra nuvens de água gelada em Super",
-      "Júpiter próximo"
+      "As erupções estelares podem expandir zonas habitáveis ​​em torno de pequenas estrelas"
     ],
     "keywords_pt": [
       "Exoplanetas",
-      "Universe Today",
+      "Phys.org Space",
       "Cosmos Week",
-      "Webb encontra nuvens de água gelada em Super",
-      "Júpiter próximo"
+      "As erupções estelares podem expandir zonas habitáveis ​​em torno de pequenas estrelas"
     ],
     "keywords_en": [
       "Exoplanets",
-      "Universe Today",
+      "Phys.org Space",
       "Cosmos Week",
-      "Webb finds water ice clouds in Super",
-      "Jupiter nearby"
+      "Stellar flares can expand habitable zones around small stars"
     ],
-    "srcUrl": "https://www.universetoday.com/articles/webb-finds-water-ice-clouds-on-nearby-super-jupiter",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-finds-water-ice-clouds-on-nearby-super-jupiter",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-finds-water-ice-clouds-on-nearby-super-jupiter",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-finds-water-ice-clouds-on-nearby-super-jupiter&lang=en",
+    "srcUrl": "https://phys.org/news/2026-04-stellar-flares-habitable-zones-small.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=stellar-flares-may-expand-habitable-zones-around-small-stars",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=stellar-flares-may-expand-habitable-zones-around-small-stars",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=stellar-flares-may-expand-habitable-zones-around-small-stars&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -2397,15 +2258,15 @@ window.postsData = [
     "geminiModel": "gemini-2.0-flash",
     "score": 75,
     "scoreBreakdown": {
-      "source": 73,
+      "source": 76,
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 52
+      "novelty": 46
     }
   },
   {
-    "id": 20,
+    "id": 19,
     "slug": "another-instrument-shut-down-on-voyager-1-to-extend-its-interstellar-mission",
     "cat": "Física",
     "catCls": "fisica",
@@ -2529,7 +2390,7 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
+    "id": 20,
     "slug": "nsf-launches-100m-national-quantum-and-nanotechnology-research-infrastructure-program",
     "cat": "Física",
     "catCls": "fisica",
@@ -2662,7 +2523,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 21,
     "slug": "volunteers-help-nasa-astronauts-record-lunar-flashes",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2777,12 +2638,40 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 22,
     "slug": "braving-the-arctic-for-upcoming-polar-focused-satellites",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/not_your_normal_commute/27239667-3-eng-GB/Not_your_normal_commute_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/01/copernicus_sentinel_expansion_missions/23894690-8-eng-GB/Copernicus_Sentinel_Expansion_missions_article.jpg",
+        "caption": "Missões de Expansão Sentinela Copernicus",
+        "caption_pt": "Missões de Expansão Sentinela Copernicus",
+        "caption_en": "Copernicus Sentinel Expansion Missions",
+        "alt": "Missões de Expansão Sentinela Copernicus",
+        "alt_pt": "Missões de Expansão Sentinela Copernicus",
+        "alt_en": "Copernicus Sentinel Expansion Missions"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/measurements_taken_simultaneously_from_the_ground_and_from_an_aircraft/27239761-1-eng-GB/Measurements_taken_simultaneously_from_the_ground_and_from_an_aircraft_article.jpg",
+        "caption": "Medições feitas simultaneamente no solo e em uma aeronave",
+        "caption_pt": "Medições feitas simultaneamente no solo e em uma aeronave",
+        "caption_en": "Measurements taken simultaneously from the ground and from an aircraft",
+        "alt": "Medições feitas simultaneamente no solo e em uma aeronave",
+        "alt_pt": "Medições feitas simultaneamente no solo e em uma aeronave",
+        "alt_en": "Measurements taken simultaneously from the ground and from an aircraft"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/arctic_campaign_tracks/27239714-1-eng-GB/Arctic_campaign_tracks_article.jpg",
+        "caption": "Trilhas de campanha no Ártico",
+        "caption_pt": "Trilhas de campanha no Ártico",
+        "caption_en": "Arctic campaign tracks",
+        "alt": "Trilhas de campanha no Ártico",
+        "alt_pt": "Trilhas de campanha no Ártico",
+        "alt_en": "Arctic campaign tracks"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Enfrentando o Ártico em busca dos próximos satélites com foco polar",
@@ -2794,9 +2683,9 @@ window.postsData = [
     "excerpt": "À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente. Para enfrentar este desafio, a Agência Espacial Europeia está a desenvolver três novos satélites Copernicus, cada um empregando.",
     "excerpt_pt": "À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente. Para enfrentar este desafio, a Agência Espacial Europeia está a desenvolver três novos satélites Copernicus, cada um empregando.",
     "excerpt_en": "As sea ice continues to succumb to the climate crisis, measuring its decline with precision has never been more urgent. To meet this challenge, the European Space Agency is developing three new Copernicus satellites, each employing.",
-    "body": "<p>À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente. Para enfrentar este desafio, a Agência Espacial Europeia está a desenvolver três novos satélites Copernicus, cada um empregando. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Para garantir que os dados destes novos satélites sejam nítidos, uma equipa internacional de cientistas experientes está agora no mar Ártico. À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente.</p><p>Para enfrentar este desafio, a Agência Espacial Europeia está a desenvolver três novos satélites Copernicus, cada um empregando técnicas distintas mas complementares para. Para garantir que os dados destes novos satélites sejam nítidos, uma equipa internacional de cientistas experientes está agora no gelo marinho do Ártico, enfrentando o frio e.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Braving_the_Arctic_for_upcoming_polar-focused_satellites\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente. Para enfrentar este desafio, a Agência Espacial Europeia está a desenvolver três novos satélites Copernicus, cada um empregando. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Para garantir que os dados destes novos satélites sejam nítidos, uma equipa internacional de cientistas experientes está agora no mar Ártico. À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente.</p><p>Para enfrentar este desafio, a Agência Espacial Europeia está a desenvolver três novos satélites Copernicus, cada um empregando técnicas distintas mas complementares para. Para garantir que os dados destes novos satélites sejam nítidos, uma equipa internacional de cientistas experientes está agora no gelo marinho do Ártico, enfrentando o frio e.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Braving_the_Arctic_for_upcoming_polar-focused_satellites\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>As sea ice continues to succumb to the climate crisis, measuring its decline with precision has never been more urgent. To meet this challenge, the European Space Agency is developing three new Copernicus satellites, each employing. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. To ensure the data from these new satellites are razor-sharp, an international team of hardy scientists is now out on the Arctic sea. As sea ice continues to succumb to the climate crisis, measuring its decline with precision has never been more urgent.</p><p>To meet this challenge, the European Space Agency is developing three new Copernicus satellites, each employing distinct but complementary techniques to monitor this fragile. To ensure the data from these new satellites are razor-sharp, an international team of hardy scientists is now out on the Arctic sea ice braving the cold and flying above to.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Braving_the_Arctic_for_upcoming_polar-focused_satellites\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente. Para enfrentar este desafio, a Agência Espacial Europeia está a desenvolver três novos satélites Copernicus, cada um empregando. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Para garantir que os dados destes novos satélites sejam nítidos, uma equipa internacional de cientistas experientes está agora no mar Ártico. À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente.</p><p>Para enfrentar este desafio, a Agência Espacial Europeia está a desenvolver três novos satélites Copernicus, cada um empregando técnicas distintas mas complementares para. Para garantir que os dados destes novos satélites sejam nítidos, uma equipa internacional de cientistas experientes está agora no gelo marinho do Ártico, enfrentando o frio e.</p><p>Estas são três das seis missões de expansão Copernicus Sentinel que a ESA está a construir para o Copernicus, a componente de observação da Terra do programa espacial da União. Utilizando diferentes técnicas de observação e abordando uma vasta gama de aplicações, este novo conjunto de seis missões responderá às prioridades políticas da UE e às lacunas.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Braving_the_Arctic_for_upcoming_polar-focused_satellites\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente. Para enfrentar este desafio, a Agência Espacial Europeia está a desenvolver três novos satélites Copernicus, cada um empregando. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Para garantir que os dados destes novos satélites sejam nítidos, uma equipa internacional de cientistas experientes está agora no mar Ártico. À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente.</p><p>Para enfrentar este desafio, a Agência Espacial Europeia está a desenvolver três novos satélites Copernicus, cada um empregando técnicas distintas mas complementares para. Para garantir que os dados destes novos satélites sejam nítidos, uma equipa internacional de cientistas experientes está agora no gelo marinho do Ártico, enfrentando o frio e.</p><p>Estas são três das seis missões de expansão Copernicus Sentinel que a ESA está a construir para o Copernicus, a componente de observação da Terra do programa espacial da União. Utilizando diferentes técnicas de observação e abordando uma vasta gama de aplicações, este novo conjunto de seis missões responderá às prioridades políticas da UE e às lacunas.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Braving_the_Arctic_for_upcoming_polar-focused_satellites\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>As sea ice continues to succumb to the climate crisis, measuring its decline with precision has never been more urgent. To meet this challenge, the European Space Agency is developing three new Copernicus satellites, each employing. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. To ensure the data from these new satellites are razor-sharp, an international team of hardy scientists is now out on the Arctic sea. As sea ice continues to succumb to the climate crisis, measuring its decline with precision has never been more urgent.</p><p>To meet this challenge, the European Space Agency is developing three new Copernicus satellites, each employing distinct but complementary techniques to monitor this fragile. To ensure the data from these new satellites are razor-sharp, an international team of hardy scientists is now out on the Arctic sea ice braving the cold and flying above to.</p><p>These are three of six Copernicus Sentinel Expansion missions that ESA is building for Copernicus, the Earth observation component of the European Union’s Space programme. Using different observing techniques and addressing a broad range of applications, this new suite of six missions will respond to EU policy priorities and gaps in Copernicus user.</p><p>These field campaigns provide a critical bridge between instrument design and a satellite working perfectly in space, even if a new measuring instrument is based on proven. By collecting observations in the field and comparing them with airborne measurements and existing satellite data, researchers can calibrate sensors, improve data products and.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Properties such as snow depth and snow salinity, ice thickness and surface roughness are all part of the Earth system and are changing rapidly in the polar regions in response to. This is why scientists from numerous institutes including, for example, the University of Calgary, the Technical University of Denmark, the Alfred Wegener Institute, NASA and ESA.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Braving_the_Arctic_for_upcoming_polar-focused_satellites\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: À medida que o gelo marinho continua a sucumbir à crise climática, medir o seu declínio com precisão nunca foi tão urgente. Para enfrentar este.",
       "Dado-chave: Para garantir que os dados destes novos satélites sejam nítidos, uma equipa internacional de cientistas experientes está agora no mar Ártico.",
@@ -2882,7 +2771,245 @@ window.postsData = [
     }
   },
   {
+    "id": 23,
+    "slug": "nasa-astronauts-to-answer-questions-from-missouri-students",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/04/jessica-meir-and-jack-hathaway-downlink-advisory-april-24.jpg?w=1920",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Astronautas da NASA responderão a perguntas de estudantes do Missouri",
+    "title_pt": "Astronautas da NASA responderão a perguntas de estudantes do Missouri",
+    "title_en": "NASA Astronauts to Answer Questions from Missouri Students",
+    "sub": "Os alunos no Missouri ouvirão os astronautas da NASA Jessica Meir e Jack Hathaway enquanto eles respondem a perguntas pré-gravadas de ciência, tecnologia, engenharia e matemática.",
+    "sub_pt": "Os alunos no Missouri ouvirão os astronautas da NASA Jessica Meir e Jack Hathaway enquanto eles respondem a perguntas pré-gravadas de ciência, tecnologia, engenharia e matemática.",
+    "sub_en": "Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering, and mathematics questions while.",
+    "excerpt": "Os alunos no Missouri ouvirão os astronautas da NASA Jessica Meir e Jack Hathaway enquanto eles respondem a perguntas pré-gravadas de ciência, tecnologia, engenharia e matemática a bordo da Estação Espacial Internacional. A chamada da Terra para o espaço.",
+    "excerpt_pt": "Os alunos no Missouri ouvirão os astronautas da NASA Jessica Meir e Jack Hathaway enquanto eles respondem a perguntas pré-gravadas de ciência, tecnologia, engenharia e matemática a bordo da Estação Espacial Internacional. A chamada da Terra para o espaço.",
+    "excerpt_en": "Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering, and mathematics questions while aboard the International Space Station. The Earth-to-space call.",
+    "body": "<p>Os alunos no Missouri ouvirão os astronautas da NASA Jessica Meir e Jack Hathaway enquanto eles respondem a perguntas pré-gravadas de ciência, tecnologia, engenharia e matemática a bordo da Estação Espacial Internacional. A chamada da Terra para o espaço. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Os astronautas da NASA (a partir da esquerda) Jack Hathaway e Jessica Meir são fotografados em janeiro. Washington 202-358-1600 gerelle. q. dodson@nasa. gov Centro Espacial Sandra Jones Johnson.</p><p>Houston 281-483-5111 sandra. p. jones@nasa. gov Detalhes de compartilhamento Última atualização em 24 de abril de. 2026 Localização Sede da NASA Termos relacionados Educação a bordo Downlinks Humanos no Espaço Estação Espacial Internacional (ISS) Centro Espacial Johnson Recursos de.</p><p>AVISO DE MÍDIA M26-034 Sede da NASA Centro Espacial Johnson Astronautas da NASA (a partir da esquerda) Jack Hathaway e Jessica Meir são fotografados em 2 de janeiro de 2019.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os alunos no Missouri ouvirão os astronautas da NASA Jessica Meir e Jack Hathaway enquanto eles respondem a perguntas pré-gravadas de ciência, tecnologia, engenharia e matemática a bordo da Estação Espacial Internacional. A chamada da Terra para o espaço. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Os astronautas da NASA (a partir da esquerda) Jack Hathaway e Jessica Meir são fotografados em janeiro. Washington 202-358-1600 gerelle. q. dodson@nasa. gov Centro Espacial Sandra Jones Johnson.</p><p>Houston 281-483-5111 sandra. p. jones@nasa. gov Detalhes de compartilhamento Última atualização em 24 de abril de. 2026 Localização Sede da NASA Termos relacionados Educação a bordo Downlinks Humanos no Espaço Estação Espacial Internacional (ISS) Centro Espacial Johnson Recursos de.</p><p>AVISO DE MÍDIA M26-034 Sede da NASA Centro Espacial Johnson Astronautas da NASA (a partir da esquerda) Jack Hathaway e Jessica Meir são fotografados em 2 de janeiro de 2019.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering, and mathematics questions while aboard the International Space Station. The Earth-to-space call. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering, and mathematics (STEM) questions. NASA astronauts (from left) Jack Hathaway and Jessica Meir are photographed on Jan.</p><p>Washington 202-358-1600 gerelle. q. dodson@nasa. gov Sandra Jones Johnson Space Center. Houston 281-483-5111 sandra. p. jones@nasa. gov Share Details Last Updated Apr 24.</p><p>2026 Location NASA Headquarters Related Terms In-flight Education Downlinks Humans in Space International Space Station (ISS) Johnson Space Center Learning Resources NASA. MEDIA ADVISORY M26-034 NASA Headquarters Johnson Space Center NASA astronauts (from left) Jack Hathaway and Jessica Meir are photographed on Jan.</p><p>12, 2026, in their pressure suits and inside the Dragon spacecraft during the Crew Equipment Interface Test at NASA’s Kennedy Space Center in Florida. SpaceX Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering, and mathematics (STEM).</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The Earth-to-space call will begin at 10: 50 a. m. EDT Thursday, April 30, and will stream live on the agency’s Learn With NASA YouTube channel.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os alunos no Missouri ouvirão os astronautas da NASA Jessica Meir e Jack Hathaway enquanto eles respondem a perguntas pré-gravadas de ciência.",
+      "Dado-chave: Os alunos no Missouri ouvirão os astronautas da NASA Jessica Meir e Jack Hathaway enquanto eles respondem a perguntas pré-gravadas de ciência.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os alunos no Missouri ouvirão os astronautas da NASA Jessica Meir e Jack Hathaway enquanto eles respondem a perguntas pré-gravadas de ciência.",
+      "Dado-chave: Os alunos no Missouri ouvirão os astronautas da NASA Jessica Meir e Jack Hathaway enquanto eles respondem a perguntas pré-gravadas de ciência.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering, and.",
+      "Key detail: Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "24 abr 2026",
+    "date_pt": "24 abr 2026",
+    "date_en": "24 Apr 2026",
+    "time": "14h47",
+    "time_pt": "14h47",
+    "time_en": "14:47 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-24T14:47:12+00:00",
+    "lastModifiedIso": "2026-04-24T14:47:12+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Astronautas da NASA responderão a perguntas de estudantes do Missouri"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Astronautas da NASA responderão a perguntas de estudantes do Missouri"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA astronauts will answer questions from Missouri students"
+    ],
+    "srcUrl": "https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-astronauts-to-answer-questions-from-missouri-students",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-astronauts-to-answer-questions-from-missouri-students",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-astronauts-to-answer-questions-from-missouri-students&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 62,
+      "accessibility": 60,
+      "novelty": 49
+    }
+  },
+  {
     "id": 24,
+    "slug": "you-can-help-humans-thrive-in-space",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/esnt/EarthSet.png?w=2988&h=1992&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/2026/Jeff_Matthew_Citizen_Science_Exo_5F5A9487_lo-Bryan_Simpson.jpg?w=2400&h=1600&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/HARP_graphic.jpg?w=1920&h=1080&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/emerge_project.jpg?w=1600&h=1200&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Você pode ajudar os humanos a prosperar no espaço",
+    "title_pt": "Você pode ajudar os humanos a prosperar no espaço",
+    "title_en": "You Can Help Humans Thrive in Space",
+    "sub": "A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro voo tripulado para o espaço profundo desde 1972. Nem todo mundo tem a chance de vestir um.",
+    "sub_pt": "A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro voo tripulado para o espaço profundo desde 1972. Nem todo mundo tem a chance de vestir um.",
+    "sub_en": "The second Artemis mission took four astronauts around the moon and back, the first crewed deep-space flight since 1972. Not everyone gets a chance to put on a space suit, but you.",
+    "excerpt": "A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro voo tripulado para o espaço profundo desde 1972. Nem todo mundo tem a chance de vestir um traje espacial, mas você ainda pode ser uma parte importante do espaço humano da.",
+    "excerpt_pt": "A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro voo tripulado para o espaço profundo desde 1972. Nem todo mundo tem a chance de vestir um traje espacial, mas você ainda pode ser uma parte importante do espaço humano da.",
+    "excerpt_en": "The second Artemis mission took four astronauts around the moon and back, the first crewed deep-space flight since 1972. Not everyone gets a chance to put on a space suit, but you can still be an important part of NASA’s human space.",
+    "body": "<p>A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro voo tripulado para o espaço profundo desde 1972. Nem todo mundo tem a chance de vestir um traje espacial, mas você ainda pode ser uma parte importante do espaço humano da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Confira todos os projetos atuais apoiados pela NASA que precisam de sua ajuda para responder perguntas sobre nosso universo, sistema solar e Terra. A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro voo tripulado no espaço profundo desde 1972.</p><p>Artigo A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro vôo tripulado ao espaço profundo desde 1972. Nem todo mundo tem a chance de vestir um traje espacial, mas você ainda pode ser uma parte importante da história da exploração espacial humana da NASA fazendo ciência da NASA.</p><p>Voluntários dos projetos de ciência cidadã da NASA testaram variedades de plantas de pimenta para crescer no espaço, monitoraram regiões ativas no Sol e analisaram dados de. A participação não requer cidadania de nenhum país em particular, você só precisa de amor pela ciência e desejo de ajudar.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/get-involved/citizen-science/you-can-help-humans-thrive-in-space/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro voo tripulado para o espaço profundo desde 1972. Nem todo mundo tem a chance de vestir um traje espacial, mas você ainda pode ser uma parte importante do espaço humano da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Confira todos os projetos atuais apoiados pela NASA que precisam de sua ajuda para responder perguntas sobre nosso universo, sistema solar e Terra. A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro voo tripulado no espaço profundo desde 1972.</p><p>Artigo A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro vôo tripulado ao espaço profundo desde 1972. Nem todo mundo tem a chance de vestir um traje espacial, mas você ainda pode ser uma parte importante da história da exploração espacial humana da NASA fazendo ciência da NASA.</p><p>Voluntários dos projetos de ciência cidadã da NASA testaram variedades de plantas de pimenta para crescer no espaço, monitoraram regiões ativas no Sol e analisaram dados de. A participação não requer cidadania de nenhum país em particular, você só precisa de amor pela ciência e desejo de ajudar.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/get-involved/citizen-science/you-can-help-humans-thrive-in-space/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The second Artemis mission took four astronauts around the moon and back, the first crewed deep-space flight since 1972. Not everyone gets a chance to put on a space suit, but you can still be an important part of NASA’s human space. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Check out all the current projects supported by NASA that need your help answering questions about our universe, solar system, and Earth. The second Artemis mission took four astronauts around the moon and back, the first crewed deep-space flight since 1972.</p><p>Article The second Artemis mission took four astronauts around the moon and back, the first crewed deep-space flight since 1972. Not everyone gets a chance to put on a space suit, but you can still be an important part of NASA’s human space exploration story by doing NASA science.</p><p>Volunteers with NASA’s citizen science projects have tested chili pepper plant varieties to grow in space, monitored active regions on the Sun, and analyzed data from experiments. Participation does not require citizenship in any particular country, you only need a love of science and a desire to help.</p><p>Join one of the projects below and help NASA make space travel safer and healthier. The brief online project tutorial will teach you how to read data collected by NASA’s Magnetosphere Multiscale (MMS) mission, which has been flying back and forth across Earth’s.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Through Growing Beyond Earth, middle and high school students and their teachers collaborate with Fairchild Botanical Garden scientists to grow candidate plants that are being. Do you have some experience with data analysis.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/get-involved/citizen-science/you-can-help-humans-thrive-in-space/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro voo tripulado para o espaço profundo desde 1972. Nem todo.",
+      "Dado-chave: Confira todos os projetos atuais apoiados pela NASA que precisam de sua ajuda para responder perguntas sobre nosso universo, sistema solar e.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A segunda missão Artemis levou quatro astronautas ao redor da Lua e de volta, o primeiro voo tripulado para o espaço profundo desde 1972. Nem todo.",
+      "Dado-chave: Confira todos os projetos atuais apoiados pela NASA que precisam de sua ajuda para responder perguntas sobre nosso universo, sistema solar e.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The second Artemis mission took four astronauts around the moon and back, the first crewed deep-space flight since 1972. Not everyone gets a chance.",
+      "Key detail: Check out all the current projects supported by NASA that need your help answering questions about our universe, solar system, and Earth.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "27 abr 2026",
+    "date_pt": "27 abr 2026",
+    "date_en": "27 Apr 2026",
+    "time": "15h54",
+    "time_pt": "15h54",
+    "time_en": "15:54 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-27T15:54:01+00:00",
+    "lastModifiedIso": "2026-04-27T15:54:01+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Você pode ajudar os humanos a prosperar no espaço"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Você pode ajudar os humanos a prosperar no espaço"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "You can help humans thrive in space"
+    ],
+    "srcUrl": "https://science.nasa.gov/get-involved/citizen-science/you-can-help-humans-thrive-in-space/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=you-can-help-humans-thrive-in-space",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=you-can-help-humans-thrive-in-space",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=you-can-help-humans-thrive-in-space&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 82,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 25,
     "slug": "smile-set-to-launch-on-19-may",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3015,12 +3142,40 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "plato-aces-space-like-tests",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/close-up_of_plato_s_cameras/27212574-1-eng-GB/Close-up_of_Plato_s_cameras_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/close-up_of_plato_s_cameras/27212574-1-eng-GB/Close-up_of_Plato_s_cameras_pillars.jpg",
+        "caption": "Close das câmeras de Platão",
+        "caption_pt": "Close das câmeras de Platão",
+        "caption_en": "Close-up of Plato’s cameras",
+        "alt": "Close das câmeras de Platão",
+        "alt_pt": "Close das câmeras de Platão",
+        "alt_en": "Close-up of Plato’s cameras"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/lifting_plato_out_of_the_large_space_simulator/27212621-1-eng-GB/Lifting_Plato_out_of_the_Large_Space_Simulator_pillars.jpg",
+        "caption": "Tirando Platão do Grande Simulador Espacial",
+        "caption_pt": "Tirando Platão do Grande Simulador Espacial",
+        "caption_en": "Lifting Plato out of the Large Space Simulator",
+        "alt": "Tirando Platão do Grande Simulador Espacial",
+        "alt_pt": "Tirando Platão do Grande Simulador Espacial",
+        "alt_en": "Lifting Plato out of the Large Space Simulator"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/plato_leaves_the_large_space_simulator/27212668-1-eng-GB/Plato_leaves_the_Large_Space_Simulator_pillars.jpg",
+        "caption": "Platão deixa o Grande Simulador de Espaço",
+        "caption_pt": "Platão deixa o Grande Simulador de Espaço",
+        "caption_en": "Plato leaves the Large Space Simulator",
+        "alt": "Platão deixa o Grande Simulador de Espaço",
+        "alt_pt": "Platão deixa o Grande Simulador de Espaço",
+        "alt_en": "Plato leaves the Large Space Simulator"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Platão acerta testes espaciais",
@@ -3032,22 +3187,22 @@ window.postsData = [
     "excerpt": "A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra.",
     "excerpt_pt": "A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra.",
     "excerpt_en": "The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial.",
-    "body": "<p>A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial planets.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres. Plato emergiu recentemente da câmara do Large Space Simulator (LSS) no Centro de Testes da ESA, onde a nave espacial conheceu pela primeira vez os rigores do espaço.</p><p>O objetivo geral da missão é descobrir planetas potencialmente habitáveis, semelhantes à Terra, em torno de estrelas brilhantes semelhantes ao Sol. Para isso, o desempenho das 26 câmeras ultrassensíveis de Platão é crucial.</p><p>“Para encontrar e caracterizar planetas semelhantes à Terra em órbita em torno de estrelas semelhantes ao Sol, precisamos de descobrir variações na luminosidade de uma estrela. Gestor de Projeto Plato da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres. Plato emergiu recentemente da câmara do Large Space Simulator (LSS) no Centro de Testes da ESA, onde a nave espacial conheceu pela primeira vez os rigores do espaço.</p><p>O objetivo geral da missão é descobrir planetas potencialmente habitáveis, semelhantes à Terra, em torno de estrelas brilhantes semelhantes ao Sol. Para isso, o desempenho das 26 câmeras ultrassensíveis de Platão é crucial.</p><p>“Para encontrar e caracterizar planetas semelhantes à Terra em órbita em torno de estrelas semelhantes ao Sol, precisamos de descobrir variações na luminosidade de uma estrela. Gestor de Projeto Plato da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial planets. Plato recently emerged from the Large Space Simulator (LSS) chamber at ESA’s Test Centre, where the spacecraft made its first acquaintance with the rigours of space.</p><p>The mission’s overarching goal is to discover potentially habitable, Earth-like planets around bright stars similar to the Sun. For this, the performance of Plato’s 26 ultrasensitive cameras is crucial.</p><p>“To find and characterise Earth-like planets in orbit around Sun-like stars, we need to tease out variations in a star’s luminosity smaller than 80 parts per million,” explains. ESA’s Plato Project Manager.</p><p>“We want to verify that the spacecraft can do what we expect it to do in harsh as well as nominal space conditions.” During the hot phase, engineers ran all the spacecraft’s. At the same time, they made sure that the cameras, protected by the sunshield and facing the cold part of the chamber, stayed between –70 and –90 °C.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The tests in a space-like environment have been completed, but the analysis of the data collected while Plato was inside the LSS will continue in the coming months. Lift-off on an Ariane 6 is planned by Arianespace for January 2027.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta.",
-      "Dado-chave: A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço.",
+      "Dado-chave: Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta.",
-      "Dado-chave: A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço.",
+      "Dado-chave: Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions. With this accomplishment, the.",
-      "Key detail: The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions.",
+      "Key detail: With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial planets.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "23 abr 2026",
@@ -3120,7 +3275,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3256,7 +3411,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3383,7 +3538,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "science-release-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3519,7 +3674,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "nasa-s-perseverance-curiosity-panoramas-capture-two-sides-of-mars",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3665,7 +3820,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "catching-the-earliest-stars-in-the-universe",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3798,7 +3953,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "nsf-doe-vera-c-rubin-observatory-launches-real-time-discovery-machine-for-monitoring-the-night-s",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3947,82 +4102,82 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
-    "slug": "an-agricultural-mosaic-in-taiwan",
+    "id": 33,
+    "slug": "voyager-1-shuts-down-another-instrument",
     "cat": "Astronomia",
     "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-agricultural-mosaic-in-taiwan/taiwan_agriculture_oli2_20260318.jpg?w=1900&h=1847&fit=clip&crop=faces%2Cfocalpoint",
+    "img": "https://dq0hsqwjhea1.cloudfront.net/1_Voyager_artist_concept-ezgif.com-jpg-to-webp-converter.webp",
     "inline_images": [
       {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-shrouds-northern-thailand/seasiafires_tmo_20260422_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Uma imagem de satélite mostra uma fumaça cinza obscurecendo a maior parte da paisagem ao redor de Chiang Mai, exceto em pequenas áreas onde os cumes das montanhas são visíveis.",
-        "caption_pt": "Uma imagem de satélite mostra uma fumaça cinza obscurecendo a maior parte da paisagem ao redor de Chiang Mai, exceto em pequenas áreas onde os cumes das montanhas são visíveis.",
-        "caption_en": "A satellite image shows gray smoke obscuring most of the landscape around Chiang Mai except for small areas where mountain ridges are visible.",
-        "alt": "Uma imagem de satélite mostra uma fumaça cinza obscurecendo a maior parte da paisagem ao redor de Chiang Mai, exceto em pequenas áreas onde os cumes das montanhas são visíveis.",
-        "alt_pt": "Uma imagem de satélite mostra uma fumaça cinza obscurecendo a maior parte da paisagem ao redor de Chiang Mai, exceto em pequenas áreas onde os cumes das montanhas são visíveis.",
-        "alt_en": "A satellite image shows gray smoke obscuring most of the landscape around Chiang Mai except for small areas where mountain ridges are visible."
+        "src": "https://dq0hsqwjhea1.cloudfront.net/jpegPIA16484.width-1600-ezgif.com-jpg-to-webp-converter.webp",
+        "caption": "Um esquema do instrumento LECP na espaçonave Voyager 1 NASA-JPL / Caltech",
+        "caption_pt": "Um esquema do instrumento LECP na espaçonave Voyager 1 NASA-JPL / Caltech",
+        "caption_en": "A schematic of the LECP instrument on the Voyager 1 spacecraft NASA-JPL / Caltech",
+        "alt": "Partícula carregada de baixa energia",
+        "alt_pt": "Partícula carregada de baixa energia",
+        "alt_en": "Low-Energy Charged Particle"
       },
       {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/snow-is-scarce-in-the-upper-colorado-basin/coloradobasin_swe_20260315_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Um mapa mostra quantidades equivalentes de água da neve abaixo da média na maioria das áreas montanhosas da Bacia do Alto Colorado.",
-        "caption_pt": "Um mapa mostra quantidades equivalentes de água da neve abaixo da média na maioria das áreas montanhosas da Bacia do Alto Colorado.",
-        "caption_en": "A map depicts below-average snow water equivalent amounts in most mountainous areas of the Upper Colorado Basin.",
-        "alt": "Um mapa mostra quantidades equivalentes de água da neve abaixo da média na maioria das áreas montanhosas da Bacia do Alto Colorado.",
-        "alt_pt": "Um mapa mostra quantidades equivalentes de água da neve abaixo da média na maioria das áreas montanhosas da Bacia do Alto Colorado.",
-        "alt_en": "A map depicts below-average snow water equivalent amounts in most mountainous areas of the Upper Colorado Basin."
+        "src": "https://dq0hsqwjhea1.cloudfront.net/PIA23645-ezgif.com-jpg-to-webp-converter.webp",
+        "caption": "A Voyager 1 tirou esta imagem da Terra do tipo \"Ponto Azul Pálido\" em 1990, além da órbita de Netuno. NASA/JPL-Caltech",
+        "caption_pt": "A Voyager 1 tirou esta imagem da Terra do tipo \"Ponto Azul Pálido\" em 1990, além da órbita de Netuno. NASA/JPL-Caltech",
+        "caption_en": "Voyager 1 took this \"Pale Blue Dot\" image of Earth in 1990, from beyond the orbit of Neptune. NASA / JPL-Caltech",
+        "alt": "Pequeno ponto na visão de campo amplo",
+        "alt_pt": "Pequeno ponto na visão de campo amplo",
+        "alt_en": "Little dot in wide field view"
       },
       {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-agricultural-mosaic-in-taiwan/baozhong_agriculture_oli2_20260318.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Um pedaço de terra agrícola com campos muito maiores se destaca ao norte de Baozhong.",
-        "caption_pt": "Um pedaço de terra agrícola com campos muito maiores se destaca ao norte de Baozhong.",
-        "caption_en": "A patch of farmland with much larger fields stands out north of Baozhong.",
-        "alt": "Um pedaço de terra agrícola com campos muito maiores se destaca ao norte de Baozhong.",
-        "alt_pt": "Um pedaço de terra agrícola com campos muito maiores se destaca ao norte de Baozhong.",
-        "alt_en": "A patch of farmland with much larger fields stands out north of Baozhong."
+        "src": "https://dq0hsqwjhea1.cloudfront.net/theme/src/img/comment.png",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
       }
     ],
     "video": null,
     "audio": null,
-    "title": "Um mosaico agrícola em Taiwan",
-    "title_pt": "Um mosaico agrícola em Taiwan",
-    "title_en": "An Agricultural Mosaic in Taiwan",
-    "sub": "A diversidade reina nas terras agrícolas do condado de Yunlin, no sudoeste de Taiwan, uma região que produz uma variedade de culturas em pequenas propriedades.",
-    "sub_pt": "A diversidade reina nas terras agrícolas do condado de Yunlin, no sudoeste de Taiwan, uma região que produz uma variedade de culturas em pequenas propriedades.",
-    "sub_en": "Diversity reigns across the farmland of Yunlin County in southwestern Taiwan, a region that produces an array of crops on small farms.",
-    "excerpt": "A diversidade reina nas terras agrícolas do condado de Yunlin, no sudoeste de Taiwan, uma região que produz uma variedade de culturas em pequenas propriedades.",
-    "excerpt_pt": "A diversidade reina nas terras agrícolas do condado de Yunlin, no sudoeste de Taiwan, uma região que produz uma variedade de culturas em pequenas propriedades.",
-    "excerpt_en": "Diversity reigns across the farmland of Yunlin County in southwestern Taiwan, a region that produces an array of crops on small farms.",
-    "body": "<p>A diversidade reina nas terras agrícolas do condado de Yunlin, no sudoeste de Taiwan, uma região que produz uma variedade de culturas em pequenas propriedades. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Observatório da Terra da NASA/Michala Garrison A maioria das culturas no condado de Yunlin são cultivadas em pequenas parcelas retangulares definidas por estradas e redes de. Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal.</p><p>Satélite avista um Spawn 3 min de leitura A atividade do arenque ao redor da Ilha de Vancouver, na Colúmbia Britânica, iluminou as águas costeiras o suficiente para serem. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>NASA Earth Observatory/Michala Garrison Cerca de 23 milhões de pessoas vivem em Taiwan, uma ilha do Pacífico do tamanho de Maryland. Apesar do seu tamanho, a ilha produz uma enorme quantidade de produtos agrícolas por ano, cerca de 18 mil milhões de dólares, segundo o Ministério da Agricultura de Taiwan.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/human-dimensions/agriculture/an-agricultural-mosaic-in-taiwan/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A diversidade reina nas terras agrícolas do condado de Yunlin, no sudoeste de Taiwan, uma região que produz uma variedade de culturas em pequenas propriedades. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Observatório da Terra da NASA/Michala Garrison A maioria das culturas no condado de Yunlin são cultivadas em pequenas parcelas retangulares definidas por estradas e redes de. Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal.</p><p>Satélite avista um Spawn 3 min de leitura A atividade do arenque ao redor da Ilha de Vancouver, na Colúmbia Britânica, iluminou as águas costeiras o suficiente para serem. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>NASA Earth Observatory/Michala Garrison Cerca de 23 milhões de pessoas vivem em Taiwan, uma ilha do Pacífico do tamanho de Maryland. Apesar do seu tamanho, a ilha produz uma enorme quantidade de produtos agrícolas por ano, cerca de 18 mil milhões de dólares, segundo o Ministério da Agricultura de Taiwan.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/human-dimensions/agriculture/an-agricultural-mosaic-in-taiwan/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Diversity reigns across the farmland of Yunlin County in southwestern Taiwan, a region that produces an array of crops on small farms. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. NASA Earth Observatory/Michala Garrison Most crops in Yunlin County are grown in small rectangular plots defined by roadways and networks of irrigation canals. Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</p><p>Satellite Spots a Spawn 3 min read The activity of herring around Vancouver Island in British Columbia brightened coastal waters enough to be detectable from space. Earth Observatory Image of the Day NASA’s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p><p>NASA Earth Observatory/Michala Garrison About 23 million people live in Taiwan, a Pacific island about the size of Maryland. Despite its size, the island produces a tremendous amount of agricultural goods per year, about $18 billion, according to Taiwan’s Ministry of Agriculture.</p><p>The average size of a farm in Taiwan ( less than 1 hectare ) is much smaller than in the United Kingdom ( 87 hectares ) or the United States ( 187 hectares ). That amounts to 0.03 hectares of farmland per Taiwanese citizen, about half as much arable farmland as there is per person in the United Kingdom and one-tenth as much as in the.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The exception is sugarcane, which was grown widely in the county in the early 1900s when Japan controlled Taiwan and established an expansive network of sugarcane plantations in. This area contrasts with the darker green region in the lower right of the first image, where rice is the dominant crop.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/human-dimensions/agriculture/an-agricultural-mosaic-in-taiwan/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Voyager 1 desliga outro instrumento",
+    "title_pt": "Voyager 1 desliga outro instrumento",
+    "title_en": "Voyager 1 Shuts Down Another Instrument",
+    "sub": "A Voyager 1, uma das missões interplanetárias mais antigas da NASA, teve outro instrumento desligado na semana passada, num esforço para manter a nave espacial operacional. Em 17.",
+    "sub_pt": "A Voyager 1, uma das missões interplanetárias mais antigas da NASA, teve outro instrumento desligado na semana passada, num esforço para manter a nave espacial operacional. Em 17.",
+    "sub_en": "Voyager 1, one of NASA’s longest continuously running interplanetary missions, had another instrument turned off last week, in an effort to keep the spacecraft operational. On.",
+    "excerpt": "A Voyager 1, uma das missões interplanetárias mais antigas da NASA, teve outro instrumento desligado na semana passada, num esforço para manter a nave espacial operacional. Em 17 de abril, os controladores viraram [.] O pós-Voyager 1 fecha.",
+    "excerpt_pt": "A Voyager 1, uma das missões interplanetárias mais antigas da NASA, teve outro instrumento desligado na semana passada, num esforço para manter a nave espacial operacional. Em 17 de abril, os controladores viraram [.] O pós-Voyager 1 fecha.",
+    "excerpt_en": "Voyager 1, one of NASA’s longest continuously running interplanetary missions, had another instrument turned off last week, in an effort to keep the spacecraft operational. On April 17th, controllers turned [.] The post Voyager 1 Shuts.",
+    "body": "<p>A Voyager 1, uma das missões interplanetárias mais antigas da NASA, teve outro instrumento desligado na semana passada, num esforço para manter a nave espacial operacional. Em 17 de abril, os controladores viraram O pós-Voyager 1 fecha. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Em 17 de abril, os controladores viraram O post Voyager 1 desliga outro instrumento apareceu pela primeira vez na Sky &amp; Telescope. Engenheiros desligaram um instrumento que media a densidade de partículas carregadas em um esforço para manter operacional a antiga Voyager 1.</p><p>Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestiais e as últimas notícias sobre astronomia. David Dickinson é escritor freelance. (Você pode cancelar a assinatura a qualquer momento) Os engenheiros desligaram um instrumento que media a densidade de partículas carregadas em um esforço para manter operacional.</p><p>A Voyager 1, uma das missões interplanetárias mais antigas da NASA, teve outro instrumento desligado na semana passada, num esforço para manter a nave espacial operacional. “A Voyager 1 ainda tem dois instrumentos científicos em operação.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/voyager-1-shuts-down-another-instrument/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Voyager 1, uma das missões interplanetárias mais antigas da NASA, teve outro instrumento desligado na semana passada, num esforço para manter a nave espacial operacional. Em 17 de abril, os controladores viraram O pós-Voyager 1 fecha. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Em 17 de abril, os controladores viraram O post Voyager 1 desliga outro instrumento apareceu pela primeira vez na Sky &amp; Telescope. Engenheiros desligaram um instrumento que media a densidade de partículas carregadas em um esforço para manter operacional a antiga Voyager 1.</p><p>Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestiais e as últimas notícias sobre astronomia. David Dickinson é escritor freelance. (Você pode cancelar a assinatura a qualquer momento) Os engenheiros desligaram um instrumento que media a densidade de partículas carregadas em um esforço para manter operacional.</p><p>A Voyager 1, uma das missões interplanetárias mais antigas da NASA, teve outro instrumento desligado na semana passada, num esforço para manter a nave espacial operacional. “A Voyager 1 ainda tem dois instrumentos científicos em operação.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/voyager-1-shuts-down-another-instrument/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Voyager 1, one of NASA’s longest continuously running interplanetary missions, had another instrument turned off last week, in an effort to keep the spacecraft operational. On April 17th, controllers turned The post Voyager 1 Shuts. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. On April 17th, controllers turned The post Voyager 1 Shuts Down Another Instrument appeared first on Sky &amp; Telescope. Engineers have turned off an instrument that measured the density of charged particles in an effort to keep the aging Voyager 1 operational.</p><p>Explore the universe with Sky &amp; Telescope, your ultimate source for stargazing, celestial events, and the latest astronomy news David Dickinson is a freelance science writer, high. (You can unsubscribe anytime) Engineers have turned off an instrument that measured the density of charged particles in an effort to keep the aging Voyager 1 operational.</p><p>Voyager 1, one of NASA’s longest continuously running interplanetary missions, had another instrument turned off last week, in an effort to keep the spacecraft operational. “Voyager 1 still has two remaining operating science instruments.</p><p>Engineers opted to send Voyager 1 for a close flyby past Saturn’s enigmatic moon Titan, a maneuver that sent the spacecraft out of the plane of the solar system in 1980. It’s amazing to think that Voyager 1 has actually survived almost 10 times longer than its five-year nominal mission.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Ironically, the mission was off to a rocky start, Voyager 1 was almost lost shortly after launch, when the second stage shut down prematurely and nearly stranded the mission in an. Voyager 1 is currently the most distant spacecraft, at more 170 astronomical units (au) from Earth, in the direction of the Ophiuchus constellation.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/voyager-1-shuts-down-another-instrument/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: A diversidade reina nas terras agrícolas do condado de Yunlin, no sudoeste de Taiwan, uma região que produz uma variedade de culturas em pequenas.",
-      "Dado-chave: Observatório da Terra da NASA/Michala Garrison A maioria das culturas no condado de Yunlin são cultivadas em pequenas parcelas retangulares.",
+      "Ponto central: A Voyager 1, uma das missões interplanetárias mais antigas da NASA, teve outro instrumento desligado na semana passada, num esforço para manter a.",
+      "Dado-chave: Em 17 de abril, os controladores viraram [.] O post Voyager 1 desliga outro instrumento apareceu pela primeira vez na Sky & Telescope.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: A diversidade reina nas terras agrícolas do condado de Yunlin, no sudoeste de Taiwan, uma região que produz uma variedade de culturas em pequenas.",
-      "Dado-chave: Observatório da Terra da NASA/Michala Garrison A maioria das culturas no condado de Yunlin são cultivadas em pequenas parcelas retangulares.",
+      "Ponto central: A Voyager 1, uma das missões interplanetárias mais antigas da NASA, teve outro instrumento desligado na semana passada, num esforço para manter a.",
+      "Dado-chave: Em 17 de abril, os controladores viraram [.] O post Voyager 1 desliga outro instrumento apareceu pela primeira vez na Sky & Telescope.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: Diversity reigns across the farmland of Yunlin County in southwestern Taiwan, a region that produces an array of crops on small farms.",
-      "Key detail: NASA Earth Observatory/Michala Garrison Most crops in Yunlin County are grown in small rectangular plots defined by roadways and networks of.",
+      "Core point: Voyager 1, one of NASA’s longest continuously running interplanetary missions, had another instrument turned off last week, in an effort to keep the.",
+      "Key detail: On April 17th, controllers turned [.] The post Voyager 1 Shuts Down Another Instrument appeared first on Sky & Telescope.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "24 abr 2026",
-    "date_pt": "24 abr 2026",
-    "date_en": "24 Apr 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04:01 UTC",
+    "date": "27 abr 2026",
+    "date_pt": "27 abr 2026",
+    "date_en": "27 Apr 2026",
+    "time": "17h57",
+    "time_pt": "17h57",
+    "time_en": "17:57 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-24T04:01:00+00:00",
-    "lastModifiedIso": "2026-04-24T04:01:00+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science.nasa.gov",
+    "publishedIso": "2026-04-27T17:57:22+00:00",
+    "lastModifiedIso": "2026-04-27T17:57:22+00:00",
+    "source": "Sky & Telescope",
+    "sourceDomain": "skyandtelescope.org",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -4040,26 +4195,26 @@ window.postsData = [
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
       "Astronomia",
-      "NASA News Releases",
+      "Sky & Telescope",
       "Cosmos Week",
-      "Um mosaico agrícola em Taiwan"
+      "Voyager 1 desliga outro instrumento"
     ],
     "keywords_pt": [
       "Astronomia",
-      "NASA News Releases",
+      "Sky & Telescope",
       "Cosmos Week",
-      "Um mosaico agrícola em Taiwan"
+      "Voyager 1 desliga outro instrumento"
     ],
     "keywords_en": [
       "Astronomy",
-      "NASA News Releases",
+      "Sky & Telescope",
       "Cosmos Week",
-      "An agricultural mosaic in Taiwan"
+      "Voyager 1 turns off another instrument"
     ],
-    "srcUrl": "https://science.nasa.gov/earth/human-dimensions/agriculture/an-agricultural-mosaic-in-taiwan/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=an-agricultural-mosaic-in-taiwan",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=an-agricultural-mosaic-in-taiwan",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=an-agricultural-mosaic-in-taiwan&lang=en",
+    "srcUrl": "https://skyandtelescope.org/astronomy-news/voyager-1-shuts-down-another-instrument/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=voyager-1-shuts-down-another-instrument",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=voyager-1-shuts-down-another-instrument",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=voyager-1-shuts-down-another-instrument&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -4070,17 +4225,17 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 76,
+    "score": 75,
     "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 70,
+      "source": 74,
+      "evidence": 82,
+      "relevance": 88,
       "accessibility": 60,
-      "novelty": 49
+      "novelty": 55
     }
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "this-week-s-sky-at-a-glance-april-24-may-3",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4216,7 +4371,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "ash-creeps-across-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4321,7 +4476,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "uranus-s-outermost-rings-are-made-of-two-different-things",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4451,111 +4606,6 @@ window.postsData = [
       "relevance": 88,
       "accessibility": 60,
       "novelty": 46
-    }
-  },
-  {
-    "id": 36,
-    "slug": "nasa-astronauts-to-answer-questions-from-missouri-students",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/04/jessica-meir-and-jack-hathaway-downlink-advisory-april-24.jpg?w=1920",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Astronautas da NASA responderão a perguntas de estudantes do Missouri",
-    "title_pt": "Astronautas da NASA responderão a perguntas de estudantes do Missouri",
-    "title_en": "NASA Astronauts to Answer Questions from Missouri Students",
-    "sub": "Os alunos no Missouri ouvirão os astronautas da NASA Jessica Meir e Jack Hathaway enquanto eles respondem a perguntas pré-gravadas de ciência, tecnologia, engenharia e matemática.",
-    "sub_pt": "Os alunos no Missouri ouvirão os astronautas da NASA Jessica Meir e Jack Hathaway enquanto eles respondem a perguntas pré-gravadas de ciência, tecnologia, engenharia e matemática.",
-    "sub_en": "Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering, and mathematics questions while.",
-    "excerpt": "Os alunos no Missouri ouvirão os astronautas da NASA Jessica Meir e Jack Hathaway enquanto eles respondem a perguntas pré-gravadas de ciência, tecnologia, engenharia e matemática a bordo da Estação Espacial Internacional. A chamada da Terra para o espaço.",
-    "excerpt_pt": "Os alunos no Missouri ouvirão os astronautas da NASA Jessica Meir e Jack Hathaway enquanto eles respondem a perguntas pré-gravadas de ciência, tecnologia, engenharia e matemática a bordo da Estação Espacial Internacional. A chamada da Terra para o espaço.",
-    "excerpt_en": "Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering, and mathematics questions while aboard the International Space Station. The Earth-to-space call.",
-    "body": "<p>Os alunos no Missouri ouvirão os astronautas da NASA Jessica Meir e Jack Hathaway enquanto eles respondem a perguntas pré-gravadas de ciência, tecnologia, engenharia e matemática a bordo da Estação Espacial Internacional. A chamada da Terra para o espaço. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Os astronautas da NASA (a partir da esquerda) Jack Hathaway e Jessica Meir são fotografados em janeiro. Washington 202-358-1600 gerelle. q. dodson@nasa. gov Centro Espacial Sandra Jones Johnson.</p><p>Houston 281-483-5111 sandra. p. jones@nasa. gov Detalhes de compartilhamento Última atualização em 24 de abril de. 2026 Localização Sede da NASA Termos relacionados Educação a bordo Downlinks Humanos no Espaço Estação Espacial Internacional (ISS) Centro Espacial Johnson Recursos de.</p><p>AVISO DE MÍDIA M26-034 Sede da NASA Centro Espacial Johnson Astronautas da NASA (a partir da esquerda) Jack Hathaway e Jessica Meir são fotografados em 2 de janeiro de 2019.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os alunos no Missouri ouvirão os astronautas da NASA Jessica Meir e Jack Hathaway enquanto eles respondem a perguntas pré-gravadas de ciência, tecnologia, engenharia e matemática a bordo da Estação Espacial Internacional. A chamada da Terra para o espaço. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Os astronautas da NASA (a partir da esquerda) Jack Hathaway e Jessica Meir são fotografados em janeiro. Washington 202-358-1600 gerelle. q. dodson@nasa. gov Centro Espacial Sandra Jones Johnson.</p><p>Houston 281-483-5111 sandra. p. jones@nasa. gov Detalhes de compartilhamento Última atualização em 24 de abril de. 2026 Localização Sede da NASA Termos relacionados Educação a bordo Downlinks Humanos no Espaço Estação Espacial Internacional (ISS) Centro Espacial Johnson Recursos de.</p><p>AVISO DE MÍDIA M26-034 Sede da NASA Centro Espacial Johnson Astronautas da NASA (a partir da esquerda) Jack Hathaway e Jessica Meir são fotografados em 2 de janeiro de 2019.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering, and mathematics questions while aboard the International Space Station. The Earth-to-space call. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering, and mathematics (STEM) questions. NASA astronauts (from left) Jack Hathaway and Jessica Meir are photographed on Jan.</p><p>Washington 202-358-1600 gerelle. q. dodson@nasa. gov Sandra Jones Johnson Space Center. Houston 281-483-5111 sandra. p. jones@nasa. gov Share Details Last Updated Apr 24.</p><p>2026 Location NASA Headquarters Related Terms In-flight Education Downlinks Humans in Space International Space Station (ISS) Johnson Space Center Learning Resources NASA. MEDIA ADVISORY M26-034 NASA Headquarters Johnson Space Center NASA astronauts (from left) Jack Hathaway and Jessica Meir are photographed on Jan.</p><p>12, 2026, in their pressure suits and inside the Dragon spacecraft during the Crew Equipment Interface Test at NASA’s Kennedy Space Center in Florida. SpaceX Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering, and mathematics (STEM).</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The Earth-to-space call will begin at 10: 50 a. m. EDT Thursday, April 30, and will stream live on the agency’s Learn With NASA YouTube channel.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os alunos no Missouri ouvirão os astronautas da NASA Jessica Meir e Jack Hathaway enquanto eles respondem a perguntas pré-gravadas de ciência.",
-      "Dado-chave: Os alunos no Missouri ouvirão os astronautas da NASA Jessica Meir e Jack Hathaway enquanto eles respondem a perguntas pré-gravadas de ciência.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os alunos no Missouri ouvirão os astronautas da NASA Jessica Meir e Jack Hathaway enquanto eles respondem a perguntas pré-gravadas de ciência.",
-      "Dado-chave: Os alunos no Missouri ouvirão os astronautas da NASA Jessica Meir e Jack Hathaway enquanto eles respondem a perguntas pré-gravadas de ciência.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering, and.",
-      "Key detail: Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "24 abr 2026",
-    "date_pt": "24 abr 2026",
-    "date_en": "24 Apr 2026",
-    "time": "14h47",
-    "time_pt": "14h47",
-    "time_en": "14:47 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-24T14:47:12+00:00",
-    "lastModifiedIso": "2026-04-24T14:47:12+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Astronautas da NASA responderão a perguntas de estudantes do Missouri"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Astronautas da NASA responderão a perguntas de estudantes do Missouri"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA astronauts will answer questions from Missouri students"
-    ],
-    "srcUrl": "https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-astronauts-to-answer-questions-from-missouri-students",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-astronauts-to-answer-questions-from-missouri-students",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-astronauts-to-answer-questions-from-missouri-students&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 62,
-      "accessibility": 60,
-      "novelty": 49
     }
   },
   {

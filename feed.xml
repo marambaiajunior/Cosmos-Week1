@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 09:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 11:18:57 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>A inflamação crônica deixa uma impressão duradoura nas células-tronco intestinais, aumentando o risco de câncer colorretal</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=chronic-inflammation-leaves-long-lasting-impression-on-gut-stem-cells-increasing-colorectal-canc</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=chronic-inflammation-leaves-long-lasting-impression-on-gut-stem-cells-increasing-colorectal-canc</guid>
-              <pubDate>Thu, 30 Apr 2026 09:23:04 +0000</pubDate>
+              <pubDate>Thu, 30 Apr 2026 11:16:11 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Um estudo em animais financiado pelo NIH descobriu que memórias hereditárias de danos persistiram nas células meses após o fim da inflamação.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A inflamação crônica deixa uma impressão duradoura nas células</category>
@@ -21,7 +21,7 @@
               <title>Elisabeth Armstrong nomeada Chefe de Gabinete do NIH</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=dr-elisabeth-armstrong-named-nih-chief-of-staff</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=dr-elisabeth-armstrong-named-nih-chief-of-staff</guid>
-              <pubDate>Thu, 30 Apr 2026 09:23:04 +0000</pubDate>
+              <pubDate>Thu, 30 Apr 2026 11:16:11 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ela fornecerá aconselhamento estratégico ao Diretor do NIH e a outros líderes importantes do NIH, além de gerenciar processos, operações e fluxos de informações.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Elisabeth Armstrong nomeada Chefe de Gabinete do NIH</category>
@@ -31,7 +31,7 @@
               <title>Modelo de cuidados de baixo custo reduz a pressão arterial em populações de alto risco</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=low-cost-care-model-reduces-blood-pressure-in-high-risk-populations</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=low-cost-care-model-reduces-blood-pressure-in-high-risk-populations</guid>
-              <pubDate>Thu, 30 Apr 2026 09:23:04 +0000</pubDate>
+              <pubDate>Thu, 30 Apr 2026 11:16:11 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ensaio clínico apoiado pelo NIH mostra que a estratégia de cuidados coordenados é mais eficaz do que os cuidados padrão</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de cuidados de baixo custo reduz a pressão arterial em populações de alto risco</category>
@@ -41,22 +41,32 @@
               <title>Avanço financiado pelo NIH reduz o CRISPR para entrega precisa no corpo</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-breakthrough-shrinks-crispr-for-precision-delivery-in-the-body</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-breakthrough-shrinks-crispr-for-precision-delivery-in-the-body</guid>
-              <pubDate>Thu, 30 Apr 2026 09:23:04 +0000</pubDate>
+              <pubDate>Thu, 30 Apr 2026 11:16:11 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Avanço financiado pelo NIH reduz o CRISPR para entrega precisa no corpo</category>
               <source url="https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body">NIH News Releases</source>
-              <content:encoded>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Uma equipe de pesquisa financiada pelo National Institutes</content:encoded>
+              <content:encoded>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Uma equipe de pesquisa financiada pelos Institutos Naciona</content:encoded>
             </item><item>
               <title>Dr. Jonathan M. Green selecionado como CEO do NIH Clinical Center</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=dr-jonathan-m-green-selected-as-ceo-of-the-nih-clinical-center</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=dr-jonathan-m-green-selected-as-ceo-of-the-nih-clinical-center</guid>
-              <pubDate>Thu, 30 Apr 2026 09:23:04 +0000</pubDate>
+              <pubDate>Thu, 30 Apr 2026 11:16:11 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O NIH Clinical Center é o maior hospital de pesquisa do mundo.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Dr. Jonathan M. Green selecionado como CEO do NIH Clinical Center</category>
               <source url="https://www.nih.gov/news-events/news-releases/dr-jonathan-m-green-selected-ceo-nih-clinical-center">NIH News Releases</source>
               <content:encoded>O NIH Clinical Center é o maior hospital de pesquisa do mundo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Ao anunciar a seleção, o diretor do NIH, Jay Bhattacharya, M. D, Ph. D, disse: "Dr. A liderança de Green no</content:encoded>
+            </item><item>
+              <title>5 lugares incríveis para ver aves migratórias na primavera</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=5-amazing-places-to-see-migrating-birds-in-spring</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=5-amazing-places-to-see-migrating-birds-in-spring</guid>
+              <pubDate>Thu, 30 Apr 2026 11:00:18 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>A observação de pássaros durante a temporada de migração da primavera pode ser particularmente gratificante. Aqui estão 5 lugares incríveis para ver aves migratórias nesta primavera. O post 5 lugares incríveis para ver aves migratórias na primavera apareceu.</description>
+              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>5 lugares incríveis para ver aves migratórias na primavera</category>
+              <source url="https://earthsky.org/earth/5-amazing-places-to-see-migrating-birds-in-spring/">EarthSky</source>
+              <content:encoded>A observação de pássaros durante a temporada de migração da primavera pode ser particularmente gratificante. Aqui estão 5 lugares incríveis para ver aves migratórias nesta primavera. O post 5 lugares incríveis para ver aves migratórias na primavera apareceu pela primeira vez no. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura</content:encoded>
             </item><item>
               <title>Hércules está entre duas estrelas brilhantes: Vega e Arcturus</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=hercules-is-between-2-bright-stars-vega-and-arcturus</link>
@@ -88,25 +98,15 @@
               <source url="https://science.nasa.gov/earth/earth-observatory/winters-end-is-written-in-the-clouds/">NASA News Releases</source>
               <content:encoded>À medida que o inverno se transformava em primavera, os céus do Golfo do Alasca exibiam exemplos clássicos de numerosas formações de nuvens. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 2026, pelo MODIS (Espectrorradiômetr</content:encoded>
             </item><item>
-              <title>Blindagem flexível imprimível em 3D para ambientes extremos</title>
+              <title>Blindagem flexível para impressão em 3D para ambientes extremos</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=flexible-3d-printable-shielding-for-extreme-environments</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=flexible-3d-printable-shielding-for-extreme-environments</guid>
               <pubDate>Thu, 30 Apr 2026 01:43:18 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Você está baseado na Estação Artemis, no pólo sul lunar, e está monitorando seus 12 veículos autônomos que exploram o terreno circundante em busca de sinais de água gelada ou outros minerais essenciais. Eles estão a cerca de 3 quilômetros de distância quando.</description>
-              <category>Ciências da Terra</category><category>Universe Today</category><category>Cosmos Week</category><category>Blindagem flexível imprimível em 3D para ambientes extremos</category>
+              <category>Ciências da Terra</category><category>Universe Today</category><category>Cosmos Week</category><category>Blindagem flexível para impressão em 3D para ambientes extremos</category>
               <source url="https://www.universetoday.com/articles/flexible-3d-printable-shielding-for-extreme-environments">Universe Today</source>
               <content:encoded>Você está baseado na Estação Artemis, no pólo sul lunar, e está monitorando seus 12 veículos autônomos que exploram o terreno circundante em busca de sinais de água gelada ou outros minerais essenciais. Eles estão a cerca de 3 quilômetros de distância quando. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla</content:encoded>
-            </item><item>
-              <title>Radar drone revela geleiras enterradas na Terra, orientando a busca por água em Marte</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=drone-radar-reveals-buried-glaciers-on-earth-guiding-the-search-for-water-on-mars</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=drone-radar-reveals-buried-glaciers-on-earth-guiding-the-search-for-water-on-mars</guid>
-              <pubDate>Wed, 29 Apr 2026 22:50:01 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A compreensão de como explorar geleiras escondidas em Marte não começa em um laboratório, mas em acampamentos remotos no Alasca e no Wyoming.</description>
-              <category>Ciências da Terra</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Radar drone revela geleiras enterradas na Terra</category>
-              <source url="https://phys.org/news/2026-04-drone-radar-reveals-glaciers-earth.html">Phys.org Space</source>
-              <content:encoded>A compreensão de como explorar geleiras escondidas em Marte não começa em um laboratório, mas em acampamentos remotos no Alasca e no Wyoming. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Este artigo foi revisado de acordo com o processo edit</content:encoded>
             </item><item>
               <title>Smile será lançado em 19 de maio</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=smile-set-to-launch-on-19-may</link>
@@ -188,16 +188,6 @@
               <source url="https://www.universetoday.com/articles/binary-stars-form-lots-of-exoplanets-but-many-of-them-are-ejected-as-rogue-planets">Universe Today</source>
               <content:encoded>Estrelas binárias são comuns, mas durante muito tempo os astrónomos pensaram que os exoplanetas teriam dificuldade em formar-se à sua volta. Nos últimos anos, telescópios poderosos detectaram cerca de 50 destes planetas. Agora, novas simulações mostram isso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadr</content:encoded>
             </item><item>
-              <title>Ciência do enxame de laser no sistema Proxima Centauri</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=laser-swarm-science-at-the-proxima-centauri-system</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=laser-swarm-science-at-the-proxima-centauri-system</guid>
-              <pubDate>Wed, 29 Apr 2026 17:14:40 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A ideia de enviar um enxame de minúsculas naves espaciais movidas a velas laser para o nosso exoplaneta mais próximo não irá desaparecer. Embora complexa e pontuada por problemas difíceis, a ideia é a única forma realista de alcançar outro sistema solar neste.</description>
-              <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>Ciência do enxame de laser no sistema Proxima Centauri</category>
-              <source url="https://www.universetoday.com/articles/laser-swarm-science-at-the-proxima-centauri-system">Universe Today</source>
-              <content:encoded>A ideia de enviar um enxame de minúsculas naves espaciais movidas a velas laser para o nosso exoplaneta mais próximo não irá desaparecer. Embora complexa e pontuada por problemas difíceis, a ideia é a única forma realista de alcançar outro sistema solar neste século. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a es</content:encoded>
-            </item><item>
               <title>Os planetas mais comuns na galáxia não aparecem em torno das estrelas mais comuns, sugerem observações do TESS</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=the-most-common-planets-in-the-galaxy-don-t-appear-around-the-most-common-stars-tess-observation</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=the-most-common-planets-in-the-galaxy-don-t-appear-around-the-most-common-stars-tess-observation</guid>
@@ -207,6 +197,16 @@
               <category>Exoplanetas</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Os planetas mais comuns na galáxia não aparecem em torno das estrelas mais comuns</category>
               <source url="https://phys.org/news/2026-04-common-planets-galaxy-dont-stars.html">Phys.org Space</source>
               <content:encoded>Os astrónomos estimam agora que existe pelo menos um planeta para cada estrela da nossa galáxia. Esses mundos, chamados exoplanetas, são planetas que orbitam estrelas fora do nosso sistema solar. Mas uma nova pesquisa da Universidade McMaster revela algo surpreendente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a </content:encoded>
+            </item><item>
+              <title>Ciência do enxame de laser no sistema Proxima Centauri</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=laser-swarm-science-at-the-proxima-centauri-system</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=laser-swarm-science-at-the-proxima-centauri-system</guid>
+              <pubDate>Wed, 29 Apr 2026 17:14:40 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>A ideia de enviar um enxame de minúsculas naves espaciais movidas a velas laser para o nosso exoplaneta mais próximo não irá desaparecer. Embora complexa e pontuada por problemas difíceis, a ideia é a única forma realista de alcançar outro sistema solar neste.</description>
+              <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>Ciência do enxame de laser no sistema Proxima Centauri</category>
+              <source url="https://www.universetoday.com/articles/laser-swarm-science-at-the-proxima-centauri-system">Universe Today</source>
+              <content:encoded>A ideia de enviar um enxame de minúsculas naves espaciais movidas a velas laser para o nosso exoplaneta mais próximo não irá desaparecer. Embora complexa e pontuada por problemas difíceis, a ideia é a única forma realista de alcançar outro sistema solar neste século. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a es</content:encoded>
             </item>
   </channel>
 </rss>

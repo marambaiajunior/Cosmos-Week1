@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 04:07:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 06:39:21 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>A inflamação crônica deixa uma impressão duradoura nas células-tronco intestinais, aumentando o risco de câncer colorretal</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=chronic-inflammation-leaves-long-lasting-impression-on-gut-stem-cells-increasing-colorectal-canc</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=chronic-inflammation-leaves-long-lasting-impression-on-gut-stem-cells-increasing-colorectal-canc</guid>
-              <pubDate>Thu, 30 Apr 2026 04:00:58 +0000</pubDate>
+              <pubDate>Thu, 30 Apr 2026 06:37:45 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Um estudo em animais financiado pelo NIH descobriu que memórias hereditárias de danos persistiram nas células meses após o fim da inflamação.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A inflamação crônica deixa uma impressão duradoura nas células</category>
@@ -21,7 +21,7 @@
               <title>Elisabeth Armstrong nomeada Chefe de Gabinete do NIH</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=dr-elisabeth-armstrong-named-nih-chief-of-staff</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=dr-elisabeth-armstrong-named-nih-chief-of-staff</guid>
-              <pubDate>Thu, 30 Apr 2026 04:00:58 +0000</pubDate>
+              <pubDate>Thu, 30 Apr 2026 06:37:45 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ela fornecerá aconselhamento estratégico ao Diretor do NIH e a outros líderes importantes do NIH, além de gerenciar processos, operações e fluxos de informações.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Elisabeth Armstrong nomeada Chefe de Gabinete do NIH</category>
@@ -31,7 +31,7 @@
               <title>Modelo de cuidados de baixo custo reduz a pressão arterial em populações de alto risco</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=low-cost-care-model-reduces-blood-pressure-in-high-risk-populations</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=low-cost-care-model-reduces-blood-pressure-in-high-risk-populations</guid>
-              <pubDate>Thu, 30 Apr 2026 04:00:58 +0000</pubDate>
+              <pubDate>Thu, 30 Apr 2026 06:37:45 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ensaio clínico apoiado pelo NIH mostra que a estratégia de cuidados coordenados é mais eficaz do que os cuidados padrão</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de cuidados de baixo custo reduz a pressão arterial em populações de alto risco</category>
@@ -41,22 +41,32 @@
               <title>Avanço financiado pelo NIH reduz o CRISPR para entrega precisa no corpo</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-breakthrough-shrinks-crispr-for-precision-delivery-in-the-body</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-breakthrough-shrinks-crispr-for-precision-delivery-in-the-body</guid>
-              <pubDate>Thu, 30 Apr 2026 04:00:58 +0000</pubDate>
+              <pubDate>Thu, 30 Apr 2026 06:37:45 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Avanço financiado pelo NIH reduz o CRISPR para entrega precisa no corpo</category>
               <source url="https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body">NIH News Releases</source>
-              <content:encoded>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Uma equipe de pesquisa financiada pelo National Institutes</content:encoded>
+              <content:encoded>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Uma equipe de pesquisa financiada pelos Institutos Naciona</content:encoded>
             </item><item>
               <title>Dr. Jonathan M. Green selecionado como CEO do NIH Clinical Center</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=dr-jonathan-m-green-selected-as-ceo-of-the-nih-clinical-center</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=dr-jonathan-m-green-selected-as-ceo-of-the-nih-clinical-center</guid>
-              <pubDate>Thu, 30 Apr 2026 04:00:58 +0000</pubDate>
+              <pubDate>Thu, 30 Apr 2026 06:37:45 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O NIH Clinical Center é o maior hospital de pesquisa do mundo.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Dr. Jonathan M. Green selecionado como CEO do NIH Clinical Center</category>
               <source url="https://www.nih.gov/news-events/news-releases/dr-jonathan-m-green-selected-ceo-nih-clinical-center">NIH News Releases</source>
               <content:encoded>O NIH Clinical Center é o maior hospital de pesquisa do mundo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Ao anunciar a seleção, o diretor do NIH, Jay Bhattacharya, M. D, Ph. D, disse: "Dr. A liderança de Green no</content:encoded>
+            </item><item>
+              <title>O fim do inverno está escrito nas nuvens</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=winter-s-end-is-written-in-the-clouds</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=winter-s-end-is-written-in-the-clouds</guid>
+              <pubDate>Thu, 30 Apr 2026 04:00:00 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>À medida que o inverno se transformava em primavera, os céus do Golfo do Alasca exibiam exemplos clássicos de numerosas formações de nuvens.</description>
+              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>O fim do inverno está escrito nas nuvens</category>
+              <source url="https://science.nasa.gov/earth/earth-observatory/winters-end-is-written-in-the-clouds/">NASA News Releases</source>
+              <content:encoded>À medida que o inverno se transformava em primavera, os céus do Golfo do Alasca exibiam exemplos clássicos de numerosas formações de nuvens. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 2026, pelo MODIS (Espectrorradiômetr</content:encoded>
             </item><item>
               <title>Blindagem flexível imprimível em 3D para ambientes extremos</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=flexible-3d-printable-shielding-for-extreme-environments</link>
@@ -98,26 +108,6 @@
               <source url="https://science.nasa.gov/blog/curiosity-blog-sols-4873-4878-welcome-to-the-atacama-drill-target/">NASA News Releases</source>
               <content:encoded>Escrito por Sharon Wilson Purdy, geóloga planetária do Smithsonian National Air and Space Museum Data de planejamento da Terra: sexta-feira, 24 de abril de 2026 Havia excitação no ar quando a equipe científica Curiosity iniciou uma campanha de exercícios em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla </content:encoded>
             </item><item>
-              <title>Estrelas binárias formam muitos exoplanetas, mas muitos deles são ejetados como planetas rebeldes</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=binary-stars-form-lots-of-exoplanets-but-many-of-them-are-ejected-as-rogue-planets</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=binary-stars-form-lots-of-exoplanets-but-many-of-them-are-ejected-as-rogue-planets</guid>
-              <pubDate>Wed, 29 Apr 2026 20:26:36 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Estrelas binárias são comuns, mas durante muito tempo os astrónomos pensaram que os exoplanetas teriam dificuldade em formar-se à sua volta. Nos últimos anos, telescópios poderosos detectaram cerca de 50 destes planetas. Agora, novas simulações mostram isso.</description>
-              <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>Estrelas binárias formam muitos exoplanetas</category>
-              <source url="https://www.universetoday.com/articles/binary-stars-form-lots-of-exoplanets-but-many-of-them-are-ejected-as-rogue-planets">Universe Today</source>
-              <content:encoded>Estrelas binárias são comuns, mas durante muito tempo os astrónomos pensaram que os exoplanetas teriam dificuldade em formar-se à sua volta. Nos últimos anos, telescópios poderosos detectaram cerca de 50 destes planetas. Agora, novas simulações mostram isso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadr</content:encoded>
-            </item><item>
-              <title>NASA conecta pequenos pontos vermelhos com Chandra, Webb</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-connects-little-red-dots-with-chandra-webb</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-connects-little-red-dots-with-chandra-webb</guid>
-              <pubDate>Tue, 28 Apr 2026 20:21:03 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Um objeto recém-descoberto pode ser a chave para desvendar a verdadeira natureza de uma misteriosa classe de fontes que os astrónomos encontraram no Universo primitivo nos últimos anos. Um “ponto de raios X” encontrado pelo Observatório de Raios X Chandra da.</description>
-              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>NASA conecta pequenos pontos vermelhos com Chandra</category>
-              <source url="https://science.nasa.gov/missions/chandra/nasa-connects-little-red-dots-with-chandra-webb/">NASA News Releases</source>
-              <content:encoded>Um objeto recém-descoberto pode ser a chave para desvendar a verdadeira natureza de uma misteriosa classe de fontes que os astrónomos encontraram no Universo primitivo nos últimos anos. Um “ponto de raios X” encontrado pelo Observatório de Raios X Chandra da NASA poderia. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige q</content:encoded>
-            </item><item>
               <title>Smile será lançado em 19 de maio</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=smile-set-to-launch-on-19-may</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=smile-set-to-launch-on-19-may</guid>
@@ -138,26 +128,6 @@
               <source url="https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests">ESA Space Science</source>
               <content:encoded>A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviv</content:encoded>
             </item><item>
-              <title>Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</guid>
-              <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece.</description>
-              <category>Cosmologia</category><category>ESA Hubble News</category><category>Cosmos Week</category><category>Lançamento científico</category>
-              <source url="https://esahubble.org/news/heic2605/">ESA Hubble News</source>
-              <content:encoded>A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece ser. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território co</content:encoded>
-            </item><item>
-              <title>Lançamento científico: Hubble examina Cloud-9, o primeiro de um novo tipo de objeto</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-examines-cloud-9-first-of-new-type-of-object</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-examines-cloud-9-first-of-new-type-of-object</guid>
-              <pubDate>Mon, 05 Jan 2026 17:15:00 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico — uma nuvem de matéria escura, rica em gás e sem estrelas, considerada uma “relíquia” ou remanescente da formação inicial de galáxias. Apelidado de.</description>
-              <category>Cosmologia</category><category>ESA Hubble News</category><category>Cosmos Week</category><category>Lançamento científico</category>
-              <source url="https://esahubble.org/news/heic2601/">ESA Hubble News</source>
-              <content:encoded>Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico, uma nuvem de matéria escura, rica em gás e sem estrelas, considerada uma “relíquia” ou remanescente da formação inicial de galáxias. Apelidado de “Cloud-9”, este é o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse territ</content:encoded>
-            </item><item>
               <title>Projetando usinas de energia in situ para futuras missões a Marte</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=designing-in-situ-power-stations-for-future-mars-missions</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=designing-in-situ-power-stations-for-future-mars-missions</guid>
@@ -167,6 +137,26 @@
               <category>Cosmologia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Projetando usinas de energia in situ para futuras missões a Marte</category>
               <source url="https://phys.org/news/2026-04-situ-power-stations-future-mars.html">Phys.org Space</source>
               <content:encoded>Você está no laboratório analisando amostras de regolito marciano em seu aconchegante habitat marciano, servindo na quinta missão humana a Marte. A energia dentro do habitat tem fluido perfeitamente graças ao MARS-MES, incluindo o habitat geral. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos inde</content:encoded>
+            </item><item>
+              <title>DESI conclui seu épico mapa 3D, sugerindo que a energia escura pode estar mudando</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=desi-completes-its-epic-3d-map-hinting-that-dark-energy-might-be-changing</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=desi-completes-its-epic-3d-map-hinting-that-dark-energy-might-be-changing</guid>
+              <pubDate>Wed, 29 Apr 2026 14:22:12 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>No topo do Pico Kitt, no deserto do Arizona, um pesquisador robótico acaba de completar uma missão de cinco anos para catalogar as posições de dezenas de milhões de galáxias. O Instrumento Espectroscópico de Energia Escura criou agora o maior, o maior.</description>
+              <category>Cosmologia</category><category>Universe Today</category><category>Cosmos Week</category><category>DESI conclui seu épico mapa 3D</category>
+              <source url="https://www.universetoday.com/articles/desi-completes-its-epic-3d-map-hinting-that-dark-energy-might-be-changing">Universe Today</source>
+              <content:encoded>No topo do Pico Kitt, no deserto do Arizona, um pesquisador robótico acaba de completar uma missão de cinco anos para catalogar as posições de dezenas de milhões de galáxias. O Instrumento Espectroscópico de Energia Escura criou agora o maior, o maior. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemátic</content:encoded>
+            </item><item>
+              <title>O primeiro mistério do buraco negro supermassivo foi resolvido?</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=is-the-earliest-supermassive-black-hole-mystery-solved</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=is-the-earliest-supermassive-black-hole-mystery-solved</guid>
+              <pubDate>Wed, 29 Apr 2026 18:54:22 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Um dos enigmas mais intrigantes da cosmologia é a existência de buracos negros supermassivos que parecem ter surgido muito cedo na história do Universo. Os astrônomos continuam a encontrá-los em momentos em que, por tudo o que entendem sobre eles.</description>
+              <category>Cosmologia</category><category>Universe Today</category><category>Cosmos Week</category><category>O primeiro mistério do buraco negro supermassivo foi resolvido?</category>
+              <source url="https://www.universetoday.com/articles/is-the-earliest-supermassive-black-hole-mystery-solved">Universe Today</source>
+              <content:encoded>Um dos enigmas mais intrigantes da cosmologia é a existência de buracos negros supermassivos que parecem ter surgido muito cedo na história do Universo. Os astrônomos continuam a encontrá-los em momentos em que, por tudo o que entendem sobre eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos in</content:encoded>
             </item><item>
               <title>Como as órbitas inclinadas impactam as colisões de buracos negros supermassivos</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=how-tilted-orbits-impact-supermassive-black-hole-collisions</link>
@@ -198,15 +188,25 @@
               <source url="https://phys.org/news/2026-04-aquila-booster-theoretical-limits-particle.html">Phys.org Space</source>
               <content:encoded>O Large High Altitude Air Shower Observatory detectou emissão de raios gama PeV de uma nebulosa de vento pulsar alimentada por PSR J1849-0001 na constelação de Aquila, marcando a descoberta de um novo PeVatron e representando um desafio para o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativament</content:encoded>
             </item><item>
-              <title>Ciência do enxame de laser no sistema Proxima Centauri</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=laser-swarm-science-at-the-proxima-centauri-system</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=laser-swarm-science-at-the-proxima-centauri-system</guid>
-              <pubDate>Wed, 29 Apr 2026 17:14:40 +0000</pubDate>
+              <title>Estrelas binárias formam muitos exoplanetas, mas muitos deles são ejetados como planetas rebeldes</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=binary-stars-form-lots-of-exoplanets-but-many-of-them-are-ejected-as-rogue-planets</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=binary-stars-form-lots-of-exoplanets-but-many-of-them-are-ejected-as-rogue-planets</guid>
+              <pubDate>Wed, 29 Apr 2026 20:26:36 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A ideia de enviar um enxame de minúsculas naves espaciais movidas a velas laser para o nosso exoplaneta mais próximo não irá desaparecer. Embora complexa e pontuada por problemas difíceis, a ideia é a única forma realista de alcançar outro sistema solar neste.</description>
-              <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>Ciência do enxame de laser no sistema Proxima Centauri</category>
-              <source url="https://www.universetoday.com/articles/laser-swarm-science-at-the-proxima-centauri-system">Universe Today</source>
-              <content:encoded>A ideia de enviar um enxame de minúsculas naves espaciais movidas a velas laser para o nosso exoplaneta mais próximo não irá desaparecer. Embora complexa e pontuada por problemas difíceis, a ideia é a única forma realista de alcançar outro sistema solar neste século. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a es</content:encoded>
+              <description>Estrelas binárias são comuns, mas durante muito tempo os astrónomos pensaram que os exoplanetas teriam dificuldade em formar-se à sua volta. Nos últimos anos, telescópios poderosos detectaram cerca de 50 destes planetas. Agora, novas simulações mostram isso.</description>
+              <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>Estrelas binárias formam muitos exoplanetas</category>
+              <source url="https://www.universetoday.com/articles/binary-stars-form-lots-of-exoplanets-but-many-of-them-are-ejected-as-rogue-planets">Universe Today</source>
+              <content:encoded>Estrelas binárias são comuns, mas durante muito tempo os astrónomos pensaram que os exoplanetas teriam dificuldade em formar-se à sua volta. Nos últimos anos, telescópios poderosos detectaram cerca de 50 destes planetas. Agora, novas simulações mostram isso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadr</content:encoded>
+            </item><item>
+              <title>Os planetas mais comuns na galáxia não aparecem em torno das estrelas mais comuns, sugerem observações do TESS</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=the-most-common-planets-in-the-galaxy-don-t-appear-around-the-most-common-stars-tess-observation</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=the-most-common-planets-in-the-galaxy-don-t-appear-around-the-most-common-stars-tess-observation</guid>
+              <pubDate>Wed, 29 Apr 2026 16:20:04 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Os astrónomos estimam agora que existe pelo menos um planeta para cada estrela da nossa galáxia. Esses mundos, chamados exoplanetas, são planetas que orbitam estrelas fora do nosso sistema solar. Mas uma nova pesquisa da Universidade McMaster revela algo.</description>
+              <category>Exoplanetas</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Os planetas mais comuns na galáxia não aparecem em torno das estrelas mais comuns</category>
+              <source url="https://phys.org/news/2026-04-common-planets-galaxy-dont-stars.html">Phys.org Space</source>
+              <content:encoded>Os astrónomos estimam agora que existe pelo menos um planeta para cada estrela da nossa galáxia. Esses mundos, chamados exoplanetas, são planetas que orbitam estrelas fora do nosso sistema solar. Mas uma nova pesquisa da Universidade McMaster revela algo surpreendente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a </content:encoded>
             </item>
   </channel>
 </rss>

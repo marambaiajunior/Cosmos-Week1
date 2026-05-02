@@ -40,14 +40,14 @@ window.postsData = [
     "date": "02 mai 2026",
     "date_pt": "02 mai 2026",
     "date_en": "02 May 2026",
-    "time": "08h42",
-    "time_pt": "08h42",
-    "time_en": "08:42 UTC",
+    "time": "10h06",
+    "time_pt": "10h06",
+    "time_en": "10:06 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-02T08:42:32.580475+00:00",
-    "lastModifiedIso": "2026-05-02T08:42:32.580475+00:00",
+    "publishedIso": "2026-05-02T10:06:22.793147+00:00",
+    "lastModifiedIso": "2026-05-02T10:06:22.793147+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "02 mai 2026",
     "date_pt": "02 mai 2026",
     "date_en": "02 May 2026",
-    "time": "08h42",
-    "time_pt": "08h42",
-    "time_en": "08:42 UTC",
+    "time": "10h06",
+    "time_pt": "10h06",
+    "time_en": "10:06 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-02T08:42:32.580286+00:00",
-    "lastModifiedIso": "2026-05-02T08:42:32.580286+00:00",
+    "publishedIso": "2026-05-02T10:06:22.792912+00:00",
+    "lastModifiedIso": "2026-05-02T10:06:22.792912+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,14 +250,14 @@ window.postsData = [
     "date": "02 mai 2026",
     "date_pt": "02 mai 2026",
     "date_en": "02 May 2026",
-    "time": "08h42",
-    "time_pt": "08h42",
-    "time_en": "08:42 UTC",
+    "time": "10h06",
+    "time_pt": "10h06",
+    "time_en": "10:06 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-02T08:42:32.580236+00:00",
-    "lastModifiedIso": "2026-05-02T08:42:32.580236+00:00",
+    "publishedIso": "2026-05-02T10:06:22.792863+00:00",
+    "lastModifiedIso": "2026-05-02T10:06:22.792863+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -365,14 +365,14 @@ window.postsData = [
     "date": "02 mai 2026",
     "date_pt": "02 mai 2026",
     "date_en": "02 May 2026",
-    "time": "08h42",
-    "time_pt": "08h42",
-    "time_en": "08:42 UTC",
+    "time": "10h06",
+    "time_pt": "10h06",
+    "time_en": "10:06 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-02T08:42:32.580184+00:00",
-    "lastModifiedIso": "2026-05-02T08:42:32.580184+00:00",
+    "publishedIso": "2026-05-02T10:06:22.792811+00:00",
+    "lastModifiedIso": "2026-05-02T10:06:22.792811+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -470,14 +470,14 @@ window.postsData = [
     "date": "02 mai 2026",
     "date_pt": "02 mai 2026",
     "date_en": "02 May 2026",
-    "time": "08h42",
-    "time_pt": "08h42",
-    "time_en": "08:42 UTC",
+    "time": "10h06",
+    "time_pt": "10h06",
+    "time_en": "10:06 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-02T08:42:32.580134+00:00",
-    "lastModifiedIso": "2026-05-02T08:42:32.580134+00:00",
+    "publishedIso": "2026-05-02T10:06:22.792761+00:00",
+    "lastModifiedIso": "2026-05-02T10:06:22.792761+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -538,6 +538,121 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "visible-planets-and-night-sky-guide-for-may",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2026/04/2026-May-2-Moon-B.jpeg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Planetas visíveis e guia do céu noturno para maio",
+    "title_pt": "Planetas visíveis e guia do céu noturno para maio",
+    "title_en": "Visible planets and night sky guide for May",
+    "sub": "Planetas visíveis e guia do céu noturno. A lua já passou de um dia cheia. Está nascendo no leste cerca de uma hora após o pôr do sol, perto do vermelho brilhante Antares. O post.",
+    "sub_pt": "Planetas visíveis e guia do céu noturno. A lua já passou de um dia cheia. Está nascendo no leste cerca de uma hora após o pôr do sol, perto do vermelho brilhante Antares. O post.",
+    "sub_en": "Visible planets and night sky guide. The moon is now one day past full. It's rising in the east about an hour after sunset, near bright red Antares. The post Visible planets and.",
+    "excerpt": "Planetas visíveis e guia do céu noturno. A lua já passou de um dia cheia. Está nascendo no leste cerca de uma hora após o pôr do sol, perto do vermelho brilhante Antares. O post Planetas visíveis e guia do céu noturno para maio apareceu pela primeira vez no.",
+    "excerpt_pt": "Planetas visíveis e guia do céu noturno. A lua já passou de um dia cheia. Está nascendo no leste cerca de uma hora após o pôr do sol, perto do vermelho brilhante Antares. O post Planetas visíveis e guia do céu noturno para maio apareceu pela primeira vez no.",
+    "excerpt_en": "Visible planets and night sky guide. The moon is now one day past full. It's rising in the east about an hour after sunset, near bright red Antares. The post Visible planets and night sky guide for May first appeared on EarthSky.",
+    "body": "<p>Planetas visíveis e guia do céu noturno. A lua já passou de um dia cheia. Está nascendo no leste cerca de uma hora após o pôr do sol, perto do vermelho brilhante Antares. O post Planetas visíveis e guia do céu noturno para maio apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A lua atingirá o apogeu, sua distância mais distante da Terra em sua órbita elíptica, às 23 UTC de 4 de maio de 2026, quando estiver a 252.176 milhas (405.839 km) de distância. Lua perto de Antares e Escorpião Na manhã de 4 e 5 de maio, a lua minguante gibosa estará perto da brilhante estrela vermelha Antares.</p><p>Os Eta Aquariids de 2026 competirão com uma lua minguante e minguante brilhante, reduzindo o número de meteoros que você poderá ver. Tudo o que você precisa saber sobre os meteoros Eta Aquariid 6 e 7 de maio pela manhã: Lua e Bule Na manhã de 6 de maio, a lua minguante gibosa ficará pendurada entre as estrelas.</p><p>Sagitário, o Arqueiro e seu famoso bule 9 de maio: Observe a lua crescente do terceiro quarto nas fotos da comunidade EarthSky. Lua perto de Capricórnio Nas manhãs de 8, 9 e 10 de maio, a lua brilhará diante das estrelas da constelação de Capricórnio, o Bode do Mar.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Planetas visíveis e guia do céu noturno. A lua já passou de um dia cheia. Está nascendo no leste cerca de uma hora após o pôr do sol, perto do vermelho brilhante Antares. O post Planetas visíveis e guia do céu noturno para maio apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A lua atingirá o apogeu, sua distância mais distante da Terra em sua órbita elíptica, às 23 UTC de 4 de maio de 2026, quando estiver a 252.176 milhas (405.839 km) de distância. Lua perto de Antares e Escorpião Na manhã de 4 e 5 de maio, a lua minguante gibosa estará perto da brilhante estrela vermelha Antares.</p><p>Os Eta Aquariids de 2026 competirão com uma lua minguante e minguante brilhante, reduzindo o número de meteoros que você poderá ver. Tudo o que você precisa saber sobre os meteoros Eta Aquariid 6 e 7 de maio pela manhã: Lua e Bule Na manhã de 6 de maio, a lua minguante gibosa ficará pendurada entre as estrelas.</p><p>Sagitário, o Arqueiro e seu famoso bule 9 de maio: Observe a lua crescente do terceiro quarto nas fotos da comunidade EarthSky. Lua perto de Capricórnio Nas manhãs de 8, 9 e 10 de maio, a lua brilhará diante das estrelas da constelação de Capricórnio, o Bode do Mar.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Visible planets and night sky guide. The moon is now one day past full. It&#x27;s rising in the east about an hour after sunset, near bright red Antares. The post Visible planets and night sky guide for May first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The moon will reach apogee, its farthest distance from Earth in its elliptical orbit, at 23 UTC on May 4, 2026, when it’s 252,176 miles (405,839 km) away. Moon near Antares and Scorpius On the morning of May 4 and 5, the waning gibbous moon will be near the bright red star Antares.</p><p>The 2026 Eta Aquariids will compete with a bright waning gibbous moon, reducing how many meteors you might see. All you need to know about Eta Aquariid meteors May 6 and 7 mornings: Moon and Teapot On the morning of May 6, the waning gibbous moon will hang among the stars of the asterism of.</p><p>Sagittarius the Archer and its famous Teapot May 9: Watch for the 3rd quarter moon View at EarthSky Community Photos. Moon near Capricornus On the mornings of May 8, 9 and 10, the moon will shine in front of the stars of the constellation Capricornus the Sea Goat.</p><p>Capricornus the Sea Goat May 13 and 14 mornings: Moon near Mars and Saturn On the mornings of May 13 and 14, a thin waning crescent moon will shine near Saturn and Mars. Moon near Mars and Saturn On the morning of May 15, about 30 minutes before sunrise, the very thin waning crescent moon will lie above the horizon and near Saturn and Mars.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>New supermoon This GOES-19 CORR1 coronagraph from November 18-19, 2025 (designed to show coronal mass ejections from the sun), captured a fun view of the new moon, which would. The moment of new moon will fall at 20: 01 UTC on May 16, 2026.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Planetas visíveis e guia do céu noturno. A lua já passou de um dia cheia. Está nascendo no leste cerca de uma hora após o pôr do sol, perto do.",
+      "Dado-chave: A lua atingirá o apogeu, sua distância mais distante da Terra em sua órbita elíptica, às 23 UTC de 4 de maio de 2026, quando estiver a 252.176.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Planetas visíveis e guia do céu noturno. A lua já passou de um dia cheia. Está nascendo no leste cerca de uma hora após o pôr do sol, perto do.",
+      "Dado-chave: A lua atingirá o apogeu, sua distância mais distante da Terra em sua órbita elíptica, às 23 UTC de 4 de maio de 2026, quando estiver a 252.176.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Visible planets and night sky guide. The moon is now one day past full. It's rising in the east about an hour after sunset, near bright red Antares.",
+      "Key detail: The moon will reach apogee, its farthest distance from Earth in its elliptical orbit, at 23 UTC on May 4, 2026, when it’s 252,176 miles (405,839.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "02 mai 2026",
+    "date_pt": "02 mai 2026",
+    "date_en": "02 May 2026",
+    "time": "10h00",
+    "time_pt": "10h00",
+    "time_en": "10:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-02T10:00:08+00:00",
+    "lastModifiedIso": "2026-05-02T10:00:08+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Planetas visíveis e guia do céu noturno para maio"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Planetas visíveis e guia do céu noturno para maio"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "Visible Planets and Night Sky Guide for May"
+    ],
+    "srcUrl": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-may",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-may",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-may&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 68,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 62,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "nasa-laser-terminal-enhances-views-during-artemis-ii-mission",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -669,7 +784,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -683,7 +798,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "radio-telescope-array-reveals-the-masses-of-hidden-young-stars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -816,7 +931,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "seeing-an-eclipse-from-earth-is-awe-inspiring-for-astronauts-in-space-the-scene-was-even-more-gr",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -965,7 +1080,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "a-new-way-to-plan-trajectories-to-asteroids",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1106,152 +1221,6 @@ window.postsData = [
       "source": 76,
       "evidence": 88,
       "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "new-lithium-plasma-engine-passes-key-mars-propulsion-test",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-lithium-plasma-eng.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-lithium-plasma-eng.jpg",
-        "caption": "Novo motor de plasma de lítio passa no principal teste de propulsão de Marte",
-        "caption_pt": "Novo motor de plasma de lítio passa no principal teste de propulsão de Marte",
-        "caption_en": "New lithium-plasma engine passes key Mars propulsion test",
-        "alt": "Novo motor de plasma de lítio passa no principal teste de propulsão de Marte",
-        "alt_pt": "Novo motor de plasma de lítio passa no principal teste de propulsão de Marte",
-        "alt_en": "New lithium-plasma engine passes key Mars propulsion test"
-      },
-      {
-        "src": "https://scx0.b-cdn.net/pic/llock.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx0.b-cdn.net/pic/Robert.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/6xsqsa9tnfy",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://phys.org/news/2026-05-lithium-plasma-key-mars-propulsion.html"
-    },
-    "audio": null,
-    "title": "Novo motor de plasma de lítio passa no principal teste de propulsão de Marte",
-    "title_pt": "Novo motor de plasma de lítio passa no principal teste de propulsão de Marte",
-    "title_en": "New lithium-plasma engine passes key Mars propulsion test",
-    "sub": "Você está na quarta missão humana a Marte e foi informado de que a espaçonave Odyssey projetada para levá-lo até lá será a viagem mais tranquila que você já fez. Ele apresenta um.",
-    "sub_pt": "Você está na quarta missão humana a Marte e foi informado de que a espaçonave Odyssey projetada para levá-lo até lá será a viagem mais tranquila que você já fez. Ele apresenta um.",
-    "sub_en": "You're on the fourth human mission to Mars, and you're told the Odyssey spacecraft designed to take you there will be the smoothest ride you'll ever take. It features a newly.",
-    "excerpt": "Você está na quarta missão humana a Marte e foi informado de que a espaçonave Odyssey projetada para levá-lo até lá será a viagem mais tranquila que você já fez. Ele apresenta um motor de propulsão elétrico recém-batizado, que foi lançado no final.",
-    "excerpt_pt": "Você está na quarta missão humana a Marte e foi informado de que a espaçonave Odyssey projetada para levá-lo até lá será a viagem mais tranquila que você já fez. Ele apresenta um motor de propulsão elétrico recém-batizado, que foi lançado no final.",
-    "excerpt_en": "You're on the fourth human mission to Mars, and you're told the Odyssey spacecraft designed to take you there will be the smoothest ride you'll ever take. It features a newly christened electric propulsion engine which was in the late.",
-    "body": "<p>Você está na quarta missão humana a Marte e foi informado de que a espaçonave Odyssey projetada para levá-lo até lá será a viagem mais tranquila que você já fez. Ele apresenta um motor de propulsão elétrico recém-batizado, que foi lançado no final. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Você está na quarta missão humana a Marte e foi informado de que a espaçonave Odyssey projetada para levá-lo até lá será a viagem mais tranquila que você já fez. NASA/JPL-Caltech Você está na quarta missão humana a Marte e foi informado de que a espaçonave Odyssey projetada para levá-lo até lá será a viagem mais tranquila que você já fez.</p><p>Uma semana se passa e você está viajando a mais de 400.000 quilômetros (250.000 milhas) por hora, e sua mente fica impressionada com o quão rápido você está indo, com que rapidez. Este cenário está possivelmente a uma década de distância, no mínimo, mas isso não impede as mentes brilhantes da NASA de construir e testar sistemas de propulsão de próxima.</p><p>Isso ocorre porque os engenheiros da NASA testaram recentemente um sistema de propulsão elétrica de próxima geração que alcançou novos recordes, ao mesmo tempo que requer vapor. Num feito notável, os testes estabeleceram com sucesso um novo recorde nos Estados Unidos de 120 quilowatts de potência, que se estima ser 25 vezes maior do que a nave espacial.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-lithium-plasma-key-mars-propulsion.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Você está na quarta missão humana a Marte e foi informado de que a espaçonave Odyssey projetada para levá-lo até lá será a viagem mais tranquila que você já fez. Ele apresenta um motor de propulsão elétrico recém-batizado, que foi lançado no final. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Você está na quarta missão humana a Marte e foi informado de que a espaçonave Odyssey projetada para levá-lo até lá será a viagem mais tranquila que você já fez. NASA/JPL-Caltech Você está na quarta missão humana a Marte e foi informado de que a espaçonave Odyssey projetada para levá-lo até lá será a viagem mais tranquila que você já fez.</p><p>Uma semana se passa e você está viajando a mais de 400.000 quilômetros (250.000 milhas) por hora, e sua mente fica impressionada com o quão rápido você está indo, com que rapidez. Este cenário está possivelmente a uma década de distância, no mínimo, mas isso não impede as mentes brilhantes da NASA de construir e testar sistemas de propulsão de próxima.</p><p>Isso ocorre porque os engenheiros da NASA testaram recentemente um sistema de propulsão elétrica de próxima geração que alcançou novos recordes, ao mesmo tempo que requer vapor. Num feito notável, os testes estabeleceram com sucesso um novo recorde nos Estados Unidos de 120 quilowatts de potência, que se estima ser 25 vezes maior do que a nave espacial.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-lithium-plasma-key-mars-propulsion.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>You&#x27;re on the fourth human mission to Mars, and you&#x27;re told the Odyssey spacecraft designed to take you there will be the smoothest ride you&#x27;ll ever take. It features a newly christened electric propulsion engine which was in the late. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. You&#x27;re on the fourth human mission to Mars, and you&#x27;re told the Odyssey spacecraft designed to take you there will be the smoothest ride you&#x27;ll ever take. NASA/JPL-Caltech You&#x27;re on the fourth human mission to Mars, and you&#x27;re told the Odyssey spacecraft designed to take you there will be the smoothest ride you&#x27;ll ever take.</p><p>A week goes by and you&#x27;re now traveling at more than 400,000 kilometers (250,000 miles) per hour, and your mind is blown as to how fast you&#x27;re going, how quickly that happened. This scenario is quite possibly a decade away, at minimum, but that&#x27;s not stopping the bright minds at NASA from building and testing next-generation propulsion systems designed.</p><p>This is because NASA engineers recently tested a next-generation electric propulsion system that achieved new records while requiring lithium metal vapor for fuel and holds the. In a remarkable achievement, the tests successfully set a new record in the United States of 120 kilowatts of power, which is estimated to be 25 times greater than NASA&#x27;s Psyche.</p><p>Aside from the speed, which gradually builds during the thrusters&#x27; continuous operation, electric propulsion systems save a considerable amount of fuel, up to 90%, compared to. Designing and building these thrusters over the last couple of years has been a long lead-up to this first test,&quot; said James Polk, who is a senior research scientist at NASA Jet.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>And we know we have a good testbed to begin addressing the challenges to scaling up.&quot; While 120 kilowatts is a new record, NASA estimates a future human mission to Mars will. The reason for the extended operation is due to the estimated time of an entire human mission to Mars, which is estimated to be approximately 2.6 years.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-lithium-plasma-key-mars-propulsion.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Você está na quarta missão humana a Marte e foi informado de que a espaçonave Odyssey projetada para levá-lo até lá será a viagem mais tranquila que.",
-      "Dado-chave: Você está na quarta missão humana a Marte e foi informado de que a espaçonave Odyssey projetada para levá-lo até lá será a viagem mais tranquila.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Você está na quarta missão humana a Marte e foi informado de que a espaçonave Odyssey projetada para levá-lo até lá será a viagem mais tranquila que.",
-      "Dado-chave: Você está na quarta missão humana a Marte e foi informado de que a espaçonave Odyssey projetada para levá-lo até lá será a viagem mais tranquila.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: You're on the fourth human mission to Mars, and you're told the Odyssey spacecraft designed to take you there will be the smoothest ride you'll ever.",
-      "Key detail: You're on the fourth human mission to Mars, and you're told the Odyssey spacecraft designed to take you there will be the smoothest ride you'll.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "01 mai 2026",
-    "date_pt": "01 mai 2026",
-    "date_en": "01 May 2026",
-    "time": "16h20",
-    "time_pt": "16h20",
-    "time_en": "16:20 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-01T16:20:06+00:00",
-    "lastModifiedIso": "2026-05-01T16:20:06+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Cosmologia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Novo motor de plasma de lítio passa no principal teste de propulsão de Marte"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Novo motor de plasma de lítio passa no principal teste de propulsão de Marte"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "Phys.org Space",
-      "Cosmos Week",
-      "New lithium plasma engine passes key Mars propulsion test"
-    ],
-    "srcUrl": "https://phys.org/news/2026-05-lithium-plasma-key-mars-propulsion.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=new-lithium-plasma-engine-passes-key-mars-propulsion-test",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=new-lithium-plasma-engine-passes-key-mars-propulsion-test",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=new-lithium-plasma-engine-passes-key-mars-propulsion-test&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 76,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 88,
       "accessibility": 60,
       "novelty": 55
     }
@@ -1682,6 +1651,145 @@ window.postsData = [
   },
   {
     "id": 14,
+    "slug": "desi-hvs1-is-an-old-hypervelocity-star-ejected-from-the-galactic-center-observations-suggest",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/galactic-runaway.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/galactic-runaway.jpg",
+        "caption": "Fugitivo Galáctico",
+        "caption_pt": "Fugitivo Galáctico",
+        "caption_en": "Galactic Runaway",
+        "alt": "Fugitivo Galáctico",
+        "alt_pt": "Fugitivo Galáctico",
+        "alt_en": "Galactic Runaway"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/desi-hvs1-is-an-old-hy.jpg",
+        "caption": "Localização e direção do movimento do DESI-HVS1 na galáxia. Os três painéis mostram diferentes projeções em coordenadas cartesianas galácticas. As posições do sol, do centro galáctico e do círculo solar são indicadas pela cor laranja.",
+        "caption_pt": "Localização e direção do movimento do DESI-HVS1 na galáxia. Os três painéis mostram diferentes projeções em coordenadas cartesianas galácticas. As posições do sol, do centro galáctico e do círculo solar são indicadas pela cor laranja.",
+        "caption_en": "Location and direction of motion of DESI-HVS1 in the galaxy. The three panels show different projections in galactic Cartesian coordinates. The positions of the sun, the galactic center, and the solar circle are indicated by the orange.",
+        "alt": "DESI-HVS1 é uma antiga estrela de hipervelocidade ejetada do centro galáctico, sugerem observações",
+        "alt_pt": "DESI-HVS1 é uma antiga estrela de hipervelocidade ejetada do centro galáctico, sugerem observações",
+        "alt_en": "DESI-HVS1 is an old hypervelocity star ejected from the Galactic center, observations suggest"
+      },
+      {
+        "src": "https://scx0.b-cdn.net/pic/tomasz.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "DESI-HVS1 é uma antiga estrela de hipervelocidade ejetada do centro galáctico, sugerem observações",
+    "title_pt": "DESI-HVS1 é uma antiga estrela de hipervelocidade ejetada do centro galáctico, sugerem observações",
+    "title_en": "DESI-HVS1 is an old hypervelocity star ejected from the galactic center, observations suggest",
+    "sub": "Astrônomos chineses relatam a descoberta de DESI-HVS1, que pode ser uma antiga estrela de hipervelocidade pobre em metais com origem no centro galáctico. A descoberta, baseada nos.",
+    "sub_pt": "Astrônomos chineses relatam a descoberta de DESI-HVS1, que pode ser uma antiga estrela de hipervelocidade pobre em metais com origem no centro galáctico. A descoberta, baseada nos.",
+    "sub_en": "Chinese astronomers report the discovery of DESI-HVS1, which may be an old metal-poor hypervelocity star of galactic center origin. The finding, based on the data from the Dark.",
+    "excerpt": "Astrônomos chineses relatam a descoberta de DESI-HVS1, que pode ser uma antiga estrela de hipervelocidade pobre em metais com origem no centro galáctico. A descoberta, baseada nos dados do Instrumento Espectroscópico de Energia Escura e do satélite Gaia da.",
+    "excerpt_pt": "Astrônomos chineses relatam a descoberta de DESI-HVS1, que pode ser uma antiga estrela de hipervelocidade pobre em metais com origem no centro galáctico. A descoberta, baseada nos dados do Instrumento Espectroscópico de Energia Escura e do satélite Gaia da.",
+    "excerpt_en": "Chinese astronomers report the discovery of DESI-HVS1, which may be an old metal-poor hypervelocity star of galactic center origin. The finding, based on the data from the Dark Energy Spectroscopic Instrument and ESA's Gaia satellite, was.",
+    "body": "<p>Astrônomos chineses relatam a descoberta de DESI-HVS1, que pode ser uma antiga estrela de hipervelocidade pobre em metais com origem no centro galáctico. A descoberta, baseada nos dados do Instrumento Espectroscópico de Energia Escura e do satélite Gaia da ESA, foi. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Astrônomos chineses relatam a descoberta de DESI-HVS1, que pode ser uma antiga estrela de hipervelocidade pobre em metais com origem no centro galáctico.</p><p>A descoberta, baseada nos dados do Dark Energy Spectroscopic Instrument (DESI) e do satélite Gaia da ESA, foi detalhada num artigo de investigação publicado a 23 de abril no. Estrelas de hipervelocidade (HVSs) têm velocidades substancialmente mais altas (geralmente superiores a 500 km/s) do que o resto da população estelar de uma galáxia, o que lhes.</p><p>Eles relatam a descoberta de DESI-HVS1, uma estrela antiga, de baixa massa e pobre em metais, do tipo F, que classificaram como candidata a HVS. Nesta carta, relatamos a descoberta e análise detalhada do DESI-HVS1, o primeiro candidato a HVS de origem GC que é antigo, de baixa massa e de tipo tardio, identificado usando.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-desi-hvs1-hypervelocity-star-ejected.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Astrônomos chineses relatam a descoberta de DESI-HVS1, que pode ser uma antiga estrela de hipervelocidade pobre em metais com origem no centro galáctico. A descoberta, baseada nos dados do Instrumento Espectroscópico de Energia Escura e do satélite Gaia da ESA, foi. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Astrônomos chineses relatam a descoberta de DESI-HVS1, que pode ser uma antiga estrela de hipervelocidade pobre em metais com origem no centro galáctico.</p><p>A descoberta, baseada nos dados do Dark Energy Spectroscopic Instrument (DESI) e do satélite Gaia da ESA, foi detalhada num artigo de investigação publicado a 23 de abril no. Estrelas de hipervelocidade (HVSs) têm velocidades substancialmente mais altas (geralmente superiores a 500 km/s) do que o resto da população estelar de uma galáxia, o que lhes.</p><p>Eles relatam a descoberta de DESI-HVS1, uma estrela antiga, de baixa massa e pobre em metais, do tipo F, que classificaram como candidata a HVS. Nesta carta, relatamos a descoberta e análise detalhada do DESI-HVS1, o primeiro candidato a HVS de origem GC que é antigo, de baixa massa e de tipo tardio, identificado usando.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-desi-hvs1-hypervelocity-star-ejected.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Chinese astronomers report the discovery of DESI-HVS1, which may be an old metal-poor hypervelocity star of galactic center origin. The finding, based on the data from the Dark Energy Spectroscopic Instrument and ESA&#x27;s Gaia satellite, was. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. This article has been reviewed according to Science X&#x27;s editorial process and policies. Chinese astronomers report the discovery of DESI-HVS1, which may be an old metal-poor hypervelocity star of galactic center origin.</p><p>The finding, based on the data from the Dark Energy Spectroscopic Instrument (DESI) and ESA&#x27;s Gaia satellite, was detailed in a research paper published April 23 on the arXiv. Hypervelocity stars (HVSs) have substantially higher velocities (usually exceeding 500 km/s) than the rest of the stellar population of a galaxy, which allows them to even escape.</p><p>They report the discovery of DESI-HVS1, an old, low-mass, metal-poor F-type star, which they classified as a HVS candidate. In this Letter, we report the discovery and detailed analysis of DESI-HVS1, the first candidate GC-origin HVS that is old, low-mass, and late-type, identified using spectroscopy.</p><p>According to the paper, DESI-HVS1 is located some 12,300 light years away and has a galactocentric total velocity of approximately 523 km/s, therefore comparable to the escape. The astronomers noted that the present-day position and velocity vector of DESI-HVS1 suggest motion away from the galactic disk and outward from the inner Milky Way.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>The collected data indicate that DESI-HVS1 passed within 1,300 light years of the galactic center about 12.9 million years ago, with an inferred ejection velocity of 682 km/s. The study also found that DESI-HVS1 has a mass of 0.76 solar masses, effective temperature of 6,198 K, and metallicity at a level of -1.64 dex.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-desi-hvs1-hypervelocity-star-ejected.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Astrônomos chineses relatam a descoberta de DESI-HVS1, que pode ser uma antiga estrela de hipervelocidade pobre em metais com origem no centro.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Astrônomos chineses relatam a descoberta de DESI-HVS1, que pode ser uma antiga estrela de hipervelocidade pobre em metais com origem no centro.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Chinese astronomers report the discovery of DESI-HVS1, which may be an old metal-poor hypervelocity star of galactic center origin. The finding.",
+      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "01 mai 2026",
+    "date_pt": "01 mai 2026",
+    "date_en": "01 May 2026",
+    "time": "14h00",
+    "time_pt": "14h00",
+    "time_en": "14:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-01T14:00:03+00:00",
+    "lastModifiedIso": "2026-05-01T14:00:03+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "DESI",
+      "HVS1 é uma antiga estrela de hipervelocidade ejetada do centro galáctico",
+      "sugerem observações"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "DESI",
+      "HVS1 é uma antiga estrela de hipervelocidade ejetada do centro galáctico",
+      "sugerem observações"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "Phys.org Space",
+      "Cosmos Week",
+      "DESI",
+      "HVS1 is an ancient hypervelocity star ejected from the galactic center",
+      "suggest observations"
+    ],
+    "srcUrl": "https://phys.org/news/2026-04-desi-hvs1-hypervelocity-star-ejected.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=desi-hvs1-is-an-old-hypervelocity-star-ejected-from-the-galactic-center-observations-suggest",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=desi-hvs1-is-an-old-hypervelocity-star-ejected-from-the-galactic-center-observations-suggest",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=desi-hvs1-is-an-old-hypervelocity-star-ejected-from-the-galactic-center-observations-suggest&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 15,
     "slug": "how-tilted-orbits-impact-supermassive-black-hole-collisions",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1814,7 +1922,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "newly-confirmed-supernova-remnant-is-one-of-the-faintest-ever-detected",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1947,7 +2055,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "eccentricity-as-a-signature-of-hierarchical-subsolar-mass-mergers-in-collapsar-disks",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2052,7 +2160,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "binary-stars-form-lots-of-exoplanets-but-many-of-them-are-ejected-as-rogue-planets",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2188,7 +2296,7 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "laser-swarm-science-at-the-proxima-centauri-system",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2334,7 +2442,7 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "surprise-a-jupiter-like-exoplanet-with-water-ice-clouds",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2449,7 +2557,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "nasa-s-storie-mission-to-tell-tale-of-earth-s-ring-current",
     "cat": "Física",
     "catCls": "fisica",
@@ -2591,11 +2699,11 @@ window.postsData = [
       "evidence": 88,
       "relevance": 82,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "a-new-quasi-1d-state-of-matter-could-be-hiding-inside-ice-giant-planets",
     "cat": "Física",
     "catCls": "fisica",
@@ -2713,7 +2821,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "is-the-large-magellanic-cloud-a-first-time-visitor",
     "cat": "Física",
     "catCls": "fisica",
@@ -2821,17 +2929,17 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 74,
+    "score": 73,
     "scoreBreakdown": {
       "source": 73,
       "evidence": 82,
       "relevance": 82,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "curiosity-team-hits-jackpot-a-sample-full-of-complex-organic-molecules",
     "cat": "Química",
     "catCls": "quimica",
@@ -2967,145 +3075,6 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
-    "slug": "sentinel-1d-goes-live-a-milestone-for-europe-s-radar-mission",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/10/the_sentinel-1_mission/26396793-1-eng-GB/The_Sentinel-1_mission_card_full.png",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/ariane_6_takes_sentinel-1d_into_orbit/26954372-5-eng-GB/Ariane_6_takes_Sentinel-1D_into_orbit_article.jpg",
-        "caption": "Ariane 6 coloca Sentinel-1D em órbita",
-        "caption_pt": "Ariane 6 coloca Sentinel-1D em órbita",
-        "caption_en": "Ariane 6 takes Sentinel-1D into orbit",
-        "alt": "Ariane 6 coloca Sentinel-1D em órbita",
-        "alt_pt": "Ariane 6 coloca Sentinel-1D em órbita",
-        "alt_en": "Ariane 6 takes Sentinel-1D into orbit"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/04/antarctica_peninsula_from_sentinel-1a/14476587-2-eng-GB/Antarctica_Peninsula_from_Sentinel-1A_pillars.jpg",
-        "caption": "Península Antártica",
-        "caption_pt": "Península Antártica",
-        "caption_en": "Antarctica Peninsula",
-        "alt": "Península Antártica",
-        "alt_pt": "Península Antártica",
-        "alt_en": "Antarctica Peninsula"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2015/02/lisbon_portugal/15234748-1-eng-GB/Lisbon_Portugal_pillars.jpg",
-        "caption": "Lisboa, Portugal",
-        "caption_pt": "Lisboa, Portugal",
-        "caption_en": "Lisbon, Portugal",
-        "alt": "Lisboa, Portugal",
-        "alt_pt": "Lisboa, Portugal",
-        "alt_en": "Lisbon, Portugal"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Sentinel-1D entra em operação: um marco para a missão de radar da Europa",
-    "title_pt": "Sentinel-1D entra em operação: um marco para a missão de radar da Europa",
-    "title_en": "Sentinel-1D goes live: a milestone for Europe’s radar mission",
-    "sub": "O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica de comissionamento em órbita.",
-    "sub_pt": "O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica de comissionamento em órbita.",
-    "sub_en": "The Copernicus Sentinel-1D satellite, launched last November, is now fully operational after successfully completing its critical in-orbit commissioning phase. With all four.",
-    "excerpt": "O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica de comissionamento em órbita. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista.",
-    "excerpt_pt": "O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica de comissionamento em órbita. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista.",
-    "excerpt_en": "The Copernicus Sentinel-1D satellite, launched last November, is now fully operational after successfully completing its critical in-orbit commissioning phase. With all four Sentinel-1 satellites having now been deployed, this achievement.",
-    "body": "<p>O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica de comissionamento em órbita. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista representa um marco importante para esta missão de radar emblemática, uma jornada que começou há mais de. Quando o Sentinel-1A, o primeiro desta geração, foi lançado em 2014, marcou mais do que o início de uma única missão.</p><p>A missão Sentinel-1 foi projetada como uma constelação de dois satélites idênticos orbitando a Terra separados por 180 graus para uma cobertura ideal, então, em 2016, o. A missão Sentinel-1B chegou ao fim em agosto de 2022 após passar por uma anomalia técnica que a impossibilitou de adquirir dados.</p><p>A missão fornece imagens de radar de abertura sintética de alta resolução da superfície da Terra em todos os climas, dia e noite. A missão Sentinel-1 também abriu caminho noutra área crucial: a sustentabilidade no espaço.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_goes_live_a_milestone_for_Europe_s_radar_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica de comissionamento em órbita. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista representa um marco importante para esta missão de radar emblemática, uma jornada que começou há mais de. Quando o Sentinel-1A, o primeiro desta geração, foi lançado em 2014, marcou mais do que o início de uma única missão.</p><p>A missão Sentinel-1 foi projetada como uma constelação de dois satélites idênticos orbitando a Terra separados por 180 graus para uma cobertura ideal, então, em 2016, o. A missão Sentinel-1B chegou ao fim em agosto de 2022 após passar por uma anomalia técnica que a impossibilitou de adquirir dados.</p><p>A missão fornece imagens de radar de abertura sintética de alta resolução da superfície da Terra em todos os climas, dia e noite. A missão Sentinel-1 também abriu caminho noutra área crucial: a sustentabilidade no espaço.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_goes_live_a_milestone_for_Europe_s_radar_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The Copernicus Sentinel-1D satellite, launched last November, is now fully operational after successfully completing its critical in-orbit commissioning phase. With all four Sentinel-1 satellites having now been deployed, this achievement. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. With all four Sentinel-1 satellites having now been deployed, this achievement marks a major milestone for this flagship radar mission, a journey that began more than a decade ago. When Sentinel-1A, the first of this generation, launched in 2014, it marked more than the start of a single mission.</p><p>The Sentinel-1 mission was designed as a constellation of two identical satellites orbiting Earth 180 degrees apart for optimal coverage, so in 2016, Sentinel-1B was launched to. The Sentinel-1B mission came to an end in August 2022 after experiencing a technical anomaly that rendered it unable to acquire data.</p><p>The mission delivers high-resolution synthetic aperture radar images of Earth’s surface in all weathers, day-and-night. The Sentinel-1 mission has also broken ground in another crucial area: sustainability in space.</p><p>Sentinel-1C and Sentinel-1D carry a world premiere of a new separation mechanism which will help avoid space debris, underscoring the European Space Agency’s and the European. With the last of the first-generation Sentinel-1 satellites now beginning its operational life in orbit, ESA and the EC are looking ahead.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>ESA’s Sentinel-1 Mission Manger, Nuno Miranda, said, “Sentinel-1 began as a trailblazer. With the successful commissioning of Sentinel-1D, it now stands as a cornerstone, reflecting Europe’s achievements while serving as a launchpad for what comes next.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_goes_live_a_milestone_for_Europe_s_radar_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica.",
-      "Dado-chave: Com todos os quatro satélites Sentinel-1 já implantados, esta conquista representa um marco importante para esta missão de radar emblemática.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica.",
-      "Dado-chave: Com todos os quatro satélites Sentinel-1 já implantados, esta conquista representa um marco importante para esta missão de radar emblemática.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The Copernicus Sentinel-1D satellite, launched last November, is now fully operational after successfully completing its critical in-orbit.",
-      "Key detail: With all four Sentinel-1 satellites having now been deployed, this achievement marks a major milestone for this flagship radar mission, a.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "01 mai 2026",
-    "date_pt": "01 mai 2026",
-    "date_en": "01 May 2026",
-    "time": "08h32",
-    "time_pt": "08h32",
-    "time_en": "08:32 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-01T08:32:00+00:00",
-    "lastModifiedIso": "2026-05-01T08:32:00+00:00",
-    "source": "ESA Space News",
-    "sourceDomain": "www.esa.int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "Sentinel",
-      "1D entra em operação",
-      "um marco para a missão de radar da Europa"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "Sentinel",
-      "1D entra em operação",
-      "um marco para a missão de radar da Europa"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "ESA Space News",
-      "Cosmos Week",
-      "Sentinel",
-      "1D goes live",
-      "a milestone for Europe's radar mission"
-    ],
-    "srcUrl": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_goes_live_a_milestone_for_Europe_s_radar_mission",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=sentinel-1d-goes-live-a-milestone-for-europe-s-radar-mission",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=sentinel-1d-goes-live-a-milestone-for-europe-s-radar-mission",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=sentinel-1d-goes-live-a-milestone-for-europe-s-radar-mission&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 80,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
     "id": 25,
     "slug": "smile-set-to-launch-on-19-may",
     "cat": "Astronomia",
@@ -3216,35 +3185,7 @@ window.postsData = [
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/close-up_of_plato_s_cameras/27212574-1-eng-GB/Close-up_of_Plato_s_cameras_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/close-up_of_plato_s_cameras/27212574-1-eng-GB/Close-up_of_Plato_s_cameras_pillars.jpg",
-        "caption": "Close das câmeras de Platão",
-        "caption_pt": "Close das câmeras de Platão",
-        "caption_en": "Close-up of Plato’s cameras",
-        "alt": "Close das câmeras de Platão",
-        "alt_pt": "Close das câmeras de Platão",
-        "alt_en": "Close-up of Plato’s cameras"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/lifting_plato_out_of_the_large_space_simulator/27212621-1-eng-GB/Lifting_Plato_out_of_the_Large_Space_Simulator_pillars.jpg",
-        "caption": "Tirando Platão do Grande Simulador Espacial",
-        "caption_pt": "Tirando Platão do Grande Simulador Espacial",
-        "caption_en": "Lifting Plato out of the Large Space Simulator",
-        "alt": "Tirando Platão do Grande Simulador Espacial",
-        "alt_pt": "Tirando Platão do Grande Simulador Espacial",
-        "alt_en": "Lifting Plato out of the Large Space Simulator"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/plato_leaves_the_large_space_simulator/27212668-1-eng-GB/Plato_leaves_the_Large_Space_Simulator_pillars.jpg",
-        "caption": "Platão deixa o Grande Simulador de Espaço",
-        "caption_pt": "Platão deixa o Grande Simulador de Espaço",
-        "caption_en": "Plato leaves the Large Space Simulator",
-        "alt": "Platão deixa o Grande Simulador de Espaço",
-        "alt_pt": "Platão deixa o Grande Simulador de Espaço",
-        "alt_en": "Plato leaves the Large Space Simulator"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Platão acerta testes espaciais",
@@ -3256,22 +3197,22 @@ window.postsData = [
     "excerpt": "A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra.",
     "excerpt_pt": "A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra.",
     "excerpt_en": "The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial.",
-    "body": "<p>A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres. Plato emergiu recentemente da câmara do Large Space Simulator (LSS) no Centro de Testes da ESA, onde a nave espacial conheceu pela primeira vez os rigores do espaço.</p><p>O objetivo geral da missão é descobrir planetas potencialmente habitáveis, semelhantes à Terra, em torno de estrelas brilhantes semelhantes ao Sol. Para isso, o desempenho das 26 câmeras ultrassensíveis de Platão é crucial.</p><p>“Para encontrar e caracterizar planetas semelhantes à Terra em órbita em torno de estrelas semelhantes ao Sol, precisamos de descobrir variações na luminosidade de uma estrela. Gestor de Projeto Plato da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres. Plato emergiu recentemente da câmara do Large Space Simulator (LSS) no Centro de Testes da ESA, onde a nave espacial conheceu pela primeira vez os rigores do espaço.</p><p>O objetivo geral da missão é descobrir planetas potencialmente habitáveis, semelhantes à Terra, em torno de estrelas brilhantes semelhantes ao Sol. Para isso, o desempenho das 26 câmeras ultrassensíveis de Platão é crucial.</p><p>“Para encontrar e caracterizar planetas semelhantes à Terra em órbita em torno de estrelas semelhantes ao Sol, precisamos de descobrir variações na luminosidade de uma estrela. Gestor de Projeto Plato da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial planets. Plato recently emerged from the Large Space Simulator (LSS) chamber at ESA’s Test Centre, where the spacecraft made its first acquaintance with the rigours of space.</p><p>The mission’s overarching goal is to discover potentially habitable, Earth-like planets around bright stars similar to the Sun. For this, the performance of Plato’s 26 ultrasensitive cameras is crucial.</p><p>“To find and characterise Earth-like planets in orbit around Sun-like stars, we need to tease out variations in a star’s luminosity smaller than 80 parts per million,” explains. ESA’s Plato Project Manager.</p><p>“We want to verify that the spacecraft can do what we expect it to do in harsh as well as nominal space conditions.” During the hot phase, engineers ran all the spacecraft’s. At the same time, they made sure that the cameras, protected by the sunshield and facing the cold part of the chamber, stayed between –70 and –90 °C.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The tests in a space-like environment have been completed, but the analysis of the data collected while Plato was inside the LSS will continue in the coming months. Lift-off on an Ariane 6 is planned by Arianespace for January 2027.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial planets.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta.",
-      "Dado-chave: Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres.",
+      "Dado-chave: A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta.",
-      "Dado-chave: Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres.",
+      "Dado-chave: A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions. With this accomplishment, the.",
-      "Key detail: With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial planets.",
+      "Key detail: The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "23 abr 2026",
@@ -4756,6 +4697,145 @@ window.postsData = [
   },
   {
     "id": 38,
+    "slug": "sentinel-1d-goes-live-a-milestone-for-europe-s-radar-mission",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/10/the_sentinel-1_mission/26396793-1-eng-GB/The_Sentinel-1_mission_card_full.png",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/ariane_6_takes_sentinel-1d_into_orbit/26954372-5-eng-GB/Ariane_6_takes_Sentinel-1D_into_orbit_article.jpg",
+        "caption": "Ariane 6 coloca Sentinel-1D em órbita",
+        "caption_pt": "Ariane 6 coloca Sentinel-1D em órbita",
+        "caption_en": "Ariane 6 takes Sentinel-1D into orbit",
+        "alt": "Ariane 6 coloca Sentinel-1D em órbita",
+        "alt_pt": "Ariane 6 coloca Sentinel-1D em órbita",
+        "alt_en": "Ariane 6 takes Sentinel-1D into orbit"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/04/antarctica_peninsula_from_sentinel-1a/14476587-2-eng-GB/Antarctica_Peninsula_from_Sentinel-1A_pillars.jpg",
+        "caption": "Península Antártica",
+        "caption_pt": "Península Antártica",
+        "caption_en": "Antarctica Peninsula",
+        "alt": "Península Antártica",
+        "alt_pt": "Península Antártica",
+        "alt_en": "Antarctica Peninsula"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2015/02/lisbon_portugal/15234748-1-eng-GB/Lisbon_Portugal_pillars.jpg",
+        "caption": "Lisboa, Portugal",
+        "caption_pt": "Lisboa, Portugal",
+        "caption_en": "Lisbon, Portugal",
+        "alt": "Lisboa, Portugal",
+        "alt_pt": "Lisboa, Portugal",
+        "alt_en": "Lisbon, Portugal"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Sentinel-1D entra em operação: um marco para a missão de radar da Europa",
+    "title_pt": "Sentinel-1D entra em operação: um marco para a missão de radar da Europa",
+    "title_en": "Sentinel-1D goes live: a milestone for Europe’s radar mission",
+    "sub": "O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica de comissionamento em órbita.",
+    "sub_pt": "O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica de comissionamento em órbita.",
+    "sub_en": "The Copernicus Sentinel-1D satellite, launched last November, is now fully operational after successfully completing its critical in-orbit commissioning phase. With all four.",
+    "excerpt": "O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica de comissionamento em órbita. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista.",
+    "excerpt_pt": "O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica de comissionamento em órbita. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista.",
+    "excerpt_en": "The Copernicus Sentinel-1D satellite, launched last November, is now fully operational after successfully completing its critical in-orbit commissioning phase. With all four Sentinel-1 satellites having now been deployed, this achievement.",
+    "body": "<p>O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica de comissionamento em órbita. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista representa um marco importante para esta missão de radar emblemática, uma jornada que começou há mais de. Quando o Sentinel-1A, o primeiro desta geração, foi lançado em 2014, marcou mais do que o início de uma única missão.</p><p>A missão Sentinel-1 foi projetada como uma constelação de dois satélites idênticos orbitando a Terra separados por 180 graus para uma cobertura ideal, então, em 2016, o. A missão Sentinel-1B chegou ao fim em agosto de 2022 após passar por uma anomalia técnica que a impossibilitou de adquirir dados.</p><p>A missão fornece imagens de radar de abertura sintética de alta resolução da superfície da Terra em todos os climas, dia e noite. A missão Sentinel-1 também abriu caminho noutra área crucial: a sustentabilidade no espaço.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_goes_live_a_milestone_for_Europe_s_radar_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica de comissionamento em órbita. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista representa um marco importante para esta missão de radar emblemática, uma jornada que começou há mais de. Quando o Sentinel-1A, o primeiro desta geração, foi lançado em 2014, marcou mais do que o início de uma única missão.</p><p>A missão Sentinel-1 foi projetada como uma constelação de dois satélites idênticos orbitando a Terra separados por 180 graus para uma cobertura ideal, então, em 2016, o. A missão Sentinel-1B chegou ao fim em agosto de 2022 após passar por uma anomalia técnica que a impossibilitou de adquirir dados.</p><p>A missão fornece imagens de radar de abertura sintética de alta resolução da superfície da Terra em todos os climas, dia e noite. A missão Sentinel-1 também abriu caminho noutra área crucial: a sustentabilidade no espaço.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_goes_live_a_milestone_for_Europe_s_radar_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The Copernicus Sentinel-1D satellite, launched last November, is now fully operational after successfully completing its critical in-orbit commissioning phase. With all four Sentinel-1 satellites having now been deployed, this achievement. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. With all four Sentinel-1 satellites having now been deployed, this achievement marks a major milestone for this flagship radar mission, a journey that began more than a decade ago. When Sentinel-1A, the first of this generation, launched in 2014, it marked more than the start of a single mission.</p><p>The Sentinel-1 mission was designed as a constellation of two identical satellites orbiting Earth 180 degrees apart for optimal coverage, so in 2016, Sentinel-1B was launched to. The Sentinel-1B mission came to an end in August 2022 after experiencing a technical anomaly that rendered it unable to acquire data.</p><p>The mission delivers high-resolution synthetic aperture radar images of Earth’s surface in all weathers, day-and-night. The Sentinel-1 mission has also broken ground in another crucial area: sustainability in space.</p><p>Sentinel-1C and Sentinel-1D carry a world premiere of a new separation mechanism which will help avoid space debris, underscoring the European Space Agency’s and the European. With the last of the first-generation Sentinel-1 satellites now beginning its operational life in orbit, ESA and the EC are looking ahead.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>ESA’s Sentinel-1 Mission Manger, Nuno Miranda, said, “Sentinel-1 began as a trailblazer. With the successful commissioning of Sentinel-1D, it now stands as a cornerstone, reflecting Europe’s achievements while serving as a launchpad for what comes next.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_goes_live_a_milestone_for_Europe_s_radar_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica.",
+      "Dado-chave: Com todos os quatro satélites Sentinel-1 já implantados, esta conquista representa um marco importante para esta missão de radar emblemática.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica.",
+      "Dado-chave: Com todos os quatro satélites Sentinel-1 já implantados, esta conquista representa um marco importante para esta missão de radar emblemática.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The Copernicus Sentinel-1D satellite, launched last November, is now fully operational after successfully completing its critical in-orbit.",
+      "Key detail: With all four Sentinel-1 satellites having now been deployed, this achievement marks a major milestone for this flagship radar mission, a.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "01 mai 2026",
+    "date_pt": "01 mai 2026",
+    "date_en": "01 May 2026",
+    "time": "08h32",
+    "time_pt": "08h32",
+    "time_en": "08:32 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-01T08:32:00+00:00",
+    "lastModifiedIso": "2026-05-01T08:32:00+00:00",
+    "source": "ESA Space News",
+    "sourceDomain": "www.esa.int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "Sentinel",
+      "1D entra em operação",
+      "um marco para a missão de radar da Europa"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "Sentinel",
+      "1D entra em operação",
+      "um marco para a missão de radar da Europa"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "ESA Space News",
+      "Cosmos Week",
+      "Sentinel",
+      "1D goes live",
+      "a milestone for Europe's radar mission"
+    ],
+    "srcUrl": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_goes_live_a_milestone_for_Europe_s_radar_mission",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=sentinel-1d-goes-live-a-milestone-for-europe-s-radar-mission",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=sentinel-1d-goes-live-a-milestone-for-europe-s-radar-mission",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=sentinel-1d-goes-live-a-milestone-for-europe-s-radar-mission&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 80,
+      "evidence": 82,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 39,
     "slug": "nsf-to-proceed-with-demolition-and-site-restoration-at-sacramento-peak-observatory",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4888,7 +4968,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 40,
     "slug": "another-one-ariane-6-flies-with-four-boosters-once-more",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -5021,139 +5101,6 @@ window.postsData = [
       "relevance": 62,
       "accessibility": 60,
       "novelty": 52
-    }
-  },
-  {
-    "id": 40,
-    "slug": "fires-rage-in-georgia",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-rage-in-georgia/georgiafirehwy82_oli_20260423.jpg?w=720&h=550&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fiery-fall-color-in-southern-chile/fallinpatagonia_oli2_20260412_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Colinas tingidas de laranja avermelhado aparecem através de uma fresta nas nuvens.",
-        "caption_pt": "Colinas tingidas de laranja avermelhado aparecem através de uma fresta nas nuvens.",
-        "caption_en": "Hills tinged with reddish orange appear through a break in the clouds.",
-        "alt": "Colinas tingidas de laranja avermelhado aparecem através de uma fresta nas nuvens.",
-        "alt_pt": "Colinas tingidas de laranja avermelhado aparecem através de uma fresta nas nuvens.",
-        "alt_en": "Hills tinged with reddish orange appear through a break in the clouds."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/winter's-end-is-written-in-the-clouds/akcloudswirls_tmo_20260319_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "A península do Alasca, coberta de neve, é delimitada por uma faixa de águas abertas, que fica obscurecida por diversas formações de nuvens, incluindo vórtices (canto inferior esquerdo), faixas paralelas de nuvens (centro) e um sistema espiral (canto superior direito).",
-        "caption_pt": "A península do Alasca, coberta de neve, é delimitada por uma faixa de águas abertas, que fica obscurecida por diversas formações de nuvens, incluindo vórtices (canto inferior esquerdo), faixas paralelas de nuvens (centro) e um sistema espiral (canto superior direito).",
-        "caption_en": "The snow-covered Alaska Peninsula is bordered by a strip of open water, which becomes obscured by varied cloud formations including vortices (bottom left), parallel cloud bands (center), and a spiral system (upper right).",
-        "alt": "A península do Alasca, coberta de neve, é delimitada por uma faixa de águas abertas, que fica obscurecida por diversas formações de nuvens, incluindo vórtices (canto inferior esquerdo), faixas paralelas de nuvens (centro) e um sistema espiral (canto superior direito).",
-        "alt_pt": "A península do Alasca, coberta de neve, é delimitada por uma faixa de águas abertas, que fica obscurecida por diversas formações de nuvens, incluindo vórtices (canto inferior esquerdo), faixas paralelas de nuvens (centro) e um sistema espiral (canto superior direito).",
-        "alt_en": "The snow-covered Alaska Peninsula is bordered by a strip of open water, which becomes obscured by varied cloud formations including vortices (bottom left), parallel cloud bands (center), and a spiral system (upper right)."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-rage-in-georgia/georgiafire_pineland_oli_20260423.jpg?w=1000&h=667&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Uma área queimada perto de Fruitland parece cinza em meio a um fundo de vegetação verde. Pequenas nuvens dispersas são visíveis na parte inferior da imagem.",
-        "caption_pt": "Uma área queimada perto de Fruitland parece cinza em meio a um fundo de vegetação verde. Pequenas nuvens dispersas são visíveis na parte inferior da imagem.",
-        "caption_en": "A patch of burned area near Fruitland appears gray amid a background of green vegetation. Small scattered clouds are visible in the lower part of the image.",
-        "alt": "Uma área queimada perto de Fruitland parece cinza em meio a um fundo de vegetação verde. Pequenas nuvens dispersas são visíveis na parte inferior da imagem.",
-        "alt_pt": "Uma área queimada perto de Fruitland parece cinza em meio a um fundo de vegetação verde. Pequenas nuvens dispersas são visíveis na parte inferior da imagem.",
-        "alt_en": "A patch of burned area near Fruitland appears gray amid a background of green vegetation. Small scattered clouds are visible in the lower part of the image."
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Incêndios aumentam na Geórgia",
-    "title_pt": "Incêndios aumentam na Geórgia",
-    "title_en": "Fires Rage in Georgia",
-    "sub": "Os bombeiros estão lutando contra dois incêndios destrutivos na parte sul do estado, enquanto a seca atinge o sudeste dos EUA. O post Fires Rage in Georgia apareceu pela primeira.",
-    "sub_pt": "Os bombeiros estão lutando contra dois incêndios destrutivos na parte sul do estado, enquanto a seca atinge o sudeste dos EUA. O post Fires Rage in Georgia apareceu pela primeira.",
-    "sub_en": "Firefighters are battling two destructive blazes in the southern part of the state as drought grips the U. S. Southeast. The post Fires Rage in Georgia appeared first on NASA.",
-    "excerpt": "Os bombeiros estão lutando contra dois incêndios destrutivos na parte sul do estado, enquanto a seca atinge o sudeste dos EUA. O post Fires Rage in Georgia apareceu pela primeira vez na NASA Science.",
-    "excerpt_pt": "Os bombeiros estão lutando contra dois incêndios destrutivos na parte sul do estado, enquanto a seca atinge o sudeste dos EUA. O post Fires Rage in Georgia apareceu pela primeira vez na NASA Science.",
-    "excerpt_en": "Firefighters are battling two destructive blazes in the southern part of the state as drought grips the U. S. Southeast. The post Fires Rage in Georgia appeared first on NASA Science.",
-    "body": "<p>Os bombeiros estão lutando contra dois incêndios destrutivos na parte sul do estado, enquanto a seca atinge o sudeste dos EUA. O post Fires Rage in Georgia apareceu pela primeira vez na NASA Science. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Fires Rage in Georgia apareceu pela primeira vez na NASA Science. NASA Earth Observatory/Michala Garrison O incêndio na Highway 82 começou em 18 de abril com uma faísca de uma operação de soldagem, e o incêndio na Pineland Road começou três dias.</p><p>^ News &amp; World Report (2026, 23 de abril) Os detritos do furacão Helene estão ajudando a alimentar os incêndios florestais na Geórgia. Imagem do Dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>Explore dados de ciências da terra da Terra Acesso aberto ao arquivo de dados de ciências da Terra da NASA O post Fires Rage in Georgia apareceu pela primeira vez em NASA Science. NASA Earth Observatory/Michala Garrison Uma seca extrema que assola o sudeste há meses ajudou a alimentar dois grandes incêndios florestais destrutivos e causados ​​pelo homem no.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA Earth Observatory, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/fires-rage-in-georgia/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os bombeiros estão lutando contra dois incêndios destrutivos na parte sul do estado, enquanto a seca atinge o sudeste dos EUA. O post Fires Rage in Georgia apareceu pela primeira vez na NASA Science. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Fires Rage in Georgia apareceu pela primeira vez na NASA Science. NASA Earth Observatory/Michala Garrison O incêndio na Highway 82 começou em 18 de abril com uma faísca de uma operação de soldagem, e o incêndio na Pineland Road começou três dias.</p><p>^ News &amp; World Report (2026, 23 de abril) Os detritos do furacão Helene estão ajudando a alimentar os incêndios florestais na Geórgia. Imagem do Dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>Explore dados de ciências da terra da Terra Acesso aberto ao arquivo de dados de ciências da Terra da NASA O post Fires Rage in Georgia apareceu pela primeira vez em NASA Science. NASA Earth Observatory/Michala Garrison Uma seca extrema que assola o sudeste há meses ajudou a alimentar dois grandes incêndios florestais destrutivos e causados ​​pelo homem no.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA Earth Observatory, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/fires-rage-in-georgia/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Firefighters are battling two destructive blazes in the southern part of the state as drought grips the U. S. Southeast. The post Fires Rage in Georgia appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The post Fires Rage in Georgia appeared first on NASA Science. NASA Earth Observatory/Michala Garrison The Highway 82 blaze started on April 18 with a spark from a welding operation, and the Pineland Road fire ignited three days later after a.</p><p>News &amp; World Report (2026, April 23) Debris From Hurricane Helene Is Helping Fuel Georgia’s Wildfires. Earth Observatory Image of the Day NASA&#x27;s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p><p>Explore Earth Science Earth Science Data Open access to NASA’s archive of Earth science data The post Fires Rage in Georgia appeared first on NASA Science. NASA Earth Observatory/Michala Garrison An extreme drought that has gripped the Southeast for months helped fuel two large, destructive, human-caused wildland fires in southern.</p><p>The Highway 82 blaze started on April 18 with a spark from a welding operation, and the Pineland Road fire ignited three days later after a mylar balloon collided with power lines. Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Article Fires on the Rise in the Far North 3 min read Satellite-based maps show northern wildland fires becoming more frequent and widespread as temperatures rise and lightning. Article 1 2 3 4 Next Keep Exploring Discover More from NASA Earth Science Subscribe to Earth Observatory Newsletters Subscribe to the Earth Observatory and get the Earth in your.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/fires-rage-in-georgia/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os bombeiros estão lutando contra dois incêndios destrutivos na parte sul do estado, enquanto a seca atinge o sudeste dos EUA. O post Fires Rage in.",
-      "Dado-chave: O post Fires Rage in Georgia apareceu pela primeira vez na NASA Science.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os bombeiros estão lutando contra dois incêndios destrutivos na parte sul do estado, enquanto a seca atinge o sudeste dos EUA. O post Fires Rage in.",
-      "Dado-chave: O post Fires Rage in Georgia apareceu pela primeira vez na NASA Science.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Firefighters are battling two destructive blazes in the southern part of the state as drought grips the U. S. Southeast. The post Fires Rage in.",
-      "Key detail: The post Fires Rage in Georgia appeared first on NASA Science.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "29 abr 2026",
-    "date_pt": "29 abr 2026",
-    "date_en": "29 Apr 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04:01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-29T04:01:00+00:00",
-    "lastModifiedIso": "2026-04-29T04:01:00+00:00",
-    "source": "NASA Earth Observatory",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Incêndios aumentam na Geórgia"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Incêndios aumentam na Geórgia"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Fires increase in Georgia"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/fires-rage-in-georgia/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=fires-rage-in-georgia",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=fires-rage-in-georgia",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=fires-rage-in-georgia&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 70,
-    "scoreBreakdown": {
-      "source": 75,
-      "evidence": 88,
-      "relevance": 62,
-      "accessibility": 60,
-      "novelty": 49
     }
   }
 ];

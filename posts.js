@@ -40,14 +40,14 @@ window.postsData = [
     "date": "05 mai 2026",
     "date_pt": "05 mai 2026",
     "date_en": "05 May 2026",
-    "time": "06h26",
-    "time_pt": "06h26",
-    "time_en": "06:26 UTC",
+    "time": "08h35",
+    "time_pt": "08h35",
+    "time_en": "08:35 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-05T06:26:20.413690+00:00",
-    "lastModifiedIso": "2026-05-05T06:26:20.413690+00:00",
+    "publishedIso": "2026-05-05T08:35:45.191529+00:00",
+    "lastModifiedIso": "2026-05-05T08:35:45.191529+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "05 mai 2026",
     "date_pt": "05 mai 2026",
     "date_en": "05 May 2026",
-    "time": "06h26",
-    "time_pt": "06h26",
-    "time_en": "06:26 UTC",
+    "time": "08h35",
+    "time_pt": "08h35",
+    "time_en": "08:35 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-05T06:26:20.413504+00:00",
-    "lastModifiedIso": "2026-05-05T06:26:20.413504+00:00",
+    "publishedIso": "2026-05-05T08:35:45.191348+00:00",
+    "lastModifiedIso": "2026-05-05T08:35:45.191348+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,14 +250,14 @@ window.postsData = [
     "date": "05 mai 2026",
     "date_pt": "05 mai 2026",
     "date_en": "05 May 2026",
-    "time": "06h26",
-    "time_pt": "06h26",
-    "time_en": "06:26 UTC",
+    "time": "08h35",
+    "time_pt": "08h35",
+    "time_en": "08:35 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-05T06:26:20.413458+00:00",
-    "lastModifiedIso": "2026-05-05T06:26:20.413458+00:00",
+    "publishedIso": "2026-05-05T08:35:45.191304+00:00",
+    "lastModifiedIso": "2026-05-05T08:35:45.191304+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -365,14 +365,14 @@ window.postsData = [
     "date": "05 mai 2026",
     "date_pt": "05 mai 2026",
     "date_en": "05 May 2026",
-    "time": "06h26",
-    "time_pt": "06h26",
-    "time_en": "06:26 UTC",
+    "time": "08h35",
+    "time_pt": "08h35",
+    "time_en": "08:35 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-05T06:26:20.413409+00:00",
-    "lastModifiedIso": "2026-05-05T06:26:20.413409+00:00",
+    "publishedIso": "2026-05-05T08:35:45.191259+00:00",
+    "lastModifiedIso": "2026-05-05T08:35:45.191259+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -470,14 +470,14 @@ window.postsData = [
     "date": "05 mai 2026",
     "date_pt": "05 mai 2026",
     "date_en": "05 May 2026",
-    "time": "06h26",
-    "time_pt": "06h26",
-    "time_en": "06:26 UTC",
+    "time": "08h35",
+    "time_pt": "08h35",
+    "time_en": "08:35 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-05T06:26:20.413361+00:00",
-    "lastModifiedIso": "2026-05-05T06:26:20.413361+00:00",
+    "publishedIso": "2026-05-05T08:35:45.191215+00:00",
+    "lastModifiedIso": "2026-05-05T08:35:45.191215+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -1274,13 +1274,13 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 82,
+    "score": 81,
     "scoreBreakdown": {
       "source": 94,
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -1892,13 +1892,13 @@ window.postsData = [
     "isPreprint": true,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 67,
+    "score": 66,
     "scoreBreakdown": {
       "source": 56,
       "evidence": 58,
       "relevance": 94,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -2010,13 +2010,13 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 82,
+    "score": 81,
     "scoreBreakdown": {
       "source": 94,
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -2439,7 +2439,7 @@ window.postsData = [
       "evidence": 82,
       "relevance": 82,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -3911,13 +3911,13 @@ window.postsData = [
         "alt_en": ""
       },
       {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_May01_ev_NORM_FEATURED.jpg",
-        "caption": "Vênus com Aldebaran e as Plêiades, 1º de maio de 2026",
-        "caption_pt": "Vênus com Aldebaran e as Plêiades, 1º de maio de 2026",
-        "caption_en": "Venus with Aldebaran and the Pleiades, May 1, 2026",
-        "alt": "Vênus com Aldebaran e as Plêiades, 1º de maio de 2026",
-        "alt_pt": "Vênus com Aldebaran e as Plêiades, 1º de maio de 2026",
-        "alt_en": "Venus with Aldebaran and the Pleiades, May 1, 2026"
+        "src": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_Apr25_ev_COLOR-CORRECTED_FEATURED.jpg",
+        "caption": "Lua para Regulus oculto no céu brilhante, 25 de abril de 2026",
+        "caption_pt": "Lua para Regulus oculto no céu brilhante, 25 de abril de 2026",
+        "caption_en": "Moon to occult Regulus in bright sky, April 25, 2026",
+        "alt": "Lua para Regulus oculto no céu brilhante, 25 de abril de 2026",
+        "alt_pt": "Lua para Regulus oculto no céu brilhante, 25 de abril de 2026",
+        "alt_en": "Moon to occult Regulus in bright sky, April 25, 2026"
       }
     ],
     "video": null,
@@ -4811,7 +4811,7 @@ window.postsData = [
       "evidence": 82,
       "relevance": 80,
       "accessibility": 60,
-      "novelty": 49
+      "novelty": 46
     }
   },
   {
@@ -4929,7 +4929,7 @@ window.postsData = [
       "evidence": 82,
       "relevance": 80,
       "accessibility": 60,
-      "novelty": 52
+      "novelty": 49
     }
   },
   {

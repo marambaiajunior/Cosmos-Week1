@@ -38,14 +38,14 @@
     "date": "05 mai 2026",
     "date_pt": "05 mai 2026",
     "date_en": "05 May 2026",
-    "time": "03h46",
-    "time_pt": "03h46",
-    "time_en": "03:46 UTC",
+    "time": "06h26",
+    "time_pt": "06h26",
+    "time_en": "06:26 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-05T03:46:50.976581+00:00",
-    "lastModifiedIso": "2026-05-05T03:46:50.976581+00:00",
+    "publishedIso": "2026-05-05T06:26:20.413690+00:00",
+    "lastModifiedIso": "2026-05-05T06:26:20.413690+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -143,14 +143,14 @@
     "date": "05 mai 2026",
     "date_pt": "05 mai 2026",
     "date_en": "05 May 2026",
-    "time": "03h46",
-    "time_pt": "03h46",
-    "time_en": "03:46 UTC",
+    "time": "06h26",
+    "time_pt": "06h26",
+    "time_en": "06:26 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-05T03:46:50.976400+00:00",
-    "lastModifiedIso": "2026-05-05T03:46:50.976400+00:00",
+    "publishedIso": "2026-05-05T06:26:20.413504+00:00",
+    "lastModifiedIso": "2026-05-05T06:26:20.413504+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -248,14 +248,14 @@
     "date": "05 mai 2026",
     "date_pt": "05 mai 2026",
     "date_en": "05 May 2026",
-    "time": "03h46",
-    "time_pt": "03h46",
-    "time_en": "03:46 UTC",
+    "time": "06h26",
+    "time_pt": "06h26",
+    "time_en": "06:26 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-05T03:46:50.976356+00:00",
-    "lastModifiedIso": "2026-05-05T03:46:50.976356+00:00",
+    "publishedIso": "2026-05-05T06:26:20.413458+00:00",
+    "lastModifiedIso": "2026-05-05T06:26:20.413458+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -363,14 +363,14 @@
     "date": "05 mai 2026",
     "date_pt": "05 mai 2026",
     "date_en": "05 May 2026",
-    "time": "03h46",
-    "time_pt": "03h46",
-    "time_en": "03:46 UTC",
+    "time": "06h26",
+    "time_pt": "06h26",
+    "time_en": "06:26 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-05T03:46:50.976310+00:00",
-    "lastModifiedIso": "2026-05-05T03:46:50.976310+00:00",
+    "publishedIso": "2026-05-05T06:26:20.413409+00:00",
+    "lastModifiedIso": "2026-05-05T06:26:20.413409+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -468,14 +468,14 @@
     "date": "05 mai 2026",
     "date_pt": "05 mai 2026",
     "date_en": "05 May 2026",
-    "time": "03h46",
-    "time_pt": "03h46",
-    "time_en": "03:46 UTC",
+    "time": "06h26",
+    "time_pt": "06h26",
+    "time_en": "06:26 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-05T03:46:50.976265+00:00",
-    "lastModifiedIso": "2026-05-05T03:46:50.976265+00:00",
+    "publishedIso": "2026-05-05T06:26:20.413361+00:00",
+    "lastModifiedIso": "2026-05-05T06:26:20.413361+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -536,6 +536,139 @@
   },
   {
     "id": 6,
+    "slug": "ahuachapan-and-its-restive-neighbors",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ahuachapán-and-its-restive-neighbors/ahuachapan_oli_20241125.jpg?w=2160&h=1650&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/record-setting-retreat-of-hektoria-glacier/hektoria_oli_20240325_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "As geleiras fluem dos lados esquerdo e inferior da imagem, terminando muito mais perto das falésias do que na imagem anterior.",
+        "caption_pt": "As geleiras fluem dos lados esquerdo e inferior da imagem, terminando muito mais perto das falésias do que na imagem anterior.",
+        "caption_en": "Glaciers flow from the left and bottom sides of the image, terminating much closer to the cliffs than in the previous image.",
+        "alt": "As geleiras fluem dos lados esquerdo e inferior da imagem, terminando muito mais perto das falésias do que na imagem anterior.",
+        "alt_pt": "As geleiras fluem dos lados esquerdo e inferior da imagem, terminando muito mais perto das falésias do que na imagem anterior.",
+        "alt_en": "Glaciers flow from the left and bottom sides of the image, terminating much closer to the cliffs than in the previous image."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ahuachapán-and-its-restive-neighbors/ahuachapan_oli_20241125_lrg.jpg?w=5996&h=6364&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Uma cadeia de picos vulcânicos arborizados atravessa a imagem, com uma área de fluxos de lava escura no canto inferior direito e a área urbana mais brilhante de Ahuachapán no canto superior esquerdo.",
+        "caption_pt": "Uma cadeia de picos vulcânicos arborizados atravessa a imagem, com uma área de fluxos de lava escura no canto inferior direito e a área urbana mais brilhante de Ahuachapán no canto superior esquerdo.",
+        "caption_en": "A chain of forested volcanic peaks arc across the image, with an area of dark lava flows in the lower right and the brighter urban area of Ahuachapán in the upper left.",
+        "alt": "Uma cadeia de picos vulcânicos arborizados atravessa a imagem, com uma área de fluxos de lava escura no canto inferior direito e a área urbana mais brilhante de Ahuachapán no canto superior esquerdo.",
+        "alt_pt": "Uma cadeia de picos vulcânicos arborizados atravessa a imagem, com uma área de fluxos de lava escura no canto inferior direito e a área urbana mais brilhante de Ahuachapán no canto superior esquerdo.",
+        "alt_en": "A chain of forested volcanic peaks arc across the image, with an area of dark lava flows in the lower right and the brighter urban area of Ahuachapán in the upper left."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lake-coatepeque/ISS074-E-312810_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Ahuachapán e seus vizinhos inquietos",
+    "title_pt": "Ahuachapán e seus vizinhos inquietos",
+    "title_en": "Ahuachapán and Its Restive Neighbors",
+    "sub": "De um ponto de acesso geotérmico ao antigo “Farol do Pacífico”, o calor aumenta sob a paisagem vulcânica do oeste de El Salvador.",
+    "sub_pt": "De um ponto de acesso geotérmico ao antigo “Farol do Pacífico”, o calor aumenta sob a paisagem vulcânica do oeste de El Salvador.",
+    "sub_en": "From a geothermal hotspot to the one-time “Lighthouse of the Pacific,” the heat is on beneath the volcanic landscape of western El Salvador.",
+    "excerpt": "De um ponto de acesso geotérmico ao antigo “Farol do Pacífico”, o calor aumenta sob a paisagem vulcânica do oeste de El Salvador.",
+    "excerpt_pt": "De um ponto de acesso geotérmico ao antigo “Farol do Pacífico”, o calor aumenta sob a paisagem vulcânica do oeste de El Salvador.",
+    "excerpt_en": "From a geothermal hotspot to the one-time “Lighthouse of the Pacific,” the heat is on beneath the volcanic landscape of western El Salvador.",
+    "body": "<p>De um ponto de acesso geotérmico ao antigo “Farol do Pacífico”, o calor aumenta sob a paisagem vulcânica do oeste de El Salvador. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Lago Coatepeque 3 min de leitura Situado em meio à moderna e ativa paisagem vulcânica de El Salvador, águas azuis tranquilas enchem uma caldeira formada por erupções antigas. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>A área faz parte de uma paisagem vulcânica que se estende por mais de 1.000 quilômetros (600 milhas) ao longo da costa do Pacífico, da Guatemala ao Panamá, compondo o Arco. No lado direito da imagem, Santa Ana fica a 2.381 metros (7.812 pés) acima do nível do mar como o vulcão mais alto do país.</p><p>O vulcão permanece ativo, com erupções explosivas pequenas a moderadas registadas desde o século XVI. A sua mais recente erupção significativa, em 2005, lançou uma densa coluna de gás e cinzas no ar e enviou lahars pelas suas encostas.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/ahuachapan-and-its-restive-neighbors/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>De um ponto de acesso geotérmico ao antigo “Farol do Pacífico”, o calor aumenta sob a paisagem vulcânica do oeste de El Salvador. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Lago Coatepeque 3 min de leitura Situado em meio à moderna e ativa paisagem vulcânica de El Salvador, águas azuis tranquilas enchem uma caldeira formada por erupções antigas. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>A área faz parte de uma paisagem vulcânica que se estende por mais de 1.000 quilômetros (600 milhas) ao longo da costa do Pacífico, da Guatemala ao Panamá, compondo o Arco. No lado direito da imagem, Santa Ana fica a 2.381 metros (7.812 pés) acima do nível do mar como o vulcão mais alto do país.</p><p>O vulcão permanece ativo, com erupções explosivas pequenas a moderadas registadas desde o século XVI. A sua mais recente erupção significativa, em 2005, lançou uma densa coluna de gás e cinzas no ar e enviou lahars pelas suas encostas.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/ahuachapan-and-its-restive-neighbors/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>From a geothermal hotspot to the one-time “Lighthouse of the Pacific,” the heat is on beneath the volcanic landscape of western El Salvador. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Lake Coatepeque 3 min read Set amid El Salvador’s modern, active volcanic landscape, tranquil blue waters fill a caldera formed by ancient eruptions. Earth Observatory Image of the Day NASA’s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p><p>The area is part of a volcanic landscape that stretches more than 1,000 kilometers (600 miles) along the Pacific coast from Guatemala to Panama, composing the Central American. On the right side of the image, Santa Ana stands at 2,381 meters (7,812 feet) above sea level as the country’s tallest volcano.</p><p>The volcano remains active, with small to moderate explosive eruptions recorded since the 16th century. Its most recent significant eruption, in 2005, launched a dense gas and ash column high in the air and sent lahars down its slopes.</p><p>The “lighthouse” has since powered down, with Izalco’s most recent activity occurring in 1966. There are no recorded eruptions of these volcanoes in the Holocene (the past 11,700 years), but persistent geothermal activity along the range manifests in the form of fumaroles.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Sudden and deadly steam explosions occasionally occur in the area, including a blast in October 1990 near the range’s Laguna Verde volcano. The Ahuachapán Geothermal Power Plant has operated since 1975, leveraging groundwater naturally heated to around 250 degrees Celsius (480 degrees Fahrenheit) and local fault.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/ahuachapan-and-its-restive-neighbors/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: De um ponto de acesso geotérmico ao antigo “Farol do Pacífico”, o calor aumenta sob a paisagem vulcânica do oeste de El Salvador.",
+      "Dado-chave: Lago Coatepeque 3 min de leitura Situado em meio à moderna e ativa paisagem vulcânica de El Salvador, águas azuis tranquilas enchem uma caldeira.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: De um ponto de acesso geotérmico ao antigo “Farol do Pacífico”, o calor aumenta sob a paisagem vulcânica do oeste de El Salvador.",
+      "Dado-chave: Lago Coatepeque 3 min de leitura Situado em meio à moderna e ativa paisagem vulcânica de El Salvador, águas azuis tranquilas enchem uma caldeira.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: From a geothermal hotspot to the one-time “Lighthouse of the Pacific,” the heat is on beneath the volcanic landscape of western El Salvador.",
+      "Key detail: Lake Coatepeque 3 min read Set amid El Salvador’s modern, active volcanic landscape, tranquil blue waters fill a caldera formed by ancient.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "05 mai 2026",
+    "date_pt": "05 mai 2026",
+    "date_en": "05 May 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04:01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-05T04:01:00+00:00",
+    "lastModifiedIso": "2026-05-05T04:01:00+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Ahuachapán e seus vizinhos inquietos"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Ahuachapán e seus vizinhos inquietos"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Ahuachapán and its restless neighbors"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/ahuachapan-and-its-restive-neighbors/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=ahuachapan-and-its-restive-neighbors",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=ahuachapan-and-its-restive-neighbors",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=ahuachapan-and-its-restive-neighbors&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "we-might-have-massively-underestimated-io-s-thermal-output",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -667,7 +800,7 @@
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -681,7 +814,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "moon-s-formation-in-many-ways-still-remains-a-mystery",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -818,7 +951,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "nasa-welcomes-ireland-as-newest-artemis-accords-signatory",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -926,7 +1059,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "nasa-fosters-development-of-lunar-resource-seeking-technologies",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1025,139 +1158,6 @@
     "scoreBreakdown": {
       "source": 94,
       "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "optically-dark-gamma-ray-burst-reveals-an-unusually-wide-jet",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/observations-explore-t-1.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/observations-explore-t-1.jpg",
-        "caption": "As observações exploram a natureza de uma fonte de explosão de raios gama recentemente descoberta",
-        "caption_pt": "As observações exploram a natureza de uma fonte de explosão de raios gama recentemente descoberta",
-        "caption_en": "Observations explore the nature of a recently discovered gamma-ray burst source",
-        "alt": "As observações exploram a natureza de uma fonte de explosão de raios gama recentemente descoberta",
-        "alt_pt": "As observações exploram a natureza de uma fonte de explosão de raios gama recentemente descoberta",
-        "alt_en": "Observations explore the nature of a recently discovered gamma-ray burst source"
-      },
-      {
-        "src": "https://scx0.b-cdn.net/pic/tomasz.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx0.b-cdn.net/pic/sadie.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Explosão de raios gama opticamente escuro revela um jato incomumente largo",
-    "title_pt": "Explosão de raios gama opticamente escuro revela um jato incomumente largo",
-    "title_en": "Optically dark gamma-ray burst reveals an unusually wide jet",
-    "sub": "Usando vários telescópios, uma equipe internacional de astrônomos realizou observações em vários comprimentos de onda de uma fonte de explosão de raios gama recentemente.",
-    "sub_pt": "Usando vários telescópios, uma equipe internacional de astrônomos realizou observações em vários comprimentos de onda de uma fonte de explosão de raios gama recentemente.",
-    "sub_en": "Using various telescopes, an international team of astronomers has performed multi-wavelength observations of a recently identified gamma-ray burst source designated GRB 250416C.",
-    "excerpt": "Usando vários telescópios, uma equipe internacional de astrônomos realizou observações em vários comprimentos de onda de uma fonte de explosão de raios gama recentemente identificada, designada GRB 250416C. Resultados da campanha observacional, publicados em.",
-    "excerpt_pt": "Usando vários telescópios, uma equipe internacional de astrônomos realizou observações em vários comprimentos de onda de uma fonte de explosão de raios gama recentemente identificada, designada GRB 250416C. Resultados da campanha observacional, publicados em.",
-    "excerpt_en": "Using various telescopes, an international team of astronomers has performed multi-wavelength observations of a recently identified gamma-ray burst source designated GRB 250416C. Results of the observational campaign, published April 23 on.",
-    "body": "<p>Usando vários telescópios, uma equipe internacional de astrônomos realizou observações em vários comprimentos de onda de uma fonte de explosão de raios gama recentemente identificada, designada GRB 250416C. Resultados da campanha observacional, publicados em 23 de abril. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial arXiv (2026). &quot;&gt; EP250416a capturado pelo chip detector EP/WXT CMOS17 às 17: 53: 59 UTC em 16 de abril de 2025.</p><p>Usando vários telescópios, uma equipe internacional de astrônomos realizou observações de vários comprimentos de onda de uma fonte de explosão de raios gama recentemente. Os resultados da campanha observacional, publicados em 23 de abril no servidor de pré-impressão v, podem nos ajudar a entender melhor a natureza do GRB 250416C e das explosões de.</p><p>Em geral, são observados como explosões de raios gama altamente energéticos que duram de menos de um segundo a vários minutos.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-optically-dark-gamma-ray-reveals.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Usando vários telescópios, uma equipe internacional de astrônomos realizou observações em vários comprimentos de onda de uma fonte de explosão de raios gama recentemente identificada, designada GRB 250416C. Resultados da campanha observacional, publicados em 23 de abril. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial arXiv (2026). &quot;&gt; EP250416a capturado pelo chip detector EP/WXT CMOS17 às 17: 53: 59 UTC em 16 de abril de 2025.</p><p>Usando vários telescópios, uma equipe internacional de astrônomos realizou observações de vários comprimentos de onda de uma fonte de explosão de raios gama recentemente. Os resultados da campanha observacional, publicados em 23 de abril no servidor de pré-impressão v, podem nos ajudar a entender melhor a natureza do GRB 250416C e das explosões de.</p><p>Em geral, são observados como explosões de raios gama altamente energéticos que duram de menos de um segundo a vários minutos.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-optically-dark-gamma-ray-reveals.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Using various telescopes, an international team of astronomers has performed multi-wavelength observations of a recently identified gamma-ray burst source designated GRB 250416C. Results of the observational campaign, published April 23 on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source arXiv (2026). &quot;&gt; EP250416a captured by the EP/WXT CMOS17 detector chip at 17: 53: 59 UTC on April 16, 2025.</p><p>Results of the observational campaign, published April 23 on the v pre-print server, could help us better understand the nature of GRB 250416C and gamma-ray bursts in general. In general, they are observed as bursts of highly energetic gamma rays lasting from less than a second to several minutes.</p><p>GRB 250416C is a GRB source associated with a bright X-ray flare (designated EP250416a), which was identified with the Einstein Probe (EP) on April 16, 2025. In order to get more insights into the properties of the burst and its afterglow, a group of astronomers led by Guoying Zhao of the Sun Yat-Sen University in China conducted a.</p><p>The X-ray afterglow of GRB 250416C/EP250416a showcases a two-phase decay profile: an initial shallow decay phase lasting until about 5.5 hours, followed by a canonical power-law. The study also found that the X-ray light curve slope of the investigated source is about -0.5 over the 1.67, 167 minute interval, therefore deviating substantially from the.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>It was estimated that the energy injection had an initial luminosity of some 33 quindecillion erg/s and lasted approximately from the 8th to 483rd minute. The authors of the paper assume that a host galaxy extinction of 5.5 mag is required to explain the observed optical deficit and that the substantial dust extinction is the.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-optically-dark-gamma-ray-reveals.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Usando vários telescópios, uma equipe internacional de astrônomos realizou observações em vários comprimentos de onda de uma fonte de explosão de.",
-      "Dado-chave: Usando vários telescópios, uma equipe internacional de astrônomos realizou observações em vários comprimentos de onda de uma fonte de explosão.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Usando vários telescópios, uma equipe internacional de astrônomos realizou observações em vários comprimentos de onda de uma fonte de explosão de.",
-      "Dado-chave: Usando vários telescópios, uma equipe internacional de astrônomos realizou observações em vários comprimentos de onda de uma fonte de explosão.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Using various telescopes, an international team of astronomers has performed multi-wavelength observations of a recently identified gamma-ray burst.",
-      "Key detail: Using various telescopes, an international team of astronomers has performed multi-wavelength observations of a recently identified gamma-ray.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "04 mai 2026",
-    "date_pt": "04 mai 2026",
-    "date_en": "04 May 2026",
-    "time": "18h40",
-    "time_pt": "18h40",
-    "time_en": "18:40 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-04T18:40:09+00:00",
-    "lastModifiedIso": "2026-05-04T18:40:09+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Cosmologia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Explosão de raios gama opticamente escuro revela um jato incomumente largo"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Explosão de raios gama opticamente escuro revela um jato incomumente largo"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Optically dark gamma-ray burst reveals unusually wide jet"
-    ],
-    "srcUrl": "https://phys.org/news/2026-05-optically-dark-gamma-ray-reveals.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=optically-dark-gamma-ray-burst-reveals-an-unusually-wide-jet",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=optically-dark-gamma-ray-burst-reveals-an-unusually-wide-jet",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=optically-dark-gamma-ray-burst-reveals-an-unusually-wide-jet&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 77,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
       "novelty": 55
@@ -1419,6 +1419,145 @@
   },
   {
     "id": 13,
+    "slug": "science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://cdn.esahubble.org/archives/images/screen/heic2601a.jpg",
+    "inline_images": [
+      {
+        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2601a.jpg",
+        "caption": "Localização da Nuvem-9",
+        "caption_pt": "Localização da Nuvem-9",
+        "caption_en": "Location of Cloud-9",
+        "alt": "Localização da Nuvem-9",
+        "alt_pt": "Localização da Nuvem-9",
+        "alt_en": "Location of Cloud-9"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2601a.jpg",
+        "caption": "Localização da Nuvem-9",
+        "caption_pt": "Localização da Nuvem-9",
+        "caption_en": "Location of Cloud-9",
+        "alt": "Localização da Nuvem-9",
+        "alt_pt": "Localização da Nuvem-9",
+        "alt_en": "Location of Cloud-9"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2601b.jpg",
+        "caption": "Localização da Nuvem-9",
+        "caption_pt": "Localização da Nuvem-9",
+        "caption_en": "Location of Cloud-9",
+        "alt": "Localização da Nuvem-9",
+        "alt_pt": "Localização da Nuvem-9",
+        "alt_en": "Location of Cloud-9"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Lançamento científico: Hubble examina Cloud-9, o primeiro de um novo tipo de objeto",
+    "title_pt": "Lançamento científico: Hubble examina Cloud-9, o primeiro de um novo tipo de objeto",
+    "title_en": "Science Release: Hubble examines Cloud-9, first of new type of object",
+    "sub": "Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico — uma nuvem de matéria escura, rica em gás e sem estrelas, considerada uma.",
+    "sub_pt": "Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico — uma nuvem de matéria escura, rica em gás e sem estrelas, considerada uma.",
+    "sub_en": "A team using the NASA/ESA Hubble Space Telescope has uncovered a new type of astronomical object —a starless, gas-rich, dark-matter cloud that is considered a “relic” or remnant.",
+    "excerpt": "Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico — uma nuvem de matéria escura, rica em gás e sem estrelas, considerada uma “relíquia” ou remanescente da formação inicial de galáxias. Apelidado de.",
+    "excerpt_pt": "Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico — uma nuvem de matéria escura, rica em gás e sem estrelas, considerada uma “relíquia” ou remanescente da formação inicial de galáxias. Apelidado de.",
+    "excerpt_en": "A team using the NASA/ESA Hubble Space Telescope has uncovered a new type of astronomical object —a starless, gas-rich, dark-matter cloud that is considered a “relic” or remnant of early galaxy formation. Nicknamed “Cloud-9,” this is the.",
+    "body": "<p>Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico, uma nuvem de matéria escura, rica em gás e sem estrelas, considerada uma “relíquia” ou remanescente da formação inicial de galáxias. Apelidado de “Cloud-9”, este é o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Apelidada de “Cloud-9”, esta é a primeira detecção confirmada de tal objeto no Universo. “Na ciência, geralmente aprendemos mais com os fracassos do que com os sucessos.</p><p>Cloud-9 nos dá uma rara visão de uma nuvem dominada pela matéria escura.” O objeto é chamado de nuvem H I limitada por reionização, ou &quot;RELHIC&quot;. O termo “HI” refere-se ao. “Antes de usarmos o Hubble, poderíamos argumentar que esta é uma galáxia anã tênue que não poderíamos ver com telescópios terrestres.</p><p>“Mas com a Câmera Avançada para Pesquisas do Hubble, conseguimos descobrir que não há nada lá.” A descoberta desta nuvem relíquia foi uma surpresa.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2601/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico, uma nuvem de matéria escura, rica em gás e sem estrelas, considerada uma “relíquia” ou remanescente da formação inicial de galáxias. Apelidado de “Cloud-9”, este é o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Apelidada de “Cloud-9”, esta é a primeira detecção confirmada de tal objeto no Universo. “Na ciência, geralmente aprendemos mais com os fracassos do que com os sucessos.</p><p>Cloud-9 nos dá uma rara visão de uma nuvem dominada pela matéria escura.” O objeto é chamado de nuvem H I limitada por reionização, ou &quot;RELHIC&quot;. O termo “HI” refere-se ao. “Antes de usarmos o Hubble, poderíamos argumentar que esta é uma galáxia anã tênue que não poderíamos ver com telescópios terrestres.</p><p>“Mas com a Câmera Avançada para Pesquisas do Hubble, conseguimos descobrir que não há nada lá.” A descoberta desta nuvem relíquia foi uma surpresa.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2601/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A team using the NASA/ESA Hubble Space Telescope has uncovered a new type of astronomical object —a starless, gas-rich, dark-matter cloud that is considered a “relic” or remnant of early galaxy formation. Nicknamed “Cloud-9,” this is the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. Nicknamed “Cloud-9,” this is the first confirmed detection of such an object in the Universe. “In science, we usually learn more from the failures than from the successes.</p><p>Cloud-9 gives us a rare look at a dark-matter-dominated cloud.” The object is called a Reionization-Limited H I Cloud, or &quot;RELHIC.” The term “H I” refers to neutral hydrogen, and. “Before we used Hubble, you could argue that this is a faint dwarf galaxy that we could not see with ground-based telescopes.</p><p>“But with Hubble’s Advanced Camera for Surveys, we’re able to nail down that there’s nothing there.” The discovery of this relic cloud was a surprise. Been studying hydrogen clouds near the Milky Way for many years, and these clouds tend to be much bigger and irregular than Cloud-9.</p><p>Compared with other observed clouds, Cloud-9 is smaller, more compact, and highly spherical, making it look very different from other clouds. But if the pressure of the gas is balancing the gravity of the dark matter cloud, which it appears to be, Cloud-9 must be heavily dominated by dark matter, at about 5 billion.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>But only with Hubble could researchers definitively determine that the failed galaxy contains no stars. The cloud is close to M94 and appears to have a physical association with the galaxy.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2601/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico, uma nuvem de matéria escura, rica em gás e.",
+      "Dado-chave: Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico, uma nuvem de matéria escura, rica em.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico, uma nuvem de matéria escura, rica em gás e.",
+      "Dado-chave: Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico, uma nuvem de matéria escura, rica em.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: A team using the NASA/ESA Hubble Space Telescope has uncovered a new type of astronomical object —a starless, gas-rich, dark-matter cloud that is.",
+      "Key detail: A team using the NASA/ESA Hubble Space Telescope has uncovered a new type of astronomical object —a starless, gas-rich, dark-matter cloud that.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "05 jan 2026",
+    "date_pt": "05 jan 2026",
+    "date_en": "05 Jan 2026",
+    "time": "17h15",
+    "time_pt": "17h15",
+    "time_en": "17:15 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-01-05T17:15:00+00:00",
+    "lastModifiedIso": "2026-01-05T17:15:00+00:00",
+    "source": "ESA Hubble News",
+    "sourceDomain": "esahubble.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Cosmologia",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Lançamento científico",
+      "Hubble examina Cloud",
+      "o primeiro de um novo tipo de objeto"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Lançamento científico",
+      "Hubble examina Cloud",
+      "o primeiro de um novo tipo de objeto"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Scientific launch",
+      "Hubble examina Cloud",
+      "the first of a new type of object"
+    ],
+    "srcUrl": "https://esahubble.org/news/heic2601/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-examines-cloud-9-first-of-new-type-of-object&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 79,
+    "scoreBreakdown": {
+      "source": 89,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 14,
     "slug": "how-tilted-orbits-impact-supermassive-black-hole-collisions",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1551,7 +1690,7 @@
     }
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "the-chemical-fingerprint-of-the-gaia-bh3-system-evidence-for-early-cluster-enrichment-from-the-a",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1656,7 +1795,7 @@
     }
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "engrave-follow-up-of-a-type-iib-supernova-spatially-coincident-with-the-sub-threshold-gravitatio",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1761,7 +1900,7 @@
     }
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "for-nasa-s-tess-stellar-eclipses-shed-light-on-possible-new-worlds",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -1879,7 +2018,7 @@
     }
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "canada-proposes-poet-mission-to-hunt-earth-sized-planets",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2025,7 +2164,7 @@
     }
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "the-paranal-solar-espresso-telescope-a-new-tool-for-finding-exoplanets",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2156,7 +2295,7 @@
     }
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "is-the-large-magellanic-cloud-a-first-time-visitor",
     "cat": "Física",
     "catCls": "fisica",
@@ -2302,7 +2441,7 @@
     }
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "solar-radio-bursts-reveal-hidden-magnetic-switchbacks-near-the-sun-parker-solar-probe-data-sugge",
     "cat": "Física",
     "catCls": "fisica",
@@ -2438,7 +2577,7 @@
     }
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "a-new-quasi-1d-state-of-matter-could-be-hiding-inside-ice-giant-planets",
     "cat": "Física",
     "catCls": "fisica",
@@ -2556,7 +2695,7 @@
     }
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "close-in-planets-act-as-bouncers-to-create-rogue-worlds",
     "cat": "Química",
     "catCls": "quimica",
@@ -2674,7 +2813,7 @@
     }
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "curiosity-team-hits-jackpot-a-sample-full-of-complex-organic-molecules",
     "cat": "Química",
     "catCls": "quimica",
@@ -2810,82 +2949,95 @@
     }
   },
   {
-    "id": 24,
-    "slug": "record-setting-retreat-of-hektoria-glacier",
+    "id": 25,
+    "slug": "a-tiny-world-beyond-neptune-has-an-atmosphere-that-shouldn-t-exist",
     "cat": "Ciências da Terra",
     "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/record-setting-retreat-of-hektoria-glacier/hektoria_oli_20221030.jpg",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/outer-solar-system-obj.jpg",
     "inline_images": [
       {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cyclone-rains-spur-papua-new-guinea-landslides/papuanewguinea_landslide_oli2_20260420_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Uma estreita cicatriz de deslizamento marrom-clara corta montanhas com florestas verdes escuras no leste da Nova Grã-Bretanha e se estende para o norte em direção a um vale de riacho. Rios cheios com enchentes, áreas de desmatamento e nuvens dispersas também são visíveis.",
-        "caption_pt": "Uma estreita cicatriz de deslizamento marrom-clara corta montanhas com florestas verdes escuras no leste da Nova Grã-Bretanha e se estende para o norte em direção a um vale de riacho. Rios cheios com enchentes, áreas de desmatamento e nuvens dispersas também são visíveis.",
-        "caption_en": "A narrow, light-brown landslide scar cuts through dark green forested mountains in East New Britain and extends north toward a stream valley. Rivers swollen with floodwaters, areas of forest clearing, and scattered clouds are also visible.",
-        "alt": "Uma estreita cicatriz de deslizamento marrom-clara corta montanhas com florestas verdes escuras no leste da Nova Grã-Bretanha e se estende para o norte em direção a um vale de riacho. Rios cheios com enchentes, áreas de desmatamento e nuvens dispersas também são visíveis.",
-        "alt_pt": "Uma estreita cicatriz de deslizamento marrom-clara corta montanhas com florestas verdes escuras no leste da Nova Grã-Bretanha e se estende para o norte em direção a um vale de riacho. Rios cheios com enchentes, áreas de desmatamento e nuvens dispersas também são visíveis.",
-        "alt_en": "A narrow, light-brown landslide scar cuts through dark green forested mountains in East New Britain and extends north toward a stream valley. Rivers swollen with floodwaters, areas of forest clearing, and scattered clouds are also visible."
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/outer-solar-system-obj.jpg",
+        "caption": "Objeto externo do sistema solar tem atmosfera, mas não deveria",
+        "caption_pt": "Objeto externo do sistema solar tem atmosfera, mas não deveria",
+        "caption_en": "Outer solar system object has an atmosphere but shouldn't",
+        "alt": "Objeto externo do sistema solar tem atmosfera, mas não deveria",
+        "alt_pt": "Objeto externo do sistema solar tem atmosfera, mas não deveria",
+        "alt_en": "Outer solar system object has an atmosphere but shouldn't"
       },
       {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/record-setting-retreat-of-hektoria-glacier/hektoria_oli_20221030.jpg?w=1440&h=1300&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "As geleiras fluem dos penhascos nos lados esquerdo e inferior da imagem para uma baía congelada à direita, onde pedaços de gelo marinho são visíveis.",
-        "caption_pt": "As geleiras fluem dos penhascos nos lados esquerdo e inferior da imagem para uma baía congelada à direita, onde pedaços de gelo marinho são visíveis.",
-        "caption_en": "Glaciers flow from cliffs on the left and bottom sides of the image to a frozen bay on the right where chunks of sea ice are visible.",
-        "alt": "As geleiras fluem dos penhascos nos lados esquerdo e inferior da imagem para uma baía congelada à direita, onde pedaços de gelo marinho são visíveis.",
-        "alt_pt": "As geleiras fluem dos penhascos nos lados esquerdo e inferior da imagem para uma baía congelada à direita, onde pedaços de gelo marinho são visíveis.",
-        "alt_en": "Glaciers flow from cliffs on the left and bottom sides of the image to a frozen bay on the right where chunks of sea ice are visible."
+        "src": "https://scx0.b-cdn.net/pic/sadie.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
       },
       {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/record-setting-retreat-of-hektoria-glacier/hektoria_oli_20240325.jpg?w=1440&h=1300&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "As geleiras fluem dos lados esquerdo e inferior da imagem, terminando muito mais perto das falésias do que na imagem anterior.",
-        "caption_pt": "As geleiras fluem dos lados esquerdo e inferior da imagem, terminando muito mais perto das falésias do que na imagem anterior.",
-        "caption_en": "Glaciers flow from the left and bottom sides of the image, terminating much closer to the cliffs than in the previous image.",
-        "alt": "As geleiras fluem dos lados esquerdo e inferior da imagem, terminando muito mais perto das falésias do que na imagem anterior.",
-        "alt_pt": "As geleiras fluem dos lados esquerdo e inferior da imagem, terminando muito mais perto das falésias do que na imagem anterior.",
-        "alt_en": "Glaciers flow from the left and bottom sides of the image, terminating much closer to the cliffs than in the previous image."
+        "src": "https://scx0.b-cdn.net/pic/Robert.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
       }
     ],
-    "video": null,
+    "video": {
+      "kind": "file",
+      "platform": "html5",
+      "embedUrl": "",
+      "fileUrl": "https://scx2.b-cdn.net/gfx/video/2026/outer-solar-system-obj.mp4",
+      "poster": "https://scx1.b-cdn.net/gfx/video_tmb/2026/outer-solar-system-obj.mp4.jpg",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://phys.org/news/2026-05-tiny-world-neptune-atmosphere-shouldnt.html"
+    },
     "audio": null,
-    "title": "Retiro recorde da Geleira Hektoria",
-    "title_pt": "Retiro recorde da Geleira Hektoria",
-    "title_en": "Record-Setting Retreat of Hektoria Glacier",
-    "sub": "Os cientistas confiaram em dados de satélite para compreender como é que o glaciar da Antártida perdeu tanto gelo tão rapidamente.",
-    "sub_pt": "Os cientistas confiaram em dados de satélite para compreender como é que o glaciar da Antártida perdeu tanto gelo tão rapidamente.",
-    "sub_en": "Scientists relied on satellite data to understand how the Antarctic glacier lost so much ice so rapidly.",
-    "excerpt": "Os cientistas confiaram em dados de satélite para compreender como é que o glaciar da Antártida perdeu tanto gelo tão rapidamente.",
-    "excerpt_pt": "Os cientistas confiaram em dados de satélite para compreender como é que o glaciar da Antártida perdeu tanto gelo tão rapidamente.",
-    "excerpt_en": "Scientists relied on satellite data to understand how the Antarctic glacier lost so much ice so rapidly.",
-    "body": "<p>Os cientistas confiaram em dados de satélite para compreender como é que o glaciar da Antártida perdeu tanto gelo tão rapidamente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. “Além do NISAR”, acrescentou Ochwat, “estou particularmente interessado em aprender o que o SWOT pode nos dizer sobre as rápidas mudanças nas geleiras”. A principal missão do. 2024 Observatório da Terra da NASA / Lauren Dauphin Observatório da Terra da NASA / Lauren Dauphin 30 de outubro de.</p><p>Detalhes da imagem 2-Up de alternância de cortina de 2024 A rápida perda do gelo aterrado da geleira Hektoria é visível nessas imagens adquiridas em outubro de 2022 (esquerda) e. Isso incluiu um período de dois meses em que o terminal recuou mais de 8 quilómetros (5 milhas), a taxa mais elevada de perda de gelo glacial aterrada observada na história.</p><p>No entanto, dados de altimetria a laser baseados em satélite, incluindo medições de elevação de gelo da missão ICESat-2 (Ice, Cloud, and Land Elevation Satellite-2) da NASA. Novas plataformas, como os satélites NISAR e SWOT desenvolvidos pela NASA e parceiros, podem ajudar na compreensão das rápidas mudanças nos glaciares.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/record-setting-retreat-of-hektoria-glacier/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os cientistas confiaram em dados de satélite para compreender como é que o glaciar da Antártida perdeu tanto gelo tão rapidamente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. “Além do NISAR”, acrescentou Ochwat, “estou particularmente interessado em aprender o que o SWOT pode nos dizer sobre as rápidas mudanças nas geleiras”. A principal missão do. 2024 Observatório da Terra da NASA / Lauren Dauphin Observatório da Terra da NASA / Lauren Dauphin 30 de outubro de.</p><p>Detalhes da imagem 2-Up de alternância de cortina de 2024 A rápida perda do gelo aterrado da geleira Hektoria é visível nessas imagens adquiridas em outubro de 2022 (esquerda) e. Isso incluiu um período de dois meses em que o terminal recuou mais de 8 quilómetros (5 milhas), a taxa mais elevada de perda de gelo glacial aterrada observada na história.</p><p>No entanto, dados de altimetria a laser baseados em satélite, incluindo medições de elevação de gelo da missão ICESat-2 (Ice, Cloud, and Land Elevation Satellite-2) da NASA. Novas plataformas, como os satélites NISAR e SWOT desenvolvidos pela NASA e parceiros, podem ajudar na compreensão das rápidas mudanças nos glaciares.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/record-setting-retreat-of-hektoria-glacier/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Scientists relied on satellite data to understand how the Antarctic glacier lost so much ice so rapidly. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. “In addition to NISAR,” Ochwat added, “I’m particularly interested in learning what SWOT can tell us about rapid glacier changes.” The SWOT (Surface Water and Ocean Topography). 2024 NASA Earth Observatory / Lauren Dauphin NASA Earth Observatory / Lauren Dauphin October 30.</p><p>2024 Curtain Toggle 2-Up Image Details The rapid loss of Hektoria Glacier’s grounded ice is visible in these images acquired in October 2022 (left) and March 2024 (right) with the. That included a two-month period in which the terminus retreated more than 8 kilometers (5 miles)—the highest rate of grounded glacial ice loss observed in modern history.</p><p>However, satellite-based laser altimetry data, including ice elevation measurements from NASA’s ICESat-2 (Ice, Cloud, and Land Elevation Satellite-2) mission, revealed that the. New platforms, such as the NISAR and SWOT satellites developed by NASA and partners, may aid in understanding rapid changes in glaciers.</p><p>(Called tidewater glaciers, this type is common in Alaska and Greenland.) New technologies developed by NASA and partners can aid in understanding rapid glacial retreat, said. “In addition to NISAR,” Ochwat added, “I&#x27;m particularly interested in learning what SWOT can tell us about rapid glacier changes.” The SWOT (Surface Water and Ocean Topography).</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>NASA Earth Observatory (2022, February 2) Larsen B Embayment Breaks Up. NASA Earth Observatory (2002) World of Change: Collapse of the Larsen-B Ice Shelf.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/record-setting-retreat-of-hektoria-glacier/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Um pequeno mundo além de Netuno tem uma atmosfera que não deveria existir",
+    "title_pt": "Um pequeno mundo além de Netuno tem uma atmosfera que não deveria existir",
+    "title_en": "A tiny world beyond Neptune has an atmosphere that shouldn't exist",
+    "sub": "Uma equipa de astrónomos japoneses profissionais e amadores encontrou evidências de uma fina atmosfera em torno de um pequeno corpo no sistema solar exterior. O objeto é tão.",
+    "sub_pt": "Uma equipa de astrónomos japoneses profissionais e amadores encontrou evidências de uma fina atmosfera em torno de um pequeno corpo no sistema solar exterior. O objeto é tão.",
+    "sub_en": "A team of professional and amateur Japanese astronomers have found evidence for a thin atmosphere around a small body in the outer solar system. The object is so small that it.",
+    "excerpt": "Uma equipa de astrónomos japoneses profissionais e amadores encontrou evidências de uma fina atmosfera em torno de um pequeno corpo no sistema solar exterior. O objeto é tão pequeno que não deveria ter uma atmosfera sustentável, levantando questões.",
+    "excerpt_pt": "Uma equipa de astrónomos japoneses profissionais e amadores encontrou evidências de uma fina atmosfera em torno de um pequeno corpo no sistema solar exterior. O objeto é tão pequeno que não deveria ter uma atmosfera sustentável, levantando questões.",
+    "excerpt_en": "A team of professional and amateur Japanese astronomers have found evidence for a thin atmosphere around a small body in the outer solar system. The object is so small that it should not have a sustainable atmosphere, raising questions.",
+    "body": "<p>Uma equipa de astrónomos japoneses profissionais e amadores encontrou evidências de uma fina atmosfera em torno de um pequeno corpo no sistema solar exterior. O objeto é tão pequeno que não deveria ter uma atmosfera sustentável, levantando questões. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida a concepção artística desta pesquisa mostrando.</p><p>A caçada de 4.000 anos aos parentes de um guerreiro Mas os astrónomos gostam de esperar o inesperado, por isso aproveitaram uma &quot;experiência natural&quot; de sorte para procurar uma. Este objeto, abreviado como 2002 XV 93, tem um diâmetro de aproximadamente 500 km.</p><p>A órbita de 2002 XV 93 é tal que, vista do Japão, passou diretamente em frente de uma estrela em 10 de janeiro de 2024. À medida que a estrela desaparece atrás de 2002 XV 93, poderá desvanecer-se gradualmente, indicando que a luz está a ser atenuada à medida que passa através de uma atmosfera tênue.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-tiny-world-neptune-atmosphere-shouldnt.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma equipa de astrónomos japoneses profissionais e amadores encontrou evidências de uma fina atmosfera em torno de um pequeno corpo no sistema solar exterior. O objeto é tão pequeno que não deveria ter uma atmosfera sustentável, levantando questões. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida a concepção artística desta pesquisa mostrando.</p><p>A caçada de 4.000 anos aos parentes de um guerreiro Mas os astrónomos gostam de esperar o inesperado, por isso aproveitaram uma &quot;experiência natural&quot; de sorte para procurar uma. Este objeto, abreviado como 2002 XV 93, tem um diâmetro de aproximadamente 500 km.</p><p>A órbita de 2002 XV 93 é tal que, vista do Japão, passou diretamente em frente de uma estrela em 10 de janeiro de 2024. À medida que a estrela desaparece atrás de 2002 XV 93, poderá desvanecer-se gradualmente, indicando que a luz está a ser atenuada à medida que passa através de uma atmosfera tênue.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-tiny-world-neptune-atmosphere-shouldnt.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A team of professional and amateur Japanese astronomers have found evidence for a thin atmosphere around a small body in the outer solar system. The object is so small that it should not have a sustainable atmosphere, raising questions. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Artist&#x27;s conception of this research showing an imagined time.</p><p>The 4,000-year hunt for a warrior&#x27;s kin But astronomers like to expect the unexpected, so they took advantage of a lucky &quot;natural experiment&quot; to look for an atmosphere around a. This object, abbreviated as 2002 XV 93, has a diameter of approximately 500 km.</p><p>The orbit of 2002 XV 93 is such that, as seen from Japan, it passed directly in front of a star on January 10, 2024. As the star disappears behind 2002 XV 93, it might gradually fade, indicating that the light is being attenuated as it passes through a thin atmosphere.</p><p>The team of astronomers, led by Ko Arimatsu at NAOJ Ishigakijima Astronomical Observatory, observed the star as 2002 XV 93 passed in front of it from multiple sites in Japan. The obtained data are consistent with attenuation by an atmosphere.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Their findings have been published in Nature Astronomy. Calculations show that the atmosphere found around 2002 XV 93 is expected to last less than 1,000 years unless it is replenished.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-tiny-world-neptune-atmosphere-shouldnt.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Os cientistas confiaram em dados de satélite para compreender como é que o glaciar da Antártida perdeu tanto gelo tão rapidamente.",
-      "Dado-chave: “Além do NISAR”, acrescentou Ochwat, “estou particularmente interessado em aprender o que o SWOT pode nos dizer sobre as rápidas mudanças nas.",
+      "Ponto central: Uma equipa de astrónomos japoneses profissionais e amadores encontrou evidências de uma fina atmosfera em torno de um pequeno corpo no sistema solar.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Os cientistas confiaram em dados de satélite para compreender como é que o glaciar da Antártida perdeu tanto gelo tão rapidamente.",
-      "Dado-chave: “Além do NISAR”, acrescentou Ochwat, “estou particularmente interessado em aprender o que o SWOT pode nos dizer sobre as rápidas mudanças nas.",
+      "Ponto central: Uma equipa de astrónomos japoneses profissionais e amadores encontrou evidências de uma fina atmosfera em torno de um pequeno corpo no sistema solar.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: Scientists relied on satellite data to understand how the Antarctic glacier lost so much ice so rapidly.",
-      "Key detail: “In addition to NISAR,” Ochwat added, “I’m particularly interested in learning what SWOT can tell us about rapid glacier changes.” The SWOT.",
+      "Core point: A team of professional and amateur Japanese astronomers have found evidence for a thin atmosphere around a small body in the outer solar system. The.",
+      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "04 mai 2026",
     "date_pt": "04 mai 2026",
     "date_en": "04 May 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04:01 UTC",
+    "time": "15h00",
+    "time_pt": "15h00",
+    "time_en": "15:00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-04T04:01:00+00:00",
-    "lastModifiedIso": "2026-05-04T04:01:00+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science.nasa.gov",
+    "publishedIso": "2026-05-04T15:00:09+00:00",
+    "lastModifiedIso": "2026-05-04T15:00:09+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -2903,26 +3055,26 @@
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
       "Ciências da Terra",
-      "NASA News Releases",
+      "Phys.org Space",
       "Cosmos Week",
-      "Retiro recorde da Geleira Hektoria"
+      "Um pequeno mundo além de Netuno tem uma atmosfera que não deveria existir"
     ],
     "keywords_pt": [
       "Ciências da Terra",
-      "NASA News Releases",
+      "Phys.org Space",
       "Cosmos Week",
-      "Retiro recorde da Geleira Hektoria"
+      "Um pequeno mundo além de Netuno tem uma atmosfera que não deveria existir"
     ],
     "keywords_en": [
       "Earth Sciences",
-      "NASA News Releases",
+      "Phys.org Space",
       "Cosmos Week",
-      "Record-breaking Hektoria Glacier retreat"
+      "A small world beyond Neptune has an atmosphere that shouldn't exist"
     ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/record-setting-retreat-of-hektoria-glacier/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=record-setting-retreat-of-hektoria-glacier",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=record-setting-retreat-of-hektoria-glacier",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=record-setting-retreat-of-hektoria-glacier&lang=en",
+    "srcUrl": "https://phys.org/news/2026-05-tiny-world-neptune-atmosphere-shouldnt.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=a-tiny-world-beyond-neptune-has-an-atmosphere-that-shouldn-t-exist",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=a-tiny-world-beyond-neptune-has-an-atmosphere-that-shouldn-t-exist",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=a-tiny-world-beyond-neptune-has-an-atmosphere-that-shouldn-t-exist&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -2933,17 +3085,17 @@
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 79,
+    "score": 75,
     "scoreBreakdown": {
-      "source": 94,
+      "source": 76,
       "evidence": 88,
       "relevance": 80,
       "accessibility": 60,
-      "novelty": 52
+      "novelty": 55
     }
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "astronomers-find-atmosphere-around-a-pluto-like-world",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3067,7 +3219,7 @@
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "smile-set-to-launch-on-19-may",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3200,7 +3352,7 @@
     }
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "plato-aces-space-like-tests",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3333,7 +3485,7 @@
     }
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3469,7 +3621,7 @@
     }
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3576,145 +3728,6 @@
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 79,
-    "scoreBreakdown": {
-      "source": 89,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 30,
-    "slug": "science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://cdn.esahubble.org/archives/images/screen/heic2601a.jpg",
-    "inline_images": [
-      {
-        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2601a.jpg",
-        "caption": "Localização da Nuvem-9",
-        "caption_pt": "Localização da Nuvem-9",
-        "caption_en": "Location of Cloud-9",
-        "alt": "Localização da Nuvem-9",
-        "alt_pt": "Localização da Nuvem-9",
-        "alt_en": "Location of Cloud-9"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2601a.jpg",
-        "caption": "Localização da Nuvem-9",
-        "caption_pt": "Localização da Nuvem-9",
-        "caption_en": "Location of Cloud-9",
-        "alt": "Localização da Nuvem-9",
-        "alt_pt": "Localização da Nuvem-9",
-        "alt_en": "Location of Cloud-9"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2601b.jpg",
-        "caption": "Localização da Nuvem-9",
-        "caption_pt": "Localização da Nuvem-9",
-        "caption_en": "Location of Cloud-9",
-        "alt": "Localização da Nuvem-9",
-        "alt_pt": "Localização da Nuvem-9",
-        "alt_en": "Location of Cloud-9"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Lançamento científico: Hubble examina Cloud-9, o primeiro de um novo tipo de objeto",
-    "title_pt": "Lançamento científico: Hubble examina Cloud-9, o primeiro de um novo tipo de objeto",
-    "title_en": "Science Release: Hubble examines Cloud-9, first of new type of object",
-    "sub": "Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico — uma nuvem de matéria escura, rica em gás e sem estrelas, considerada uma.",
-    "sub_pt": "Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico — uma nuvem de matéria escura, rica em gás e sem estrelas, considerada uma.",
-    "sub_en": "A team using the NASA/ESA Hubble Space Telescope has uncovered a new type of astronomical object —a starless, gas-rich, dark-matter cloud that is considered a “relic” or remnant.",
-    "excerpt": "Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico — uma nuvem de matéria escura, rica em gás e sem estrelas, considerada uma “relíquia” ou remanescente da formação inicial de galáxias. Apelidado de.",
-    "excerpt_pt": "Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico — uma nuvem de matéria escura, rica em gás e sem estrelas, considerada uma “relíquia” ou remanescente da formação inicial de galáxias. Apelidado de.",
-    "excerpt_en": "A team using the NASA/ESA Hubble Space Telescope has uncovered a new type of astronomical object —a starless, gas-rich, dark-matter cloud that is considered a “relic” or remnant of early galaxy formation. Nicknamed “Cloud-9,” this is the.",
-    "body": "<p>Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico, uma nuvem de matéria escura, rica em gás e sem estrelas, considerada uma “relíquia” ou remanescente da formação inicial de galáxias. Apelidado de “Cloud-9”, este é o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Apelidada de “Cloud-9”, esta é a primeira detecção confirmada de tal objeto no Universo. “Na ciência, geralmente aprendemos mais com os fracassos do que com os sucessos.</p><p>Cloud-9 nos dá uma rara visão de uma nuvem dominada pela matéria escura.” O objeto é chamado de nuvem H I limitada por reionização, ou &quot;RELHIC&quot;. O termo “HI” refere-se ao. “Antes de usarmos o Hubble, poderíamos argumentar que esta é uma galáxia anã tênue que não poderíamos ver com telescópios terrestres.</p><p>“Mas com a Câmera Avançada para Pesquisas do Hubble, conseguimos descobrir que não há nada lá.” A descoberta desta nuvem relíquia foi uma surpresa.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2601/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico, uma nuvem de matéria escura, rica em gás e sem estrelas, considerada uma “relíquia” ou remanescente da formação inicial de galáxias. Apelidado de “Cloud-9”, este é o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Apelidada de “Cloud-9”, esta é a primeira detecção confirmada de tal objeto no Universo. “Na ciência, geralmente aprendemos mais com os fracassos do que com os sucessos.</p><p>Cloud-9 nos dá uma rara visão de uma nuvem dominada pela matéria escura.” O objeto é chamado de nuvem H I limitada por reionização, ou &quot;RELHIC&quot;. O termo “HI” refere-se ao. “Antes de usarmos o Hubble, poderíamos argumentar que esta é uma galáxia anã tênue que não poderíamos ver com telescópios terrestres.</p><p>“Mas com a Câmera Avançada para Pesquisas do Hubble, conseguimos descobrir que não há nada lá.” A descoberta desta nuvem relíquia foi uma surpresa.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2601/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A team using the NASA/ESA Hubble Space Telescope has uncovered a new type of astronomical object —a starless, gas-rich, dark-matter cloud that is considered a “relic” or remnant of early galaxy formation. Nicknamed “Cloud-9,” this is the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. Nicknamed “Cloud-9,” this is the first confirmed detection of such an object in the Universe. “In science, we usually learn more from the failures than from the successes.</p><p>Cloud-9 gives us a rare look at a dark-matter-dominated cloud.” The object is called a Reionization-Limited H I Cloud, or &quot;RELHIC.” The term “H I” refers to neutral hydrogen, and. “Before we used Hubble, you could argue that this is a faint dwarf galaxy that we could not see with ground-based telescopes.</p><p>“But with Hubble’s Advanced Camera for Surveys, we’re able to nail down that there’s nothing there.” The discovery of this relic cloud was a surprise. Been studying hydrogen clouds near the Milky Way for many years, and these clouds tend to be much bigger and irregular than Cloud-9.</p><p>Compared with other observed clouds, Cloud-9 is smaller, more compact, and highly spherical, making it look very different from other clouds. But if the pressure of the gas is balancing the gravity of the dark matter cloud, which it appears to be, Cloud-9 must be heavily dominated by dark matter, at about 5 billion.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>But only with Hubble could researchers definitively determine that the failed galaxy contains no stars. The cloud is close to M94 and appears to have a physical association with the galaxy.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2601/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico, uma nuvem de matéria escura, rica em gás e.",
-      "Dado-chave: Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico, uma nuvem de matéria escura, rica em.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico, uma nuvem de matéria escura, rica em gás e.",
-      "Dado-chave: Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico, uma nuvem de matéria escura, rica em.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A team using the NASA/ESA Hubble Space Telescope has uncovered a new type of astronomical object —a starless, gas-rich, dark-matter cloud that is.",
-      "Key detail: A team using the NASA/ESA Hubble Space Telescope has uncovered a new type of astronomical object —a starless, gas-rich, dark-matter cloud that.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "05 jan 2026",
-    "date_pt": "05 jan 2026",
-    "date_en": "05 Jan 2026",
-    "time": "17h15",
-    "time_pt": "17h15",
-    "time_en": "17:15 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-01-05T17:15:00+00:00",
-    "lastModifiedIso": "2026-01-05T17:15:00+00:00",
-    "source": "ESA Hubble News",
-    "sourceDomain": "esahubble.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Cosmologia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Lançamento científico",
-      "Hubble examina Cloud",
-      "o primeiro de um novo tipo de objeto"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Lançamento científico",
-      "Hubble examina Cloud",
-      "o primeiro de um novo tipo de objeto"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Scientific launch",
-      "Hubble examina Cloud",
-      "the first of a new type of object"
-    ],
-    "srcUrl": "https://esahubble.org/news/heic2601/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-examines-cloud-9-first-of-new-type-of-object&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -3896,13 +3909,13 @@
         "alt_en": ""
       },
       {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_Apr25_ev_COLOR-CORRECTED_FEATURED.jpg",
-        "caption": "Lua para Regulus oculto no céu brilhante, 25 de abril de 2026",
-        "caption_pt": "Lua para Regulus oculto no céu brilhante, 25 de abril de 2026",
-        "caption_en": "Moon to occult Regulus in bright sky, April 25, 2026",
-        "alt": "Lua para Regulus oculto no céu brilhante, 25 de abril de 2026",
-        "alt_pt": "Lua para Regulus oculto no céu brilhante, 25 de abril de 2026",
-        "alt_en": "Moon to occult Regulus in bright sky, April 25, 2026"
+        "src": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_May01_ev_NORM_FEATURED.jpg",
+        "caption": "Vênus com Aldebaran e as Plêiades, 1º de maio de 2026",
+        "caption_pt": "Vênus com Aldebaran e as Plêiades, 1º de maio de 2026",
+        "caption_en": "Venus with Aldebaran and the Pleiades, May 1, 2026",
+        "alt": "Vênus com Aldebaran e as Plêiades, 1º de maio de 2026",
+        "alt_pt": "Vênus com Aldebaran e as Plêiades, 1º de maio de 2026",
+        "alt_en": "Venus with Aldebaran and the Pleiades, May 1, 2026"
       }
     ],
     "video": null,
@@ -4666,7 +4679,35 @@
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/10/the_sentinel-1_mission/26396793-1-eng-GB/The_Sentinel-1_mission_card_full.png",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/ariane_6_takes_sentinel-1d_into_orbit/26954372-5-eng-GB/Ariane_6_takes_Sentinel-1D_into_orbit_article.jpg",
+        "caption": "Ariane 6 coloca Sentinel-1D em órbita",
+        "caption_pt": "Ariane 6 coloca Sentinel-1D em órbita",
+        "caption_en": "Ariane 6 takes Sentinel-1D into orbit",
+        "alt": "Ariane 6 coloca Sentinel-1D em órbita",
+        "alt_pt": "Ariane 6 coloca Sentinel-1D em órbita",
+        "alt_en": "Ariane 6 takes Sentinel-1D into orbit"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/04/antarctica_peninsula_from_sentinel-1a/14476587-2-eng-GB/Antarctica_Peninsula_from_Sentinel-1A_pillars.jpg",
+        "caption": "Península Antártica",
+        "caption_pt": "Península Antártica",
+        "caption_en": "Antarctica Peninsula",
+        "alt": "Península Antártica",
+        "alt_pt": "Península Antártica",
+        "alt_en": "Antarctica Peninsula"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2015/02/lisbon_portugal/15234748-1-eng-GB/Lisbon_Portugal_pillars.jpg",
+        "caption": "Lisboa, Portugal",
+        "caption_pt": "Lisboa, Portugal",
+        "caption_en": "Lisbon, Portugal",
+        "alt": "Lisboa, Portugal",
+        "alt_pt": "Lisboa, Portugal",
+        "alt_en": "Lisbon, Portugal"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Sentinel-1D entra em operação: um marco para a missão de radar da Europa",
@@ -4678,22 +4719,22 @@
     "excerpt": "O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica de comissionamento em órbita. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista.",
     "excerpt_pt": "O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica de comissionamento em órbita. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista.",
     "excerpt_en": "The Copernicus Sentinel-1D satellite, launched last November, is now fully operational after successfully completing its critical in-orbit commissioning phase. With all four Sentinel-1 satellites having now been deployed, this achievement.",
-    "body": "<p>O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica de comissionamento em órbita. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de completar com sucesso a sua fase crítica de comissionamento em órbita. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista representa um marco importante para esta missão de radar emblemática, uma jornada que começou há mais de.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_goes_live_a_milestone_for_Europe_s_radar_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica de comissionamento em órbita. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de completar com sucesso a sua fase crítica de comissionamento em órbita. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista representa um marco importante para esta missão de radar emblemática, uma jornada que começou há mais de.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_goes_live_a_milestone_for_Europe_s_radar_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The Copernicus Sentinel-1D satellite, launched last November, is now fully operational after successfully completing its critical in-orbit commissioning phase. With all four Sentinel-1 satellites having now been deployed, this achievement. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The Copernicus Sentinel-1D satellite, launched last November, is now fully operational after successfully completing its critical in-orbit commissioning phase. With all four Sentinel-1 satellites having now been deployed, this achievement marks a major milestone for this flagship radar mission, a journey that began more than a decade ago.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_goes_live_a_milestone_for_Europe_s_radar_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica de comissionamento em órbita. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista representa um marco importante para esta missão de radar emblemática, uma jornada que começou há mais de. Quando o Sentinel-1A, o primeiro desta geração, foi lançado em 2014, marcou mais do que o início de uma única missão.</p><p>A missão Sentinel-1 foi projetada como uma constelação de dois satélites idênticos orbitando a Terra separados por 180 graus para uma cobertura ideal, então, em 2016, o. A missão Sentinel-1B chegou ao fim em agosto de 2022 após passar por uma anomalia técnica que a impossibilitou de adquirir dados.</p><p>A missão fornece imagens de radar de abertura sintética de alta resolução da superfície da Terra em todos os climas, dia e noite. A missão Sentinel-1 também abriu caminho noutra área crucial: a sustentabilidade no espaço.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_goes_live_a_milestone_for_Europe_s_radar_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica de comissionamento em órbita. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Com todos os quatro satélites Sentinel-1 já implantados, esta conquista representa um marco importante para esta missão de radar emblemática, uma jornada que começou há mais de. Quando o Sentinel-1A, o primeiro desta geração, foi lançado em 2014, marcou mais do que o início de uma única missão.</p><p>A missão Sentinel-1 foi projetada como uma constelação de dois satélites idênticos orbitando a Terra separados por 180 graus para uma cobertura ideal, então, em 2016, o. A missão Sentinel-1B chegou ao fim em agosto de 2022 após passar por uma anomalia técnica que a impossibilitou de adquirir dados.</p><p>A missão fornece imagens de radar de abertura sintética de alta resolução da superfície da Terra em todos os climas, dia e noite. A missão Sentinel-1 também abriu caminho noutra área crucial: a sustentabilidade no espaço.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_goes_live_a_milestone_for_Europe_s_radar_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The Copernicus Sentinel-1D satellite, launched last November, is now fully operational after successfully completing its critical in-orbit commissioning phase. With all four Sentinel-1 satellites having now been deployed, this achievement. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. With all four Sentinel-1 satellites having now been deployed, this achievement marks a major milestone for this flagship radar mission, a journey that began more than a decade ago. When Sentinel-1A, the first of this generation, launched in 2014, it marked more than the start of a single mission.</p><p>The Sentinel-1 mission was designed as a constellation of two identical satellites orbiting Earth 180 degrees apart for optimal coverage, so in 2016, Sentinel-1B was launched to. The Sentinel-1B mission came to an end in August 2022 after experiencing a technical anomaly that rendered it unable to acquire data.</p><p>The mission delivers high-resolution synthetic aperture radar images of Earth’s surface in all weathers, day-and-night. The Sentinel-1 mission has also broken ground in another crucial area: sustainability in space.</p><p>Sentinel-1C and Sentinel-1D carry a world premiere of a new separation mechanism which will help avoid space debris, underscoring the European Space Agency’s and the European. With the last of the first-generation Sentinel-1 satellites now beginning its operational life in orbit, ESA and the EC are looking ahead.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>ESA’s Sentinel-1 Mission Manger, Nuno Miranda, said, “Sentinel-1 began as a trailblazer. With the successful commissioning of Sentinel-1D, it now stands as a cornerstone, reflecting Europe’s achievements while serving as a launchpad for what comes next.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_goes_live_a_milestone_for_Europe_s_radar_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica.",
-      "Dado-chave: O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de completar com sucesso a sua fase.",
+      "Dado-chave: Com todos os quatro satélites Sentinel-1 já implantados, esta conquista representa um marco importante para esta missão de radar emblemática.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de concluir com sucesso a sua fase crítica.",
-      "Dado-chave: O satélite Copernicus Sentinel-1D, lançado em novembro passado, está agora totalmente operacional depois de completar com sucesso a sua fase.",
+      "Dado-chave: Com todos os quatro satélites Sentinel-1 já implantados, esta conquista representa um marco importante para esta missão de radar emblemática.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: The Copernicus Sentinel-1D satellite, launched last November, is now fully operational after successfully completing its critical in-orbit.",
-      "Key detail: The Copernicus Sentinel-1D satellite, launched last November, is now fully operational after successfully completing its critical in-orbit.",
+      "Key detail: With all four Sentinel-1 satellites having now been deployed, this achievement marks a major milestone for this flagship radar mission, a.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "01 mai 2026",

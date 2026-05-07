@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 06:51:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 09:47:23 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>Modelo de cuidados de baixo custo reduz a pressão arterial em populações de alto risco</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=low-cost-care-model-reduces-blood-pressure-in-high-risk-populations</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=low-cost-care-model-reduces-blood-pressure-in-high-risk-populations</guid>
-              <pubDate>Thu, 07 May 2026 06:47:58 +0000</pubDate>
+              <pubDate>Thu, 07 May 2026 09:43:34 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ensaio clínico apoiado pelo NIH mostra que a estratégia de cuidados coordenados é mais eficaz do que os cuidados padrão</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de cuidados de baixo custo reduz a pressão arterial em populações de alto risco</category>
@@ -21,7 +21,7 @@
               <title>Avanço financiado pelo NIH reduz o CRISPR para entrega precisa no corpo</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-breakthrough-shrinks-crispr-for-precision-delivery-in-the-body</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-breakthrough-shrinks-crispr-for-precision-delivery-in-the-body</guid>
-              <pubDate>Thu, 07 May 2026 06:47:58 +0000</pubDate>
+              <pubDate>Thu, 07 May 2026 09:43:34 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Avanço financiado pelo NIH reduz o CRISPR para entrega precisa no corpo</category>
@@ -31,7 +31,7 @@
               <title>Dr. Jonathan M. Green selecionado como CEO do NIH Clinical Center</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=dr-jonathan-m-green-selected-as-ceo-of-the-nih-clinical-center</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=dr-jonathan-m-green-selected-as-ceo-of-the-nih-clinical-center</guid>
-              <pubDate>Thu, 07 May 2026 06:47:58 +0000</pubDate>
+              <pubDate>Thu, 07 May 2026 09:43:34 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O NIH Clinical Center é o maior hospital de pesquisa do mundo.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Dr. Jonathan M. Green selecionado como CEO do NIH Clinical Center</category>
@@ -41,7 +41,7 @@
               <title>Modelo de IA financiado pelo NIH prevê sobrevivência ao câncer a partir de dados de tumores unicelulares</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-ai-model-predicts-cancer-survival-from-single-cell-tumor-data</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-ai-model-predicts-cancer-survival-from-single-cell-tumor-data</guid>
-              <pubDate>Thu, 07 May 2026 06:47:58 +0000</pubDate>
+              <pubDate>Thu, 07 May 2026 09:43:34 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Num estudo financiado pelos Institutos Nacionais de Saúde, os investigadores desenvolveram uma ferramenta de avaliação do cancro que pode identificar pacientes de alto risco e as células tumorais ligadas a esse risco.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de IA financiado pelo NIH prevê sobrevivência ao câncer a partir de dados de tumores unicelulares</category>
@@ -51,22 +51,62 @@
               <title>Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis</guid>
-              <pubDate>Thu, 07 May 2026 06:47:58 +0000</pubDate>
+              <pubDate>Thu, 07 May 2026 09:43:34 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica</category>
               <source url="https://www.nih.gov/news-events/news-releases/clinical-trial-finds-no-difference-fluid-treatment-options-pediatric-sepsis">NIH News Releases</source>
               <content:encoded>O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Um grand</content:encoded>
             </item><item>
-              <title>Um mar de nuvens giratórias</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-sea-of-spinning-clouds</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=a-sea-of-spinning-clouds</guid>
-              <pubDate>Thu, 07 May 2026 04:01:00 +0000</pubDate>
+              <title>Segurança Informática: Tigres e gatos contra o vírus rastejante</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=computer-security-tigers-and-cats-against-crawling-maice</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=computer-security-tigers-and-cats-against-crawling-maice</guid>
+              <pubDate>Thu, 07 May 2026 09:34:54 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A gelada e isolada Ilha Pedro I provocou um espetáculo na atmosfera ao largo da costa oeste da Antártida.</description>
-              <category>Ciências da Terra</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Um mar de nuvens giratórias</category>
-              <source url="https://science.nasa.gov/earth/earth-observatory/a-sea-of-spinning-clouds/">NASA News Releases</source>
-              <content:encoded>A gelada e isolada Ilha Pedro I provocou um espetáculo na atmosfera ao largo da costa oeste da Antártida. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A Ilha Peter I está aninhada entre o gelo marinho e as nuvens nesta foto, tirada do labora</content:encoded>
+              <description>Há algum tempo que a TI está em transição para uma nova era, onde a inteligência artificial assume cada vez mais tarefas e, eventualmente, responsabilidades. Restam poucos de nós que não usam a infinidade de ChatGPT, Mistral, Claude e o.</description>
+              <category>Física</category><category>CERN News</category><category>Cosmos Week</category><category>Segurança Informática</category>
+              <source url="https://home.cern/computing/computer-security-tigers-and-cats-against-crawling-maice/">CERN News</source>
+              <content:encoded>Há algum tempo que a TI está em transição para uma nova era, onde a inteligência artificial assume cada vez mais tarefas e, eventualmente, responsabilidades. Restam poucos de nós que não usam a infinidade de ChatGPT, Mistral, Claude e o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descarta</content:encoded>
+            </item><item>
+              <title>Notícias do Sun: Forte atividade continuou no Nordeste</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-strong-activity-continued-on-the-northeast</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-strong-activity-continued-on-the-northeast</guid>
+              <pubDate>Thu, 07 May 2026 09:00:53 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>O membro Nordeste permanece em chamas com erupções. O antigo AR4419 deve retornar por volta de 8 de maio. Poderia trazer fogos de artifício X-flare novamente? A postagem Notícias do Sol: Forte atividade continuada no nordeste apareceu pela primeira vez no.</description>
+              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>Notícias do Sun</category>
+              <source url="https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/">EarthSky</source>
+              <content:encoded>O membro Nordeste permanece em chamas com erupções. O antigo AR4419 deve retornar por volta de 8 de maio. Poderia trazer fogos de artifício X-flare novamente? A postagem Notícias do Sol: Forte atividade continuada no nordeste apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais</content:encoded>
+            </item><item>
+              <title>Esses buracos negros monstruosos não se formaram da maneira usual – sua história de violência está escrita nas ondulações do espaço-tempo</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=these-monster-black-holes-did-not-form-the-usual-way-their-history-of-violence-is-written-into-s</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=these-monster-black-holes-did-not-form-the-usual-way-their-history-of-violence-is-written-into-s</guid>
+              <pubDate>Thu, 07 May 2026 09:00:04 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Os buracos negros mais massivos do Universo detectados pelas ondulações que provocam no espaço-tempo não nasceram directamente do colapso de estrelas, de acordo com um novo estudo. Em vez disso, esses gigantes cósmicos se desenvolvem por meio de uma série de.</description>
+              <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Esses buracos negros monstruosos não se formaram da maneira usual – sua história de violência está escrita nas ondulações do espaço</category>
+              <source url="https://phys.org/news/2026-05-monster-black-holes-usual-history.html">Phys.org Space</source>
+              <content:encoded>Os buracos negros mais massivos do Universo detectados pelas ondulações que provocam no espaço-tempo não nasceram directamente do colapso de estrelas, de acordo com um novo estudo. Em vez disso, esses gigantes cósmicos se desenvolvem por meio de uma série de e repetidos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal </content:encoded>
+            </item><item>
+              <title>A Realidade Estendida na ESA abre novos caminhos para a exploração espacial</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=extended-reality-at-esa-opens-new-pathways-for-space-exploration</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=extended-reality-at-esa-opens-new-pathways-for-space-exploration</guid>
+              <pubDate>Thu, 07 May 2026 08:45:00 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>A Agência Espacial Europeia está a utilizar a Realidade Alargada para apoiar a formação, melhorar as operações, melhorar os ambientes de simulação e levar as maravilhas do espaço ao público.</description>
+              <category>Ciências da Terra</category><category>ESA Space News</category><category>Cosmos Week</category><category>A Realidade Estendida na ESA abre novos caminhos para a exploração espacial</category>
+              <source url="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Extended_Reality_at_ESA_opens_new_pathways_for_space_exploration">ESA Space News</source>
+              <content:encoded>A Agência Espacial Europeia está a utilizar a Realidade Alargada para apoiar a formação, melhorar as operações, melhorar os ambientes de simulação e levar as maravilhas do espaço ao público. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A Agê</content:encoded>
+            </item><item>
+              <title>Um farol de luz em redemoinhos de poeira</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-beacon-of-light-in-swirls-of-dust</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=a-beacon-of-light-in-swirls-of-dust</guid>
+              <pubDate>Thu, 07 May 2026 08:00:00 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Esta última Imagem do Mês do Telescópio Espacial James Webb da NASA/ESA/CSA mostra Messier 77, uma galáxia espiral barrada famosa entre os astrônomos por sua combinação de proximidade relativa e características espetaculares para estudar. Isso é.</description>
+              <category>Astronomia</category><category>ESA Space Science</category><category>Cosmos Week</category><category>Um farol de luz em redemoinhos de poeira</category>
+              <source url="https://www.esa.int/Science_Exploration/Space_Science/Webb/A_beacon_of_light_in_swirls_of_dust">ESA Space Science</source>
+              <content:encoded>Esta última Imagem do Mês do Telescópio Espacial James Webb da NASA/ESA/CSA mostra Messier 77, uma galáxia espiral barrada famosa entre os astrônomos por sua combinação de proximidade relativa e características espetaculares para estudar. Isso é. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva </content:encoded>
             </item><item>
               <title>Ames Science Estrelas do mês, maio de 2026</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=ames-science-stars-of-the-month-may-2026</link>
@@ -77,36 +117,6 @@
               <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Ames Science Estrelas do mês</category>
               <source url="https://www.nasa.gov/general/ames-science-stars-of-the-month-may-2026/">NASA News Releases</source>
               <content:encoded>Estrelas do mês da Diretoria Científica Ames da NASA: maio de 2026 A Diretoria Científica Ames da NASA reconhece as contribuições notáveis ​​​​de Lora Jovanović, Tammy Moore, Frances Donovan e Jaden Ta. Seu compromisso com a missão da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa</content:encoded>
-            </item><item>
-              <title>Como a ascensão dos continentes pode ter preparado o cenário para a vida na Terra</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=how-the-rise-of-continents-may-have-set-the-stage-for-life-on-earth</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=how-the-rise-of-continents-may-have-set-the-stage-for-life-on-earth</guid>
-              <pubDate>Wed, 06 May 2026 21:50:02 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Os primeiros continentes da Terra podem ter definido o cenário químico para a vida, regulando os níveis de boro nos oceanos antigos, sugere um novo estudo na Terra Nova.</description>
-              <category>Ciências da Terra</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Como a ascensão dos continentes pode ter preparado o cenário para a vida na Terra</category>
-              <source url="https://phys.org/news/2026-05-continents-stage-life-earth.html">Phys.org Space</source>
-              <content:encoded>Os primeiros continentes da Terra podem ter definido o cenário químico para a vida, regulando os níveis de boro nos oceanos antigos, sugere um novo estudo na Terra Nova. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Este artigo foi revisado d</content:encoded>
-            </item><item>
-              <title>Telescópio Espacial Romano preparado para transformar a busca por estrelas de nêutrons indescritíveis</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=roman-space-telescope-poised-to-transform-hunt-for-elusive-neutron-stars</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=roman-space-telescope-poised-to-transform-hunt-for-elusive-neutron-stars</guid>
-              <pubDate>Wed, 06 May 2026 21:10:02 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Os astrônomos sabem há muito tempo que as estrelas de nêutrons, os núcleos esmagados deixados para trás após a explosão de estrelas massivas, deveriam estar espalhadas por toda a Via Láctea. No entanto, a maioria deles é efetivamente invisível. Um novo estudo.</description>
-              <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Telescópio Espacial Romano preparado para transformar a busca por estrelas de nêutrons indescritíveis</category>
-              <source url="https://phys.org/news/2026-05-roman-space-telescope-poised-elusive.html">Phys.org Space</source>
-              <content:encoded>Os astrônomos sabem há muito tempo que as estrelas de nêutrons, os núcleos esmagados deixados para trás após a explosão de estrelas massivas, deveriam estar espalhadas por toda a Via Láctea. No entanto, a maioria deles é efetivamente invisível. Um novo estudo publicado em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sina</content:encoded>
-            </item><item>
-              <title>A linha de testes aeronáuticos Dryden da NASA apoia voos e missões espaciais</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-dryden-aeronautical-test-range-supports-flight-space-missions</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-dryden-aeronautical-test-range-supports-flight-space-missions</guid>
-              <pubDate>Wed, 06 May 2026 20:42:35 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A NASA avança nas tecnologias aeronáutica e espacial por meio de aeronaves experimentais e pesquisas de voo no Armstrong Flight Research Center da agência em Edwards, Califórnia. Por trás desses esforços está o Dryden Aeronautical Test Range, que.</description>
-              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>A linha de testes aeronáuticos Dryden da NASA apoia voos e missões espaciais</category>
-              <source url="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-dryden-aeronautical-test-range-supports-flight-space-missions/">NASA News Releases</source>
-              <content:encoded>A NASA avança nas tecnologias aeronáutica e espacial por meio de aeronaves experimentais e pesquisas de voo no Armstrong Flight Research Center da agência em Edwards, Califórnia. Por trás desses esforços está o Dryden Aeronautical Test Range, que. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva</content:encoded>
             </item><item>
               <title>NASA define cobertura para lançamento e chegada de reabastecimento da 34ª estação SpaceX</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival</link>
@@ -158,15 +168,15 @@
               <source url="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/">NASA News Releases</source>
               <content:encoded>Os astrônomos sabem há muito tempo que as estrelas de nêutrons, os núcleos esmagados deixados para trás após a explosão de estrelas massivas, deveriam estar espalhadas por toda a Via Láctea. No entanto, a maioria deles é efetivamente invisível. Um novo estudo publicado em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sina</content:encoded>
             </item><item>
-              <title>Como os quasares interromperam a formação de estrelas no universo primitivo</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=how-quasars-shut-down-star-formation-in-the-early-universe</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=how-quasars-shut-down-star-formation-in-the-early-universe</guid>
-              <pubDate>Wed, 06 May 2026 20:10:01 +0000</pubDate>
+              <title>Telescópio Espacial Romano preparado para transformar a busca por estrelas de nêutrons indescritíveis</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=roman-space-telescope-poised-to-transform-hunt-for-elusive-neutron-stars</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=roman-space-telescope-poised-to-transform-hunt-for-elusive-neutron-stars</guid>
+              <pubDate>Wed, 06 May 2026 21:10:02 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Buracos negros supermassivos espreitam nos centros de galáxias massivas, incluindo a nossa Via Láctea. Surpreendentemente, buracos negros supermassivos com mais de um bilhão de vezes a massa do Sol parecem existir apenas algumas centenas de milhões de anos.</description>
-              <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Como os quasares interromperam a formação de estrelas no universo primitivo</category>
-              <source url="https://phys.org/news/2026-05-quasars-star-formation-early-universe.html">Phys.org Space</source>
-              <content:encoded>Buracos negros supermassivos espreitam nos centros de galáxias massivas, incluindo a nossa Via Láctea. Surpreendentemente, buracos negros supermassivos com mais de um bilhão de vezes a massa do Sol parecem existir apenas algumas centenas de milhões de anos depois. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se enca</content:encoded>
+              <description>Os astrônomos sabem há muito tempo que as estrelas de nêutrons, os núcleos esmagados deixados para trás após a explosão de estrelas massivas, deveriam estar espalhadas por toda a Via Láctea. No entanto, a maioria deles é efetivamente invisível. Um novo estudo.</description>
+              <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Telescópio Espacial Romano preparado para transformar a busca por estrelas de nêutrons indescritíveis</category>
+              <source url="https://phys.org/news/2026-05-roman-space-telescope-poised-elusive.html">Phys.org Space</source>
+              <content:encoded>Os astrônomos sabem há muito tempo que as estrelas de nêutrons, os núcleos esmagados deixados para trás após a explosão de estrelas massivas, deveriam estar espalhadas por toda a Via Láctea. No entanto, a maioria deles é efetivamente invisível. Um novo estudo publicado em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sina</content:encoded>
             </item><item>
               <title>Primeiras imagens da missão Exoplaneta Pandora</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=first-images-from-the-pandora-exoplanet-mission</link>
@@ -197,16 +207,6 @@
               <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>O telescópio solar Paranal ESPRESSO</category>
               <source url="https://www.universetoday.com/articles/the-paranal-solar-espresso-telescope-a-new-tool-for-finding-exoplanets">Universe Today</source>
               <content:encoded>O Telescópio solar ESPRESSO do Paranal, instalado no Paranal do Observatório Europeu do Sul, no Chile, fez as suas primeiras observações. O telescópio funcionará com o instrumento ESPRESSO do ESO para estudar o Sol em detalhe. Descrito como. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, </content:encoded>
-            </item><item>
-              <title>ATLAS atua como um laboratório de raios cósmicos</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=atlas-acts-as-a-cosmic-ray-laboratory</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=atlas-acts-as-a-cosmic-ray-laboratory</guid>
-              <pubDate>Tue, 21 Apr 2026 08:29:48 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A Colaboração ATLAS relata sua primeira medição de colisões de prótons e oxigênio no LHC, que recriam interações de raios cósmicos com a atmosfera da Terra</description>
-              <category>Física</category><category>CERN News</category><category>Cosmos Week</category><category>ATLAS atua como um laboratório de raios cósmicos</category>
-              <source url="https://home.cern/atlas-acts-cosmic-ray-laboratory/">CERN News</source>
-              <content:encoded>A Colaboração ATLAS relata sua primeira medição de colisões de prótons e oxigênio no LHC, que recriam interações de raios cósmicos com a atmosfera da Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente </content:encoded>
             </item>
   </channel>
 </rss>

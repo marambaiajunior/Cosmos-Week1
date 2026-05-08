@@ -40,14 +40,14 @@ window.postsData = [
     "date": "08 mai 2026",
     "date_pt": "08 mai 2026",
     "date_en": "08 May 2026",
-    "time": "22h33",
-    "time_pt": "22h33",
-    "time_en": "22:33 UTC",
+    "time": "23h33",
+    "time_pt": "23h33",
+    "time_en": "23:33 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-08T22:33:01.663403+00:00",
-    "lastModifiedIso": "2026-05-08T22:33:01.663403+00:00",
+    "publishedIso": "2026-05-08T23:33:53.591807+00:00",
+    "lastModifiedIso": "2026-05-08T23:33:53.591807+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -124,17 +124,17 @@ window.postsData = [
     "excerpt": "Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças.",
     "excerpt_pt": "Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças.",
     "excerpt_en": "Smaller gene-editing system could expand treatment options for cancer, ALS and other diseases.",
-    "body": "<p>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Uma equipe de pesquisa financiada pelos Institutos Nacionais de Saúde (NIH) descobriu um sistema aprimorado de edição genética CRISPR que poderia permitir a entrega direcionada. Os pesquisadores identificaram uma enzima que ocorre naturalmente, Al3Cas12f, que é pequena o suficiente para caber em vetores de vírus adeno-associados, um método líder de.</p><p>“A entrega inteligente de sistemas de edição genética é uma noção poderosa com amplas implicações clínicas, e esta descoberta científica básica nos leva a um passo significativo. Em comparação com os outros que analisamos, o Al3Cas12f basicamente vem pré-montado e pronto para uso logo após a produção de suas peças”, disse o autor correspondente David.</p><p>A equipe então projetou uma variante, conhecida como Al3Cas12f RKK, que melhorou significativamente a eficiência de edição de menos de 10% para mais de 80% nos alvos testados. Numa região do genoma comumente editada, a eficiência atingiu 90%.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Uma equipe de pesquisa financiada pelos Institutos Nacionais de Saúde (NIH) descobriu um sistema aprimorado de edição genética CRISPR que poderia permitir a entrega direcionada. Os pesquisadores identificaram uma enzima que ocorre naturalmente, Al3Cas12f, que é pequena o suficiente para caber em vetores de vírus adeno-associados, um método líder de.</p><p>“A entrega inteligente de sistemas de edição genética é uma noção poderosa com amplas implicações clínicas, e esta descoberta científica básica nos leva a um passo significativo. Em comparação com os outros que analisamos, o Al3Cas12f basicamente vem pré-montado e pronto para uso logo após a produção de suas peças”, disse o autor correspondente David.</p><p>A equipe então projetou uma variante, conhecida como Al3Cas12f RKK, que melhorou significativamente a eficiência de edição de menos de 10% para mais de 80% nos alvos testados. Numa região do genoma comumente editada, a eficiência atingiu 90%.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body": "<p>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Uma equipe de pesquisa financiada pelo National Institutes of Health (NIH) descobriu um sistema aprimorado de edição genética CRISPR que poderia permitir a entrega direcionada. Os pesquisadores identificaram uma enzima que ocorre naturalmente, Al3Cas12f, que é pequena o suficiente para caber em vetores de vírus adeno-associados, um método líder de.</p><p>“A entrega inteligente de sistemas de edição genética é uma noção poderosa com amplas implicações clínicas, e esta descoberta científica básica nos leva a um passo significativo. Em comparação com os outros que analisamos, o Al3Cas12f basicamente vem pré-montado e pronto para uso logo após a produção de suas peças”, disse o autor correspondente David.</p><p>A equipe então projetou uma variante, conhecida como Al3Cas12f RKK, que melhorou significativamente a eficiência de edição de menos de 10% para mais de 80% nos alvos testados. Numa região do genoma comumente editada, a eficiência atingiu 90%.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Uma equipe de pesquisa financiada pelo National Institutes of Health (NIH) descobriu um sistema aprimorado de edição genética CRISPR que poderia permitir a entrega direcionada. Os pesquisadores identificaram uma enzima que ocorre naturalmente, Al3Cas12f, que é pequena o suficiente para caber em vetores de vírus adeno-associados, um método líder de.</p><p>“A entrega inteligente de sistemas de edição genética é uma noção poderosa com amplas implicações clínicas, e esta descoberta científica básica nos leva a um passo significativo. Em comparação com os outros que analisamos, o Al3Cas12f basicamente vem pré-montado e pronto para uso logo após a produção de suas peças”, disse o autor correspondente David.</p><p>A equipe então projetou uma variante, conhecida como Al3Cas12f RKK, que melhorou significativamente a eficiência de edição de menos de 10% para mais de 80% nos alvos testados. Numa região do genoma comumente editada, a eficiência atingiu 90%.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>Smaller gene-editing system could expand treatment options for cancer, ALS and other diseases. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. A National Institutes of Health (NIH)-funded research team has discovered an enhanced CRISPR gene-editing system that could enable targeted delivery inside the human body, a key. Researchers identified a naturally occurring enzyme, Al3Cas12f, that is small enough to fit into adeno-associated virus vectors, a leading targeted delivery method for gene.</p><p>“Smart delivery of gene editing systems is a powerful notion with broad clinical implications, and this basic science finding takes us a significant step toward that future,” said. Compared to the others we looked at, Al3Cas12f basically comes preassembled and ready to go shortly after its pieces are produced,” said corresponding author David Taylor, Ph. D.</p><p>The team then engineered a variant, known as Al3Cas12f RKK, which significantly improved editing efficiency from less than 10% to more than 80% across tested targets. In a commonly edited region of the genome, efficiency reached 90%.</p><p>Of the many variants the team produced, Al3Cas12f RKK stood above the rest. This research was supported in part by NIGMS through grant R35GM138348.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>For more information on the Institute&#x27;s research and training programs, visit https: //www. nigms. nih. gov. About the National Institutes of Health (NIH): NIH, the nation&#x27;s medical research agency, includes 27 Institutes and Centers and is a component of the U. S.</p><p>Because the account originates with NIH News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças.",
-      "Dado-chave: Uma equipe de pesquisa financiada pelos Institutos Nacionais de Saúde (NIH) descobriu um sistema aprimorado de edição genética CRISPR que.",
+      "Dado-chave: Uma equipe de pesquisa financiada pelo National Institutes of Health (NIH) descobriu um sistema aprimorado de edição genética CRISPR que poderia.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças.",
-      "Dado-chave: Uma equipe de pesquisa financiada pelos Institutos Nacionais de Saúde (NIH) descobriu um sistema aprimorado de edição genética CRISPR que.",
+      "Dado-chave: Uma equipe de pesquisa financiada pelo National Institutes of Health (NIH) descobriu um sistema aprimorado de edição genética CRISPR que poderia.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "08 mai 2026",
     "date_pt": "08 mai 2026",
     "date_en": "08 May 2026",
-    "time": "22h33",
-    "time_pt": "22h33",
-    "time_en": "22:33 UTC",
+    "time": "23h33",
+    "time_pt": "23h33",
+    "time_en": "23:33 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-08T22:33:01.663357+00:00",
-    "lastModifiedIso": "2026-05-08T22:33:01.663357+00:00",
+    "publishedIso": "2026-05-08T23:33:53.591754+00:00",
+    "lastModifiedIso": "2026-05-08T23:33:53.591754+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -260,14 +260,14 @@ window.postsData = [
     "date": "08 mai 2026",
     "date_pt": "08 mai 2026",
     "date_en": "08 May 2026",
-    "time": "22h33",
-    "time_pt": "22h33",
-    "time_en": "22:33 UTC",
+    "time": "23h33",
+    "time_pt": "23h33",
+    "time_en": "23:33 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-08T22:33:01.663312+00:00",
-    "lastModifiedIso": "2026-05-08T22:33:01.663312+00:00",
+    "publishedIso": "2026-05-08T23:33:53.591682+00:00",
+    "lastModifiedIso": "2026-05-08T23:33:53.591682+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -365,14 +365,14 @@ window.postsData = [
     "date": "08 mai 2026",
     "date_pt": "08 mai 2026",
     "date_en": "08 May 2026",
-    "time": "22h33",
-    "time_pt": "22h33",
-    "time_en": "22:33 UTC",
+    "time": "23h33",
+    "time_pt": "23h33",
+    "time_en": "23:33 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-08T22:33:01.663266+00:00",
-    "lastModifiedIso": "2026-05-08T22:33:01.663266+00:00",
+    "publishedIso": "2026-05-08T23:33:53.591632+00:00",
+    "lastModifiedIso": "2026-05-08T23:33:53.591632+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -470,14 +470,14 @@ window.postsData = [
     "date": "08 mai 2026",
     "date_pt": "08 mai 2026",
     "date_en": "08 May 2026",
-    "time": "22h33",
-    "time_pt": "22h33",
-    "time_en": "22:33 UTC",
+    "time": "23h33",
+    "time_pt": "23h33",
+    "time_en": "23:33 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-08T22:33:01.663217+00:00",
-    "lastModifiedIso": "2026-05-08T22:33:01.663217+00:00",
+    "publishedIso": "2026-05-08T23:33:53.591580+00:00",
+    "lastModifiedIso": "2026-05-08T23:33:53.591580+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -538,6 +538,229 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "nasa-s-spacex-34th-commercial-resupply-mission-overview",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/05/nasa-spacex-crs-34-mission-overview.png?w=2048",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Visão geral da 34ª missão de reabastecimento comercial da SpaceX da NASA",
+    "title_pt": "Visão geral da 34ª missão de reabastecimento comercial da SpaceX da NASA",
+    "title_en": "NASA’s SpaceX 34th Commercial Resupply Mission Overview",
+    "sub": "A NASA e a SpaceX têm como meta um lançamento em meados de maio para entregar investigações científicas, suprimentos e equipamentos à Estação Espacial Internacional. Carregada com.",
+    "sub_pt": "A NASA e a SpaceX têm como meta um lançamento em meados de maio para entregar investigações científicas, suprimentos e equipamentos à Estação Espacial Internacional. Carregada com.",
+    "sub_en": "NASA and SpaceX are targeting a mid-May launch to deliver scientific investigations, supplies, and equipment to the International Space Station. Loaded with about 6,500 pounds of.",
+    "excerpt": "A NASA e a SpaceX têm como meta um lançamento em meados de maio para entregar investigações científicas, suprimentos e equipamentos à Estação Espacial Internacional. Carregada com cerca de 6.500 libras de suprimentos, a espaçonave SpaceX Dragon decolará a.",
+    "excerpt_pt": "A NASA e a SpaceX têm como meta um lançamento em meados de maio para entregar investigações científicas, suprimentos e equipamentos à Estação Espacial Internacional. Carregada com cerca de 6.500 libras de suprimentos, a espaçonave SpaceX Dragon decolará a.",
+    "excerpt_en": "NASA and SpaceX are targeting a mid-May launch to deliver scientific investigations, supplies, and equipment to the International Space Station. Loaded with about 6,500 pounds of supplies, the SpaceX Dragon spacecraft will lift off aboard.",
+    "body": "<p>A NASA e a SpaceX têm como meta um lançamento em meados de maio para entregar investigações científicas, suprimentos e equipamentos à Estação Espacial Internacional. Carregada com cerca de 6.500 libras de suprimentos, a espaçonave SpaceX Dragon decolará a bordo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A NASA e a SpaceX têm como meta um lançamento em meados de maio para entregar investigações científicas, suprimentos e equipamentos à Estação Espacial Internacional. A 34ª missão comercial de reabastecimento da NASA SpaceX será lançada na espaçonave Dragon da empresa no foguete SpaceX Falcon 9 para entregar pesquisas e suprimentos à Estação.</p><p>Assista à cobertura de lançamento e chegada da agência no NASA+, Amazon Prime e no canal da NASA no YouTube. A 34ª missão comercial de reabastecimento da NASA SpaceX será lançada do Complexo de Lançamento 40 na Estação da Força Espacial de Cabo Canaveral, na Flórida.</p><p>NASA Durante mais de 25 anos, a Estação Espacial Internacional forneceu capacidades de investigação utilizadas por cientistas de mais de 110 países para realizar mais de 4.000. Além da carga para a tripulação a bordo da estação espacial, a Dragon entregará vários novos experimentos científicos, incluindo: ODYSSEY avaliará quão bem os simuladores de.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A NASA e a SpaceX têm como meta um lançamento em meados de maio para entregar investigações científicas, suprimentos e equipamentos à Estação Espacial Internacional. Carregada com cerca de 6.500 libras de suprimentos, a espaçonave SpaceX Dragon decolará a bordo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A NASA e a SpaceX têm como meta um lançamento em meados de maio para entregar investigações científicas, suprimentos e equipamentos à Estação Espacial Internacional. A 34ª missão comercial de reabastecimento da NASA SpaceX será lançada na espaçonave Dragon da empresa no foguete SpaceX Falcon 9 para entregar pesquisas e suprimentos à Estação.</p><p>Assista à cobertura de lançamento e chegada da agência no NASA+, Amazon Prime e no canal da NASA no YouTube. A 34ª missão comercial de reabastecimento da NASA SpaceX será lançada do Complexo de Lançamento 40 na Estação da Força Espacial de Cabo Canaveral, na Flórida.</p><p>NASA Durante mais de 25 anos, a Estação Espacial Internacional forneceu capacidades de investigação utilizadas por cientistas de mais de 110 países para realizar mais de 4.000. Além da carga para a tripulação a bordo da estação espacial, a Dragon entregará vários novos experimentos científicos, incluindo: ODYSSEY avaliará quão bem os simuladores de.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>NASA and SpaceX are targeting a mid-May launch to deliver scientific investigations, supplies, and equipment to the International Space Station. Loaded with about 6,500 pounds of supplies, the SpaceX Dragon spacecraft will lift off aboard. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. NASA and SpaceX are targeting a mid-May launch to deliver scientific investigations, supplies, and equipment to the International Space Station. NASA’s SpaceX 34th commercial resupply mission will launch on the company’s Dragon spacecraft on the SpaceX Falcon 9 rocket to deliver research and supplies to the International.</p><p>Watch agency launch and arrival coverage on NASA+, Amazon Prime, and NASA’s YouTube channel. NASA’s SpaceX 34th commercial resupply mission will launch from Launch Complex 40 at Cape Canaveral Space Force Station in Florida.</p><p>NASA For more than 25 years, the International Space Station has provided research capabilities used by scientists from more than 110 countries to conduct more than 4,000. In addition to cargo for the crew aboard the space station, Dragon will deliver several new science experiments, including: ODYSSEY will evaluate how well Earth-based microgravity.</p><p>NASA Green Bone will observe how bone cells grow and develop in space on a bone scaffold made from wood. NASA astronaut Jack Hathaway and ESA (European Space Agency) astronaut Sophie Adenot will monitor the arrival of the SpaceX Dragon cargo spacecraft from the International Space.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>NASA and SpaceX are targeting a mid-May launch to deliver scientific investigations, supplies, and equipment to the International Space Article NASA’s SpaceX 34th commercial. NASA NASA and SpaceX are targeting a mid-May launch to deliver scientific investigations, supplies, and equipment to the International Space Station.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A NASA e a SpaceX têm como meta um lançamento em meados de maio para entregar investigações científicas, suprimentos e equipamentos à Estação.",
+      "Dado-chave: A NASA e a SpaceX têm como meta um lançamento em meados de maio para entregar investigações científicas, suprimentos e equipamentos à Estação.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A NASA e a SpaceX têm como meta um lançamento em meados de maio para entregar investigações científicas, suprimentos e equipamentos à Estação.",
+      "Dado-chave: A NASA e a SpaceX têm como meta um lançamento em meados de maio para entregar investigações científicas, suprimentos e equipamentos à Estação.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: NASA and SpaceX are targeting a mid-May launch to deliver scientific investigations, supplies, and equipment to the International Space Station.",
+      "Key detail: NASA and SpaceX are targeting a mid-May launch to deliver scientific investigations, supplies, and equipment to the International Space Station.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "08 mai 2026",
+    "date_pt": "08 mai 2026",
+    "date_en": "08 May 2026",
+    "time": "22h50",
+    "time_pt": "22h50",
+    "time_en": "22:50 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-08T22:50:03+00:00",
+    "lastModifiedIso": "2026-05-08T22:50:03+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Visão geral da 34ª missão de reabastecimento comercial da SpaceX da NASA"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Visão geral da 34ª missão de reabastecimento comercial da SpaceX da NASA"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Overview of NASA's 34th SpaceX Commercial Resupply Mission"
+    ],
+    "srcUrl": "https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-spacex-34th-commercial-resupply-mission-overview",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-spacex-34th-commercial-resupply-mission-overview",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-spacex-34th-commercial-resupply-mission-overview&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
+    "slug": "pentagon-releases-ufo-files-that-go-back-to-the-apollo-moon-missions",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.universetoday.com/article_images/260508-apollo17_20260508_213750.jpg",
+    "inline_images": [],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/_gz2yhofote",
+      "fileUrl": "",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://www.universetoday.com/articles/pentagon-releases-ufo-files-that-go-back-to-the-apollo-moon-missions"
+    },
+    "audio": null,
+    "title": "Pentágono divulga arquivos de OVNIs que remontam às missões Apollo à Lua",
+    "title_pt": "Pentágono divulga arquivos de OVNIs que remontam às missões Apollo à Lua",
+    "title_en": "Pentagon Releases UFO Files That Go Back to the Apollo Moon Missions",
+    "sub": "O Departamento de Defesa divulgou um novo lote de imagens e transcrições relacionadas a relatos de fenômenos anômalos não identificados, anteriormente conhecidos como OVNIs.",
+    "sub_pt": "O Departamento de Defesa divulgou um novo lote de imagens e transcrições relacionadas a relatos de fenômenos anômalos não identificados, anteriormente conhecidos como OVNIs.",
+    "sub_en": "The Department of Defense has released a fresh batch of images and transcripts relating to reports of unidentified anomalous phenomena, formerly known as UFOs, including pictures.",
+    "excerpt": "O Departamento de Defesa divulgou um novo lote de imagens e transcrições relacionadas a relatos de fenômenos anômalos não identificados, anteriormente conhecidos como OVNIs, incluindo fotos e descrições das missões Apollo da NASA à Lua.",
+    "excerpt_pt": "O Departamento de Defesa divulgou um novo lote de imagens e transcrições relacionadas a relatos de fenômenos anômalos não identificados, anteriormente conhecidos como OVNIs, incluindo fotos e descrições das missões Apollo da NASA à Lua.",
+    "excerpt_en": "The Department of Defense has released a fresh batch of images and transcripts relating to reports of unidentified anomalous phenomena, formerly known as UFOs, including pictures and descriptions from NASA's Apollo missions to the moon.",
+    "body": "<p>O Departamento de Defesa divulgou um novo lote de imagens e transcrições relacionadas a relatos de fenômenos anômalos não identificados, anteriormente conhecidos como OVNIs, incluindo fotos e descrições das missões Apollo da NASA à Lua. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O lançamento de hoje no site War. gov foi o primeiro de uma série planejada pelo Sistema Presidencial de Desbloqueio e Relatórios para Encontros de OVNIs da administração Trump. Arquivos adicionais serão divulgados pelo Departamento de Guerra de forma contínua&quot;, disse o Pentágono em comunicado à imprensa.</p><p>O lote inclui fotos tiradas por astronautas na Lua durante a Apollo 12 em 1969 e a Apollo 17 em 1972, com seções ampliadas destacando o que parecem ser pontos brilhantes ou. Existe até uma transcrição da missão Gemini 7 em 1965, na qual o astronauta Frank Borman descreve um “bogey” e um campo de detritos que consiste em “centenas de pequenas.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/pentagon-releases-ufo-files-that-go-back-to-the-apollo-moon-missions\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O Departamento de Defesa divulgou um novo lote de imagens e transcrições relacionadas a relatos de fenômenos anômalos não identificados, anteriormente conhecidos como OVNIs, incluindo fotos e descrições das missões Apollo da NASA à Lua. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O lançamento de hoje no site War. gov foi o primeiro de uma série planejada pelo Sistema Presidencial de Desbloqueio e Relatórios para Encontros de OVNIs da administração Trump. Arquivos adicionais serão divulgados pelo Departamento de Guerra de forma contínua&quot;, disse o Pentágono em comunicado à imprensa.</p><p>O lote inclui fotos tiradas por astronautas na Lua durante a Apollo 12 em 1969 e a Apollo 17 em 1972, com seções ampliadas destacando o que parecem ser pontos brilhantes ou. Existe até uma transcrição da missão Gemini 7 em 1965, na qual o astronauta Frank Borman descreve um “bogey” e um campo de detritos que consiste em “centenas de pequenas.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/pentagon-releases-ufo-files-that-go-back-to-the-apollo-moon-missions\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The Department of Defense has released a fresh batch of images and transcripts relating to reports of unidentified anomalous phenomena, formerly known as UFOs, including pictures and descriptions from NASA&#x27;s Apollo missions to the moon. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Today&#x27;s release on the War. gov website was the first in a series planned by the Trump administration&#x27;s Presidential Unsealing and Reporting System for UAP Encounters, or PURSUE. Additional files will be released by the Department of War on a rolling basis,&quot; the Pentagon said in a news release.</p><p>The batch includes pictures taken by astronauts on the moon during Apollo 12 in 1969 and Apollo 17 in 1972, with enlarged sections highlighting what appear to be bright spots or. There&#x27;s even a transcript from the Gemini 7 mission in 1965, in which astronaut Frank Borman describes a &quot;bogey&quot; and a debris field consisting of &quot;hundreds of little particles.&quot;.</p><p>In one report, from 2020, a U. S. Military operator reports observing &quot;a line of dots followed by a trailing dot.&quot; You&#x27;ll also find State Department cables, as well as photos and case files from the FBI.</p><p>President Donald Trump hailed today&#x27;s release on his Truth Social platform. Whereas previous Administrations have failed to be transparent on this subject, with these new Documents and Videos, the people can decide for themselves, &#x27;WHAT THE HELL IS GOING.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>(In fact, the Pentagon began increasing transparency on the UAP issue in 2020, and Congress ordered the Pentagon to step up its release of UAP files in 2022.) Defense Secretary. It&#x27;s time the American people see it for themselves,&quot; he said in a statement.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/pentagon-releases-ufo-files-that-go-back-to-the-apollo-moon-missions\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O Departamento de Defesa divulgou um novo lote de imagens e transcrições relacionadas a relatos de fenômenos anômalos não identificados.",
+      "Dado-chave: O Departamento de Defesa divulgou um novo lote de imagens e transcrições relacionadas a relatos de fenômenos anômalos não identificados.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O Departamento de Defesa divulgou um novo lote de imagens e transcrições relacionadas a relatos de fenômenos anômalos não identificados.",
+      "Dado-chave: O Departamento de Defesa divulgou um novo lote de imagens e transcrições relacionadas a relatos de fenômenos anômalos não identificados.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The Department of Defense has released a fresh batch of images and transcripts relating to reports of unidentified anomalous phenomena, formerly.",
+      "Key detail: The Department of Defense has released a fresh batch of images and transcripts relating to reports of unidentified anomalous phenomena, formerly.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "08 mai 2026",
+    "date_pt": "08 mai 2026",
+    "date_en": "08 May 2026",
+    "time": "21h37",
+    "time_pt": "21h37",
+    "time_en": "21:37 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-08T21:37:00+00:00",
+    "lastModifiedIso": "2026-05-08T21:37:00+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "Pentágono divulga arquivos de OVNIs que remontam às missões Apollo à Lua"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "Pentágono divulga arquivos de OVNIs que remontam às missões Apollo à Lua"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Universe Today",
+      "Cosmos Week",
+      "Pentagon releases UFO files dating back to Apollo missions to the Moon"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/pentagon-releases-ufo-files-that-go-back-to-the-apollo-moon-missions",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=pentagon-releases-ufo-files-that-go-back-to-the-apollo-moon-missions",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=pentagon-releases-ufo-files-that-go-back-to-the-apollo-moon-missions",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=pentagon-releases-ufo-files-that-go-back-to-the-apollo-moon-missions&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 8,
     "slug": "asteroid-apophis-will-skim-past-earth-in-2029-and-a-new-joint-mission-plans-to-watch-every-chang",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -672,7 +895,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -686,7 +909,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 9,
     "slug": "the-moon-s-largest-impact-crater-scattered-something-priceless-and-artemis-may-be-heading-straig",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -728,11 +951,11 @@ window.postsData = [
     "sub": "Um novo estudo, publicado na Science Advances, refinou alguns detalhes importantes sobre a maior e mais antiga cratera de impacto da Lua, que se estende por mais de 1.900.",
     "sub_pt": "Um novo estudo, publicado na Science Advances, refinou alguns detalhes importantes sobre a maior e mais antiga cratera de impacto da Lua, que se estende por mais de 1.900.",
     "sub_en": "A new study, published in Science Advances, has refined some important details about the moon's largest and oldest impact crater, which stretches more than 1,200 miles on the far.",
-    "excerpt": "Um novo estudo, publicado na Science Advances, refinou alguns detalhes importantes sobre a maior e mais antiga cratera de impacto da Lua, que se estende por mais de 1.900 quilômetros no outro lado da Lua. Os novos detalhes podem ajudar a orientar alguns dos.",
-    "excerpt_pt": "Um novo estudo, publicado na Science Advances, refinou alguns detalhes importantes sobre a maior e mais antiga cratera de impacto da Lua, que se estende por mais de 1.900 quilômetros no outro lado da Lua. Os novos detalhes podem ajudar a orientar alguns dos.",
+    "excerpt": "Um novo estudo, publicado na Science Advances, refinou alguns detalhes importantes sobre a maior e mais antiga cratera de impacto da Lua, que se estende por mais de 1.900 quilômetros no lado oculto da Lua. Os novos detalhes podem ajudar a orientar alguns dos.",
+    "excerpt_pt": "Um novo estudo, publicado na Science Advances, refinou alguns detalhes importantes sobre a maior e mais antiga cratera de impacto da Lua, que se estende por mais de 1.900 quilômetros no lado oculto da Lua. Os novos detalhes podem ajudar a orientar alguns dos.",
     "excerpt_en": "A new study, published in Science Advances, has refined some important details about the moon's largest and oldest impact crater, which stretches more than 1,200 miles on the far side of the moon. The new details can help guide some of the.",
-    "body": "<p>Um novo estudo, publicado na Science Advances, refinou alguns detalhes importantes sobre a maior e mais antiga cratera de impacto da Lua, que se estende por mais de 1.900 quilômetros no outro lado da Lua. Os novos detalhes podem ajudar a orientar alguns dos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um novo estudo, publicado na Science Advances, refinou alguns detalhes importantes sobre a maior e mais antiga cratera de impacto da Lua, que se estende por mais de 2.000 km no. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial Science Advances (2026).</p><p>Avanços da Ciência (2026). . aea1984 Um novo estudo, publicado na Science Advances, refinou alguns detalhes importantes sobre a maior e mais antiga cratera de impacto da Lua, que se estende por mais de.</p><p>Os novos detalhes podem ajudar a orientar parte do planejamento da próxima missão Artemis da NASA à Lua, planejada para 2028. A bacia do Pólo Sul-Aitken (SPA) é a maior e mais antiga bacia de impacto confirmada da lua.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-moon-largest-impact-crater-priceless.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Um novo estudo, publicado na Science Advances, refinou alguns detalhes importantes sobre a maior e mais antiga cratera de impacto da Lua, que se estende por mais de 1.900 quilômetros no outro lado da Lua. Os novos detalhes podem ajudar a orientar alguns dos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um novo estudo, publicado na Science Advances, refinou alguns detalhes importantes sobre a maior e mais antiga cratera de impacto da Lua, que se estende por mais de 2.000 km no. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial Science Advances (2026).</p><p>Avanços da Ciência (2026). . aea1984 Um novo estudo, publicado na Science Advances, refinou alguns detalhes importantes sobre a maior e mais antiga cratera de impacto da Lua, que se estende por mais de.</p><p>Os novos detalhes podem ajudar a orientar parte do planejamento da próxima missão Artemis da NASA à Lua, planejada para 2028. A bacia do Pólo Sul-Aitken (SPA) é a maior e mais antiga bacia de impacto confirmada da lua.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-moon-largest-impact-crater-priceless.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body": "<p>Um novo estudo, publicado na Science Advances, refinou alguns detalhes importantes sobre a maior e mais antiga cratera de impacto da Lua, que se estende por mais de 1.900 quilômetros no lado oculto da Lua. Os novos detalhes podem ajudar a orientar alguns dos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um novo estudo, publicado na Science Advances, refinou alguns detalhes importantes sobre a maior e mais antiga cratera de impacto da Lua, que se estende por mais de 2.000 km no. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial Science Advances (2026).</p><p>Avanços da Ciência (2026). . aea1984 Um novo estudo, publicado na Science Advances, refinou alguns detalhes importantes sobre a maior e mais antiga cratera de impacto da Lua, que se estende por mais de.</p><p>Os novos detalhes podem ajudar a orientar parte do planejamento da próxima missão Artemis da NASA à Lua, planejada para 2028. A bacia do Pólo Sul-Aitken (SPA) é a maior e mais antiga bacia de impacto confirmada da lua.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-moon-largest-impact-crater-priceless.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Um novo estudo, publicado na Science Advances, refinou alguns detalhes importantes sobre a maior e mais antiga cratera de impacto da Lua, que se estende por mais de 1.900 quilômetros no lado oculto da Lua. Os novos detalhes podem ajudar a orientar alguns dos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um novo estudo, publicado na Science Advances, refinou alguns detalhes importantes sobre a maior e mais antiga cratera de impacto da Lua, que se estende por mais de 2.000 km no. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial Science Advances (2026).</p><p>Avanços da Ciência (2026). . aea1984 Um novo estudo, publicado na Science Advances, refinou alguns detalhes importantes sobre a maior e mais antiga cratera de impacto da Lua, que se estende por mais de.</p><p>Os novos detalhes podem ajudar a orientar parte do planejamento da próxima missão Artemis da NASA à Lua, planejada para 2028. A bacia do Pólo Sul-Aitken (SPA) é a maior e mais antiga bacia de impacto confirmada da lua.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-moon-largest-impact-crater-priceless.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>A new study, published in Science Advances, has refined some important details about the moon&#x27;s largest and oldest impact crater, which stretches more than 1,200 miles on the far side of the moon. The new details can help guide some of the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A new study, published in Science Advances, has refined some important details about the moon&#x27;s largest and oldest impact crater, which stretches more than 1,200 miles (2,000 km). Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Science Advances (2026).</p><p>Science Advances (2026). . aea1984 A new study, published in Science Advances, has refined some important details about the moon&#x27;s largest and oldest impact crater, which stretches more than 1,200 miles.</p><p>The new details can help guide some of the planning for NASA&#x27;s upcoming Artemis mission to the moon, which is planned for 2028. The South Pole, Aitken (SPA) basin is the moon&#x27;s largest and oldest confirmed impact basin.</p><p>The authors of the new study write, &quot;Large basins on the moon and other solid bodies (e. g, Mars and Pluto) are ellipses that taper in the downrange direction. To understand more about the SPA basin and the object that formed it, the team used high-resolution 3D simulations to model the impact with varying parameters on a moon-like.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Our best-fit favoring a 13 km/s impact velocity implies that the SPA impactor was on a low inclination Earth-like orbit before it struck the moon. The bodies in the Mars zone were transported there and/or formed in situ during the early solar system.&quot; Discover the latest in science, tech, and space with over 100,000.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-moon-largest-impact-crater-priceless.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Um novo estudo, publicado na Science Advances, refinou alguns detalhes importantes sobre a maior e mais antiga cratera de impacto da Lua, que se.",
@@ -819,7 +1042,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 10,
     "slug": "spaceflight-leaves-astronauts-joints-unchanged-after-18-days-on-iss-early-data-suggest",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -941,276 +1164,6 @@ window.postsData = [
       "source": 76,
       "evidence": 88,
       "relevance": 74,
-      "accessibility": 52,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 9,
-    "slug": "spiral-galaxy-s-brilliant-heart-shines-bright-in-a-new-picture-from-nasa-s-webb-telescope",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/spiral-galaxys-brillia.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/spiral-galaxys-brillia.jpg",
-        "caption": "Esta imagem fornecida pela NASA/ESA/Webb pelo Telescópio Espacial James Webb da NASA/ESA/CSA mostra Messier 77 (M77), uma galáxia espiral barrada famosa e apreciada entre os astrônomos por sua combinação de proximidade relativa e espetacular.",
-        "caption_pt": "Esta imagem fornecida pela NASA/ESA/Webb pelo Telescópio Espacial James Webb da NASA/ESA/CSA mostra Messier 77 (M77), uma galáxia espiral barrada famosa e apreciada entre os astrônomos por sua combinação de proximidade relativa e espetacular.",
-        "caption_en": "This image provided by NASA/ESA/Webb from the NASA/ESA/CSA James Webb Space Telescope shows Messier 77 (M77), a barred spiral galaxy famous and appreciated among astronomers for its combination of relative proximity and spectacular.",
-        "alt": "O coração brilhante da galáxia espiral brilha em uma nova imagem do telescópio Webb da NASA",
-        "alt_pt": "O coração brilhante da galáxia espiral brilha em uma nova imagem do telescópio Webb da NASA",
-        "alt_en": "Spiral galaxy's brilliant heart shines bright in a new picture from NASA's Webb telescope"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/8b33bc1b4d9f6b4c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "O coração brilhante da galáxia espiral brilha em uma nova imagem do telescópio Webb da NASA",
-    "title_pt": "O coração brilhante da galáxia espiral brilha em uma nova imagem do telescópio Webb da NASA",
-    "title_en": "Spiral galaxy's brilliant heart shines bright in a new picture from NASA's Webb telescope",
-    "sub": "O coração brilhante de uma galáxia espiral ofusca tudo o que está à vista em uma nova imagem do Telescópio Espacial Webb da NASA.",
-    "sub_pt": "O coração brilhante de uma galáxia espiral ofusca tudo o que está à vista em uma nova imagem do Telescópio Espacial Webb da NASA.",
-    "sub_en": "A spiral galaxy's brilliant heart outshines everything within sight in a new picture from NASA's Webb Space Telescope.",
-    "excerpt": "O coração brilhante de uma galáxia espiral ofusca tudo o que está à vista em uma nova imagem do Telescópio Espacial Webb da NASA.",
-    "excerpt_pt": "O coração brilhante de uma galáxia espiral ofusca tudo o que está à vista em uma nova imagem do Telescópio Espacial Webb da NASA.",
-    "excerpt_en": "A spiral galaxy's brilliant heart outshines everything within sight in a new picture from NASA's Webb Space Telescope.",
-    "body": "<p>O coração brilhante de uma galáxia espiral ofusca tudo o que está à vista em uma nova imagem do Telescópio Espacial Webb da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Esta imagem fornecida pela NASA/ESA/Webb do.</p><p>NASA via AP O coração brilhante de uma galáxia espiral ofusca tudo o que está à vista em uma nova imagem do Telescópio Espacial Webb da NASA. A imagem divulgada esta semana mostra a galáxia Messier 77, a 45 milhões de anos-luz de distância, na constelação de Cetus, ou baleia.</p><p>Um ano-luz equivale a cerca de 6 trilhões de milhas.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-spiral-galaxy-brilliant-heart-bright.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O coração brilhante de uma galáxia espiral ofusca tudo o que está à vista em uma nova imagem do Telescópio Espacial Webb da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Esta imagem fornecida pela NASA/ESA/Webb do.</p><p>NASA via AP O coração brilhante de uma galáxia espiral ofusca tudo o que está à vista em uma nova imagem do Telescópio Espacial Webb da NASA. A imagem divulgada esta semana mostra a galáxia Messier 77, a 45 milhões de anos-luz de distância, na constelação de Cetus, ou baleia.</p><p>Um ano-luz equivale a cerca de 6 trilhões de milhas.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-spiral-galaxy-brilliant-heart-bright.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A spiral galaxy&#x27;s brilliant heart outshines everything within sight in a new picture from NASA&#x27;s Webb Space Telescope. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source This image provided by NASA/ESA/Webb from the NASA/ESA/CSA.</p><p>NASA via AP A spiral galaxy&#x27;s brilliant heart outshines everything within sight in a new picture from NASA&#x27;s Webb Space Telescope. The image released this week depicts the Messier 77 galaxy 45 million light-years away in the Cetus, or whale, constellation.</p><p>A light year is about 6 trillion miles. The galaxy&#x27;s active nucleus is powered by a supermassive black hole that&#x27;s 8 million times more massive than the sun.</p><p>Surrounding gas is sucked into a tight orbit around the black hole, becoming so hot that it radiates in the extreme. Webb&#x27;s mid-infrared instrument captured the stunning details.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The world&#x27;s largest and most powerful space telescope has been photographing the cosmos since launching in 2021. Master&#x27;s in physics with research experience.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-spiral-galaxy-brilliant-heart-bright.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O coração brilhante de uma galáxia espiral ofusca tudo o que está à vista em uma nova imagem do Telescópio Espacial Webb da NASA.",
-      "Dado-chave: O coração brilhante de uma galáxia espiral ofusca tudo o que está à vista em uma nova imagem do Telescópio Espacial Webb da NASA.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O coração brilhante de uma galáxia espiral ofusca tudo o que está à vista em uma nova imagem do Telescópio Espacial Webb da NASA.",
-      "Dado-chave: O coração brilhante de uma galáxia espiral ofusca tudo o que está à vista em uma nova imagem do Telescópio Espacial Webb da NASA.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A spiral galaxy's brilliant heart outshines everything within sight in a new picture from NASA's Webb Space Telescope.",
-      "Key detail: A spiral galaxy's brilliant heart outshines everything within sight in a new picture from NASA's Webb Space Telescope.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "08 mai 2026",
-    "date_pt": "08 mai 2026",
-    "date_en": "08 May 2026",
-    "time": "17h36",
-    "time_pt": "17h36",
-    "time_en": "17:36 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-08T17:36:04+00:00",
-    "lastModifiedIso": "2026-05-08T17:36:04+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "O coração brilhante da galáxia espiral brilha em uma nova imagem do telescópio Webb da NASA"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "O coração brilhante da galáxia espiral brilha em uma nova imagem do telescópio Webb da NASA"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Phys.org Space",
-      "Cosmos Week",
-      "The glowing heart of the spiral galaxy shines in a new image from NASA's Webb Telescope"
-    ],
-    "srcUrl": "https://phys.org/news/2026-05-spiral-galaxy-brilliant-heart-bright.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=spiral-galaxy-s-brilliant-heart-shines-bright-in-a-new-picture-from-nasa-s-webb-telescope",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=spiral-galaxy-s-brilliant-heart-shines-bright-in-a-new-picture-from-nasa-s-webb-telescope",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=spiral-galaxy-s-brilliant-heart-shines-bright-in-a-new-picture-from-nasa-s-webb-telescope&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 76,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "vast-atmospheric-waves-on-venus-are-caused-by-largest-known-hydraulic-jump",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/venus-atmosphere-jumps.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/venus-atmosphere-jumps.jpg",
-        "caption": "A atmosfera de Vênus salta e ondula",
-        "caption_pt": "A atmosfera de Vênus salta e ondula",
-        "caption_en": "Venus' atmosphere jumps and waves",
-        "alt": "A atmosfera de Vênus salta e ondula",
-        "alt_pt": "A atmosfera de Vênus salta e ondula",
-        "alt_en": "Venus' atmosphere jumps and waves"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/venus-atmosphere-jumps-1.jpg",
-        "caption": "A atmosfera de Vênus salta e ondula",
-        "caption_pt": "A atmosfera de Vênus salta e ondula",
-        "caption_en": "Venus' atmosphere jumps and waves",
-        "alt": "A atmosfera de Vênus salta e ondula",
-        "alt_pt": "A atmosfera de Vênus salta e ondula",
-        "alt_en": "Venus' atmosphere jumps and waves"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f6b420961b46f94b.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://scx2.b-cdn.net/gfx/video/2026/venus-atmosphere-jumps.mp4",
-      "poster": "https://scx1.b-cdn.net/gfx/video_tmb/2026/venus-atmosphere-jumps.mp4.jpg",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://phys.org/news/2026-05-vast-atmospheric-venus-largest-hydraulic.html"
-    },
-    "audio": null,
-    "title": "Vastas ondas atmosféricas em Vênus são causadas pelo maior ‘salto hidráulico’ conhecido",
-    "title_pt": "Vastas ondas atmosféricas em Vênus são causadas pelo maior ‘salto hidráulico’ conhecido",
-    "title_en": "Vast atmospheric waves on Venus are caused by largest known 'hydraulic jump'",
-    "sub": "A misteriosa origem de uma impressionante perturbação de nuvens em Vênus foi agora revelada por uma equipe que inclui a Universidade de Tóquio. Os pesquisadores usaram modelos.",
-    "sub_pt": "A misteriosa origem de uma impressionante perturbação de nuvens em Vênus foi agora revelada por uma equipe que inclui a Universidade de Tóquio. Os pesquisadores usaram modelos.",
-    "sub_en": "The mysterious origin of an impressive cloud disturbance on Venus has now been revealed by a team including the University of Tokyo. Researchers used numerical models to show that.",
-    "excerpt": "A misteriosa origem de uma impressionante perturbação de nuvens em Vênus foi agora revelada por uma equipe que inclui a Universidade de Tóquio. Os pesquisadores usaram modelos numéricos para mostrar uma enorme frente de onda atmosférica de 6.000 quilômetros.",
-    "excerpt_pt": "A misteriosa origem de uma impressionante perturbação de nuvens em Vênus foi agora revelada por uma equipe que inclui a Universidade de Tóquio. Os pesquisadores usaram modelos numéricos para mostrar uma enorme frente de onda atmosférica de 6.000 quilômetros.",
-    "excerpt_en": "The mysterious origin of an impressive cloud disturbance on Venus has now been revealed by a team including the University of Tokyo. Researchers used numerical models to show that an enormous 6,000-kilometer-wide atmospheric wave front.",
-    "body": "<p>A misteriosa origem de uma impressionante perturbação de nuvens em Vênus foi agora revelada por uma equipe que inclui a Universidade de Tóquio. Os pesquisadores usaram modelos numéricos para mostrar uma enorme frente de onda atmosférica de 6.000 quilômetros de largura. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial Journal of Geophysical Research: Planets (2026). Os investigadores usaram modelos numéricos para mostrar que uma enorme frente de onda atmosférica com 6.000 quilómetros de largura, que circunavega o planeta durante dias.</p><p>Em Vênus, uma mudança repentina no fluxo de ar na região inferior das nuvens é associada à criação de uma forte corrente ascendente, forçando o vapor de ácido sulfúrico a subir na. Pelo lado positivo, a constante e espessa cobertura de nuvens de Vênus oferece uma excelente oportunidade para estudarmos padrões e processos que seriam difíceis de detectar em.</p><p>Sabemos agora que a superrotação também ocorre em outros lugares, inclusive em Marte, no nosso Sol e até na atmosfera superior da Terra. Em 2016, imagens da sonda japonesa Akatsuki Venus também revelaram que uma enorme onda atmosférica, por vezes com 6.000 km de largura, varre repetidamente o equador do planeta.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-vast-atmospheric-venus-largest-hydraulic.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A misteriosa origem de uma impressionante perturbação de nuvens em Vênus foi agora revelada por uma equipe que inclui a Universidade de Tóquio. Os pesquisadores usaram modelos numéricos para mostrar uma enorme frente de onda atmosférica de 6.000 quilômetros de largura. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial Journal of Geophysical Research: Planets (2026). Os investigadores usaram modelos numéricos para mostrar que uma enorme frente de onda atmosférica com 6.000 quilómetros de largura, que circunavega o planeta durante dias.</p><p>Em Vênus, uma mudança repentina no fluxo de ar na região inferior das nuvens é associada à criação de uma forte corrente ascendente, forçando o vapor de ácido sulfúrico a subir na. Pelo lado positivo, a constante e espessa cobertura de nuvens de Vênus oferece uma excelente oportunidade para estudarmos padrões e processos que seriam difíceis de detectar em.</p><p>Sabemos agora que a superrotação também ocorre em outros lugares, inclusive em Marte, no nosso Sol e até na atmosfera superior da Terra. Em 2016, imagens da sonda japonesa Akatsuki Venus também revelaram que uma enorme onda atmosférica, por vezes com 6.000 km de largura, varre repetidamente o equador do planeta.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-vast-atmospheric-venus-largest-hydraulic.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The mysterious origin of an impressive cloud disturbance on Venus has now been revealed by a team including the University of Tokyo. Researchers used numerical models to show that an enormous 6,000-kilometer-wide atmospheric wave front. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Journal of Geophysical Research: Planets (2026). Researchers used numerical models to show that an enormous 6,000-kilometer-wide atmospheric wave front, which circumnavigates the planet for days at a time, is caused by a large.</p><p>On Venus, a sudden change in airflow in the lower cloud region is coupled with the creation of a strong updraft, forcing sulfuric acid vapor higher into the atmosphere where it. On the bright side, Venus&#x27; constant thick cloud cover provides an excellent opportunity for us to study patterns and processes that would be difficult to spot on planets where.</p><p>We now know that superrotation also occurs elsewhere, including on Mars, our sun, and even Earth&#x27;s upper atmosphere. In 2016, images from Japan&#x27;s Akatsuki Venus orbiter also revealed that an enormous atmospheric wave, sometimes 6,000 km wide, repeatedly sweeps around the planet&#x27;s equator.</p><p>As water from the tap hits the basin, it appears fast and shallow at first, but suddenly slows and becomes deeper as it spreads. Wind speed as seen from the atmospheric wave abruptly slows down and a strong localized updraft is created, which carries sulfuric acid vapor higher into the atmosphere.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Up until now, we used a global circulation model (GCM) for Venus that is similar to Earth&#x27;s, but this model doesn&#x27;t include the hydraulic jump which we have now identified,&quot;.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-vast-atmospheric-venus-largest-hydraulic.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A misteriosa origem de uma impressionante perturbação de nuvens em Vênus foi agora revelada por uma equipe que inclui a Universidade de Tóquio. Os.",
-      "Dado-chave: Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial Journal of Geophysical.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A misteriosa origem de uma impressionante perturbação de nuvens em Vênus foi agora revelada por uma equipe que inclui a Universidade de Tóquio. Os.",
-      "Dado-chave: Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial Journal of Geophysical.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The mysterious origin of an impressive cloud disturbance on Venus has now been revealed by a team including the University of Tokyo. Researchers used.",
-      "Key detail: Editors have highlighted the following attributes while ensuring the content's credibility: Add as preferred source Journal of Geophysical.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "08 mai 2026",
-    "date_pt": "08 mai 2026",
-    "date_en": "08 May 2026",
-    "time": "17h20",
-    "time_pt": "17h20",
-    "time_en": "17:20 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-08T17:20:01+00:00",
-    "lastModifiedIso": "2026-05-08T17:20:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "watch",
-    "editorialBandLabel": "Leitura monitorada",
-    "editorialBandLabel_pt": "Leitura monitorada",
-    "editorialBandLabel_en": "Watchlist",
-    "keywords": [
-      "Ciências da Terra",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Vastas ondas atmosféricas em Vênus são causadas pelo maior ‘salto hidráulico’ conhecido"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Vastas ondas atmosféricas em Vênus são causadas pelo maior ‘salto hidráulico’ conhecido"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Vast atmospheric waves on Venus are caused by largest known 'hydraulic jump'"
-    ],
-    "srcUrl": "https://phys.org/news/2026-05-vast-atmospheric-venus-largest-hydraulic.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=vast-atmospheric-waves-on-venus-are-caused-by-largest-known-hydraulic-jump",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=vast-atmospheric-waves-on-venus-are-caused-by-largest-known-hydraulic-jump",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=vast-atmospheric-waves-on-venus-are-caused-by-largest-known-hydraulic-jump&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 64,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 48,
       "accessibility": 52,
       "novelty": 55
     }
@@ -1715,6 +1668,130 @@ window.postsData = [
   },
   {
     "id": 15,
+    "slug": "roman-space-telescope-poised-to-transform-hunt-for-elusive-neutron-stars",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/roman-space-telescope.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/f774f64d75a8f8a3.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Telescópio Espacial Romano preparado para transformar a busca por estrelas de nêutrons indescritíveis",
+    "title_pt": "Telescópio Espacial Romano preparado para transformar a busca por estrelas de nêutrons indescritíveis",
+    "title_en": "Roman Space Telescope poised to transform hunt for elusive neutron stars",
+    "sub": "Os astrônomos sabem há muito tempo que as estrelas de nêutrons, os núcleos esmagados deixados para trás após a explosão de estrelas massivas, deveriam estar espalhadas por toda a.",
+    "sub_pt": "Os astrônomos sabem há muito tempo que as estrelas de nêutrons, os núcleos esmagados deixados para trás após a explosão de estrelas massivas, deveriam estar espalhadas por toda a.",
+    "sub_en": "Astronomers have long known that neutron stars, the crushed cores left behind after massive stars explode, should be scattered throughout the Milky Way galaxy. However, most of.",
+    "excerpt": "Os astrônomos sabem há muito tempo que as estrelas de nêutrons, os núcleos esmagados deixados para trás após a explosão de estrelas massivas, deveriam estar espalhadas por toda a Via Láctea. No entanto, a maioria deles é efetivamente invisível. Um novo estudo.",
+    "excerpt_pt": "Os astrônomos sabem há muito tempo que as estrelas de nêutrons, os núcleos esmagados deixados para trás após a explosão de estrelas massivas, deveriam estar espalhadas por toda a Via Láctea. No entanto, a maioria deles é efetivamente invisível. Um novo estudo.",
+    "excerpt_en": "Astronomers have long known that neutron stars, the crushed cores left behind after massive stars explode, should be scattered throughout the Milky Way galaxy. However, most of them are effectively invisible. A new study published in.",
+    "body": "<p>Os astrônomos sabem há muito tempo que as estrelas de nêutrons, os núcleos esmagados deixados para trás após a explosão de estrelas massivas, deveriam estar espalhadas por toda a Via Láctea. No entanto, a maioria deles é efetivamente invisível. Um novo estudo publicado em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Por Hannah Braun, Space Telescope Science Institute editado por Stephanie Baum, revisado por Robert Egan Este artigo foi revisado de acordo com o processo editorial e as políticas. Um novo estudo publicado na Astronomy &amp; Astrophysics sugere que o próximo Telescópio Espacial Nancy Grace Roman da NASA poderia localizá-los de qualquer maneira.</p><p>No entanto, a menos que sejam pulsares que emitem comprimentos de onda de rádio ou brilhem em raios X, podem permanecer escondidos até mesmo dos telescópios mais poderosos. Embora muitos telescópios possam detectar o brilho temporário, Roman pode medir tanto o brilho (fotometria) quanto a pequena mudança de posição (astrometria) da estrela objeto de.</p><p>Como as estrelas de nêutrons são relativamente massivas, elas produzem um sinal astrométrico maior do que objetos mais leves, permitindo que missões como a Roman não apenas as. O que é realmente legal no uso de microlentes é que você pode obter medições diretas de massa&quot;, disse o coautor do artigo, Peter McGill, do Laboratório Nacional Lawrence Livermore.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-roman-space-telescope-poised-elusive.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os astrônomos sabem há muito tempo que as estrelas de nêutrons, os núcleos esmagados deixados para trás após a explosão de estrelas massivas, deveriam estar espalhadas por toda a Via Láctea. No entanto, a maioria deles é efetivamente invisível. Um novo estudo publicado em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Por Hannah Braun, Space Telescope Science Institute editado por Stephanie Baum, revisado por Robert Egan Este artigo foi revisado de acordo com o processo editorial e as políticas. Um novo estudo publicado na Astronomy &amp; Astrophysics sugere que o próximo Telescópio Espacial Nancy Grace Roman da NASA poderia localizá-los de qualquer maneira.</p><p>No entanto, a menos que sejam pulsares que emitem comprimentos de onda de rádio ou brilhem em raios X, podem permanecer escondidos até mesmo dos telescópios mais poderosos. Embora muitos telescópios possam detectar o brilho temporário, Roman pode medir tanto o brilho (fotometria) quanto a pequena mudança de posição (astrometria) da estrela objeto de.</p><p>Como as estrelas de nêutrons são relativamente massivas, elas produzem um sinal astrométrico maior do que objetos mais leves, permitindo que missões como a Roman não apenas as. O que é realmente legal no uso de microlentes é que você pode obter medições diretas de massa&quot;, disse o coautor do artigo, Peter McGill, do Laboratório Nacional Lawrence Livermore.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-roman-space-telescope-poised-elusive.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Long known that neutron stars, the crushed cores left behind after massive stars explode, should be scattered throughout the Milky Way galaxy. However, most of them are effectively invisible. A new study published in. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. By Hannah Braun, Space Telescope Science Institute edited by Stephanie Baum, reviewed by Robert Egan This article has been reviewed according to Science X&#x27;s editorial process and. A new study published in Astronomy &amp; Astrophysics suggests that NASA&#x27;s upcoming Nancy Grace Roman Space Telescope could spot them anyway.</p><p>Yet, unless they are pulsars that beam in radio wavelengths or glow in X-rays, they can remain hidden from even the most powerful telescopes. While many telescopes can detect the temporary brightening, Roman can measure both the brightening and the tiny positional shift (astrometry) of the lensed star with exceptional.</p><p>Because neutron stars are relatively massive, they produce a larger astrometric signal than lighter objects, allowing missions like Roman to not only detect them, but also weigh. What&#x27;s really cool about using microlensing is that you can get direct mass measurements,&quot; said paper co-author Peter McGill of Lawrence Livermore National Laboratory.</p><p>The research team will utilize Roman&#x27;s future Galactic Bulge Time Domain Survey, which will monitor millions of stars at a time in vast images of the sky, taken at a high. Even in the first months after commissioning, we expect to start identifying promising events.&quot; Even a relatively small number of confirmed detections could significantly improve.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>We don&#x27;t know the mass distribution of neutron stars, black holes, or where one ends and the other begins with any certainty,&quot; McGill said. Roman will really be a breakthrough in that.&quot; Although only a few thousand neutron stars have been detected so far, mostly as pulsars, scientists estimate there could be tens of.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-roman-space-telescope-poised-elusive.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os astrônomos sabem há muito tempo que as estrelas de nêutrons, os núcleos esmagados deixados para trás após a explosão de estrelas massivas.",
+      "Dado-chave: por Hannah Braun, Space Telescope Science Institute editado por Stephanie Baum, revisado por Robert Egan Este artigo foi revisado de acordo com.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os astrônomos sabem há muito tempo que as estrelas de nêutrons, os núcleos esmagados deixados para trás após a explosão de estrelas massivas.",
+      "Dado-chave: por Hannah Braun, Space Telescope Science Institute editado por Stephanie Baum, revisado por Robert Egan Este artigo foi revisado de acordo com.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Astronomers have long known that neutron stars, the crushed cores left behind after massive stars explode, should be scattered throughout the Milky.",
+      "Key detail: by Hannah Braun, Space Telescope Science Institute edited by Stephanie Baum, reviewed by Robert Egan This article has been reviewed according to.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "06 mai 2026",
+    "date_pt": "06 mai 2026",
+    "date_en": "06 May 2026",
+    "time": "21h10",
+    "time_pt": "21h10",
+    "time_en": "21:10 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-06T21:10:02+00:00",
+    "lastModifiedIso": "2026-05-06T21:10:02+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Telescópio Espacial Romano preparado para transformar a busca por estrelas de nêutrons indescritíveis"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Telescópio Espacial Romano preparado para transformar a busca por estrelas de nêutrons indescritíveis"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Roman Space Telescope Poised to Transform Search for Elusive Neutron Stars"
+    ],
+    "srcUrl": "https://phys.org/news/2026-05-roman-space-telescope-poised-elusive.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=roman-space-telescope-poised-to-transform-hunt-for-elusive-neutron-stars",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=roman-space-telescope-poised-to-transform-hunt-for-elusive-neutron-stars",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=roman-space-telescope-poised-to-transform-hunt-for-elusive-neutron-stars&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 49
+    }
+  },
+  {
+    "id": 16,
     "slug": "black-holes-don-t-live-forever-but-they-might-live-long-enough-to-look-like-white-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1819,121 +1896,6 @@ window.postsData = [
       "relevance": 88,
       "accessibility": 60,
       "novelty": 55
-    }
-  },
-  {
-    "id": 16,
-    "slug": "astronomers-witness-the-awesome-power-of-a-black-hole-s-dancing-jets",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://www.universetoday.com/article_images/Low-Res_SCENE_4_0-00-06-24_20260506_034029.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/Screenshot_2026-05-06_at_13-33-30_Artists_impression_of_the_Cygnus_X-1_binary_system_VIDEO_EurekAlert_Science_News_Releases_20260506_203417.png",
-        "caption": "Impressão artística do sistema binário Cygnus X-1, mostrando como o vento da estrela supergigante curva o buraco negro",
-        "caption_pt": "Impressão artística do sistema binário Cygnus X-1, mostrando como o vento da estrela supergigante curva o buraco negro",
-        "caption_en": "Artist’s impression of the Cygnus X-1 binary system, showing how the wind of the supergiant star bends the black hole",
-        "alt": "Impressão artística do sistema binário Cygnus X-1, mostrando como o vento da estrela supergigante curva o buraco negro",
-        "alt_pt": "Impressão artística do sistema binário Cygnus X-1, mostrando como o vento da estrela supergigante curva o buraco negro",
-        "alt_en": "Artist’s impression of the Cygnus X-1 binary system, showing how the wind of the supergiant star bends the black hole"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Astrônomos testemunham o incrível poder dos “jatos dançantes” de um buraco negro",
-    "title_pt": "Astrônomos testemunham o incrível poder dos “jatos dançantes” de um buraco negro",
-    "title_en": "Astronomers Witness the Awesome Power of a Black Hole's \"Dancing Jets\"",
-    "sub": "A nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos jatos dos buracos negros.",
-    "sub_pt": "A nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos jatos dos buracos negros.",
-    "sub_en": "New Curtin University-led research has used a radio telescope that spans the Earth to snap images that measure the immense power of jets from black holes, confirming scientists’.",
-    "excerpt": "A nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos jatos dos buracos negros, confirmando as teorias dos cientistas sobre como os buracos negros ajudam a moldar a.",
-    "excerpt_pt": "A nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos jatos dos buracos negros, confirmando as teorias dos cientistas sobre como os buracos negros ajudam a moldar a.",
-    "excerpt_en": "New Curtin University-led research has used a radio telescope that spans the Earth to snap images that measure the immense power of jets from black holes, confirming scientists’ theories of how black holes help shape the structure of the.",
-    "body": "<p>A nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos jatos dos buracos negros, confirmando as teorias dos cientistas sobre como os buracos negros ajudam a moldar a estrutura do buraco. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Embora a maior parte deste material se acrete lentamente no horizonte de eventos do buraco negro, alguns irão espiralar para longe dos pólos, criando jatos poderosos que podem ser. Num estudo de investigação recente, uma equipa de astrofísicos liderada pela Universidade Curtin utilizou 18 anos de dados de imagens de rádio de alta resolução para estudar os.</p><p>As imagens permitiram medir a imensa potência desses jatos, equivalente à produção de 10.000 sóis. A equipe foi liderada por Steve Prabu e James Miller-Jones, professor associado adjunto e professor do Centro Internacional de Pesquisa em Radioastronomia (ICRAR) da Universidade.</p><p>A eles se juntaram pesquisadores do Institut de Ciències del Cosmos Universitat de Barcelona (ICCUB), da Universidade de Wisconsin-Madison, da Universidade de Lethbridge e do.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/astronomers-witness-the-awesome-power-of-a-black-holes-dancing-jets\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos jatos dos buracos negros, confirmando as teorias dos cientistas sobre como os buracos negros ajudam a moldar a estrutura do buraco. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Embora a maior parte deste material se acrete lentamente no horizonte de eventos do buraco negro, alguns irão espiralar para longe dos pólos, criando jatos poderosos que podem ser. Num estudo de investigação recente, uma equipa de astrofísicos liderada pela Universidade Curtin utilizou 18 anos de dados de imagens de rádio de alta resolução para estudar os.</p><p>As imagens permitiram medir a imensa potência desses jatos, equivalente à produção de 10.000 sóis. A equipe foi liderada por Steve Prabu e James Miller-Jones, professor associado adjunto e professor do Centro Internacional de Pesquisa em Radioastronomia (ICRAR) da Universidade.</p><p>A eles se juntaram pesquisadores do Institut de Ciències del Cosmos Universitat de Barcelona (ICCUB), da Universidade de Wisconsin-Madison, da Universidade de Lethbridge e do.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/astronomers-witness-the-awesome-power-of-a-black-holes-dancing-jets\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>New Curtin University-led research has used a radio telescope that spans the Earth to snap images that measure the immense power of jets from black holes, confirming scientists’ theories of how black holes help shape the structure of the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. While most of this material slowly accretes onto the black hole&#x27;s event horizon, some will spiral away from the poles, creating powerful jets that can be seen many light-years. In a recent research study, a team of astrophysicists led by Curtin University used 18 years of high-resolution radio imaging data to study the jets in the Cygnus X-1 system, the.</p><p>The images allowed them to measure the immense power of these jets, equivalent to the output of 10,000 Suns. The team was led by Steve Prabu and James Miller-Jones, an Adjunct Associate Lecturer and a Professor with the International Center for Radio Astronomy Research (ICRAR) at Curtin.</p><p>They were joined by researchers from the Institut de Ciències del Cosmos Universitat de Barcelona (ICCUB), the University of Wisconsin-Madison, the University of Lethbridge, and. Their paper, &quot; A jet bent by a stellar wind in the black hole X-ray binary Cygnus X-1,&quot; is published in the journal *Nature Astronomy*.</p><p>*Artist’s impression of the Cygnus X-1 binary system, showing how the wind of the supergiant star bends the black hole&#x27;s jets away from the star as the objects move in their orbit. This allowed the team to measure how much the black hole&#x27;s jets are buffeted as it orbits its stellar companion, thereby yielding (for the first time) estimates of the jets&#x27; power.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>In another first, their calculations also yielded estimates of the speed of the black hole jets, which were roughly 150,000 km/s (93,200 mps), or half the speed of light. “A key finding from this research is that about 10 percent of the energy released as matter falls in towards the black hole is carried away by the jets,” Dr.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/astronomers-witness-the-awesome-power-of-a-black-holes-dancing-jets\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos.",
-      "Dado-chave: A nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos.",
-      "Dado-chave: A nova pesquisa liderada pela Universidade Curtin usou um radiotelescópio que abrange a Terra para capturar imagens que medem o imenso poder dos.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: New Curtin University-led research has used a radio telescope that spans the Earth to snap images that measure the immense power of jets from black.",
-      "Key detail: New Curtin University-led research has used a radio telescope that spans the Earth to snap images that measure the immense power of jets from.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "06 mai 2026",
-    "date_pt": "06 mai 2026",
-    "date_en": "06 May 2026",
-    "time": "20h35",
-    "time_pt": "20h35",
-    "time_en": "20:35 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-06T20:35:46+00:00",
-    "lastModifiedIso": "2026-05-06T20:35:46+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "Universe Today",
-      "Cosmos Week",
-      "Astrônomos testemunham o incrível poder dos “jatos dançantes” de um buraco negro"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "Universe Today",
-      "Cosmos Week",
-      "Astrônomos testemunham o incrível poder dos “jatos dançantes” de um buraco negro"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "Universe Today",
-      "Cosmos Week",
-      "Astronomers witness the incredible power of a black hole’s “dancing jets”"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/astronomers-witness-the-awesome-power-of-a-black-holes-dancing-jets",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-witness-the-awesome-power-of-a-black-hole-s-dancing-jets",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-witness-the-awesome-power-of-a-black-hole-s-dancing-jets",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-witness-the-awesome-power-of-a-black-hole-s-dancing-jets&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 49
     }
   },
   {
@@ -2243,17 +2205,17 @@ window.postsData = [
     "excerpt": "O Telescópio Espacial James Webb observou a superfície de um exoplaneta rochoso nu, revelando rochas antigas e escuras semelhantes às da nossa Lua. A postagem Super-Terra próxima não tem atmosfera e uma superfície escura semelhante à lua apareceu pela.",
     "excerpt_pt": "O Telescópio Espacial James Webb observou a superfície de um exoplaneta rochoso nu, revelando rochas antigas e escuras semelhantes às da nossa Lua. A postagem Super-Terra próxima não tem atmosfera e uma superfície escura semelhante à lua apareceu pela.",
     "excerpt_en": "The James Webb Space Telescope has observed the surface of a bare rocky exoplanet, revealing old, dark rock akin to that on our Moon. The post Nearby Super-Earth Has No Atmosphere and a Dark, Moon-like Surface appeared first on Sky &.",
-    "body": "<p>O Telescópio Espacial James Webb observou a superfície de um exoplaneta rochoso nu, revelando rochas antigas e escuras semelhantes às da nossa Lua. A postagem Super-Terra próxima não tem atmosfera e uma superfície escura semelhante à lua apareceu pela primeira vez em Sky &amp;. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. A postagem Super-Terra próxima não tem atmosfera e uma superfície escura semelhante à lua apareceu pela primeira vez em Sky &amp; Telescope. O Telescópio Espacial James Webb observou a superfície de um exoplaneta rochoso nu, revelando rochas antigas e escuras semelhantes às da nossa Lua.</p><p>(Você pode cancelar a assinatura a qualquer momento) O Telescópio Espacial James Webb observou a superfície de um exoplaneta rochoso nu, revelando rochas antigas e escuras. O mundo em questão é LHS 3844b, um planeta 30% maior que a Terra que gira em torno da sua estrela anã vermelha a cada 11 horas.</p><p>Os astrônomos já haviam descartado a possibilidade de uma atmosfera espessa ao redor do planeta em 2019, com dados do Telescópio Espacial Spitzer. Isso significa que as observações JWST da luz do planeta forneceram uma visão direta da sua superfície, sem nenhuma atmosfera espessa a bloqueando.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/nearby-super-earth-has-no-atmosphere/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O Telescópio Espacial James Webb observou a superfície de um exoplaneta rochoso nu, revelando rochas antigas e escuras semelhantes às da nossa Lua. A postagem Super-Terra próxima não tem atmosfera e uma superfície escura semelhante à lua apareceu pela primeira vez em Sky &amp;. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. A postagem Super-Terra próxima não tem atmosfera e uma superfície escura semelhante à lua apareceu pela primeira vez em Sky &amp; Telescope. O Telescópio Espacial James Webb observou a superfície de um exoplaneta rochoso nu, revelando rochas antigas e escuras semelhantes às da nossa Lua.</p><p>(Você pode cancelar a assinatura a qualquer momento) O Telescópio Espacial James Webb observou a superfície de um exoplaneta rochoso nu, revelando rochas antigas e escuras. O mundo em questão é LHS 3844b, um planeta 30% maior que a Terra que gira em torno da sua estrela anã vermelha a cada 11 horas.</p><p>Os astrônomos já haviam descartado a possibilidade de uma atmosfera espessa ao redor do planeta em 2019, com dados do Telescópio Espacial Spitzer. Isso significa que as observações JWST da luz do planeta forneceram uma visão direta da sua superfície, sem nenhuma atmosfera espessa a bloqueando.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/nearby-super-earth-has-no-atmosphere/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body": "<p>O Telescópio Espacial James Webb observou a superfície de um exoplaneta rochoso nu, revelando rochas antigas e escuras semelhantes às da nossa Lua. A postagem Super-Terra próxima não tem atmosfera e uma superfície escura semelhante à lua apareceu pela primeira vez em Sky &amp;. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. A postagem A super-Terra próxima não tem atmosfera e tem uma superfície escura semelhante à da Lua apareceu pela primeira vez em Sky &amp; Telescope. O Telescópio Espacial James Webb observou a superfície de um exoplaneta rochoso nu, revelando rochas antigas e escuras semelhantes às da nossa Lua.</p><p>(Você pode cancelar a assinatura a qualquer momento) O Telescópio Espacial James Webb observou a superfície de um exoplaneta rochoso nu, revelando rochas antigas e escuras. O mundo em questão é LHS 3844b, um planeta 30% maior que a Terra que gira em torno da sua estrela anã vermelha a cada 11 horas.</p><p>Os astrônomos já haviam descartado a possibilidade de uma atmosfera espessa ao redor do planeta em 2019, com dados do Telescópio Espacial Spitzer. Isso significa que as observações JWST da luz do planeta forneceram uma visão direta da sua superfície, sem nenhuma atmosfera espessa bloqueando-a.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/nearby-super-earth-has-no-atmosphere/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O Telescópio Espacial James Webb observou a superfície de um exoplaneta rochoso nu, revelando rochas antigas e escuras semelhantes às da nossa Lua. A postagem Super-Terra próxima não tem atmosfera e uma superfície escura semelhante à lua apareceu pela primeira vez em Sky &amp;. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. A postagem A super-Terra próxima não tem atmosfera e tem uma superfície escura semelhante à da Lua apareceu pela primeira vez em Sky &amp; Telescope. O Telescópio Espacial James Webb observou a superfície de um exoplaneta rochoso nu, revelando rochas antigas e escuras semelhantes às da nossa Lua.</p><p>(Você pode cancelar a assinatura a qualquer momento) O Telescópio Espacial James Webb observou a superfície de um exoplaneta rochoso nu, revelando rochas antigas e escuras. O mundo em questão é LHS 3844b, um planeta 30% maior que a Terra que gira em torno da sua estrela anã vermelha a cada 11 horas.</p><p>Os astrônomos já haviam descartado a possibilidade de uma atmosfera espessa ao redor do planeta em 2019, com dados do Telescópio Espacial Spitzer. Isso significa que as observações JWST da luz do planeta forneceram uma visão direta da sua superfície, sem nenhuma atmosfera espessa bloqueando-a.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/nearby-super-earth-has-no-atmosphere/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>The James Webb Space Telescope has observed the surface of a bare rocky exoplanet, revealing old, dark rock akin to that on our Moon. The post Nearby Super-Earth Has No Atmosphere and a Dark, Moon-like Surface appeared first on Sky &amp;. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. The post Nearby Super-Earth Has No Atmosphere and a Dark, Moon-like Surface appeared first on Sky &amp; Telescope. The James Webb Space Telescope has observed the surface of a bare rocky exoplanet, revealing old, dark rock akin to that on our Moon.</p><p>(You can unsubscribe anytime) The James Webb Space Telescope has observed the surface of a bare rocky exoplanet, revealing old, dark rock akin to that on our Moon. The world in question is LHS 3844b, a planet 30% larger than Earth that whips around its red dwarf star every 11 hours.</p><p>Astronomers had already ruled out the possibility of a thick atmosphere around the planet back in 2019, with data from the Spitzer Space Telescope. That meant that the JWST observations of the planet’s light provided a direct look onto its surface, with no thick atmosphere blocking it.</p><p>With the new JWST data, a picture emerges of this alien world: a surface as dark and desolate as our Moon, with old rock likely battered by space weather for billions of years. The findings, published in Nature Astronomy, are one of the first of a burgeoning field of “exoplanet geology.” “This is a beautiful measurement, using JWST’s exquisite precision.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>Because it doesn’t have an atmosphere, its dayside is constantly heated to a sizzling 1,000 kelvin (1340°F ), while its nightside is only just above absolute zero, the coldest it. LHS 3844b is more than 48 light-years from Earth, so astronomers observed it by looking at the tiny dip in light that occurs when the planet passes behind its star.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/nearby-super-earth-has-no-atmosphere/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: O Telescópio Espacial James Webb observou a superfície de um exoplaneta rochoso nu, revelando rochas antigas e escuras semelhantes às da nossa Lua. A.",
-      "Dado-chave: A postagem Super-Terra próxima não tem atmosfera e uma superfície escura semelhante à lua apareceu pela primeira vez em Sky & Telescope.",
+      "Dado-chave: A postagem A super-Terra próxima não tem atmosfera e tem uma superfície escura semelhante à da Lua apareceu pela primeira vez em Sky & Telescope.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: O Telescópio Espacial James Webb observou a superfície de um exoplaneta rochoso nu, revelando rochas antigas e escuras semelhantes às da nossa Lua. A.",
-      "Dado-chave: A postagem Super-Terra próxima não tem atmosfera e uma superfície escura semelhante à lua apareceu pela primeira vez em Sky & Telescope.",
+      "Dado-chave: A postagem A super-Terra próxima não tem atmosfera e tem uma superfície escura semelhante à da Lua apareceu pela primeira vez em Sky & Telescope.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
@@ -2335,6 +2297,133 @@ window.postsData = [
   },
   {
     "id": 20,
+    "slug": "ultrahigh-energy-cosmic-messengers-may-carry-ultraheavy-secrets",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrahigh-energy-cosmi.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/f774f64d75a8f8a3.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Mensageiros cósmicos de energia ultra-alta podem carregar segredos ultrapesados",
+    "title_pt": "Mensageiros cósmicos de energia ultra-alta podem carregar segredos ultrapesados",
+    "title_en": "Ultrahigh-energy cosmic messengers may carry ultraheavy secrets",
+    "sub": "Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de energia ultra-alta são partículas.",
+    "sub_pt": "Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de energia ultra-alta são partículas.",
+    "sub_en": "There may be an ultraheavy explanation for the mystery surrounding the origins of the highest-energy particles ever observed. Ultrahigh-energy cosmic rays are particles from space.",
+    "excerpt": "Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de energia ultra-alta são partículas do espaço que atingem a Terra com energias muito além daquelas alcançáveis.",
+    "excerpt_pt": "Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de energia ultra-alta são partículas do espaço que atingem a Terra com energias muito além daquelas alcançáveis.",
+    "excerpt_en": "There may be an ultraheavy explanation for the mystery surrounding the origins of the highest-energy particles ever observed. Ultrahigh-energy cosmic rays are particles from space that strike Earth with energies far beyond those reachable.",
+    "body": "<p>Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de energia ultra-alta são partículas do espaço que atingem a Terra com energias muito além daquelas alcançáveis. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Editado por Stephanie Baum, revisado por Robert Egan Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os raios cósmicos de energia ultra-alta são partículas do espaço que atingem a Terra com energias muito além daquelas alcançáveis ​​pelos aceleradores de partículas feitos pelo.</p><p>Um dos eventos mais extremos já registrados é a “partícula Amaterasu”, detectada pelo Telescope Array em Utah em 2021 e batizada em homenagem à deusa do sol na mitologia japonesa. A sua energia relatada coloca-o entre os eventos de raios cósmicos de maior energia alguma vez observados, comparável à &quot;partícula Oh-Meu-Deus&quot; detectada em 1991, mas a sua.</p><p>Os cálculos da equipa mostram que estes núcleos ultrapesados ​​podem perder energia mais lentamente do que apenas protões ou núcleos mais leves à medida que viajam através do. Quando detectamos partículas individuais de raios cósmicos, como a partícula Amaterasu aqui na Terra, podemos muitas vezes usar as suas energias, direcções de chegada e deflexões.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-ultrahigh-energy-cosmic-messengers-ultraheavy.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de energia ultra-alta são partículas do espaço que atingem a Terra com energias muito além daquelas alcançáveis. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Editado por Stephanie Baum, revisado por Robert Egan Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os raios cósmicos de energia ultra-alta são partículas do espaço que atingem a Terra com energias muito além daquelas alcançáveis ​​pelos aceleradores de partículas feitos pelo.</p><p>Um dos eventos mais extremos já registrados é a “partícula Amaterasu”, detectada pelo Telescope Array em Utah em 2021 e batizada em homenagem à deusa do sol na mitologia japonesa. A sua energia relatada coloca-o entre os eventos de raios cósmicos de maior energia alguma vez observados, comparável à &quot;partícula Oh-Meu-Deus&quot; detectada em 1991, mas a sua.</p><p>Os cálculos da equipa mostram que estes núcleos ultrapesados ​​podem perder energia mais lentamente do que apenas protões ou núcleos mais leves à medida que viajam através do. Quando detectamos partículas individuais de raios cósmicos, como a partícula Amaterasu aqui na Terra, podemos muitas vezes usar as suas energias, direcções de chegada e deflexões.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-ultrahigh-energy-cosmic-messengers-ultraheavy.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>There may be an ultraheavy explanation for the mystery surrounding the origins of the highest-energy particles ever observed. Ultrahigh-energy cosmic rays are particles from space that strike Earth with energies far beyond those reachable. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Edited by Stephanie Baum, reviewed by Robert Egan This article has been reviewed according to Science X&#x27;s editorial process and policies. Ultrahigh-energy cosmic rays are particles from space that strike Earth with energies far beyond those reachable by human-made particle accelerators.</p><p>One of the most extreme events ever recorded is the &quot;Amaterasu particle,&quot; detected by the Telescope Array in Utah in 2021 and named after the sun goddess in Japanese mythology. Its reported energy places it among the highest-energy cosmic-ray events ever observed, comparable to the &quot;Oh-My-God particle&quot; detected in 1991, yet its origin, and even its.</p><p>The team&#x27;s calculations show that these ultraheavy nuclei can lose energy more slowly than just protons or lighter nuclei as they travel through intergalactic space, allowing them. When we detect individual cosmic-ray particles such as the Amaterasu particle here on Earth, we can often use their energies, arrival directions and expected magnetic deflections.</p><p>The origins and acceleration mechanisms of ultrahigh-energy cosmic rays have been among the biggest mysteries in the field for more than 60 years, since the first example was. With energies above 100 exa-electron volts (100 quintillion electron volts), these particles are about seven orders of magnitude (10 million times) more energetic than particles.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>The Amaterasu particle&#x27;s reported energy was about 240 exa-electron volts, roughly the kinetic energy of a fast-moving tennis ball but carried by a single cosmic-ray particle. But if some of the highest-energy events are ultraheavy nuclei, that would impact how we search for their sources.&quot; Discover the latest in science, tech, and space with over.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-ultrahigh-energy-cosmic-messengers-ultraheavy.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de.",
+      "Dado-chave: editado por Stephanie Baum, revisado por Robert Egan Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de.",
+      "Dado-chave: editado por Stephanie Baum, revisado por Robert Egan Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: There may be an ultraheavy explanation for the mystery surrounding the origins of the highest-energy particles ever observed. Ultrahigh-energy cosmic.",
+      "Key detail: edited by Stephanie Baum, reviewed by Robert Egan This article has been reviewed according to Science X's editorial process and policies.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "07 mai 2026",
+    "date_pt": "07 mai 2026",
+    "date_en": "07 May 2026",
+    "time": "21h00",
+    "time_pt": "21h00",
+    "time_en": "21:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-07T21:00:06+00:00",
+    "lastModifiedIso": "2026-05-07T21:00:06+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Mensageiros cósmicos de energia ultra",
+      "alta podem carregar segredos ultrapesados"
+    ],
+    "keywords_pt": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Mensageiros cósmicos de energia ultra",
+      "alta podem carregar segredos ultrapesados"
+    ],
+    "keywords_en": [
+      "Physical",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Ultra energy cosmic messengers",
+      "high can carry ultra-heavy secrets"
+    ],
+    "srcUrl": "https://phys.org/news/2026-05-ultrahigh-energy-cosmic-messengers-ultraheavy.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=ultrahigh-energy-cosmic-messengers-may-carry-ultraheavy-secrets",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=ultrahigh-energy-cosmic-messengers-may-carry-ultraheavy-secrets",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=ultrahigh-energy-cosmic-messengers-may-carry-ultraheavy-secrets&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 82,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 21,
     "slug": "is-the-large-magellanic-cloud-a-first-time-visitor",
     "cat": "Física",
     "catCls": "fisica",
@@ -2449,121 +2538,6 @@ window.postsData = [
       "relevance": 82,
       "accessibility": 60,
       "novelty": 46
-    }
-  },
-  {
-    "id": 21,
-    "slug": "smarter-decisions-at-the-speed-of-physics",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://home.cern/wp-content/uploads/2026/05/ATLAS-CMS-ship-article-pic-01-copy-2048x1152-1.png",
-    "inline_images": [
-      {
-        "src": "https://home.cern/smarter-decisions-at-the-speed-of-collisions/context.post.image",
-        "caption": "contexto.post.título",
-        "caption_pt": "contexto.post.título",
-        "caption_en": "context.post.title",
-        "alt": "contexto.post.título",
-        "alt_pt": "contexto.post.título",
-        "alt_en": "context.post.title"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Decisões mais inteligentes na velocidade da física",
-    "title_pt": "Decisões mais inteligentes na velocidade da física",
-    "title_en": "Smarter decisions at the speed of physics",
-    "sub": "A tomada de decisão inteligente e rápida é fundamental ao lidar com o ataque violento de colisões no LHC. No LHC de alta luminosidade, espera-se que os experimentos ATLAS e CMS.",
-    "sub_pt": "A tomada de decisão inteligente e rápida é fundamental ao lidar com o ataque violento de colisões no LHC. No LHC de alta luminosidade, espera-se que os experimentos ATLAS e CMS.",
-    "sub_en": "Smart and fast decision making is key when dealing with the onslaught of collisions at the LHC. At the High-Luminosity LHC, the ATLAS and CMS experiments are expected to process.",
-    "excerpt": "A tomada de decisão inteligente e rápida é fundamental ao lidar com o ataque violento de colisões no LHC. No LHC de alta luminosidade, espera-se que os experimentos ATLAS e CMS processem os dados do detector a taxas correspondentes a aproximadamente um quarto.",
-    "excerpt_pt": "A tomada de decisão inteligente e rápida é fundamental ao lidar com o ataque violento de colisões no LHC. No LHC de alta luminosidade, espera-se que os experimentos ATLAS e CMS processem os dados do detector a taxas correspondentes a aproximadamente um quarto.",
-    "excerpt_en": "Smart and fast decision making is key when dealing with the onslaught of collisions at the LHC. At the High-Luminosity LHC, the ATLAS and CMS experiments are expected to process detector data at rates corresponding to roughly a quarter of.",
-    "body": "<p>A tomada de decisão inteligente e rápida é fundamental ao lidar com o ataque violento de colisões no LHC. No LHC de alta luminosidade, espera-se que os experimentos ATLAS e CMS processem os dados do detector a taxas correspondentes a aproximadamente um quarto. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Experimentos Decisões mais inteligentes na velocidade das colisões O aprendizado de máquina está remodelando a forma como o ATLAS e o CMS filtram as colisões em tempo real Escrito. No LHC de alta luminosidade (HiLumi LHC), espera-se que os experimentos ATLAS e CMS processem dados do detector a taxas correspondentes a aproximadamente um quarto do tráfego.</p><p>Algoritmos dedicados estimam quais eventos de colisão são potencialmente interessantes, com base em características predefinidas, permitindo que cerca de um em cada 20.000 eventos. Recentemente, soluções baseadas em IA e aprendizagem automática têm sido utilizadas para aumentar o alcance físico dos seus gatilhos, abrindo um novo caminho poderoso para.</p><p>Os físicos de partículas foram os primeiros a adotar redes neurais e têm usado algoritmos de aprendizado de máquina para análise de dados desde a década de 1990. Estes métodos já conseguiram levar o desempenho da análise de dados significativamente além do que foi previsto quando o LHC foi iniciado, permitindo ao CMS e ao ATLAS medir.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/smarter-decisions-at-the-speed-of-collisions/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A tomada de decisão inteligente e rápida é fundamental ao lidar com o ataque violento de colisões no LHC. No LHC de alta luminosidade, espera-se que os experimentos ATLAS e CMS processem os dados do detector a taxas correspondentes a aproximadamente um quarto. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Experimentos Decisões mais inteligentes na velocidade das colisões O aprendizado de máquina está remodelando a forma como o ATLAS e o CMS filtram as colisões em tempo real Escrito. No LHC de alta luminosidade (HiLumi LHC), espera-se que os experimentos ATLAS e CMS processem dados do detector a taxas correspondentes a aproximadamente um quarto do tráfego.</p><p>Algoritmos dedicados estimam quais eventos de colisão são potencialmente interessantes, com base em características predefinidas, permitindo que cerca de um em cada 20.000 eventos. Recentemente, soluções baseadas em IA e aprendizagem automática têm sido utilizadas para aumentar o alcance físico dos seus gatilhos, abrindo um novo caminho poderoso para.</p><p>Os físicos de partículas foram os primeiros a adotar redes neurais e têm usado algoritmos de aprendizado de máquina para análise de dados desde a década de 1990. Estes métodos já conseguiram levar o desempenho da análise de dados significativamente além do que foi previsto quando o LHC foi iniciado, permitindo ao CMS e ao ATLAS medir.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/smarter-decisions-at-the-speed-of-collisions/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Smart and fast decision making is key when dealing with the onslaught of collisions at the LHC. At the High-Luminosity LHC, the ATLAS and CMS experiments are expected to process detector data at rates corresponding to roughly a quarter of. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Experiments Smarter decisions at the speed of collisions Machine learning is reshaping how ATLAS and CMS filter collisions in real time Written by: Piotr Traczyk, 07 May, 2026. At the High-Luminosity LHC (HiLumi LHC), the ATLAS and CMS experiments are expected to process detector data at rates corresponding to roughly a quarter of the 2025 global.</p><p>Dedicated algorithms estimate which collision events are potentially interesting, based on predefined characteristics, enabling about one in every 20 000 events to be read out and. Recently, solutions based on AI and machine learning have been employed to boost the physics reach of their triggers, opening a powerful new avenue for identifying potentially.</p><p>Particle physicists were early adopters of neural networks and have been using machine-learning algorithms for data analysis since the 1990s. These methods have already managed to push the performance of data analysis significantly beyond what was envisioned when the LHC was starting up, allowing CMS and ATLAS to.</p><p>This presents a major challenge because the trigger system has to make a decision every time a new collision happens: 40 million times per second, or once every 25 nanoseconds. In 2018 CMS researchers developed an open source tool that translates machine-learning algorithms into the language (firmware) that controls field-programmable gate arrays (FPGAs).</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>These are the custom programmable electronics used to take ultra-quick decisions in the first step of event selection, which is called the level-1 trigger. The team then developed strategies for “compressing” the algorithms, adapting them for implementation in the level-1 trigger electronics without significantly reducing their.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/smarter-decisions-at-the-speed-of-collisions/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A tomada de decisão inteligente e rápida é fundamental ao lidar com o ataque violento de colisões no LHC. No LHC de alta luminosidade, espera-se que.",
-      "Dado-chave: Experimentos Decisões mais inteligentes na velocidade das colisões O aprendizado de máquina está remodelando a forma como o ATLAS e o CMS.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A tomada de decisão inteligente e rápida é fundamental ao lidar com o ataque violento de colisões no LHC. No LHC de alta luminosidade, espera-se que.",
-      "Dado-chave: Experimentos Decisões mais inteligentes na velocidade das colisões O aprendizado de máquina está remodelando a forma como o ATLAS e o CMS.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Smart and fast decision making is key when dealing with the onslaught of collisions at the LHC. At the High-Luminosity LHC, the ATLAS and CMS.",
-      "Key detail: Experiments Smarter decisions at the speed of collisions Machine learning is reshaping how ATLAS and CMS filter collisions in real time Written.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "07 mai 2026",
-    "date_pt": "07 mai 2026",
-    "date_en": "07 May 2026",
-    "time": "07h18",
-    "time_pt": "07h18",
-    "time_en": "07:18 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-07T07:18:19+00:00",
-    "lastModifiedIso": "2026-05-07T07:18:19+00:00",
-    "source": "CERN News",
-    "sourceDomain": "home.cern",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Física",
-      "CERN News",
-      "Cosmos Week",
-      "Decisões mais inteligentes na velocidade da física"
-    ],
-    "keywords_pt": [
-      "Física",
-      "CERN News",
-      "Cosmos Week",
-      "Decisões mais inteligentes na velocidade da física"
-    ],
-    "keywords_en": [
-      "Physical",
-      "CERN News",
-      "Cosmos Week",
-      "Smarter decisions at the speed of physics"
-    ],
-    "srcUrl": "https://home.cern/smarter-decisions-at-the-speed-of-collisions/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=smarter-decisions-at-the-speed-of-physics",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=smarter-decisions-at-the-speed-of-physics",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=smarter-decisions-at-the-speed-of-physics&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 72,
-    "scoreBreakdown": {
-      "source": 86,
-      "evidence": 82,
-      "relevance": 68,
-      "accessibility": 52,
-      "novelty": 52
     }
   },
   {
@@ -2812,6 +2786,130 @@ window.postsData = [
   },
   {
     "id": 24,
+    "slug": "astronomers-find-atmosphere-around-a-pluto-like-world",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://dq0hsqwjhea1.cloudfront.net/TNO.webp",
+    "inline_images": [
+      {
+        "src": "https://dq0hsqwjhea1.cloudfront.net/TNO-occultation.webp",
+        "caption": "Impressão artística do objeto transnetuniano (612533) 2002 XV93 ocultando uma estrela de fundo. As observações de uma ocultação estelar em janeiro de 2024 revelaram o desvanecimento e a recuperação graduais da luz estelar, fornecendo evidências de uma muito.",
+        "caption_pt": "Impressão artística do objeto transnetuniano (612533) 2002 XV93 ocultando uma estrela de fundo. As observações de uma ocultação estelar em janeiro de 2024 revelaram o desvanecimento e a recuperação graduais da luz estelar, fornecendo evidências de uma muito.",
+        "caption_en": "Artist’s impression of the trans-Neptunian object (612533) 2002 XV93 occulting a background star. Observations of a stellar occultation in January 2024 revealed gradual fading and recovery of the starlight, providing evidence for a very.",
+        "alt": "Ocultação (artista",
+        "alt_pt": "Ocultação (artista",
+        "alt_en": "Occultation (artist"
+      },
+      {
+        "src": "https://dq0hsqwjhea1.cloudfront.net/theme/src/img/comment.png",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Astrônomos encontram atmosfera em torno de um mundo semelhante a Plutão",
+    "title_pt": "Astrônomos encontram atmosfera em torno de um mundo semelhante a Plutão",
+    "title_en": "Astronomers Find Atmosphere Around a Pluto-like World",
+    "sub": "Observações, inclusive feitas por um astrônomo amador, mostram que o Plutino 2002 XV93 tem uma fina camada de ar ao seu redor. A postagem Astrônomos encontram atmosfera em torno.",
+    "sub_pt": "Observações, inclusive feitas por um astrônomo amador, mostram que o Plutino 2002 XV93 tem uma fina camada de ar ao seu redor. A postagem Astrônomos encontram atmosfera em torno.",
+    "sub_en": "Observations, including from an amateur astronomer, show that the Plutino 2002 XV93 has a thin wisp of air around it. The post Astronomers Find Atmosphere Around a Pluto-like.",
+    "excerpt": "Observações, inclusive feitas por um astrônomo amador, mostram que o Plutino 2002 XV93 tem uma fina camada de ar ao seu redor. A postagem Astrônomos encontram atmosfera em torno de um mundo semelhante a Plutão apareceu pela primeira vez na Sky & Telescope.",
+    "excerpt_pt": "Observações, inclusive feitas por um astrônomo amador, mostram que o Plutino 2002 XV93 tem uma fina camada de ar ao seu redor. A postagem Astrônomos encontram atmosfera em torno de um mundo semelhante a Plutão apareceu pela primeira vez na Sky & Telescope.",
+    "excerpt_en": "Observations, including from an amateur astronomer, show that the Plutino 2002 XV93 has a thin wisp of air around it. The post Astronomers Find Atmosphere Around a Pluto-like World appeared first on Sky & Telescope.",
+    "body": "<p>Observações, inclusive feitas por um astrônomo amador, mostram que o Plutino 2002 XV93 tem uma fina camada de ar ao seu redor. A postagem Astrônomos encontram atmosfera em torno de um mundo semelhante a Plutão apareceu pela primeira vez na Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Observações, inclusive feitas por um astrônomo amador, mostram que o Plutino 2002 XV93 tem uma fina camada de ar ao seu redor. (Você pode cancelar a assinatura a qualquer momento) Observações, inclusive de um astrônomo amador, mostram que o Plutino 2002 XV93 tem uma fina camada de ar ao seu redor.</p><p>Mas o plutino 612533 ​​2002 XV 93 parece contrariar esta tendência, apesar de medir apenas aproximadamente 500 quilómetros (300 milhas) de diâmetro. Tem um semieixo maior de 39,6 unidades astronômicas, semelhante ao de Plutão.</p><p>Também como Plutão, ele está preso em uma ressonância 2: 3 com Netuno, então completa duas órbitas ao redor do Sol para cada três de Netuno. Em janeiro de 2024, a equipe de astrônomos observou de vários locais do Japão enquanto 2002 XV 93 passava na frente de uma estrela distante, um evento conhecido como ocultação.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/pluto-like-object-has-an-atmosphere/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Observações, inclusive feitas por um astrônomo amador, mostram que o Plutino 2002 XV93 tem uma fina camada de ar ao seu redor. A postagem Astrônomos encontram atmosfera em torno de um mundo semelhante a Plutão apareceu pela primeira vez na Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Observações, inclusive feitas por um astrônomo amador, mostram que o Plutino 2002 XV93 tem uma fina camada de ar ao seu redor. (Você pode cancelar a assinatura a qualquer momento) Observações, inclusive de um astrônomo amador, mostram que o Plutino 2002 XV93 tem uma fina camada de ar ao seu redor.</p><p>Mas o plutino 612533 ​​2002 XV 93 parece contrariar esta tendência, apesar de medir apenas aproximadamente 500 quilómetros (300 milhas) de diâmetro. Tem um semieixo maior de 39,6 unidades astronômicas, semelhante ao de Plutão.</p><p>Também como Plutão, ele está preso em uma ressonância 2: 3 com Netuno, então completa duas órbitas ao redor do Sol para cada três de Netuno. Em janeiro de 2024, a equipe de astrônomos observou de vários locais do Japão enquanto 2002 XV 93 passava na frente de uma estrela distante, um evento conhecido como ocultação.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/pluto-like-object-has-an-atmosphere/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Observations, including from an amateur astronomer, show that the Plutino 2002 XV93 has a thin wisp of air around it. The post Astronomers Find Atmosphere Around a Pluto-like World appeared first on Sky &amp; Telescope. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Observations, including from an amateur astronomer, show that the Plutino 2002 XV93 has a thin wisp of air around it. (You can unsubscribe anytime) Observations, including from an amateur astronomer, show that the Plutino 2002 XV93 has a thin wisp of air around it.</p><p>But the plutino 612533 2002 XV 93 appears to buck this trend, despite only measuring approximately 500 kilometers (300 miles) across. It has a semi-major axis of 39.6 astronomical units, similar to Pluto’s.</p><p>Also like Pluto, it’s caught in a 2: 3 resonance with Neptune, so it completes two orbits around the Sun for every three of Neptune’s. In January 2024, the team of astronomers watched from several locations across Japan as 2002 XV 93 passed in front of a distant star, an event known as an occultation.</p><p>Instead, the starlight appeared attenuated just before and after the TNO passed in front it, suggesting the light passed through a thin atmosphere en route to Earth. The results appear in Nature Astronomy.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The observations were made from three sites: Kyoto University&#x27;s rooftop, the professional 1.05-meter Kiso Observatory Schmidt telescope, and a 25-centimeter instrument operated by. The gradual dimming of starlight detected was consistent with refraction through a thin atmospheric layer with a surface pressure of 100 to 200 nanobars, roughly 50 to 100 times.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/pluto-like-object-has-an-atmosphere/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Observações, inclusive feitas por um astrônomo amador, mostram que o Plutino 2002 XV93 tem uma fina camada de ar ao seu redor. A postagem Astrônomos.",
+      "Dado-chave: Observações, inclusive feitas por um astrônomo amador, mostram que o Plutino 2002 XV93 tem uma fina camada de ar ao seu redor.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Observações, inclusive feitas por um astrônomo amador, mostram que o Plutino 2002 XV93 tem uma fina camada de ar ao seu redor. A postagem Astrônomos.",
+      "Dado-chave: Observações, inclusive feitas por um astrônomo amador, mostram que o Plutino 2002 XV93 tem uma fina camada de ar ao seu redor.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Observations, including from an amateur astronomer, show that the Plutino 2002 XV93 has a thin wisp of air around it. The post Astronomers Find.",
+      "Key detail: Observations, including from an amateur astronomer, show that the Plutino 2002 XV93 has a thin wisp of air around it.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "04 mai 2026",
+    "date_pt": "04 mai 2026",
+    "date_en": "04 May 2026",
+    "time": "15h00",
+    "time_pt": "15h00",
+    "time_en": "15:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-04T15:00:00+00:00",
+    "lastModifiedIso": "2026-05-04T15:00:00+00:00",
+    "source": "Sky & Telescope",
+    "sourceDomain": "skyandtelescope.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "Sky & Telescope",
+      "Cosmos Week",
+      "Astrônomos encontram atmosfera em torno de um mundo semelhante a Plutão"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "Sky & Telescope",
+      "Cosmos Week",
+      "Astrônomos encontram atmosfera em torno de um mundo semelhante a Plutão"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "Sky & Telescope",
+      "Cosmos Week",
+      "Astronomers find atmosphere around Pluto-like world"
+    ],
+    "srcUrl": "https://skyandtelescope.org/astronomy-news/pluto-like-object-has-an-atmosphere/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-find-atmosphere-around-a-pluto-like-world",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-find-atmosphere-around-a-pluto-like-world",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-find-atmosphere-around-a-pluto-like-world&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 74,
+      "evidence": 88,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 25,
     "slug": "meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2938,7 +3036,7 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "nasa-industry-advance-high-performance-spaceflight-computing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3046,12 +3144,40 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "smile-set-to-launch-on-19-may",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/smile_delivered_to_space_artist_impression_gif/27126681-1-eng-GB/Smile_delivered_to_space_artist_impression_GIF_card_full.gif",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/smile_launch_timeline/27119760-2-eng-GB/Smile_launch_timeline_article.jpg",
+        "caption": "Cronograma de lançamento do Smile",
+        "caption_pt": "Cronograma de lançamento do Smile",
+        "caption_en": "Smile launch timeline",
+        "alt": "Cronograma de lançamento do Smile",
+        "alt_pt": "Cronograma de lançamento do Smile",
+        "alt_en": "Smile launch timeline"
+      },
+      {
+        "src": "https://www.esa.int/extension/pillars/design/pillars/images/play-button.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/what_is_smile_about_to_discover/27167698-1-eng-GB/What_is_Smile_about_to_discover_pillars.jpg",
+        "caption": "$video.data_map.short_description.content",
+        "caption_pt": "$video.data_map.short_description.content",
+        "caption_en": "$video.data_map.short_description.content",
+        "alt": "$video.data_map.short_description.content",
+        "alt_pt": "$video.data_map.short_description.content",
+        "alt_en": "$video.data_map.short_description.content"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Smile será lançado em 19 de maio",
@@ -3063,9 +3189,9 @@ window.postsData = [
     "excerpt": "A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C.",
     "excerpt_pt": "A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C.",
     "excerpt_en": "The European-Chinese Smile mission is due to launch on Tuesday 19 May 2026, at 05: 52 CEST / 04: 52 BST / 00: 52 local time on a European Vega-C rocket.",
-    "body": "<p>A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Smile Europeu-Chinesa deverá ser lançada na terça-feira, 19 de maio de 2026, às 05: 52 CEST/04: 52 BST/00: 52 hora local em um foguete europeu Vega-C.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Smile Europeu-Chinesa deverá ser lançada na terça-feira, 19 de maio de 2026, às 05: 52 CEST/04: 52 BST/00: 52 hora local em um foguete europeu Vega-C.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European-Chinese Smile mission is due to launch on Tuesday 19 May 2026, at 05: 52 CEST / 04: 52 BST / 00: 52 local time on a European Vega-C rocket. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Smile Europeu-Chinesa deverá ser lançada na terça-feira, 19 de maio de 2026, às 05: 52 CEST/04: 52 BST/00: 52 hora local em um foguete europeu Vega-C. Após a conclusão de investigações cuidadosas sobre a questão, todos os parceiros concordaram em 19 de maio como a nova data de lançamento.</p><p>Irá revelar como a Terra responde aos fluxos de partículas e às explosões de radiação do Sol, utilizando uma câmara de raios X para fazer as primeiras observações de raios X do. Durante o lançamento, os quatro estágios do Vega-C serão separados um por um, antes de finalmente liberar o Smile após 57 minutos.</p><p>Os painéis solares da Smile serão desdobrados após 63 minutos, o marco que confirma o sucesso do lançamento. O lançamento colocará o Smile em uma órbita baixa da Terra.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Smile Europeu-Chinesa deverá ser lançada na terça-feira, 19 de maio de 2026, às 05: 52 CEST/04: 52 BST/00: 52 hora local em um foguete europeu Vega-C. Após a conclusão de investigações cuidadosas sobre a questão, todos os parceiros concordaram em 19 de maio como a nova data de lançamento.</p><p>Irá revelar como a Terra responde aos fluxos de partículas e às explosões de radiação do Sol, utilizando uma câmara de raios X para fazer as primeiras observações de raios X do. Durante o lançamento, os quatro estágios do Vega-C serão separados um por um, antes de finalmente liberar o Smile após 57 minutos.</p><p>Os painéis solares da Smile serão desdobrados após 63 minutos, o marco que confirma o sucesso do lançamento. O lançamento colocará o Smile em uma órbita baixa da Terra.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European-Chinese Smile mission is due to launch on Tuesday 19 May 2026, at 05: 52 CEST / 04: 52 BST / 00: 52 local time on a European Vega-C rocket. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Following the completion of careful investigations into the issue, all partners have agreed on 19 May as the new launch date. It will reveal how Earth responds to the streams of particles and bursts of radiation from the Sun, using an X-ray camera to make the first X-ray observations of Earth’s magnetic.</p><p>During the launch, the four stages of the Vega-C will separate one by one, before finally releasing Smile after 57 minutes. Smile’s solar panels will unfold after 63 minutes, the milestone that confirms launch success.</p><p>The launch will drop Smile off into a low-Earth orbit. From there, the spacecraft will take over to bring itself to its final, egg-shaped orbit that goes 121 000 km above the North Pole to collect data, before coming 5000 km above the.</p><p>For the latest updates on the launch, visit our dedicated page and follow @science. esa. int and @transport. esa. int (Bluesky) and @esascience and @ESA_transport (X). Our Smile launch kit is a set of infographics providing an overview of the mission, its science goals and the launch timeline.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Smile (the Solar wind Magnetosphere Ionosphere Link Explorer) is a joint mission between the European Space Agency (ESA) and the Chinese Academy of Sciences (CAS). Smile will use four science instruments to study how Earth responds to the solar wind from the Sun.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu.",
       "Dado-chave: A missão Smile Europeu-Chinesa deverá ser lançada na terça-feira, 19 de maio de 2026, às 05: 52 CEST/04: 52 BST/00: 52 hora local em um foguete.",
@@ -3151,7 +3277,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "plato-aces-space-like-tests",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3256,7 +3382,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3392,7 +3518,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3519,7 +3645,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "science-release-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3655,12 +3781,40 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "webb-hubble-find-massive-star-clusters-emerge-faster",
     "cat": "Biologia",
     "catCls": "biologia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/star-forming_regions_in_m51/27255538-1-eng-GB/Star-forming_regions_in_M51_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/star-forming_regions_in_m51/27255538-1-eng-GB/Star-forming_regions_in_M51_article.jpg",
+        "caption": "Regiões de formação de estrelas em M51",
+        "caption_pt": "Regiões de formação de estrelas em M51",
+        "caption_en": "Star-forming regions in M51",
+        "alt": "Regiões de formação de estrelas em M51",
+        "alt_pt": "Regiões de formação de estrelas em M51",
+        "alt_en": "Star-forming regions in M51"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/star-forming_region_in_m51_close-up/27255632-1-eng-GB/Star-forming_region_in_M51_close-up_article.jpg",
+        "caption": "Região de formação estelar em M51 (close-up)",
+        "caption_pt": "Região de formação estelar em M51 (close-up)",
+        "caption_en": "Star-forming region in M51 (close-up)",
+        "alt": "Região de formação estelar em M51 (close-up)",
+        "alt_pt": "Região de formação estelar em M51 (close-up)",
+        "alt_en": "Star-forming region in M51 (close-up)"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/nearby_star-forming_feast_galaxies/27255679-1-eng-GB/Nearby_star-forming_FEAST_galaxies_article.jpg",
+        "caption": "Galáxias FEAST próximas em formação de estrelas",
+        "caption_pt": "Galáxias FEAST próximas em formação de estrelas",
+        "caption_en": "Nearby star-forming FEAST galaxies",
+        "alt": "Galáxias FEAST próximas em formação de estrelas",
+        "alt_pt": "Galáxias FEAST próximas em formação de estrelas",
+        "alt_en": "Nearby star-forming FEAST galaxies"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Webb e Hubble descobrem que aglomerados estelares massivos emergem mais rápido",
@@ -3672,22 +3826,22 @@ window.postsData = [
     "excerpt": "Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de aglomerados de estrelas jovens em quatro galáxias próximas, estudando aglomerados em.",
     "excerpt_pt": "Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de aglomerados de estrelas jovens em quatro galáxias próximas, estudando aglomerados em.",
     "excerpt_en": "Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of young star clusters in four nearby galaxies, studying clusters at different stages of.",
-    "body": "<p>Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de aglomerados de estrelas jovens em quatro galáxias próximas, estudando aglomerados em diferentes estágios. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. O resultado nos dá uma melhor compreensão. Os astrónomos utilizaram o Telescópio Espacial James Webb da NASA/ESA/CSA em conjunto com o Telescópio Espacial Hubble da NASA/ESA observaram profundamente milhares de enxames.</p><p>As suas descobertas mostram que enxames estelares mais massivos emergem mais rapidamente das nuvens onde nascem, eliminando o gás e enchendo a galáxia com luz ultravioleta. O resultado dá-nos uma melhor compreensão da formação estelar nas galáxias, bem como de como e onde os planetas se podem formar.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de aglomerados de estrelas jovens em quatro galáxias próximas, estudando aglomerados em diferentes estágios. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. O resultado nos dá uma melhor compreensão. Os astrónomos utilizaram o Telescópio Espacial James Webb da NASA/ESA/CSA em conjunto com o Telescópio Espacial Hubble da NASA/ESA observaram profundamente milhares de enxames.</p><p>As suas descobertas mostram que enxames estelares mais massivos emergem mais rapidamente das nuvens onde nascem, eliminando o gás e enchendo a galáxia com luz ultravioleta. O resultado dá-nos uma melhor compreensão da formação estelar nas galáxias, bem como de como e onde os planetas se podem formar.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of young star clusters in four nearby galaxies, studying clusters at different stages of. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. The result gives us a better understanding. Their findings show that more massive star clusters emerge more quickly from the clouds they are born in, clearing away gas and filling the galaxy with ultraviolet light.</p><p>The result gives us a better understanding of star formation in galaxies, as well as how and where planets can form.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de aglomerados de estrelas jovens em quatro galáxias próximas, estudando aglomerados em diferentes estágios. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Os astrónomos, utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de enxames. Ao observar galáxias próximas, os astrónomos podem estudar milhares de regiões de formação estelar e caracterizar populações inteiras de enxames estelares em muitas fases de.</p><p>Agora, o estado da arte foi desenvolvido com o Hubble e o Webb trabalhando juntos para fornecer uma visão de amplo espectro de milhares de aglomerados de estrelas jovens. Uma equipe internacional de astrônomos se debruçou sobre imagens de quatro galáxias próximas, Messier 51, Messier 83, NGC 4449, e NGC 628, do programa de observação FEAST (#1783).</p><p>Os seus resultados, publicados hoje na Nature Astronomy, mostram que são os enxames estelares mais massivos que eliminam a sua mortalha gasosa mais rapidamente e começam a. A equipe identificou cerca de 9.000 aglomerados estelares nas quatro galáxias em diferentes estágios evolutivos: aglomerados jovens que estão apenas começando a emergir de suas.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de aglomerados de estrelas jovens em quatro galáxias próximas, estudando aglomerados em diferentes estágios. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Os astrónomos, utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de enxames. Ao observar galáxias próximas, os astrónomos podem estudar milhares de regiões de formação estelar e caracterizar populações inteiras de enxames estelares em muitas fases de.</p><p>Agora, o estado da arte foi desenvolvido com o Hubble e o Webb trabalhando juntos para fornecer uma visão de amplo espectro de milhares de aglomerados de estrelas jovens. Uma equipe internacional de astrônomos se debruçou sobre imagens de quatro galáxias próximas, Messier 51, Messier 83, NGC 4449, e NGC 628, do programa de observação FEAST (#1783).</p><p>Os seus resultados, publicados hoje na Nature Astronomy, mostram que são os enxames estelares mais massivos que eliminam a sua mortalha gasosa mais rapidamente e começam a. A equipe identificou cerca de 9.000 aglomerados estelares nas quatro galáxias em diferentes estágios evolutivos: aglomerados jovens que estão apenas começando a emergir de suas.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of young star clusters in four nearby galaxies, studying clusters at different stages of. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. By observing nearby galaxies, astronomers can survey thousands of star-forming regions and characterise entire populations of star clusters at many stages of evolution, a feat. Now, the state of the art has been further developed with both Hubble and Webb working together to provide a broad-spectrum view of thousands of young star clusters.</p><p>An international team of astronomers has pored over images of four nearby galaxies, Messier 51, Messier 83, NGC 4449, and NGC 628, from the FEAST observing programme (# 1783 ). Their results, published today in Nature Astronomy, show that it is the most massive star clusters that clear away their gaseous shroud the fastest, and begin lighting their.</p><p>The team identified nearly 9000 star clusters in the four galaxies in different evolutionary stages: young clusters just starting to emerge from their natal clouds of gas. With Webb’s ability to peer inside the gas clouds, they were able to then estimate the mass and age of each cluster from its light spectrum.</p><p>The most massive clusters had fully emerged and dispersed the clouds of gas after around five million years, while less massive clusters were between seven and eight million years. These results give us important new constraints on that process,” explained Angela Adamo of Stockholm University and the Oskar Klein Centre in Sweden, a lead author on the study.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>The faster gas is cleared away within a star cluster, the earlier protoplanetary discs around stars are exposed to harsh ultraviolet radiation from other stars, and the less. Under an international collaboration agreement, ESA provided the telescope’s launch service, using the Ariane 5 launch vehicle.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram.",
-      "Dado-chave: O resultado nos dá uma melhor compreensão.",
+      "Dado-chave: Os astrónomos, utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram.",
-      "Dado-chave: O resultado nos dá uma melhor compreensão.",
+      "Dado-chave: Os astrónomos, utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of.",
-      "Key detail: The result gives us a better understanding.",
+      "Key detail: Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "06 mai 2026",
@@ -3760,7 +3914,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "tracy-arm-s-post-tsunami-landscape",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3896,7 +4050,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "nsf-doe-vera-c-rubin-observatory-launches-real-time-discovery-machine-for-monitoring-the-night-s",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4004,7 +4158,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "this-week-s-sky-at-a-glance-may-8-17",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4049,8 +4203,8 @@ window.postsData = [
     "excerpt": "Júpiter, brilhando alto no crepúsculo ocidental, avança lentamente em direção a Vênus, mais brilhante. Enquanto isso, Vênus se aproxima das estrelas de ponta córnea de Touro e fica entre elas em 13 de maio. O post Visão geral do céu desta semana, 8 de maio de.",
     "excerpt_pt": "Júpiter, brilhando alto no crepúsculo ocidental, avança lentamente em direção a Vênus, mais brilhante. Enquanto isso, Vênus se aproxima das estrelas de ponta córnea de Touro e fica entre elas em 13 de maio. O post Visão geral do céu desta semana, 8 de maio de.",
     "excerpt_en": "Jupiter, shining high the western dusk, inches down day toward brighter Venus. Venus, meanwhile, creeps toward the horntip stars of Taurus and stands between them on May 13th. The post This Week's Sky at a Glance, May 8, 17 appeared first.",
-    "body": "<p>Júpiter, brilhando alto no crepúsculo ocidental, avança lentamente em direção a Vênus, mais brilhante. Enquanto isso, Vênus se aproxima das estrelas de ponta córnea de Touro e fica entre elas em 13 de maio. O post Visão geral do céu desta semana, 8 de maio de 17 apareceu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O post Visão geral do céu desta semana, 8 a 17 de maio, apareceu pela primeira vez em Sky &amp; Telescope. Ele desempenhou um papel em praticamente todas as partes da revista e em outros produtos da empresa por mais de uma geração, tanto no lado da observação amadora quanto no lado da.</p><p>Em 1994, uma coleção de livros com seus procedimentos de observação e passeios telescópicos pelo céu foi publicada como Star Hopping for Backyard Astronomers. ■ Lua minguante esta noite (exatamente quarto minguante às 17h10.</p><p>A Lua nasce por volta das 2 da manhã. Mais tarde, quando a Lua estiver bem alta, mas antes do início do amanhecer (observe pelo menos 1¾ horas antes do nascer do sol), você poderá ver que a Lua está no centro do.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-8-17/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Júpiter, brilhando alto no crepúsculo ocidental, avança lentamente em direção a Vênus, mais brilhante. Enquanto isso, Vênus se aproxima das estrelas de ponta córnea de Touro e fica entre elas em 13 de maio. O post Visão geral do céu desta semana, 8 de maio de 17 apareceu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O post Visão geral do céu desta semana, 8 a 17 de maio, apareceu pela primeira vez em Sky &amp; Telescope. Ele desempenhou um papel em praticamente todas as partes da revista e em outros produtos da empresa por mais de uma geração, tanto no lado da observação amadora quanto no lado da.</p><p>Em 1994, uma coleção de livros com seus procedimentos de observação e passeios telescópicos pelo céu foi publicada como Star Hopping for Backyard Astronomers. ■ Lua minguante esta noite (exatamente quarto minguante às 17h10.</p><p>A Lua nasce por volta das 2 da manhã. Mais tarde, quando a Lua estiver bem alta, mas antes do início do amanhecer (observe pelo menos 1¾ horas antes do nascer do sol), você poderá ver que a Lua está no centro do.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-8-17/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body": "<p>Júpiter, brilhando alto no crepúsculo ocidental, avança lentamente em direção a Vênus, mais brilhante. Enquanto isso, Vênus se aproxima das estrelas de ponta córnea de Touro e fica entre elas em 13 de maio. O post Visão geral do céu desta semana, 8 de maio de 17 apareceu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O post Visão geral do céu desta semana, 8 a 17 de maio, apareceu pela primeira vez em Sky &amp; Telescope. Ele desempenhou um papel em praticamente todas as partes da revista e em outros produtos da empresa por mais de uma geração, tanto no lado da observação amadora quanto no lado da.</p><p>Em 1994, uma coleção de livros com seus procedimentos de observação e passeios telescópicos pelo céu foi publicada como Star Hopping for Backyard Astronomers. ■ Lua minguante hoje à noite (exatamente quarto minguante às 17h10.</p><p>A Lua nasce por volta das 2 da manhã. Mais tarde, quando a Lua estiver bem alta, mas antes do início do amanhecer (observe pelo menos 1¾ horas antes do nascer do sol), você poderá ver que a Lua está no centro do.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-8-17/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Júpiter, brilhando alto no crepúsculo ocidental, avança lentamente em direção a Vênus, mais brilhante. Enquanto isso, Vênus se aproxima das estrelas de ponta córnea de Touro e fica entre elas em 13 de maio. O post Visão geral do céu desta semana, 8 de maio de 17 apareceu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O post Visão geral do céu desta semana, 8 a 17 de maio, apareceu pela primeira vez em Sky &amp; Telescope. Ele desempenhou um papel em praticamente todas as partes da revista e em outros produtos da empresa por mais de uma geração, tanto no lado da observação amadora quanto no lado da.</p><p>Em 1994, uma coleção de livros com seus procedimentos de observação e passeios telescópicos pelo céu foi publicada como Star Hopping for Backyard Astronomers. ■ Lua minguante hoje à noite (exatamente quarto minguante às 17h10.</p><p>A Lua nasce por volta das 2 da manhã. Mais tarde, quando a Lua estiver bem alta, mas antes do início do amanhecer (observe pelo menos 1¾ horas antes do nascer do sol), você poderá ver que a Lua está no centro do.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-8-17/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>Jupiter, shining high the western dusk, inches down day toward brighter Venus. Venus, meanwhile, creeps toward the horntip stars of Taurus and stands between them on May 13th. The post This Week&#x27;s Sky at a Glance, May 8, 17 appeared first. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The post This Week&#x27;s Sky at a Glance, May 8, 17 appeared first on Sky &amp; Telescope. He played a role in practically every part of the magazine and the company&#x27;s other products for more than a generation, both on the amateur-observing side and the.</p><p>In 1994 a book collection of his observing how-tos and telescopic sky tours was published as Star Hopping for Backyard Astronomers. ■ Last-quarter Moon tonight (exactly last quarter at 5: 10 p. m.</p><p>The Moon rises around 2 a. m. Later, once the Moon is well up but before the beginning of dawn (look at least 1¾ hours before sunrise), you can see that the Moon is in the center of the dim, boat-shaped.</p><p>(Cover the Moon with your fingertip.) The boat is about two fists from end to end and will be steeply tilted lower left to upper right. They appear so bright because each is at least 60 times as luminous as the Sun, and because they&#x27;re all relatively nearby: 37, 25, and 42 light-years from us, respectively.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Its solid nucleus apparently dates from around 10 or 12 billion years ago when the universe and the Milky Way were young. Assigning dates to individual stars from the first eras after the Big Bang is iffy.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-8-17/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Júpiter, brilhando alto no crepúsculo ocidental, avança lentamente em direção a Vênus, mais brilhante. Enquanto isso, Vênus se aproxima das estrelas.",
@@ -4140,7 +4294,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "spacex-booster-will-hit-the-moon-this-august",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4166,11 +4320,11 @@ window.postsData = [
       },
       {
         "src": "https://dq0hsqwjhea1.cloudfront.net/226580main_2007-08-02_On_Way_In-ezgif.com-jpg-to-webp-converter.webp",
-        "caption": "Uma impressão artística do LCROSS e do estágio Centauro a caminho da Lua. NASA",
-        "caption_pt": "Uma impressão artística do LCROSS e do estágio Centauro a caminho da Lua. NASA",
+        "caption": "Uma impressão artística do LCROSS e do palco Centauro a caminho da Lua. NASA",
+        "caption_pt": "Uma impressão artística do LCROSS e do palco Centauro a caminho da Lua. NASA",
         "caption_en": "An artist's impression of LCROSS and the Centaur stage en route to the Moon. NASA",
-        "alt": "Uma impressão artística do LCROSS e do estágio Centauro a caminho da Lua. NASA",
-        "alt_pt": "Uma impressão artística do LCROSS e do estágio Centauro a caminho da Lua. NASA",
+        "alt": "Uma impressão artística do LCROSS e do palco Centauro a caminho da Lua. NASA",
+        "alt_pt": "Uma impressão artística do LCROSS e do palco Centauro a caminho da Lua. NASA",
         "alt_en": "An artist's impression of LCROSS and the Centaur stage en route to the Moon. NASA"
       }
     ],
@@ -4273,7 +4427,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "astronomers-spot-possible-missing-link-to-webb-s-little-red-dots",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4406,139 +4560,6 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
-    "slug": "questar-ceases-operations",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://dq0hsqwjhea1.cloudfront.net/Questar.jpg",
-    "inline_images": [
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/Questar-Standard-Model.webp",
-        "caption": "O modelo padrão Questar de 3,5 polegadas",
-        "caption_pt": "O modelo padrão Questar de 3,5 polegadas",
-        "caption_en": "The Questar 3.5-inch Standard Model",
-        "alt": "O modelo padrão Questar de 3,5 polegadas",
-        "alt_pt": "O modelo padrão Questar de 3,5 polegadas",
-        "alt_en": "The Questar 3.5-inch Standard Model"
-      },
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/00d16d7ef4417db39c020803cc1b04a5.jpg",
-        "caption": "Imagem do dinheiro G",
-        "caption_pt": "Imagem do dinheiro G",
-        "caption_en": "Image of G Money",
-        "alt": "Imagem do dinheiro G",
-        "alt_pt": "Imagem do dinheiro G",
-        "alt_en": "Image of G Money"
-      },
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/8745bccd8219874efda6845d52a88b7a.png",
-        "caption": "Imagem de Khaled",
-        "caption_pt": "Imagem de Khaled",
-        "caption_en": "Image of خالد",
-        "alt": "Imagem de Khaled",
-        "alt_pt": "Imagem de Khaled",
-        "alt_en": "Image of خالد"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Questar cessa operações",
-    "title_pt": "Questar cessa operações",
-    "title_en": "Questar Ceases Operations",
-    "sub": "O fabricante do altamente cobiçado telescópio Questar fechou as portas após 76 anos servindo a comunidade astronômica. O post Questar cessa operações apareceu pela primeira vez na.",
-    "sub_pt": "O fabricante do altamente cobiçado telescópio Questar fechou as portas após 76 anos servindo a comunidade astronômica. O post Questar cessa operações apareceu pela primeira vez na.",
-    "sub_en": "The manufacturer of the highly coveted Questar telescope has closed its shutters after 76 years of serving the astronomy community. The post Questar Ceases Operations appeared.",
-    "excerpt": "O fabricante do altamente cobiçado telescópio Questar fechou as portas após 76 anos servindo a comunidade astronômica. O post Questar cessa operações apareceu pela primeira vez na Sky & Telescope.",
-    "excerpt_pt": "O fabricante do altamente cobiçado telescópio Questar fechou as portas após 76 anos servindo a comunidade astronômica. O post Questar cessa operações apareceu pela primeira vez na Sky & Telescope.",
-    "excerpt_en": "The manufacturer of the highly coveted Questar telescope has closed its shutters after 76 years of serving the astronomy community. The post Questar Ceases Operations appeared first on Sky & Telescope.",
-    "body": "<p>O fabricante do altamente cobiçado telescópio Questar fechou as portas após 76 anos servindo a comunidade astronômica. O post Questar cessa operações apareceu pela primeira vez na Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O fabricante do altamente cobiçado telescópio Questar fechou as portas após 76 anos servindo a comunidade astronômica. Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestiais e as últimas notícias sobre astronomia. O editor sênior de C&amp;T, Sean Walker.</p><p>(Você pode cancelar a assinatura a qualquer momento) O fabricante do altamente cobiçado telescópio Questar fechou suas portas após 76 anos servindo a comunidade astronômica. A Questar Corporation de New Hope, Pensilvânia, foi a fabricante do muito procurado Maksutov-Cassegrain de 3,5 polegadas, conhecido simplesmente como The Questar.</p><p>Agora, essa empresa fechou as portas, mandando os seus funcionários para casa pela última vez no dia 4 de maio. Lawrence Braymer fundou a Questar em 1950, depois de ler um artigo no Journal of the Optical Society of America do oculista e astrônomo russo Dimitri D.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/questar-ceases-operations/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O fabricante do altamente cobiçado telescópio Questar fechou as portas após 76 anos servindo a comunidade astronômica. O post Questar cessa operações apareceu pela primeira vez na Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O fabricante do altamente cobiçado telescópio Questar fechou as portas após 76 anos servindo a comunidade astronômica. Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestiais e as últimas notícias sobre astronomia. O editor sênior de C&amp;T, Sean Walker.</p><p>(Você pode cancelar a assinatura a qualquer momento) O fabricante do altamente cobiçado telescópio Questar fechou suas portas após 76 anos servindo a comunidade astronômica. A Questar Corporation de New Hope, Pensilvânia, foi a fabricante do muito procurado Maksutov-Cassegrain de 3,5 polegadas, conhecido simplesmente como The Questar.</p><p>Agora, essa empresa fechou as portas, mandando os seus funcionários para casa pela última vez no dia 4 de maio. Lawrence Braymer fundou a Questar em 1950, depois de ler um artigo no Journal of the Optical Society of America do oculista e astrônomo russo Dimitri D.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/questar-ceases-operations/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The manufacturer of the highly coveted Questar telescope has closed its shutters after 76 years of serving the astronomy community. The post Questar Ceases Operations appeared first on Sky &amp; Telescope. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The manufacturer of the highly coveted Questar telescope has closed its shutters after 76 years of serving the astronomy community. Explore the universe with Sky &amp; Telescope, your ultimate source for stargazing, celestial events, and the latest astronomy news S&amp;T Senior Editor Sean Walker joined the staff of.</p><p>(You can unsubscribe anytime) The manufacturer of the highly coveted Questar telescope has closed its shutters after 76 years of serving the astronomy community. The Questar Corporation of New Hope, Pennsylvania, was the manufacturer of the highly sought-after 3.5-inch Maksutov-Cassegrain, known simply as The Questar.</p><p>Now, that company has closed its doors, sending its employees home for the final time on May 4th. Lawrence Braymer founded Questar in 1950, after reading an article in the Journal of the Optical Society of America by Russian optician and astronomer Dimitri D.</p><p>Released in 1954, the Questar 3.5 was crafted with care and marketed as a premium instrument for the discerning enthusiast, eventually becoming a collector&#x27;s item sought after by. Charles Bronson is seen using one in the 1972 movie The Mechanic.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Over the years, Questar made small improvements on the 3.5-inch Standard Model and offered other variants of the design, including a field model (without a mount), the Duplex. Questar effectively stopped manufacturing new telescopes early in 2024, when their primary optics supplier, Cumberland Optical shut down.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/questar-ceases-operations/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O fabricante do altamente cobiçado telescópio Questar fechou as portas após 76 anos servindo a comunidade astronômica. O post Questar cessa operações.",
-      "Dado-chave: O fabricante do altamente cobiçado telescópio Questar fechou as portas após 76 anos servindo a comunidade astronômica.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O fabricante do altamente cobiçado telescópio Questar fechou as portas após 76 anos servindo a comunidade astronômica. O post Questar cessa operações.",
-      "Dado-chave: O fabricante do altamente cobiçado telescópio Questar fechou as portas após 76 anos servindo a comunidade astronômica.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The manufacturer of the highly coveted Questar telescope has closed its shutters after 76 years of serving the astronomy community. The post Questar.",
-      "Key detail: The manufacturer of the highly coveted Questar telescope has closed its shutters after 76 years of serving the astronomy community.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "06 mai 2026",
-    "date_pt": "06 mai 2026",
-    "date_en": "06 May 2026",
-    "time": "19h37",
-    "time_pt": "19h37",
-    "time_en": "19:37 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-06T19:37:54+00:00",
-    "lastModifiedIso": "2026-05-06T19:37:54+00:00",
-    "source": "Sky & Telescope",
-    "sourceDomain": "skyandtelescope.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Questar cessa operações"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Questar cessa operações"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Questar ceases operations"
-    ],
-    "srcUrl": "https://skyandtelescope.org/astronomy-news/questar-ceases-operations/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=questar-ceases-operations",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=questar-ceases-operations",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=questar-ceases-operations&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 74,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
     "id": 38,
     "slug": "nasa-names-brian-hughes-to-launch-operations-role",
     "cat": "Astronomia",
@@ -4645,114 +4666,6 @@ window.postsData = [
   },
   {
     "id": 39,
-    "slug": "nasa-welcomes-paraguay-as-67th-artemis-accords-signatory",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/05/artemis-accords-paraguay-67-050726.jpg?w=2048",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "NASA dá as boas-vindas ao Paraguai como 67º signatário dos Acordos Artemis",
-    "title_pt": "NASA dá as boas-vindas ao Paraguai como 67º signatário dos Acordos Artemis",
-    "title_en": "NASA Welcomes Paraguay as 67th Artemis Accords Signatory",
-    "sub": "A República do Paraguai assinou os Acordos Artemis na quinta-feira durante uma cerimônia em Assunção, tornando-se a última nação a se comprometer com os princípios compartilhados.",
-    "sub_pt": "A República do Paraguai assinou os Acordos Artemis na quinta-feira durante uma cerimônia em Assunção, tornando-se a última nação a se comprometer com os princípios compartilhados.",
-    "sub_en": "The Republic of Paraguay signed the Artemis Accords on Thursday during a ceremony in Asunción, becoming the latest nation to commit to the shared principles guiding civil space.",
-    "excerpt": "A República do Paraguai assinou os Acordos Artemis na quinta-feira durante uma cerimônia em Assunção, tornando-se a última nação a se comprometer com os princípios compartilhados que orientam a exploração espacial civil. “Hoje tenho orgulho de receber o.",
-    "excerpt_pt": "A República do Paraguai assinou os Acordos Artemis na quinta-feira durante uma cerimônia em Assunção, tornando-se a última nação a se comprometer com os princípios compartilhados que orientam a exploração espacial civil. “Hoje tenho orgulho de receber o.",
-    "excerpt_en": "The Republic of Paraguay signed the Artemis Accords on Thursday during a ceremony in Asunción, becoming the latest nation to commit to the shared principles guiding civil space exploration. “Today, I am proud to welcome Paraguay as the.",
-    "body": "<p>A República do Paraguai assinou os Acordos Artemis na quinta-feira durante uma cerimônia em Assunção, tornando-se a última nação a se comprometer com os princípios compartilhados que orientam a exploração espacial civil. “Hoje tenho orgulho de receber o Paraguai como o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. NASA A República do Paraguai assinou os Acordos Artemis na quinta-feira durante uma cerimônia em Assunção, tornando-se a última nação a se comprometer com os princípios. Para obter mais informações sobre os Acordos Artemis, visite: https: //www. nasa. gov/artemis-accords Detalhes de compartilhamento Última atualização em 07 de maio de 2026.</p><p>“Hoje, tenho orgulho de dar as boas-vindas ao Paraguai como o 67º signatário dos Acordos Artemis”, disse o administrador da NASA, Jared Isaacman. Estabelecidos pelo Presidente Trump no seu primeiro mandato, os Acordos Artemis forneceram os princípios sobre como exploramos a Lua, Marte e mais além.</p><p>Agora, com a sua política espacial nacional, estamos a pôr em prática os Acordos Artemis com a nossa Base Lunar.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-paraguay-as-67th-artemis-accords-signatory/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A República do Paraguai assinou os Acordos Artemis na quinta-feira durante uma cerimônia em Assunção, tornando-se a última nação a se comprometer com os princípios compartilhados que orientam a exploração espacial civil. “Hoje tenho orgulho de receber o Paraguai como o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. NASA A República do Paraguai assinou os Acordos Artemis na quinta-feira durante uma cerimônia em Assunção, tornando-se a última nação a se comprometer com os princípios. Para obter mais informações sobre os Acordos Artemis, visite: https: //www. nasa. gov/artemis-accords Detalhes de compartilhamento Última atualização em 07 de maio de 2026.</p><p>“Hoje, tenho orgulho de dar as boas-vindas ao Paraguai como o 67º signatário dos Acordos Artemis”, disse o administrador da NASA, Jared Isaacman. Estabelecidos pelo Presidente Trump no seu primeiro mandato, os Acordos Artemis forneceram os princípios sobre como exploramos a Lua, Marte e mais além.</p><p>Agora, com a sua política espacial nacional, estamos a pôr em prática os Acordos Artemis com a nossa Base Lunar.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-paraguay-as-67th-artemis-accords-signatory/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The Republic of Paraguay signed the Artemis Accords on Thursday during a ceremony in Asunción, becoming the latest nation to commit to the shared principles guiding civil space exploration. “Today, I am proud to welcome Paraguay as the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. NASA The Republic of Paraguay signed the Artemis Accords on Thursday during a ceremony in Asunción, becoming the latest nation to commit to the shared principles guiding civil. For more information about the Artemis Accords, visit: https: //www. nasa. gov/artemis-accords Share Details Last Updated May 07, 2026 Location NASA Headquarters Related Terms.</p><p>The Republic of Paraguay signed the Artemis Accords on Thursday during a ceremony in Asunción, becoming the latest nation to commit to the shared principles Article Credit: NASA. “Today, I am proud to welcome Paraguay as the 67th signatory to the Artemis Accords,” said NASA Administrator Jared Isaacman.</p><p>Established by President Trump in his first term, the Artemis Accords provided the principles for how we explore the Moon, Mars, and beyond. Now, with his national space policy, we are putting the Artemis Accords into practice with our Moon Base.</p><p>“This step strengthens Paraguay’s position within the global space community and opens new opportunities for research, innovation, and sustainable development.” The Paraguayan. Its first satellite, GuaraníSat‑1, launched from the International Space Station in 2021.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The agency now is preparing to launch its second satellite, GuaraníSat‑2, in October aboard a Falcon 9 from Vandenberg Space Force Base in California. The mission was developed with collaborators from NASA’s Jet Propulsion Laboratory and other partners.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-paraguay-as-67th-artemis-accords-signatory/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A República do Paraguai assinou os Acordos Artemis na quinta-feira durante uma cerimônia em Assunção, tornando-se a última nação a se comprometer com.",
-      "Dado-chave: NASA A República do Paraguai assinou os Acordos Artemis na quinta-feira durante uma cerimônia em Assunção, tornando-se a última nação a se.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A República do Paraguai assinou os Acordos Artemis na quinta-feira durante uma cerimônia em Assunção, tornando-se a última nação a se comprometer com.",
-      "Dado-chave: NASA A República do Paraguai assinou os Acordos Artemis na quinta-feira durante uma cerimônia em Assunção, tornando-se a última nação a se.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The Republic of Paraguay signed the Artemis Accords on Thursday during a ceremony in Asunción, becoming the latest nation to commit to the shared.",
-      "Key detail: NASA The Republic of Paraguay signed the Artemis Accords on Thursday during a ceremony in Asunción, becoming the latest nation to commit to the.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "07 mai 2026",
-    "date_pt": "07 mai 2026",
-    "date_en": "07 May 2026",
-    "time": "20h41",
-    "time_pt": "20h41",
-    "time_en": "20:41 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-07T20:41:48+00:00",
-    "lastModifiedIso": "2026-05-07T20:41:48+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA dá as boas",
-      "vindas ao Paraguai como 67º signatário dos Acordos Artemis"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA dá as boas",
-      "vindas ao Paraguai como 67º signatário dos Acordos Artemis"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA welcomes",
-      "welcome to Paraguay as the 67th signatory of the Artemis Accords"
-    ],
-    "srcUrl": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-paraguay-as-67th-artemis-accords-signatory/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-welcomes-paraguay-as-67th-artemis-accords-signatory",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-welcomes-paraguay-as-67th-artemis-accords-signatory",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-welcomes-paraguay-as-67th-artemis-accords-signatory&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 82,
-      "relevance": 70,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 40,
     "slug": "surprise-tiny-world-with-an-atmosphere-in-outer-solar-system",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4847,6 +4760,121 @@ window.postsData = [
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=surprise-tiny-world-with-an-atmosphere-in-outer-solar-system",
     "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=surprise-tiny-world-with-an-atmosphere-in-outer-solar-system",
     "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=surprise-tiny-world-with-an-atmosphere-in-outer-solar-system&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 73,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 40,
+    "slug": "visible-planets-and-night-sky-guide-for-may",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2026/05/Jupiter-Venus-May-2026-a.jpg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Planetas visíveis e guia do céu noturno para maio",
+    "title_pt": "Planetas visíveis e guia do céu noturno para maio",
+    "title_en": "Visible planets and night sky guide for May",
+    "sub": "Planetas visíveis e guia do céu noturno. Amanhã, antes do amanhecer, procure a lua minguante entre as estrelas de Capricórnio, o Bode do Mar. O post Planetas visíveis e guia do.",
+    "sub_pt": "Planetas visíveis e guia do céu noturno. Amanhã, antes do amanhecer, procure a lua minguante entre as estrelas de Capricórnio, o Bode do Mar. O post Planetas visíveis e guia do.",
+    "sub_en": "Visible planets and night sky guide. Tomorrow before dawn, look for the 3rd quarter moon among the stars of Capricornus the Sea-goat. The post Visible planets and night sky guide.",
+    "excerpt": "Planetas visíveis e guia do céu noturno. Amanhã, antes do amanhecer, procure a lua minguante entre as estrelas de Capricórnio, o Bode do Mar. O post Planetas visíveis e guia do céu noturno para maio apareceu pela primeira vez no EarthSky.",
+    "excerpt_pt": "Planetas visíveis e guia do céu noturno. Amanhã, antes do amanhecer, procure a lua minguante entre as estrelas de Capricórnio, o Bode do Mar. O post Planetas visíveis e guia do céu noturno para maio apareceu pela primeira vez no EarthSky.",
+    "excerpt_en": "Visible planets and night sky guide. Tomorrow before dawn, look for the 3rd quarter moon among the stars of Capricornus the Sea-goat. The post Visible planets and night sky guide for May first appeared on EarthSky.",
+    "body": "<p>Planetas visíveis e guia do céu noturno. Amanhã, antes do amanhecer, procure a lua minguante entre as estrelas de Capricórnio, o Bode do Mar. O post Planetas visíveis e guia do céu noturno para maio apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 9 e 10 de maio pela manhã: Lua perto de Capricórnio Amanhã de manhã, a lua brilhará entre as estrelas da obscura constelação de Capricórnio, o Bode Marinho. Lua perto de Marte e Saturno Nas manhãs de 13 e 14 de maio, uma fina lua crescente minguante brilhará perto de Saturno e Marte.</p><p>Lua perto de Marte e Saturno Na manhã de 15 de maio, cerca de 30 minutos antes do nascer do sol, a muito fina lua crescente minguante ficará acima do horizonte e perto de Saturno. 16 de maio: Nova superlua Este coronógrafo GOES-19 CORR1 de 18 a 19 de novembro de 2025 (projetado para mostrar ejeções de massa coronal do Sol), capturou uma visão divertida da.</p><p>O momento da lua nova cairá às 20: 01 UTC do dia 16 de maio de 2026. Compare isso com a distância média da lua de 238.900 milhas (384.472 km).</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Planetas visíveis e guia do céu noturno. Amanhã, antes do amanhecer, procure a lua minguante entre as estrelas de Capricórnio, o Bode do Mar. O post Planetas visíveis e guia do céu noturno para maio apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 9 e 10 de maio pela manhã: Lua perto de Capricórnio Amanhã de manhã, a lua brilhará entre as estrelas da obscura constelação de Capricórnio, o Bode Marinho. Lua perto de Marte e Saturno Nas manhãs de 13 e 14 de maio, uma fina lua crescente minguante brilhará perto de Saturno e Marte.</p><p>Lua perto de Marte e Saturno Na manhã de 15 de maio, cerca de 30 minutos antes do nascer do sol, a muito fina lua crescente minguante ficará acima do horizonte e perto de Saturno. 16 de maio: Nova superlua Este coronógrafo GOES-19 CORR1 de 18 a 19 de novembro de 2025 (projetado para mostrar ejeções de massa coronal do Sol), capturou uma visão divertida da.</p><p>O momento da lua nova cairá às 20: 01 UTC do dia 16 de maio de 2026. Compare isso com a distância média da lua de 238.900 milhas (384.472 km).</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Visible planets and night sky guide. Tomorrow before dawn, look for the 3rd quarter moon among the stars of Capricornus the Sea-goat. The post Visible planets and night sky guide for May first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Moon near Capricornus Tomorrow morning, the moon will shine among the stars of the dim constellation Capricornus the Sea-goat. Moon near Mars and Saturn On the mornings of May 13 and 14, a thin waning crescent moon will shine near Saturn and Mars.</p><p>Moon near Mars and Saturn On the morning of May 15, about 30 minutes before sunrise, the very thin waning crescent moon will lie above the horizon and near Saturn and Mars. New supermoon This GOES-19 CORR1 coronagraph from November 18-19, 2025 (designed to show coronal mass ejections from the sun), captured a fun view of the new moon, which would.</p><p>The moment of new moon will fall at 20: 01 UTC on May 16, 2026. Compare that with the average moon distance of 238,900 miles (384,472 km).</p><p>Then it’ll be 222,497 miles (358,075 km) away from Earth. Earthshine is a lovely glow on the unlit portion of the moon May 18, 19 and 20 evenings: Moon near Venus and Jupiter On May 18, about 60 minutes after sunset, the waxing crescent.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Moon, Regulus and the Sickle On the evening of May 22, the waxing crescent moon will be near Regulus, the brightest star in Leo the Lion. | Lorraine Boyd captured this view from New York on November 9, 2024.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Planetas visíveis e guia do céu noturno. Amanhã, antes do amanhecer, procure a lua minguante entre as estrelas de Capricórnio, o Bode do Mar. O post.",
+      "Dado-chave: 9 e 10 de maio pela manhã: Lua perto de Capricórnio Amanhã de manhã, a lua brilhará entre as estrelas da obscura constelação de Capricórnio, o.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Planetas visíveis e guia do céu noturno. Amanhã, antes do amanhecer, procure a lua minguante entre as estrelas de Capricórnio, o Bode do Mar. O post.",
+      "Dado-chave: 9 e 10 de maio pela manhã: Lua perto de Capricórnio Amanhã de manhã, a lua brilhará entre as estrelas da obscura constelação de Capricórnio, o.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Visible planets and night sky guide. Tomorrow before dawn, look for the 3rd quarter moon among the stars of Capricornus the Sea-goat. The post.",
+      "Key detail: Moon near Capricornus Tomorrow morning, the moon will shine among the stars of the dim constellation Capricornus the Sea-goat.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "08 mai 2026",
+    "date_pt": "08 mai 2026",
+    "date_en": "08 May 2026",
+    "time": "11h35",
+    "time_pt": "11h35",
+    "time_en": "11:35 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-08T11:35:08+00:00",
+    "lastModifiedIso": "2026-05-08T11:35:08+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Planetas visíveis e guia do céu noturno para maio"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Planetas visíveis e guia do céu noturno para maio"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "Visible Planets and Night Sky Guide for May"
+    ],
+    "srcUrl": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-may",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-may",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-may&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",

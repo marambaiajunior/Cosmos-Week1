@@ -40,14 +40,14 @@ window.postsData = [
     "date": "08 mai 2026",
     "date_pt": "08 mai 2026",
     "date_en": "08 May 2026",
-    "time": "03h49",
-    "time_pt": "03h49",
-    "time_en": "03:49 UTC",
+    "time": "06h06",
+    "time_pt": "06h06",
+    "time_en": "06:06 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-08T03:49:16.884429+00:00",
-    "lastModifiedIso": "2026-05-08T03:49:16.884429+00:00",
+    "publishedIso": "2026-05-08T06:06:17.477078+00:00",
+    "lastModifiedIso": "2026-05-08T06:06:17.477078+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "08 mai 2026",
     "date_pt": "08 mai 2026",
     "date_en": "08 May 2026",
-    "time": "03h49",
-    "time_pt": "03h49",
-    "time_en": "03:49 UTC",
+    "time": "06h06",
+    "time_pt": "06h06",
+    "time_en": "06:06 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-08T03:49:16.884383+00:00",
-    "lastModifiedIso": "2026-05-08T03:49:16.884383+00:00",
+    "publishedIso": "2026-05-08T06:06:17.477034+00:00",
+    "lastModifiedIso": "2026-05-08T06:06:17.477034+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -260,14 +260,14 @@ window.postsData = [
     "date": "08 mai 2026",
     "date_pt": "08 mai 2026",
     "date_en": "08 May 2026",
-    "time": "03h49",
-    "time_pt": "03h49",
-    "time_en": "03:49 UTC",
+    "time": "06h06",
+    "time_pt": "06h06",
+    "time_en": "06:06 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-08T03:49:16.884338+00:00",
-    "lastModifiedIso": "2026-05-08T03:49:16.884338+00:00",
+    "publishedIso": "2026-05-08T06:06:17.476989+00:00",
+    "lastModifiedIso": "2026-05-08T06:06:17.476989+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -365,14 +365,14 @@ window.postsData = [
     "date": "08 mai 2026",
     "date_pt": "08 mai 2026",
     "date_en": "08 May 2026",
-    "time": "03h49",
-    "time_pt": "03h49",
-    "time_en": "03:49 UTC",
+    "time": "06h06",
+    "time_pt": "06h06",
+    "time_en": "06:06 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-08T03:49:16.884292+00:00",
-    "lastModifiedIso": "2026-05-08T03:49:16.884292+00:00",
+    "publishedIso": "2026-05-08T06:06:17.476946+00:00",
+    "lastModifiedIso": "2026-05-08T06:06:17.476946+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -470,14 +470,14 @@ window.postsData = [
     "date": "08 mai 2026",
     "date_pt": "08 mai 2026",
     "date_en": "08 May 2026",
-    "time": "03h49",
-    "time_pt": "03h49",
-    "time_en": "03:49 UTC",
+    "time": "06h06",
+    "time_pt": "06h06",
+    "time_en": "06:06 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-08T03:49:16.884241+00:00",
-    "lastModifiedIso": "2026-05-08T03:49:16.884241+00:00",
+    "publishedIso": "2026-05-08T06:06:17.476898+00:00",
+    "lastModifiedIso": "2026-05-08T06:06:17.476898+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -538,6 +538,142 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "tracy-arm-s-post-tsunami-landscape",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tracy-arm’s-post-tsunami-landscape/alaskalandslide_oli_20250726.jpg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-sea-of-spinning-clouds/peteriisland_oli_20260211_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Linhas paralelas de vórtices de nuvens aparecem na direção do vento em uma pequena ilha coberta de gelo.",
+        "caption_pt": "Linhas paralelas de vórtices de nuvens aparecem na direção do vento em uma pequena ilha coberta de gelo.",
+        "caption_en": "Parallel lines of cloud vortices appear downwind of a small, ice-covered island.",
+        "alt": "Linhas paralelas de vórtices de nuvens aparecem na direção do vento em uma pequena ilha coberta de gelo.",
+        "alt_pt": "Linhas paralelas de vórtices de nuvens aparecem na direção do vento em uma pequena ilha coberta de gelo.",
+        "alt_en": "Parallel lines of cloud vortices appear downwind of a small, ice-covered island."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tracy-arm’s-post-tsunami-landscape/alaskalandslide_oli_20250726.jpg?w=1200&h=800&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Vista de satélite de um fiorde com uma geleira ocupando a metade direita e mar aberto à esquerda. Grande parte das paredes do vale do fiorde são cobertas por rochas expostas e vegetação verde.",
+        "caption_pt": "Vista de satélite de um fiorde com uma geleira ocupando a metade direita e mar aberto à esquerda. Grande parte das paredes do vale do fiorde são cobertas por rochas expostas e vegetação verde.",
+        "caption_en": "Satellite view of a fjord with a glacier occupying the right half and open water on the left. Much of the fjord valley walls are covered with exposed rock and green vegetation.",
+        "alt": "Vista de satélite de um fiorde com uma geleira ocupando a metade direita e mar aberto à esquerda. Grande parte das paredes do vale do fiorde são cobertas por rochas expostas e vegetação verde.",
+        "alt_pt": "Vista de satélite de um fiorde com uma geleira ocupando a metade direita e mar aberto à esquerda. Grande parte das paredes do vale do fiorde são cobertas por rochas expostas e vegetação verde.",
+        "alt_en": "Satellite view of a fjord with a glacier occupying the right half and open water on the left. Much of the fjord valley walls are covered with exposed rock and green vegetation."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tracy-arm’s-post-tsunami-landscape/alaskalandslide_oli2_20250819.jpg?w=1200&h=800&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Vista de satélite de um fiorde com uma geleira ocupando a metade direita e mar aberto à esquerda. A frente do glaciar recuou e o castanho substituiu áreas anteriormente verdes em terras onde um tsunami destruiu a vegetação.",
+        "caption_pt": "Vista de satélite de um fiorde com uma geleira ocupando a metade direita e mar aberto à esquerda. A frente do glaciar recuou e o castanho substituiu áreas anteriormente verdes em terras onde um tsunami destruiu a vegetação.",
+        "caption_en": "Satellite view of a fjord with a glacier occupying the right half and open water on the left. The glacier’s front has retreated, and brown has replaced previously green areas on land where a tsunami stripped away the vegetation.",
+        "alt": "Vista de satélite de um fiorde com uma geleira ocupando a metade direita e mar aberto à esquerda. A frente do glaciar recuou e o castanho substituiu áreas anteriormente verdes em terras onde um tsunami destruiu a vegetação.",
+        "alt_pt": "Vista de satélite de um fiorde com uma geleira ocupando a metade direita e mar aberto à esquerda. A frente do glaciar recuou e o castanho substituiu áreas anteriormente verdes em terras onde um tsunami destruiu a vegetação.",
+        "alt_en": "Satellite view of a fjord with a glacier occupying the right half and open water on the left. The glacier’s front has retreated, and brown has replaced previously green areas on land where a tsunami stripped away the vegetation."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Paisagem pós-tsunami de Tracy Arm",
+    "title_pt": "Paisagem pós-tsunami de Tracy Arm",
+    "title_en": "Tracy Arm’s Post-Tsunami Landscape",
+    "sub": "Um tsunami provocado por um deslizamento de terra destruiu a vegetação da costa do fiorde glacial no verão de 2025.",
+    "sub_pt": "Um tsunami provocado por um deslizamento de terra destruiu a vegetação da costa do fiorde glacial no verão de 2025.",
+    "sub_en": "A landslide-triggered tsunami stripped vegetation from the shore of the glacial fjord in summer 2025.",
+    "excerpt": "Um tsunami provocado por um deslizamento de terra destruiu a vegetação da costa do fiorde glacial no verão de 2025.",
+    "excerpt_pt": "Um tsunami provocado por um deslizamento de terra destruiu a vegetação da costa do fiorde glacial no verão de 2025.",
+    "excerpt_en": "A landslide-triggered tsunami stripped vegetation from the shore of the glacial fjord in summer 2025.",
+    "body": "<p>Um tsunami provocado por um deslizamento de terra destruiu a vegetação da costa do fiorde glacial no verão de 2025. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Tracy Arm e outros fiordes próximos conectam-se com Stephens Passage, uma importante via navegável no sudeste do Alasca, visível nesta imagem capturada em 19 de agosto de 2025. Deslizamentos de terra e detritos de avalanches na geleira Hubbard 4 min de leitura Imagens de radar baseadas em satélite mostram onde um poderoso terremoto em Yukon, Canadá.</p><p>Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes. 2025 Observatório da Terra da NASA/Michala Garrison Observatório da Terra da NASA/Michala Garrison 26 de julho de.</p><p>O material que entrou no fiorde induziu um tsunami que destruiu árvores e outra vegetação da parede oposta do fiorde até 1.578 pés (481 metros) acima do nível do mar. Os satélites Landsat da NASA-USGS capturaram essas imagens em 26 de julho (esquerda) e 19 de agosto (direita), antes e depois do evento, respectivamente.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/tracy-arms-post-tsunami-landscape/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Um tsunami provocado por um deslizamento de terra destruiu a vegetação da costa do fiorde glacial no verão de 2025. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Tracy Arm e outros fiordes próximos conectam-se com Stephens Passage, uma importante via navegável no sudeste do Alasca, visível nesta imagem capturada em 19 de agosto de 2025. Deslizamentos de terra e detritos de avalanches na geleira Hubbard 4 min de leitura Imagens de radar baseadas em satélite mostram onde um poderoso terremoto em Yukon, Canadá.</p><p>Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes. 2025 Observatório da Terra da NASA/Michala Garrison Observatório da Terra da NASA/Michala Garrison 26 de julho de.</p><p>O material que entrou no fiorde induziu um tsunami que destruiu árvores e outra vegetação da parede oposta do fiorde até 1.578 pés (481 metros) acima do nível do mar. Os satélites Landsat da NASA-USGS capturaram essas imagens em 26 de julho (esquerda) e 19 de agosto (direita), antes e depois do evento, respectivamente.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/tracy-arms-post-tsunami-landscape/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A landslide-triggered tsunami stripped vegetation from the shore of the glacial fjord in summer 2025. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Tracy Arm and other nearby fjords connect with Stephens Passage, a major waterway in southeast Alaska, visible in this image captured on August 19, 2025, by the OLI (Operational. Landslide and Avalanche Debris Litter Hubbard Glacier 4 min read Satellite-based radar images show where a powerful earthquake in the Yukon, Canada, sent rock, snow, and ice.</p><p>Earth Observatory Image of the Day NASA’s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery. 2025 NASA Earth Observatory/Michala Garrison NASA Earth Observatory/Michala Garrison July 26.</p><p>Material entering the fjord induced a tsunami that stripped trees and other vegetation from the opposing fjord wall up to 1,578 feet (481 meters) above sea level. NASA-USGS Landsat satellites captured these images on July 26 (left) and August 19 (right), before and after the event, respectively.</p><p>Their analysis, detailing the event from its lead-up through its aftermath, was published May 6, 2026, in the journal Science. Both the landslide and seiche produced seismic signals detected around the world, the former equivalent to a magnitude 5.4 earthquake.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Geological Survey (2025, August 13) 2025 Tracy Arm Landslide Before and After Satellite Imagery. Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/tracy-arms-post-tsunami-landscape/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Um tsunami provocado por um deslizamento de terra destruiu a vegetação da costa do fiorde glacial no verão de 2025.",
+      "Dado-chave: Tracy Arm e outros fiordes próximos conectam-se com Stephens Passage, uma importante via navegável no sudeste do Alasca, visível nesta imagem.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Um tsunami provocado por um deslizamento de terra destruiu a vegetação da costa do fiorde glacial no verão de 2025.",
+      "Dado-chave: Tracy Arm e outros fiordes próximos conectam-se com Stephens Passage, uma importante via navegável no sudeste do Alasca, visível nesta imagem.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: A landslide-triggered tsunami stripped vegetation from the shore of the glacial fjord in summer 2025.",
+      "Key detail: Tracy Arm and other nearby fjords connect with Stephens Passage, a major waterway in southeast Alaska, visible in this image captured on August.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "08 mai 2026",
+    "date_pt": "08 mai 2026",
+    "date_en": "08 May 2026",
+    "time": "04h00",
+    "time_pt": "04h00",
+    "time_en": "04:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-08T04:00:00+00:00",
+    "lastModifiedIso": "2026-05-08T04:00:00+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Paisagem pós",
+      "tsunami de Tracy Arm"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Paisagem pós",
+      "tsunami de Tracy Arm"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Post landscape",
+      "tsunami de Tracy Arm"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/tracy-arms-post-tsunami-landscape/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=tracy-arm-s-post-tsunami-landscape",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=tracy-arm-s-post-tsunami-landscape",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=tracy-arm-s-post-tsunami-landscape&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "simplified-proteins-reveal-the-biochemical-dawn-of-early-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -641,7 +777,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -655,7 +791,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -782,7 +918,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "a-brief-ish-history-of-seti-part-i-where-is-everybody",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -922,7 +1058,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "the-asteroid-hunter",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1041,142 +1177,6 @@ window.postsData = [
       "source": 73,
       "evidence": 88,
       "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "ultrahigh-energy-cosmic-messengers-may-carry-ultraheavy-secrets",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrahigh-energy-cosmi.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ultrahigh-energy-cosmi.jpg",
-        "caption": "Impressão artística de um raio cósmico de energia ultra-alta atingindo a Terra. Novas pesquisas sugerem que alguns dos raios cósmicos de maior energia podem consistir em núcleos atômicos mais pesados ​​que o ferro. O plano de fundo representa objetos de origem candidatos para.",
-        "caption_pt": "Impressão artística de um raio cósmico de energia ultra-alta atingindo a Terra. Novas pesquisas sugerem que alguns dos raios cósmicos de maior energia podem consistir em núcleos atômicos mais pesados ​​que o ferro. O plano de fundo representa objetos de origem candidatos para.",
-        "caption_en": "Artist's impression of an ultra-high energy cosmic ray reaching Earth. New research suggests that some of the highest-energy cosmic rays may consist of atomic nuclei heavier than iron. The background depicts candidate source objects for.",
-        "alt": "Mensageiros cósmicos de energia ultra-alta podem carregar segredos ultrapesados",
-        "alt_pt": "Mensageiros cósmicos de energia ultra-alta podem carregar segredos ultrapesados",
-        "alt_en": "Ultrahigh-energy cosmic messengers may carry ultraheavy secrets"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f774f64d75a8f8a3.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Mensageiros cósmicos de energia ultra-alta podem carregar segredos ultrapesados",
-    "title_pt": "Mensageiros cósmicos de energia ultra-alta podem carregar segredos ultrapesados",
-    "title_en": "Ultrahigh-energy cosmic messengers may carry ultraheavy secrets",
-    "sub": "Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de energia ultra-alta são partículas.",
-    "sub_pt": "Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de energia ultra-alta são partículas.",
-    "sub_en": "There may be an ultraheavy explanation for the mystery surrounding the origins of the highest-energy particles ever observed. Ultrahigh-energy cosmic rays are particles from space.",
-    "excerpt": "Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de energia ultra-alta são partículas do espaço que atingem a Terra com energias muito além daquelas alcançáveis.",
-    "excerpt_pt": "Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de energia ultra-alta são partículas do espaço que atingem a Terra com energias muito além daquelas alcançáveis.",
-    "excerpt_en": "There may be an ultraheavy explanation for the mystery surrounding the origins of the highest-energy particles ever observed. Ultrahigh-energy cosmic rays are particles from space that strike Earth with energies far beyond those reachable.",
-    "body": "<p>Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de energia ultra-alta são partículas do espaço que atingem a Terra com energias muito além daquelas alcançáveis. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Editado por Stephanie Baum, revisado por Robert Egan Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida a impressão artística de um raio cósmico de.</p><p>Os raios cósmicos de energia ultra-alta são partículas do espaço que atingem a Terra com energias muito além daquelas alcançáveis ​​pelos aceleradores de partículas feitos pelo. Um dos eventos mais extremos já registrados é a “partícula Amaterasu”, detectada pelo Telescope Array em Utah em 2021 e batizada em homenagem à deusa do sol na mitologia japonesa.</p><p>A sua energia relatada coloca-o entre os eventos de raios cósmicos de maior energia alguma vez observados, comparável à &quot;partícula Oh-Meu-Deus&quot; detectada em 1991, mas a sua. Os cálculos da equipa mostram que estes núcleos ultrapesados ​​podem perder energia mais lentamente do que apenas protões ou núcleos mais leves à medida que viajam através do.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-ultrahigh-energy-cosmic-messengers-ultraheavy.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de energia ultra-alta são partículas do espaço que atingem a Terra com energias muito além daquelas alcançáveis. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Editado por Stephanie Baum, revisado por Robert Egan Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida a impressão artística de um raio cósmico de.</p><p>Os raios cósmicos de energia ultra-alta são partículas do espaço que atingem a Terra com energias muito além daquelas alcançáveis ​​pelos aceleradores de partículas feitos pelo. Um dos eventos mais extremos já registrados é a “partícula Amaterasu”, detectada pelo Telescope Array em Utah em 2021 e batizada em homenagem à deusa do sol na mitologia japonesa.</p><p>A sua energia relatada coloca-o entre os eventos de raios cósmicos de maior energia alguma vez observados, comparável à &quot;partícula Oh-Meu-Deus&quot; detectada em 1991, mas a sua. Os cálculos da equipa mostram que estes núcleos ultrapesados ​​podem perder energia mais lentamente do que apenas protões ou núcleos mais leves à medida que viajam através do.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-ultrahigh-energy-cosmic-messengers-ultraheavy.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>There may be an ultraheavy explanation for the mystery surrounding the origins of the highest-energy particles ever observed. Ultrahigh-energy cosmic rays are particles from space that strike Earth with energies far beyond those reachable. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Edited by Stephanie Baum, reviewed by Robert Egan This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Artist&#x27;s impression of an ultra-high energy cosmic ray reaching.</p><p>Ultrahigh-energy cosmic rays are particles from space that strike Earth with energies far beyond those reachable by human-made particle accelerators. One of the most extreme events ever recorded is the &quot;Amaterasu particle,&quot; detected by the Telescope Array in Utah in 2021 and named after the sun goddess in Japanese mythology.</p><p>Its reported energy places it among the highest-energy cosmic-ray events ever observed, comparable to the &quot;Oh-My-God particle&quot; detected in 1991, yet its origin, and even its. The team&#x27;s calculations show that these ultraheavy nuclei can lose energy more slowly than just protons or lighter nuclei as they travel through intergalactic space, allowing them.</p><p>When we detect individual cosmic-ray particles such as the Amaterasu particle here on Earth, we can often use their energies, arrival directions and expected magnetic deflections. The origins and acceleration mechanisms of ultrahigh-energy cosmic rays have been among the biggest mysteries in the field for more than 60 years, since the first example was.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>With energies above 100 exa-electron volts (100 quintillion electron volts), these particles are about seven orders of magnitude (10 million times) more energetic than particles. The Amaterasu particle&#x27;s reported energy was about 240 exa-electron volts, roughly the kinetic energy of a fast-moving tennis ball but carried by a single cosmic-ray particle.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-ultrahigh-energy-cosmic-messengers-ultraheavy.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de.",
-      "Dado-chave: editado por Stephanie Baum, revisado por Robert Egan Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de.",
-      "Dado-chave: editado por Stephanie Baum, revisado por Robert Egan Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: There may be an ultraheavy explanation for the mystery surrounding the origins of the highest-energy particles ever observed. Ultrahigh-energy cosmic.",
-      "Key detail: edited by Stephanie Baum, reviewed by Robert Egan This article has been reviewed according to Science X's editorial process and policies.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "07 mai 2026",
-    "date_pt": "07 mai 2026",
-    "date_en": "07 May 2026",
-    "time": "21h00",
-    "time_pt": "21h00",
-    "time_en": "21:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-07T21:00:06+00:00",
-    "lastModifiedIso": "2026-05-07T21:00:06+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Física",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Mensageiros cósmicos de energia ultra",
-      "alta podem carregar segredos ultrapesados"
-    ],
-    "keywords_pt": [
-      "Física",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Mensageiros cósmicos de energia ultra",
-      "alta podem carregar segredos ultrapesados"
-    ],
-    "keywords_en": [
-      "Physical",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Ultra energy cosmic messengers",
-      "high can carry ultra-heavy secrets"
-    ],
-    "srcUrl": "https://phys.org/news/2026-05-ultrahigh-energy-cosmic-messengers-ultraheavy.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=ultrahigh-energy-cosmic-messengers-may-carry-ultraheavy-secrets",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=ultrahigh-energy-cosmic-messengers-may-carry-ultraheavy-secrets",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=ultrahigh-energy-cosmic-messengers-may-carry-ultraheavy-secrets&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 82,
       "accessibility": 60,
       "novelty": 55
     }
@@ -1621,10 +1621,10 @@ window.postsData = [
     "evidenceLabel": "Atualização institucional",
     "evidenceLabel_pt": "Atualização institucional",
     "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
     "keywords": [
       "Astrofísica",
       "CERN News",
@@ -1657,13 +1657,13 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 80,
+    "score": 79,
     "scoreBreakdown": {
       "source": 86,
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -2334,6 +2334,142 @@ window.postsData = [
   },
   {
     "id": 20,
+    "slug": "ultrahigh-energy-cosmic-messengers-may-carry-ultraheavy-secrets",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultrahigh-energy-cosmi.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ultrahigh-energy-cosmi.jpg",
+        "caption": "Impressão artística de um raio cósmico de energia ultra-alta atingindo a Terra. Novas pesquisas sugerem que alguns dos raios cósmicos de maior energia podem consistir em núcleos atômicos mais pesados ​​que o ferro. O plano de fundo representa objetos de origem candidatos para.",
+        "caption_pt": "Impressão artística de um raio cósmico de energia ultra-alta atingindo a Terra. Novas pesquisas sugerem que alguns dos raios cósmicos de maior energia podem consistir em núcleos atômicos mais pesados ​​que o ferro. O plano de fundo representa objetos de origem candidatos para.",
+        "caption_en": "Artist's impression of an ultra-high energy cosmic ray reaching Earth. New research suggests that some of the highest-energy cosmic rays may consist of atomic nuclei heavier than iron. The background depicts candidate source objects for.",
+        "alt": "Mensageiros cósmicos de energia ultra-alta podem carregar segredos ultrapesados",
+        "alt_pt": "Mensageiros cósmicos de energia ultra-alta podem carregar segredos ultrapesados",
+        "alt_en": "Ultrahigh-energy cosmic messengers may carry ultraheavy secrets"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/f774f64d75a8f8a3.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Mensageiros cósmicos de energia ultra-alta podem carregar segredos ultrapesados",
+    "title_pt": "Mensageiros cósmicos de energia ultra-alta podem carregar segredos ultrapesados",
+    "title_en": "Ultrahigh-energy cosmic messengers may carry ultraheavy secrets",
+    "sub": "Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de energia ultra-alta são partículas.",
+    "sub_pt": "Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de energia ultra-alta são partículas.",
+    "sub_en": "There may be an ultraheavy explanation for the mystery surrounding the origins of the highest-energy particles ever observed. Ultrahigh-energy cosmic rays are particles from space.",
+    "excerpt": "Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de energia ultra-alta são partículas do espaço que atingem a Terra com energias muito além daquelas alcançáveis.",
+    "excerpt_pt": "Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de energia ultra-alta são partículas do espaço que atingem a Terra com energias muito além daquelas alcançáveis.",
+    "excerpt_en": "There may be an ultraheavy explanation for the mystery surrounding the origins of the highest-energy particles ever observed. Ultrahigh-energy cosmic rays are particles from space that strike Earth with energies far beyond those reachable.",
+    "body": "<p>Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de energia ultra-alta são partículas do espaço que atingem a Terra com energias muito além daquelas alcançáveis. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Editado por Stephanie Baum, revisado por Robert Egan Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida a impressão artística de um raio cósmico de.</p><p>Os raios cósmicos de energia ultra-alta são partículas do espaço que atingem a Terra com energias muito além daquelas alcançáveis ​​pelos aceleradores de partículas feitos pelo. Um dos eventos mais extremos já registrados é a “partícula Amaterasu”, detectada pelo Telescope Array em Utah em 2021 e batizada em homenagem à deusa do sol na mitologia japonesa.</p><p>A sua energia relatada coloca-o entre os eventos de raios cósmicos de maior energia alguma vez observados, comparável à &quot;partícula Oh-Meu-Deus&quot; detectada em 1991, mas a sua. Os cálculos da equipa mostram que estes núcleos ultrapesados ​​podem perder energia mais lentamente do que apenas protões ou núcleos mais leves à medida que viajam através do.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-ultrahigh-energy-cosmic-messengers-ultraheavy.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de energia ultra-alta são partículas do espaço que atingem a Terra com energias muito além daquelas alcançáveis. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Editado por Stephanie Baum, revisado por Robert Egan Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida a impressão artística de um raio cósmico de.</p><p>Os raios cósmicos de energia ultra-alta são partículas do espaço que atingem a Terra com energias muito além daquelas alcançáveis ​​pelos aceleradores de partículas feitos pelo. Um dos eventos mais extremos já registrados é a “partícula Amaterasu”, detectada pelo Telescope Array em Utah em 2021 e batizada em homenagem à deusa do sol na mitologia japonesa.</p><p>A sua energia relatada coloca-o entre os eventos de raios cósmicos de maior energia alguma vez observados, comparável à &quot;partícula Oh-Meu-Deus&quot; detectada em 1991, mas a sua. Os cálculos da equipa mostram que estes núcleos ultrapesados ​​podem perder energia mais lentamente do que apenas protões ou núcleos mais leves à medida que viajam através do.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-ultrahigh-energy-cosmic-messengers-ultraheavy.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>There may be an ultraheavy explanation for the mystery surrounding the origins of the highest-energy particles ever observed. Ultrahigh-energy cosmic rays are particles from space that strike Earth with energies far beyond those reachable. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Edited by Stephanie Baum, reviewed by Robert Egan This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Artist&#x27;s impression of an ultra-high energy cosmic ray reaching.</p><p>Ultrahigh-energy cosmic rays are particles from space that strike Earth with energies far beyond those reachable by human-made particle accelerators. One of the most extreme events ever recorded is the &quot;Amaterasu particle,&quot; detected by the Telescope Array in Utah in 2021 and named after the sun goddess in Japanese mythology.</p><p>Its reported energy places it among the highest-energy cosmic-ray events ever observed, comparable to the &quot;Oh-My-God particle&quot; detected in 1991, yet its origin, and even its. The team&#x27;s calculations show that these ultraheavy nuclei can lose energy more slowly than just protons or lighter nuclei as they travel through intergalactic space, allowing them.</p><p>When we detect individual cosmic-ray particles such as the Amaterasu particle here on Earth, we can often use their energies, arrival directions and expected magnetic deflections. The origins and acceleration mechanisms of ultrahigh-energy cosmic rays have been among the biggest mysteries in the field for more than 60 years, since the first example was.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>With energies above 100 exa-electron volts (100 quintillion electron volts), these particles are about seven orders of magnitude (10 million times) more energetic than particles. The Amaterasu particle&#x27;s reported energy was about 240 exa-electron volts, roughly the kinetic energy of a fast-moving tennis ball but carried by a single cosmic-ray particle.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-ultrahigh-energy-cosmic-messengers-ultraheavy.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de.",
+      "Dado-chave: editado por Stephanie Baum, revisado por Robert Egan Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Pode haver uma explicação ultrapesada para o mistério que envolve as origens das partículas de maior energia já observadas. Os raios cósmicos de.",
+      "Dado-chave: editado por Stephanie Baum, revisado por Robert Egan Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: There may be an ultraheavy explanation for the mystery surrounding the origins of the highest-energy particles ever observed. Ultrahigh-energy cosmic.",
+      "Key detail: edited by Stephanie Baum, reviewed by Robert Egan This article has been reviewed according to Science X's editorial process and policies.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "07 mai 2026",
+    "date_pt": "07 mai 2026",
+    "date_en": "07 May 2026",
+    "time": "21h00",
+    "time_pt": "21h00",
+    "time_en": "21:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-07T21:00:06+00:00",
+    "lastModifiedIso": "2026-05-07T21:00:06+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Mensageiros cósmicos de energia ultra",
+      "alta podem carregar segredos ultrapesados"
+    ],
+    "keywords_pt": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Mensageiros cósmicos de energia ultra",
+      "alta podem carregar segredos ultrapesados"
+    ],
+    "keywords_en": [
+      "Physical",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Ultra energy cosmic messengers",
+      "high can carry ultra-heavy secrets"
+    ],
+    "srcUrl": "https://phys.org/news/2026-05-ultrahigh-energy-cosmic-messengers-ultraheavy.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=ultrahigh-energy-cosmic-messengers-may-carry-ultraheavy-secrets",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=ultrahigh-energy-cosmic-messengers-may-carry-ultraheavy-secrets",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=ultrahigh-energy-cosmic-messengers-may-carry-ultraheavy-secrets&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 82,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 21,
     "slug": "is-the-large-magellanic-cloud-a-first-time-visitor",
     "cat": "Física",
     "catCls": "fisica",
@@ -2479,7 +2615,7 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "smarter-decisions-at-the-speed-of-physics",
     "cat": "Física",
     "catCls": "fisica",
@@ -2594,7 +2730,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "subaru-telescope-reveals-new-data-on-the-interior-composition-of-3i-atlas",
     "cat": "Química",
     "catCls": "quimica",
@@ -2712,7 +2848,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "close-in-planets-act-as-bouncers-to-create-rogue-worlds",
     "cat": "Química",
     "catCls": "quimica",
@@ -2858,7 +2994,7 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
+    "id": 25,
     "slug": "nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2995,7 +3131,7 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "industry-moon-lander-training-cabin-lands-at-nasa-for-artemis",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3100,7 +3236,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "smile-set-to-launch-on-19-may",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3205,7 +3341,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "plato-aces-space-like-tests",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3310,7 +3446,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3446,7 +3582,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3573,7 +3709,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "science-release-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3709,117 +3845,40 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
-    "slug": "nasa-s-simulated-mars-mission-marks-200-days-inside-habitat",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/05/chapea200-1.png?w=1920",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Missão simulada da NASA em Marte marca 200 dias dentro do habitat",
-    "title_pt": "Missão simulada da NASA em Marte marca 200 dias dentro do habitat",
-    "title_en": "NASA’s Simulated Mars Mission Marks 200 Days Inside Habitat",
-    "sub": "Os quatro membros da tripulação da simulação de Marte da NASA completaram recentemente 200 dias na sua missão de 378 dias no Planeta Vermelho, no dia 7 de maio. Atualmente, a.",
-    "sub_pt": "Os quatro membros da tripulação da simulação de Marte da NASA completaram recentemente 200 dias na sua missão de 378 dias no Planeta Vermelho, no dia 7 de maio. Atualmente, a.",
-    "sub_en": "The four crew members of NASA’s Mars simulation recently marked 200 days into their 378-day Red Planet mission on May 7. Currently, the crew is in a simulated two‑week.",
-    "excerpt": "Os quatro membros da tripulação da simulação de Marte da NASA completaram recentemente 200 dias na sua missão de 378 dias no Planeta Vermelho, no dia 7 de maio. Atualmente, a tripulação está num período simulado de perda de sinal de duas semanas que imita um.",
-    "excerpt_pt": "Os quatro membros da tripulação da simulação de Marte da NASA completaram recentemente 200 dias na sua missão de 378 dias no Planeta Vermelho, no dia 7 de maio. Atualmente, a tripulação está num período simulado de perda de sinal de duas semanas que imita um.",
-    "excerpt_en": "The four crew members of NASA’s Mars simulation recently marked 200 days into their 378-day Red Planet mission on May 7. Currently, the crew is in a simulated two‑week loss‑of‑signal period that mimics a Mars-Earth communications blackout.",
-    "body": "<p>Os quatro membros da tripulação da simulação de Marte da NASA completaram recentemente 200 dias na sua missão de 378 dias no Planeta Vermelho, no dia 7 de maio. Atualmente, a tripulação está num período simulado de perda de sinal de duas semanas que imita um apagão de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Membros da missão 2 CHAPEA (Crew Health and Performance Exploration Analog) da NASA posam para uma foto de grupo. Os membros da tripulação da missão CHAPEA 2 da NASA realizam uma tarefa de manutenção em sua bicicleta ergométrica (sentido horário a partir da esquerda: Matthew Montgomery, James.</p><p>Ellen Ellis, oficial médica da missão 2 da NASA CHAPEA, coleta amostras durante uma atividade extraveicular, também conhecida como caminhada no espaço. (A partir da esquerda: James Spicer e Matthew Montgomery) Crédito: Tripulação da missão CHAPEA da NASA 2 durante o período de folga.</p><p>Os quatro membros da tripulação da simulação de Marte da NASA completaram recentemente 200 dias em sua missão de 378 dias no Planeta Vermelho, em 7 de maio. Atualmente, a tripulação está em um artigo simulado. Membros da missão 2 CHAPEA (Crew Health and Performance Exploration Analog) da NASA posam para uma foto de grupo.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/humans-in-space/nasas-simulated-mars-mission-marks-200-days-inside-habitat/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os quatro membros da tripulação da simulação de Marte da NASA completaram recentemente 200 dias na sua missão de 378 dias no Planeta Vermelho, no dia 7 de maio. Atualmente, a tripulação está num período simulado de perda de sinal de duas semanas que imita um apagão de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Membros da missão 2 CHAPEA (Crew Health and Performance Exploration Analog) da NASA posam para uma foto de grupo. Os membros da tripulação da missão CHAPEA 2 da NASA realizam uma tarefa de manutenção em sua bicicleta ergométrica (sentido horário a partir da esquerda: Matthew Montgomery, James.</p><p>Ellen Ellis, oficial médica da missão 2 da NASA CHAPEA, coleta amostras durante uma atividade extraveicular, também conhecida como caminhada no espaço. (A partir da esquerda: James Spicer e Matthew Montgomery) Crédito: Tripulação da missão CHAPEA da NASA 2 durante o período de folga.</p><p>Os quatro membros da tripulação da simulação de Marte da NASA completaram recentemente 200 dias em sua missão de 378 dias no Planeta Vermelho, em 7 de maio. Atualmente, a tripulação está em um artigo simulado. Membros da missão 2 CHAPEA (Crew Health and Performance Exploration Analog) da NASA posam para uma foto de grupo.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/humans-in-space/nasas-simulated-mars-mission-marks-200-days-inside-habitat/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The four crew members of NASA’s Mars simulation recently marked 200 days into their 378-day Red Planet mission on May 7. Currently, the crew is in a simulated two‑week loss‑of‑signal period that mimics a Mars-Earth communications blackout. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Members of NASA’s CHAPEA (Crew Health and Performance Exploration Analog) mission 2 pose for a group photo. NASA CHAPEA mission 2 crew members perform a maintenance task on their stationary bike (Clockwise from the left: Matthew Montgomery, James Spicer, and Ross Elder).</p><p>NASA CHAPEA mission 2 medical officer Ellen Ellis collects samples during an extravehicular activity, also known as a spacewalk. (From left: James Spicer and Matthew Montgomery) Credit: NASA CHAPEA mission 2 crew members during off-duty time.</p><p>The four crew members of NASA’s Mars simulation recently marked 200 days into their 378-day Red Planet mission on May 7. Currently, the crew is in a simulated Article Members of NASA’s CHAPEA (Crew Health and Performance Exploration Analog) mission 2 pose for a group photo.</p><p>(From left to right: Ellen Ellis, Ross Elder, James Spicer, and Matthew Montgomery) Credit: NASA The four crew members of NASA’s Mars simulation recently marked 200 days into. The CHAPEA (Crew Health and Performance Exploration Analog) mission 2 crew, commanded by Ross Elder and with medical officer Ellen Ellis, science officer Matthew Montgomery, and.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>“I’m proud of the crew’s accomplishments over the past 200 days, facing each challenge with fortitude and finding new ways to improve our performance and efficiency daily,” said. Now over halfway through the mission, the crew continues to provide NASA with valuable insights and data on how humans adapt to isolation, confinement, and resource limitations.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/humans-in-space/nasas-simulated-mars-mission-marks-200-days-inside-habitat/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os quatro membros da tripulação da simulação de Marte da NASA completaram recentemente 200 dias na sua missão de 378 dias no Planeta Vermelho, no dia.",
-      "Dado-chave: Membros da missão 2 CHAPEA (Crew Health and Performance Exploration Analog) da NASA posam para uma foto de grupo.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os quatro membros da tripulação da simulação de Marte da NASA completaram recentemente 200 dias na sua missão de 378 dias no Planeta Vermelho, no dia.",
-      "Dado-chave: Membros da missão 2 CHAPEA (Crew Health and Performance Exploration Analog) da NASA posam para uma foto de grupo.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The four crew members of NASA’s Mars simulation recently marked 200 days into their 378-day Red Planet mission on May 7. Currently, the crew is in a.",
-      "Key detail: Members of NASA’s CHAPEA (Crew Health and Performance Exploration Analog) mission 2 pose for a group photo.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "07 mai 2026",
-    "date_pt": "07 mai 2026",
-    "date_en": "07 May 2026",
-    "time": "14h07",
-    "time_pt": "14h07",
-    "time_en": "14:07 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-07T14:07:53+00:00",
-    "lastModifiedIso": "2026-05-07T14:07:53+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Missão simulada da NASA em Marte marca 200 dias dentro do habitat"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Missão simulada da NASA em Marte marca 200 dias dentro do habitat"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's simulated mission to Mars marks 200 days inside the habitat"
-    ],
-    "srcUrl": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-mission-marks-200-days-inside-habitat/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-simulated-mars-mission-marks-200-days-inside-habitat",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-simulated-mars-mission-marks-200-days-inside-habitat",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-simulated-mars-mission-marks-200-days-inside-habitat&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 78,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
     "id": 32,
     "slug": "webb-hubble-find-massive-star-clusters-emerge-faster",
     "cat": "Biologia",
     "catCls": "biologia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/star-forming_regions_in_m51/27255538-1-eng-GB/Star-forming_regions_in_M51_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/star-forming_regions_in_m51/27255538-1-eng-GB/Star-forming_regions_in_M51_article.jpg",
+        "caption": "Regiões de formação de estrelas em M51",
+        "caption_pt": "Regiões de formação de estrelas em M51",
+        "caption_en": "Star-forming regions in M51",
+        "alt": "Regiões de formação de estrelas em M51",
+        "alt_pt": "Regiões de formação de estrelas em M51",
+        "alt_en": "Star-forming regions in M51"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/star-forming_region_in_m51_close-up/27255632-1-eng-GB/Star-forming_region_in_M51_close-up_article.jpg",
+        "caption": "Região de formação estelar em M51 (close-up)",
+        "caption_pt": "Região de formação estelar em M51 (close-up)",
+        "caption_en": "Star-forming region in M51 (close-up)",
+        "alt": "Região de formação estelar em M51 (close-up)",
+        "alt_pt": "Região de formação estelar em M51 (close-up)",
+        "alt_en": "Star-forming region in M51 (close-up)"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/nearby_star-forming_feast_galaxies/27255679-1-eng-GB/Nearby_star-forming_FEAST_galaxies_article.jpg",
+        "caption": "Galáxias FEAST próximas em formação de estrelas",
+        "caption_pt": "Galáxias FEAST próximas em formação de estrelas",
+        "caption_en": "Nearby star-forming FEAST galaxies",
+        "alt": "Galáxias FEAST próximas em formação de estrelas",
+        "alt_pt": "Galáxias FEAST próximas em formação de estrelas",
+        "alt_en": "Nearby star-forming FEAST galaxies"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Webb e Hubble descobrem que aglomerados estelares massivos emergem mais rápido",
@@ -3831,22 +3890,22 @@ window.postsData = [
     "excerpt": "Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de aglomerados de estrelas jovens em quatro galáxias próximas, estudando aglomerados em.",
     "excerpt_pt": "Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de aglomerados de estrelas jovens em quatro galáxias próximas, estudando aglomerados em.",
     "excerpt_en": "Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of young star clusters in four nearby galaxies, studying clusters at different stages of.",
-    "body": "<p>Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de aglomerados de estrelas jovens em quatro galáxias próximas, estudando aglomerados em diferentes estágios. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. O resultado nos dá uma melhor compreensão. Os astrónomos, utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de enxames.</p><p>As suas descobertas mostram que enxames estelares mais massivos emergem mais rapidamente das nuvens onde nascem, eliminando o gás e enchendo a galáxia com luz ultravioleta. O resultado dá-nos uma melhor compreensão da formação estelar nas galáxias, bem como de como e onde os planetas se podem formar.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de aglomerados de estrelas jovens em quatro galáxias próximas, estudando aglomerados em diferentes estágios. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. O resultado nos dá uma melhor compreensão. Os astrónomos, utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de enxames.</p><p>As suas descobertas mostram que enxames estelares mais massivos emergem mais rapidamente das nuvens onde nascem, eliminando o gás e enchendo a galáxia com luz ultravioleta. O resultado dá-nos uma melhor compreensão da formação estelar nas galáxias, bem como de como e onde os planetas se podem formar.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of young star clusters in four nearby galaxies, studying clusters at different stages of. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. The result gives us a better understanding. Their findings show that more massive star clusters emerge more quickly from the clouds they are born in, clearing away gas and filling the galaxy with ultraviolet light.</p><p>The result gives us a better understanding of star formation in galaxies, as well as how and where planets can form.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de aglomerados de estrelas jovens em quatro galáxias próximas, estudando aglomerados em diferentes estágios. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Os astrónomos, utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de enxames. Ao observar galáxias próximas, os astrónomos podem estudar milhares de regiões de formação estelar e caracterizar populações inteiras de enxames estelares em muitas fases de.</p><p>Agora, o estado da arte foi desenvolvido com o Hubble e o Webb trabalhando juntos para fornecer uma visão de amplo espectro de milhares de aglomerados de estrelas jovens. Uma equipe internacional de astrônomos se debruçou sobre imagens de quatro galáxias próximas, Messier 51, Messier 83, NGC 4449, e NGC 628, do programa de observação FEAST (#1783).</p><p>Os seus resultados, publicados hoje na revista Nature Astronomy, mostram que são os enxames estelares mais massivos que eliminam a sua mortalha gasosa mais rapidamente e começam a. A equipe identificou quase 9.000 aglomerados estelares nas quatro galáxias em diferentes estágios evolutivos: aglomerados jovens que estão apenas começando a emergir de suas.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de aglomerados de estrelas jovens em quatro galáxias próximas, estudando aglomerados em diferentes estágios. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Os astrónomos, utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de enxames. Ao observar galáxias próximas, os astrónomos podem estudar milhares de regiões de formação estelar e caracterizar populações inteiras de enxames estelares em muitas fases de.</p><p>Agora, o estado da arte foi desenvolvido com o Hubble e o Webb trabalhando juntos para fornecer uma visão de amplo espectro de milhares de aglomerados de estrelas jovens. Uma equipe internacional de astrônomos se debruçou sobre imagens de quatro galáxias próximas, Messier 51, Messier 83, NGC 4449, e NGC 628, do programa de observação FEAST (#1783).</p><p>Os seus resultados, publicados hoje na revista Nature Astronomy, mostram que são os enxames estelares mais massivos que eliminam a sua mortalha gasosa mais rapidamente e começam a. A equipe identificou quase 9.000 aglomerados estelares nas quatro galáxias em diferentes estágios evolutivos: aglomerados jovens que estão apenas começando a emergir de suas.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of young star clusters in four nearby galaxies, studying clusters at different stages of. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. By observing nearby galaxies, astronomers can survey thousands of star-forming regions and characterise entire populations of star clusters at many stages of evolution, a feat. Now, the state of the art has been further developed with both Hubble and Webb working together to provide a broad-spectrum view of thousands of young star clusters.</p><p>An international team of astronomers has pored over images of four nearby galaxies, Messier 51, Messier 83, NGC 4449, and NGC 628, from the FEAST observing programme (# 1783 ). Their results, published today in Nature Astronomy, show that it is the most massive star clusters that clear away their gaseous shroud the fastest, and begin lighting their.</p><p>The team identified nearly 9000 star clusters in the four galaxies in different evolutionary stages: young clusters just starting to emerge from their natal clouds of gas. With Webb’s ability to peer inside the gas clouds, they were able to then estimate the mass and age of each cluster from its light spectrum.</p><p>The most massive clusters had fully emerged and dispersed the clouds of gas after around five million years, while less massive clusters were between seven and eight million years. These results give us important new constraints on that process,” explained Angela Adamo of Stockholm University and the Oskar Klein Centre in Sweden, a lead author on the study.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>The faster gas is cleared away within a star cluster, the earlier protoplanetary discs around stars are exposed to harsh ultraviolet radiation from other stars, and the less. Under an international collaboration agreement, ESA provided the telescope’s launch service, using the Ariane 5 launch vehicle.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram.",
-      "Dado-chave: O resultado nos dá uma melhor compreensão.",
+      "Dado-chave: Os astrónomos, utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram.",
-      "Dado-chave: O resultado nos dá uma melhor compreensão.",
+      "Dado-chave: Os astrónomos, utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of.",
-      "Key detail: The result gives us a better understanding.",
+      "Key detail: Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "06 mai 2026",
@@ -4791,7 +4850,7 @@ window.postsData = [
       "evidence": 82,
       "relevance": 74,
       "accessibility": 52,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -4906,7 +4965,7 @@ window.postsData = [
       "evidence": 82,
       "relevance": 74,
       "accessibility": 52,
-      "novelty": 55
+      "novelty": 52
     }
   }
 ];

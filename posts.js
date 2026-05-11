@@ -37,17 +37,17 @@ window.postsData = [
       "Key detail: NIH-supported clinical trial shows coordinated care strategy more effective than standard care",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "10 mai 2026",
-    "date_pt": "10 mai 2026",
-    "date_en": "10 May 2026",
-    "time": "23h02",
-    "time_pt": "23h02",
-    "time_en": "23:02 UTC",
+    "date": "11 mai 2026",
+    "date_pt": "11 mai 2026",
+    "date_en": "11 May 2026",
+    "time": "00h03",
+    "time_pt": "00h03",
+    "time_en": "00:03 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-10T23:02:03.774615+00:00",
-    "lastModifiedIso": "2026-05-10T23:02:03.774615+00:00",
+    "publishedIso": "2026-05-11T00:03:05.356042+00:00",
+    "lastModifiedIso": "2026-05-11T00:03:05.356042+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -142,17 +142,17 @@ window.postsData = [
       "Key detail: A National Institutes of Health (NIH)-funded research team has discovered an enhanced CRISPR gene-editing system that could enable targeted.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "10 mai 2026",
-    "date_pt": "10 mai 2026",
-    "date_en": "10 May 2026",
-    "time": "23h02",
-    "time_pt": "23h02",
-    "time_en": "23:02 UTC",
+    "date": "11 mai 2026",
+    "date_pt": "11 mai 2026",
+    "date_en": "11 May 2026",
+    "time": "00h03",
+    "time_pt": "00h03",
+    "time_en": "00:03 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-10T23:02:03.774558+00:00",
-    "lastModifiedIso": "2026-05-10T23:02:03.774558+00:00",
+    "publishedIso": "2026-05-11T00:03:05.355998+00:00",
+    "lastModifiedIso": "2026-05-11T00:03:05.355998+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -257,17 +257,17 @@ window.postsData = [
       "Key detail: The NIH Clinical Center is the largest research hospital in the world.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "10 mai 2026",
-    "date_pt": "10 mai 2026",
-    "date_en": "10 May 2026",
-    "time": "23h02",
-    "time_pt": "23h02",
-    "time_en": "23:02 UTC",
+    "date": "11 mai 2026",
+    "date_pt": "11 mai 2026",
+    "date_en": "11 May 2026",
+    "time": "00h03",
+    "time_pt": "00h03",
+    "time_en": "00:03 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-10T23:02:03.774512+00:00",
-    "lastModifiedIso": "2026-05-10T23:02:03.774512+00:00",
+    "publishedIso": "2026-05-11T00:03:05.355952+00:00",
+    "lastModifiedIso": "2026-05-11T00:03:05.355952+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -362,17 +362,17 @@ window.postsData = [
       "Key detail: In a National Institutes of Health (NIH)-funded study, researchers developed a cancer assessment tool that can identify high-risk patients and.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "10 mai 2026",
-    "date_pt": "10 mai 2026",
-    "date_en": "10 May 2026",
-    "time": "23h02",
-    "time_pt": "23h02",
-    "time_en": "23:02 UTC",
+    "date": "11 mai 2026",
+    "date_pt": "11 mai 2026",
+    "date_en": "11 May 2026",
+    "time": "00h03",
+    "time_pt": "00h03",
+    "time_en": "00:03 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-10T23:02:03.774468+00:00",
-    "lastModifiedIso": "2026-05-10T23:02:03.774468+00:00",
+    "publishedIso": "2026-05-11T00:03:05.355909+00:00",
+    "lastModifiedIso": "2026-05-11T00:03:05.355909+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -467,17 +467,17 @@ window.postsData = [
       "Key detail: NIH-supported study is largest ever to compare fluid interventions to prevent major kidney damage in children treated for septic shock.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "10 mai 2026",
-    "date_pt": "10 mai 2026",
-    "date_en": "10 May 2026",
-    "time": "23h02",
-    "time_pt": "23h02",
-    "time_en": "23:02 UTC",
+    "date": "11 mai 2026",
+    "date_pt": "11 mai 2026",
+    "date_en": "11 May 2026",
+    "time": "00h03",
+    "time_pt": "00h03",
+    "time_en": "00:03 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-10T23:02:03.774420+00:00",
-    "lastModifiedIso": "2026-05-10T23:02:03.774420+00:00",
+    "publishedIso": "2026-05-11T00:03:05.355860+00:00",
+    "lastModifiedIso": "2026-05-11T00:03:05.355860+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -2186,111 +2186,6 @@ window.postsData = [
   },
   {
     "id": 19,
-    "slug": "a-preliminary-exploration-of-the-effects-of-baseline-length-for-the-life-space-mission",
-    "cat": "Exoplanetas",
-    "catCls": "exoplanetas",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Artist%E2%80%99s_impression_of_an_exoplanet.jpg/1280px-Artist%E2%80%99s_impression_of_an_exoplanet.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Uma exploração preliminar dos efeitos do comprimento da linha de base para a missão espacial LIFE",
-    "title_pt": "Uma exploração preliminar dos efeitos do comprimento da linha de base para a missão espacial LIFE",
-    "title_en": "A preliminary exploration of the effects of baseline length for the LIFE space mission",
-    "sub": "Com o objetivo de encontrar e caracterizar dezenas de exoplanetas habitáveis ​​através da técnica de anulação da interferometria, a missão espacial LIFE produzirá ciência.",
-    "sub_pt": "Com o objetivo de encontrar e caracterizar dezenas de exoplanetas habitáveis ​​através da técnica de anulação da interferometria, a missão espacial LIFE produzirá ciência.",
-    "sub_en": "By aiming to find and characterise dozens of habitable exoplanets through the technique of nulling interferometry, the LIFE space mission will produce transformational science.",
-    "excerpt": "Com o objetivo de encontrar e caracterizar dezenas de exoplanetas habitáveis ​​através da técnica de anulação da interferometria, a missão espacial LIFE produzirá ciência transformacional. Um dos parâmetros-chave para tal missão interferométrica.",
-    "excerpt_pt": "Com o objetivo de encontrar e caracterizar dezenas de exoplanetas habitáveis ​​através da técnica de anulação da interferometria, a missão espacial LIFE produzirá ciência transformacional. Um dos parâmetros-chave para tal missão interferométrica.",
-    "excerpt_en": "By aiming to find and characterise dozens of habitable exoplanets through the technique of nulling interferometry, the LIFE space mission will produce transformational science. One of the key parameters for such an interferometric mission.",
-    "body": "<p>Com o objetivo de encontrar e caracterizar dezenas de exoplanetas habitáveis ​​através da técnica de anulação da interferometria, a missão espacial LIFE produzirá ciência transformacional. Um dos parâmetros-chave para tal missão interferométrica. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os avanços nas estatísticas de ocorrência de planetas e nas ferramentas de simulação permitem-nos agora revisitar esta chave. Um dos principais parâmetros para tal missão interferométrica é o comprimento da linha de base anulada, a distância entre as aberturas anuladas, que estudos anteriores presumiram.</p><p>Os avanços nas estatísticas de ocorrência planetária e nas ferramentas de simulação permitem-nos agora revisitar esta suposição fundamental com significativamente mais detalhes. Utilizamos o simulador de missão LIFEsim juntamente com ferramentas matemáticas revisadas para identificar se o intervalo de linhas de base poderia ser reduzido sem afetar.</p><p>Ao longo do caminho, também determinamos uma nova técnica com motivação astrofísica para escolher quais linhas de base são ideais para um determinado objetivo científico.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2605.06648v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Com o objetivo de encontrar e caracterizar dezenas de exoplanetas habitáveis ​​através da técnica de anulação da interferometria, a missão espacial LIFE produzirá ciência transformacional. Um dos parâmetros-chave para tal missão interferométrica. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os avanços nas estatísticas de ocorrência de planetas e nas ferramentas de simulação permitem-nos agora revisitar esta chave. Um dos principais parâmetros para tal missão interferométrica é o comprimento da linha de base anulada, a distância entre as aberturas anuladas, que estudos anteriores presumiram.</p><p>Os avanços nas estatísticas de ocorrência planetária e nas ferramentas de simulação permitem-nos agora revisitar esta suposição fundamental com significativamente mais detalhes. Utilizamos o simulador de missão LIFEsim juntamente com ferramentas matemáticas revisadas para identificar se o intervalo de linhas de base poderia ser reduzido sem afetar.</p><p>Ao longo do caminho, também determinamos uma nova técnica com motivação astrofísica para escolher quais linhas de base são ideais para um determinado objetivo científico.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2605.06648v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>By aiming to find and characterise dozens of habitable exoplanets through the technique of nulling interferometry, the LIFE space mission will produce transformational science. One of the key parameters for such an interferometric mission. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. Advances in planet occurrence statistics and simulation tools allow us now to revisit this key. One of the key parameters for such an interferometric mission is the nulling baseline length, the distance between nulled apertures, which past studies have assumed to be 10-100m.</p><p>Advances in planet occurrence statistics and simulation tools allow us now to revisit this key assumption with significantly more detail, particularly with the intention to reduce. We utilise the LIFEsim mission simulator along with revised mathematical tools to identify whether the range of baselines could be reduced without significantly affecting planet.</p><p>Along the way, we also determine a new astrophysically motivated technique for choosing which baselines are optimal for a given science target. We find that indeed, LIFE could utilise a considerably shorter range of baselines, such as 25-80m, or even discrete baselines without much (&lt;10%) loss of performance.</p><p>Nevertheless, careful trade-offs between performance and implementation simplification must be made, especially considering any spectral weighting that may be required by the. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>ArXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv&#x27;s community.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2605.06648v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Com o objetivo de encontrar e caracterizar dezenas de exoplanetas habitáveis ​​através da técnica de anulação da interferometria, a missão espacial.",
-      "Dado-chave: Os avanços nas estatísticas de ocorrência de planetas e nas ferramentas de simulação permitem-nos agora revisitar esta chave.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_pt": [
-      "Ponto central: Com o objetivo de encontrar e caracterizar dezenas de exoplanetas habitáveis ​​através da técnica de anulação da interferometria, a missão espacial.",
-      "Dado-chave: Os avanços nas estatísticas de ocorrência de planetas e nas ferramentas de simulação permitem-nos agora revisitar esta chave.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_en": [
-      "Core point: By aiming to find and characterise dozens of habitable exoplanets through the technique of nulling interferometry, the LIFE space mission will.",
-      "Key detail: Advances in planet occurrence statistics and simulation tools allow us now to revisit this key.",
-      "Result not yet peer reviewed."
-    ],
-    "date": "07 mai 2026",
-    "date_pt": "07 mai 2026",
-    "date_en": "07 May 2026",
-    "time": "17h55",
-    "time_pt": "17h55",
-    "time_en": "17:55 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-07T17:55:09+00:00",
-    "lastModifiedIso": "2026-05-07T17:55:09+00:00",
-    "source": "arXiv Astrophysics",
-    "sourceDomain": "arxiv.org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint ainda sem revisão por pares.",
-    "sourceNote_pt": "Preprint ainda sem revisão por pares.",
-    "sourceNote_en": "Preprint not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Exoplanetas",
-      "arXiv Astrophysics",
-      "Cosmos Week",
-      "Uma exploração preliminar dos efeitos do comprimento da linha de base para a missão espacial LIFE"
-    ],
-    "keywords_pt": [
-      "Exoplanetas",
-      "arXiv Astrophysics",
-      "Cosmos Week",
-      "Uma exploração preliminar dos efeitos do comprimento da linha de base para a missão espacial LIFE"
-    ],
-    "keywords_en": [
-      "Exoplanets",
-      "arXiv Astrophysics",
-      "Cosmos Week",
-      "A preliminary exploration of the effects of baseline length for the LIFE space mission"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2605.06648v1",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=a-preliminary-exploration-of-the-effects-of-baseline-length-for-the-life-space-mission",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=a-preliminary-exploration-of-the-effects-of-baseline-length-for-the-life-space-mission",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=a-preliminary-exploration-of-the-effects-of-baseline-length-for-the-life-space-mission&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 68,
-    "scoreBreakdown": {
-      "source": 56,
-      "evidence": 64,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
-    "id": 20,
     "slug": "non-rotating-early-galaxy-is-a-surprise-to-astronomers",
     "cat": "Física",
     "catCls": "fisica",
@@ -2423,7 +2318,7 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
+    "id": 20,
     "slug": "lonely-jupiter-like-planet-900-light-years-away-tells-us-more-about-gas-giants",
     "cat": "Física",
     "catCls": "fisica",
@@ -2565,7 +2460,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 21,
     "slug": "nsf-launches-100m-national-quantum-and-nanotechnology-research-infrastructure-program",
     "cat": "Física",
     "catCls": "fisica",
@@ -2670,7 +2565,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 22,
     "slug": "esa-and-jaxa-team-up-on-planetary-defence-ramses-mission-to-asteroid-apophis",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2809,7 +2704,7 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
+    "id": 23,
     "slug": "meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2936,7 +2831,7 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 24,
     "slug": "smile-set-to-launch-on-19-may",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3041,7 +2936,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 25,
     "slug": "plato-aces-space-like-tests",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3146,7 +3041,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 26,
     "slug": "nasa-s-spacex-34th-commercial-resupply-mission-overview",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3251,7 +3146,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 27,
     "slug": "nasa-industry-advance-high-performance-spaceflight-computing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3359,7 +3254,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 28,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3495,7 +3390,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 29,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3622,7 +3517,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 30,
     "slug": "science-release-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3758,12 +3653,40 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 31,
     "slug": "webb-hubble-find-massive-star-clusters-emerge-faster",
     "cat": "Biologia",
     "catCls": "biologia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/star-forming_regions_in_m51/27255538-1-eng-GB/Star-forming_regions_in_M51_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/star-forming_regions_in_m51/27255538-1-eng-GB/Star-forming_regions_in_M51_article.jpg",
+        "caption": "Regiões de formação de estrelas em M51",
+        "caption_pt": "Regiões de formação de estrelas em M51",
+        "caption_en": "Star-forming regions in M51",
+        "alt": "Regiões de formação de estrelas em M51",
+        "alt_pt": "Regiões de formação de estrelas em M51",
+        "alt_en": "Star-forming regions in M51"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/star-forming_region_in_m51_close-up/27255632-1-eng-GB/Star-forming_region_in_M51_close-up_article.jpg",
+        "caption": "Região de formação estelar em M51 (close-up)",
+        "caption_pt": "Região de formação estelar em M51 (close-up)",
+        "caption_en": "Star-forming region in M51 (close-up)",
+        "alt": "Região de formação estelar em M51 (close-up)",
+        "alt_pt": "Região de formação estelar em M51 (close-up)",
+        "alt_en": "Star-forming region in M51 (close-up)"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/nearby_star-forming_feast_galaxies/27255679-1-eng-GB/Nearby_star-forming_FEAST_galaxies_article.jpg",
+        "caption": "Galáxias FEAST próximas em formação de estrelas",
+        "caption_pt": "Galáxias FEAST próximas em formação de estrelas",
+        "caption_en": "Nearby star-forming FEAST galaxies",
+        "alt": "Galáxias FEAST próximas em formação de estrelas",
+        "alt_pt": "Galáxias FEAST próximas em formação de estrelas",
+        "alt_en": "Nearby star-forming FEAST galaxies"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Webb e Hubble descobrem que aglomerados estelares massivos emergem mais rápido",
@@ -3775,22 +3698,22 @@ window.postsData = [
     "excerpt": "Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de aglomerados de estrelas jovens em quatro galáxias próximas, estudando aglomerados em.",
     "excerpt_pt": "Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de aglomerados de estrelas jovens em quatro galáxias próximas, estudando aglomerados em.",
     "excerpt_en": "Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of young star clusters in four nearby galaxies, studying clusters at different stages of.",
-    "body": "<p>Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de aglomerados de estrelas jovens em quatro galáxias próximas, estudando aglomerados em diferentes estágios. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. O resultado nos dá uma melhor compreensão. Os astrónomos utilizaram o Telescópio Espacial James Webb da NASA/ESA/CSA em conjunto com o Telescópio Espacial Hubble da NASA/ESA observaram profundamente milhares de enxames.</p><p>As suas descobertas mostram que enxames estelares mais massivos emergem mais rapidamente das nuvens onde nascem, eliminando o gás e enchendo a galáxia com luz ultravioleta. O resultado dá-nos uma melhor compreensão da formação estelar nas galáxias, bem como de como e onde os planetas se podem formar.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de aglomerados de estrelas jovens em quatro galáxias próximas, estudando aglomerados em diferentes estágios. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. O resultado nos dá uma melhor compreensão. Os astrónomos utilizaram o Telescópio Espacial James Webb da NASA/ESA/CSA em conjunto com o Telescópio Espacial Hubble da NASA/ESA observaram profundamente milhares de enxames.</p><p>As suas descobertas mostram que enxames estelares mais massivos emergem mais rapidamente das nuvens onde nascem, eliminando o gás e enchendo a galáxia com luz ultravioleta. O resultado dá-nos uma melhor compreensão da formação estelar nas galáxias, bem como de como e onde os planetas se podem formar.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of young star clusters in four nearby galaxies, studying clusters at different stages of. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. The result gives us a better understanding. Their findings show that more massive star clusters emerge more quickly from the clouds they are born in, clearing away gas and filling the galaxy with ultraviolet light.</p><p>The result gives us a better understanding of star formation in galaxies, as well as how and where planets can form.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de aglomerados de estrelas jovens em quatro galáxias próximas, estudando aglomerados em diferentes estágios. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Os astrónomos utilizaram o Telescópio Espacial James Webb da NASA/ESA/CSA em conjunto com o Telescópio Espacial Hubble da NASA/ESA observaram profundamente milhares de enxames. Ao observar galáxias próximas, os astrónomos podem estudar milhares de regiões de formação estelar e caracterizar populações inteiras de enxames estelares em muitas fases de.</p><p>Agora, o estado da arte foi desenvolvido com o Hubble e o Webb trabalhando juntos para fornecer uma visão de amplo espectro de milhares de aglomerados de estrelas jovens. Uma equipe internacional de astrônomos se debruçou sobre imagens de quatro galáxias próximas, Messier 51, Messier 83, NGC 4449, e NGC 628, do programa de observação FEAST (#1783).</p><p>Os seus resultados, publicados hoje na Nature Astronomy, mostram que são os enxames estelares mais massivos que eliminam a sua mortalha gasosa mais rapidamente e começam a. A equipe identificou quase 9.000 aglomerados estelares nas quatro galáxias em diferentes estágios evolutivos: aglomerados jovens que estão apenas começando a emergir de suas.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram profundamente milhares de aglomerados de estrelas jovens em quatro galáxias próximas, estudando aglomerados em diferentes estágios. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Os astrónomos utilizaram o Telescópio Espacial James Webb da NASA/ESA/CSA em conjunto com o Telescópio Espacial Hubble da NASA/ESA observaram profundamente milhares de enxames. Ao observar galáxias próximas, os astrónomos podem estudar milhares de regiões de formação estelar e caracterizar populações inteiras de enxames estelares em muitas fases de.</p><p>Agora, o estado da arte foi desenvolvido com o Hubble e o Webb trabalhando juntos para fornecer uma visão de amplo espectro de milhares de aglomerados de estrelas jovens. Uma equipe internacional de astrônomos se debruçou sobre imagens de quatro galáxias próximas, Messier 51, Messier 83, NGC 4449, e NGC 628, do programa de observação FEAST (#1783).</p><p>Os seus resultados, publicados hoje na Nature Astronomy, mostram que são os enxames estelares mais massivos que eliminam a sua mortalha gasosa mais rapidamente e começam a. A equipe identificou quase 9.000 aglomerados estelares nas quatro galáxias em diferentes estágios evolutivos: aglomerados jovens que estão apenas começando a emergir de suas.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of young star clusters in four nearby galaxies, studying clusters at different stages of. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. By observing nearby galaxies, astronomers can survey thousands of star-forming regions and characterise entire populations of star clusters at many stages of evolution, a feat. Now, the state of the art has been further developed with both Hubble and Webb working together to provide a broad-spectrum view of thousands of young star clusters.</p><p>An international team of astronomers has pored over images of four nearby galaxies, Messier 51, Messier 83, NGC 4449, and NGC 628, from the FEAST observing programme (# 1783 ). Their results, published today in Nature Astronomy, show that it is the most massive star clusters that clear away their gaseous shroud the fastest, and begin lighting their.</p><p>The team identified nearly 9000 star clusters in the four galaxies in different evolutionary stages: young clusters just starting to emerge from their natal clouds of gas. With Webb’s ability to peer inside the gas clouds, they were able to then estimate the mass and age of each cluster from its light spectrum.</p><p>The most massive clusters had fully emerged and dispersed the clouds of gas after around five million years, while less massive clusters were between seven and eight million years. These results give us important new constraints on that process,” explained Angela Adamo of Stockholm University and the Oskar Klein Centre in Sweden, a lead author on the study.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>The faster gas is cleared away within a star cluster, the earlier protoplanetary discs around stars are exposed to harsh ultraviolet radiation from other stars, and the less. Under an international collaboration agreement, ESA provided the telescope’s launch service, using the Ariane 5 launch vehicle.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram.",
-      "Dado-chave: O resultado nos dá uma melhor compreensão.",
+      "Dado-chave: Os astrónomos utilizaram o Telescópio Espacial James Webb da NASA/ESA/CSA em conjunto com o Telescópio Espacial Hubble da NASA/ESA observaram.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Astrônomos que usaram o Telescópio Espacial James Webb da NASA/ESA/CSA, juntamente com o Telescópio Espacial Hubble da NASA/ESA, observaram.",
-      "Dado-chave: O resultado nos dá uma melhor compreensão.",
+      "Dado-chave: Os astrónomos utilizaram o Telescópio Espacial James Webb da NASA/ESA/CSA em conjunto com o Telescópio Espacial Hubble da NASA/ESA observaram.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of.",
-      "Key detail: The result gives us a better understanding.",
+      "Key detail: Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "06 mai 2026",
@@ -3863,7 +3786,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 32,
     "slug": "nsf-doe-vera-c-rubin-observatory-launches-real-time-discovery-machine-for-monitoring-the-night-s",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3971,7 +3894,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 33,
     "slug": "tracy-arm-s-post-tsunami-landscape",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4107,7 +4030,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 34,
     "slug": "this-week-s-sky-at-a-glance-may-8-17",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4243,7 +4166,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 35,
     "slug": "spacex-booster-will-hit-the-moon-this-august",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4376,7 +4299,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 36,
     "slug": "astronomers-spot-possible-missing-link-to-webb-s-little-red-dots",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4509,7 +4432,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 37,
     "slug": "nasa-names-brian-hughes-to-launch-operations-role",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4614,7 +4537,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 38,
     "slug": "questar-ceases-operations",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4747,7 +4670,7 @@ window.postsData = [
     }
   },
   {
-    "id": 40,
+    "id": 39,
     "slug": "how-to-see-the-northern-crown-corona-borealis",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4842,6 +4765,121 @@ window.postsData = [
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=how-to-see-the-northern-crown-corona-borealis",
     "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=how-to-see-the-northern-crown-corona-borealis",
     "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=how-to-see-the-northern-crown-corona-borealis&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 73,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 40,
+    "slug": "will-the-blaze-star-explode-in-2026-how-to-see-it",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/x.svg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "A Blaze Star explodirá em 2026? Como ver isso",
+    "title_pt": "A Blaze Star explodirá em 2026? Como ver isso",
+    "title_en": "Will the Blaze Star explode in 2026? How to see it",
+    "sub": "Ainda estamos esperando que o Blaze Star se torne nova! Isso acontecerá em 2026? Veja como encontrar a Corona Borealis para que você esteja pronto quando esta estrela se.",
+    "sub_pt": "Ainda estamos esperando que o Blaze Star se torne nova! Isso acontecerá em 2026? Veja como encontrar a Corona Borealis para que você esteja pronto quando esta estrela se.",
+    "sub_en": "We're still waiting for the Blaze Star to go nova! Will it happen in 2026? Here's how to find Corona Borealis so you're ready when this star goes kablooey. The post Will the Blaze.",
+    "excerpt": "Ainda estamos esperando que o Blaze Star se torne nova! Isso acontecerá em 2026? Veja como encontrar a Corona Borealis para que você esteja pronto quando esta estrela se transformar em kablooey. O post O Blaze Star explodirá em 2026? Como ver apareceu pela.",
+    "excerpt_pt": "Ainda estamos esperando que o Blaze Star se torne nova! Isso acontecerá em 2026? Veja como encontrar a Corona Borealis para que você esteja pronto quando esta estrela se transformar em kablooey. O post O Blaze Star explodirá em 2026? Como ver apareceu pela.",
+    "excerpt_en": "We're still waiting for the Blaze Star to go nova! Will it happen in 2026? Here's how to find Corona Borealis so you're ready when this star goes kablooey. The post Will the Blaze Star explode in 2026? How to see it first appeared on.",
+    "body": "<p>Ainda estamos esperando que o Blaze Star se torne nova! Isso acontecerá em 2026? Veja como encontrar a Corona Borealis para que você esteja pronto quando esta estrela se transformar em kablooey. O post O Blaze Star explodirá em 2026? Como ver apareceu pela primeira vez em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. | Paul Henkiel de Flagstaff, Arizona, capturou esta imagem em 30 de abril de 2024. Encontre a Corona Borealis do Hemisfério Sul Via Daniel Gaussen, Fundador e Guia, Stargaze Mackenzie, Nova Zelândia Todos vivemos sob o mesmo céu.</p><p>Mas os hemisférios norte e sul da Terra veem o céu de diferentes perspectivas. Das profundezas do Hemisfério Sul, por exemplo, da latitude da Nova Zelândia e do sul da Austrália, a Corona Borealis sobe apenas cerca de 20 a 25 graus acima do horizonte norte.</p><p>T Coronae Borealis, chamada de “T Cor Bor” por muitos, está localizada a cerca de 3.000 anos-luz da Terra. É um sistema estelar duplo, composto por uma estrela grande e fria e uma estrela quente e menor, que orbitam uma à outra a cada 228 dias.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/blaze-star-nova-corona-borealis-how-to-see-it/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Ainda estamos esperando que o Blaze Star se torne nova! Isso acontecerá em 2026? Veja como encontrar a Corona Borealis para que você esteja pronto quando esta estrela se transformar em kablooey. O post O Blaze Star explodirá em 2026? Como ver apareceu pela primeira vez em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. | Paul Henkiel de Flagstaff, Arizona, capturou esta imagem em 30 de abril de 2024. Encontre a Corona Borealis do Hemisfério Sul Via Daniel Gaussen, Fundador e Guia, Stargaze Mackenzie, Nova Zelândia Todos vivemos sob o mesmo céu.</p><p>Mas os hemisférios norte e sul da Terra veem o céu de diferentes perspectivas. Das profundezas do Hemisfério Sul, por exemplo, da latitude da Nova Zelândia e do sul da Austrália, a Corona Borealis sobe apenas cerca de 20 a 25 graus acima do horizonte norte.</p><p>T Coronae Borealis, chamada de “T Cor Bor” por muitos, está localizada a cerca de 3.000 anos-luz da Terra. É um sistema estelar duplo, composto por uma estrela grande e fria e uma estrela quente e menor, que orbitam uma à outra a cada 228 dias.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/blaze-star-nova-corona-borealis-how-to-see-it/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>We&#x27;re still waiting for the Blaze Star to go nova! Will it happen in 2026? Here&#x27;s how to find Corona Borealis so you&#x27;re ready when this star goes kablooey. The post Will the Blaze Star explode in 2026? How to see it first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. | Paul Henkiel of Flagstaff, Arizona, captured this image on April 30, 2024. Find Corona Borealis from the Southern Hemisphere Via Daniel Gaussen, Founder &amp; Guide, Stargaze Mackenzie, New Zealand We all live under the same sky.</p><p>But Earth’s Northern and Southern Hemispheres see the sky from different perspectives. From deep in the Southern Hemisphere, for example, the latitude of New Zealand and southern Australia, Corona Borealis rises to only around 20 to 25 degrees above the northern.</p><p>T Coronae Borealis, called “T Cor Bor” by many, is located about 3,000 light-years from Earth. It’s a double star system, consisting of a large cool star and a smaller hot star, which orbit each other every 228 days.</p><p>Periodically, it “can’t take no more” and explodes, about every 80 years. One recent prediction came from Jean Schneider of the Paris Observatory, publishing in the Research Notes of the American Astronomical Society in October 2024.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>He pinpointed possible dates of March 27, 2025, and November 10, 2025. So scientists thought that, in another 80 years, the star would erupt again.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/blaze-star-nova-corona-borealis-how-to-see-it/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Ainda estamos esperando que o Blaze Star se torne nova! Isso acontecerá em 2026? Veja como encontrar a Corona Borealis para que você esteja pronto.",
+      "Dado-chave: | Paul Henkiel de Flagstaff, Arizona, capturou esta imagem em 30 de abril de 2024.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Ainda estamos esperando que o Blaze Star se torne nova! Isso acontecerá em 2026? Veja como encontrar a Corona Borealis para que você esteja pronto.",
+      "Dado-chave: | Paul Henkiel de Flagstaff, Arizona, capturou esta imagem em 30 de abril de 2024.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: We're still waiting for the Blaze Star to go nova! Will it happen in 2026? Here's how to find Corona Borealis so you're ready when this star goes.",
+      "Key detail: | Paul Henkiel of Flagstaff, Arizona, captured this image on April 30, 2024.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "10 mai 2026",
+    "date_pt": "10 mai 2026",
+    "date_en": "10 May 2026",
+    "time": "09h30",
+    "time_pt": "09h30",
+    "time_en": "09:30 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-10T09:30:56+00:00",
+    "lastModifiedIso": "2026-05-10T09:30:56+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "A Blaze Star explodirá em 2026? Como ver isso"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "A Blaze Star explodirá em 2026? Como ver isso"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "Will Blaze Star explode in 2026? How to see this"
+    ],
+    "srcUrl": "https://earthsky.org/space/blaze-star-nova-corona-borealis-how-to-see-it/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=will-the-blaze-star-explode-in-2026-how-to-see-it",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=will-the-blaze-star-explode-in-2026-how-to-see-it",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=will-the-blaze-star-explode-in-2026-how-to-see-it&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",

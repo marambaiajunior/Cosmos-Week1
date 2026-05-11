@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 11:36:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 14:06:33 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>Modelo de cuidados de baixo custo reduz a pressão arterial em populações de alto risco</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=low-cost-care-model-reduces-blood-pressure-in-high-risk-populations</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=low-cost-care-model-reduces-blood-pressure-in-high-risk-populations</guid>
-              <pubDate>Mon, 11 May 2026 11:33:12 +0000</pubDate>
+              <pubDate>Mon, 11 May 2026 14:04:24 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ensaio clínico apoiado pelo NIH mostra que a estratégia de cuidados coordenados é mais eficaz do que os cuidados padrão</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de cuidados de baixo custo reduz a pressão arterial em populações de alto risco</category>
@@ -21,7 +21,7 @@
               <title>Avanço financiado pelo NIH reduz o CRISPR para entrega precisa no corpo</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-breakthrough-shrinks-crispr-for-precision-delivery-in-the-body</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-breakthrough-shrinks-crispr-for-precision-delivery-in-the-body</guid>
-              <pubDate>Mon, 11 May 2026 11:33:12 +0000</pubDate>
+              <pubDate>Mon, 11 May 2026 14:04:24 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Avanço financiado pelo NIH reduz o CRISPR para entrega precisa no corpo</category>
@@ -31,7 +31,7 @@
               <title>Dr. Jonathan M. Green selecionado como CEO do NIH Clinical Center</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=dr-jonathan-m-green-selected-as-ceo-of-the-nih-clinical-center</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=dr-jonathan-m-green-selected-as-ceo-of-the-nih-clinical-center</guid>
-              <pubDate>Mon, 11 May 2026 11:33:12 +0000</pubDate>
+              <pubDate>Mon, 11 May 2026 14:04:24 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O NIH Clinical Center é o maior hospital de pesquisa do mundo.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Dr. Jonathan M. Green selecionado como CEO do NIH Clinical Center</category>
@@ -41,7 +41,7 @@
               <title>Modelo de IA financiado pelo NIH prevê sobrevivência ao câncer a partir de dados de tumores unicelulares</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-ai-model-predicts-cancer-survival-from-single-cell-tumor-data</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-ai-model-predicts-cancer-survival-from-single-cell-tumor-data</guid>
-              <pubDate>Mon, 11 May 2026 11:33:12 +0000</pubDate>
+              <pubDate>Mon, 11 May 2026 14:04:24 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Num estudo financiado pelos Institutos Nacionais de Saúde, os investigadores desenvolveram uma ferramenta de avaliação do cancro que pode identificar pacientes de alto risco e as células tumorais ligadas a esse risco.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de IA financiado pelo NIH prevê sobrevivência ao câncer a partir de dados de tumores unicelulares</category>
@@ -51,22 +51,42 @@
               <title>Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis</guid>
-              <pubDate>Mon, 11 May 2026 11:33:12 +0000</pubDate>
+              <pubDate>Mon, 11 May 2026 14:04:24 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica</category>
               <source url="https://www.nih.gov/news-events/news-releases/clinical-trial-finds-no-difference-fluid-treatment-options-pediatric-sepsis">NIH News Releases</source>
               <content:encoded>O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Um grand</content:encoded>
             </item><item>
+              <title>As intrigantes explosões de raios X de um buraco negro</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-black-hole-s-puzzling-x-ray-bursts</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=a-black-hole-s-puzzling-x-ray-bursts</guid>
+              <pubDate>Mon, 11 May 2026 13:00:00 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Em 2019, um buraco negro supermassivo acordou numa galáxia a 300 milhões de anos-luz de distância. Agora, está intrigando os astrônomos com uma desaceleração inesperada em suas explosões de raios-X. O posto Explosões intrigantes de raios-X de um buraco negro.</description>
+              <category>Astrofísica</category><category>Sky &amp; Telescope</category><category>Cosmos Week</category><category>As intrigantes explosões de raios X de um buraco negro</category>
+              <source url="https://skyandtelescope.org/astronomy-news/a-black-holes-puzzling-x-ray-bursts/">Sky &amp; Telescope</source>
+              <content:encoded>Em 2019, um buraco negro supermassivo acordou numa galáxia a 300 milhões de anos-luz de distância. Agora, está intrigando os astrônomos com uma desaceleração inesperada em suas explosões de raios-X. O posto Explosões intrigantes de raios-X de um buraco negro apareceu pela. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sina</content:encoded>
+            </item><item>
+              <title>Novo modelo encontra o limite inferior de tamanho para exoplanetas habitáveis</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=new-model-finds-the-lower-size-limit-for-habitable-exoplanets</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=new-model-finds-the-lower-size-limit-for-habitable-exoplanets</guid>
+              <pubDate>Mon, 11 May 2026 11:53:58 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>A busca pela Terra 2.0 começou para valer. Mas há uma enorme variedade de exoplanetas por aí, por isso é fundamental restringir a pesquisa para concentrar o valioso tempo do telescópio apenas nos melhores candidatos. Uma variável de um planeta que irá.</description>
+              <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>Novo modelo encontra o limite inferior de tamanho para exoplanetas habitáveis</category>
+              <source url="https://www.universetoday.com/articles/new-model-finds-the-lower-size-limit-for-habitable-exoplanets">Universe Today</source>
+              <content:encoded>A busca pela Terra 2.0 começou para valer. Mas há uma enorme variedade de exoplanetas por aí, por isso é fundamental restringir a pesquisa para concentrar o valioso tempo do telescópio apenas nos melhores candidatos. Uma variável de um planeta que irá. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros com</content:encoded>
+            </item><item>
               <title>Notícias do Sol: erupção M5, material solar pode atingir a Terra</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-m5-flare-erupts-sun-stuff-may-glance-earth</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-m5-flare-erupts-sun-stuff-may-glance-earth</guid>
               <pubDate>Mon, 11 May 2026 09:00:53 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>O flare M5.8 irrompe do AR4436! Uma CME rápida pode atingir a Terra em 13 de maio. Tempestade G1 e auroras possíveis no meio da semana. As notícias pós-Sol: erupção M5, material solar pode olhar para a Terra apareceu pela primeira vez no EarthSky.</description>
+              <description>Um sinalizador M5.8 irrompe do AR4436! Uma tempestade G1 e auroras são possíveis no meio da semana. Fique alerta! As notícias pós-Sol: erupção M5, material solar pode olhar para a Terra apareceu pela primeira vez no EarthSky.</description>
               <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>Notícias do Sol</category>
               <source url="https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/">EarthSky</source>
-              <content:encoded>O flare M5.8 irrompe do AR4436! Uma CME rápida pode atingir a Terra em 13 de maio. Tempestade G1 e auroras possíveis no meio da semana. As notícias pós-Sol: erupção M5, material solar pode olhar para a Terra apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permite</content:encoded>
+              <content:encoded>Um sinalizador M5.8 irrompe do AR4436! Uma tempestade G1 e auroras são possíveis no meio da semana. Fique alerta! As notícias pós-Sol: erupção M5, material solar pode olhar para a Terra apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidad</content:encoded>
             </item><item>
               <title>Astrônomos encontram uma chave de raios X para o mistério do ponto vermelho</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-find-an-x-ray-key-to-the-red-dot-mystery</link>
@@ -88,25 +108,15 @@
               <source url="https://phys.org/news/2026-05-radio-telescopes-million-year-halo.html">Phys.org Space</source>
               <content:encoded>Os astrônomos empregaram o Radiotelescópio Giant Metrewave atualizado e o Radiotelescópio MeerKAT para observar um aglomerado de galáxias conhecido como RXCJ0232, 4420. Resultados das novas observações, publicados em 29 de abril no servidor de pré-impressão arXiv. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um re</content:encoded>
             </item><item>
-              <title>Hubble captura um vizinho cósmico em espiral estrelada</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=hubble-capture-a-starry-spiral-cosmic-neighbor</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=hubble-capture-a-starry-spiral-cosmic-neighbor</guid>
-              <pubDate>Sun, 10 May 2026 17:41:41 +0000</pubDate>
+              <title>Conheça a frota: NASA Armstrong continua o legado da pesquisa de voo</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research</guid>
+              <pubDate>Thu, 07 May 2026 23:45:41 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Uma galáxia espiral vista de perto e inclinada em um ângulo, de modo que seu disco preencha a vista de canto a canto. Seu disco é amarelo perto do centro e azul claro mais longe, mostrando estrelas mais frias e mais quentes, respectivamente. Finas nuvens.</description>
-              <category>Astronomia</category><category>Universe Today</category><category>Cosmos Week</category><category>Hubble captura um vizinho cósmico em espiral estrelada</category>
-              <source url="https://www.universetoday.com/articles/hubble-capture-a-starry-spiral-cosmic-neighbor">Universe Today</source>
-              <content:encoded>Uma galáxia espiral vista de perto e inclinada em um ângulo, de modo que seu disco preencha a vista de canto a canto. Seu disco é amarelo perto do centro e azul claro mais longe, mostrando estrelas mais frias e mais quentes, respectivamente. Finas nuvens marrons. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um res</content:encoded>
-            </item><item>
-              <title>"Hipergravidade" reconfigura a biologia no longo prazo</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=hypergravity-rewires-biology-over-the-long-haul</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=hypergravity-rewires-biology-over-the-long-haul</guid>
-              <pubDate>Sun, 10 May 2026 12:51:00 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Há uma sequência específica no anime Dragonball Z que por algum motivo ficou na minha cabeça por mais de duas décadas. Goku, o personagem principal do show, viaja para o planeta do Rei Kai e mal consegue se levantar quando chega porque o.</description>
-              <category>Ciências da Terra</category><category>Universe Today</category><category>Cosmos Week</category><category>"Hipergravidade" reconfigura a biologia no longo prazo</category>
-              <source url="https://www.universetoday.com/articles/hypergravity-rewires-biology-over-the-long-haul">Universe Today</source>
-              <content:encoded>Há uma sequência específica no anime Dragonball Z que por algum motivo ficou na minha cabeça por mais de duas décadas. Goku, o personagem principal do show, viaja para o planeta do Rei Kai e mal consegue se levantar quando chega porque o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar</content:encoded>
+              <description>O lar de voos experimentais da NASA está recebendo mais passageiros em sua frota já de alto desempenho, à medida que continua a apoiar missões de testes científicos e aeronáuticos, dando continuidade ao legado de pioneiros como Neil Armstrong. Armstrong da.</description>
+              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Conheça a frota</category>
+              <source url="https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/">NASA News Releases</source>
+              <content:encoded>O lar de voos experimentais da NASA está recebendo mais passageiros em sua frota já de alto desempenho, à medida que continua a apoiar missões de testes científicos e aeronáuticos, dando continuidade ao legado de pioneiros como Neil Armstrong. Armstrong da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resu</content:encoded>
             </item><item>
               <title>Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</link>
@@ -158,16 +168,6 @@
               <source url="https://phys.org/news/2026-05-roman-space-telescope-poised-elusive.html">Phys.org Space</source>
               <content:encoded>Os astrônomos sabem há muito tempo que as estrelas de nêutrons, os núcleos esmagados deixados para trás após a explosão de estrelas massivas, deveriam estar espalhadas por toda a Via Láctea. No entanto, a maioria deles é efetivamente invisível. Um novo estudo publicado em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sina</content:encoded>
             </item><item>
-              <title>Jatos de buraco negro medidos em tempo real, revelando a energia de 10.000 sóis</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=black-hole-jets-measured-in-real-time-revealing-10-000-sun-power</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=black-hole-jets-measured-in-real-time-revealing-10-000-sun-power</guid>
-              <pubDate>Sat, 09 May 2026 14:50:01 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Pela primeira vez, os cientistas mediram o poder instantâneo e alucinante dos jatos que saem de um buraco negro.</description>
-              <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Jatos de buraco negro medidos em tempo real</category>
-              <source url="https://phys.org/news/2026-04-astronomers-mind-power-black-hole.html">Phys.org Space</source>
-              <content:encoded>Pela primeira vez, os cientistas mediram o poder instantâneo e alucinante dos jatos que saem de um buraco negro. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Este artigo foi revisado d</content:encoded>
-            </item><item>
               <title>A super-Terra próxima não tem atmosfera e tem uma superfície escura semelhante à da Lua</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nearby-super-earth-has-no-atmosphere-and-a-dark-moon-like-surface</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nearby-super-earth-has-no-atmosphere-and-a-dark-moon-like-surface</guid>
@@ -188,16 +188,6 @@
               <source url="https://www.universetoday.com/articles/closing-the-exoplanet-radius-gap">Universe Today</source>
               <content:encoded>Kepler e TESS nos mostraram que existe uma lacuna no raio da população de exoplanetas. Existem muito poucos planetas entre 1,5 e 2 raios terrestres, de acordo com os dados. Mas novas pesquisas mostram que a lacuna pode não ser tão significativa quanto se pensava. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses </content:encoded>
             </item><item>
-              <title>Um novo código de equilíbrio químico global: assinaturas de elementos refratários em superterras e subnetunos</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-new-global-chemical-equilibrium-code-refractory-element-signatures-in-super-earths-and-sub-nep</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=a-new-global-chemical-equilibrium-code-refractory-element-signatures-in-super-earths-and-sub-nep</guid>
-              <pubDate>Fri, 08 May 2026 15:03:07 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>As atmosferas das super-Terras e sub-Netunos podem ser fortemente modificadas pela troca química com seus interiores fundidos durante as fases oceânicas de magma de longa vida. A interpretação de observações atmosféricas requer modelos rápidos.</description>
-              <category>Exoplanetas</category><category>arXiv Earth &amp; Planetary</category><category>Cosmos Week</category><category>Um novo código de equilíbrio químico global</category>
-              <source url="https://arxiv.org/abs/2605.07833v1">arXiv Earth &amp; Planetary</source>
-              <content:encoded>As atmosferas das super-Terras e sub-Netunos podem ser fortemente modificadas pela troca química com seus interiores fundidos durante as fases oceânicas de magma de longa vida. A interpretação de observações atmosféricas requer modelos rápidos. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isola</content:encoded>
-            </item><item>
               <title>Galáxia primitiva não rotativa é uma surpresa para os astrônomos</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=non-rotating-early-galaxy-is-a-surprise-to-astronomers</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=non-rotating-early-galaxy-is-a-surprise-to-astronomers</guid>
@@ -207,6 +197,16 @@
               <category>Física</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Galáxia primitiva não rotativa é uma surpresa para os astrônomos</category>
               <source url="https://phys.org/news/2026-05-rotating-early-galaxy-astronomers.html">Phys.org Space</source>
               <content:encoded>Astrônomos que usaram o Telescópio Espacial James Webb fizeram uma descoberta surpreendente sobre uma galáxia há muito, muito tempo atrás e muito, muito distante: ela não está girando. Isso é algo visto apenas nas galáxias mais massivas e maduras que estão mais próximas de nós. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém d</content:encoded>
+            </item><item>
+              <title>Solitário planeta parecido com Júpiter, a 900 anos-luz de distância, nos diz mais sobre gigantes gasosos</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=lonely-jupiter-like-planet-900-light-years-away-tells-us-more-about-gas-giants</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=lonely-jupiter-like-planet-900-light-years-away-tells-us-more-about-gas-giants</guid>
+              <pubDate>Sat, 09 May 2026 09:50:01 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Certa noite, no outono passado, Paul Smith, graduado em astrofísica da Universidade de Cincinnati, esperou ansiosamente que os dados começassem a rolar pela tela de seu computador vindos do Telescópio Espacial James Webb, a um milhão de quilômetros da Terra.</description>
+              <category>Física</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Solitário planeta parecido com Júpiter</category>
+              <source url="https://phys.org/news/2026-05-lonely-jupiter-planet-years-gas.html">Phys.org Space</source>
+              <content:encoded>Certa noite, no outono passado, Paul Smith, graduado em astrofísica da Universidade de Cincinnati, esperou ansiosamente que os dados começassem a rolar pela tela de seu computador vindos do Telescópio Espacial James Webb, a um milhão de quilômetros da Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas </content:encoded>
             </item>
   </channel>
 </rss>

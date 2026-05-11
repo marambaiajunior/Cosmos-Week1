@@ -40,14 +40,14 @@ window.postsData = [
     "date": "11 mai 2026",
     "date_pt": "11 mai 2026",
     "date_en": "11 May 2026",
-    "time": "08h02",
-    "time_pt": "08h02",
-    "time_en": "08:02 UTC",
+    "time": "11h33",
+    "time_pt": "11h33",
+    "time_en": "11:33 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-11T08:02:35.380300+00:00",
-    "lastModifiedIso": "2026-05-11T08:02:35.380300+00:00",
+    "publishedIso": "2026-05-11T11:33:12.885551+00:00",
+    "lastModifiedIso": "2026-05-11T11:33:12.885551+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "11 mai 2026",
     "date_pt": "11 mai 2026",
     "date_en": "11 May 2026",
-    "time": "08h02",
-    "time_pt": "08h02",
-    "time_en": "08:02 UTC",
+    "time": "11h33",
+    "time_pt": "11h33",
+    "time_en": "11:33 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-11T08:02:35.380256+00:00",
-    "lastModifiedIso": "2026-05-11T08:02:35.380256+00:00",
+    "publishedIso": "2026-05-11T11:33:12.885506+00:00",
+    "lastModifiedIso": "2026-05-11T11:33:12.885506+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -260,14 +260,14 @@ window.postsData = [
     "date": "11 mai 2026",
     "date_pt": "11 mai 2026",
     "date_en": "11 May 2026",
-    "time": "08h02",
-    "time_pt": "08h02",
-    "time_en": "08:02 UTC",
+    "time": "11h33",
+    "time_pt": "11h33",
+    "time_en": "11:33 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-11T08:02:35.380213+00:00",
-    "lastModifiedIso": "2026-05-11T08:02:35.380213+00:00",
+    "publishedIso": "2026-05-11T11:33:12.885461+00:00",
+    "lastModifiedIso": "2026-05-11T11:33:12.885461+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -365,14 +365,14 @@ window.postsData = [
     "date": "11 mai 2026",
     "date_pt": "11 mai 2026",
     "date_en": "11 May 2026",
-    "time": "08h02",
-    "time_pt": "08h02",
-    "time_en": "08:02 UTC",
+    "time": "11h33",
+    "time_pt": "11h33",
+    "time_en": "11:33 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-11T08:02:35.380168+00:00",
-    "lastModifiedIso": "2026-05-11T08:02:35.380168+00:00",
+    "publishedIso": "2026-05-11T11:33:12.885417+00:00",
+    "lastModifiedIso": "2026-05-11T11:33:12.885417+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -470,14 +470,14 @@ window.postsData = [
     "date": "11 mai 2026",
     "date_pt": "11 mai 2026",
     "date_en": "11 May 2026",
-    "time": "08h02",
-    "time_pt": "08h02",
-    "time_en": "08:02 UTC",
+    "time": "11h33",
+    "time_pt": "11h33",
+    "time_en": "11:33 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-11T08:02:35.380110+00:00",
-    "lastModifiedIso": "2026-05-11T08:02:35.380110+00:00",
+    "publishedIso": "2026-05-11T11:33:12.885354+00:00",
+    "lastModifiedIso": "2026-05-11T11:33:12.885354+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -538,6 +538,127 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "sun-news-m5-flare-erupts-sun-stuff-may-glance-earth",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2026/05/M5.8-eruption-May-11-2026-SDO-171.webp",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Notícias do Sol: erupção M5, material solar pode atingir a Terra",
+    "title_pt": "Notícias do Sol: erupção M5, material solar pode atingir a Terra",
+    "title_en": "Sun news: M5 flare erupts, sun-stuff may glance Earth",
+    "sub": "O flare M5.8 irrompe do AR4436! Uma CME rápida pode atingir a Terra em 13 de maio. Tempestade G1 e auroras possíveis no meio da semana. As notícias pós-Sol: erupção M5, material.",
+    "sub_pt": "O flare M5.8 irrompe do AR4436! Uma CME rápida pode atingir a Terra em 13 de maio. Tempestade G1 e auroras possíveis no meio da semana. As notícias pós-Sol: erupção M5, material.",
+    "sub_en": "M5.8 flare erupts from AR4436! A fast CME may glance Earth on May 13. G1 storm and auroras possible midweek. The post Sun news: M5 flare erupts, sun-stuff may glance Earth first.",
+    "excerpt": "O flare M5.8 irrompe do AR4436! Uma CME rápida pode atingir a Terra em 13 de maio. Tempestade G1 e auroras possíveis no meio da semana. As notícias pós-Sol: erupção M5, material solar pode olhar para a Terra apareceu pela primeira vez no EarthSky.",
+    "excerpt_pt": "O flare M5.8 irrompe do AR4436! Uma CME rápida pode atingir a Terra em 13 de maio. Tempestade G1 e auroras possíveis no meio da semana. As notícias pós-Sol: erupção M5, material solar pode olhar para a Terra apareceu pela primeira vez no EarthSky.",
+    "excerpt_en": "M5.8 flare erupts from AR4436! A fast CME may glance Earth on May 13. G1 storm and auroras possible midweek. The post Sun news: M5 flare erupts, sun-stuff may glance Earth first appeared on EarthSky.",
+    "body": "<p>O flare M5.8 irrompe do AR4436! Uma CME rápida pode atingir a Terra em 13 de maio. Tempestade G1 e auroras possíveis no meio da semana. As notícias pós-Sol: erupção M5, material solar pode olhar para a Terra apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Este vídeo do Solar Dynamics Observatory (SDO) da NASA mostra a explosão M5.8 do AR4436 às 13: 19 UTC de 10 de maio. Esta erupção lançou uma rápida ejeção de massa coronal (CME) que pode desferir um golpe de raspão na Terra por volta de 13 de maio.</p><p>O clarão M5 irrompe, a matéria solar pode olhar para a Terra. A principal notícia de hoje: O sol acaba de disparar seu clarão mais forte em dias. A maior parte do material ejetado está se afastando da Terra, mas nosso planeta poderá receber um golpe de raspão no início de 13 de maio.</p><p>Regiões de manchas solares O disco solar voltado para a Terra mostrou 5 regiões ativas numeradas. Ele apareceu pela primeira vez às 13h48 UTC de 10 de maio, irrompendo no membro leste nas imagens LASCO C2 da espaçonave SOHO.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O flare M5.8 irrompe do AR4436! Uma CME rápida pode atingir a Terra em 13 de maio. Tempestade G1 e auroras possíveis no meio da semana. As notícias pós-Sol: erupção M5, material solar pode olhar para a Terra apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Este vídeo do Solar Dynamics Observatory (SDO) da NASA mostra a explosão M5.8 do AR4436 às 13: 19 UTC de 10 de maio. Esta erupção lançou uma rápida ejeção de massa coronal (CME) que pode desferir um golpe de raspão na Terra por volta de 13 de maio.</p><p>O clarão M5 irrompe, a matéria solar pode olhar para a Terra. A principal notícia de hoje: O sol acaba de disparar seu clarão mais forte em dias. A maior parte do material ejetado está se afastando da Terra, mas nosso planeta poderá receber um golpe de raspão no início de 13 de maio.</p><p>Regiões de manchas solares O disco solar voltado para a Terra mostrou 5 regiões ativas numeradas. Ele apareceu pela primeira vez às 13h48 UTC de 10 de maio, irrompendo no membro leste nas imagens LASCO C2 da espaçonave SOHO.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>M5.8 flare erupts from AR4436! A fast CME may glance Earth on May 13. G1 storm and auroras possible midweek. The post Sun news: M5 flare erupts, sun-stuff may glance Earth first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. This video from NASA’s Solar Dynamics Observatory (SDO) shows the M5.8 flare from AR4436 at 13: 19 UTC on May 10. This eruption launched a fast coronal mass ejection (CME) that may deliver a glancing blow to Earth around May 13.</p><p>M5 flare erupts, sun-stuff may glance Earth Today’s top story: The sun just fired its strongest flare in days. The bulk of the ejecta is heading away from Earth, but our planet could receive a glancing blow early on May 13.</p><p>Sunspot regions The Earth-facing solar disk showed 5 numbered active regions. 48 UTC on May 10, erupting off the east limb in the SOHO spacecraft’s LASCO C2 imagery.</p><p>However, initial WSA-ENLIL modeling points to a possible glancing blow arriving at Earth early UTC on May 13. If the Earth-directed component is confirmed, Kp could reach 5, indicating G1 (minor) storm potential.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Earth’s magnetic field Over the past day, Earth’s magnetic field stayed quiet ( Kp 0, 2). A new coronal hole fast wind stream may begin arriving later in the day.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O flare M5.8 irrompe do AR4436! Uma CME rápida pode atingir a Terra em 13 de maio. Tempestade G1 e auroras possíveis no meio da semana. As notícias.",
+      "Dado-chave: Este vídeo do Solar Dynamics Observatory (SDO) da NASA mostra a explosão M5.8 do AR4436 às 13: 19 UTC de 10 de maio.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O flare M5.8 irrompe do AR4436! Uma CME rápida pode atingir a Terra em 13 de maio. Tempestade G1 e auroras possíveis no meio da semana. As notícias.",
+      "Dado-chave: Este vídeo do Solar Dynamics Observatory (SDO) da NASA mostra a explosão M5.8 do AR4436 às 13: 19 UTC de 10 de maio.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: M5.8 flare erupts from AR4436! A fast CME may glance Earth on May 13. G1 storm and auroras possible midweek. The post Sun news: M5 flare erupts.",
+      "Key detail: This video from NASA’s Solar Dynamics Observatory (SDO) shows the M5.8 flare from AR4436 at 13: 19 UTC on May 10.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "11 mai 2026",
+    "date_pt": "11 mai 2026",
+    "date_en": "11 May 2026",
+    "time": "09h00",
+    "time_pt": "09h00",
+    "time_en": "09:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-11T09:00:53+00:00",
+    "lastModifiedIso": "2026-05-11T09:00:53+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Notícias do Sol",
+      "erupção M5",
+      "material solar pode atingir a Terra"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Notícias do Sol",
+      "erupção M5",
+      "material solar pode atingir a Terra"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "Sun News",
+      "M5 eruption",
+      "solar material can reach Earth"
+    ],
+    "srcUrl": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-m5-flare-erupts-sun-stuff-may-glance-earth",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-m5-flare-erupts-sun-stuff-may-glance-earth",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-m5-flare-erupts-sun-stuff-may-glance-earth&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 68,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 62,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "astronomers-find-an-x-ray-key-to-the-red-dot-mystery",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -647,7 +768,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -661,7 +782,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "radio-telescopes-confirm-3-3-million-light-year-halo-in-unusually-quiet-galaxy-cluster",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -800,7 +921,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "hubble-capture-a-starry-spiral-cosmic-neighbor",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -918,7 +1039,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "hypergravity-rewires-biology-over-the-long-haul",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1031,124 +1152,6 @@ window.postsData = [
       "source": 73,
       "evidence": 82,
       "relevance": 62,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 10,
-    "slug": "pentagon-ufo-files-released-views-from-the-moon-and-more",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2026/05/Apollo-12-UAP-November-1969.jpeg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Arquivos de OVNIs do Pentágono divulgados: vistas da lua e muito mais",
-    "title_pt": "Arquivos de OVNIs do Pentágono divulgados: vistas da lua e muito mais",
-    "title_en": "Pentagon UFO files released: Views from the moon and more",
-    "sub": "Em 8 de maio de 2026, o Pentágono dos EUA divulgou seu primeiro lote de arquivos de OVNIs do Pentágono. Eles incluem algumas das missões lunares Apollo 11, 12 e 17. Os arquivos.",
-    "sub_pt": "Em 8 de maio de 2026, o Pentágono dos EUA divulgou seu primeiro lote de arquivos de OVNIs do Pentágono. Eles incluem algumas das missões lunares Apollo 11, 12 e 17. Os arquivos.",
-    "sub_en": "On May 8, 2026, the U. S. Pentagon released its 1st batch of Pentagon UFO files. They include some from Apollo moon missions 11, 12 and 17. The post Pentagon UFO files released.",
-    "excerpt": "Em 8 de maio de 2026, o Pentágono dos EUA divulgou seu primeiro lote de arquivos de OVNIs do Pentágono. Eles incluem algumas das missões lunares Apollo 11, 12 e 17. Os arquivos OVNI pós-Pentágono divulgados: Vistas da lua e mais apareceram pela primeira vez.",
-    "excerpt_pt": "Em 8 de maio de 2026, o Pentágono dos EUA divulgou seu primeiro lote de arquivos de OVNIs do Pentágono. Eles incluem algumas das missões lunares Apollo 11, 12 e 17. Os arquivos OVNI pós-Pentágono divulgados: Vistas da lua e mais apareceram pela primeira vez.",
-    "excerpt_en": "On May 8, 2026, the U. S. Pentagon released its 1st batch of Pentagon UFO files. They include some from Apollo moon missions 11, 12 and 17. The post Pentagon UFO files released: Views from the moon and more first appeared on EarthSky.",
-    "body": "<p>Em 8 de maio de 2026, o Pentágono dos EUA divulgou seu primeiro lote de arquivos de OVNIs do Pentágono. Eles incluem algumas das missões lunares Apollo 11, 12 e 17. Os arquivos OVNI pós-Pentágono divulgados: Vistas da lua e mais apareceram pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Arquivos de OVNIs do Pentágono lançados: Vistas da lua e mais apareceram pela primeira vez no EarthSky. | Um UAP, Fenômeno Anômalo Não Identificado, da missão Apollo 12 de 1969 à Lua.</p><p>Existem 162 arquivos no total, incluindo 12 da NASA. Os da NASA são da Apollo 12, Apollo 17 e Gemini 7.</p><p>Em 8 de maio de 2026 foram divulgados os primeiros registros públicos. Neste primeiro lote, são 162 registros no total.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/human-world/pentagon-ufo-files-uap-views-from-moon-nasa/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em 8 de maio de 2026, o Pentágono dos EUA divulgou seu primeiro lote de arquivos de OVNIs do Pentágono. Eles incluem algumas das missões lunares Apollo 11, 12 e 17. Os arquivos OVNI pós-Pentágono divulgados: Vistas da lua e mais apareceram pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Arquivos de OVNIs do Pentágono lançados: Vistas da lua e mais apareceram pela primeira vez no EarthSky. | Um UAP, Fenômeno Anômalo Não Identificado, da missão Apollo 12 de 1969 à Lua.</p><p>Existem 162 arquivos no total, incluindo 12 da NASA. Os da NASA são da Apollo 12, Apollo 17 e Gemini 7.</p><p>Em 8 de maio de 2026 foram divulgados os primeiros registros públicos. Neste primeiro lote, são 162 registros no total.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/human-world/pentagon-ufo-files-uap-views-from-moon-nasa/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>On May 8, 2026, the U. S. Pentagon released its 1st batch of Pentagon UFO files. They include some from Apollo moon missions 11, 12 and 17. The post Pentagon UFO files released: Views from the moon and more first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The post Pentagon UFO files released: Views from the moon and more first appeared on EarthSky. | A UAP, Unidentified Anomalous Phenomenon, from the 1969 Apollo 12 mission to the moon.</p><p>There are 162 files in total, including 12 from NASA. The NASA ones are from Apollo 12, Apollo 17 and Gemini 7.</p><p>On May 8, 2026, the first public records were released. In this first batch, there are 162 records in total.</p><p>Eighty-two of the total came from the Pentagon, 56 from the FBI, 12 from NASA, eight from the State Department and four with the agency not identified. New Pentagon UFO files include reports from moon landings trib. al/DJBprKC, Task &amp; Purpose (@taskandpurpose. com) 2026-05-08T18: 45: 07.649633Z Details on Pentagon UFO files This.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The historical files, largely from the 1940s to 1960s, are FBI files, NASA transcripts and photos, State Department cables and Cold War-era UFO reports. Apollo 11, 12 and 17 The files contain some of the old NASA UAP reports.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/human-world/pentagon-ufo-files-uap-views-from-moon-nasa/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Em 8 de maio de 2026, o Pentágono dos EUA divulgou seu primeiro lote de arquivos de OVNIs do Pentágono. Eles incluem algumas das missões lunares.",
-      "Dado-chave: O post Arquivos de OVNIs do Pentágono lançados: Vistas da lua e mais apareceram pela primeira vez no EarthSky.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Em 8 de maio de 2026, o Pentágono dos EUA divulgou seu primeiro lote de arquivos de OVNIs do Pentágono. Eles incluem algumas das missões lunares.",
-      "Dado-chave: O post Arquivos de OVNIs do Pentágono lançados: Vistas da lua e mais apareceram pela primeira vez no EarthSky.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: On May 8, 2026, the U. S. Pentagon released its 1st batch of Pentagon UFO files. They include some from Apollo moon missions 11, 12 and 17. The post.",
-      "Key detail: The post Pentagon UFO files released: Views from the moon and more first appeared on EarthSky.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "10 mai 2026",
-    "date_pt": "10 mai 2026",
-    "date_en": "10 May 2026",
-    "time": "12h00",
-    "time_pt": "12h00",
-    "time_en": "12:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-10T12:00:47+00:00",
-    "lastModifiedIso": "2026-05-10T12:00:47+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Arquivos de OVNIs do Pentágono divulgados",
-      "vistas da lua e muito mais"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Arquivos de OVNIs do Pentágono divulgados",
-      "vistas da lua e muito mais"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "Pentagon UFO files released",
-      "moon views and more"
-    ],
-    "srcUrl": "https://earthsky.org/human-world/pentagon-ufo-files-uap-views-from-moon-nasa/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=pentagon-ufo-files-released-views-from-the-moon-and-more",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=pentagon-ufo-files-released-views-from-the-moon-and-more",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=pentagon-ufo-files-released-views-from-the-moon-and-more&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 72,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 80,
       "accessibility": 60,
       "novelty": 52
     }
@@ -1648,7 +1651,7 @@ window.postsData = [
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 49
+      "novelty": 46
     }
   },
   {
@@ -2177,6 +2180,114 @@ window.postsData = [
   },
   {
     "id": 19,
+    "slug": "a-new-global-chemical-equilibrium-code-refractory-element-signatures-in-super-earths-and-sub-nep",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1280px-The_Earth_seen_from_Apollo_17.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Um novo código de equilíbrio químico global: assinaturas de elementos refratários em superterras e subnetunos",
+    "title_pt": "Um novo código de equilíbrio químico global: assinaturas de elementos refratários em superterras e subnetunos",
+    "title_en": "A New Global Chemical Equilibrium Code: Refractory Element Signatures in Super-Earths and Sub-Neptunes",
+    "sub": "As atmosferas das super-Terras e sub-Netunos podem ser fortemente modificadas pela troca química com seus interiores fundidos durante as fases oceânicas de magma de longa vida. A.",
+    "sub_pt": "As atmosferas das super-Terras e sub-Netunos podem ser fortemente modificadas pela troca química com seus interiores fundidos durante as fases oceânicas de magma de longa vida. A.",
+    "sub_en": "The atmospheres of super-Earths and sub-Neptunes can be strongly modified by chemical exchange with their molten interiors during long-lived magma ocean phases. Interpreting.",
+    "excerpt": "As atmosferas das super-Terras e sub-Netunos podem ser fortemente modificadas pela troca química com seus interiores fundidos durante as fases oceânicas de magma de longa vida. A interpretação de observações atmosféricas requer modelos rápidos.",
+    "excerpt_pt": "As atmosferas das super-Terras e sub-Netunos podem ser fortemente modificadas pela troca química com seus interiores fundidos durante as fases oceânicas de magma de longa vida. A interpretação de observações atmosféricas requer modelos rápidos.",
+    "excerpt_en": "The atmospheres of super-Earths and sub-Neptunes can be strongly modified by chemical exchange with their molten interiors during long-lived magma ocean phases. Interpreting atmospheric observations requires fast models that.",
+    "body": "<p>As atmosferas das super-Terras e sub-Netunos podem ser fortemente modificadas pela troca química com seus interiores fundidos durante as fases oceânicas de magma de longa vida. A interpretação de observações atmosféricas requer modelos rápidos. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Apresentamos uma implementação atualizada da estrutura de equilíbrio químico global (GCE) de (Schlichting &amp; Young 2022), que calcula o. As atmosferas das super-Terras e sub-Netunos podem ser fortemente modificadas pela troca química com seus interiores fundidos durante as fases oceânicas de magma de longa vida.</p><p>A interpretação de observações atmosféricas requer modelos rápidos que acoplem de forma autoconsistente a química atmosférica à composição do interior planetário. Apresentamos uma implementação atualizada da estrutura de equilíbrio químico global (GCE) de (Schlichting &amp; Young 2022), que calcula a composição de equilíbrio de um sistema.</p><p>O solucionador numérico foi aprimorado usando um otimizador baseado em gradiente, reduzindo o custo computacional de resolução da rede química em mais de duas ordens de grandeza e. Aplicamos a estrutura a uma grande população sintética de planetas e exploramos a impressão da composição refratária em massa de Mg, Si e Fe nas propriedades atmosféricas.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2605.07833v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>As atmosferas das super-Terras e sub-Netunos podem ser fortemente modificadas pela troca química com seus interiores fundidos durante as fases oceânicas de magma de longa vida. A interpretação de observações atmosféricas requer modelos rápidos. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Apresentamos uma implementação atualizada da estrutura de equilíbrio químico global (GCE) de (Schlichting &amp; Young 2022), que calcula o. As atmosferas das super-Terras e sub-Netunos podem ser fortemente modificadas pela troca química com seus interiores fundidos durante as fases oceânicas de magma de longa vida.</p><p>A interpretação de observações atmosféricas requer modelos rápidos que acoplem de forma autoconsistente a química atmosférica à composição do interior planetário. Apresentamos uma implementação atualizada da estrutura de equilíbrio químico global (GCE) de (Schlichting &amp; Young 2022), que calcula a composição de equilíbrio de um sistema.</p><p>O solucionador numérico foi aprimorado usando um otimizador baseado em gradiente, reduzindo o custo computacional de resolução da rede química em mais de duas ordens de grandeza e. Aplicamos a estrutura a uma grande população sintética de planetas e exploramos a impressão da composição refratária em massa de Mg, Si e Fe nas propriedades atmosféricas.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2605.07833v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The atmospheres of super-Earths and sub-Neptunes can be strongly modified by chemical exchange with their molten interiors during long-lived magma ocean phases. Interpreting atmospheric observations requires fast models that. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. We present an updated implementation of the global chemical equilibrium (GCE) framework from (Schlichting &amp; Young 2022), which computes the. The atmospheres of super-Earths and sub-Neptunes can be strongly modified by chemical exchange with their molten interiors during long-lived magma ocean phases.</p><p>Interpreting atmospheric observations requires fast models that self-consistently couple atmospheric chemistry to the composition of the planetary interior. We present an updated implementation of the global chemical equilibrium (GCE) framework from (Schlichting &amp; Young 2022), which computes the equilibrium composition of a coupled.</p><p>The numerical solver has been improved using a gradient-based optimizer, reducing the computational cost of solving the chemical network by more than two orders of magnitude and. We apply the framework to a large synthetic population of planets and explore the imprint of bulk refractory composition of Mg, Si, and Fe on atmospheric properties.</p><p>We consider planets with different masses, thermal states, and volatile inventories. We find that the atmospheric mass fraction and atmospheric metal mass fraction are primarily controlled by the temperature at the atmosphere-magma ocean interface and the.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>These results demonstrate that atmospheric compositions of sub-Neptunes depend sensitively on both the volatile inventory and the bulk composition of rocky material, providing new. The new GCE code is open-source.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2605.07833v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: As atmosferas das super-Terras e sub-Netunos podem ser fortemente modificadas pela troca química com seus interiores fundidos durante as fases.",
+      "Dado-chave: Apresentamos uma implementação atualizada da estrutura de equilíbrio químico global (GCE) de (Schlichting & Young 2022), que calcula o.",
+      "Resultado ainda sem revisão por pares."
+    ],
+    "highlights_pt": [
+      "Ponto central: As atmosferas das super-Terras e sub-Netunos podem ser fortemente modificadas pela troca química com seus interiores fundidos durante as fases.",
+      "Dado-chave: Apresentamos uma implementação atualizada da estrutura de equilíbrio químico global (GCE) de (Schlichting & Young 2022), que calcula o.",
+      "Resultado ainda sem revisão por pares."
+    ],
+    "highlights_en": [
+      "Core point: The atmospheres of super-Earths and sub-Neptunes can be strongly modified by chemical exchange with their molten interiors during long-lived magma.",
+      "Key detail: We present an updated implementation of the global chemical equilibrium (GCE) framework from (Schlichting & Young 2022), which computes the.",
+      "Result not yet peer reviewed."
+    ],
+    "date": "08 mai 2026",
+    "date_pt": "08 mai 2026",
+    "date_en": "08 May 2026",
+    "time": "15h03",
+    "time_pt": "15h03",
+    "time_en": "15:03 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-08T15:03:07+00:00",
+    "lastModifiedIso": "2026-05-08T15:03:07+00:00",
+    "source": "arXiv Earth & Planetary",
+    "sourceDomain": "arxiv.org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint ainda sem revisão por pares.",
+    "sourceNote_pt": "Preprint ainda sem revisão por pares.",
+    "sourceNote_en": "Preprint not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Exoplanetas",
+      "arXiv Earth & Planetary",
+      "Cosmos Week",
+      "Um novo código de equilíbrio químico global",
+      "assinaturas de elementos refratários em superterras e subnetunos"
+    ],
+    "keywords_pt": [
+      "Exoplanetas",
+      "arXiv Earth & Planetary",
+      "Cosmos Week",
+      "Um novo código de equilíbrio químico global",
+      "assinaturas de elementos refratários em superterras e subnetunos"
+    ],
+    "keywords_en": [
+      "Exoplanets",
+      "arXiv Earth & Planetary",
+      "Cosmos Week",
+      "A new global chemical equilibrium code",
+      "signatures of refractory elements in super-Earths and sub-Neptunes"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2605.07833v1",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=a-new-global-chemical-equilibrium-code-refractory-element-signatures-in-super-earths-and-sub-nep",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=a-new-global-chemical-equilibrium-code-refractory-element-signatures-in-super-earths-and-sub-nep",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=a-new-global-chemical-equilibrium-code-refractory-element-signatures-in-super-earths-and-sub-nep&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 68,
+    "scoreBreakdown": {
+      "source": 56,
+      "evidence": 64,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 49
+    }
+  },
+  {
+    "id": 20,
     "slug": "non-rotating-early-galaxy-is-a-surprise-to-astronomers",
     "cat": "Física",
     "catCls": "fisica",
@@ -2309,7 +2420,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "lonely-jupiter-like-planet-900-light-years-away-tells-us-more-about-gas-giants",
     "cat": "Física",
     "catCls": "fisica",
@@ -2447,11 +2558,11 @@ window.postsData = [
       "evidence": 82,
       "relevance": 82,
       "accessibility": 60,
-      "novelty": 52
+      "novelty": 49
     }
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "nsf-launches-100m-national-quantum-and-nanotechnology-research-infrastructure-program",
     "cat": "Física",
     "catCls": "fisica",
@@ -2556,40 +2667,12 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "esa-and-jaxa-team-up-on-planetary-defence-ramses-mission-to-asteroid-apophis",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/10/ramses_esa_s_mission_to_rendezvous_with_asteroid_apophis/26908615-3-eng-GB/Ramses_ESA_s_mission_to_rendezvous_with_asteroid_Apophis_card_full.png",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/esa_and_jaxa_deepen_collaboration_in_planetary_defence/27266592-1-eng-GB/ESA_and_JAXA_deepen_collaboration_in_planetary_defence_article.jpg",
-        "caption": "A ESA e a JAXA assinaram o acordo na presença de lideranças institucionais e industriais europeias e japonesas",
-        "caption_pt": "A ESA e a JAXA assinaram o acordo na presença de lideranças institucionais e industriais europeias e japonesas",
-        "caption_en": "ESA and JAXA signed the agreement in the presence of European and Japanese institutional and industrial leadership",
-        "alt": "A ESA e a JAXA assinaram o acordo na presença de lideranças institucionais e industriais europeias e japonesas",
-        "alt_pt": "A ESA e a JAXA assinaram o acordo na presença de lideranças institucionais e industriais europeias e japonesas",
-        "alt_en": "ESA and JAXA signed the agreement in the presence of European and Japanese institutional and industrial leadership"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/02/apophis_orbit_diverted_by_earth_s_gravity/25472672-4-eng-GB/Apophis_orbit_diverted_by_Earth_s_gravity_article.gif",
-        "caption": "Órbita de Apophis desviada pela gravidade da Terra",
-        "caption_pt": "Órbita de Apophis desviada pela gravidade da Terra",
-        "caption_en": "Apophis orbit diverted by Earth's gravity",
-        "alt": "Órbita de Apophis desviada pela Terra",
-        "alt_pt": "Órbita de Apophis desviada pela Terra",
-        "alt_en": "Apophis orbit diverted by Earth"
-      },
-      {
-        "src": "https://www.esa.int/extension/pillars/design/pillars/images/play-button.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "ESA e JAXA unem-se na defesa planetária, missão Ramsés ao asteróide Apophis",
@@ -2601,9 +2684,9 @@ window.postsData = [
     "excerpt": "A Agência Espacial Europeia e a Agência de Exploração Aeroespacial do Japão assinaram um Memorando de Cooperação para aprofundar a colaboração na defesa planetária, juntamente com um acordo dedicado para colaboração na Missão Rapid Apophis para.",
     "excerpt_pt": "A Agência Espacial Europeia e a Agência de Exploração Aeroespacial do Japão assinaram um Memorando de Cooperação para aprofundar a colaboração na defesa planetária, juntamente com um acordo dedicado para colaboração na Missão Rapid Apophis para.",
     "excerpt_en": "The European Space Agency and the Japan Aerospace Exploration Agency have signed a Memorandum of Cooperation to deepen collaboration in planetary defence, alongside a dedicated agreement for collaboration on the Rapid Apophis Mission for.",
-    "body": "<p>A Agência Espacial Europeia e a Agência de Exploração Aeroespacial do Japão assinaram um Memorando de Cooperação para aprofundar a colaboração na defesa planetária, juntamente com um acordo dedicado para colaboração na Missão Rapid Apophis para. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A Agência Espacial Europeia (ESA) e a Agência de Exploração Aeroespacial do Japão (JAXA) assinaram um Memorando de Cooperação para aprofundar a colaboração na defesa planetária. Os acordos foram assinados no dia 7 de maio pelo Diretor Geral da ESA, Josef Aschbacher, e pelo Presidente da JAXA, Hiroshi Yamakawa, na Embaixada da Itália em Berlim, Alemanha.</p><p>O evento foi organizado em colaboração com a Agência Espacial Italiana (ASI), à luz da selecção da OHB Italia pela ESA como contratante principal para a missão Ramsés. A medida baseia-se numa declaração conjunta de Novembro de 2024, na qual a ESA e a JAXA se comprometeram a expandir a cooperação em grande escala, incluindo na defesa planetária.</p><p>“Com as assinaturas de hoje, a ESA e a JAXA estão a passar decisivamente da intenção partilhada para a implementação concreta, traduzindo o compromisso em cooperação a nível de. Agradecemos sinceramente a ESA e os seus Estados-Membros, incluindo a Itália, e esperamos que esta cooperação avance ainda mais os esforços internacionais neste campo.” A defesa.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Space_Safety/Planetary_Defence/ESA_and_JAXA_team_up_on_planetary_defence_Ramses_mission_to_asteroid_Apophis\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A Agência Espacial Europeia e a Agência de Exploração Aeroespacial do Japão assinaram um Memorando de Cooperação para aprofundar a colaboração na defesa planetária, juntamente com um acordo dedicado para colaboração na Missão Rapid Apophis para. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A Agência Espacial Europeia (ESA) e a Agência de Exploração Aeroespacial do Japão (JAXA) assinaram um Memorando de Cooperação para aprofundar a colaboração na defesa planetária. Os acordos foram assinados no dia 7 de maio pelo Diretor Geral da ESA, Josef Aschbacher, e pelo Presidente da JAXA, Hiroshi Yamakawa, na Embaixada da Itália em Berlim, Alemanha.</p><p>O evento foi organizado em colaboração com a Agência Espacial Italiana (ASI), à luz da selecção da OHB Italia pela ESA como contratante principal para a missão Ramsés. A medida baseia-se numa declaração conjunta de Novembro de 2024, na qual a ESA e a JAXA se comprometeram a expandir a cooperação em grande escala, incluindo na defesa planetária.</p><p>“Com as assinaturas de hoje, a ESA e a JAXA estão a passar decisivamente da intenção partilhada para a implementação concreta, traduzindo o compromisso em cooperação a nível de. Agradecemos sinceramente a ESA e os seus Estados-Membros, incluindo a Itália, e esperamos que esta cooperação avance ainda mais os esforços internacionais neste campo.” A defesa.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Space_Safety/Planetary_Defence/ESA_and_JAXA_team_up_on_planetary_defence_Ramses_mission_to_asteroid_Apophis\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency and the Japan Aerospace Exploration Agency have signed a Memorandum of Cooperation to deepen collaboration in planetary defence, alongside a dedicated agreement for collaboration on the Rapid Apophis Mission for. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA) have signed a Memorandum of Cooperation to deepen collaboration in planetary defence, alongside a. The agreements were signed on 7 May by ESA Director General Josef Aschbacher and JAXA President Hiroshi Yamakawa at the Embassy of Italy in Berlin, Germany, in the presence of.</p><p>The event was hosted in collaboration with the Italian Space Agency (ASI), in light of ESA’s selection of OHB Italia as prime contractor for the Ramses mission. The move builds on a joint statement from November 2024, in which ESA and JAXA committed to expanding large-scale cooperation, including on planetary defence.</p><p>“With today’s signatures, ESA and JAXA are moving decisively from shared intention to concrete implementation, translating commitment into mission‑level cooperation. We sincerely appreciate ESA and its Member States, including Italy, and expect this cooperation to further advance international efforts in this field.” Planetary defence is a.</p><p>As a field of applied scientific research, it brings together the international community to detect and characterise near-Earth objects early, track their trajectories, assess. The programme’s Near-Earth Object Coordination Centre (NEOCC) monitors asteroid threats and refines orbit predictions, while its space missions oversee the development of rapid.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The first major outcome of the new ESA-JAXA cooperation is collaboration on the Ramses mission. Ramses will launch in 2028 and rendezvous with the asteroid (99942) Apophis ahead of its exceptionally rare, close flyby of Earth in April 2029.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Space_Safety/Planetary_Defence/ESA_and_JAXA_team_up_on_planetary_defence_Ramses_mission_to_asteroid_Apophis\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A Agência Espacial Europeia e a Agência de Exploração Aeroespacial do Japão assinaram um Memorando de Cooperação para aprofundar a colaboração na defesa planetária, juntamente com um acordo dedicado para colaboração na Missão Rapid Apophis para. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A Agência Espacial Europeia (ESA) e a Agência de Exploração Aeroespacial do Japão (JAXA) assinaram um Memorando de Cooperação para aprofundar a colaboração na defesa planetária.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Space_Safety/Planetary_Defence/ESA_and_JAXA_team_up_on_planetary_defence_Ramses_mission_to_asteroid_Apophis\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Agência Espacial Europeia e a Agência de Exploração Aeroespacial do Japão assinaram um Memorando de Cooperação para aprofundar a colaboração na defesa planetária, juntamente com um acordo dedicado para colaboração na Missão Rapid Apophis para. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A Agência Espacial Europeia (ESA) e a Agência de Exploração Aeroespacial do Japão (JAXA) assinaram um Memorando de Cooperação para aprofundar a colaboração na defesa planetária.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Space_Safety/Planetary_Defence/ESA_and_JAXA_team_up_on_planetary_defence_Ramses_mission_to_asteroid_Apophis\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency and the Japan Aerospace Exploration Agency have signed a Memorandum of Cooperation to deepen collaboration in planetary defence, alongside a dedicated agreement for collaboration on the Rapid Apophis Mission for. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA) have signed a Memorandum of Cooperation to deepen collaboration in planetary defence, alongside a.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Space_Safety/Planetary_Defence/ESA_and_JAXA_team_up_on_planetary_defence_Ramses_mission_to_asteroid_Apophis\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A Agência Espacial Europeia e a Agência de Exploração Aeroespacial do Japão assinaram um Memorando de Cooperação para aprofundar a colaboração na.",
       "Dado-chave: A Agência Espacial Europeia (ESA) e a Agência de Exploração Aeroespacial do Japão (JAXA) assinaram um Memorando de Cooperação para aprofundar a.",
@@ -2695,7 +2778,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2731,9 +2814,9 @@ window.postsData = [
     "excerpt": "O lar de voos experimentais da NASA está recebendo mais passageiros em sua frota já de alto desempenho, à medida que continua a apoiar missões de testes científicos e aeronáuticos, dando continuidade ao legado de pioneiros como Neil Armstrong. Armstrong da.",
     "excerpt_pt": "O lar de voos experimentais da NASA está recebendo mais passageiros em sua frota já de alto desempenho, à medida que continua a apoiar missões de testes científicos e aeronáuticos, dando continuidade ao legado de pioneiros como Neil Armstrong. Armstrong da.",
     "excerpt_en": "NASA’s home for experimental flight is welcoming more flyers to its already high-performing fleet as it continues to support science and aeronautics test missions, continuing the legacy of pioneers like Neil Armstrong. NASA’s Armstrong.",
-    "body": "<p>O lar de voos experimentais da NASA está recebendo mais passageiros em sua frota já de alto desempenho, à medida que continua a apoiar missões de testes científicos e aeronáuticos, dando continuidade ao legado de pioneiros como Neil Armstrong. Armstrong da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O Armstrong Flight Research Center da NASA em Edwards, Califórnia, adicionou várias aeronaves este ano: dois jatos supersônicos F-15, um avião utilitário Pilatus PC-12. 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) A silenciosa aeronave de pesquisa supersônica X-59 da NASA voa sobre Palmdale e.</p><p>Saiba mais sobre aeronaves voadas na NASA Armstrong Compartilhe detalhes Última atualização em 07 de maio. Artigo sobre missões espaciais 3 dias atrás 4 min ler NASA promove o desenvolvimento de tecnologias de busca de recursos lunares Artigo 5 dias atrás Continue explorando Descubra.</p><p>O Armstrong Flight Research Center da NASA em Edwards, Califórnia, adicionou várias aeronaves este ano: dois jatos supersônicos F-15, um avião utilitário Pilatus PC-12, artigo A. 28 de outubro de 2025, acompanhado por uma aeronave de pesquisa F/A-18 da NASA servindo como perseguição.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O lar de voos experimentais da NASA está recebendo mais passageiros em sua frota já de alto desempenho, à medida que continua a apoiar missões de testes científicos e aeronáuticos, dando continuidade ao legado de pioneiros como Neil Armstrong. Armstrong da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O Armstrong Flight Research Center da NASA em Edwards, Califórnia, adicionou várias aeronaves este ano: dois jatos supersônicos F-15, um avião utilitário Pilatus PC-12. 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) A silenciosa aeronave de pesquisa supersônica X-59 da NASA voa sobre Palmdale e.</p><p>Saiba mais sobre aeronaves voadas na NASA Armstrong Compartilhe detalhes Última atualização em 07 de maio. Artigo sobre missões espaciais 3 dias atrás 4 min ler NASA promove o desenvolvimento de tecnologias de busca de recursos lunares Artigo 5 dias atrás Continue explorando Descubra.</p><p>O Armstrong Flight Research Center da NASA em Edwards, Califórnia, adicionou várias aeronaves este ano: dois jatos supersônicos F-15, um avião utilitário Pilatus PC-12, artigo A. 28 de outubro de 2025, acompanhado por uma aeronave de pesquisa F/A-18 da NASA servindo como perseguição.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>NASA’s home for experimental flight is welcoming more flyers to its already high-performing fleet as it continues to support science and aeronautics test missions, continuing the legacy of pioneers like Neil Armstrong. NASA’s Armstrong. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. NASA’s Armstrong Flight Research Center in Edwards, California, added multiple aircraft this year: two F-15s supersonic jets, a Pilatus PC-12 utility plane. 3 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) NASA’s X-59 quiet supersonic research aircraft flies above Palmdale and Edwards, California, during.</p><p>Learn more about aircraft flown at NASA Armstrong Share Details Last Updated May 07. Space Missions Article 3 days ago 4 min read NASA Fosters Development of Lunar Resource-Seeking Technologies Article 5 days ago Keep Exploring Discover More Topics From NASA NASA.</p><p>NASA’s Armstrong Flight Research Center in Edwards, California, added multiple aircraft this year: two F-15s supersonic jets, a Pilatus PC-12 utility plane, Article NASA’s X-59. 28, 2025, accompanied by a NASA F/A-18 research aircraft serving as chase.</p><p>NASA’s Armstrong Flight Research Center in Edwards, California, added multiple aircraft this year: two F-15s supersonic jets, a Pilatus PC-12 utility plane, and a T-34 turboprop. Throughout the center’s history, pilots have flown everything from large aircraft like the 747 Shuttle Carrier Aircraft and rocket-powered airplanes like the X-15 to high-speed.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Scientists can manage experiments in real time aboard flying laboratories like the NASA ER-2, to collect important data with the help of Armstrong’s pilots and airborne science. For NASA Armstrong, it all started with the first attempt by a human to fly faster than the speed of sound in the Bell X-1.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>O lar de voos experimentais da NASA está recebendo mais passageiros em sua frota já de alto desempenho, à medida que continua a apoiar missões de testes científicos e aeronáuticos, dando continuidade ao legado de pioneiros como Neil Armstrong. Armstrong da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O Armstrong Flight Research Center da NASA em Edwards, Califórnia, adicionou várias aeronaves este ano: dois jatos supersônicos F-15, um avião utilitário Pilatus PC-12. 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) A silenciosa aeronave de pesquisa supersônica X-59 da NASA voa sobre Palmdale e.</p><p>Saiba mais sobre aeronaves voadas na NASA Armstrong Compartilhe detalhes Última atualização em 07 de maio. Artigo sobre missões espaciais 5 dias atrás 4 min ler NASA promove o desenvolvimento de tecnologias de busca de recursos lunares Artigo 7 dias atrás Continue explorando Descubra.</p><p>O Armstrong Flight Research Center da NASA em Edwards, Califórnia, adicionou várias aeronaves este ano: dois jatos supersônicos F-15, um avião utilitário Pilatus PC-12, artigo A. 28 de outubro de 2025, acompanhado por uma aeronave de pesquisa F/A-18 da NASA servindo como perseguição.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O lar de voos experimentais da NASA está recebendo mais passageiros em sua frota já de alto desempenho, à medida que continua a apoiar missões de testes científicos e aeronáuticos, dando continuidade ao legado de pioneiros como Neil Armstrong. Armstrong da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O Armstrong Flight Research Center da NASA em Edwards, Califórnia, adicionou várias aeronaves este ano: dois jatos supersônicos F-15, um avião utilitário Pilatus PC-12. 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) A silenciosa aeronave de pesquisa supersônica X-59 da NASA voa sobre Palmdale e.</p><p>Saiba mais sobre aeronaves voadas na NASA Armstrong Compartilhe detalhes Última atualização em 07 de maio. Artigo sobre missões espaciais 5 dias atrás 4 min ler NASA promove o desenvolvimento de tecnologias de busca de recursos lunares Artigo 7 dias atrás Continue explorando Descubra.</p><p>O Armstrong Flight Research Center da NASA em Edwards, Califórnia, adicionou várias aeronaves este ano: dois jatos supersônicos F-15, um avião utilitário Pilatus PC-12, artigo A. 28 de outubro de 2025, acompanhado por uma aeronave de pesquisa F/A-18 da NASA servindo como perseguição.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>NASA’s home for experimental flight is welcoming more flyers to its already high-performing fleet as it continues to support science and aeronautics test missions, continuing the legacy of pioneers like Neil Armstrong. NASA’s Armstrong. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. NASA’s Armstrong Flight Research Center in Edwards, California, added multiple aircraft this year: two F-15s supersonic jets, a Pilatus PC-12 utility plane. 3 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) NASA’s X-59 quiet supersonic research aircraft flies above Palmdale and Edwards, California, during.</p><p>Learn more about aircraft flown at NASA Armstrong Share Details Last Updated May 07. Space Missions Article 5 days ago 4 min read NASA Fosters Development of Lunar Resource-Seeking Technologies Article 7 days ago Keep Exploring Discover More Topics From NASA NASA.</p><p>NASA’s Armstrong Flight Research Center in Edwards, California, added multiple aircraft this year: two F-15s supersonic jets, a Pilatus PC-12 utility plane, Article NASA’s X-59. 28, 2025, accompanied by a NASA F/A-18 research aircraft serving as chase.</p><p>NASA’s Armstrong Flight Research Center in Edwards, California, added multiple aircraft this year: two F-15s supersonic jets, a Pilatus PC-12 utility plane, and a T-34 turboprop. Throughout the center’s history, pilots have flown everything from large aircraft like the 747 Shuttle Carrier Aircraft and rocket-powered airplanes like the X-15 to high-speed.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Scientists can manage experiments in real time aboard flying laboratories like the NASA ER-2, to collect important data with the help of Armstrong’s pilots and airborne science. For NASA Armstrong, it all started with the first attempt by a human to fly faster than the speed of sound in the Bell X-1.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: O lar de voos experimentais da NASA está recebendo mais passageiros em sua frota já de alto desempenho, à medida que continua a apoiar missões de.",
       "Dado-chave: O Armstrong Flight Research Center da NASA em Edwards, Califórnia, adicionou várias aeronaves este ano: dois jatos supersônicos F-15, um avião.",
@@ -2822,40 +2905,12 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
+    "id": 25,
     "slug": "smile-set-to-launch-on-19-may",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/smile_delivered_to_space_artist_impression_gif/27126681-1-eng-GB/Smile_delivered_to_space_artist_impression_GIF_card_full.gif",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/smile_launch_timeline/27119760-2-eng-GB/Smile_launch_timeline_article.jpg",
-        "caption": "Cronograma de lançamento do Smile",
-        "caption_pt": "Cronograma de lançamento do Smile",
-        "caption_en": "Smile launch timeline",
-        "alt": "Cronograma de lançamento do Smile",
-        "alt_pt": "Cronograma de lançamento do Smile",
-        "alt_en": "Smile launch timeline"
-      },
-      {
-        "src": "https://www.esa.int/extension/pillars/design/pillars/images/play-button.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/what_is_smile_about_to_discover/27167698-1-eng-GB/What_is_Smile_about_to_discover_pillars.jpg",
-        "caption": "$video.data_map.short_description.content",
-        "caption_pt": "$video.data_map.short_description.content",
-        "caption_en": "$video.data_map.short_description.content",
-        "alt": "$video.data_map.short_description.content",
-        "alt_pt": "$video.data_map.short_description.content",
-        "alt_en": "$video.data_map.short_description.content"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Smile será lançado em 19 de maio",
@@ -2867,9 +2922,9 @@ window.postsData = [
     "excerpt": "A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C.",
     "excerpt_pt": "A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C.",
     "excerpt_en": "The European-Chinese Smile mission is due to launch on Tuesday 19 May 2026, at 05: 52 CEST / 04: 52 BST / 00: 52 local time on a European Vega-C rocket.",
-    "body": "<p>A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Smile Europeu-Chinesa deverá ser lançada na terça-feira, 19 de maio de 2026, às 05: 52 CEST/04: 52 BST/00: 52 hora local em um foguete europeu Vega-C. Após a conclusão de investigações cuidadosas sobre a questão, todos os parceiros concordaram em 19 de maio como a nova data de lançamento.</p><p>Irá revelar como a Terra responde aos fluxos de partículas e às explosões de radiação do Sol, utilizando uma câmara de raios X para fazer as primeiras observações de raios X do. Durante o lançamento, os quatro estágios do Vega-C serão separados um por um, antes de finalmente liberar o Smile após 57 minutos.</p><p>Os painéis solares da Smile serão desdobrados após 63 minutos, o marco que confirma o sucesso do lançamento. O lançamento colocará o Smile em uma órbita baixa da Terra.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Smile Europeu-Chinesa deverá ser lançada na terça-feira, 19 de maio de 2026, às 05: 52 CEST/04: 52 BST/00: 52 hora local em um foguete europeu Vega-C. Após a conclusão de investigações cuidadosas sobre a questão, todos os parceiros concordaram em 19 de maio como a nova data de lançamento.</p><p>Irá revelar como a Terra responde aos fluxos de partículas e às explosões de radiação do Sol, utilizando uma câmara de raios X para fazer as primeiras observações de raios X do. Durante o lançamento, os quatro estágios do Vega-C serão separados um por um, antes de finalmente liberar o Smile após 57 minutos.</p><p>Os painéis solares da Smile serão desdobrados após 63 minutos, o marco que confirma o sucesso do lançamento. O lançamento colocará o Smile em uma órbita baixa da Terra.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European-Chinese Smile mission is due to launch on Tuesday 19 May 2026, at 05: 52 CEST / 04: 52 BST / 00: 52 local time on a European Vega-C rocket. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Following the completion of careful investigations into the issue, all partners have agreed on 19 May as the new launch date. It will reveal how Earth responds to the streams of particles and bursts of radiation from the Sun, using an X-ray camera to make the first X-ray observations of Earth’s magnetic.</p><p>During the launch, the four stages of the Vega-C will separate one by one, before finally releasing Smile after 57 minutes. Smile’s solar panels will unfold after 63 minutes, the milestone that confirms launch success.</p><p>The launch will drop Smile off into a low-Earth orbit. From there, the spacecraft will take over to bring itself to its final, egg-shaped orbit that goes 121 000 km above the North Pole to collect data, before coming 5000 km above the.</p><p>For the latest updates on the launch, visit our dedicated page and follow @science. esa. int and @transport. esa. int (Bluesky) and @esascience and @ESA_transport (X). Our Smile launch kit is a set of infographics providing an overview of the mission, its science goals and the launch timeline.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Smile (the Solar wind Magnetosphere Ionosphere Link Explorer) is a joint mission between the European Space Agency (ESA) and the Chinese Academy of Sciences (CAS). Smile will use four science instruments to study how Earth responds to the solar wind from the Sun.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Smile Europeu-Chinesa deverá ser lançada na terça-feira, 19 de maio de 2026, às 05: 52 CEST/04: 52 BST/00: 52 hora local em um foguete europeu Vega-C.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Smile Europeu-Chinesa deverá ser lançada na terça-feira, 19 de maio de 2026, às 05: 52 CEST/04: 52 BST/00: 52 hora local em um foguete europeu Vega-C.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European-Chinese Smile mission is due to launch on Tuesday 19 May 2026, at 05: 52 CEST / 04: 52 BST / 00: 52 local time on a European Vega-C rocket. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu.",
       "Dado-chave: A missão Smile Europeu-Chinesa deverá ser lançada na terça-feira, 19 de maio de 2026, às 05: 52 CEST/04: 52 BST/00: 52 hora local em um foguete.",
@@ -2955,40 +3010,12 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "plato-aces-space-like-tests",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/close-up_of_plato_s_cameras/27212574-1-eng-GB/Close-up_of_Plato_s_cameras_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/close-up_of_plato_s_cameras/27212574-1-eng-GB/Close-up_of_Plato_s_cameras_pillars.jpg",
-        "caption": "Close das câmeras de Platão",
-        "caption_pt": "Close das câmeras de Platão",
-        "caption_en": "Close-up of Plato’s cameras",
-        "alt": "Close das câmeras de Platão",
-        "alt_pt": "Close das câmeras de Platão",
-        "alt_en": "Close-up of Plato’s cameras"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/lifting_plato_out_of_the_large_space_simulator/27212621-1-eng-GB/Lifting_Plato_out_of_the_Large_Space_Simulator_pillars.jpg",
-        "caption": "Tirando Platão do Grande Simulador Espacial",
-        "caption_pt": "Tirando Platão do Grande Simulador Espacial",
-        "caption_en": "Lifting Plato out of the Large Space Simulator",
-        "alt": "Tirando Platão do Grande Simulador Espacial",
-        "alt_pt": "Tirando Platão do Grande Simulador Espacial",
-        "alt_en": "Lifting Plato out of the Large Space Simulator"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/plato_leaves_the_large_space_simulator/27212668-1-eng-GB/Plato_leaves_the_Large_Space_Simulator_pillars.jpg",
-        "caption": "Platão deixa o Grande Simulador de Espaço",
-        "caption_pt": "Platão deixa o Grande Simulador de Espaço",
-        "caption_en": "Plato leaves the Large Space Simulator",
-        "alt": "Platão deixa o Grande Simulador de Espaço",
-        "alt_pt": "Platão deixa o Grande Simulador de Espaço",
-        "alt_en": "Plato leaves the Large Space Simulator"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Platão acerta testes espaciais",
@@ -3000,22 +3027,22 @@ window.postsData = [
     "excerpt": "A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra.",
     "excerpt_pt": "A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra.",
     "excerpt_en": "The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial.",
-    "body": "<p>A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres. Plato emergiu recentemente da câmara do Large Space Simulator (LSS) no Centro de Testes da ESA, onde a nave espacial conheceu pela primeira vez os rigores do espaço.</p><p>O objetivo geral da missão é descobrir planetas potencialmente habitáveis, semelhantes à Terra, em torno de estrelas brilhantes semelhantes ao Sol. Para isso, o desempenho das 26 câmeras ultrassensíveis de Platão é crucial.</p><p>“Para encontrar e caracterizar planetas semelhantes à Terra em órbita em torno de estrelas semelhantes ao Sol, precisamos de descobrir variações na luminosidade de uma estrela. Gestor de Projeto Plato da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres. Plato emergiu recentemente da câmara do Large Space Simulator (LSS) no Centro de Testes da ESA, onde a nave espacial conheceu pela primeira vez os rigores do espaço.</p><p>O objetivo geral da missão é descobrir planetas potencialmente habitáveis, semelhantes à Terra, em torno de estrelas brilhantes semelhantes ao Sol. Para isso, o desempenho das 26 câmeras ultrassensíveis de Platão é crucial.</p><p>“Para encontrar e caracterizar planetas semelhantes à Terra em órbita em torno de estrelas semelhantes ao Sol, precisamos de descobrir variações na luminosidade de uma estrela. Gestor de Projeto Plato da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial planets. Plato recently emerged from the Large Space Simulator (LSS) chamber at ESA’s Test Centre, where the spacecraft made its first acquaintance with the rigours of space.</p><p>The mission’s overarching goal is to discover potentially habitable, Earth-like planets around bright stars similar to the Sun. For this, the performance of Plato’s 26 ultrasensitive cameras is crucial.</p><p>“To find and characterise Earth-like planets in orbit around Sun-like stars, we need to tease out variations in a star’s luminosity smaller than 80 parts per million,” explains. ESA’s Plato Project Manager.</p><p>“We want to verify that the spacecraft can do what we expect it to do in harsh as well as nominal space conditions.” During the hot phase, engineers ran all the spacecraft’s. At the same time, they made sure that the cameras, protected by the sunshield and facing the cold part of the chamber, stayed between –70 and –90 °C.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The tests in a space-like environment have been completed, but the analysis of the data collected while Plato was inside the LSS will continue in the coming months. Lift-off on an Ariane 6 is planned by Arianespace for January 2027.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a espaçonave está no caminho certo para decolar no início de 2027 e iniciar sua busca pela Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial planets.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta.",
-      "Dado-chave: Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres.",
+      "Dado-chave: A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço. Com esta.",
-      "Dado-chave: Com esta conquista, a sonda está no caminho certo para decolar no início de 2027 e iniciar a sua busca por planetas terrestres.",
+      "Dado-chave: A missão Plato da Agência Espacial Europeia concluiu com êxito uma série de testes difíceis em condições semelhantes às do espaço.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions. With this accomplishment, the.",
-      "Key detail: With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial planets.",
+      "Key detail: The European Space Agency Plato mission has successfully completed a series of tough tests under space‑like conditions.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "23 abr 2026",
@@ -3088,7 +3115,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "nasa-s-spacex-34th-commercial-resupply-mission-overview",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3193,7 +3220,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "nasa-industry-advance-high-performance-spaceflight-computing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3301,7 +3328,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3437,7 +3464,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3564,7 +3591,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "science-release-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3700,7 +3727,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "webb-hubble-find-massive-star-clusters-emerge-faster",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3805,7 +3832,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "nsf-doe-vera-c-rubin-observatory-launches-real-time-discovery-machine-for-monitoring-the-night-s",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3913,7 +3940,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "tracy-arm-s-post-tsunami-landscape",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4049,7 +4076,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "this-week-s-sky-at-a-glance-may-8-17",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4185,7 +4212,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "spacex-booster-will-hit-the-moon-this-august",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4318,7 +4345,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "astronomers-spot-possible-missing-link-to-webb-s-little-red-dots",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4451,7 +4478,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "nasa-names-brian-hughes-to-launch-operations-role",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4556,7 +4583,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 39,
     "slug": "questar-ceases-operations",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4689,179 +4716,64 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
-    "slug": "cern-s-kicad-component-library-now-open-source",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://home.cern/wp-content/uploads/2026/05/KiCad.png",
-    "inline_images": [
-      {
-        "src": "https://home.cern/cerns-kicad-component-library-now-open-source/context.post.image",
-        "caption": "contexto.post.título",
-        "caption_pt": "contexto.post.título",
-        "caption_en": "context.post.title",
-        "alt": "contexto.post.título",
-        "alt_pt": "contexto.post.título",
-        "alt_en": "context.post.title"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Biblioteca de componentes KiCad do CERN agora de código aberto",
-    "title_pt": "Biblioteca de componentes KiCad do CERN agora de código aberto",
-    "title_en": "CERN’s KiCad component library now open source",
-    "sub": "A pedra angular da filosofia de código aberto é que os destinatários da tecnologia devem ter acesso a todos os seus blocos de construção, como código de software, esquemas para.",
-    "sub_pt": "A pedra angular da filosofia de código aberto é que os destinatários da tecnologia devem ter acesso a todos os seus blocos de construção, como código de software, esquemas para.",
-    "sub_en": "The cornerstone of open source philosophy is that the recipients of technology should have access to all of its building blocks, such as software code, schematics for electronics.",
-    "excerpt": "A pedra angular da filosofia de código aberto é que os destinatários da tecnologia devem ter acesso a todos os seus blocos de construção, como código de software, esquemas para projetos eletrônicos e mecânicos. Isso permite que todos estudem, modifiquem e.",
-    "excerpt_pt": "A pedra angular da filosofia de código aberto é que os destinatários da tecnologia devem ter acesso a todos os seus blocos de construção, como código de software, esquemas para projetos eletrônicos e mecânicos. Isso permite que todos estudem, modifiquem e.",
-    "excerpt_en": "The cornerstone of open source philosophy is that the recipients of technology should have access to all of its building blocks, such as software code, schematics for electronics and mechanical designs. This lets everyone study, modify and.",
-    "body": "<p>A pedra angular da filosofia de código aberto é que os destinatários da tecnologia devem ter acesso a todos os seus blocos de construção, como código de software, esquemas para projetos eletrônicos e mecânicos. Isso permite que todos estudem, modifiquem e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Computação da biblioteca de componentes KiCad do CERN agora de código aberto Designers de todo o mundo agora podem usar a biblioteca completa de componentes do CERN no KiCad, uma. Comunidade CERN internet Biblioteca de transferência de conhecimento Notícias ciência aberta Artigos relacionados à World Wide Web Ver todas as notícias Nenhuma postagem foi.</p><p>Designers de todo o mundo podem agora usar a biblioteca completa de componentes do CERN no KiCad, uma ferramenta gratuita e de código aberto para projetar placas de circuito. Desde o lançamento do software World Wide Web sob uma licença de código aberto em 1994, o CERN continuou a ser pioneiro no campo do código aberto.</p><p>Isto incluiu a promoção do uso de hardware de código aberto (através da Licença de Hardware Aberto do CERN) e software livre e de código aberto, bem como o apoio à publicação de. Todas estas atividades aparecem com destaque na Política de Ciência Aberta do CERN.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://home.cern/cerns-kicad-component-library-now-open-source/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A pedra angular da filosofia de código aberto é que os destinatários da tecnologia devem ter acesso a todos os seus blocos de construção, como código de software, esquemas para projetos eletrônicos e mecânicos. Isso permite que todos estudem, modifiquem e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Computação da biblioteca de componentes KiCad do CERN agora de código aberto Designers de todo o mundo agora podem usar a biblioteca completa de componentes do CERN no KiCad, uma. Comunidade CERN internet Biblioteca de transferência de conhecimento Notícias ciência aberta Artigos relacionados à World Wide Web Ver todas as notícias Nenhuma postagem foi.</p><p>Designers de todo o mundo podem agora usar a biblioteca completa de componentes do CERN no KiCad, uma ferramenta gratuita e de código aberto para projetar placas de circuito. Desde o lançamento do software World Wide Web sob uma licença de código aberto em 1994, o CERN continuou a ser pioneiro no campo do código aberto.</p><p>Isto incluiu a promoção do uso de hardware de código aberto (através da Licença de Hardware Aberto do CERN) e software livre e de código aberto, bem como o apoio à publicação de. Todas estas atividades aparecem com destaque na Política de Ciência Aberta do CERN.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://home.cern/cerns-kicad-component-library-now-open-source/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The cornerstone of open source philosophy is that the recipients of technology should have access to all of its building blocks, such as software code, schematics for electronics and mechanical designs. This lets everyone study, modify and. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. Computing CERN’s KiCad component library now open source Designers all over the world can now use CERN’s complete component library in KiCad, a free and open source tool for. CERN community internet Knowledge transfer library News open science World Wide Web Related Articles View all news No posts were found.</p><p>Designers all over the world can now use CERN’s complete component library in KiCad, a free and open source tool for designing printed circuit boards The cornerstone of open. Since releasing the World Wide Web software under an open source licence in 1994, CERN has continued to be a pioneer in the field of open source.</p><p>This has included promoting the use of open source hardware (through the CERN Open Hardware Licence ) and free and open source software, as well as supporting open access. All these activities feature prominently in CERN’s Open Science Policy.</p><p>Many hardware designers publish their designs under the CERN Open Hardware Licence. First released in 1992 by French developer Jean-Pierre Charras, KiCad is a free and open source software suite for printed circuit board design.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>At CERN, hardware designers usually draw schematics and delegate the layout tasks to the Design Office ( BE-CEM-EPR). The Office maintains a library of component symbols (for the schematics) and footprints (for the layout), which includes more than 17,000 electronic components that designers can.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://home.cern/cerns-kicad-component-library-now-open-source/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A pedra angular da filosofia de código aberto é que os destinatários da tecnologia devem ter acesso a todos os seus blocos de construção, como código.",
-      "Dado-chave: Computação da biblioteca de componentes KiCad do CERN agora de código aberto Designers de todo o mundo agora podem usar a biblioteca completa de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A pedra angular da filosofia de código aberto é que os destinatários da tecnologia devem ter acesso a todos os seus blocos de construção, como código.",
-      "Dado-chave: Computação da biblioteca de componentes KiCad do CERN agora de código aberto Designers de todo o mundo agora podem usar a biblioteca completa de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The cornerstone of open source philosophy is that the recipients of technology should have access to all of its building blocks, such as software.",
-      "Key detail: Computing CERN’s KiCad component library now open source Designers all over the world can now use CERN’s complete component library in KiCad, a.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "07 mai 2026",
-    "date_pt": "07 mai 2026",
-    "date_en": "07 May 2026",
-    "time": "11h02",
-    "time_pt": "11h02",
-    "time_en": "11:02 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-07T11:02:21+00:00",
-    "lastModifiedIso": "2026-05-07T11:02:21+00:00",
-    "source": "CERN News",
-    "sourceDomain": "home.cern",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Cosmologia",
-      "CERN News",
-      "Cosmos Week",
-      "Biblioteca de componentes KiCad do CERN agora de código aberto"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "CERN News",
-      "Cosmos Week",
-      "Biblioteca de componentes KiCad do CERN agora de código aberto"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "CERN News",
-      "Cosmos Week",
-      "CERN's KiCad component library now open source"
-    ],
-    "srcUrl": "https://home.cern/cerns-kicad-component-library-now-open-source/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=cern-s-kicad-component-library-now-open-source",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=cern-s-kicad-component-library-now-open-source",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=cern-s-kicad-component-library-now-open-source&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 73,
-    "scoreBreakdown": {
-      "source": 86,
-      "evidence": 82,
-      "relevance": 74,
-      "accessibility": 52,
-      "novelty": 49
-    }
-  },
-  {
     "id": 40,
-    "slug": "first-timber-beam-installed-for-cern-s-new-building-777",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://home.cern/wp-content/uploads/2026/05/777_HighRes-1.jpg",
+    "slug": "pentagon-ufo-files-released-views-from-the-moon-and-more",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2026/05/Apollo-12-UAP-November-1969.jpeg",
     "inline_images": [
       {
-        "src": "https://home.cern/first-timber-beam-installed-for-cerns-new-building-777/context.post.image",
-        "caption": "contexto.post.título",
-        "caption_pt": "contexto.post.título",
-        "caption_en": "context.post.title",
-        "alt": "contexto.post.título",
-        "alt_pt": "contexto.post.título",
-        "alt_en": "context.post.title"
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
       }
     ],
     "video": null,
     "audio": null,
-    "title": "Primeira viga de madeira instalada para o novo Edifício 777 do CERN",
-    "title_pt": "Primeira viga de madeira instalada para o novo Edifício 777 do CERN",
-    "title_en": "First timber beam installed for CERN’s new Building 777",
-    "sub": "Na sexta-feira, 14 de abril de 2026, o CERN celebrou um marco importante na construção do futuro Edifício 777 nas instalações de Prévessin: em vez de lançar a tradicional pedra.",
-    "sub_pt": "Na sexta-feira, 14 de abril de 2026, o CERN celebrou um marco importante na construção do futuro Edifício 777 nas instalações de Prévessin: em vez de lançar a tradicional pedra.",
-    "sub_en": "On Friday, 14 April 2026, CERN celebrated an important milestone in the construction of the future Building 777 on the Prévessin site: instead of laying the traditional foundation.",
-    "excerpt": "Na sexta-feira, 14 de abril de 2026, o CERN celebrou um marco importante na construção do futuro Edifício 777 nas instalações de Prévessin: em vez de lançar a tradicional pedra fundamental, o projeto começou com a instalação da sua.",
-    "excerpt_pt": "Na sexta-feira, 14 de abril de 2026, o CERN celebrou um marco importante na construção do futuro Edifício 777 nas instalações de Prévessin: em vez de lançar a tradicional pedra fundamental, o projeto começou com a instalação da sua.",
-    "excerpt_en": "On Friday, 14 April 2026, CERN celebrated an important milestone in the construction of the future Building 777 on the Prévessin site: instead of laying the traditional foundation stone, the project started with the installation of its.",
-    "body": "<p>Na sexta-feira, 14 de abril de 2026, o CERN celebrou um marco importante na construção do futuro Edifício 777 nas instalações de Prévessin: em vez de lançar a tradicional pedra fundamental, o projeto começou com a instalação da sua. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Na sexta-feira, 14 de abril de 2026, o CERN celebrou um marco importante na construção do futuro Edifício 777 no local de Prévessin: em vez de colocar a tradicional pedra. No CERN Primeira viga de madeira instalada para o novo Edifício 777 do CERN Em 14 de abril de 2026, o CERN marcou um marco importante para o Edifício 777 em Prévessin com a.</p><p>Para mais informações sobre o projeto Building 777: https: //building777. web. cern. ch/ Acompanhe as atualizações de construção: https: //building777. web. cern. ch/news/ O CERN. Em 14 de abril de 2026, o CERN marcou um marco importante para o Edifício 777 em Prévessin com a instalação da sua primeira viga de madeira. Da esquerda para a direita: Bernard.</p><p>Cavazza) Na sexta-feira, 14 de abril de 2026, o CERN celebrou um marco importante na construção do futuro Edifício 777 no local de Prévessin: em vez de colocar a tradicional pedra. Mar Capeáns, Diretor de Operações Locais do CERN, o arquiteto Søren Øllgaard e Bernard Chauvet, Prefeito de Prévessin-Moëns, estiveram presentes para instalar a primeira viga de.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://home.cern/first-timber-beam-installed-for-cerns-new-building-777/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Na sexta-feira, 14 de abril de 2026, o CERN celebrou um marco importante na construção do futuro Edifício 777 nas instalações de Prévessin: em vez de lançar a tradicional pedra fundamental, o projeto começou com a instalação da sua. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Na sexta-feira, 14 de abril de 2026, o CERN celebrou um marco importante na construção do futuro Edifício 777 no local de Prévessin: em vez de colocar a tradicional pedra. No CERN Primeira viga de madeira instalada para o novo Edifício 777 do CERN Em 14 de abril de 2026, o CERN marcou um marco importante para o Edifício 777 em Prévessin com a.</p><p>Para mais informações sobre o projeto Building 777: https: //building777. web. cern. ch/ Acompanhe as atualizações de construção: https: //building777. web. cern. ch/news/ O CERN. Em 14 de abril de 2026, o CERN marcou um marco importante para o Edifício 777 em Prévessin com a instalação da sua primeira viga de madeira. Da esquerda para a direita: Bernard.</p><p>Cavazza) Na sexta-feira, 14 de abril de 2026, o CERN celebrou um marco importante na construção do futuro Edifício 777 no local de Prévessin: em vez de colocar a tradicional pedra. Mar Capeáns, Diretor de Operações Locais do CERN, o arquiteto Søren Øllgaard e Bernard Chauvet, Prefeito de Prévessin-Moëns, estiveram presentes para instalar a primeira viga de.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://home.cern/first-timber-beam-installed-for-cerns-new-building-777/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>On Friday, 14 April 2026, CERN celebrated an important milestone in the construction of the future Building 777 on the Prévessin site: instead of laying the traditional foundation stone, the project started with the installation of its. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. At CERN First timber beam installed for CERN’s new Building 777 On 14 April 2026, CERN marked a key milestone for Building 777 in Prévessin with the installation of its first. For more information about the Building 777 project: https: //building777. web. cern. ch/ Follow construction updates: https: //building777. web. cern. ch/news/ CERN and the.</p><p>On 14 April 2026, CERN marked a key milestone for Building 777 in Prévessin with the installation of its first timber beam From left to right: Bernard Chauvet, Mar Capeáns, Søren. Cavazza) On Friday, 14 April 2026, CERN celebrated an important milestone in the construction of the future Building 777 on the Prévessin site: instead of laying the traditional.</p><p>Mar Capeáns, CERN’s Director for Site Operations, architect Søren Øllgaard and Bernard Chauvet, Mayor of Prévessin-Moëns, were present to install the first timber beam, alongside. As Bernard Chauvet noted during the ceremony: “ T his project reflects the belief that fundamental research and sustainability are closely linked and must serve a more sustainable.</p><p>As the Organization’s first timber construction, it puts sustainability at the forefront. As outlined in the Organization’s 2023, 2024 Environment Report, CERN’s infrastructure projects are designed to minimise environmental impact at every stage.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Building 777 is one of the projects developed under this methodology. Initiated in 2023 and scheduled for completion in 2027, it is set to become a central hub for the Prévessin site, hosting offices, a restaurant, laboratories and workshops.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://home.cern/first-timber-beam-installed-for-cerns-new-building-777/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Arquivos de OVNIs do Pentágono divulgados: vistas da lua e muito mais",
+    "title_pt": "Arquivos de OVNIs do Pentágono divulgados: vistas da lua e muito mais",
+    "title_en": "Pentagon UFO files released: Views from the moon and more",
+    "sub": "Em 8 de maio de 2026, o Pentágono dos EUA divulgou seu primeiro lote de arquivos de OVNIs do Pentágono. Eles incluem algumas das missões lunares Apollo 11, 12 e 17. Os arquivos.",
+    "sub_pt": "Em 8 de maio de 2026, o Pentágono dos EUA divulgou seu primeiro lote de arquivos de OVNIs do Pentágono. Eles incluem algumas das missões lunares Apollo 11, 12 e 17. Os arquivos.",
+    "sub_en": "On May 8, 2026, the U. S. Pentagon released its 1st batch of Pentagon UFO files. They include some from Apollo moon missions 11, 12 and 17. The post Pentagon UFO files released.",
+    "excerpt": "Em 8 de maio de 2026, o Pentágono dos EUA divulgou seu primeiro lote de arquivos de OVNIs do Pentágono. Eles incluem algumas das missões lunares Apollo 11, 12 e 17. Os arquivos OVNI pós-Pentágono divulgados: Vistas da lua e mais apareceram pela primeira vez.",
+    "excerpt_pt": "Em 8 de maio de 2026, o Pentágono dos EUA divulgou seu primeiro lote de arquivos de OVNIs do Pentágono. Eles incluem algumas das missões lunares Apollo 11, 12 e 17. Os arquivos OVNI pós-Pentágono divulgados: Vistas da lua e mais apareceram pela primeira vez.",
+    "excerpt_en": "On May 8, 2026, the U. S. Pentagon released its 1st batch of Pentagon UFO files. They include some from Apollo moon missions 11, 12 and 17. The post Pentagon UFO files released: Views from the moon and more first appeared on EarthSky.",
+    "body": "<p>Em 8 de maio de 2026, o Pentágono dos EUA divulgou seu primeiro lote de arquivos de OVNIs do Pentágono. Eles incluem algumas das missões lunares Apollo 11, 12 e 17. Os arquivos OVNI pós-Pentágono divulgados: Vistas da lua e mais apareceram pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Arquivos de OVNIs do Pentágono lançados: Vistas da lua e mais apareceram pela primeira vez no EarthSky. | Um UAP, Fenômeno Anômalo Não Identificado, da missão Apollo 12 de 1969 à Lua.</p><p>Existem 162 arquivos no total, incluindo 12 da NASA. Os da NASA são da Apollo 12, Apollo 17 e Gemini 7.</p><p>Em 8 de maio de 2026 foram divulgados os primeiros registros públicos. Neste primeiro lote, são 162 registros no total.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/human-world/pentagon-ufo-files-uap-views-from-moon-nasa/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Em 8 de maio de 2026, o Pentágono dos EUA divulgou seu primeiro lote de arquivos de OVNIs do Pentágono. Eles incluem algumas das missões lunares Apollo 11, 12 e 17. Os arquivos OVNI pós-Pentágono divulgados: Vistas da lua e mais apareceram pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Arquivos de OVNIs do Pentágono lançados: Vistas da lua e mais apareceram pela primeira vez no EarthSky. | Um UAP, Fenômeno Anômalo Não Identificado, da missão Apollo 12 de 1969 à Lua.</p><p>Existem 162 arquivos no total, incluindo 12 da NASA. Os da NASA são da Apollo 12, Apollo 17 e Gemini 7.</p><p>Em 8 de maio de 2026 foram divulgados os primeiros registros públicos. Neste primeiro lote, são 162 registros no total.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/human-world/pentagon-ufo-files-uap-views-from-moon-nasa/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>On May 8, 2026, the U. S. Pentagon released its 1st batch of Pentagon UFO files. They include some from Apollo moon missions 11, 12 and 17. The post Pentagon UFO files released: Views from the moon and more first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The post Pentagon UFO files released: Views from the moon and more first appeared on EarthSky. | A UAP, Unidentified Anomalous Phenomenon, from the 1969 Apollo 12 mission to the moon.</p><p>There are 162 files in total, including 12 from NASA. The NASA ones are from Apollo 12, Apollo 17 and Gemini 7.</p><p>On May 8, 2026, the first public records were released. In this first batch, there are 162 records in total.</p><p>Eighty-two of the total came from the Pentagon, 56 from the FBI, 12 from NASA, eight from the State Department and four with the agency not identified. New Pentagon UFO files include reports from moon landings trib. al/DJBprKC, Task &amp; Purpose (@taskandpurpose. com) 2026-05-08T18: 45: 07.649633Z Details on Pentagon UFO files This.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The historical files, largely from the 1940s to 1960s, are FBI files, NASA transcripts and photos, State Department cables and Cold War-era UFO reports. Apollo 11, 12 and 17 The files contain some of the old NASA UAP reports.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/human-world/pentagon-ufo-files-uap-views-from-moon-nasa/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Na sexta-feira, 14 de abril de 2026, o CERN celebrou um marco importante na construção do futuro Edifício 777 nas instalações de Prévessin: em vez de.",
-      "Dado-chave: Na sexta-feira, 14 de abril de 2026, o CERN celebrou um marco importante na construção do futuro Edifício 777 no local de Prévessin: em vez de.",
+      "Ponto central: Em 8 de maio de 2026, o Pentágono dos EUA divulgou seu primeiro lote de arquivos de OVNIs do Pentágono. Eles incluem algumas das missões lunares.",
+      "Dado-chave: O post Arquivos de OVNIs do Pentágono lançados: Vistas da lua e mais apareceram pela primeira vez no EarthSky.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Na sexta-feira, 14 de abril de 2026, o CERN celebrou um marco importante na construção do futuro Edifício 777 nas instalações de Prévessin: em vez de.",
-      "Dado-chave: Na sexta-feira, 14 de abril de 2026, o CERN celebrou um marco importante na construção do futuro Edifício 777 no local de Prévessin: em vez de.",
+      "Ponto central: Em 8 de maio de 2026, o Pentágono dos EUA divulgou seu primeiro lote de arquivos de OVNIs do Pentágono. Eles incluem algumas das missões lunares.",
+      "Dado-chave: O post Arquivos de OVNIs do Pentágono lançados: Vistas da lua e mais apareceram pela primeira vez no EarthSky.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: On Friday, 14 April 2026, CERN celebrated an important milestone in the construction of the future Building 777 on the Prévessin site: instead of.",
-      "Key detail: On Friday, 14 April 2026, CERN celebrated an important milestone in the construction of the future Building 777 on the Prévessin site: instead.",
+      "Core point: On May 8, 2026, the U. S. Pentagon released its 1st batch of Pentagon UFO files. They include some from Apollo moon missions 11, 12 and 17. The post.",
+      "Key detail: The post Pentagon UFO files released: Views from the moon and more first appeared on EarthSky.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "07 mai 2026",
-    "date_pt": "07 mai 2026",
-    "date_en": "07 May 2026",
-    "time": "09h56",
-    "time_pt": "09h56",
-    "time_en": "09:56 UTC",
+    "date": "10 mai 2026",
+    "date_pt": "10 mai 2026",
+    "date_en": "10 May 2026",
+    "time": "12h00",
+    "time_pt": "12h00",
+    "time_en": "12:00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-07T09:56:35+00:00",
-    "lastModifiedIso": "2026-05-07T09:56:35+00:00",
-    "source": "CERN News",
-    "sourceDomain": "home.cern",
+    "publishedIso": "2026-05-10T12:00:47+00:00",
+    "lastModifiedIso": "2026-05-10T12:00:47+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -4878,27 +4790,30 @@ window.postsData = [
     "editorialBandLabel_pt": "Prioridade editorial",
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
-      "Cosmologia",
-      "CERN News",
+      "Ciências da Terra",
+      "EarthSky",
       "Cosmos Week",
-      "Primeira viga de madeira instalada para o novo Edifício 777 do CERN"
+      "Arquivos de OVNIs do Pentágono divulgados",
+      "vistas da lua e muito mais"
     ],
     "keywords_pt": [
-      "Cosmologia",
-      "CERN News",
+      "Ciências da Terra",
+      "EarthSky",
       "Cosmos Week",
-      "Primeira viga de madeira instalada para o novo Edifício 777 do CERN"
+      "Arquivos de OVNIs do Pentágono divulgados",
+      "vistas da lua e muito mais"
     ],
     "keywords_en": [
-      "Cosmology",
-      "CERN News",
+      "Earth Sciences",
+      "EarthSky",
       "Cosmos Week",
-      "First wooden beam installed for the new CERN Building 777"
+      "Pentagon UFO files released",
+      "moon views and more"
     ],
-    "srcUrl": "https://home.cern/first-timber-beam-installed-for-cerns-new-building-777/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=first-timber-beam-installed-for-cern-s-new-building-777",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=first-timber-beam-installed-for-cern-s-new-building-777",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=first-timber-beam-installed-for-cern-s-new-building-777&lang=en",
+    "srcUrl": "https://earthsky.org/human-world/pentagon-ufo-files-uap-views-from-moon-nasa/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=pentagon-ufo-files-released-views-from-the-moon-and-more",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=pentagon-ufo-files-released-views-from-the-moon-and-more",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=pentagon-ufo-files-released-views-from-the-moon-and-more&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -4909,13 +4824,13 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 73,
+    "score": 72,
     "scoreBreakdown": {
-      "source": 86,
+      "source": 72,
       "evidence": 82,
-      "relevance": 74,
-      "accessibility": 52,
-      "novelty": 49
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 52
     }
   }
 ];

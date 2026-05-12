@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 12 May 2026 08:12:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 11:03:14 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>Modelo de cuidados de baixo custo reduz a pressão arterial em populações de alto risco</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=low-cost-care-model-reduces-blood-pressure-in-high-risk-populations</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=low-cost-care-model-reduces-blood-pressure-in-high-risk-populations</guid>
-              <pubDate>Tue, 12 May 2026 08:11:26 +0000</pubDate>
+              <pubDate>Tue, 12 May 2026 11:01:41 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ensaio clínico apoiado pelo NIH mostra que a estratégia de cuidados coordenados é mais eficaz do que os cuidados padrão</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de cuidados de baixo custo reduz a pressão arterial em populações de alto risco</category>
@@ -21,7 +21,7 @@
               <title>Avanço financiado pelo NIH reduz o CRISPR para entrega precisa no corpo</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-breakthrough-shrinks-crispr-for-precision-delivery-in-the-body</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-breakthrough-shrinks-crispr-for-precision-delivery-in-the-body</guid>
-              <pubDate>Tue, 12 May 2026 08:11:26 +0000</pubDate>
+              <pubDate>Tue, 12 May 2026 11:01:41 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Avanço financiado pelo NIH reduz o CRISPR para entrega precisa no corpo</category>
@@ -31,7 +31,7 @@
               <title>Dr. Jonathan M. Green selecionado como CEO do NIH Clinical Center</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=dr-jonathan-m-green-selected-as-ceo-of-the-nih-clinical-center</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=dr-jonathan-m-green-selected-as-ceo-of-the-nih-clinical-center</guid>
-              <pubDate>Tue, 12 May 2026 08:11:26 +0000</pubDate>
+              <pubDate>Tue, 12 May 2026 11:01:41 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O NIH Clinical Center é o maior hospital de pesquisa do mundo.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Dr. Jonathan M. Green selecionado como CEO do NIH Clinical Center</category>
@@ -41,7 +41,7 @@
               <title>Modelo de IA financiado pelo NIH prevê sobrevivência ao câncer a partir de dados de tumores unicelulares</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-ai-model-predicts-cancer-survival-from-single-cell-tumor-data</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-ai-model-predicts-cancer-survival-from-single-cell-tumor-data</guid>
-              <pubDate>Tue, 12 May 2026 08:11:26 +0000</pubDate>
+              <pubDate>Tue, 12 May 2026 11:01:41 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Num estudo financiado pelos Institutos Nacionais de Saúde, os investigadores desenvolveram uma ferramenta de avaliação do cancro que pode identificar pacientes de alto risco e as células tumorais ligadas a esse risco.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de IA financiado pelo NIH prevê sobrevivência ao câncer a partir de dados de tumores unicelulares</category>
@@ -51,12 +51,42 @@
               <title>Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis</guid>
-              <pubDate>Tue, 12 May 2026 08:11:26 +0000</pubDate>
+              <pubDate>Tue, 12 May 2026 11:01:41 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica</category>
               <source url="https://www.nih.gov/news-events/news-releases/clinical-trial-finds-no-difference-fluid-treatment-options-pediatric-sepsis">NIH News Releases</source>
               <content:encoded>O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Um grand</content:encoded>
+            </item><item>
+              <title>Super-Terra próxima, quente e sem ar, perto de sua estrela</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nearby-super-earth-hot-and-airless-close-to-its-star</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nearby-super-earth-hot-and-airless-close-to-its-star</guid>
+              <pubDate>Tue, 12 May 2026 11:00:28 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>O telescópio espacial Webb observou o exoplaneta LHS 3844 b. Encontrou a super-Terra quente e sem ar, provavelmente semelhante a uma versão maior de Mercúrio ou da Lua. O post Super-Terra próxima, quente e sem ar, perto de sua estrela apareceu pela primeira.</description>
+              <category>Exoplanetas</category><category>EarthSky</category><category>Cosmos Week</category><category>Super</category>
+              <source url="https://earthsky.org/space/super-earth-hot-and-airless-lhs-3844-b-webb-space-telescope/">EarthSky</source>
+              <content:encoded>O telescópio espacial Webb observou o exoplaneta LHS 3844 b. Encontrou a super-Terra quente e sem ar, provavelmente semelhante a uma versão maior de Mercúrio ou da Lua. O post Super-Terra próxima, quente e sem ar, perto de sua estrela apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses q</content:encoded>
+            </item><item>
+              <title>Polaris é a atual Estrela Polar da Terra</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=polaris-is-the-present-day-north-star-of-earth</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=polaris-is-the-present-day-north-star-of-earth</guid>
+              <pubDate>Tue, 12 May 2026 10:15:25 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Muitas pessoas pensam que Polaris é a estrela mais brilhante, mas tem apenas o 48º lugar em brilho. Ainda assim, Polaris é famosa porque todo o céu do norte gira em torno dela. O post Polaris é a atual Estrela do Norte da Terra apareceu pela primeira vez.</description>
+              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>Polaris é a atual Estrela Polar da Terra</category>
+              <source url="https://earthsky.org/brightest-stars/polaris-the-present-day-north-star/">EarthSky</source>
+              <content:encoded>Muitas pessoas pensam que Polaris é a estrela mais brilhante, mas tem apenas o 48º lugar em brilho. Ainda assim, Polaris é famosa porque todo o céu do norte gira em torno dela. O post Polaris é a atual Estrela do Norte da Terra apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que</content:encoded>
+            </item><item>
+              <title>Como acompanhar o lançamento do Smile ao vivo</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=how-to-follow-the-smile-launch-live</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=how-to-follow-the-smile-launch-live</guid>
+              <pubDate>Tue, 12 May 2026 09:30:00 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>A ESA transmitirá ao vivo o lançamento da missão Smile Europeu-Chinesa às 04:52 BST/05:52 CEST do dia 19 de maio de 2026. O Smile será lançado num foguetão europeu Vega-C a partir do porto espacial europeu na Guiana Francesa. Horários sujeitos a alterações em.</description>
+              <category>Astronomia</category><category>ESA Space Science</category><category>Cosmos Week</category><category>Como acompanhar o lançamento do Smile ao vivo</category>
+              <source url="https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live">ESA Space Science</source>
+              <content:encoded>A ESA transmitirá ao vivo o lançamento da missão Smile Europeu-Chinesa às 04: 52 BST/05: 52 CEST do dia 19 de maio de 2026. O Smile será lançado num foguetão europeu Vega-C a partir do porto espacial europeu na Guiana Francesa. Horários sujeitos a alterações em breve. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que u</content:encoded>
             </item><item>
               <title>A beleza nublada da Austrália</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=australia-s-cloudy-beauty</link>
@@ -78,36 +108,6 @@
               <source url="https://phys.org/news/2026-05-size-limit-habitable-exoplanets.html">Phys.org Space</source>
               <content:encoded>A busca pela Terra 2.0 começou para valer. Mas há uma enorme variedade de exoplanetas por aí, por isso é fundamental restringir a pesquisa para concentrar o valioso tempo do telescópio apenas nos melhores candidatos. Uma variável de um planeta que irá. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros com</content:encoded>
             </item><item>
-              <title>Blog Curiosity, Sols 4886-4892: Engenhosidade e Perseverança, Estilo Curiosidade</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style</guid>
-              <pubDate>Tue, 12 May 2026 01:38:30 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Escrito por Michelle Minitti, investigadora principal adjunta da MAHLI Data de planejamento da Terra: sexta-feira, 8 de maio de 2026 Embora saibamos que os apelidos Ingenuidade e Perseverança estão anexados ao nosso helicóptero e rover irmão na missão Marte.</description>
-              <category>Ciências da Terra</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Blog Curiosity</category>
-              <source url="https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/">NASA News Releases</source>
-              <content:encoded>Escrito por Michelle Minitti, investigadora principal adjunta da MAHLI Data de planejamento da Terra: sexta-feira, 8 de maio de 2026 Embora saibamos que os apelidos Ingenuidade e Perseverança estão anexados ao nosso helicóptero e rover irmão na missão Marte 2020, aqueles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espaci</content:encoded>
-            </item><item>
-              <title>Testes de células de combustível da NASA abrem caminho para armazenamento de energia na Lua</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-fuel-cell-tests-pave-way-for-energy-storage-on-the-moon</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-fuel-cell-tests-pave-way-for-energy-storage-on-the-moon</guid>
-              <pubDate>Mon, 11 May 2026 23:40:03 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Com um pequeno guindaste azul, quatro pesquisadores içam no ar uma célula de combustível cilíndrica, que se parece com uma pilha de latas de refrigerante prateadas e douradas achatadas, e a colocam em um carrinho retangular sobre rodas. Um emaranhado de tubos.</description>
-              <category>Biologia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Testes de células de combustível da NASA abrem caminho para armazenamento de energia na Lua</category>
-              <source url="https://phys.org/news/2026-05-nasa-fuel-cell-pave-energy.html">Phys.org Space</source>
-              <content:encoded>Com um pequeno guindaste azul, quatro pesquisadores içam no ar uma célula de combustível cilíndrica, que se parece com uma pilha de latas de refrigerante prateadas e douradas achatadas, e a colocam em um carrinho retangular sobre rodas. Um emaranhado de tubos e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta pur</content:encoded>
-            </item><item>
-              <title>Como 'Snowball Earth' foi um cabo de guerra</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=how-snowball-earth-was-a-tug-of-war</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=how-snowball-earth-was-a-tug-of-war</guid>
-              <pubDate>Mon, 11 May 2026 22:00:54 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Um novo estudo realizado por cientistas planetários de Harvard oferece uma explicação para um dos grandes enigmas climáticos da Terra: como a glaciação Sturtian, uma antiga era glacial em que o planeta estava quase totalmente congelado, poderia ter durado 56.</description>
-              <category>Ciências da Terra</category><category>Universe Today</category><category>Cosmos Week</category><category>Como 'Snowball Earth' foi um cabo de guerra</category>
-              <source url="https://www.universetoday.com/articles/how-snowball-earth-was-a-tug-of-war">Universe Today</source>
-              <content:encoded>Um novo estudo realizado por cientistas planetários de Harvard oferece uma explicação para um dos grandes enigmas climáticos da Terra: como a glaciação Sturtian, uma antiga era glacial em que o planeta estava quase totalmente congelado, poderia ter durado 56 milhões de anos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura esp</content:encoded>
-            </item><item>
               <title>Pesquisa do Hubble define a visão futura de Roman perto do centro da Via Láctea</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=hubble-survey-sets-up-roman-s-future-look-near-milky-way-s-center</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=hubble-survey-sets-up-roman-s-future-look-near-milky-way-s-center</guid>
@@ -117,16 +117,6 @@
               <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Pesquisa do Hubble define a visão futura de Roman perto do centro da Via Láctea</category>
               <source url="https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/">NASA News Releases</source>
               <content:encoded>O bojo galáctico da Via Láctea, a região bulbosa que circunda o centro galáctico, contém uma densa coleção de estrelas, planetas e outros objetos flutuantes. Esta região tem sido estudada há décadas com numerosos estudos terrestres e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa trian</content:encoded>
-            </item><item>
-              <title>Smile será lançado em 19 de maio</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=smile-set-to-launch-on-19-may</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=smile-set-to-launch-on-19-may</guid>
-              <pubDate>Thu, 23 Apr 2026 14:43:00 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C.</description>
-              <category>Astronomia</category><category>ESA Space Science</category><category>Cosmos Week</category><category>Smile será lançado em 19 de maio</category>
-              <source url="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May">ESA Space Science</source>
-              <content:encoded>A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Smile Euro</content:encoded>
             </item><item>
               <title>Nicholas Houghton: Segurança da tripulação de engenharia para as missões Artemis da NASA</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nicholas-houghton-engineering-crew-safety-for-nasa-s-artemis-missions</link>
@@ -198,15 +188,25 @@
               <source url="https://skyandtelescope.org/astronomy-news/nearby-super-earth-has-no-atmosphere/">Sky &amp; Telescope</source>
               <content:encoded>O Telescópio Espacial James Webb observou a superfície de um exoplaneta rochoso nu, revelando rochas antigas e escuras semelhantes às da nossa Lua. A postagem Super-Terra próxima não tem atmosfera e uma superfície escura semelhante à lua apareceu pela primeira vez em Sky &amp;. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringi</content:encoded>
             </item><item>
-              <title>Falsos positivos minerais na busca por bioassinaturas de superfície de exoplanetas</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=mineral-false-positives-in-the-search-for-exoplanet-surface-biosignatures</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=mineral-false-positives-in-the-search-for-exoplanet-surface-biosignatures</guid>
-              <pubDate>Mon, 11 May 2026 14:33:28 +0000</pubDate>
+              <title>Galáxia primitiva não rotativa é uma surpresa para os astrônomos</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=non-rotating-early-galaxy-is-a-surprise-to-astronomers</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=non-rotating-early-galaxy-is-a-surprise-to-astronomers</guid>
+              <pubDate>Sat, 09 May 2026 15:00:02 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Na busca por vida no cosmos, os biopigmentos nas superfícies dos exoplanetas são um alvo crítico. Tais pigmentos foram detectados no espectro da Terra através da "vegetação" ou "borda vermelha da fotossíntese", um aumento acentuado e escalonado.</description>
-              <category>Exoplanetas</category><category>arXiv Astrophysics</category><category>Cosmos Week</category><category>Falsos positivos minerais na busca por bioassinaturas de superfície de exoplanetas</category>
-              <source url="https://arxiv.org/abs/2605.10646v1">arXiv Astrophysics</source>
-              <content:encoded>Na busca por vida no cosmos, os biopigmentos nas superfícies dos exoplanetas são um alvo crítico. Tais pigmentos foram detectados no espectro da Terra através da "vegetação" ou "borda vermelha da fotossíntese", um aumento acentuado e escalonado. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isol</content:encoded>
+              <description>Astrônomos que usaram o Telescópio Espacial James Webb fizeram uma descoberta surpreendente sobre uma galáxia há muito, muito tempo atrás e muito, muito distante: ela não está girando. Isso é algo visto apenas nas galáxias mais massivas e maduras que estão.</description>
+              <category>Física</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Galáxia primitiva não rotativa é uma surpresa para os astrônomos</category>
+              <source url="https://phys.org/news/2026-05-rotating-early-galaxy-astronomers.html">Phys.org Space</source>
+              <content:encoded>Astrônomos que usaram o Telescópio Espacial James Webb fizeram uma descoberta surpreendente sobre uma galáxia há muito, muito tempo atrás e muito, muito distante: ela não está girando. Isso é algo visto apenas nas galáxias mais massivas e maduras que estão mais próximas de nós. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém d</content:encoded>
+            </item><item>
+              <title>Solitário planeta parecido com Júpiter, a 900 anos-luz de distância, nos diz mais sobre gigantes gasosos</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=lonely-jupiter-like-planet-900-light-years-away-tells-us-more-about-gas-giants</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=lonely-jupiter-like-planet-900-light-years-away-tells-us-more-about-gas-giants</guid>
+              <pubDate>Sat, 09 May 2026 09:50:01 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Certa noite, no outono passado, Paul Smith, graduado em astrofísica da Universidade de Cincinnati, esperou ansiosamente que os dados começassem a rolar pela tela de seu computador vindos do Telescópio Espacial James Webb, a um milhão de quilômetros da Terra.</description>
+              <category>Física</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Solitário planeta parecido com Júpiter</category>
+              <source url="https://phys.org/news/2026-05-lonely-jupiter-planet-years-gas.html">Phys.org Space</source>
+              <content:encoded>Certa noite, no outono passado, Paul Smith, graduado em astrofísica da Universidade de Cincinnati, esperou ansiosamente que os dados começassem a rolar pela tela de seu computador vindos do Telescópio Espacial James Webb, a um milhão de quilômetros da Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas </content:encoded>
             </item>
   </channel>
 </rss>

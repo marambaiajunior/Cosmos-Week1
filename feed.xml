@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 12 May 2026 01:24:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 05:10:54 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>Modelo de cuidados de baixo custo reduz a pressão arterial em populações de alto risco</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=low-cost-care-model-reduces-blood-pressure-in-high-risk-populations</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=low-cost-care-model-reduces-blood-pressure-in-high-risk-populations</guid>
-              <pubDate>Tue, 12 May 2026 01:21:02 +0000</pubDate>
+              <pubDate>Tue, 12 May 2026 05:08:20 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ensaio clínico apoiado pelo NIH mostra que a estratégia de cuidados coordenados é mais eficaz do que os cuidados padrão</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de cuidados de baixo custo reduz a pressão arterial em populações de alto risco</category>
@@ -21,7 +21,7 @@
               <title>Avanço financiado pelo NIH reduz o CRISPR para entrega precisa no corpo</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-breakthrough-shrinks-crispr-for-precision-delivery-in-the-body</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-breakthrough-shrinks-crispr-for-precision-delivery-in-the-body</guid>
-              <pubDate>Tue, 12 May 2026 01:21:02 +0000</pubDate>
+              <pubDate>Tue, 12 May 2026 05:08:20 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Um sistema menor de edição genética poderia expandir as opções de tratamento para câncer, ELA e outras doenças.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Avanço financiado pelo NIH reduz o CRISPR para entrega precisa no corpo</category>
@@ -31,7 +31,7 @@
               <title>Dr. Jonathan M. Green selecionado como CEO do NIH Clinical Center</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=dr-jonathan-m-green-selected-as-ceo-of-the-nih-clinical-center</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=dr-jonathan-m-green-selected-as-ceo-of-the-nih-clinical-center</guid>
-              <pubDate>Tue, 12 May 2026 01:21:02 +0000</pubDate>
+              <pubDate>Tue, 12 May 2026 05:08:20 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O NIH Clinical Center é o maior hospital de pesquisa do mundo.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Dr. Jonathan M. Green selecionado como CEO do NIH Clinical Center</category>
@@ -41,7 +41,7 @@
               <title>Modelo de IA financiado pelo NIH prevê sobrevivência ao câncer a partir de dados de tumores unicelulares</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-ai-model-predicts-cancer-survival-from-single-cell-tumor-data</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-ai-model-predicts-cancer-survival-from-single-cell-tumor-data</guid>
-              <pubDate>Tue, 12 May 2026 01:21:02 +0000</pubDate>
+              <pubDate>Tue, 12 May 2026 05:08:20 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Num estudo financiado pelos Institutos Nacionais de Saúde, os investigadores desenvolveram uma ferramenta de avaliação do cancro que pode identificar pacientes de alto risco e as células tumorais ligadas a esse risco.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de IA financiado pelo NIH prevê sobrevivência ao câncer a partir de dados de tumores unicelulares</category>
@@ -51,12 +51,42 @@
               <title>Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis</guid>
-              <pubDate>Tue, 12 May 2026 01:21:02 +0000</pubDate>
+              <pubDate>Tue, 12 May 2026 05:08:20 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica</category>
               <source url="https://www.nih.gov/news-events/news-releases/clinical-trial-finds-no-difference-fluid-treatment-options-pediatric-sepsis">NIH News Releases</source>
               <content:encoded>O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Um grand</content:encoded>
+            </item><item>
+              <title>A beleza nublada da Austrália</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=australia-s-cloudy-beauty</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=australia-s-cloudy-beauty</guid>
+              <pubDate>Tue, 12 May 2026 04:01:00 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>A névoa do vale se acumulou nos Alpes vitorianos enquanto uma nuvem em forma de arco flutuava pela baía de Port Phillip.</description>
+              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>A beleza nublada da Austrália</category>
+              <source url="https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/">NASA News Releases</source>
+              <content:encoded>A névoa do vale se acumulou nos Alpes vitorianos enquanto uma nuvem em forma de arco flutuava pela baía de Port Phillip. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Uma nuvem em forma de arco flutua sobre Port Phillip Bay</content:encoded>
+            </item><item>
+              <title>Novo modelo encontra o limite inferior de tamanho para exoplanetas habitáveis</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=new-model-finds-the-lower-size-limit-for-habitable-exoplanets</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=new-model-finds-the-lower-size-limit-for-habitable-exoplanets</guid>
+              <pubDate>Tue, 12 May 2026 03:40:01 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>A busca pela Terra 2.0 começou para valer. Mas há uma enorme variedade de exoplanetas por aí, por isso é fundamental restringir a pesquisa para concentrar o valioso tempo do telescópio apenas nos melhores candidatos. Uma variável de um planeta que irá.</description>
+              <category>Exoplanetas</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Novo modelo encontra o limite inferior de tamanho para exoplanetas habitáveis</category>
+              <source url="https://phys.org/news/2026-05-size-limit-habitable-exoplanets.html">Phys.org Space</source>
+              <content:encoded>A busca pela Terra 2.0 começou para valer. Mas há uma enorme variedade de exoplanetas por aí, por isso é fundamental restringir a pesquisa para concentrar o valioso tempo do telescópio apenas nos melhores candidatos. Uma variável de um planeta que irá. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros com</content:encoded>
+            </item><item>
+              <title>Blog Curiosity, Sols 4886-4892: Engenhosidade e Perseverança, Estilo Curiosidade</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style</guid>
+              <pubDate>Tue, 12 May 2026 01:38:30 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Escrito por Michelle Minitti, investigadora principal adjunta da MAHLI Data de planejamento da Terra: sexta-feira, 8 de maio de 2026 Embora saibamos que os apelidos Ingenuidade e Perseverança estão anexados ao nosso helicóptero e rover irmão na missão Marte.</description>
+              <category>Ciências da Terra</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Blog Curiosity</category>
+              <source url="https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/">NASA News Releases</source>
+              <content:encoded>Escrito por Michelle Minitti, investigadora principal adjunta da MAHLI Data de planejamento da Terra: sexta-feira, 8 de maio de 2026 Embora saibamos que os apelidos Ingenuidade e Perseverança estão anexados ao nosso helicóptero e rover irmão na missão Marte 2020, aqueles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espaci</content:encoded>
             </item><item>
               <title>Testes de células de combustível da NASA abrem caminho para armazenamento de energia na Lua</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-fuel-cell-tests-pave-way-for-energy-storage-on-the-moon</link>
@@ -73,40 +103,10 @@
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=how-snowball-earth-was-a-tug-of-war</guid>
               <pubDate>Mon, 11 May 2026 22:00:54 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Um novo estudo realizado por cientistas planetários de Harvard oferece uma explicação para um dos grandes enigmas climáticos da Terra: como a glaciação Sturtian, uma antiga era glacial em que o planeta estava quase totalmente congelado, poderia ter durado 56.</description>
+              <description>Um novo estudo realizado por cientistas planetários de Harvard oferece uma explicação para um dos grandes enigmas climáticos da Terra: como a glaciação Sturtiana, uma antiga era glacial em que o planeta estava quase totalmente congelado, poderia ter durado 56.</description>
               <category>Ciências da Terra</category><category>Universe Today</category><category>Cosmos Week</category><category>Como 'Snowball Earth' foi um cabo de guerra</category>
               <source url="https://www.universetoday.com/articles/how-snowball-earth-was-a-tug-of-war">Universe Today</source>
-              <content:encoded>Um novo estudo realizado por cientistas planetários de Harvard oferece uma explicação para um dos grandes enigmas climáticos da Terra: como a glaciação Sturtian, uma antiga era glacial em que o planeta estava quase totalmente congelado, poderia ter durado 56 milhões de anos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura esp</content:encoded>
-            </item><item>
-              <title>Novo teste de vida alienígena pode ajudar as missões a Marte e Europa a ler moléculas orgânicas</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=new-alien-life-test-could-help-mars-and-europa-missions-read-organic-molecules</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=new-alien-life-test-could-help-mars-and-europa-missions-read-organic-molecules</guid>
-              <pubDate>Mon, 11 May 2026 21:00:05 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Durante décadas, a procura de vida fora da Terra girou em torno de uma questão fundamental: que moléculas os cientistas deveriam procurar noutros planetas ou luas? Um novo estudo, publicado na Nature Astronomy, sugere que esta é a pista mais reveladora.</description>
-              <category>Ciências da Terra</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Novo teste de vida alienígena pode ajudar as missões a Marte e Europa a ler moléculas orgânicas</category>
-              <source url="https://phys.org/news/2026-05-alien-life-mars-europa-missions.html">Phys.org Space</source>
-              <content:encoded>Durante décadas, a procura de vida fora da Terra girou em torno de uma questão fundamental: que moléculas os cientistas deveriam procurar noutros planetas ou luas? Um novo estudo, publicado na Nature Astronomy, sugere que esta é a pista mais reveladora. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que p</content:encoded>
-            </item><item>
-              <title>Nicholas Houghton: Segurança da tripulação de engenharia para as missões Artemis da NASA</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nicholas-houghton-engineering-crew-safety-for-nasa-s-artemis-missions</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nicholas-houghton-engineering-crew-safety-for-nasa-s-artemis-missions</guid>
-              <pubDate>Mon, 11 May 2026 20:51:53 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Nicholas Houghton sempre sonhou em trabalhar na NASA e um dia se tornar astronauta. Hoje, ele ajuda a projetar sistemas que mantêm as tripulações seguras durante missões a bordo da espaçonave Orion da NASA, incluindo a bem-sucedida missão Artemis II.</description>
-              <category>Cosmologia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Nicholas Houghton</category>
-              <source url="https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/">NASA News Releases</source>
-              <content:encoded>Nicholas Houghton sempre sonhou em trabalhar na NASA e um dia se tornar astronauta. Hoje, ele ajuda a projetar sistemas que mantêm as tripulações seguras durante missões a bordo da espaçonave Orion da NASA, incluindo a bem-sucedida missão Artemis II. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos</content:encoded>
-            </item><item>
-              <title>Estudo identifica Geyers que a missão JUICE poderia explorar em Ganimedes</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=study-identifies-geyers-the-juice-mission-could-explore-on-ganymede</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=study-identifies-geyers-the-juice-mission-could-explore-on-ganymede</guid>
-              <pubDate>Mon, 11 May 2026 20:46:59 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Um novo estudo científico internacional realizado pelo Centro Espacial Helênico identificou algumas das regiões criovulcânicas candidatas mais promissoras em Ganimedes, a maior lua de Júpiter. Estas regiões representam alvos importantes para o futuro.</description>
-              <category>Astronomia</category><category>Universe Today</category><category>Cosmos Week</category><category>Estudo identifica Geyers que a missão JUICE poderia explorar em Ganimedes</category>
-              <source url="https://www.universetoday.com/articles/study-identifies-geyers-the-juice-mission-could-explore-on-ganymede">Universe Today</source>
-              <content:encoded>Um novo estudo científico internacional realizado pelo Centro Espacial Helênico identificou algumas das regiões criovulcânicas candidatas mais promissoras em Ganimedes, a maior lua de Júpiter. Estas regiões representam alvos importantes para o futuro. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobre</content:encoded>
+              <content:encoded>Um novo estudo realizado por cientistas planetários de Harvard oferece uma explicação para um dos grandes enigmas climáticos da Terra: como a glaciação Sturtiana, uma antiga era glacial em que o planeta estava quase totalmente congelado, poderia ter durado 56 milhões de anos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura es</content:encoded>
             </item><item>
               <title>Pesquisa do Hubble define a visão futura de Roman perto do centro da Via Láctea</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=hubble-survey-sets-up-roman-s-future-look-near-milky-way-s-center</link>
@@ -127,6 +127,16 @@
               <category>Astronomia</category><category>ESA Space Science</category><category>Cosmos Week</category><category>Smile será lançado em 19 de maio</category>
               <source url="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May">ESA Space Science</source>
               <content:encoded>A missão Smile Europeu-Chinesa deve ser lançada na terça-feira, 19 de maio de 2026, às 05h52 CEST/04h52 BST/00h52 horário local em um foguete europeu Vega-C. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Smile Euro</content:encoded>
+            </item><item>
+              <title>Nicholas Houghton: Segurança da tripulação de engenharia para as missões Artemis da NASA</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nicholas-houghton-engineering-crew-safety-for-nasa-s-artemis-missions</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nicholas-houghton-engineering-crew-safety-for-nasa-s-artemis-missions</guid>
+              <pubDate>Mon, 11 May 2026 20:51:53 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Nicholas Houghton sempre sonhou em trabalhar na NASA e um dia se tornar astronauta. Hoje, ele ajuda a projetar sistemas que mantêm as tripulações seguras durante missões a bordo da espaçonave Orion da NASA, incluindo a bem-sucedida missão Artemis II.</description>
+              <category>Cosmologia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Nicholas Houghton</category>
+              <source url="https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/">NASA News Releases</source>
+              <content:encoded>Nicholas Houghton sempre sonhou em trabalhar na NASA e um dia se tornar astronauta. Hoje, ele ajuda a projetar sistemas que mantêm as tripulações seguras durante missões a bordo da espaçonave Orion da NASA, incluindo a bem-sucedida missão Artemis II. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos</content:encoded>
             </item><item>
               <title>Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</link>
@@ -177,16 +187,6 @@
               <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Os buracos negros não vivem para sempre</category>
               <source url="https://phys.org/news/2026-05-black-holes-dont-white.html">Phys.org Space</source>
               <content:encoded>Os buracos negros vivem para sempre, pelo menos de acordo com a relatividade geral. Depois que o material cruza o horizonte de eventos de um buraco negro, ele fica preso para sempre, até o último dia do tempo cósmico. Mas sabemos que isso não é verdade. A relatividade geral é a. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que </content:encoded>
-            </item><item>
-              <title>Novo modelo encontra o limite inferior de tamanho para exoplanetas habitáveis</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=new-model-finds-the-lower-size-limit-for-habitable-exoplanets</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=new-model-finds-the-lower-size-limit-for-habitable-exoplanets</guid>
-              <pubDate>Mon, 11 May 2026 11:53:58 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A busca pela Terra 2.0 começou para valer. Mas há uma enorme variedade de exoplanetas por aí, por isso é fundamental restringir a pesquisa para concentrar o valioso tempo do telescópio apenas nos melhores candidatos. Uma variável de um planeta que irá.</description>
-              <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>Novo modelo encontra o limite inferior de tamanho para exoplanetas habitáveis</category>
-              <source url="https://www.universetoday.com/articles/new-model-finds-the-lower-size-limit-for-habitable-exoplanets">Universe Today</source>
-              <content:encoded>A busca pela Terra 2.0 começou para valer. Mas há uma enorme variedade de exoplanetas por aí, por isso é fundamental restringir a pesquisa para concentrar o valioso tempo do telescópio apenas nos melhores candidatos. Uma variável de um planeta que irá. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros com</content:encoded>
             </item><item>
               <title>A super-Terra próxima não tem atmosfera e tem uma superfície escura semelhante à da Lua</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nearby-super-earth-has-no-atmosphere-and-a-dark-moon-like-surface</link>

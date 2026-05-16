@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 16 May 2026 22:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 23:06:26 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>Modelo de IA financiado pelo NIH prevê sobrevivência ao câncer a partir de dados de tumores unicelulares</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-ai-model-predicts-cancer-survival-from-single-cell-tumor-data</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-ai-model-predicts-cancer-survival-from-single-cell-tumor-data</guid>
-              <pubDate>Sat, 16 May 2026 21:59:40 +0000</pubDate>
+              <pubDate>Sat, 16 May 2026 23:01:17 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Num estudo financiado pelos Institutos Nacionais de Saúde, os investigadores desenvolveram uma ferramenta de avaliação do cancro que pode identificar pacientes de alto risco e as células tumorais ligadas a esse risco.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de IA financiado pelo NIH prevê sobrevivência ao câncer a partir de dados de tumores unicelulares</category>
@@ -21,7 +21,7 @@
               <title>Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis</guid>
-              <pubDate>Sat, 16 May 2026 21:59:40 +0000</pubDate>
+              <pubDate>Sat, 16 May 2026 23:01:17 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica</category>
@@ -31,7 +31,7 @@
               <title>A abordagem baseada em sintomas trata a abstinência de opioides em recém-nascidos com exposição mínima ao medicamento</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=symptom-based-approach-treats-opioid-withdrawal-in-newborns-with-minimal-drug-exposure</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=symptom-based-approach-treats-opioid-withdrawal-in-newborns-with-minimal-drug-exposure</guid>
-              <pubDate>Sat, 16 May 2026 21:59:40 +0000</pubDate>
+              <pubDate>Sat, 16 May 2026 23:01:17 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O ensaio clínico financiado pelo NIH mostra que a nova abordagem também pode diminuir o tempo de permanência no hospital.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A abordagem baseada em sintomas trata a abstinência de opioides em recém</category>
@@ -41,7 +41,7 @@
               <title>A adição semanal de GLP-1 à terapia cognitivo-comportamental reduz ainda mais o consumo excessivo de álcool</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=adding-weekly-glp-1-to-cognitive-behavioral-therapy-further-reduces-heavy-drinking</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=adding-weekly-glp-1-to-cognitive-behavioral-therapy-further-reduces-heavy-drinking</guid>
-              <pubDate>Sat, 16 May 2026 21:59:40 +0000</pubDate>
+              <pubDate>Sat, 16 May 2026 23:01:17 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ensaio clínico sugere que a semaglutida pode ajudar pacientes com transtorno por uso de álcool e obesidade.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A adição semanal de GLP</category>
@@ -51,7 +51,7 @@
               <title>Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males</guid>
-              <pubDate>Sat, 16 May 2026 21:59:40 +0000</pubDate>
+              <pubDate>Sat, 16 May 2026 23:01:17 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Num novo estudo financiado pelo National Institutes of Health, cientistas da Cleveland Clinic descobriram que as hormonas associadas ao desenvolvimento masculino podem desempenhar um papel fundamental na limitação do crescimento de tumores cerebrais nos.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens</category>
@@ -158,16 +158,6 @@
               <source url="https://home.cern/upcoming-events-bulletin-19-20-2026/">CERN News</source>
               <content:encoded>4, 8 de maio | Transferência de Conhecimento | Sala de Conferências TH e Online | Oficinas Teóricas | PTOndas gravitacionais de amplitudes 8 Maio 10: 00 | No CERN | Biblioteca | Arquivos, bibliotecas e eventos de ciência aberta | PTConheça o autor de “Uma história concisa de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o s</content:encoded>
             </item><item>
-              <title>Estamos ouvindo há dez anos. Aqui está o que ouvimos</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=we-ve-been-listening-for-ten-years-here-s-what-we-heard</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=we-ve-been-listening-for-ten-years-here-s-what-we-heard</guid>
-              <pubDate>Thu, 14 May 2026 22:49:53 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Durante dez anos, os astrónomos da UCLA têm apontado um dos radiotelescópios mais poderosos do mundo para as estrelas e ouvido. Não para pulsares ou nuvens de gás, ou para o silvo da radiação cósmica de fundo em micro-ondas, mas para algo muito mais.</description>
-              <category>Astrofísica</category><category>Universe Today</category><category>Cosmos Week</category><category>Estamos ouvindo há dez anos. Aqui está o que ouvimos</category>
-              <source url="https://www.universetoday.com/articles/weve-been-listening-for-ten-years-heres-what-we-heard">Universe Today</source>
-              <content:encoded>Durante dez anos, os astrónomos da UCLA têm apontado um dos radiotelescópios mais poderosos do mundo para as estrelas e ouvido. Não para pulsares ou nuvens de gás, ou para o silvo da radiação cósmica de fundo em micro-ondas, mas para algo muito mais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitati</content:encoded>
-            </item><item>
               <title>Um pulsar cintilante revela estruturas invisíveis no espaço</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-twinkling-pulsar-reveals-invisible-structures-in-space</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=a-twinkling-pulsar-reveals-invisible-structures-in-space</guid>
@@ -177,6 +167,16 @@
               <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Um pulsar cintilante revela estruturas invisíveis no espaço</category>
               <source url="https://phys.org/news/2026-05-twinkling-pulsar-reveals-invisible-space.html">Phys.org Space</source>
               <content:encoded>As estrelas cintilantes no céu noturno não são apenas bonitas de se ver. A sua oscilação revela algo sobre as variações de temperaturas e densidades nas camadas da atmosfera da Terra, que refratam a luz à medida que ela viaja em nossa direção. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente</content:encoded>
+            </item><item>
+              <title>Técnica estatística pode revelar segredos de buracos negros “tocantes”</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=statistical-technique-could-uncover-secrets-of-ringing-black-holes</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=statistical-technique-could-uncover-secrets-of-ringing-black-holes</guid>
+              <pubDate>Wed, 13 May 2026 20:07:01 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Os investigadores desenvolveram uma técnica para analisar como os buracos negros “tocam” quando colidem e se fundem: um dos eventos mais dramáticos do Universo. Quando os buracos negros se fundem, a colisão produz um buraco negro novo e maior que “soa” como.</description>
+              <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Técnica estatística pode revelar segredos de buracos negros “tocantes”</category>
+              <source url="https://phys.org/news/2026-05-statistical-technique-uncover-secrets-black.html">Phys.org Space</source>
+              <content:encoded>Os investigadores desenvolveram uma técnica para analisar como os buracos negros “tocam” quando colidem e se fundem: um dos eventos mais dramáticos do Universo. Quando os buracos negros se fundem, a colisão produz um buraco negro novo e maior que “soa” como um. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa</content:encoded>
             </item><item>
               <title>O Telescópio Espacial Romano está adiantado e o Hubble está dando um impulso inicial</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=the-roman-space-telescope-is-ahead-of-schedule-and-the-hubble-is-giving-it-a-jump-start</link>

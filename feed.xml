@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 16 May 2026 01:22:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 05:00:45 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>Modelo de IA financiado pelo NIH prevê sobrevivência ao câncer a partir de dados de tumores unicelulares</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-ai-model-predicts-cancer-survival-from-single-cell-tumor-data</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-ai-model-predicts-cancer-survival-from-single-cell-tumor-data</guid>
-              <pubDate>Sat, 16 May 2026 01:20:09 +0000</pubDate>
+              <pubDate>Sat, 16 May 2026 04:59:27 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Num estudo financiado pelos Institutos Nacionais de Saúde, os investigadores desenvolveram uma ferramenta de avaliação do cancro que pode identificar pacientes de alto risco e as células tumorais ligadas a esse risco.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de IA financiado pelo NIH prevê sobrevivência ao câncer a partir de dados de tumores unicelulares</category>
@@ -21,7 +21,7 @@
               <title>Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis</guid>
-              <pubDate>Sat, 16 May 2026 01:20:09 +0000</pubDate>
+              <pubDate>Sat, 16 May 2026 04:59:27 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica</category>
@@ -31,7 +31,7 @@
               <title>A abordagem baseada em sintomas trata a abstinência de opioides em recém-nascidos com exposição mínima ao medicamento</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=symptom-based-approach-treats-opioid-withdrawal-in-newborns-with-minimal-drug-exposure</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=symptom-based-approach-treats-opioid-withdrawal-in-newborns-with-minimal-drug-exposure</guid>
-              <pubDate>Sat, 16 May 2026 01:20:09 +0000</pubDate>
+              <pubDate>Sat, 16 May 2026 04:59:27 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O ensaio clínico financiado pelo NIH mostra que a nova abordagem também pode diminuir o tempo de permanência no hospital.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A abordagem baseada em sintomas trata a abstinência de opioides em recém</category>
@@ -41,7 +41,7 @@
               <title>A adição semanal de GLP-1 à terapia cognitivo-comportamental reduz ainda mais o consumo excessivo de álcool</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=adding-weekly-glp-1-to-cognitive-behavioral-therapy-further-reduces-heavy-drinking</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=adding-weekly-glp-1-to-cognitive-behavioral-therapy-further-reduces-heavy-drinking</guid>
-              <pubDate>Sat, 16 May 2026 01:20:09 +0000</pubDate>
+              <pubDate>Sat, 16 May 2026 04:59:27 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ensaio clínico sugere que a semaglutida pode ajudar pacientes com transtorno por uso de álcool e obesidade.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A adição semanal de GLP</category>
@@ -51,7 +51,7 @@
               <title>Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males</guid>
-              <pubDate>Sat, 16 May 2026 01:20:09 +0000</pubDate>
+              <pubDate>Sat, 16 May 2026 04:59:27 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Num novo estudo financiado pelo National Institutes of Health, os cientistas da Cleveland Clinic descobriram que as hormonas associadas ao desenvolvimento masculino podem desempenhar um papel fundamental na limitação do crescimento de tumores cerebrais nos.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens</category>
@@ -168,6 +168,26 @@
               <source url="https://skyandtelescope.org/astronomy-news/nearby-super-earth-has-no-atmosphere/">Sky &amp; Telescope</source>
               <content:encoded>O Telescópio Espacial James Webb observou a superfície de um exoplaneta rochoso nu, revelando rochas antigas e escuras semelhantes às da nossa Lua. A postagem Super-Terra próxima não tem atmosfera e uma superfície escura semelhante à lua apareceu pela primeira vez em Sky &amp;. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringi</content:encoded>
             </item><item>
+              <title>O papel da localização da formação na formação de espécies contendo enxofre, nitrogênio e carbono nas atmosferas da Super-Terra e Sub-Netuno</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=the-role-of-formation-location-in-shaping-sulfur-nitrogen-and-carbon-bearing-species-in-super-ea</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=the-role-of-formation-location-in-shaping-sulfur-nitrogen-and-carbon-bearing-species-in-super-ea</guid>
+              <pubDate>Thu, 14 May 2026 17:55:57 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>As composições atmosféricas de sub-Netunos e super-Terras são frequentemente interpretadas como marcadores da localização da formação em relação às linhas de gelo voláteis. No entanto, oceanos de magma prolongados podem se equilibrar quimicamente com.</description>
+              <category>Exoplanetas</category><category>arXiv Earth &amp; Planetary</category><category>Cosmos Week</category><category>O papel da localização da formação na formação de espécies contendo enxofre</category>
+              <source url="https://arxiv.org/abs/2605.15170v1">arXiv Earth &amp; Planetary</source>
+              <content:encoded>As composições atmosféricas de sub-Netunos e super-Terras são frequentemente interpretadas como marcadores da localização da formação em relação às linhas de gelo voláteis. No entanto, oceanos de magma prolongados podem se equilibrar quimicamente com atmosferas primordiais e. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros compa</content:encoded>
+            </item><item>
+              <title>Um método inverso bayesiano com restrição climática para espectros de eclipse de exoplanetas rochosos JWST: um estudo de caso de LTT 1445A b</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-climate-constrained-bayesian-inverse-method-for-jwst-rocky-exoplanet-eclipse-spectra-a-case-st</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=a-climate-constrained-bayesian-inverse-method-for-jwst-rocky-exoplanet-eclipse-spectra-a-case-st</guid>
+              <pubDate>Thu, 14 May 2026 16:00:04 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Determinar se os exoplanetas rochosos temperados que orbitam estrelas M retêm atmosferas é atualmente um objetivo central da astronomia de exoplanetas. Para este fim, o Telescópio Espacial James Webb começou a procurar atmosferas nestes mundos.</description>
+              <category>Exoplanetas</category><category>arXiv Astrophysics</category><category>Cosmos Week</category><category>Um método inverso bayesiano com restrição climática para espectros de eclipse de exoplanetas rochosos JWST</category>
+              <source url="https://arxiv.org/abs/2605.14997v1">arXiv Astrophysics</source>
+              <content:encoded>Determinar se os exoplanetas rochosos temperados que orbitam estrelas M retêm atmosferas é atualmente um objetivo central da astronomia de exoplanetas. Para este fim, o Telescópio Espacial James Webb começou a procurar atmosferas nestes mundos. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isola</content:encoded>
+            </item><item>
               <title>Um gráfico tenta conectar todos os objetos do universo</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=one-graph-attempts-to-connect-every-object-in-the-universe</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=one-graph-attempts-to-connect-every-object-in-the-universe</guid>
@@ -187,26 +207,6 @@
               <category>Física</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Poeira estelar presa no gelo da Antártica revela dezenas de milhares de anos do passado do sistema solar</category>
               <source url="https://phys.org/news/2026-05-stardust-antarctic-ice-reveals-tens.html">Phys.org Space</source>
               <content:encoded>Quando você pensa no espaço sideral, provavelmente está imaginando estrelas, planetas e luas. Mas grande parte do espaço está repleta de nuvens de gás, plasma e poeira estelar, conhecidas como nuvens interestelares. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A dife</content:encoded>
-            </item><item>
-              <title>3 de junho | Corrida “Tour du Canton” no CERN</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=3-june-tour-du-canton-race-at-cern</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=3-june-tour-du-canton-race-at-cern</guid>
-              <pubDate>Tue, 12 May 2026 15:46:37 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>O CERN sediará a segunda etapa do Tour du Canton de Genève de 2026. A corrida de 8,9 km está aberta a todos e os corredores começarão no Science Gateway antes de percorrerem o interior da Suíça a caminho de Mategnin, antes de regressarem ao CERN.</description>
-              <category>Física</category><category>CERN News</category><category>Cosmos Week</category><category>3 de junho | Corrida “Tour du Canton” no CERN</category>
-              <source url="https://home.cern/3-june-tour-du-canton-race-at-cern/">CERN News</source>
-              <content:encoded>O CERN sediará a segunda etapa do Tour du Canton de Genève de 2026. A corrida de 8,9 km está aberta a todos e os corredores começarão no Science Gateway antes de percorrerem o interior da Suíça a caminho de Mategnin, antes de regressarem ao CERN. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente</content:encoded>
-            </item><item>
-              <title>Webb descobre uma das primeiras galáxias do universo</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=webb-discovers-one-of-the-universe-s-first-galaxies</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=webb-discovers-one-of-the-universe-s-first-galaxies</guid>
-              <pubDate>Thu, 14 May 2026 18:20:02 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Os cientistas descobriram uma galáxia tal como era há 13 mil milhões de anos, 800 milhões de anos após o Big Bang. Contém possíveis evidências das primeiras estrelas do universo e é uma das galáxias quimicamente mais primitivas observadas até hoje.</description>
-              <category>Química</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Webb descobre uma das primeiras galáxias do universo</category>
-              <source url="https://phys.org/news/2026-05-webb-universe-galaxies.html">Phys.org Space</source>
-              <content:encoded>Os cientistas descobriram uma galáxia tal como era há 13 mil milhões de anos, 800 milhões de anos após o Big Bang. Contém possíveis evidências das primeiras estrelas do universo e é uma das galáxias quimicamente mais primitivas observadas até hoje. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em </content:encoded>
             </item>
   </channel>
 </rss>

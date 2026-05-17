@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 17 May 2026 10:55:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 12:06:37 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>Modelo de IA financiado pelo NIH prevê sobrevivência ao câncer a partir de dados de tumores unicelulares</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-ai-model-predicts-cancer-survival-from-single-cell-tumor-data</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-ai-model-predicts-cancer-survival-from-single-cell-tumor-data</guid>
-              <pubDate>Sun, 17 May 2026 10:53:02 +0000</pubDate>
+              <pubDate>Sun, 17 May 2026 12:03:30 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Num estudo financiado pelos Institutos Nacionais de Saúde, os investigadores desenvolveram uma ferramenta de avaliação do cancro que pode identificar pacientes de alto risco e as células tumorais ligadas a esse risco.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de IA financiado pelo NIH prevê sobrevivência ao câncer a partir de dados de tumores unicelulares</category>
@@ -21,7 +21,7 @@
               <title>Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis</guid>
-              <pubDate>Sun, 17 May 2026 10:53:02 +0000</pubDate>
+              <pubDate>Sun, 17 May 2026 12:03:30 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica</category>
@@ -31,7 +31,7 @@
               <title>A abordagem baseada em sintomas trata a abstinência de opioides em recém-nascidos com exposição mínima ao medicamento</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=symptom-based-approach-treats-opioid-withdrawal-in-newborns-with-minimal-drug-exposure</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=symptom-based-approach-treats-opioid-withdrawal-in-newborns-with-minimal-drug-exposure</guid>
-              <pubDate>Sun, 17 May 2026 10:53:02 +0000</pubDate>
+              <pubDate>Sun, 17 May 2026 12:03:30 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O ensaio clínico financiado pelo NIH mostra que a nova abordagem também pode diminuir o tempo de permanência no hospital.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A abordagem baseada em sintomas trata a abstinência de opioides em recém</category>
@@ -41,7 +41,7 @@
               <title>A adição semanal de GLP-1 à terapia cognitivo-comportamental reduz ainda mais o consumo excessivo de álcool</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=adding-weekly-glp-1-to-cognitive-behavioral-therapy-further-reduces-heavy-drinking</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=adding-weekly-glp-1-to-cognitive-behavioral-therapy-further-reduces-heavy-drinking</guid>
-              <pubDate>Sun, 17 May 2026 10:53:02 +0000</pubDate>
+              <pubDate>Sun, 17 May 2026 12:03:30 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ensaio clínico sugere que a semaglutida pode ajudar pacientes com transtorno por uso de álcool e obesidade.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A adição semanal de GLP</category>
@@ -51,12 +51,32 @@
               <title>Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males</guid>
-              <pubDate>Sun, 17 May 2026 10:53:02 +0000</pubDate>
+              <pubDate>Sun, 17 May 2026 12:03:30 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Num novo estudo financiado pelo National Institutes of Health, cientistas da Cleveland Clinic descobriram que as hormonas associadas ao desenvolvimento masculino podem desempenhar um papel fundamental na limitação do crescimento de tumores cerebrais nos.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens</category>
               <source url="https://www.nih.gov/news-events/news-releases/nih-funded-study-suggests-testosterone-suppresses-brain-tumor-growth-males">NIH News Releases</source>
               <content:encoded>Num novo estudo financiado pelo National Institutes of Health, cientistas da Cleveland Clinic descobriram que as hormonas associadas ao desenvolvimento masculino podem desempenhar um papel fundamental na limitação do crescimento de tumores cerebrais nos homens. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta pura</content:encoded>
+            </item><item>
+              <title>Tempo severo, tornados possíveis domingo e segunda-feira</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=severe-weather-tornadoes-possible-sunday-and-monday</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=severe-weather-tornadoes-possible-sunday-and-monday</guid>
+              <pubDate>Sun, 17 May 2026 12:00:57 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Tempo severo, tornados são possíveis em partes dos EUA no domingo e na segunda-feira, 17 e 18 de maio de 2026. Além de granizo grande e rajadas de vento prejudiciais. O post Mau tempo, possíveis tornados no domingo e na segunda apareceu pela primeira vez no.</description>
+              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>Tempo severo</category>
+              <source url="https://earthsky.org/earth/severe-weather-tornadoes-possible-sunday-and-monday-may-2026/">EarthSky</source>
+              <content:encoded>Tempo severo, tornados são possíveis em partes dos EUA no domingo e na segunda-feira, 17 e 18 de maio de 2026. Além de granizo grande e rajadas de vento prejudiciais. O post Mau tempo, possíveis tornados no domingo e na segunda apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial ma</content:encoded>
+            </item><item>
+              <title>Conjunção Vênus-Júpiter em junho: comece a assistir agora!</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=venus-jupiter-conjunction-in-june-start-watching-now</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=venus-jupiter-conjunction-in-june-start-watching-now</guid>
+              <pubDate>Sun, 17 May 2026 12:00:29 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Prepare-se para uma espetacular conjunção Vênus-Júpiter! Você já pode começar a observar os planetas agora, após o pôr do sol. O grande evento acontece nos dias 8 e 9 de junho. A conjunção pós-Vênus-Júpiter em junho: comece a assistir agora! apareceu pela.</description>
+              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>Conjunção Vênus</category>
+              <source url="https://earthsky.org/tonight/venus-jupiter-conjunction-june-2026-charts-how-to-see/">EarthSky</source>
+              <content:encoded>Prepare-se para uma espetacular conjunção Vênus-Júpiter! Você já pode começar a observar os planetas agora, após o pôr do sol. O grande evento acontece nos dias 8 e 9 de junho. A conjunção pós-Vênus-Júpiter em junho: comece a assistir agora! apareceu pela primeira vez em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espaci</content:encoded>
             </item><item>
               <title>Qual fase da lua é melhor para observar as estrelas? Isso depende.</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=which-moon-phase-is-best-for-stargazing-that-depends</link>
@@ -68,6 +88,16 @@
               <source url="https://earthsky.org/tonight/what-moon-phase-is-best-for-stargazing/">EarthSky</source>
               <content:encoded>Qual fase da lua é melhor para observar as estrelas? A maioria dos astrônomos diria que a melhor lua não é lua. Mas depende do que você quer ver. O post Qual fase da lua é melhor para observar as estrelas? Isso depende. apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla</content:encoded>
             </item><item>
+              <title>Notícias do Sun: erupção M2 irrompe, tempestade G2 abala a Terra</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-m2-flare-erupts-g2-storm-rocks-earth</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-m2-flare-erupts-g2-storm-rocks-earth</guid>
+              <pubDate>Sun, 17 May 2026 09:55:53 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>O sinalizador M2 irrompe! Tempestade G2 abala a Terra enquanto o vento solar atinge 800 km/s. Uma CME poderá avistar a Terra por volta de 19 de maio. Aurora à frente! As notícias pós-Sol: erupção M2, tempestade G2 abala a Terra apareceu pela primeira vez no.</description>
+              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>Notícias do Sun</category>
+              <source url="https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/">EarthSky</source>
+              <content:encoded>O sinalizador M2 irrompe! Tempestade G2 abala a Terra enquanto o vento solar atinge 800 km/s. Uma CME poderá avistar a Terra por volta de 19 de maio. Aurora à frente! As notícias pós-Sol: erupção M2, tempestade G2 abala a Terra apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial ma</content:encoded>
+            </item><item>
               <title>Primeira explosão binária subanã quente descoberta</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=first-outbursting-hot-subdwarf-binary-discovered</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=first-outbursting-hot-subdwarf-binary-discovered</guid>
@@ -77,36 +107,6 @@
               <category>Exoplanetas</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Primeira explosão binária subanã quente descoberta</category>
               <source url="https://phys.org/news/2026-05-outbursting-hot-subdwarf-binary.html">Phys.org Space</source>
               <content:encoded>Uma equipe internacional de astrônomos utilizou o Zwicky Transient Facility e o Transiting Exoplanet Survey Satellite para investigar um sistema binário designado ZTF J0007+4804. Como resultado, eles descobriram que ZTF J0007+4804 é o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não qu</content:encoded>
-            </item><item>
-              <title>E se o Universo não tivesse começo? Parte 1: Uma Função de Onda para o Universo</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=what-if-the-universe-had-no-beginning-part-1-a-wave-function-for-the-universe</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=what-if-the-universe-had-no-beginning-part-1-a-wave-function-for-the-universe</guid>
-              <pubDate>Sat, 16 May 2026 14:08:00 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>As equações da relatividade geral desistem na singularidade. Décadas antes de Stephen Hawking ousar adivinhar o que aconteceu antes, John Wheeler e Bryce DeWitt construíram a estranha maquinaria matemática que tornaria a questão questionável.</description>
-              <category>Astronomia</category><category>Universe Today</category><category>Cosmos Week</category><category>E se o Universo não tivesse começo? Parte 1</category>
-              <source url="https://www.universetoday.com/articles/what-if-the-universe-had-no-beginning-part-1-a-wave-function-for-the-universe">Universe Today</source>
-              <content:encoded>As equações da relatividade geral desistem na singularidade. Décadas antes de Stephen Hawking ousar adivinhar o que aconteceu antes, John Wheeler e Bryce DeWitt construíram a estranha maquinaria matemática que tornaria a questão questionável. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a es</content:encoded>
-            </item><item>
-              <title>Notícias do Sol: O vento solar chegou e chegou forte ontem à noite</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-solar-wind-arrived-and-arrived-strong-last-night</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-solar-wind-arrived-and-arrived-strong-last-night</guid>
-              <pubDate>Sat, 16 May 2026 10:55:53 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Notícias da Sun para 16 de maio de 2026. A esperada tempestade geomagnética G2 chegou à medida que os ventos solares aumentavam para níveis elevados. A tempestade pode continuar neste fim de semana. O post Notícias do Sol: O vento solar chegou e chegou forte.</description>
-              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>Notícias do Sol</category>
-              <source url="https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/">EarthSky</source>
-              <content:encoded>Notícias da Sun para 16 de maio de 2026. A esperada tempestade geomagnética G2 chegou à medida que os ventos solares aumentavam para níveis elevados. A tempestade pode continuar neste fim de semana. O post Notícias do Sol: O vento solar chegou e chegou forte ontem à noite. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espac</content:encoded>
-            </item><item>
-              <title>Planetas visíveis e guia do céu noturno para maio</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-may</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-may</guid>
-              <pubDate>Sat, 16 May 2026 08:13:08 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Planetas visíveis e guia do céu noturno. Observe Vênus e Júpiter, ambos brilhando no oeste no céu noturno. Eles estão se aproximando, dia após dia. O post Planetas visíveis e guia do céu noturno para maio apareceu pela primeira vez no EarthSky.</description>
-              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>Planetas visíveis e guia do céu noturno para maio</category>
-              <source url="https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/">EarthSky</source>
-              <content:encoded>Planetas visíveis e guia do céu noturno. Observe Vênus e Júpiter, ambos brilhando no oeste no céu noturno. Eles estão se aproximando, dia após dia. O post Planetas visíveis e guia do céu noturno para maio apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem s</content:encoded>
             </item><item>
               <title>NASA Science, lançamento de carga na 34ª missão de reabastecimento da SpaceX para a estação</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-science-cargo-launch-on-34th-spacex-resupply-mission-to-station</link>
@@ -127,6 +127,16 @@
               <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>NASA recorre à indústria para a rede de telecomunicações de Marte</category>
               <source url="https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/">NASA News Releases</source>
               <content:encoded>Na quinta-feira, a NASA emitiu uma Solicitação de Proposta, buscando a colaboração da indústria para a Rede de Telecomunicações de Marte. Comunicações confiáveis ​​e de alta largura de banda são necessárias para retransmitir dados científicos, imagens de alta definição e dados. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual e</content:encoded>
+            </item><item>
+              <title>Como acompanhar o lançamento do Smile ao vivo</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=how-to-follow-the-smile-launch-live</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=how-to-follow-the-smile-launch-live</guid>
+              <pubDate>Tue, 12 May 2026 09:30:00 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>A ESA transmitirá ao vivo o lançamento da missão Smile Europeu-Chinesa às 04:52 BST/05:52 CEST do dia 19 de maio de 2026. O Smile será lançado num foguetão europeu Vega-C a partir do porto espacial europeu na Guiana Francesa. Horários sujeitos a alterações em.</description>
+              <category>Astronomia</category><category>ESA Space Science</category><category>Cosmos Week</category><category>Como acompanhar o lançamento do Smile ao vivo</category>
+              <source url="https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live">ESA Space Science</source>
+              <content:encoded>A ESA transmitirá ao vivo o lançamento da missão Smile Europeu-Chinesa às 04: 52 BST/05: 52 CEST do dia 19 de maio de 2026. O Smile será lançado num foguetão europeu Vega-C a partir do porto espacial europeu na Guiana Francesa. Horários sujeitos a alterações em breve. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que u</content:encoded>
             </item><item>
               <title>Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</link>
@@ -197,16 +207,6 @@
               <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>O Telescópio Espacial Romano está adiantado e o Hubble está dando um impulso inicial</category>
               <source url="https://www.universetoday.com/articles/the-roman-space-telescope-is-ahead-of-schedule-and-the-hubble-is-giving-it-a-jump-start">Universe Today</source>
               <content:encoded>Espera-se que uma das principais pesquisas comunitárias do Telescópio Espacial Nancy Grace Roman da NASA, o Galactic Bulge Time-Domain Survey, localize mais de mil exoplanetas que orbitam longe de suas estrelas, além da distância orbital de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, </content:encoded>
-            </item><item>
-              <title>Esqueça a busca por bioassinaturas individuais. Em vez disso, encontre seus padrões</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=forget-searching-for-individual-biosignatures-instead-find-their-patterns</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=forget-searching-for-individual-biosignatures-instead-find-their-patterns</guid>
-              <pubDate>Wed, 13 May 2026 20:06:21 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A busca por vida em outros lugares concentra-se nas bioassinaturas. São produtos químicos em atmosferas que só podem ser atribuídos à vida. Mas, apesar da habilidade do JWST, encontrar provas concretas de vida em outros mundos é um exercício confuso.</description>
-              <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>Esqueça a busca por bioassinaturas individuais. Em vez disso</category>
-              <source url="https://www.universetoday.com/articles/forget-searching-for-individual-biosignatures-instead-find-their-patterns">Universe Today</source>
-              <content:encoded>A busca por vida em outros lugares concentra-se nas bioassinaturas. São produtos químicos em atmosferas que só podem ser atribuídos à vida. Mas, apesar da habilidade do JWST, encontrar provas concretas de vida em outros mundos é um exercício confuso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros compa</content:encoded>
             </item>
   </channel>
 </rss>

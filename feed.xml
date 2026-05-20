@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 22:17:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 23:53:40 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>Modelo de IA financiado pelo NIH prevê sobrevivência ao câncer a partir de dados de tumores unicelulares</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-ai-model-predicts-cancer-survival-from-single-cell-tumor-data</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-ai-model-predicts-cancer-survival-from-single-cell-tumor-data</guid>
-              <pubDate>Wed, 20 May 2026 22:12:48 +0000</pubDate>
+              <pubDate>Wed, 20 May 2026 23:51:06 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Num estudo financiado pelos Institutos Nacionais de Saúde, os investigadores desenvolveram uma ferramenta de avaliação do cancro que pode identificar pacientes de alto risco e as células tumorais ligadas a esse risco.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de IA financiado pelo NIH prevê sobrevivência ao câncer a partir de dados de tumores unicelulares</category>
@@ -21,7 +21,7 @@
               <title>Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis</guid>
-              <pubDate>Wed, 20 May 2026 22:12:48 +0000</pubDate>
+              <pubDate>Wed, 20 May 2026 23:51:06 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica</category>
@@ -31,7 +31,7 @@
               <title>A abordagem baseada em sintomas trata a abstinência de opioides em recém-nascidos com exposição mínima ao medicamento</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=symptom-based-approach-treats-opioid-withdrawal-in-newborns-with-minimal-drug-exposure</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=symptom-based-approach-treats-opioid-withdrawal-in-newborns-with-minimal-drug-exposure</guid>
-              <pubDate>Wed, 20 May 2026 22:12:48 +0000</pubDate>
+              <pubDate>Wed, 20 May 2026 23:51:06 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O ensaio clínico financiado pelo NIH mostra que a nova abordagem também pode diminuir o tempo de permanência no hospital.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A abordagem baseada em sintomas trata a abstinência de opioides em recém</category>
@@ -41,7 +41,7 @@
               <title>A adição semanal de GLP-1 à terapia cognitivo-comportamental reduz ainda mais o consumo excessivo de álcool</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=adding-weekly-glp-1-to-cognitive-behavioral-therapy-further-reduces-heavy-drinking</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=adding-weekly-glp-1-to-cognitive-behavioral-therapy-further-reduces-heavy-drinking</guid>
-              <pubDate>Wed, 20 May 2026 22:12:48 +0000</pubDate>
+              <pubDate>Wed, 20 May 2026 23:51:06 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ensaio clínico sugere que a semaglutida pode ajudar pacientes com transtorno por uso de álcool e obesidade.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A adição semanal de GLP</category>
@@ -51,12 +51,32 @@
               <title>Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males</guid>
-              <pubDate>Wed, 20 May 2026 22:12:48 +0000</pubDate>
+              <pubDate>Wed, 20 May 2026 23:51:06 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Num novo estudo financiado pelo National Institutes of Health, cientistas da Cleveland Clinic descobriram que as hormonas associadas ao desenvolvimento masculino podem desempenhar um papel fundamental na limitação do crescimento de tumores cerebrais nos.</description>
+              <description>Num novo estudo financiado pelo National Institutes of Health, os cientistas da Cleveland Clinic descobriram que as hormonas associadas ao desenvolvimento masculino podem desempenhar um papel fundamental na limitação do crescimento de tumores cerebrais nos.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens</category>
               <source url="https://www.nih.gov/news-events/news-releases/nih-funded-study-suggests-testosterone-suppresses-brain-tumor-growth-males">NIH News Releases</source>
-              <content:encoded>Num novo estudo financiado pelo National Institutes of Health, cientistas da Cleveland Clinic descobriram que as hormonas associadas ao desenvolvimento masculino podem desempenhar um papel fundamental na limitação do crescimento de tumores cerebrais nos homens. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta pura</content:encoded>
+              <content:encoded>Num novo estudo financiado pelo National Institutes of Health, os cientistas da Cleveland Clinic descobriram que as hormonas associadas ao desenvolvimento masculino podem desempenhar um papel fundamental na limitação do crescimento de tumores cerebrais nos homens. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta p</content:encoded>
+            </item><item>
+              <title>Futuros Mars Rovers poderiam imitar um movimento de natação para atravessar a superfície do planeta</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=future-mars-rovers-could-mimic-a-swimming-motion-to-traverse-the-planet-s-surface</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=future-mars-rovers-could-mimic-a-swimming-motion-to-traverse-the-planet-s-surface</guid>
+              <pubDate>Wed, 20 May 2026 22:33:17 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Alguns animais podem mover-se eficientemente sob superfícies granulares. Estes incluem o sandfish, um lagarto nativo do Saara. Ele pode se enterrar na areia e literalmente “nadar” pela areia do deserto para caçar ou escapar de predadores. Alemão.</description>
+              <category>Cosmologia</category><category>Universe Today</category><category>Cosmos Week</category><category>Futuros Mars Rovers poderiam imitar um movimento de natação para atravessar a superfície do planeta</category>
+              <source url="https://www.universetoday.com/articles/future-mars-rovers-could-mimic-a-swimming-motion-to-traverse-the-planets-surface">Universe Today</source>
+              <content:encoded>Alguns animais podem mover-se eficientemente sob superfícies granulares. Estes incluem o sandfish, um lagarto nativo do Saara. Ele pode se enterrar na areia e literalmente “nadar” pela areia do deserto para caçar ou escapar de predadores. Alemão. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos ind</content:encoded>
+            </item><item>
+              <title>Resolvendo o enigma de Kardashev usando uma métrica inspirada no Bitcoin</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=resolving-the-kardashev-s-conundrum-using-a-bitcoin-inspired-metric</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=resolving-the-kardashev-s-conundrum-using-a-bitcoin-inspired-metric</guid>
+              <pubDate>Wed, 20 May 2026 22:31:46 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Um novo estudo reavalia a Escala Kardashev usando uma nova estrutura que inclui a rede Bitcoin como meio de medir a trajetória do desenvolvimento humano.</description>
+              <category>Astronomia</category><category>Universe Today</category><category>Cosmos Week</category><category>Resolvendo o enigma de Kardashev usando uma métrica inspirada no Bitcoin</category>
+              <source url="https://www.universetoday.com/articles/resolving-the-kardashevs-conundrum-using-a-bitcoin-inspired-metric">Universe Today</source>
+              <content:encoded>Um novo estudo reavalia a Escala Kardashev usando uma nova estrutura que inclui a rede Bitcoin como meio de medir a trajetória do desenvolvimento humano. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Como parte da sua análi</content:encoded>
             </item><item>
               <title>Planetas infernais semelhantes a Vênus podem ser mais prevalentes que as verdadeiras ExoEarths</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=hellish-venus-like-planets-may-be-more-prevalent-than-true-exoearths</link>
@@ -88,26 +108,6 @@
               <source url="https://www.universetoday.com/articles/nasas-psyche-mission-says-goodbye-to-mars-and-heads-for-its-metal-rich-target">Universe Today</source>
               <content:encoded>As espaçonaves costumam usar planetas para manobras de auxílio à gravidade ou de "estilingue". A missão Psyche da NASA usou Marte para esse propósito durante um sobrevôo em 15 de maio. O sobrevôo acelerou a espaçonave e direcionou-a para seu destino final, o asteróide. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que </content:encoded>
             </item><item>
-              <title>A misteriosa lua de Netuno, Nereida, pode ser a sobrevivente original da chegada caótica de Tritão</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=neptune-s-mysterious-moon-nereid-may-be-original-survivor-of-triton-s-chaotic-arrival</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=neptune-s-mysterious-moon-nereid-may-be-original-survivor-of-triton-s-chaotic-arrival</guid>
-              <pubDate>Wed, 20 May 2026 19:55:54 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A longínqua lua de Netuno, Nereida, pode ser a última das companheiras originais do planeta que conseguiu sobreviver a um acidente cósmico, informaram cientistas na quarta-feira.</description>
-              <category>Astronomia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>A misteriosa lua de Netuno</category>
-              <source url="https://phys.org/news/2026-05-neptune-mysterious-moon-nereid-survivor.html">Phys.org Space</source>
-              <content:encoded>A longínqua lua de Netuno, Nereida, pode ser a última das companheiras originais do planeta que conseguiu sobreviver a um acidente cósmico, informaram cientistas na quarta-feira. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido</content:encoded>
-            </item><item>
-              <title>NASA apresentará relatório sobre sua estratégia e missões para a Base Lunar</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=la-nasa-informara-sobre-su-estrategia-y-misiones-para-la-base-lunar</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=la-nasa-informara-sobre-su-estrategia-y-misiones-para-la-base-lunar</guid>
-              <pubDate>Wed, 20 May 2026 19:08:50 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Leia este comunicado à imprensa em inglês aqui. A NASA realizará uma coletiva de imprensa na terça-feira, 26 de maio, às 14h. m. EDT para compartilhar planos para a Base Lunar e destacar o progresso em direção a uma presença sustentada na superfície.</description>
-              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>NASA apresentará relatório sobre sua estratégia e missões para a Base Lunar</category>
-              <source url="https://www.nasa.gov/news-release/la-nasa-informara-sobre-su-estrategia-y-misiones-para-la-base-lunar/">NASA News Releases</source>
-              <content:encoded>Leia este comunicado à imprensa em inglês aqui. A NASA realizará uma coletiva de imprensa na terça-feira, 26 de maio, às 14h. m. EDT para compartilhar planos para a Base Lunar e destacar o progresso em direção a uma presença sustentada na superfície. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobrev</content:encoded>
-            </item><item>
               <title>Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</guid>
@@ -127,16 +127,6 @@
               <category>Cosmologia</category><category>ESA Hubble News</category><category>Cosmos Week</category><category>Lançamento científico</category>
               <source url="https://esahubble.org/news/heic2601/">ESA Hubble News</source>
               <content:encoded>Uma equipe usando o Telescópio Espacial Hubble da NASA/ESA descobriu um novo tipo de objeto astronômico, uma nuvem de matéria escura, rica em gás e sem estrelas, considerada uma “relíquia” ou remanescente da formação inicial de galáxias. Apelidado de “Cloud-9”, este é o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse territ</content:encoded>
-            </item><item>
-              <title>Quebrando a barreira do som marciana</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=breaking-the-martian-sound-barrier</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=breaking-the-martian-sound-barrier</guid>
-              <pubDate>Wed, 20 May 2026 17:23:14 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Ingenuity, o helicóptero de Marte, que realizou o primeiro voo controlado e motorizado em outro planeta, foi uma excelente demonstração da engenhosidade humana. Mas foi apenas isso, um manifestante. A intenção com o Ingenuity era simplesmente.</description>
-              <category>Cosmologia</category><category>Universe Today</category><category>Cosmos Week</category><category>Quebrando a barreira do som marciana</category>
-              <source url="https://www.universetoday.com/articles/breaking-the-martian-sound-barrier">Universe Today</source>
-              <content:encoded>Ingenuity, o helicóptero de Marte, que realizou o primeiro voo controlado e motorizado em outro planeta, foi uma excelente demonstração da engenhosidade humana. Mas foi apenas isso, um manifestante. A intenção com o Ingenuity era simplesmente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos indepe</content:encoded>
             </item><item>
               <title>Fermi da NASA vislumbra fonte de energia de supernovas supercarregadas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-fermi-glimpses-power-source-of-supercharged-supernovae</link>
@@ -178,15 +168,15 @@
               <source url="https://www.universetoday.com/articles/tess-data-reveals-27-new-planet-candidates-in-binary-systems">Universe Today</source>
               <content:encoded>Você está trabalhando no habitat no final da tarde como parte do primeiro assentamento de exoplanetas da humanidade, mas o sol está se pondo, então você está tentando acelerar as coisas. Assim que a luz diminui, tudo de repente começa a ficar mais claro. Você. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses qua</content:encoded>
             </item><item>
-              <title>Astrônomos encontram novos candidatos a planetas circunbinários “semelhantes a Tatooine”</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-find-new-circumbinary-tatooine-like-planet-candidates</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-find-new-circumbinary-tatooine-like-planet-candidates</guid>
-              <pubDate>Tue, 19 May 2026 00:45:12 +0000</pubDate>
+              <title>AMPM II. Um candidato a microlente de buraco negro primordial de massa lunar no Halo da Via Láctea</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=ampm-ii-a-lunar-mass-primordial-black-hole-microlensing-candidate-in-the-milky-way-halo</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=ampm-ii-a-lunar-mass-primordial-black-hole-microlensing-candidate-in-the-milky-way-halo</guid>
+              <pubDate>Tue, 19 May 2026 05:20:29 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Existe uma categoria distinta de exomundos que orbitam duas estrelas. Eles são chamados de planetas “circumbinários” e, até recentemente, os astrônomos haviam encontrado apenas cerca de 18 deles entre os mais de 6.000 outros exoplanetas e candidatos.</description>
-              <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>Astrônomos encontram novos candidatos a planetas circunbinários “semelhantes a Tatooine”</category>
-              <source url="https://www.universetoday.com/articles/astronomers-find-new-circumbinary-tatooine-like-planet-candidates">Universe Today</source>
-              <content:encoded>Existe uma categoria distinta de exomundos que orbitam duas estrelas. Eles são chamados de planetas “circumbinários” e, até recentemente, os astrônomos haviam encontrado apenas cerca de 18 deles entre os mais de 6.000 outros exoplanetas e candidatos conhecidos. Agora, um. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido</content:encoded>
+              <description>Supõe-se que os buracos negros primordiais se formaram durante a inflação e há muito são considerados candidatos à matéria escura compacta. A microlente gravitacional é conhecida como um método produtivo para descoberta e caracterização de exoplanetas.</description>
+              <category>Exoplanetas</category><category>arXiv Cosmology</category><category>Cosmos Week</category><category>AMPM II. Um candidato a microlente de buraco negro primordial de massa lunar no Halo da Via Láctea</category>
+              <source url="https://arxiv.org/abs/2605.19375v1">arXiv Cosmology</source>
+              <content:encoded>Supõe-se que os buracos negros primordiais se formaram durante a inflação e há muito são considerados candidatos à matéria escura compacta. A microlente gravitacional é conhecida como um método produtivo para descoberta e caracterização de exoplanetas. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando exis</content:encoded>
             </item><item>
               <title>Marte revela o primeiro efeito Zwan-Wolf nas profundezas de sua atmosfera durante uma tempestade solar</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=mars-reveals-first-zwan-wolf-effect-deep-in-its-atmosphere-during-a-solar-storm</link>
@@ -207,6 +197,16 @@
               <category>Física</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Um foguete SpaceX atingirá em breve a Lua</category>
               <source url="https://phys.org/news/2026-05-spacex-rocket-moon-space-private.html">Phys.org Space</source>
               <content:encoded>A SpaceX parece ter confundido atirar na lua com atirar na lua. Previsto para ocorrer em 5 de agosto, espera-se que um pedaço de foguete de cinco andares de uma das recentes missões lunares da empresa privada de exploração espacial atinja o local. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialment</content:encoded>
+            </item><item>
+              <title>A nave espacial SMILE é lançada para capturar as primeiras imagens de raios X do escudo magnético da Terra</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=smile-spacecraft-launches-to-capture-first-x-ray-views-of-earth-s-magnetic-shield</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=smile-spacecraft-launches-to-capture-first-x-ray-views-of-earth-s-magnetic-shield</guid>
+              <pubDate>Tue, 19 May 2026 07:56:10 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Uma espaçonave conjunta europeu-chinesa entrou em órbita na terça-feira para investigar o que acontece quando ventos extremos e explosões gigantes de plasma disparadas do Sol atingem o escudo magnético da Terra.</description>
+              <category>Física</category><category>Phys.org Space</category><category>Cosmos Week</category><category>A nave espacial SMILE é lançada para capturar as primeiras imagens de raios X do escudo magnético da Terra</category>
+              <source url="https://phys.org/news/2026-05-spacecraft-capture-ray-views-earth.html">Phys.org Space</source>
+              <content:encoded>Uma espaçonave conjunta europeu-chinesa entrou em órbita na terça-feira para investigar o que acontece quando ventos extremos e explosões gigantes de plasma disparadas do Sol atingem o escudo magnético da Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferenç</content:encoded>
             </item>
   </channel>
 </rss>

@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 20:34:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 22:17:21 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>Modelo de IA financiado pelo NIH prevê sobrevivência ao câncer a partir de dados de tumores unicelulares</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-ai-model-predicts-cancer-survival-from-single-cell-tumor-data</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-ai-model-predicts-cancer-survival-from-single-cell-tumor-data</guid>
-              <pubDate>Wed, 20 May 2026 20:28:34 +0000</pubDate>
+              <pubDate>Wed, 20 May 2026 22:12:48 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Num estudo financiado pelos Institutos Nacionais de Saúde, os investigadores desenvolveram uma ferramenta de avaliação do cancro que pode identificar pacientes de alto risco e as células tumorais ligadas a esse risco.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de IA financiado pelo NIH prevê sobrevivência ao câncer a partir de dados de tumores unicelulares</category>
@@ -21,7 +21,7 @@
               <title>Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis</guid>
-              <pubDate>Wed, 20 May 2026 20:28:34 +0000</pubDate>
+              <pubDate>Wed, 20 May 2026 22:12:48 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica</category>
@@ -31,7 +31,7 @@
               <title>A abordagem baseada em sintomas trata a abstinência de opioides em recém-nascidos com exposição mínima ao medicamento</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=symptom-based-approach-treats-opioid-withdrawal-in-newborns-with-minimal-drug-exposure</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=symptom-based-approach-treats-opioid-withdrawal-in-newborns-with-minimal-drug-exposure</guid>
-              <pubDate>Wed, 20 May 2026 20:28:34 +0000</pubDate>
+              <pubDate>Wed, 20 May 2026 22:12:48 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O ensaio clínico financiado pelo NIH mostra que a nova abordagem também pode diminuir o tempo de permanência no hospital.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A abordagem baseada em sintomas trata a abstinência de opioides em recém</category>
@@ -41,7 +41,7 @@
               <title>A adição semanal de GLP-1 à terapia cognitivo-comportamental reduz ainda mais o consumo excessivo de álcool</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=adding-weekly-glp-1-to-cognitive-behavioral-therapy-further-reduces-heavy-drinking</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=adding-weekly-glp-1-to-cognitive-behavioral-therapy-further-reduces-heavy-drinking</guid>
-              <pubDate>Wed, 20 May 2026 20:28:34 +0000</pubDate>
+              <pubDate>Wed, 20 May 2026 22:12:48 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ensaio clínico sugere que a semaglutida pode ajudar pacientes com transtorno por uso de álcool e obesidade.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A adição semanal de GLP</category>
@@ -51,12 +51,42 @@
               <title>Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males</guid>
-              <pubDate>Wed, 20 May 2026 20:28:34 +0000</pubDate>
+              <pubDate>Wed, 20 May 2026 22:12:48 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Num novo estudo financiado pelo National Institutes of Health, cientistas da Cleveland Clinic descobriram que as hormonas associadas ao desenvolvimento masculino podem desempenhar um papel fundamental na limitação do crescimento de tumores cerebrais nos.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens</category>
               <source url="https://www.nih.gov/news-events/news-releases/nih-funded-study-suggests-testosterone-suppresses-brain-tumor-growth-males">NIH News Releases</source>
               <content:encoded>Num novo estudo financiado pelo National Institutes of Health, cientistas da Cleveland Clinic descobriram que as hormonas associadas ao desenvolvimento masculino podem desempenhar um papel fundamental na limitação do crescimento de tumores cerebrais nos homens. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta pura</content:encoded>
+            </item><item>
+              <title>Planetas infernais semelhantes a Vênus podem ser mais prevalentes que as verdadeiras ExoEarths</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=hellish-venus-like-planets-may-be-more-prevalent-than-true-exoearths</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=hellish-venus-like-planets-may-be-more-prevalent-than-true-exoearths</guid>
+              <pubDate>Wed, 20 May 2026 22:08:15 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Os caçadores de exoplanetas estão ansiosos para encontrar o próximo planeta extrassolar semelhante à Terra, que possa abrigar a vida como a conhecemos. Mas os resultados preliminares de um novo estudo indicam que a nossa galáxia pode estar repleta de uma.</description>
+              <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>Planetas infernais semelhantes a Vênus podem ser mais prevalentes que as verdadeiras ExoEarths</category>
+              <source url="https://www.universetoday.com/articles/hellish-venus-like-planets-may-be-more-prevalent-than-true-exoearths">Universe Today</source>
+              <content:encoded>Os caçadores de exoplanetas estão ansiosos para encontrar o próximo planeta extrassolar semelhante à Terra, que possa abrigar a vida como a conhecemos. Mas os resultados preliminares de um novo estudo indicam que a nossa galáxia pode estar repleta de uma infinidade de exo-Vénus. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem rest</content:encoded>
+            </item><item>
+              <title>NASA anuncia vencedores da competição universitária de aeronáutica</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-announces-winners-in-university-aeronautics-competition</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-announces-winners-in-university-aeronautics-competition</guid>
+              <pubDate>Wed, 20 May 2026 20:48:01 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>A equipe da South Dakota State University ficou em primeiro lugar na quinta competição anual Gateways to Blue Skies da NASA, que desafiou equipes de estudantes a abordar um elemento crítico da aviação dos EUA: a manutenção de aeronaves. Este ano.</description>
+              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>NASA anuncia vencedores da competição universitária de aeronáutica</category>
+              <source url="https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/">NASA News Releases</source>
+              <content:encoded>A equipe da South Dakota State University ficou em primeiro lugar na quinta competição anual Gateways to Blue Skies da NASA, que desafiou equipes de estudantes a abordar um elemento crítico da aviação dos EUA: a manutenção de aeronaves. Este ano. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva </content:encoded>
+            </item><item>
+              <title>A missão Psyche da NASA diz adeus a Marte e dirige-se ao seu alvo rico em metais</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-psyche-mission-says-goodbye-to-mars-and-heads-for-its-metal-rich-target</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-psyche-mission-says-goodbye-to-mars-and-heads-for-its-metal-rich-target</guid>
+              <pubDate>Wed, 20 May 2026 20:42:20 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>As espaçonaves costumam usar planetas para manobras de auxílio à gravidade ou de "estilingue". A missão Psyche da NASA usou Marte para esse propósito durante um sobrevôo em 15 de maio. O sobrevôo acelerou a espaçonave e direcionou-a para seu destino final, o.</description>
+              <category>Astronomia</category><category>Universe Today</category><category>Cosmos Week</category><category>A missão Psyche da NASA diz adeus a Marte e dirige</category>
+              <source url="https://www.universetoday.com/articles/nasas-psyche-mission-says-goodbye-to-mars-and-heads-for-its-metal-rich-target">Universe Today</source>
+              <content:encoded>As espaçonaves costumam usar planetas para manobras de auxílio à gravidade ou de "estilingue". A missão Psyche da NASA usou Marte para esse propósito durante um sobrevôo em 15 de maio. O sobrevôo acelerou a espaçonave e direcionou-a para seu destino final, o asteróide. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que </content:encoded>
             </item><item>
               <title>A misteriosa lua de Netuno, Nereida, pode ser a sobrevivente original da chegada caótica de Tritão</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=neptune-s-mysterious-moon-nereid-may-be-original-survivor-of-triton-s-chaotic-arrival</link>
@@ -77,46 +107,6 @@
               <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>NASA apresentará relatório sobre sua estratégia e missões para a Base Lunar</category>
               <source url="https://www.nasa.gov/news-release/la-nasa-informara-sobre-su-estrategia-y-misiones-para-la-base-lunar/">NASA News Releases</source>
               <content:encoded>Leia este comunicado à imprensa em inglês aqui. A NASA realizará uma coletiva de imprensa na terça-feira, 26 de maio, às 14h. m. EDT para compartilhar planos para a Base Lunar e destacar o progresso em direção a uma presença sustentada na superfície. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobrev</content:encoded>
-            </item><item>
-              <title>Prêmio NASA TechLeap: Desafio de carga útil manipulada roboticamente</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-techleap-prize-robotically-manipulated-payload-challenge</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-techleap-prize-robotically-manipulated-payload-challenge</guid>
-              <pubDate>Wed, 20 May 2026 19:02:18 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>O Robotically Manipulated Payload Challenge, o quinto da série NASA TechLeap Prize, é uma competição para promover infraestrutura persistente para manutenção, montagem e fabricação no espaço. Convites de oportunidades de voo da NASA.</description>
-              <category>Ciências da Terra</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Prêmio NASA TechLeap</category>
-              <source url="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techleap-prize-robotically-manipulated-payload-challenge/">NASA News Releases</source>
-              <content:encoded>O Robotically Manipulated Payload Challenge, o quinto da série NASA TechLeap Prize, é uma competição para promover infraestrutura persistente para manutenção, montagem e fabricação no espaço. Convites de oportunidades de voo da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar vari</content:encoded>
-            </item><item>
-              <title>Afinal, parece que Europa não tem plumas de vapor de água</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=it-looks-like-europa-doesn-t-have-plumes-of-water-vapour-after-all</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=it-looks-like-europa-doesn-t-have-plumes-of-water-vapour-after-all</guid>
-              <pubDate>Wed, 20 May 2026 18:12:48 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Em 2014, pesquisadores apresentaram a descoberta de plumas de vapor d'água emitidas pela lua de Júpiter, Europa. Isso causou um grande rebuliço. isso significava que o oceano enterrado da lua era acessível sem enfrentar a espessa camada de gelo que o continha.</description>
-              <category>Ciências da Terra</category><category>Universe Today</category><category>Cosmos Week</category><category>Afinal</category>
-              <source url="https://www.universetoday.com/articles/it-looks-like-europa-doesnt-have-plumes-of-water-vapour-after-all">Universe Today</source>
-              <content:encoded>Em 2014, pesquisadores apresentaram a descoberta de plumas de vapor d'água emitidas pela lua de Júpiter, Europa. Isso causou um grande rebuliço. isso significava que o oceano enterrado da lua era acessível sem enfrentar a espessa camada de gelo que o continha. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampl</content:encoded>
-            </item><item>
-              <title>IA desenvolvida pela NASA pode ajudar a rastrear algas nocivas</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-developed-ai-could-help-track-harmful-algae</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-developed-ai-could-help-track-harmful-algae</guid>
-              <pubDate>Wed, 20 May 2026 17:39:10 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Cientistas da NASA desenvolveram uma ferramenta de inteligência artificial para enfrentar um desafio de longa data nas águas oceânicas. Em um estudo publicado recentemente na AGU Earth and Space Science, os pesquisadores relataram que a ferramenta foi capaz.</description>
-              <category>Ciências da Terra</category><category>NASA News Releases</category><category>Cosmos Week</category><category>IA desenvolvida pela NASA pode ajudar a rastrear algas nocivas</category>
-              <source url="https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/">NASA News Releases</source>
-              <content:encoded>Cientistas da NASA desenvolveram uma ferramenta de inteligência artificial para enfrentar um desafio de longa data nas águas oceânicas. Em um estudo publicado recentemente na AGU Earth and Space Science, os pesquisadores relataram que a ferramenta foi capaz de fundir dados. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espa</content:encoded>
-            </item><item>
-              <title>NASA divulga prioridades tecnológicas para energizar a indústria espacial</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-releases-technology-priorities-to-energize-space-industry</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-releases-technology-priorities-to-energize-space-industry</guid>
-              <pubDate>Wed, 20 May 2026 17:11:42 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A NASA divulgou na quarta-feira a lista de classificação do déficit de espaço civil de 2026, que integra mais de 400 respostas de partes interessadas, incluindo organizações industriais, agências governamentais e academia. As deficiências referem-se às áreas.</description>
-              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>NASA divulga prioridades tecnológicas para energizar a indústria espacial</category>
-              <source url="https://www.nasa.gov/technology/nasa-releases-technology-priorities-to-energize-space-industry/">NASA News Releases</source>
-              <content:encoded>A NASA divulgou na quarta-feira a lista de classificação do déficit de espaço civil de 2026, que integra mais de 400 respostas de partes interessadas, incluindo organizações industriais, agências governamentais e academia. As deficiências referem-se às áreas tecnológicas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige q</content:encoded>
             </item><item>
               <title>Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</link>
@@ -198,15 +188,25 @@
               <source url="https://www.universetoday.com/articles/astronomers-find-new-circumbinary-tatooine-like-planet-candidates">Universe Today</source>
               <content:encoded>Existe uma categoria distinta de exomundos que orbitam duas estrelas. Eles são chamados de planetas “circumbinários” e, até recentemente, os astrônomos haviam encontrado apenas cerca de 18 deles entre os mais de 6.000 outros exoplanetas e candidatos conhecidos. Agora, um. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido</content:encoded>
             </item><item>
-              <title>AMPM II. Um candidato a microlente de buraco negro primordial de massa lunar no Halo da Via Láctea</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=ampm-ii-a-lunar-mass-primordial-black-hole-microlensing-candidate-in-the-milky-way-halo</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=ampm-ii-a-lunar-mass-primordial-black-hole-microlensing-candidate-in-the-milky-way-halo</guid>
-              <pubDate>Tue, 19 May 2026 05:20:29 +0000</pubDate>
+              <title>Marte revela o primeiro efeito Zwan-Wolf nas profundezas de sua atmosfera durante uma tempestade solar</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=mars-reveals-first-zwan-wolf-effect-deep-in-its-atmosphere-during-a-solar-storm</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=mars-reveals-first-zwan-wolf-effect-deep-in-its-atmosphere-during-a-solar-storm</guid>
+              <pubDate>Mon, 18 May 2026 22:20:01 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Supõe-se que os buracos negros primordiais se formaram durante a inflação e há muito são considerados candidatos à matéria escura compacta. A microlente gravitacional é conhecida como um método produtivo para descoberta e caracterização de exoplanetas.</description>
-              <category>Exoplanetas</category><category>arXiv Cosmology</category><category>Cosmos Week</category><category>AMPM II. Um candidato a microlente de buraco negro primordial de massa lunar no Halo da Via Láctea</category>
-              <source url="https://arxiv.org/abs/2605.19375v1">arXiv Cosmology</source>
-              <content:encoded>Supõe-se que os buracos negros primordiais se formaram durante a inflação e há muito são considerados candidatos à matéria escura compacta. A microlente gravitacional é conhecida como um método produtivo para descoberta e caracterização de exoplanetas. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando exis</content:encoded>
+              <description>Em dezembro de 2023, os cientistas que analisavam os dados de Marte tropeçaram em algo completamente inesperado: observações de um efeito atmosférico nunca antes visto na atmosfera do Planeta Vermelho. Usando instrumentos a bordo da missão MAVEN da NASA.</description>
+              <category>Física</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Marte revela o primeiro efeito Zwan</category>
+              <source url="https://phys.org/news/2026-05-mars-reveals-zwan-wolf-effect.html">Phys.org Space</source>
+              <content:encoded>Em dezembro de 2023, os cientistas que analisavam os dados de Marte tropeçaram em algo completamente inesperado: observações de um efeito atmosférico nunca antes visto na atmosfera do Planeta Vermelho. Usando instrumentos a bordo da missão MAVEN da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inic</content:encoded>
+            </item><item>
+              <title>Um foguete SpaceX atingirá em breve a Lua, levantando preocupações sobre a entrega de lançamentos espaciais a empresas privadas</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-spacex-rocket-will-soon-hit-the-moon-raising-concerns-about-handing-over-space-launches-to-pri</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=a-spacex-rocket-will-soon-hit-the-moon-raising-concerns-about-handing-over-space-launches-to-pri</guid>
+              <pubDate>Wed, 20 May 2026 12:40:01 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>A SpaceX parece ter confundido atirar na lua com atirar na lua. Previsto para ocorrer em 5 de agosto, espera-se que um pedaço de foguete de cinco andares de uma das recentes missões lunares da empresa privada de exploração espacial atinja o local.</description>
+              <category>Física</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Um foguete SpaceX atingirá em breve a Lua</category>
+              <source url="https://phys.org/news/2026-05-spacex-rocket-moon-space-private.html">Phys.org Space</source>
+              <content:encoded>A SpaceX parece ter confundido atirar na lua com atirar na lua. Previsto para ocorrer em 5 de agosto, espera-se que um pedaço de foguete de cinco andares de uma das recentes missões lunares da empresa privada de exploração espacial atinja o local. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialment</content:encoded>
             </item>
   </channel>
 </rss>

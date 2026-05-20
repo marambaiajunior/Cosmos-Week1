@@ -37,17 +37,17 @@ window.postsData = [
       "Key detail: In a National Institutes of Health (NIH)-funded study, researchers developed a cancer assessment tool that can identify high-risk patients and.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "19 mai 2026",
-    "date_pt": "19 mai 2026",
-    "date_en": "19 May 2026",
-    "time": "23h43",
-    "time_pt": "23h43",
-    "time_en": "23:43 UTC",
+    "date": "20 mai 2026",
+    "date_pt": "20 mai 2026",
+    "date_en": "20 May 2026",
+    "time": "04h22",
+    "time_pt": "04h22",
+    "time_en": "04:22 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-19T23:43:04.903353+00:00",
-    "lastModifiedIso": "2026-05-19T23:43:04.903353+00:00",
+    "publishedIso": "2026-05-20T04:22:36.864246+00:00",
+    "lastModifiedIso": "2026-05-20T04:22:36.864246+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -142,17 +142,17 @@ window.postsData = [
       "Key detail: NIH-supported study is largest ever to compare fluid interventions to prevent major kidney damage in children treated for septic shock.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "19 mai 2026",
-    "date_pt": "19 mai 2026",
-    "date_en": "19 May 2026",
-    "time": "23h43",
-    "time_pt": "23h43",
-    "time_en": "23:43 UTC",
+    "date": "20 mai 2026",
+    "date_pt": "20 mai 2026",
+    "date_en": "20 May 2026",
+    "time": "04h22",
+    "time_pt": "04h22",
+    "time_en": "04:22 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-19T23:43:04.903283+00:00",
-    "lastModifiedIso": "2026-05-19T23:43:04.903283+00:00",
+    "publishedIso": "2026-05-20T04:22:36.864202+00:00",
+    "lastModifiedIso": "2026-05-20T04:22:36.864202+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -247,17 +247,17 @@ window.postsData = [
       "Key detail: NIH-funded clinical trial shows that the new approach could also decrease time in the hospital.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "19 mai 2026",
-    "date_pt": "19 mai 2026",
-    "date_en": "19 May 2026",
-    "time": "23h43",
-    "time_pt": "23h43",
-    "time_en": "23:43 UTC",
+    "date": "20 mai 2026",
+    "date_pt": "20 mai 2026",
+    "date_en": "20 May 2026",
+    "time": "04h22",
+    "time_pt": "04h22",
+    "time_en": "04:22 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-19T23:43:04.903230+00:00",
-    "lastModifiedIso": "2026-05-19T23:43:04.903230+00:00",
+    "publishedIso": "2026-05-20T04:22:36.864152+00:00",
+    "lastModifiedIso": "2026-05-20T04:22:36.864152+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -355,17 +355,17 @@ window.postsData = [
       "Key detail: A team of National Institutes of Health (NIH) scientists and international colleagues have reported the first evidence from a randomized.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "19 mai 2026",
-    "date_pt": "19 mai 2026",
-    "date_en": "19 May 2026",
-    "time": "23h43",
-    "time_pt": "23h43",
-    "time_en": "23:43 UTC",
+    "date": "20 mai 2026",
+    "date_pt": "20 mai 2026",
+    "date_en": "20 May 2026",
+    "time": "04h22",
+    "time_pt": "04h22",
+    "time_en": "04:22 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-19T23:43:04.903183+00:00",
-    "lastModifiedIso": "2026-05-19T23:43:04.903183+00:00",
+    "publishedIso": "2026-05-20T04:22:36.864095+00:00",
+    "lastModifiedIso": "2026-05-20T04:22:36.864095+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -466,17 +466,17 @@ window.postsData = [
       "Key detail: In a new National Institutes of Health (NIH)-funded study, scientists at Cleveland Clinic discovered that hormones associated with male.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "19 mai 2026",
-    "date_pt": "19 mai 2026",
-    "date_en": "19 May 2026",
-    "time": "23h43",
-    "time_pt": "23h43",
-    "time_en": "23:43 UTC",
+    "date": "20 mai 2026",
+    "date_pt": "20 mai 2026",
+    "date_en": "20 May 2026",
+    "time": "04h22",
+    "time_pt": "04h22",
+    "time_en": "04:22 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-19T23:43:04.903137+00:00",
-    "lastModifiedIso": "2026-05-19T23:43:04.903137+00:00",
+    "publishedIso": "2026-05-20T04:22:36.864051+00:00",
+    "lastModifiedIso": "2026-05-20T04:22:36.864051+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -537,6 +537,139 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "fire-chars-santa-rosa-island",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fire-chars-santa-rosa-island/channelislandsfire653_oli2_20260516.jpg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fire-chars-santa-rosa-island/channelislandsfire653_oli2_20260516.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Uma imagem voltada para baixo da Ilha de Santa Rosa mostra uma área queimada marrom-escura no canto inferior direito. Uma linha fina e laranja brilhante corre ao longo da área queimada, indicando a frente de fogo ativa.",
+        "caption_pt": "Uma imagem voltada para baixo da Ilha de Santa Rosa mostra uma área queimada marrom-escura no canto inferior direito. Uma linha fina e laranja brilhante corre ao longo da área queimada, indicando a frente de fogo ativa.",
+        "caption_en": "A downward-looking image of Santa Rosa Island shows a dark-brown burned area toward the bottom-right. A thin, bright orange line runs along the burned area, indicating the active fire front.",
+        "alt": "Uma imagem voltada para baixo da Ilha de Santa Rosa mostra uma área queimada marrom-escura no canto inferior direito. Uma linha fina e laranja brilhante corre ao longo da área queimada, indicando a frente de fogo ativa.",
+        "alt_pt": "Uma imagem voltada para baixo da Ilha de Santa Rosa mostra uma área queimada marrom-escura no canto inferior direito. Uma linha fina e laranja brilhante corre ao longo da área queimada, indicando a frente de fogo ativa.",
+        "alt_en": "A downward-looking image of Santa Rosa Island shows a dark-brown burned area toward the bottom-right. A thin, bright orange line runs along the burned area, indicating the active fire front."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fire-chars-santa-rosa-island/channelislandsfire_oli2_20260516.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Uma imagem voltada para baixo da Ilha de Santa Rosa é quase toda marrom, com uma área marrom mais escura no canto inferior direito. A fumaça branco-acinzentada flutua em direção ao canto inferior direito sobre a água azul escura do oceano.",
+        "caption_pt": "Uma imagem voltada para baixo da Ilha de Santa Rosa é quase toda marrom, com uma área marrom mais escura no canto inferior direito. A fumaça branco-acinzentada flutua em direção ao canto inferior direito sobre a água azul escura do oceano.",
+        "caption_en": "A downward-looking image of Santa Rosa Island is mostly brown, with a darker brown area on the bottom-right side. Gray-white smoke drifts toward the bottom-right over dark blue ocean water.",
+        "alt": "Uma imagem voltada para baixo da Ilha de Santa Rosa é quase toda marrom, com uma área marrom mais escura no canto inferior direito. A fumaça branco-acinzentada flutua em direção ao canto inferior direito sobre a água azul escura do oceano.",
+        "alt_pt": "Uma imagem voltada para baixo da Ilha de Santa Rosa é quase toda marrom, com uma área marrom mais escura no canto inferior direito. A fumaça branco-acinzentada flutua em direção ao canto inferior direito sobre a água azul escura do oceano.",
+        "alt_en": "A downward-looking image of Santa Rosa Island is mostly brown, with a darker brown area on the bottom-right side. Gray-white smoke drifts toward the bottom-right over dark blue ocean water."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fire-chars-santa-rosa-island/channelislandsfire653_oli2_20260516_lrg.jpg?w=2404&h=1603&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Uma imagem voltada para baixo da Ilha de Santa Rosa mostra uma área queimada marrom-escura no canto inferior direito. Uma linha fina e laranja brilhante corre ao longo da área queimada, indicando a frente de fogo ativa.",
+        "caption_pt": "Uma imagem voltada para baixo da Ilha de Santa Rosa mostra uma área queimada marrom-escura no canto inferior direito. Uma linha fina e laranja brilhante corre ao longo da área queimada, indicando a frente de fogo ativa.",
+        "caption_en": "A downward-looking image of Santa Rosa Island shows a dark-brown burned area toward the bottom-right. A thin, bright orange line runs along the burned area, indicating the active fire front.",
+        "alt": "Uma imagem voltada para baixo da Ilha de Santa Rosa mostra uma área queimada marrom-escura no canto inferior direito. Uma linha fina e laranja brilhante corre ao longo da área queimada, indicando a frente de fogo ativa.",
+        "alt_pt": "Uma imagem voltada para baixo da Ilha de Santa Rosa mostra uma área queimada marrom-escura no canto inferior direito. Uma linha fina e laranja brilhante corre ao longo da área queimada, indicando a frente de fogo ativa.",
+        "alt_en": "A downward-looking image of Santa Rosa Island shows a dark-brown burned area toward the bottom-right. A thin, bright orange line runs along the burned area, indicating the active fire front."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Fogo Chars Ilha Santa Rosa",
+    "title_pt": "Fogo Chars Ilha Santa Rosa",
+    "title_en": "Fire Chars Santa Rosa Island",
+    "sub": "O incêndio se espalhou pelo lado sul da segunda maior ilha do Parque Nacional das Ilhas do Canal, na Califórnia. O posto Fire Chars Ilha Santa Rosa apareceu pela primeira vez na.",
+    "sub_pt": "O incêndio se espalhou pelo lado sul da segunda maior ilha do Parque Nacional das Ilhas do Canal, na Califórnia. O posto Fire Chars Ilha Santa Rosa apareceu pela primeira vez na.",
+    "sub_en": "The blaze spread across the southern side of the second-largest island in California’s Channel Islands National Park. The post Fire Chars Santa Rosa Island appeared first on NASA.",
+    "excerpt": "O incêndio se espalhou pelo lado sul da segunda maior ilha do Parque Nacional das Ilhas do Canal, na Califórnia. O posto Fire Chars Ilha Santa Rosa apareceu pela primeira vez na NASA Science.",
+    "excerpt_pt": "O incêndio se espalhou pelo lado sul da segunda maior ilha do Parque Nacional das Ilhas do Canal, na Califórnia. O posto Fire Chars Ilha Santa Rosa apareceu pela primeira vez na NASA Science.",
+    "excerpt_en": "The blaze spread across the southern side of the second-largest island in California’s Channel Islands National Park. The post Fire Chars Santa Rosa Island appeared first on NASA Science.",
+    "body": "<p>O incêndio se espalhou pelo lado sul da segunda maior ilha do Parque Nacional das Ilhas do Canal, na Califórnia. O posto Fire Chars Ilha Santa Rosa apareceu pela primeira vez na NASA Science. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Fire Chars Santa Rosa Island apareceu pela primeira vez em NASA Science. Observatório da Terra da NASA / Lauren Dauphin Cor falsa Cor natural Uma imagem voltada para baixo da Ilha de Santa Rosa mostra uma área queimada marrom-escura no canto inferior.</p><p>Observatório da Terra da NASA / Lauren Dauphin Uma imagem voltada para baixo da Ilha de Santa Rosa é quase toda marrom, com uma área marrom mais escura no canto inferior direito. NASA Earth Observatory / Lauren Dauphin False Color Natural Color Curtain Toggle 2-Up Image Details Um incêndio florestal queima na Ilha de Santa Rosa, no Parque Nacional das.</p><p>Imagem do Dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes. Explore dados de ciências da terra em ciências da terra Acesso aberto ao arquivo de dados de ciências da terra da NASA O post Fire Chars Santa Rosa Island apareceu pela primeira.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA Earth Observatory, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/fire-chars-santa-rosa-island/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O incêndio se espalhou pelo lado sul da segunda maior ilha do Parque Nacional das Ilhas do Canal, na Califórnia. O posto Fire Chars Ilha Santa Rosa apareceu pela primeira vez na NASA Science. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Fire Chars Santa Rosa Island apareceu pela primeira vez em NASA Science. Observatório da Terra da NASA / Lauren Dauphin Cor falsa Cor natural Uma imagem voltada para baixo da Ilha de Santa Rosa mostra uma área queimada marrom-escura no canto inferior.</p><p>Observatório da Terra da NASA / Lauren Dauphin Uma imagem voltada para baixo da Ilha de Santa Rosa é quase toda marrom, com uma área marrom mais escura no canto inferior direito. NASA Earth Observatory / Lauren Dauphin False Color Natural Color Curtain Toggle 2-Up Image Details Um incêndio florestal queima na Ilha de Santa Rosa, no Parque Nacional das.</p><p>Imagem do Dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes. Explore dados de ciências da terra em ciências da terra Acesso aberto ao arquivo de dados de ciências da terra da NASA O post Fire Chars Santa Rosa Island apareceu pela primeira.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA Earth Observatory, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/fire-chars-santa-rosa-island/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The blaze spread across the southern side of the second-largest island in California’s Channel Islands National Park. The post Fire Chars Santa Rosa Island appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The post Fire Chars Santa Rosa Island appeared first on NASA Science. NASA Earth Observatory / Lauren Dauphin False Color Natural Color A downward-looking image of Santa Rosa Island shows a dark-brown burned area toward the bottom-right.</p><p>NASA Earth Observatory / Lauren Dauphin A downward-looking image of Santa Rosa Island is mostly brown, with a darker brown area on the bottom-right side. NASA Earth Observatory / Lauren Dauphin False Color Natural Color Curtain Toggle 2-Up Image Details A wildland fire burns on Santa Rosa Island in California’s Channel Islands.</p><p>Earth Observatory Image of the Day NASA&#x27;s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery. Explore Earth Science Earth Science Data Open access to NASA’s archive of Earth science data The post Fire Chars Santa Rosa Island appeared first on NASA Science.</p><p>The fire was first spotted from aircraft on May 15, 2026, and confirmed by the National Park Service that morning. NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U. S.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet. Article 1 2 3 4 Next Keep Exploring Discover More from NASA Earth Science Subscribe to Earth Observatory Newsletters Subscribe to the Earth Observatory and get the Earth in your.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/fire-chars-santa-rosa-island/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O incêndio se espalhou pelo lado sul da segunda maior ilha do Parque Nacional das Ilhas do Canal, na Califórnia. O posto Fire Chars Ilha Santa Rosa.",
+      "Dado-chave: O post Fire Chars Santa Rosa Island apareceu pela primeira vez em NASA Science.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O incêndio se espalhou pelo lado sul da segunda maior ilha do Parque Nacional das Ilhas do Canal, na Califórnia. O posto Fire Chars Ilha Santa Rosa.",
+      "Dado-chave: O post Fire Chars Santa Rosa Island apareceu pela primeira vez em NASA Science.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The blaze spread across the southern side of the second-largest island in California’s Channel Islands National Park. The post Fire Chars Santa Rosa.",
+      "Key detail: The post Fire Chars Santa Rosa Island appeared first on NASA Science.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "20 mai 2026",
+    "date_pt": "20 mai 2026",
+    "date_en": "20 May 2026",
+    "time": "04h00",
+    "time_pt": "04h00",
+    "time_en": "04:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-20T04:00:00+00:00",
+    "lastModifiedIso": "2026-05-20T04:00:00+00:00",
+    "source": "NASA Earth Observatory",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Fogo Chars Ilha Santa Rosa"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Fogo Chars Ilha Santa Rosa"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Fogo Chars Santa Rosa Island"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/fire-chars-santa-rosa-island/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=fire-chars-santa-rosa-island",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=fire-chars-santa-rosa-island",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=fire-chars-santa-rosa-island&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 70,
+    "scoreBreakdown": {
+      "source": 75,
+      "evidence": 88,
+      "relevance": 62,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "a-brief-ish-history-of-seti-part-vi-the-great-silence-and-the-great-filter",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -643,7 +776,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -657,7 +790,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "psyche-mission-images-of-mars-flyby-are-here",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -772,7 +905,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "nasa-s-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -905,7 +1038,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "atlast-a-telescope-that-could-reveal-the-missing-half-of-the-universe",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1035,139 +1168,6 @@ window.postsData = [
     "scoreBreakdown": {
       "source": 76,
       "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "an-explanation-for-the-massive-black-holes-the-jwst-found-in-the-early-universe",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://www.universetoday.com/article_images/noirlab2102a_20260519_165618.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/uhz1_20260519_165552.jpg",
-        "caption": "Esta figura mostra imagens Chandra (raio-x) e JWST (infravermelho) do OBG UHZ1. Isto",
-        "caption_pt": "Esta figura mostra imagens Chandra (raio-x) e JWST (infravermelho) do OBG UHZ1. Isto",
-        "caption_en": "This figure shows Chandra (x-ray) and JWST (infrared) images of the OBG UHZ1. It",
-        "alt": "Esta figura mostra imagens Chandra (raio-x) e JWST (infravermelho) do OBG UHZ1. Isto",
-        "alt_pt": "Esta figura mostra imagens Chandra (raio-x) e JWST (infravermelho) do OBG UHZ1. Isto",
-        "alt_en": "This figure shows Chandra (x-ray) and JWST (infrared) images of the OBG UHZ1. It"
-      },
-      {
-        "src": "https://www.universetoday.com/article_images/OBG_sim_20260519_164239.jpg",
-        "caption": "Esses quatro painéis são instantâneos das simulações do DCBH em diferentes momentos e resoluções. Painel (a): imagem de 10 kpc do DCBH ao nascer em z = 25,7. Painel (b): imagem de 20 kpc do OBG em z = 11,4 centrada no buraco negro. Painel.",
-        "caption_pt": "Esses quatro painéis são instantâneos das simulações do DCBH em diferentes momentos e resoluções. Painel (a): imagem de 10 kpc do DCBH ao nascer em z = 25,7. Painel (b): imagem de 20 kpc do OBG em z = 11,4 centrada no buraco negro. Painel.",
-        "caption_en": "These four panels are snapshots from the simulations of the DCBH at different times and resolutions. Panel (a): 10 kpc image of the DCBH at birth at z = 25.7. Panel (b): 20 kpc image of the OBG at z = 11.4 centered on the black hole. Panel.",
-        "alt": "Esses quatro painéis são instantâneos das simulações do DCBH em diferentes momentos e resoluções. Painel (a): imagem de 10 kpc do DCBH ao nascer em z = 25,7. Painel (b): imagem de 20 kpc do OBG em z = 11,4 centrada no buraco negro. Painel.",
-        "alt_pt": "Esses quatro painéis são instantâneos das simulações do DCBH em diferentes momentos e resoluções. Painel (a): imagem de 10 kpc do DCBH ao nascer em z = 25,7. Painel (b): imagem de 20 kpc do OBG em z = 11,4 centrada no buraco negro. Painel.",
-        "alt_en": "These four panels are snapshots from the simulations of the DCBH at different times and resolutions. Panel (a): 10 kpc image of the DCBH at birth at z = 25.7. Panel (b): 20 kpc image of the OBG at z = 11.4 centered on the black hole. Panel."
-      },
-      {
-        "src": "https://www.universetoday.com/article_images/noirlab2222b_20260519_165044.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Uma explicação para os enormes buracos negros que o JWST encontrou no universo primitivo",
-    "title_pt": "Uma explicação para os enormes buracos negros que o JWST encontrou no universo primitivo",
-    "title_en": "An Explanation for the Massive Black Holes the JWST Found in the Early Universe",
-    "sub": "Desde que o JWST encontrou buracos negros supermassivos no Universo primordial, os investigadores têm tentado compreendê-los. A teoria mostrou que os buracos negros e suas.",
-    "sub_pt": "Desde que o JWST encontrou buracos negros supermassivos no Universo primordial, os investigadores têm tentado compreendê-los. A teoria mostrou que os buracos negros e suas.",
-    "sub_en": "Ever since the JWST found over-massive black holes in the early Universe, researchers have been trying to understand them. Theory showed that black holes and their galaxies grew.",
-    "excerpt": "Desde que o JWST encontrou buracos negros supermassivos no Universo primordial, os investigadores têm tentado compreendê-los. A teoria mostrou que os buracos negros e suas galáxias cresceram sincronizados entre si. Isso não pode explicar o.",
-    "excerpt_pt": "Desde que o JWST encontrou buracos negros supermassivos no Universo primordial, os investigadores têm tentado compreendê-los. A teoria mostrou que os buracos negros e suas galáxias cresceram sincronizados entre si. Isso não pode explicar o.",
-    "excerpt_en": "Ever since the JWST found over-massive black holes in the early Universe, researchers have been trying to understand them. Theory showed that black holes and their galaxies grew in synchronization with each other. That can't explain the.",
-    "body": "<p>Desde que o JWST encontrou buracos negros supermassivos no Universo primordial, os investigadores têm tentado compreendê-los. A teoria mostrou que os buracos negros e suas galáxias cresceram sincronizados entre si. Isso não pode explicar o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Desde que o JWST encontrou buracos negros supermassivos no Universo primordial, os investigadores têm tentado compreendê-los. Isso não pode explicar as descobertas do JWST, mas novas pesquisas podem.</p><p>Uma das descobertas mais intrigantes das observações do JWST sobre o Universo primordial é o tamanho dos buracos negros. Os astrônomos esperavam o inesperado do JWST, e ele aconteceu.</p><p>É intitulado “Como os buracos negros supermassivos se formaram no Cosmic Dawn” e está atualmente disponível em arxiv. org. O autor principal é Muhammad Latif, do Departamento de Física da Faculdade de Ciências da Universidade dos Emirados Árabes Unidos.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/an-explanation-for-the-massive-black-holes-the-jwst-found-in-the-early-universe\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Desde que o JWST encontrou buracos negros supermassivos no Universo primordial, os investigadores têm tentado compreendê-los. A teoria mostrou que os buracos negros e suas galáxias cresceram sincronizados entre si. Isso não pode explicar o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Desde que o JWST encontrou buracos negros supermassivos no Universo primordial, os investigadores têm tentado compreendê-los. Isso não pode explicar as descobertas do JWST, mas novas pesquisas podem.</p><p>Uma das descobertas mais intrigantes das observações do JWST sobre o Universo primordial é o tamanho dos buracos negros. Os astrônomos esperavam o inesperado do JWST, e ele aconteceu.</p><p>É intitulado “Como os buracos negros supermassivos se formaram no Cosmic Dawn” e está atualmente disponível em arxiv. org. O autor principal é Muhammad Latif, do Departamento de Física da Faculdade de Ciências da Universidade dos Emirados Árabes Unidos.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/an-explanation-for-the-massive-black-holes-the-jwst-found-in-the-early-universe\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Ever since the JWST found over-massive black holes in the early Universe, researchers have been trying to understand them. Theory showed that black holes and their galaxies grew in synchronization with each other. That can&#x27;t explain the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. Ever since the JWST found over-massive black holes in the early Universe, researchers have been trying to understand them. That can&#x27;t explain the JWST&#x27;s findings, but new research might.</p><p>One of the most puzzling findings from the JWST&#x27;s observations of the early Universe is the size of black holes. Astronomers expected the unexpected from JWST, and it has delivered.</p><p>It&#x27;s titled &quot; How Overmassive Black Holes Formed at Cosmic Dawn,&quot; and it&#x27;s currently available at arxiv. org. The lead author is Muhammad Latif from the Physics Department in the College of Science at United Arab Emirates University.</p><p>Supermassive black holes (SMBHs) are typically between about 0.1% and 0.5% as massive as the stellar mass of their host galaxy. When the JWST observed galaxies in the Universe&#x27;s first one or two billion years, it found that SMBHs were far more massive in relation to their host galaxies.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>They frequently made up 10% to 30% of their galaxies&#x27; masses. Astrophysicists also know that Pop III stars, the first generation of stars to form, were massive, short-lived, and many of them exploded as extraordinarily powerful supernova.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/an-explanation-for-the-massive-black-holes-the-jwst-found-in-the-early-universe\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Desde que o JWST encontrou buracos negros supermassivos no Universo primordial, os investigadores têm tentado compreendê-los. A teoria mostrou que os.",
-      "Dado-chave: Desde que o JWST encontrou buracos negros supermassivos no Universo primordial, os investigadores têm tentado compreendê-los.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Desde que o JWST encontrou buracos negros supermassivos no Universo primordial, os investigadores têm tentado compreendê-los. A teoria mostrou que os.",
-      "Dado-chave: Desde que o JWST encontrou buracos negros supermassivos no Universo primordial, os investigadores têm tentado compreendê-los.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Ever since the JWST found over-massive black holes in the early Universe, researchers have been trying to understand them. Theory showed that black.",
-      "Key detail: Ever since the JWST found over-massive black holes in the early Universe, researchers have been trying to understand them.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "19 mai 2026",
-    "date_pt": "19 mai 2026",
-    "date_en": "19 May 2026",
-    "time": "17h32",
-    "time_pt": "17h32",
-    "time_en": "17:32 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-19T17:32:08+00:00",
-    "lastModifiedIso": "2026-05-19T17:32:08+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "Universe Today",
-      "Cosmos Week",
-      "Uma explicação para os enormes buracos negros que o JWST encontrou no universo primitivo"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "Universe Today",
-      "Cosmos Week",
-      "Uma explicação para os enormes buracos negros que o JWST encontrou no universo primitivo"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "Universe Today",
-      "Cosmos Week",
-      "An explanation for the huge black holes JWST found in the early universe"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/an-explanation-for-the-massive-black-holes-the-jwst-found-in-the-early-universe",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=an-explanation-for-the-massive-black-holes-the-jwst-found-in-the-early-universe",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=an-explanation-for-the-massive-black-holes-the-jwst-found-in-the-early-universe",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=an-explanation-for-the-massive-black-holes-the-jwst-found-in-the-early-universe&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
       "novelty": 55
@@ -1821,6 +1821,139 @@ window.postsData = [
   },
   {
     "id": 16,
+    "slug": "meerkat-discovers-15-new-millisecond-pulsars-in-a-well-known-globular-cluster",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/meerkat-discovers-15-n.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/meerkat-discovers-15-n.jpg",
+        "caption": "MeerKAT descobre 15 novos pulsares de milissegundos em um aglomerado globular bem conhecido",
+        "caption_pt": "MeerKAT descobre 15 novos pulsares de milissegundos em um aglomerado globular bem conhecido",
+        "caption_en": "MeerKAT discovers 15 new millisecond pulsars in a well known globular cluster",
+        "alt": "MeerKAT descobre 15 novos pulsares de milissegundos em um aglomerado globular bem conhecido",
+        "alt_pt": "MeerKAT descobre 15 novos pulsares de milissegundos em um aglomerado globular bem conhecido",
+        "alt_en": "MeerKAT discovers 15 new millisecond pulsars in a well known globular cluster"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/meerkat-discovers-fift.jpg",
+        "caption": "Posições dos pulsares sobrepostas às posições dos feixes MeerKAT da observação em 17 de dezembro de 2020 com o receptor de banda L. As elipses representam feixes sintetizados coerentes com suas bordas indicando um nível de ganho de 70%. O.",
+        "caption_pt": "Posições dos pulsares sobrepostas às posições dos feixes MeerKAT da observação em 17 de dezembro de 2020 com o receptor de banda L. As elipses representam feixes sintetizados coerentes com suas bordas indicando um nível de ganho de 70%. O.",
+        "caption_en": "Positions of the pulsars overlaid on the positions of the MeerKAT beams from the observation on December 17, 2020 with the L-band receiver. The ellipses represent coherent synthesized beams with their edges indicating a 70% gain level. The.",
+        "alt": "MeerKAT descobre quinze novos pulsares de milissegundos em um aglomerado globular bem conhecido",
+        "alt_pt": "MeerKAT descobre quinze novos pulsares de milissegundos em um aglomerado globular bem conhecido",
+        "alt_en": "MeerKAT discovers fifteen new millisecond pulsars in a well known globular cluster"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/6479ba614c2b9111.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "MeerKAT descobre 15 novos pulsares de milissegundos em um aglomerado globular bem conhecido",
+    "title_pt": "MeerKAT descobre 15 novos pulsares de milissegundos em um aglomerado globular bem conhecido",
+    "title_en": "MeerKAT discovers 15 new millisecond pulsars in a well known globular cluster",
+    "sub": "Usando o radiotelescópio MeerKAT, uma equipe internacional de astrônomos descobriu 15 novos pulsares de milissegundos em 47 Tucanae, um dos aglomerados globulares mais próximos e.",
+    "sub_pt": "Usando o radiotelescópio MeerKAT, uma equipe internacional de astrônomos descobriu 15 novos pulsares de milissegundos em 47 Tucanae, um dos aglomerados globulares mais próximos e.",
+    "sub_en": "Using the MeerKAT radio telescope, an international team of astronomers has discovered 15 new millisecond pulsars in 47 Tucanae, one of the closest and best studied globular.",
+    "excerpt": "Usando o radiotelescópio MeerKAT, uma equipe internacional de astrônomos descobriu 15 novos pulsares de milissegundos em 47 Tucanae, um dos aglomerados globulares mais próximos e mais bem estudados. A descoberta é relatada na última edição da.",
+    "excerpt_pt": "Usando o radiotelescópio MeerKAT, uma equipe internacional de astrônomos descobriu 15 novos pulsares de milissegundos em 47 Tucanae, um dos aglomerados globulares mais próximos e mais bem estudados. A descoberta é relatada na última edição da.",
+    "excerpt_en": "Using the MeerKAT radio telescope, an international team of astronomers has discovered 15 new millisecond pulsars in 47 Tucanae, one of the closest and best studied globular clusters. The finding is reported in the latest issue of.",
+    "body": "<p>Usando o radiotelescópio MeerKAT, uma equipe internacional de astrônomos descobriu 15 novos pulsares de milissegundos em 47 Tucanae, um dos aglomerados globulares mais próximos e mais bem estudados. A descoberta é relatada na última edição da. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial perfis de pulso de 47 Tuc af dobrados. Weiwei Chen et al Usando o radiotelescópio MeerKAT, uma equipe internacional de astrônomos descobriu 15 novos pulsares de milissegundos em 47 Tucanae, um dos aglomerados.</p><p>Os pulsares são estrelas de nêutrons rotativas altamente magnetizadas que emitem um feixe de radiação eletromagnética e as que giram mais rapidamente (com períodos de rotação. Neste trabalho, apresentamos outras descobertas de pulsares em 47 Tuc feitas como parte de uma pesquisa direcionada, especialmente na banda UHF (544-1.088 MHz)&quot;, escreveram os.</p><p>Os pulsares recém-descobertos têm períodos de rotação que variam de 1,88 a 13,03 milissegundos e medidas de dispersão entre 23,63 e 24,66 pc/cm 3.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-meerkat-millisecond-pulsars-globular-cluster.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Usando o radiotelescópio MeerKAT, uma equipe internacional de astrônomos descobriu 15 novos pulsares de milissegundos em 47 Tucanae, um dos aglomerados globulares mais próximos e mais bem estudados. A descoberta é relatada na última edição da. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial perfis de pulso de 47 Tuc af dobrados. Weiwei Chen et al Usando o radiotelescópio MeerKAT, uma equipe internacional de astrônomos descobriu 15 novos pulsares de milissegundos em 47 Tucanae, um dos aglomerados.</p><p>Os pulsares são estrelas de nêutrons rotativas altamente magnetizadas que emitem um feixe de radiação eletromagnética e as que giram mais rapidamente (com períodos de rotação. Neste trabalho, apresentamos outras descobertas de pulsares em 47 Tuc feitas como parte de uma pesquisa direcionada, especialmente na banda UHF (544-1.088 MHz)&quot;, escreveram os.</p><p>Os pulsares recém-descobertos têm períodos de rotação que variam de 1,88 a 13,03 milissegundos e medidas de dispersão entre 23,63 e 24,66 pc/cm 3.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-meerkat-millisecond-pulsars-globular-cluster.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Using the MeerKAT radio telescope, an international team of astronomers has discovered 15 new millisecond pulsars in 47 Tucanae, one of the closest and best studied globular clusters. The finding is reported in the latest issue of. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Pulse profiles of 47 Tuc af folded using an L-band observation. Weiwei Chen et al Using the MeerKAT radio telescope, an international team of astronomers has discovered 15 new millisecond pulsars in 47 Tucanae, one of the closest and best.</p><p>Pulsars are highly magnetized, rotating neutron stars emitting a beam of electromagnetic radiation and the most rapidly rotating ones (with rotation periods below 30 milliseconds). In this work, we present further pulsar discoveries in 47 Tuc made as part of a targeted survey, especially in the UHF band (544-1,088 MHz),&quot; the researchers wrote.</p><p>The newfound pulsars have spin periods ranging from 1.88 to 13.03 milliseconds, and dispersion measures between 23.63 and 24.66 pc/cm 3. In general, the new binary pulsars with well-determined orbits have characteristics that are similar to those of the previously known pulsars in 47 Tucanae.</p><p>It is a &quot;black widow&quot; pulsar with a short orbital period, likely associated with a bright optical MSP candidate detected in the Hubble Space Telescope imagery in 2002. The so-called &quot;black widows&quot; are extreme binary pulsars with semi-degenerate companion stars (with masses below 0.1 solar masses).</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Besides the detection of 15 new pulsars, the researchers also managed to re-detect and localize 47 Tuc P and V, two elusive, seldom-detected systems that had no precise. All in all, the new findings raise the number of known pulsars in 47 Tucanae to 42.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-meerkat-millisecond-pulsars-globular-cluster.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Usando o radiotelescópio MeerKAT, uma equipe internacional de astrônomos descobriu 15 novos pulsares de milissegundos em 47 Tucanae, um dos.",
+      "Dado-chave: Usando o radiotelescópio MeerKAT, uma equipe internacional de astrônomos descobriu 15 novos pulsares de milissegundos em 47 Tucanae, um dos.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Usando o radiotelescópio MeerKAT, uma equipe internacional de astrônomos descobriu 15 novos pulsares de milissegundos em 47 Tucanae, um dos.",
+      "Dado-chave: Usando o radiotelescópio MeerKAT, uma equipe internacional de astrônomos descobriu 15 novos pulsares de milissegundos em 47 Tucanae, um dos.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Using the MeerKAT radio telescope, an international team of astronomers has discovered 15 new millisecond pulsars in 47 Tucanae, one of the closest.",
+      "Key detail: Using the MeerKAT radio telescope, an international team of astronomers has discovered 15 new millisecond pulsars in 47 Tucanae, one of the.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "19 mai 2026",
+    "date_pt": "19 mai 2026",
+    "date_en": "19 May 2026",
+    "time": "13h40",
+    "time_pt": "13h40",
+    "time_en": "13:40 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-19T13:40:04+00:00",
+    "lastModifiedIso": "2026-05-19T13:40:04+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "Phys.org Space",
+      "Cosmos Week",
+      "MeerKAT descobre 15 novos pulsares de milissegundos em um aglomerado globular bem conhecido"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Phys.org Space",
+      "Cosmos Week",
+      "MeerKAT descobre 15 novos pulsares de milissegundos em um aglomerado globular bem conhecido"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "Phys.org Space",
+      "Cosmos Week",
+      "MeerKAT discovers 15 new millisecond pulsars in a well-known globular cluster"
+    ],
+    "srcUrl": "https://phys.org/news/2026-05-meerkat-millisecond-pulsars-globular-cluster.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=meerkat-discovers-15-new-millisecond-pulsars-in-a-well-known-globular-cluster",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=meerkat-discovers-15-new-millisecond-pulsars-in-a-well-known-globular-cluster",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=meerkat-discovers-15-new-millisecond-pulsars-in-a-well-known-globular-cluster&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 17,
     "slug": "first-outbursting-hot-subdwarf-binary-discovered",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -1953,7 +2086,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "tess-data-reveals-27-new-planet-candidates-in-binary-systems",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2071,7 +2204,7 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "astronomers-find-new-circumbinary-tatooine-like-planet-candidates",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2212,142 +2345,6 @@ window.postsData = [
       "source": 73,
       "evidence": 82,
       "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 19,
-    "slug": "mars-reveals-first-zwan-wolf-effect-deep-in-its-atmosphere-during-a-solar-storm",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasas-maven-makes-1st.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/nasas-maven-makes-1st.jpg",
-        "caption": "Uma representação artística do efeito Zwan-Wolf em Marte, conforme observado pela missão MAVEN (Mars Atmosphere and Volatile Evolution) da NASA. Embora este efeito normalmente ajude a desviar o vento solar na Terra, em Marte é demonstrado que isso acontece.",
-        "caption_pt": "Uma representação artística do efeito Zwan-Wolf em Marte, conforme observado pela missão MAVEN (Mars Atmosphere and Volatile Evolution) da NASA. Embora este efeito normalmente ajude a desviar o vento solar na Terra, em Marte é demonstrado que isso acontece.",
-        "caption_en": "An artistic representation of the Zwan-Wolf effect at Mars, as observed by NASA’s MAVEN (Mars Atmosphere and Volatile Evolution) mission. While this effect typically helps to deflect the solar wind at Earth, at Mars it is shown to.",
-        "alt": "MAVEN da NASA faz a primeira descoberta do efeito atmosférico em Marte - NASA Science",
-        "alt_pt": "MAVEN da NASA faz a primeira descoberta do efeito atmosférico em Marte - NASA Science",
-        "alt_en": "NASA's MAVEN Makes 1st Discovery of Atmospheric Effect at Mars - NASA Science"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f774f64d75a8f8a3.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Marte revela o primeiro efeito Zwan-Wolf nas profundezas de sua atmosfera durante uma tempestade solar",
-    "title_pt": "Marte revela o primeiro efeito Zwan-Wolf nas profundezas de sua atmosfera durante uma tempestade solar",
-    "title_en": "Mars reveals first Zwan-Wolf effect deep in its atmosphere during a solar storm",
-    "sub": "Em dezembro de 2023, os cientistas que analisavam os dados de Marte tropeçaram em algo completamente inesperado: observações de um efeito atmosférico nunca antes visto na.",
-    "sub_pt": "Em dezembro de 2023, os cientistas que analisavam os dados de Marte tropeçaram em algo completamente inesperado: observações de um efeito atmosférico nunca antes visto na.",
-    "sub_en": "In December 2023, scientists looking at Mars data stumbled across something completely unexpected, observations of an atmospheric effect never before seen in the Red Planet's.",
-    "excerpt": "Em dezembro de 2023, os cientistas que analisavam os dados de Marte tropeçaram em algo completamente inesperado: observações de um efeito atmosférico nunca antes visto na atmosfera do Planeta Vermelho. Usando instrumentos a bordo da missão MAVEN da NASA.",
-    "excerpt_pt": "Em dezembro de 2023, os cientistas que analisavam os dados de Marte tropeçaram em algo completamente inesperado: observações de um efeito atmosférico nunca antes visto na atmosfera do Planeta Vermelho. Usando instrumentos a bordo da missão MAVEN da NASA.",
-    "excerpt_en": "In December 2023, scientists looking at Mars data stumbled across something completely unexpected, observations of an atmospheric effect never before seen in the Red Planet's atmosphere. Using instruments aboard NASA's MAVEN mission.",
-    "body": "<p>Em dezembro de 2023, os cientistas que analisavam os dados de Marte tropeçaram em algo completamente inesperado: observações de um efeito atmosférico nunca antes visto na atmosfera do Planeta Vermelho. Usando instrumentos a bordo da missão MAVEN da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Usando instrumentos a bordo da missão MAVEN (Atmosfera de Marte e Evolução Volátil) da NASA, os cientistas identificaram um fenômeno conhecido por ocorrer na magnetosfera da. Em dezembro de 2023, os cientistas que analisaram os dados de Marte depararam-se com algo completamente inesperado: observações de um efeito atmosférico nunca antes visto na.</p><p>Embora este efeito normalmente ajude a desviar o vento solar na Terra, em Marte ele “comprime” a atmosfera e tem implicações na forma como o clima espacial interage com o planeta. LASP / CU Boulder Em dezembro de 2023, cientistas que analisavam dados de Marte se depararam com algo completamente inesperado, observações de um efeito atmosférico nunca antes.</p><p>Usando instrumentos a bordo da missão MAVEN (Atmosfera de Marte e Evolução Volátil) da NASA, os cientistas identificaram um fenômeno que ocorre na magnetosfera da Terra, onde. Este chamado efeito Zwan-Wolf auxilia na deflexão do vento solar ao redor da Terra e tem sido observado e estudado lá há décadas.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-mars-reveals-zwan-wolf-effect.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em dezembro de 2023, os cientistas que analisavam os dados de Marte tropeçaram em algo completamente inesperado: observações de um efeito atmosférico nunca antes visto na atmosfera do Planeta Vermelho. Usando instrumentos a bordo da missão MAVEN da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Usando instrumentos a bordo da missão MAVEN (Atmosfera de Marte e Evolução Volátil) da NASA, os cientistas identificaram um fenômeno conhecido por ocorrer na magnetosfera da. Em dezembro de 2023, os cientistas que analisaram os dados de Marte depararam-se com algo completamente inesperado: observações de um efeito atmosférico nunca antes visto na.</p><p>Embora este efeito normalmente ajude a desviar o vento solar na Terra, em Marte ele “comprime” a atmosfera e tem implicações na forma como o clima espacial interage com o planeta. LASP / CU Boulder Em dezembro de 2023, cientistas que analisavam dados de Marte se depararam com algo completamente inesperado, observações de um efeito atmosférico nunca antes.</p><p>Usando instrumentos a bordo da missão MAVEN (Atmosfera de Marte e Evolução Volátil) da NASA, os cientistas identificaram um fenômeno que ocorre na magnetosfera da Terra, onde. Este chamado efeito Zwan-Wolf auxilia na deflexão do vento solar ao redor da Terra e tem sido observado e estudado lá há décadas.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-mars-reveals-zwan-wolf-effect.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>In December 2023, scientists looking at Mars data stumbled across something completely unexpected, observations of an atmospheric effect never before seen in the Red Planet&#x27;s atmosphere. Using instruments aboard NASA&#x27;s MAVEN mission. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Using instruments aboard NASA&#x27;s MAVEN (Mars Atmosphere and Volatile Evolution) mission, scientists identified a phenomenon known to occur in Earth&#x27;s magnetosphere, where charged. While this effect typically helps to deflect the solar wind at Earth, at Mars it is shown to “squeeze” the atmosphere and have implications on how space weather interacts with the.</p><p>LASP / CU Boulder In December 2023, scientists looking at Mars data stumbled across something completely unexpected, observations of an atmospheric effect never before seen in the. This so-called Zwan-Wolf effect aids in the deflection of solar wind around Earth and has been observed and studied there for decades.</p><p>Now, a new study published in Nature Communications provides the first comprehensive observations of the same effect in Mars&#x27;s atmosphere. In this new study, the Zwan-Wolf effect was observed in the ionosphere —deep within the Martian atmosphere below 200 km, which contains significant numbers of electrically charged.</p><p>Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. The MAVEN team continues making new discoveries with our datasets and finding these links between our host star and the Red Planet.&quot; The MAVEN spacecraft launched in November 2013.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>The MAVEN spacecraft, in orbit around Mars, experienced a loss of signal with ground stations on Earth on Dec. 2026, NASA launched an anomaly review board to assess the probable current state of the spacecraft and the likelihood of its recovery.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-mars-reveals-zwan-wolf-effect.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Em dezembro de 2023, os cientistas que analisavam os dados de Marte tropeçaram em algo completamente inesperado: observações de um efeito atmosférico.",
-      "Dado-chave: Usando instrumentos a bordo da missão MAVEN (Atmosfera de Marte e Evolução Volátil) da NASA, os cientistas identificaram um fenômeno conhecido.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Em dezembro de 2023, os cientistas que analisavam os dados de Marte tropeçaram em algo completamente inesperado: observações de um efeito atmosférico.",
-      "Dado-chave: Usando instrumentos a bordo da missão MAVEN (Atmosfera de Marte e Evolução Volátil) da NASA, os cientistas identificaram um fenômeno conhecido.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: In December 2023, scientists looking at Mars data stumbled across something completely unexpected, observations of an atmospheric effect never before.",
-      "Key detail: Using instruments aboard NASA's MAVEN (Mars Atmosphere and Volatile Evolution) mission, scientists identified a phenomenon known to occur in.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "18 mai 2026",
-    "date_pt": "18 mai 2026",
-    "date_en": "18 May 2026",
-    "time": "22h20",
-    "time_pt": "22h20",
-    "time_en": "22:20 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-18T22:20:01+00:00",
-    "lastModifiedIso": "2026-05-18T22:20:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Física",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Marte revela o primeiro efeito Zwan",
-      "Wolf nas profundezas de sua atmosfera durante uma tempestade solar"
-    ],
-    "keywords_pt": [
-      "Física",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Marte revela o primeiro efeito Zwan",
-      "Wolf nas profundezas de sua atmosfera durante uma tempestade solar"
-    ],
-    "keywords_en": [
-      "Physical",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Mars reveals the first Zwan effect",
-      "Wolf deep in its atmosphere during a solar storm"
-    ],
-    "srcUrl": "https://phys.org/news/2026-05-mars-reveals-zwan-wolf-effect.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=mars-reveals-first-zwan-wolf-effect-deep-in-its-atmosphere-during-a-solar-storm",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=mars-reveals-first-zwan-wolf-effect-deep-in-its-atmosphere-during-a-solar-storm",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=mars-reveals-first-zwan-wolf-effect-deep-in-its-atmosphere-during-a-solar-storm&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
-      "relevance": 82,
       "accessibility": 60,
       "novelty": 52
     }
@@ -2577,6 +2574,121 @@ window.postsData = [
   },
   {
     "id": 22,
+    "slug": "first-steel-beams-for-dune-start-to-be-lowered",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://home.cern/wp-content/uploads/2026/05/fermilab_picture.jpg",
+    "inline_images": [
+      {
+        "src": "https://home.cern/first-steel-beams-for-dune-start-to-be-lowered/context.post.image",
+        "caption": "contexto.post.título",
+        "caption_pt": "contexto.post.título",
+        "caption_en": "context.post.title",
+        "alt": "contexto.post.título",
+        "alt_pt": "contexto.post.título",
+        "alt_en": "context.post.title"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Primeiras vigas de aço do DUNE começam a ser baixadas",
+    "title_pt": "Primeiras vigas de aço do DUNE começam a ser baixadas",
+    "title_en": "First steel beams for DUNE start to be lowered",
+    "sub": "Num marco importante para o Deep Underground Neutrino Experiment nos EUA, aproximadamente 4.500 toneladas de vigas de aço serão em breve transportadas 1,5 km abaixo do solo para.",
+    "sub_pt": "Num marco importante para o Deep Underground Neutrino Experiment nos EUA, aproximadamente 4.500 toneladas de vigas de aço serão em breve transportadas 1,5 km abaixo do solo para.",
+    "sub_en": "In a major milestone for the Deep Underground Neutrino Experiment in the US, approximately 4500 tonnes of steel beams will soon be moved 1.5 km underground to build the structural.",
+    "excerpt": "Num marco importante para o Deep Underground Neutrino Experiment nos EUA, aproximadamente 4.500 toneladas de vigas de aço serão em breve transportadas 1,5 km abaixo do solo para construir os elementos estruturais de dois enormes detectores. O CERN está.",
+    "excerpt_pt": "Num marco importante para o Deep Underground Neutrino Experiment nos EUA, aproximadamente 4.500 toneladas de vigas de aço serão em breve transportadas 1,5 km abaixo do solo para construir os elementos estruturais de dois enormes detectores. O CERN está.",
+    "excerpt_en": "In a major milestone for the Deep Underground Neutrino Experiment in the US, approximately 4500 tonnes of steel beams will soon be moved 1.5 km underground to build the structural elements of two enormous detectors. CERN is playing a key.",
+    "body": "<p>Num marco importante para o Deep Underground Neutrino Experiment nos EUA, aproximadamente 4.500 toneladas de vigas de aço serão em breve transportadas 1,5 km abaixo do solo para construir os elementos estruturais de dois enormes detectores. O CERN está tocando uma chave. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Num marco importante para o Deep Underground Neutrino Experiment (DUNE) nos EUA, aproximadamente 4.500 toneladas de vigas de aço serão em breve transportadas 1,5 km abaixo do solo. Comunidade CERN CERN Neutrino platform neutrino Artigos relacionados Ver todas as notícias Nenhuma postagem foi encontrada.</p><p>O Diretor-Geral do CERN, Mark Thomson, reuniu-se com dignitários e funcionários da SURF no dia 7 de maio para assinalar um marco para a experiência internacional DUNE. Num marco. O CERN está a desempenhar um papel fundamental no DUNE, um esforço internacional para explorar as propriedades misteriosas dos neutrinos.</p><p>No dia 7 de maio, o Diretor Geral do CERN, Mark Thomson, participou num evento no Laboratório de Investigação Subterrânea de Sanford (SURF), no Dakota do Sul, para celebrar a. Cada um dos dois módulos planejados terá aproximadamente o tamanho de um prédio de cinco andares e ajudará os pesquisadores a medir neutrinos com um nível de detalhe sem.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/first-steel-beams-for-dune-start-to-be-lowered/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Num marco importante para o Deep Underground Neutrino Experiment nos EUA, aproximadamente 4.500 toneladas de vigas de aço serão em breve transportadas 1,5 km abaixo do solo para construir os elementos estruturais de dois enormes detectores. O CERN está tocando uma chave. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Num marco importante para o Deep Underground Neutrino Experiment (DUNE) nos EUA, aproximadamente 4.500 toneladas de vigas de aço serão em breve transportadas 1,5 km abaixo do solo. Comunidade CERN CERN Neutrino platform neutrino Artigos relacionados Ver todas as notícias Nenhuma postagem foi encontrada.</p><p>O Diretor-Geral do CERN, Mark Thomson, reuniu-se com dignitários e funcionários da SURF no dia 7 de maio para assinalar um marco para a experiência internacional DUNE. Num marco. O CERN está a desempenhar um papel fundamental no DUNE, um esforço internacional para explorar as propriedades misteriosas dos neutrinos.</p><p>No dia 7 de maio, o Diretor Geral do CERN, Mark Thomson, participou num evento no Laboratório de Investigação Subterrânea de Sanford (SURF), no Dakota do Sul, para celebrar a. Cada um dos dois módulos planejados terá aproximadamente o tamanho de um prédio de cinco andares e ajudará os pesquisadores a medir neutrinos com um nível de detalhe sem.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/first-steel-beams-for-dune-start-to-be-lowered/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>In a major milestone for the Deep Underground Neutrino Experiment in the US, approximately 4500 tonnes of steel beams will soon be moved 1.5 km underground to build the structural elements of two enormous detectors. CERN is playing a key. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. In a major milestone for the Deep Underground Neutrino Experiment (DUNE) in the US, approximately 4500 tonnes of steel beams will soon be moved 1.5 km underground to build the. CERN community CERN Neutrino platform neutrino Related Articles View all news No posts were found.</p><p>CERN Director-General Mark Thomson met with dignitaries and officials at SURF on 7 May to mark a milestone for the international DUNE experiment In a major milestone for the Deep. CERN is playing a key role in DUNE, an international endeavour to explore the mysterious properties of neutrinos.</p><p>On 7 May, CERN Director-General Mark Thomson attended an event at the Sanford Underground Research Laboratory (SURF) in South Dakota to celebrate the occasion and sign a beam that. Each of the two planned modules will be roughly the size of a five-storey building and will help researchers measure neutrinos with an unprecedented level of detail.</p><p>DUNE will receive neutrinos sent underground from Fermilab in Illinois to SURF, 1300 km away, enabling physicists to reconstruct precise 3D images of their interactions. “This important milestone for DUNE is a testament to the strong scientific partnership between CERN and the United States,” explained Mark Thomson.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>“CERN is playing a pivotal role in the development of its prototype detectors and providing the two enormous cryostats for the experiment itself, while the US Department of Energy. Try to change the category or the date filters.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/first-steel-beams-for-dune-start-to-be-lowered/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Num marco importante para o Deep Underground Neutrino Experiment nos EUA, aproximadamente 4.500 toneladas de vigas de aço serão em breve.",
+      "Dado-chave: Num marco importante para o Deep Underground Neutrino Experiment (DUNE) nos EUA, aproximadamente 4.500 toneladas de vigas de aço serão em breve.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Num marco importante para o Deep Underground Neutrino Experiment nos EUA, aproximadamente 4.500 toneladas de vigas de aço serão em breve.",
+      "Dado-chave: Num marco importante para o Deep Underground Neutrino Experiment (DUNE) nos EUA, aproximadamente 4.500 toneladas de vigas de aço serão em breve.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: In a major milestone for the Deep Underground Neutrino Experiment in the US, approximately 4500 tonnes of steel beams will soon be moved 1.5 km.",
+      "Key detail: In a major milestone for the Deep Underground Neutrino Experiment (DUNE) in the US, approximately 4500 tonnes of steel beams will soon be moved.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "11 mai 2026",
+    "date_pt": "11 mai 2026",
+    "date_en": "11 May 2026",
+    "time": "15h04",
+    "time_pt": "15h04",
+    "time_en": "15:04 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-11T15:04:42+00:00",
+    "lastModifiedIso": "2026-05-11T15:04:42+00:00",
+    "source": "CERN News",
+    "sourceDomain": "home.cern",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "CERN News",
+      "Cosmos Week",
+      "Primeiras vigas de aço do DUNE começam a ser baixadas"
+    ],
+    "keywords_pt": [
+      "Física",
+      "CERN News",
+      "Cosmos Week",
+      "Primeiras vigas de aço do DUNE começam a ser baixadas"
+    ],
+    "keywords_en": [
+      "Physical",
+      "CERN News",
+      "Cosmos Week",
+      "DUNE's first steel beams begin to be lowered"
+    ],
+    "srcUrl": "https://home.cern/first-steel-beams-for-dune-start-to-be-lowered/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=first-steel-beams-for-dune-start-to-be-lowered",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=first-steel-beams-for-dune-start-to-be-lowered",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=first-steel-beams-for-dune-start-to-be-lowered&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 71,
+    "scoreBreakdown": {
+      "source": 86,
+      "evidence": 82,
+      "relevance": 68,
+      "accessibility": 52,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 23,
     "slug": "johnson-s-cindy-evans-prepares-artemis-teams-for-lunar-science",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2706,139 +2818,6 @@ window.postsData = [
       "relevance": 80,
       "accessibility": 60,
       "novelty": 55
-    }
-  },
-  {
-    "id": 23,
-    "slug": "smile-lifts-off-on-quest-to-reveal-earth-s-invisible-shield-against-the-solar-wind",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/wide_view_of_vega-c_liftoff_with_smile/27281047-2-eng-GB/Wide_view_of_Vega-C_liftoff_with_Smile_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/vega-c_shoots_through_the_sky_with_a_smile/27280936-2-eng-GB/Vega-C_shoots_through_the_sky_with_a_Smile_pillars.jpg",
-        "caption": "Vega-C dispara pelo céu com um sorriso",
-        "caption_pt": "Vega-C dispara pelo céu com um sorriso",
-        "caption_en": "Vega-C shoots through the sky with a Smile",
-        "alt": "Vega-C dispara pelo céu com um sorriso",
-        "alt_pt": "Vega-C dispara pelo céu com um sorriso",
-        "alt_en": "Vega-C shoots through the sky with a Smile"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/vega-c_liftoff_with_smile/27281000-2-eng-GB/Vega-C_liftoff_with_Smile_pillars.jpg",
-        "caption": "Decolagem Vega-C com Smile",
-        "caption_pt": "Decolagem Vega-C com Smile",
-        "caption_en": "Vega-C liftoff with Smile",
-        "alt": "Decolagem Vega-C com Smile",
-        "alt_pt": "Decolagem Vega-C com Smile",
-        "alt_en": "Vega-C liftoff with Smile"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/vega-c_complete_with_smile_inside/27268196-1-eng-GB/Vega-C_complete_with_Smile_inside_pillars.png",
-        "caption": "Vega-C completo com Smile dentro",
-        "caption_pt": "Vega-C completo com Smile dentro",
-        "caption_en": "Vega-C complete with Smile inside",
-        "alt": "Vega-C completo com Smile dentro",
-        "alt_pt": "Vega-C completo com Smile dentro",
-        "alt_en": "Vega-C complete with Smile inside"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Smile decola em busca de revelar o escudo invisível da Terra contra o vento solar",
-    "title_pt": "Smile decola em busca de revelar o escudo invisível da Terra contra o vento solar",
-    "title_en": "Smile lifts off on quest to reveal Earth’s invisible shield against the solar wind",
-    "sub": "A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O lançamento marca o início de uma.",
-    "sub_pt": "A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O lançamento marca o início de uma.",
-    "sub_en": "The Smile spacecraft lifted off on a Vega-C rocket from Europe’s Spaceport in French Guiana at 04: 52 BST / 05: 52 CEST on 19 May 2026. The launch marks the beginning of an.",
-    "excerpt": "A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, geomagnéticas.",
-    "excerpt_pt": "A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, geomagnéticas.",
-    "excerpt_en": "The Smile spacecraft lifted off on a Vega-C rocket from Europe’s Spaceport in French Guiana at 04: 52 BST / 05: 52 CEST on 19 May 2026. The launch marks the beginning of an ambitious mission to better understand solar storms, geomagnetic.",
-    "body": "<p>A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, geomagnéticas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, as tempestades geomagnéticas e a ciência do clima espacial. Após o lançamento e separação do foguetão, o primeiro sinal do Smile foi recebido pela estação terrestre New Norcia da ESA, na Austrália, às 06: 48 CEST.</p><p>Os painéis solares da nave espacial foram então implantados às 06: 49 CEST, o que significa que o Smile pode agora recolher luz solar para alimentar os seus sistemas e. Irá revelar como a Terra responde aos fluxos de partículas e às explosões de radiação do Sol, utilizando uma câmara de raios X para fazer as primeiras observações de raios X do.</p><p>Esta missão é uma prova do compromisso da ESA com a colaboração internacional, avançando o conhecimento científico e promovendo a utilização pacífica do espaço.” “O Smile irá. “A missão é possível graças a uma colaboração harmoniosa entre a ESA e o CAS, com contribuições de parceiros de toda a Europa.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, geomagnéticas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, as tempestades geomagnéticas e a ciência do clima espacial. Após o lançamento e separação do foguetão, o primeiro sinal do Smile foi recebido pela estação terrestre New Norcia da ESA, na Austrália, às 06: 48 CEST.</p><p>Os painéis solares da nave espacial foram então implantados às 06: 49 CEST, o que significa que o Smile pode agora recolher luz solar para alimentar os seus sistemas e. Irá revelar como a Terra responde aos fluxos de partículas e às explosões de radiação do Sol, utilizando uma câmara de raios X para fazer as primeiras observações de raios X do.</p><p>Esta missão é uma prova do compromisso da ESA com a colaboração internacional, avançando o conhecimento científico e promovendo a utilização pacífica do espaço.” “O Smile irá. “A missão é possível graças a uma colaboração harmoniosa entre a ESA e o CAS, com contribuições de parceiros de toda a Europa.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The Smile spacecraft lifted off on a Vega-C rocket from Europe’s Spaceport in French Guiana at 04: 52 BST / 05: 52 CEST on 19 May 2026. The launch marks the beginning of an ambitious mission to better understand solar storms, geomagnetic. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The launch marks the beginning of an ambitious mission to better understand solar storms, geomagnetic storms, and the science of space weather. Following launch and separation from the rocket, the first signal from Smile was received by ESA’s New Norcia ground station in Australia at 06: 48 CEST.</p><p>The spacecraft’s solar panels then deployed at 06: 49 CEST, meaning that Smile can now collect sunlight to power its systems and science instruments. It will reveal how Earth responds to the streams of particles and bursts of radiation from the Sun, using an X-ray camera to make the world’s first X-ray observations of Earth’s.</p><p>This mission stands as a testament to ESA’s commitment to international collaboration, advancing scientific knowledge and promoting the peaceful use of space.” “Smile will shed. “The mission is made possible thanks to a smooth collaboration between ESA and CAS, with contributions from partners across Europe.</p><p>Professor Carole Mundell, ESA’s Director of Science says: “Smile is the newest member of ESA’s space science mission fleet. It’s exciting to see this all come together today and I’m looking forward to the new scientific discoveries Smile will deliver.” Smile is equipped with a unique toolbox designed.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>It will be the first mission to look at Earth’s magnetic shield with X-ray vision, to reveal where and how it is hit by the solar wind. Smile will use ultraviolet vision to record the northern lights for 45 hours at a time, becoming the first mission to observe them for so long, and the first since 2008 to observe.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O.",
-      "Dado-chave: O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, as tempestades geomagnéticas e a ciência do.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O.",
-      "Dado-chave: O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, as tempestades geomagnéticas e a ciência do.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The Smile spacecraft lifted off on a Vega-C rocket from Europe’s Spaceport in French Guiana at 04: 52 BST / 05: 52 CEST on 19 May 2026. The launch.",
-      "Key detail: The launch marks the beginning of an ambitious mission to better understand solar storms, geomagnetic storms, and the science of space weather.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "19 mai 2026",
-    "date_pt": "19 mai 2026",
-    "date_en": "19 May 2026",
-    "time": "05h00",
-    "time_pt": "05h00",
-    "time_en": "05:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-19T05:00:00+00:00",
-    "lastModifiedIso": "2026-05-19T05:00:00+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www.esa.int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Smile decola em busca de revelar o escudo invisível da Terra contra o vento solar"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Smile decola em busca de revelar o escudo invisível da Terra contra o vento solar"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Smile takes off in search of revealing Earth's invisible shield against the solar wind"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=smile-lifts-off-on-quest-to-reveal-earth-s-invisible-shield-against-the-solar-wind",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=smile-lifts-off-on-quest-to-reveal-earth-s-invisible-shield-against-the-solar-wind",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=smile-lifts-off-on-quest-to-reveal-earth-s-invisible-shield-against-the-solar-wind&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 78,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 88,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 52
     }
   },
   {
@@ -3098,35 +3077,7 @@ window.postsData = [
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/smile_lifts_off_into_space_artist_impression/27126092-1-eng-GB/Smile_lifts_off_into_space_artist_impression_card_full.png",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/smile_launch_timeline/27119760-2-eng-GB/Smile_launch_timeline_article.jpg",
-        "caption": "Cronograma de lançamento do Smile",
-        "caption_pt": "Cronograma de lançamento do Smile",
-        "caption_en": "Smile launch timeline",
-        "alt": "Cronograma de lançamento do Smile",
-        "alt_pt": "Cronograma de lançamento do Smile",
-        "alt_en": "Smile launch timeline"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/top_three_mysteries_smile_will_solve/27124411-1-eng-GB/Top_three_mysteries_Smile_will_solve_article.jpg",
-        "caption": "Os três principais mistérios que o Smile resolverá",
-        "caption_pt": "Os três principais mistérios que o Smile resolverá",
-        "caption_en": "Top three mysteries Smile will solve",
-        "alt": "Os três principais mistérios que o Smile resolverá",
-        "alt_pt": "Os três principais mistérios que o Smile resolverá",
-        "alt_en": "Top three mysteries Smile will solve"
-      },
-      {
-        "src": "https://www.esa.int/extension/pillars/design/pillars/images/play-button.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Como acompanhar o lançamento do Smile ao vivo",
@@ -3138,9 +3089,9 @@ window.postsData = [
     "excerpt": "A ESA transmitirá ao vivo o lançamento da missão Smile Europeu-Chinesa às 04:52 BST/05:52 CEST do dia 19 de maio de 2026. O Smile será lançado num foguetão europeu Vega-C a partir do porto espacial europeu na Guiana Francesa. Horários sujeitos a alterações em.",
     "excerpt_pt": "A ESA transmitirá ao vivo o lançamento da missão Smile Europeu-Chinesa às 04:52 BST/05:52 CEST do dia 19 de maio de 2026. O Smile será lançado num foguetão europeu Vega-C a partir do porto espacial europeu na Guiana Francesa. Horários sujeitos a alterações em.",
     "excerpt_en": "ESA will be broadcasting live as the European-Chinese Smile mission launches at 04: 52 BST/05: 52 CEST on 19 May 2026. Smile will launch on a European Vega-C rocket from Europe’s Spaceport in French Guiana. Times subject to change at short.",
-    "body": "<p>A ESA transmitirá ao vivo o lançamento da missão Smile Europeu-Chinesa às 04: 52 BST/05: 52 CEST do dia 19 de maio de 2026. O Smile será lançado num foguetão europeu Vega-C a partir do porto espacial europeu na Guiana Francesa. Horários sujeitos a alterações em breve. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A ESA transmitirá ao vivo o lançamento da missão Smile Europeu-Chinesa às 04: 52 BST/05: 52 CEST (00: 52 hora local) do dia 19 de maio de 2026. Sintonize a ESA Web TV diretamente ou através da transmissão ao vivo da ESA no YouTube para acompanhar o lançamento ao vivo.</p><p>O programa de lançamento acontecerá das 05h30 às 07h09 CEST. Um comunicado de imprensa da ESA será emitido quando for confirmado que os painéis solares da Smile foram implantados com sucesso, o que deverá acontecer às 06: 55 CEST.</p><p>Siga @science. esa. int e @transport. esa. int (Bluesky) e @esascience e @ESA_transport (X) para cobertura detalhada ao vivo do lançamento do Smile. Siga os marcos mais importantes e a ESA de forma mais geral em: Bluesky: @esa. int X: @ESA Instagram: Europeanspaceagency TikTok: europeanspaceagency YouTube: ESA Facebook.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A ESA transmitirá ao vivo o lançamento da missão Smile Europeu-Chinesa às 04: 52 BST/05: 52 CEST do dia 19 de maio de 2026. O Smile será lançado num foguetão europeu Vega-C a partir do porto espacial europeu na Guiana Francesa. Horários sujeitos a alterações em breve. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A ESA transmitirá ao vivo o lançamento da missão Smile Europeu-Chinesa às 04: 52 BST/05: 52 CEST (00: 52 hora local) do dia 19 de maio de 2026. Sintonize a ESA Web TV diretamente ou através da transmissão ao vivo da ESA no YouTube para acompanhar o lançamento ao vivo.</p><p>O programa de lançamento acontecerá das 05h30 às 07h09 CEST. Um comunicado de imprensa da ESA será emitido quando for confirmado que os painéis solares da Smile foram implantados com sucesso, o que deverá acontecer às 06: 55 CEST.</p><p>Siga @science. esa. int e @transport. esa. int (Bluesky) e @esascience e @ESA_transport (X) para cobertura detalhada ao vivo do lançamento do Smile. Siga os marcos mais importantes e a ESA de forma mais geral em: Bluesky: @esa. int X: @ESA Instagram: Europeanspaceagency TikTok: europeanspaceagency YouTube: ESA Facebook.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>ESA will be broadcasting live as the European-Chinese Smile mission launches at 04: 52 BST/05: 52 CEST on 19 May 2026. Smile will launch on a European Vega-C rocket from Europe’s Spaceport in French Guiana. Times subject to change at short. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. ESA will be broadcasting live as the European-Chinese Smile mission launches at 04: 52 BST/05: 52 CEST (00: 52 local time) on 19 May 2026. Tune into ESA Web TV directly or via the ESA YouTube livestream to follow the launch live.</p><p>The launch programme will run from 05: 30, 07: 09 CEST. An ESA press release will be issued when it is confirmed that Smile’s solar arrays have successfully deployed, which is expected to happen at 06: 55 CEST.</p><p>Follow @science. esa. int and @transport. esa. int (Bluesky) and @esascience and @ESA_transport (X) for detailed live coverage of the Smile launch. Follow the most important milestones and ESA more generally on: Bluesky: @esa. int X: @ESA Instagram: Europeanspaceagency TikTok: europeanspaceagency YouTube: ESA Facebook.</p><p>These engine burns will gradually elongate Smile’s orbit around Earth’s poles, until it is reaching 121 000 km above the North Pole and 5000 km above the South Pole. Once Smile has arrived in this final operational orbit, the mission team will prepare the spacecraft for science.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>About three months after launch, the team will receive the first X-ray and ultraviolet images, and then finally begin the science that Smile is designed to do. Smile (the Solar wind Magnetosphere Ionosphere Link Explorer) is a joint mission between the European Space Agency (ESA) and the Chinese Academy of Sciences (CAS).</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A ESA transmitirá ao vivo o lançamento da missão Smile Europeu-Chinesa às 04: 52 BST/05: 52 CEST do dia 19 de maio de 2026. O Smile será lançado num foguetão europeu Vega-C a partir do porto espacial europeu na Guiana Francesa. Horários sujeitos a alterações em breve. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A ESA transmitirá ao vivo o lançamento da missão Smile Europeu-Chinesa às 04: 52 BST/05: 52 CEST (00: 52 hora local) do dia 19 de maio de 2026. Smile será lançado em um foguete europeu Vega-C a partir do porto espacial europeu na Guiana Francesa.</p><p>Horários sujeitos a alterações em curto prazo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A ESA transmitirá ao vivo o lançamento da missão Smile Europeu-Chinesa às 04: 52 BST/05: 52 CEST do dia 19 de maio de 2026. O Smile será lançado num foguetão europeu Vega-C a partir do porto espacial europeu na Guiana Francesa. Horários sujeitos a alterações em breve. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A ESA transmitirá ao vivo o lançamento da missão Smile Europeu-Chinesa às 04: 52 BST/05: 52 CEST (00: 52 hora local) do dia 19 de maio de 2026. Smile será lançado em um foguete europeu Vega-C a partir do porto espacial europeu na Guiana Francesa.</p><p>Horários sujeitos a alterações em curto prazo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>ESA will be broadcasting live as the European-Chinese Smile mission launches at 04: 52 BST/05: 52 CEST on 19 May 2026. Smile will launch on a European Vega-C rocket from Europe’s Spaceport in French Guiana. Times subject to change at short. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. ESA will be broadcasting live as the European-Chinese Smile mission launches at 04: 52 BST/05: 52 CEST (00: 52 local time) on 19 May 2026. Smile will launch on a European Vega-C rocket from Europe’s Spaceport in French Guiana.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A ESA transmitirá ao vivo o lançamento da missão Smile Europeu-Chinesa às 04: 52 BST/05: 52 CEST do dia 19 de maio de 2026. O Smile será lançado num.",
       "Dado-chave: A ESA transmitirá ao vivo o lançamento da missão Smile Europeu-Chinesa às 04: 52 BST/05: 52 CEST (00: 52 hora local) do dia 19 de maio de 2026.",
@@ -3626,6 +3577,111 @@ window.postsData = [
   },
   {
     "id": 30,
+    "slug": "smile-lifts-off-on-quest-to-reveal-earth-s-invisible-shield-against-the-solar-wind",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/wide_view_of_vega-c_liftoff_with_smile/27281047-2-eng-GB/Wide_view_of_Vega-C_liftoff_with_Smile_card_full.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Smile decola em busca de revelar o escudo invisível da Terra contra o vento solar",
+    "title_pt": "Smile decola em busca de revelar o escudo invisível da Terra contra o vento solar",
+    "title_en": "Smile lifts off on quest to reveal Earth’s invisible shield against the solar wind",
+    "sub": "A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O lançamento marca o início de uma.",
+    "sub_pt": "A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O lançamento marca o início de uma.",
+    "sub_en": "The Smile spacecraft lifted off on a Vega-C rocket from Europe’s Spaceport in French Guiana at 04: 52 BST / 05: 52 CEST on 19 May 2026. The launch marks the beginning of an.",
+    "excerpt": "A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, geomagnéticas.",
+    "excerpt_pt": "A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, geomagnéticas.",
+    "excerpt_en": "The Smile spacecraft lifted off on a Vega-C rocket from Europe’s Spaceport in French Guiana at 04: 52 BST / 05: 52 CEST on 19 May 2026. The launch marks the beginning of an ambitious mission to better understand solar storms, geomagnetic.",
+    "body": "<p>A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, geomagnéticas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04: 52 BST/05: 52 CEST (00: 52 hora local) em 19 de maio de 2026. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, as tempestades geomagnéticas e a ciência do clima espacial.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, geomagnéticas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04: 52 BST/05: 52 CEST (00: 52 hora local) em 19 de maio de 2026. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, as tempestades geomagnéticas e a ciência do clima espacial.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The Smile spacecraft lifted off on a Vega-C rocket from Europe’s Spaceport in French Guiana at 04: 52 BST / 05: 52 CEST on 19 May 2026. The launch marks the beginning of an ambitious mission to better understand solar storms, geomagnetic. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The Smile spacecraft lifted off on a Vega-C rocket from Europe’s Spaceport in French Guiana at 04: 52 BST / 05: 52 CEST (00: 52 local time) on 19 May 2026. The launch marks the beginning of an ambitious mission to better understand solar storms, geomagnetic storms, and the science of space weather.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O.",
+      "Dado-chave: A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04: 52 BST/05: 52 CEST (00: 52 hora local) em 19.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O.",
+      "Dado-chave: A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04: 52 BST/05: 52 CEST (00: 52 hora local) em 19.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The Smile spacecraft lifted off on a Vega-C rocket from Europe’s Spaceport in French Guiana at 04: 52 BST / 05: 52 CEST on 19 May 2026. The launch.",
+      "Key detail: The Smile spacecraft lifted off on a Vega-C rocket from Europe’s Spaceport in French Guiana at 04: 52 BST / 05: 52 CEST (00: 52 local time) on.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "19 mai 2026",
+    "date_pt": "19 mai 2026",
+    "date_en": "19 May 2026",
+    "time": "05h00",
+    "time_pt": "05h00",
+    "time_en": "05:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-19T05:00:00+00:00",
+    "lastModifiedIso": "2026-05-19T05:00:00+00:00",
+    "source": "ESA Space Science",
+    "sourceDomain": "www.esa.int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Smile decola em busca de revelar o escudo invisível da Terra contra o vento solar"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Smile decola em busca de revelar o escudo invisível da Terra contra o vento solar"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Smile takes off in search of revealing Earth's invisible shield against the solar wind"
+    ],
+    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=smile-lifts-off-on-quest-to-reveal-earth-s-invisible-shield-against-the-solar-wind",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=smile-lifts-off-on-quest-to-reveal-earth-s-invisible-shield-against-the-solar-wind",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=smile-lifts-off-on-quest-to-reveal-earth-s-invisible-shield-against-the-solar-wind&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 78,
+    "scoreBreakdown": {
+      "source": 90,
+      "evidence": 88,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 31,
     "slug": "webb-hubble-find-massive-star-clusters-emerge-faster",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3730,7 +3786,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "gazing-into-the-past-with-time",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3845,7 +3901,131 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 33,
+    "slug": "the-milky-way-s-turbulence-distorts-light-from-distant-quasars",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://www.universetoday.com/article_images/cfa-054-quasar_turbulence_ill2C_lrg-1170x600_20260515_181736.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/scattering_20260515_201856.jpg",
+        "caption": "Esta imagem da pesquisa mostra o espalhamento simulado do TXS 2005+403 usando parâmetros consistentes com os pesquisadores",
+        "caption_pt": "Esta imagem da pesquisa mostra o espalhamento simulado do TXS 2005+403 usando parâmetros consistentes com os pesquisadores",
+        "caption_en": "This image from the research shows the simulated scattering of TXS 2005+403 using parameters that are consistent with the researchers",
+        "alt": "Esta imagem da pesquisa mostra o espalhamento simulado do TXS 2005+403 usando parâmetros consistentes com os pesquisadores",
+        "alt_pt": "Esta imagem da pesquisa mostra o espalhamento simulado do TXS 2005+403 usando parâmetros consistentes com os pesquisadores",
+        "alt_en": "This image from the research shows the simulated scattering of TXS 2005+403 using parameters that are consistent with the researchers"
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/lossy-page1-1280px-EHT_Saggitarius_A_black_hole.tif_20260515_192904.jpg",
+        "caption": "Esta é a imagem inovadora da estrela A de Sagitário, o SMBH no coração da Via Láctea. Foi capturado pelo Event Horizon Telescope em 2017 e é extraído de múltiplas observações. Estas novas descobertas sobre a refração ISM.",
+        "caption_pt": "Esta é a imagem inovadora da estrela A de Sagitário, o SMBH no coração da Via Láctea. Foi capturado pelo Event Horizon Telescope em 2017 e é extraído de múltiplas observações. Estas novas descobertas sobre a refração ISM.",
+        "caption_en": "This is the ground-breaking image of Sagittarius A-star, the SMBH at the heart of the Milky Way. It was captured by the Event Horizon Telescope in 2017, and is extracted from multiple observations. These new findings about ISM refraction.",
+        "alt": "Esta é a imagem inovadora da estrela A de Sagitário, o SMBH no coração da Via Láctea. Foi capturado pelo Event Horizon Telescope em 2017 e é extraído de múltiplas observações. Estas novas descobertas sobre a refração ISM.",
+        "alt_pt": "Esta é a imagem inovadora da estrela A de Sagitário, o SMBH no coração da Via Láctea. Foi capturado pelo Event Horizon Telescope em 2017 e é extraído de múltiplas observações. Estas novas descobertas sobre a refração ISM.",
+        "alt_en": "This is the ground-breaking image of Sagittarius A-star, the SMBH at the heart of the Milky Way. It was captured by the Event Horizon Telescope in 2017, and is extracted from multiple observations. These new findings about ISM refraction."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "A turbulência da Via Láctea distorce a luz de quasares distantes",
+    "title_pt": "A turbulência da Via Láctea distorce a luz de quasares distantes",
+    "title_en": "The Milky Way's Turbulence Distorts Light from Distant Quasars",
+    "sub": "Poderemos obter imagens melhores do buraco negro supermassivo da Via Láctea no futuro. Os astrónomos usaram 10 anos de observações de um blazar distante para detectar turbulência.",
+    "sub_pt": "Poderemos obter imagens melhores do buraco negro supermassivo da Via Láctea no futuro. Os astrónomos usaram 10 anos de observações de um blazar distante para detectar turbulência.",
+    "sub_en": "We may be getting better images of the Milky Way's supermassive black hole in the future. Astronomers used 10 years of observations of a distant blazar to detect turbulence in the.",
+    "excerpt": "Poderemos obter imagens melhores do buraco negro supermassivo da Via Láctea no futuro. Os astrónomos usaram 10 anos de observações de um blazar distante para detectar turbulência no meio interestelar da Via Láctea. Essa turbulência faz.",
+    "excerpt_pt": "Poderemos obter imagens melhores do buraco negro supermassivo da Via Láctea no futuro. Os astrónomos usaram 10 anos de observações de um blazar distante para detectar turbulência no meio interestelar da Via Láctea. Essa turbulência faz.",
+    "excerpt_en": "We may be getting better images of the Milky Way's supermassive black hole in the future. Astronomers used 10 years of observations of a distant blazar to detect turbulence in the Milky Way's interstellar medium. This turbulence makes.",
+    "body": "<p>Poderemos obter imagens melhores do buraco negro supermassivo da Via Láctea no futuro. Os astrónomos usaram 10 anos de observações de um blazar distante para detectar turbulência no meio interestelar da Via Láctea. Essa turbulência faz. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Os astrónomos usaram 10 anos de observações de um blazar distante para detectar turbulência no meio interestelar da Via Láctea. A 10 mil milhões de anos-luz de distância, um blazar emite poderosas emissões de rádio direcionadas diretamente para a Terra.</p><p>Mas novas pesquisas mostram que algo mais também está intervindo nas emissões do blazar, acrescentando subestruturas finas adicionais que aumentam o desfoque. Seu trabalho foi publicado no The Astrophysical Journal Letters e é intitulado &quot;Detecção direta de interferometria de linha de base muito longa de impressão de turbulência.</p><p>Anteriormente medimos o alargamento difrativo em grandes amostras de AGNs e construímos mapas de dispersão de todo o céu.&quot; Mas a dispersão refrativa é muito mais difícil de. É aqui que entra o quasar TXS 2005+403.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-milky-ways-turbulence-distorts-light-from-distant-quasars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Poderemos obter imagens melhores do buraco negro supermassivo da Via Láctea no futuro. Os astrónomos usaram 10 anos de observações de um blazar distante para detectar turbulência no meio interestelar da Via Láctea. Essa turbulência faz. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Os astrónomos usaram 10 anos de observações de um blazar distante para detectar turbulência no meio interestelar da Via Láctea. A 10 mil milhões de anos-luz de distância, um blazar emite poderosas emissões de rádio direcionadas diretamente para a Terra.</p><p>Mas novas pesquisas mostram que algo mais também está intervindo nas emissões do blazar, acrescentando subestruturas finas adicionais que aumentam o desfoque. Seu trabalho foi publicado no The Astrophysical Journal Letters e é intitulado &quot;Detecção direta de interferometria de linha de base muito longa de impressão de turbulência.</p><p>Anteriormente medimos o alargamento difrativo em grandes amostras de AGNs e construímos mapas de dispersão de todo o céu.&quot; Mas a dispersão refrativa é muito mais difícil de. É aqui que entra o quasar TXS 2005+403.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-milky-ways-turbulence-distorts-light-from-distant-quasars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>We may be getting better images of the Milky Way&#x27;s supermassive black hole in the future. Astronomers used 10 years of observations of a distant blazar to detect turbulence in the Milky Way&#x27;s interstellar medium. This turbulence makes. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. Astronomers used 10 years of observations of a distant blazar to detect turbulence in the Milky Way&#x27;s interstellar medium. 10 billion light-years away, a blazar blasts out powerful radio emissions aimed directly at Earth.</p><p>But new research shows that something else is also intervening in the blazar&#x27;s emissions, adding additional fine substructures that increase the blurring. Their work is published in The Astrophysical Journal Letters and is titled &quot; Direct Very Long Baseline Interferometry Detection of Interstellar Turbulence Imprint on a Quasar: TXS.</p><p>We previously measured diffractive broadening in large samples of AGNs and constructed all-sky scattering maps.&quot; But refractive scattering is far more difficult to detect. This is where the quasar TXS 2005+403 comes in.</p><p>“Most of what we see in the radio data isn’t coming from the quasar itself, it’s coming from the scattering caused by the turbulence in this region of the Milky Way,” said lead. Researchers expected to find that radio emissions from TXS 2005+403 would spread out, create a smoothed blur, and eventually fade away.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>“The most distant pairs of telescopes should not have seen the quasar image, but to our surprise, they clearly detected its signal, or faint glow,” Plavin said. We detect a long-baseline signal in its VLBI observations that cannot be explained by the diffractive scatter-broadened profile or by intrinsic source structure,&quot; the authors.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-milky-ways-turbulence-distorts-light-from-distant-quasars\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Poderemos obter imagens melhores do buraco negro supermassivo da Via Láctea no futuro. Os astrónomos usaram 10 anos de observações de um blazar.",
+      "Dado-chave: Os astrónomos usaram 10 anos de observações de um blazar distante para detectar turbulência no meio interestelar da Via Láctea.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Poderemos obter imagens melhores do buraco negro supermassivo da Via Láctea no futuro. Os astrónomos usaram 10 anos de observações de um blazar.",
+      "Dado-chave: Os astrónomos usaram 10 anos de observações de um blazar distante para detectar turbulência no meio interestelar da Via Láctea.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: We may be getting better images of the Milky Way's supermassive black hole in the future. Astronomers used 10 years of observations of a distant.",
+      "Key detail: Astronomers used 10 years of observations of a distant blazar to detect turbulence in the Milky Way's interstellar medium.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "18 mai 2026",
+    "date_pt": "18 mai 2026",
+    "date_en": "18 May 2026",
+    "time": "14h12",
+    "time_pt": "14h12",
+    "time_en": "14:12 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-18T14:12:15+00:00",
+    "lastModifiedIso": "2026-05-18T14:12:15+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "A turbulência da Via Láctea distorce a luz de quasares distantes"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "A turbulência da Via Láctea distorce a luz de quasares distantes"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "Universe Today",
+      "Cosmos Week",
+      "Milky Way turbulence distorts light from distant quasars"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/the-milky-ways-turbulence-distorts-light-from-distant-quasars",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-milky-way-s-turbulence-distorts-light-from-distant-quasars",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-milky-way-s-turbulence-distorts-light-from-distant-quasars",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-milky-way-s-turbulence-distorts-light-from-distant-quasars&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 34,
     "slug": "nsf-doe-vera-c-rubin-observatory-launches-real-time-discovery-machine-for-monitoring-the-night-s",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3994,7 +4174,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 35,
     "slug": "what-s-feeding-our-supermassive-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4127,7 +4307,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 36,
     "slug": "waterworn-chaos-on-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4232,7 +4412,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 37,
     "slug": "stardust-in-antarctica-shows-earth-crossed-a-supernova-cloud",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4347,7 +4527,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 38,
     "slug": "this-week-s-sky-at-a-glance-may-15-24",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4483,7 +4663,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 39,
     "slug": "how-did-this-peculiar-planet-pair-form",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4616,7 +4796,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 40,
     "slug": "webb-telescope-reveals-brown-dwarfs-masquerading-as-early-galaxies",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4746,254 +4926,6 @@ window.postsData = [
       "relevance": 88,
       "accessibility": 60,
       "novelty": 46
-    }
-  },
-  {
-    "id": 39,
-    "slug": "moon-and-planets-to-gather-in-twilight-spectacle-on-may-18-20",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://dq0hsqwjhea1.cloudfront.net/Venus-crescent-moon-conjunction-July-15_2018-cirrus-clouds-B-ST-900px.webp",
-    "inline_images": [
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/Earthshine-Explain_B_091-BESTEST-ST-900px.webp",
-        "caption": "Tal como se depositasse no bolso lateral num jogo de bilhar, a luz solar reflectida da Terra para a Lua ilumina fracamente o seu lado nocturno, que reflecte o restante de volta aos nossos olhos. Bob Rei",
-        "caption_pt": "Tal como se depositasse no bolso lateral num jogo de bilhar, a luz solar reflectida da Terra para a Lua ilumina fracamente o seu lado nocturno, que reflecte o restante de volta aos nossos olhos. Bob Rei",
-        "caption_en": "Like banking into the side pocket in a game of pool, sunlight reflected from Earth out to the Moon faintly illuminates its night side, which reflects the remainder back to our eyes. Bob King",
-        "alt": "Explicação do brilho da terra",
-        "alt_pt": "Explicação do brilho da terra",
-        "alt_en": "Earthshine explanation"
-      },
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/Moon-2.5-with-Earthshine-A-April-29-2025-94mm-ST-900px-labeled.webp",
-        "caption": "Dentro dos braços brilhantes do crescente, um par de binóculos ou um pequeno telescópio revelará muitas características lunares familiares iluminadas pela luz terrestre. Estes são apenas alguns. Bob Rei",
-        "caption_pt": "Dentro dos braços brilhantes do crescente, um par de binóculos ou um pequeno telescópio revelará muitas características lunares familiares iluminadas pela luz terrestre. Estes são apenas alguns. Bob Rei",
-        "caption_en": "Within the bright arms of the crescent, a pair of binoculars or small telescope will reveal many familiar lunar features lit by earthlight. These are just a few. Bob King",
-        "alt": "Paisagem lunar pelo brilho da terra",
-        "alt_pt": "Paisagem lunar pelo brilho da terra",
-        "alt_en": "Moonscape by earthshine"
-      },
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_May19_ev_NORM.jpg",
-        "caption": "Após sua estreita conjunção com Vênus em 18 de maio, a Lua sobe pelo céu ocidental para visitar o brilhante Júpiter por duas noites antes de sair sozinha. Diagrama do céu e do telescópio",
-        "caption_pt": "Após sua estreita conjunção com Vênus em 18 de maio, a Lua sobe pelo céu ocidental para visitar o brilhante Júpiter por duas noites antes de sair sozinha. Diagrama do céu e do telescópio",
-        "caption_en": "After its close conjunction with Venus on May 18th, the Moon marches up the western sky to visit brilliant Jupiter for two nights before heading out on its own. Sky & Telescope diagram",
-        "alt": "Lua e planetas 18 e 19 de maio",
-        "alt_pt": "Lua e planetas 18 e 19 de maio",
-        "alt_en": "Moon and planets May 18 and 19"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Lua e planetas se reunirão no espetáculo Crepúsculo de 18 a 20 de maio",
-    "title_pt": "Lua e planetas se reunirão no espetáculo Crepúsculo de 18 a 20 de maio",
-    "title_en": "Moon and Planets to Gather in Twilight Spectacle on May 18–20",
-    "sub": "Observe a Lua crescente dançar com os planetas quando retornar na próxima semana. A postagem Lua e planetas se reunirão no espetáculo Crepúsculo em 18 de maio de 20 apareceu pela.",
-    "sub_pt": "Observe a Lua crescente dançar com os planetas quando retornar na próxima semana. A postagem Lua e planetas se reunirão no espetáculo Crepúsculo em 18 de maio de 20 apareceu pela.",
-    "sub_en": "Watch the crescent Moon dance with the planets when it returns next week. The post Moon and Planets to Gather in Twilight Spectacle on May 18, 20 appeared first on Sky & Telescope.",
-    "excerpt": "Observe a Lua crescente dançar com os planetas quando retornar na próxima semana. A postagem Lua e planetas se reunirão no espetáculo Crepúsculo em 18 de maio de 20 apareceu pela primeira vez na Sky & Telescope.",
-    "excerpt_pt": "Observe a Lua crescente dançar com os planetas quando retornar na próxima semana. A postagem Lua e planetas se reunirão no espetáculo Crepúsculo em 18 de maio de 20 apareceu pela primeira vez na Sky & Telescope.",
-    "excerpt_en": "Watch the crescent Moon dance with the planets when it returns next week. The post Moon and Planets to Gather in Twilight Spectacle on May 18, 20 appeared first on Sky & Telescope.",
-    "body": "<p>Observe a Lua crescente dançar com os planetas quando retornar na próxima semana. A postagem Lua e planetas se reunirão no espetáculo Crepúsculo em 18 de maio de 20 apareceu pela primeira vez na Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A postagem Lua e planetas se reunirão no espetáculo Crepúsculo de 18 a 20 de maio apareceu pela primeira vez em Sky &amp; Telescope. Maravilhas do céu noturno que você deve ver antes de morrer (2018) e Lendas Urbanas do Espaço (2019) e Magnífica Aurora, publicado em 2024.</p><p>(Você pode cancelar a assinatura a qualquer momento) Na segunda-feira, 18 de maio, quando o crepúsculo da noite começa, olhe para o oeste e você verá outra das obras de arte. O nosso planeta não só é quase quatro vezes maior que a Lua, como também é muito mais brilhante, refletindo cerca de 31% da luz que recebe do Sol, contra 11% do nosso satélite.</p><p>Juntos, esses fatores tornam a Terra cheia pelo menos 43 vezes mais brilhante que a Lua cheia, o suficiente para navegar na superfície lunar. Em 20 de julho de 1969, o astronauta da Apollo 11, Michael Collins, disse o seguinte enquanto ele e seus companheiros orbitavam a Lua: APOLLO: &quot;Houston.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/moon-planets-gather-in-a-twilight-spectacle-may-18-20/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Observe a Lua crescente dançar com os planetas quando retornar na próxima semana. A postagem Lua e planetas se reunirão no espetáculo Crepúsculo em 18 de maio de 20 apareceu pela primeira vez na Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A postagem Lua e planetas se reunirão no espetáculo Crepúsculo de 18 a 20 de maio apareceu pela primeira vez em Sky &amp; Telescope. Maravilhas do céu noturno que você deve ver antes de morrer (2018) e Lendas Urbanas do Espaço (2019) e Magnífica Aurora, publicado em 2024.</p><p>(Você pode cancelar a assinatura a qualquer momento) Na segunda-feira, 18 de maio, quando o crepúsculo da noite começa, olhe para o oeste e você verá outra das obras de arte. O nosso planeta não só é quase quatro vezes maior que a Lua, como também é muito mais brilhante, refletindo cerca de 31% da luz que recebe do Sol, contra 11% do nosso satélite.</p><p>Juntos, esses fatores tornam a Terra cheia pelo menos 43 vezes mais brilhante que a Lua cheia, o suficiente para navegar na superfície lunar. Em 20 de julho de 1969, o astronauta da Apollo 11, Michael Collins, disse o seguinte enquanto ele e seus companheiros orbitavam a Lua: APOLLO: &quot;Houston.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/moon-planets-gather-in-a-twilight-spectacle-may-18-20/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Watch the crescent Moon dance with the planets when it returns next week. The post Moon and Planets to Gather in Twilight Spectacle on May 18, 20 appeared first on Sky &amp; Telescope. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The post Moon and Planets to Gather in Twilight Spectacle on May 18, 20 appeared first on Sky &amp; Telescope. Wonders of the Night Sky You Must See Before You Die (2018) and Urban Legends from Space (2019) and Magnificent Aurora, published in 2024.</p><p>(You can unsubscribe anytime) On Monday, May 18th, as evening twilight gets underway, look west and you&#x27;ll see another of nature&#x27;s effortless works of art, a willowy, crescent. Not only is our planet almost four times larger than the Moon, it&#x27;s also much brighter, reflecting about 31% of the light it receives from the Sun versus our satellite&#x27;s 11%.</p><p>Together, these factors make the full Earth at least 43 times brighter than a full Moon, plenty enough to navigate the lunar surface. On July 20, 1969, Apollo 11 astronaut Michael Collins had this to say as he and his crewmates orbited the Moon: APOLLO: &quot;Houston.</p><p>On May 20th, as the Moon prepares to leave the fold, it joins Jupiter and Venus for a final fling. If you&#x27;ve never observed Venus in the daytime, the Moon can help you find it.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>With the Moon crisply in focus, look a short distance to its left (approximately 3½°) for the white spark of Venus. Our last full Moon fell on May 1st, early enough in a long month to complete another cycle and turn full again on the night of May 30, 31.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/moon-planets-gather-in-a-twilight-spectacle-may-18-20/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Observe a Lua crescente dançar com os planetas quando retornar na próxima semana. A postagem Lua e planetas se reunirão no espetáculo Crepúsculo em.",
-      "Dado-chave: A postagem Lua e planetas se reunirão no espetáculo Crepúsculo de 18 a 20 de maio apareceu pela primeira vez em Sky & Telescope.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Observe a Lua crescente dançar com os planetas quando retornar na próxima semana. A postagem Lua e planetas se reunirão no espetáculo Crepúsculo em.",
-      "Dado-chave: A postagem Lua e planetas se reunirão no espetáculo Crepúsculo de 18 a 20 de maio apareceu pela primeira vez em Sky & Telescope.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Watch the crescent Moon dance with the planets when it returns next week. The post Moon and Planets to Gather in Twilight Spectacle on May 18, 20.",
-      "Key detail: The post Moon and Planets to Gather in Twilight Spectacle on May 18, 20 appeared first on Sky & Telescope.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "13 mai 2026",
-    "date_pt": "13 mai 2026",
-    "date_en": "13 May 2026",
-    "time": "17h48",
-    "time_pt": "17h48",
-    "time_en": "17:48 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-13T17:48:46+00:00",
-    "lastModifiedIso": "2026-05-13T17:48:46+00:00",
-    "source": "Sky & Telescope",
-    "sourceDomain": "skyandtelescope.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Lua e planetas se reunirão no espetáculo Crepúsculo de 18 a 20 de maio"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Lua e planetas se reunirão no espetáculo Crepúsculo de 18 a 20 de maio"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Moon and planets will come together in the Twilight show from May 18th to 20th"
-    ],
-    "srcUrl": "https://skyandtelescope.org/astronomy-news/moon-planets-gather-in-a-twilight-spectacle-may-18-20/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=moon-and-planets-to-gather-in-twilight-spectacle-on-may-18-20",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=moon-and-planets-to-gather-in-twilight-spectacle-on-may-18-20",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=moon-and-planets-to-gather-in-twilight-spectacle-on-may-18-20&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 74,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 40,
-    "slug": "interstellar-turbulence-in-the-milky-way-distorts-light",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2026/05/Quasar-Turbulence-CfA-May-2026-1.jpg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Turbulência interestelar na Via Láctea distorce a luz",
-    "title_pt": "Turbulência interestelar na Via Láctea distorce a luz",
-    "title_en": "Interstellar turbulence in the Milky Way distorts light",
-    "sub": "Pela primeira vez, os astrónomos detectaram diretamente como a turbulência interestelar distorce a luz de objetos distantes na nossa galáxia. O post Turbulência interestelar na.",
-    "sub_pt": "Pela primeira vez, os astrónomos detectaram diretamente como a turbulência interestelar distorce a luz de objetos distantes na nossa galáxia. O post Turbulência interestelar na.",
-    "sub_en": "For the 1st time, astronomers have directly detected how interstellar turbulence distorts the light from distant objects in our galaxy. The post Interstellar turbulence in the.",
-    "excerpt": "Pela primeira vez, os astrónomos detectaram diretamente como a turbulência interestelar distorce a luz de objetos distantes na nossa galáxia. O post Turbulência interestelar na Via Láctea distorce a luz apareceu pela primeira vez no EarthSky.",
-    "excerpt_pt": "Pela primeira vez, os astrónomos detectaram diretamente como a turbulência interestelar distorce a luz de objetos distantes na nossa galáxia. O post Turbulência interestelar na Via Láctea distorce a luz apareceu pela primeira vez no EarthSky.",
-    "excerpt_en": "For the 1st time, astronomers have directly detected how interstellar turbulence distorts the light from distant objects in our galaxy. The post Interstellar turbulence in the Milky Way distorts light first appeared on EarthSky.",
-    "body": "<p>Pela primeira vez, os astrónomos detectaram diretamente como a turbulência interestelar distorce a luz de objetos distantes na nossa galáxia. O post Turbulência interestelar na Via Láctea distorce a luz apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Pela primeira vez, os astrónomos detectaram diretamente como a turbulência interestelar distorce a luz de objetos distantes na nossa galáxia. A luz de rádio do quasar TXS 2005+403 viaja cerca de 10 mil milhões de anos-luz para chegar à Terra.</p><p>Um novo estudo detectou, pela primeira vez, diretamente como esta turbulência interestelar distorce a luz de objetos distantes. O Center for Astrophysics publicou este artigo original em 13 de maio de 2026.</p><p>Os investigadores, liderados pelo Centro de Astrofísica de Harvard e do Smithsonian, publicaram a sua investigação revista por pares no The Astrophysical Journal Letters a 13 de. Um quasar perspicaz Para medir a turbulência interestelar, os astrónomos concentraram-se no quasar TXS 2005+403, uma fonte de rádio brilhante alimentada por um buraco negro.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/interstellar-turbulence-in-the-milky-way-distorts-light/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Pela primeira vez, os astrónomos detectaram diretamente como a turbulência interestelar distorce a luz de objetos distantes na nossa galáxia. O post Turbulência interestelar na Via Láctea distorce a luz apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Pela primeira vez, os astrónomos detectaram diretamente como a turbulência interestelar distorce a luz de objetos distantes na nossa galáxia. A luz de rádio do quasar TXS 2005+403 viaja cerca de 10 mil milhões de anos-luz para chegar à Terra.</p><p>Um novo estudo detectou, pela primeira vez, diretamente como esta turbulência interestelar distorce a luz de objetos distantes. O Center for Astrophysics publicou este artigo original em 13 de maio de 2026.</p><p>Os investigadores, liderados pelo Centro de Astrofísica de Harvard e do Smithsonian, publicaram a sua investigação revista por pares no The Astrophysical Journal Letters a 13 de. Um quasar perspicaz Para medir a turbulência interestelar, os astrónomos concentraram-se no quasar TXS 2005+403, uma fonte de rádio brilhante alimentada por um buraco negro.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/interstellar-turbulence-in-the-milky-way-distorts-light/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>For the 1st time, astronomers have directly detected how interstellar turbulence distorts the light from distant objects in our galaxy. The post Interstellar turbulence in the Milky Way distorts light first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. For the 1st time, astronomers have directly detected how interstellar turbulence distorts the light from distant objects in our galaxy. Radio light from quasar TXS 2005+403 travels roughly 10 billion light-years to reach Earth.</p><p>A new study has, for the 1st time, directly detected how this interstellar turbulence distorts light from distant objects. The Center for Astrophysics published this original article on May 13, 2026.</p><p>The researchers, led by the Harvard and Smithsonian’s Center for Astrophysics, published their peer-reviewed research in The Astrophysical Journal Letters on May 13, 2026. An insightful quasar To measure the interstellar turbulence, astronomers set their sights on quasar TXS 2005+403, a bright radio source powered by a supermassive black hole that.</p><p>As radio light from the quasar travels toward Earth, it passes through the Cygnus region of the galaxy. Alexander Plavin, an astronomer at the CfA’s Black Hole Initiative and lead author of the new paper, said: Most of what we see in the radio data isn’t coming from the quasar.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Scientists expected that when radio light from TXS 2005+403 passed though the Milky Way, it would spread out into a smooth blur and fade away. The team has begun a follow-up observing campaign with the NSF VLBA running through 2026.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/interstellar-turbulence-in-the-milky-way-distorts-light/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Pela primeira vez, os astrónomos detectaram diretamente como a turbulência interestelar distorce a luz de objetos distantes na nossa galáxia. O post.",
-      "Dado-chave: Pela primeira vez, os astrónomos detectaram diretamente como a turbulência interestelar distorce a luz de objetos distantes na nossa galáxia.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Pela primeira vez, os astrónomos detectaram diretamente como a turbulência interestelar distorce a luz de objetos distantes na nossa galáxia. O post.",
-      "Dado-chave: Pela primeira vez, os astrónomos detectaram diretamente como a turbulência interestelar distorce a luz de objetos distantes na nossa galáxia.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: For the 1st time, astronomers have directly detected how interstellar turbulence distorts the light from distant objects in our galaxy. The post.",
-      "Key detail: For the 1st time, astronomers have directly detected how interstellar turbulence distorts the light from distant objects in our galaxy.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "19 mai 2026",
-    "date_pt": "19 mai 2026",
-    "date_en": "19 May 2026",
-    "time": "11h14",
-    "time_pt": "11h14",
-    "time_en": "11:14 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-19T11:14:45+00:00",
-    "lastModifiedIso": "2026-05-19T11:14:45+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Turbulência interestelar na Via Láctea distorce a luz"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Turbulência interestelar na Via Láctea distorce a luz"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "Interstellar turbulence in the Milky Way distorts light"
-    ],
-    "srcUrl": "https://earthsky.org/space/interstellar-turbulence-in-the-milky-way-distorts-light/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=interstellar-turbulence-in-the-milky-way-distorts-light",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=interstellar-turbulence-in-the-milky-way-distorts-light",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=interstellar-turbulence-in-the-milky-way-distorts-light&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 73,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
     }
   }
 ];

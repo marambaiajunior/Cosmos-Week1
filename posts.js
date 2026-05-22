@@ -40,14 +40,14 @@ window.postsData = [
     "date": "22 mai 2026",
     "date_pt": "22 mai 2026",
     "date_en": "22 May 2026",
-    "time": "21h20",
-    "time_pt": "21h20",
-    "time_en": "21:20 UTC",
+    "time": "22h36",
+    "time_pt": "22h36",
+    "time_en": "22:36 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-22T21:20:43.333307+00:00",
-    "lastModifiedIso": "2026-05-22T21:20:43.333307+00:00",
+    "publishedIso": "2026-05-22T22:36:57.402265+00:00",
+    "lastModifiedIso": "2026-05-22T22:36:57.402265+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "22 mai 2026",
     "date_pt": "22 mai 2026",
     "date_en": "22 May 2026",
-    "time": "21h20",
-    "time_pt": "21h20",
-    "time_en": "21:20 UTC",
+    "time": "22h36",
+    "time_pt": "22h36",
+    "time_en": "22:36 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-22T21:20:43.333252+00:00",
-    "lastModifiedIso": "2026-05-22T21:20:43.333252+00:00",
+    "publishedIso": "2026-05-22T22:36:57.402213+00:00",
+    "lastModifiedIso": "2026-05-22T22:36:57.402213+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -253,14 +253,14 @@ window.postsData = [
     "date": "22 mai 2026",
     "date_pt": "22 mai 2026",
     "date_en": "22 May 2026",
-    "time": "21h20",
-    "time_pt": "21h20",
-    "time_en": "21:20 UTC",
+    "time": "22h36",
+    "time_pt": "22h36",
+    "time_en": "22:36 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-22T21:20:43.333202+00:00",
-    "lastModifiedIso": "2026-05-22T21:20:43.333202+00:00",
+    "publishedIso": "2026-05-22T22:36:57.402166+00:00",
+    "lastModifiedIso": "2026-05-22T22:36:57.402166+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -364,14 +364,14 @@ window.postsData = [
     "date": "22 mai 2026",
     "date_pt": "22 mai 2026",
     "date_en": "22 May 2026",
-    "time": "21h20",
-    "time_pt": "21h20",
-    "time_en": "21:20 UTC",
+    "time": "22h36",
+    "time_pt": "22h36",
+    "time_en": "22:36 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-22T21:20:43.333151+00:00",
-    "lastModifiedIso": "2026-05-22T21:20:43.333151+00:00",
+    "publishedIso": "2026-05-22T22:36:57.402119+00:00",
+    "lastModifiedIso": "2026-05-22T22:36:57.402119+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -472,14 +472,14 @@ window.postsData = [
     "date": "22 mai 2026",
     "date_pt": "22 mai 2026",
     "date_en": "22 May 2026",
-    "time": "21h20",
-    "time_pt": "21h20",
-    "time_en": "21:20 UTC",
+    "time": "22h36",
+    "time_pt": "22h36",
+    "time_en": "22:36 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-22T21:20:43.333102+00:00",
-    "lastModifiedIso": "2026-05-22T21:20:43.333102+00:00",
+    "publishedIso": "2026-05-22T22:36:57.402071+00:00",
+    "lastModifiedIso": "2026-05-22T22:36:57.402071+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -540,6 +540,253 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp?w=1920",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Chamada para criativos: NASA busca ajuda para contar histórias de missões",
+    "title_pt": "Chamada para criativos: NASA busca ajuda para contar histórias de missões",
+    "title_en": "Call for Creatives: NASA Seeks Help Illuminating Mission Storytelling",
+    "sub": "À medida que a NASA ultrapassa os limites da exploração e inovação para o benefício da humanidade, a agência procura parceiros para partilhar histórias de missões que abrangem.",
+    "sub_pt": "À medida que a NASA ultrapassa os limites da exploração e inovação para o benefício da humanidade, a agência procura parceiros para partilhar histórias de missões que abrangem.",
+    "sub_en": "As NASA pushes the boundaries of exploration and innovation for the benefit of humanity, the agency is looking for partners to share mission stories covering Artemis Moon.",
+    "excerpt": "À medida que a NASA ultrapassa os limites da exploração e inovação para o benefício da humanidade, a agência procura parceiros para partilhar histórias de missões que abrangem missões Artemis Moon, propulsão nuclear, aeronáutica e muito mais. NASA publicada.",
+    "excerpt_pt": "À medida que a NASA ultrapassa os limites da exploração e inovação para o benefício da humanidade, a agência procura parceiros para partilhar histórias de missões que abrangem missões Artemis Moon, propulsão nuclear, aeronáutica e muito mais. NASA publicada.",
+    "excerpt_en": "As NASA pushes the boundaries of exploration and innovation for the benefit of humanity, the agency is looking for partners to share mission stories covering Artemis Moon missions, nuclear propulsion, aeronautics, and more. NASA published.",
+    "body": "<p>À medida que a NASA ultrapassa os limites da exploração e inovação para o benefício da humanidade, a agência procura parceiros para partilhar histórias de missões que abrangem missões Artemis Moon, propulsão nuclear, aeronáutica e muito mais. NASA publicada. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A NASA publicou um Anúncio de Propostas em 21 de maio pedindo a cineastas, documentaristas, compositores, contadores de histórias, poetas e outros que enviassem propostas para. NASA À medida que a NASA ultrapassa os limites da exploração e inovação para o benefício da humanidade, a agência está à procura de parceiros para partilhar histórias de missões.</p><p>Nesta rodada inicial, a NASA está buscando até 10 parceiros para Acordos da Lei Espacial não financiados para compartilhar as histórias por trás e insights sobre múltiplas missões. Os requisitos completos e outros detalhes estão disponíveis online: https: //go. nasa. gov/CreatorProposals -end- Camille Gallo / Cheryl Warner Headquarters, Washington.</p><p>Dooren Localização Sede da NASA Termos relacionados Artemis Artemis 3 Artemis 4.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>À medida que a NASA ultrapassa os limites da exploração e inovação para o benefício da humanidade, a agência procura parceiros para partilhar histórias de missões que abrangem missões Artemis Moon, propulsão nuclear, aeronáutica e muito mais. NASA publicada. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A NASA publicou um Anúncio de Propostas em 21 de maio pedindo a cineastas, documentaristas, compositores, contadores de histórias, poetas e outros que enviassem propostas para. NASA À medida que a NASA ultrapassa os limites da exploração e inovação para o benefício da humanidade, a agência está à procura de parceiros para partilhar histórias de missões.</p><p>Nesta rodada inicial, a NASA está buscando até 10 parceiros para Acordos da Lei Espacial não financiados para compartilhar as histórias por trás e insights sobre múltiplas missões. Os requisitos completos e outros detalhes estão disponíveis online: https: //go. nasa. gov/CreatorProposals -end- Camille Gallo / Cheryl Warner Headquarters, Washington.</p><p>Dooren Localização Sede da NASA Termos relacionados Artemis Artemis 3 Artemis 4.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>As NASA pushes the boundaries of exploration and innovation for the benefit of humanity, the agency is looking for partners to share mission stories covering Artemis Moon missions, nuclear propulsion, aeronautics, and more. NASA published. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. NASA published an Announcement for Proposals on May 21 asking filmmakers, documentarians, songwriters, storytellers, poets, and others to submit proposals to partner. NASA As NASA pushes the boundaries of exploration and innovation for the benefit of humanity, the agency is looking for partners to share mission stories covering Artemis Moon.</p><p>In this initial round, NASA is seeking up to 10 partners for unfunded Space Act Agreements to share the stories behind, and insights into, multiple NASA missions, including, but. Full requirements and other details are available online: https: //go. nasa. gov/CreatorProposals -end- Camille Gallo / Cheryl Warner Headquarters, Washington 202-358-1600.</p><p>Dooren Location NASA Headquarters Related Terms Artemis Artemis 3 Artemis 4. RELEASE 26-044 NASA Headquarters Credit: NASA As NASA pushes the boundaries of exploration and innovation for the benefit of humanity, the agency is looking for partners to share.</p><p>NASA published an Announcement for Proposals on May 21 asking filmmakers, documentarians, songwriters, storytellers, poets, and others to submit proposals to partner with the. Creators, the agency will consider proposals with a minority of international participants.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Proposals should detail which area of focus is desired, funding and distribution arrangements, and any specifics needs from NASA to move forward (access to facilities, personnel. Full requirements and other details are available online: Camille Gallo / Cheryl Warner Headquarters, Washington 202-358-1600 camille. m. gallo@nasa. gov / cheryl. m. warner@nasa.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: À medida que a NASA ultrapassa os limites da exploração e inovação para o benefício da humanidade, a agência procura parceiros para partilhar.",
+      "Dado-chave: À medida que a NASA ultrapassa os limites da exploração e inovação para o benefício da humanidade, a agência procura parceiros para partilhar.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: À medida que a NASA ultrapassa os limites da exploração e inovação para o benefício da humanidade, a agência procura parceiros para partilhar.",
+      "Dado-chave: À medida que a NASA ultrapassa os limites da exploração e inovação para o benefício da humanidade, a agência procura parceiros para partilhar.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: As NASA pushes the boundaries of exploration and innovation for the benefit of humanity, the agency is looking for partners to share mission stories.",
+      "Key detail: As NASA pushes the boundaries of exploration and innovation for the benefit of humanity, the agency is looking for partners to share mission.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "22 mai 2026",
+    "date_pt": "22 mai 2026",
+    "date_en": "22 May 2026",
+    "time": "22h12",
+    "time_pt": "22h12",
+    "time_en": "22:12 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-22T22:12:40+00:00",
+    "lastModifiedIso": "2026-05-22T22:12:40+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Chamada para criativos",
+      "NASA busca ajuda para contar histórias de missões"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Chamada para criativos",
+      "NASA busca ajuda para contar histórias de missões"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Call for creatives",
+      "NASA seeks help telling mission stories"
+    ],
+    "srcUrl": "https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 82,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
+    "slug": "just-outside-jupiter-one-region-may-have-forged-six-meteorite-parent-bodies",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/different-meteorites-s-1.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/different-meteorites-s-1.jpg",
+        "caption": "Meteoritos diferentes, mesmo local de nascimento",
+        "caption_pt": "Meteoritos diferentes, mesmo local de nascimento",
+        "caption_en": "Different meteorites, same birthplace",
+        "alt": "Meteoritos diferentes, mesmo local de nascimento",
+        "alt_pt": "Meteoritos diferentes, mesmo local de nascimento",
+        "alt_en": "Different meteorites, same birthplace"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/different-meteorites-s.jpg",
+        "caption": "Diferentes grupos de condritos carbonáceos (aqui CO, CV, CM, TL, CI e CR) podem ser rastreados até diferentes gerações de planetesimais que se formaram ao longo de cerca de dois milhões de anos. Eles diferem em suas proporções de.",
+        "caption_pt": "Diferentes grupos de condritos carbonáceos (aqui CO, CV, CM, TL, CI e CR) podem ser rastreados até diferentes gerações de planetesimais que se formaram ao longo de cerca de dois milhões de anos. Eles diferem em suas proporções de.",
+        "caption_en": "Different groups of carbonaceous chondrites (here CO, CV, CM, TL, CI, and CR) can be traced back to different generations of planetesimals that formed over the course of about two million years. They differ in their proportions of.",
+        "alt": "Meteoritos diferentes, mesmo local de nascimento",
+        "alt_pt": "Meteoritos diferentes, mesmo local de nascimento",
+        "alt_en": "Different meteorites, same birthplace"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/different-meteorites-s-2.jpg",
+        "caption": "Meteoritos diferentes, mesmo local de nascimento",
+        "caption_pt": "Meteoritos diferentes, mesmo local de nascimento",
+        "caption_en": "Different meteorites, same birthplace",
+        "alt": "Meteoritos diferentes, mesmo local de nascimento",
+        "alt_pt": "Meteoritos diferentes, mesmo local de nascimento",
+        "alt_en": "Different meteorites, same birthplace"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Perto de Júpiter, uma região pode ter forjado seis corpos-mãe de meteoritos",
+    "title_pt": "Perto de Júpiter, uma região pode ter forjado seis corpos-mãe de meteoritos",
+    "title_en": "Just outside Jupiter, one region may have forged six meteorite parent bodies",
+    "sub": "Quando o sistema solar se formou, um disco de gás e poeira orbitava o jovem sol. Ao longo de milhões de anos, a poeira gradualmente se aglomerou para formar pedaços do tamanho de.",
+    "sub_pt": "Quando o sistema solar se formou, um disco de gás e poeira orbitava o jovem sol. Ao longo de milhões de anos, a poeira gradualmente se aglomerou para formar pedaços do tamanho de.",
+    "sub_en": "When the solar system formed, a disk of gas and dust orbited the young sun. Over the course of millions of years, the dust gradually clumped together to form kilometer-sized.",
+    "excerpt": "Quando o sistema solar se formou, um disco de gás e poeira orbitava o jovem sol. Ao longo de milhões de anos, a poeira gradualmente se aglomerou para formar pedaços do tamanho de quilômetros, conhecidos como planetesimais. Alguns se transformaram em planetas.",
+    "excerpt_pt": "Quando o sistema solar se formou, um disco de gás e poeira orbitava o jovem sol. Ao longo de milhões de anos, a poeira gradualmente se aglomerou para formar pedaços do tamanho de quilômetros, conhecidos como planetesimais. Alguns se transformaram em planetas.",
+    "excerpt_en": "When the solar system formed, a disk of gas and dust orbited the young sun. Over the course of millions of years, the dust gradually clumped together to form kilometer-sized chunks known as planetesimals. Some grew into planets, while the.",
+    "body": "<p>Quando o sistema solar se formou, um disco de gás e poeira orbitava o jovem sol. Ao longo de milhões de anos, a poeira gradualmente se aglomerou para formar pedaços do tamanho de quilômetros, conhecidos como planetesimais. Alguns se transformaram em planetas, enquanto os. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Simulações de computador mostram pela primeira vez que, ao longo de dois milhões de anos, planetesimais com composições muito diferentes se formaram ali.</p><p>O novo estudo mostra que diversas populações de planetesimais podem formar-se em armadilhas de poeira ao longo de milhões de anos. Os resultados estabelecem assim pela primeira vez uma ligação a grupos específicos de meteoritos.</p><p>Pela primeira vez, conseguimos reproduzir com precisão os resultados de estudos laboratoriais de meteoritos usando simulações computacionais do início do sistema solar. Meteoritos são pedaços de rocha do espaço que caíram na Terra.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-jupiter-region-forged-meteorite-parent.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Quando o sistema solar se formou, um disco de gás e poeira orbitava o jovem sol. Ao longo de milhões de anos, a poeira gradualmente se aglomerou para formar pedaços do tamanho de quilômetros, conhecidos como planetesimais. Alguns se transformaram em planetas, enquanto os. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Simulações de computador mostram pela primeira vez que, ao longo de dois milhões de anos, planetesimais com composições muito diferentes se formaram ali.</p><p>O novo estudo mostra que diversas populações de planetesimais podem formar-se em armadilhas de poeira ao longo de milhões de anos. Os resultados estabelecem assim pela primeira vez uma ligação a grupos específicos de meteoritos.</p><p>Pela primeira vez, conseguimos reproduzir com precisão os resultados de estudos laboratoriais de meteoritos usando simulações computacionais do início do sistema solar. Meteoritos são pedaços de rocha do espaço que caíram na Terra.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-jupiter-region-forged-meteorite-parent.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>When the solar system formed, a disk of gas and dust orbited the young sun. Over the course of millions of years, the dust gradually clumped together to form kilometer-sized chunks known as planetesimals. Some grew into planets, while the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. This article has been reviewed according to Science X&#x27;s editorial process and policies. Computer simulations show for the first time that over the course of two million years, planetesimals with very different compositions formed there.</p><p>The new study shows that diverse populations of planetesimals can form in dust traps over millions of years. The results thus establish a connection to specific groups of meteorites for the first time.</p><p>For the first time, we have succeeded in accurately reproducing the results of laboratory studies of meteorites using computer simulations of the early solar system. Meteorites are chunks of rock from space that have crashed onto Earth.</p><p>Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Student at the MPS and first author of the paper.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The formation of the first planetesimals also consumes some of the available material. In the first 500,000 years, the proportion of crumbly material initially decreases, only to increase over the next million years.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-jupiter-region-forged-meteorite-parent.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Quando o sistema solar se formou, um disco de gás e poeira orbitava o jovem sol. Ao longo de milhões de anos, a poeira gradualmente se aglomerou para.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Quando o sistema solar se formou, um disco de gás e poeira orbitava o jovem sol. Ao longo de milhões de anos, a poeira gradualmente se aglomerou para.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: When the solar system formed, a disk of gas and dust orbited the young sun. Over the course of millions of years, the dust gradually clumped together.",
+      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "22 mai 2026",
+    "date_pt": "22 mai 2026",
+    "date_en": "22 May 2026",
+    "time": "22h00",
+    "time_pt": "22h00",
+    "time_en": "22:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-22T22:00:02+00:00",
+    "lastModifiedIso": "2026-05-22T22:00:02+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Perto de Júpiter",
+      "uma região pode ter forjado seis corpos",
+      "mãe de meteoritos"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Perto de Júpiter",
+      "uma região pode ter forjado seis corpos",
+      "mãe de meteoritos"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Near Jupiter",
+      "a region may have forged six bodies",
+      "mother of meteorites"
+    ],
+    "srcUrl": "https://phys.org/news/2026-05-jupiter-region-forged-meteorite-parent.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=just-outside-jupiter-one-region-may-have-forged-six-meteorite-parent-bodies",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=just-outside-jupiter-one-region-may-have-forged-six-meteorite-parent-bodies",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=just-outside-jupiter-one-region-may-have-forged-six-meteorite-parent-bodies&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 71,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 8,
     "slug": "nasa-sets-coverage-for-roscosmos-spacewalk-outside-space-station",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -630,7 +877,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -644,7 +891,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 9,
     "slug": "a-beautiful-death-how-a-dying-star-created-the-crystal-ball-nebula",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -784,7 +1031,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 10,
     "slug": "spacex-to-retry-starship-test-launch-friday",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -907,272 +1154,6 @@ window.postsData = [
       "evidence": 82,
       "relevance": 74,
       "accessibility": 52,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 9,
-    "slug": "using-pulsars-as-ultra-precise-gravitational-probes-to-weigh-neighboring-galaxies",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-find-new-m.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-find-new-m.jpg",
-        "caption": "Pesquisadores encontram novo método para ‘pesar’ galáxias vizinhas usando pulsares como sondas gravitacionais ultraprecisas",
-        "caption_pt": "Pesquisadores encontram novo método para ‘pesar’ galáxias vizinhas usando pulsares como sondas gravitacionais ultraprecisas",
-        "caption_en": "Researchers find new method to 'weigh' neighboring galaxies using pulsars as ultra-precise gravitational probes",
-        "alt": "Pesquisadores encontram novo método para ‘pesar’ galáxias vizinhas usando pulsares como sondas gravitacionais ultraprecisas",
-        "alt_pt": "Pesquisadores encontram novo método para ‘pesar’ galáxias vizinhas usando pulsares como sondas gravitacionais ultraprecisas",
-        "alt_en": "Researchers find new method to 'weigh' neighboring galaxies using pulsars as ultra-precise gravitational probes"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/4b5d8e1e5856f832.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Usando pulsares como sondas gravitacionais ultraprecisas para ‘pesar’ galáxias vizinhas",
-    "title_pt": "Usando pulsares como sondas gravitacionais ultraprecisas para ‘pesar’ galáxias vizinhas",
-    "title_en": "Using pulsars as ultra-precise gravitational probes to 'weigh' neighboring galaxies",
-    "sub": "Pesquisadores da Universidade do Alabama em Huntsville, parte do Sistema da Universidade do Alabama, identificaram um novo método promissor para medir a massa das galáxias que.",
-    "sub_pt": "Pesquisadores da Universidade do Alabama em Huntsville, parte do Sistema da Universidade do Alabama, identificaram um novo método promissor para medir a massa das galáxias que.",
-    "sub_en": "Researchers at The University of Alabama in Huntsville, a part of The University of Alabama System, have identified a promising new method for measuring the mass of galaxies.",
-    "excerpt": "Pesquisadores da Universidade do Alabama em Huntsville, parte do Sistema da Universidade do Alabama, identificaram um novo método promissor para medir a massa das galáxias que orbitam a Via Láctea usando pulsares, alguns dos do universo.",
-    "excerpt_pt": "Pesquisadores da Universidade do Alabama em Huntsville, parte do Sistema da Universidade do Alabama, identificaram um novo método promissor para medir a massa das galáxias que orbitam a Via Láctea usando pulsares, alguns dos do universo.",
-    "excerpt_en": "Researchers at The University of Alabama in Huntsville, a part of The University of Alabama System, have identified a promising new method for measuring the mass of galaxies orbiting the Milky Way by using pulsars, some of the universe's.",
-    "body": "<p>Pesquisadores da Universidade do Alabama em Huntsville, parte do Sistema da Universidade do Alabama, identificaram um novo método promissor para medir a massa das galáxias que orbitam a Via Láctea usando pulsares, alguns dos do universo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Pesquisadores da Universidade do Alabama em Huntsville (UAH), parte do Sistema da Universidade do Alabama, identificaram um novo método promissor para medir a massa de galáxias. Por Russ Nelson, Universidade do Alabama em Huntsville Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial arXiv (2025). &quot;&gt; (a): Simulação da Via Láctea, da GNM e da galáxia anã/corrente de marés Sgr.</p><p>O trabalho, publicado no servidor de pré-impressão arXiv, oferece uma nova abordagem para estudar a matéria escura oculta contida em galáxias satélites próximas.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-pulsars-ultra-precise-gravitational-probes.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Pesquisadores da Universidade do Alabama em Huntsville, parte do Sistema da Universidade do Alabama, identificaram um novo método promissor para medir a massa das galáxias que orbitam a Via Láctea usando pulsares, alguns dos do universo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Pesquisadores da Universidade do Alabama em Huntsville (UAH), parte do Sistema da Universidade do Alabama, identificaram um novo método promissor para medir a massa de galáxias. Por Russ Nelson, Universidade do Alabama em Huntsville Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial arXiv (2025). &quot;&gt; (a): Simulação da Via Láctea, da GNM e da galáxia anã/corrente de marés Sgr.</p><p>O trabalho, publicado no servidor de pré-impressão arXiv, oferece uma nova abordagem para estudar a matéria escura oculta contida em galáxias satélites próximas.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-pulsars-ultra-precise-gravitational-probes.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Researchers at The University of Alabama in Huntsville, a part of The University of Alabama System, have identified a promising new method for measuring the mass of galaxies orbiting the Milky Way by using pulsars, some of the universe&#x27;s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. Researchers at The University of Alabama in Huntsville (UAH), a part of The University of Alabama System, have identified a promising new method for measuring the mass of galaxies. By Russ Nelson, University of Alabama in Huntsville This article has been reviewed according to Science X&#x27;s editorial process and policies.</p><p>Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source arXiv (2025). &quot;&gt; (a): Simulation of the Milky Way, the LMC and the Sgr dwarf galaxy/tidal stream.</p><p>The work, published on the arXiv preprint server, offers a novel approach for studying the hidden dark matter contained within nearby satellite galaxies. Sukanya Chakrabarti, a professor and Pei-Ling Chan Endowed Chair in the College of Science, in collaboration with Dr.</p><p>In 2020, I started working on direct acceleration measurements, and we made the first measurements with pulsar timing in 2021,&quot; the researcher adds. At that time, we could only constrain the smooth component of the gravitational potential with 14 pairs of millisecond pulsars.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>When he joined my research group, Tom expanded the usable sample to 26 pulsars and later to 54. Since the actual disruptions only last for a short time, this means that the pulsar accelerations we observe today come from just the current disruptions from these two dwarf.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-pulsars-ultra-precise-gravitational-probes.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Pesquisadores da Universidade do Alabama em Huntsville, parte do Sistema da Universidade do Alabama, identificaram um novo método promissor para.",
-      "Dado-chave: Pesquisadores da Universidade do Alabama em Huntsville (UAH), parte do Sistema da Universidade do Alabama, identificaram um novo método.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Pesquisadores da Universidade do Alabama em Huntsville, parte do Sistema da Universidade do Alabama, identificaram um novo método promissor para.",
-      "Dado-chave: Pesquisadores da Universidade do Alabama em Huntsville (UAH), parte do Sistema da Universidade do Alabama, identificaram um novo método.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Researchers at The University of Alabama in Huntsville, a part of The University of Alabama System, have identified a promising new method for.",
-      "Key detail: Researchers at The University of Alabama in Huntsville (UAH), a part of The University of Alabama System, have identified a promising new method.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "22 mai 2026",
-    "date_pt": "22 mai 2026",
-    "date_en": "22 May 2026",
-    "time": "16h40",
-    "time_pt": "16h40",
-    "time_en": "16:40 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-22T16:40:04+00:00",
-    "lastModifiedIso": "2026-05-22T16:40:04+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Usando pulsares como sondas gravitacionais ultraprecisas para ‘pesar’ galáxias vizinhas"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Usando pulsares como sondas gravitacionais ultraprecisas para ‘pesar’ galáxias vizinhas"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Using pulsars as ultra-precise gravitational probes to ‘weigh’ neighboring galaxies"
-    ],
-    "srcUrl": "https://phys.org/news/2026-05-pulsars-ultra-precise-gravitational-probes.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=using-pulsars-as-ultra-precise-gravitational-probes-to-weigh-neighboring-galaxies",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=using-pulsars-as-ultra-precise-gravitational-probes-to-weigh-neighboring-galaxies",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=using-pulsars-as-ultra-precise-gravitational-probes-to-weigh-neighboring-galaxies&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 76,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "esa-s-prodex-programme-brings-scientific-research-to-space",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/4dspace-daedalus_ici-5b_mission/27267553-1-eng-GB/4DSpace-Daedalus_ICI-5b_mission_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/4dspace-daedalus_ici-5b_sounding_rocket/27267599-2-eng-GB/4DSpace-Daedalus_ICI-5b_sounding_rocket_article.jpg",
-        "caption": "Foguete de sondagem 4DSpace-Daedalus (ICI-5b)",
-        "caption_pt": "Foguete de sondagem 4DSpace-Daedalus (ICI-5b)",
-        "caption_en": "4DSpace-Daedalus (ICI-5b) sounding rocket",
-        "alt": "Foguete de sondagem 4DSpace-Daedalus (ICI-5b)",
-        "alt_pt": "Foguete de sondagem 4DSpace-Daedalus (ICI-5b)",
-        "alt_en": "4DSpace-Daedalus (ICI-5b) sounding rocket"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/02/optical_periscopic_imager_for_comets_opic/25484612-1-eng-GB/Optical_Periscopic_Imager_for_Comets_OPIC_article.jpg",
-        "caption": "Imageador Periscópico Óptico para Cometas (OPIC)",
-        "caption_pt": "Imageador Periscópico Óptico para Cometas (OPIC)",
-        "caption_en": "Optical Periscopic Imager for Comets (OPIC)",
-        "alt": "Imageador Periscópico Óptico para Cometas (OPIC)",
-        "alt_pt": "Imageador Periscópico Óptico para Cometas (OPIC)",
-        "alt_en": "Optical Periscopic Imager for Comets (OPIC)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/dfp-a_instruments_for_the_comet_interceptor_mission/27275275-1-eng-GB/DFP-A_instruments_for_the_Comet_Interceptor_mission_article.jpg",
-        "caption": "Os instrumentos DFP-A construídos para a missão Comet Interceptor",
-        "caption_pt": "Os instrumentos DFP-A construídos para a missão Comet Interceptor",
-        "caption_en": "The DFP-A instruments built for the Comet Interceptor mission",
-        "alt": "Os instrumentos DFP-A construídos para a missão Comet Interceptor",
-        "alt_pt": "Os instrumentos DFP-A construídos para a missão Comet Interceptor",
-        "alt_en": "The DFP-A instruments built for the Comet Interceptor mission"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "O programa Prodex da ESA leva a investigação científica ao espaço",
-    "title_pt": "O programa Prodex da ESA leva a investigação científica ao espaço",
-    "title_en": "ESA’s Prodex programme brings scientific research to space",
-    "sub": "O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite que institutos de.",
-    "sub_pt": "O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite que institutos de.",
-    "sub_en": "The launch of the 4DSpace-Daedalus mission in Norway is the latest success supported by Prodex, a European Space Agency programme which enables highly skilled research institutes.",
-    "excerpt": "O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite que institutos de investigação altamente qualificados participem em atividades e missões científicas.",
-    "excerpt_pt": "O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite que institutos de investigação altamente qualificados participem em atividades e missões científicas.",
-    "excerpt_en": "The launch of the 4DSpace-Daedalus mission in Norway is the latest success supported by Prodex, a European Space Agency programme which enables highly skilled research institutes to partake in European space science activities and missions.",
-    "body": "<p>O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite que institutos de investigação altamente qualificados participem em atividades e missões científicas espaciais europeias. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia (ESA) que permite que institutos de. “A ESA gere atualmente mais de 400 contratos com institutos e indústria no âmbito do Prodex, Programa de Desenvolvimento de Experimentos Científicos.</p><p>“A Prodex apoia o desenvolvimento industrial de instrumentos científicos altamente sofisticados e experiências em ciência, observação da Terra e domínios de microgravidade para. Estamos também a desenvolver instrumentação e experiências para a Estação Espacial Internacional”, disse o Chefe do Gabinete Prodex da ESA, Michel Lazerges.</p><p>No Conselho Ministerial de 2025, 17 Estados-Membros da ESA comprometeram-se com um total de 327,52 milhões de euros para este programa opcional, um aumento de 38% em relação ao. O Prodex está a apoiar o desenvolvimento de instrumentos científicos para uma série de missões e atividades da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Business_with_ESA/ESA_s_Prodex_programme_brings_scientific_research_to_space\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite que institutos de investigação altamente qualificados participem em atividades e missões científicas espaciais europeias. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia (ESA) que permite que institutos de. “A ESA gere atualmente mais de 400 contratos com institutos e indústria no âmbito do Prodex, Programa de Desenvolvimento de Experimentos Científicos.</p><p>“A Prodex apoia o desenvolvimento industrial de instrumentos científicos altamente sofisticados e experiências em ciência, observação da Terra e domínios de microgravidade para. Estamos também a desenvolver instrumentação e experiências para a Estação Espacial Internacional”, disse o Chefe do Gabinete Prodex da ESA, Michel Lazerges.</p><p>No Conselho Ministerial de 2025, 17 Estados-Membros da ESA comprometeram-se com um total de 327,52 milhões de euros para este programa opcional, um aumento de 38% em relação ao. O Prodex está a apoiar o desenvolvimento de instrumentos científicos para uma série de missões e atividades da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Business_with_ESA/ESA_s_Prodex_programme_brings_scientific_research_to_space\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The launch of the 4DSpace-Daedalus mission in Norway is the latest success supported by Prodex, a European Space Agency programme which enables highly skilled research institutes to partake in European space science activities and missions. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The launch of the 4DSpace-Daedalus mission in Norway is the latest success supported by Prodex, a European Space Agency (ESA) programme which enables highly skilled research. “ESA currently manages over 400 contracts with institutes and industry within Prodex, the Programme for the development of scientific experiments.</p><p>“Prodex supports the industrial development of highly sophisticated scientific instruments and experiments in science, Earth observation and microgravity domains for ESA Science. We are also developing instrumentation and experiments for the International Space Station,” said ESA Head of the Prodex Office, Michel Lazerges.</p><p>At the Ministerial Council 2025, 17 ESA Member States pledged a total of €327.52 million to this optional programme, a 38% increase on the commitment given at the previous. Prodex is supporting the development of scientific instruments for a range of ESA missions and activities.</p><p>Some notable recent successes include: Norway’s space weather research, The 4DSpace-Daedalus (ICI-5b) mission was coordinated by Oslo University in Norway and funded partly by. The Norwegian 12m-long sounding rocket with on-board instruments and releasable subpayloads launched on 11 March from Norway’s Andøya Space Centre into an auroral substorm.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The data will be analysed and used in space weather research and to understand the fundamental processes in energy transfer and couplings within the upper polar atmosphere. Poland and Estonia’s comet interceptor instruments Poland’s DFP-B2 instrument developed by Space Research Centre Polish Academy of Science (Centrum Badań Kosmicznych PAN) and.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Business_with_ESA/ESA_s_Prodex_programme_brings_scientific_research_to_space\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite.",
-      "Dado-chave: O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia (ESA).",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite.",
-      "Dado-chave: O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia (ESA).",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The launch of the 4DSpace-Daedalus mission in Norway is the latest success supported by Prodex, a European Space Agency programme which enables.",
-      "Key detail: The launch of the 4DSpace-Daedalus mission in Norway is the latest success supported by Prodex, a European Space Agency (ESA) programme which.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "22 mai 2026",
-    "date_pt": "22 mai 2026",
-    "date_en": "22 May 2026",
-    "time": "16h10",
-    "time_pt": "16h10",
-    "time_en": "16:10 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-22T16:10:00+00:00",
-    "lastModifiedIso": "2026-05-22T16:10:00+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www.esa.int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "O programa Prodex da ESA leva a investigação científica ao espaço"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "O programa Prodex da ESA leva a investigação científica ao espaço"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Space Science",
-      "Cosmos Week",
-      "ESA's Prodex program takes scientific research into space"
-    ],
-    "srcUrl": "https://www.esa.int/About_Us/Business_with_ESA/ESA_s_Prodex_programme_brings_scientific_research_to_space",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-s-prodex-programme-brings-scientific-research-to-space",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-s-prodex-programme-brings-scientific-research-to-space",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-s-prodex-programme-brings-scientific-research-to-space&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 81,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
       "novelty": 55
     }
   },
@@ -1861,6 +1842,139 @@ window.postsData = [
   },
   {
     "id": 16,
+    "slug": "what-s-feeding-our-supermassive-black-hole",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://dq0hsqwjhea1.cloudfront.net/eso1151b.jpg",
+    "inline_images": [
+      {
+        "src": "https://dq0hsqwjhea1.cloudfront.net/G2cloud.jpg",
+        "caption": "Esta imagem composta mostra o movimento da nuvem de poeira G2 à medida que se aproximava e depois passava pelo buraco negro supermassivo no centro da Via Láctea. ESO / A. Eckart",
+        "caption_pt": "Esta imagem composta mostra o movimento da nuvem de poeira G2 à medida que se aproximava e depois passava pelo buraco negro supermassivo no centro da Via Láctea. ESO / A. Eckart",
+        "caption_en": "This composite image shows the motion of the dusty G2 cloud as it closed in on, and then passed, the supermassive black hole at the center of the Milky Way. ESO / A. Eckart",
+        "alt": "Nuvem G2 observada de 2006 a 2014",
+        "alt_pt": "Nuvem G2 observada de 2006 a 2014",
+        "alt_en": "G2 cloud observed from 2006 to 2014"
+      },
+      {
+        "src": "https://dq0hsqwjhea1.cloudfront.net/eso1332e.jpg",
+        "caption": "Estas observações obtidas com o Very Large Telescope do ESO, utilizando o instrumento SINFONI, mostram a nuvem de gás G2 a esticar-se à medida que passava perto de Sgr A*. O eixo horizontal mostra a extensão da nuvem ao longo de sua órbita e o eixo vertical.",
+        "caption_pt": "Estas observações obtidas com o Very Large Telescope do ESO, utilizando o instrumento SINFONI, mostram a nuvem de gás G2 a esticar-se à medida que passava perto de Sgr A*. O eixo horizontal mostra a extensão da nuvem ao longo de sua órbita e o eixo vertical.",
+        "caption_en": "These observations from ESO’s Very Large Telescope, using the SINFONI instrument, show the G2 gas cloud being stretched as it passed close to Sgr A*. The horizontal axis shows the extent of the cloud along its orbit and the vertical axis.",
+        "alt": "Os dados mostraram alongamento (espaguetificação) de G2 à medida que se aproximava do buraco negro",
+        "alt_pt": "Os dados mostraram alongamento (espaguetificação) de G2 à medida que se aproximava do buraco negro",
+        "alt_en": "Data showed elongation (spaghettification) of G2 as it approached the black hole"
+      },
+      {
+        "src": "https://dq0hsqwjhea1.cloudfront.net/G2-orbit.webp",
+        "caption": "Este diagrama mostra a órbita de G2 sobreposta a uma imagem no infravermelho próximo da região em torno de Sgr A* (marcada com uma cruz). As estrelas aparecem como manchas brancas cercadas por vermelho e o sistema estelar binário IRS 16SW, de onde podem surgir as nuvens G.",
+        "caption_pt": "Este diagrama mostra a órbita de G2 sobreposta a uma imagem no infravermelho próximo da região em torno de Sgr A* (marcada com uma cruz). As estrelas aparecem como manchas brancas cercadas por vermelho e o sistema estelar binário IRS 16SW, de onde podem surgir as nuvens G.",
+        "caption_en": "This diagram shows the orbit of G2 superimposed on a near-infrared image of the region around Sgr A* (marked with a cross). Stars appear as white blotches surrounded by red, and the binary star system IRS 16SW, from which the G-clouds may.",
+        "alt": "Imagem mostrando a órbita de G2 em relação a Sgr A* e em relação ao sistema binário IRS 16SW",
+        "alt_pt": "Imagem mostrando a órbita de G2 em relação a Sgr A* e em relação ao sistema binário IRS 16SW",
+        "alt_en": "Image showing the orbit of G2 relative to Sgr A* and relative to the binary system IRS 16SW"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "O que está alimentando nosso buraco negro supermassivo?",
+    "title_pt": "O que está alimentando nosso buraco negro supermassivo?",
+    "title_en": "What's Feeding Our Supermassive Black Hole?",
+    "sub": "Os astrónomos identificaram a provável fonte de gás que flui para a boca do buraco negro central da Via Láctea, Sagitário A*. O post O que está alimentando nosso buraco negro.",
+    "sub_pt": "Os astrónomos identificaram a provável fonte de gás que flui para a boca do buraco negro central da Via Láctea, Sagitário A*. O post O que está alimentando nosso buraco negro.",
+    "sub_en": "Astronomers have identified the likely source of gas that flows into the maw of the Milky Way’s central black hole, Sagittarius A*. The post What's Feeding Our Supermassive Black.",
+    "excerpt": "Os astrónomos identificaram a provável fonte de gás que flui para a boca do buraco negro central da Via Láctea, Sagitário A*. O post O que está alimentando nosso buraco negro supermassivo? apareceu primeiro em Sky & Telescope.",
+    "excerpt_pt": "Os astrónomos identificaram a provável fonte de gás que flui para a boca do buraco negro central da Via Láctea, Sagitário A*. O post O que está alimentando nosso buraco negro supermassivo? apareceu primeiro em Sky & Telescope.",
+    "excerpt_en": "Astronomers have identified the likely source of gas that flows into the maw of the Milky Way’s central black hole, Sagittarius A*. The post What's Feeding Our Supermassive Black Hole? appeared first on Sky & Telescope.",
+    "body": "<p>Os astrónomos identificaram a provável fonte de gás que flui para a boca do buraco negro central da Via Láctea, Sagitário A*. O post O que está alimentando nosso buraco negro supermassivo? apareceu primeiro em Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Uma estrela binária, IRS 16SW, orbita Sgr A* a apenas 19.000 unidades astronômicas de distância, aproximadamente a distância da Nuvem de Oort de cometas ao Sol. Estas “estrelas S” residem perto de Sgr A*, a distâncias inferiores a 0,03 anos-luz.</p><p>(Outras nuvens G também foram observadas, mas estas parecem estar noutras órbitas.) Em 2014, G2 sobreviveu ao seu encontro mais próximo com o buraco negro, tornando-se algo. A equipe de Gillessen considera esta família de nuvens G, G1, G2 e G3, como parte de uma estrutura coerente, parte de um fluxo contínuo de gás que conecta as nuvens enquanto.</p><p>Os investigadores também analisaram os movimentos das estrelas que orbitam o buraco negro a distâncias inferiores a 1 ano-luz, um pouco mais distantes do que as estrelas S. Eles descobriram que os movimentos das nuvens correspondem à órbita do binário próximo IRS 16SW.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/whats-feeding-our-supermassive-black-hole/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os astrónomos identificaram a provável fonte de gás que flui para a boca do buraco negro central da Via Láctea, Sagitário A*. O post O que está alimentando nosso buraco negro supermassivo? apareceu primeiro em Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Uma estrela binária, IRS 16SW, orbita Sgr A* a apenas 19.000 unidades astronômicas de distância, aproximadamente a distância da Nuvem de Oort de cometas ao Sol. Estas “estrelas S” residem perto de Sgr A*, a distâncias inferiores a 0,03 anos-luz.</p><p>(Outras nuvens G também foram observadas, mas estas parecem estar noutras órbitas.) Em 2014, G2 sobreviveu ao seu encontro mais próximo com o buraco negro, tornando-se algo. A equipe de Gillessen considera esta família de nuvens G, G1, G2 e G3, como parte de uma estrutura coerente, parte de um fluxo contínuo de gás que conecta as nuvens enquanto.</p><p>Os investigadores também analisaram os movimentos das estrelas que orbitam o buraco negro a distâncias inferiores a 1 ano-luz, um pouco mais distantes do que as estrelas S. Eles descobriram que os movimentos das nuvens correspondem à órbita do binário próximo IRS 16SW.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/whats-feeding-our-supermassive-black-hole/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Identified the likely source of gas that flows into the maw of the Milky Way’s central black hole, Sagittarius A*. The post What&#x27;s Feeding Our Supermassive Black Hole? appeared first on Sky &amp; Telescope. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. A binary star, IRS 16SW, orbits Sgr A* from just 19,000 astronomical units away, about the distance of the Oort Cloud of comets from the Sun. These “S-stars” reside close to Sgr A*, at distances of less than 0.03 light-years.</p><p>( Other G-clouds have also been observed, but those seem to be on other orbits.) In 2014, G2 survived its closest encounter with the black hole, becoming somewhat “spaghettified”. Gillessen’s team n considers this family of G clouds, G1, G2, and G3, to be part of a coherent structure, part of a continuous stream of gas that connects the clouds as they orbit.</p><p>The researchers also analyzed the motions of stars orbiting the black hole at distances of less than 1 light-year, a bit farther away than the S-stars. They found that the clouds’ motions match the orbit of the close binary IRS 16SW.</p><p>IRS 16SW is a pair of two hot stars, each about 50 times as massive as the Sun. They orbit each other in just 19 days, which means they’re so close to each other that their atmospheres partially overlap.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>The researchers think that these shocks condense into clumps of gas every 10 to 20 years, each clump containing a few times Earth’s mass. IRS 16SW is thus the likely origin of the entire stream of G-clouds that’s the main food source for Sgr A*.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/whats-feeding-our-supermassive-black-hole/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os astrónomos identificaram a provável fonte de gás que flui para a boca do buraco negro central da Via Láctea, Sagitário A*. O post O que está.",
+      "Dado-chave: Uma estrela binária, IRS 16SW, orbita Sgr A* a apenas 19.000 unidades astronômicas de distância, aproximadamente a distância da Nuvem de Oort de.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os astrónomos identificaram a provável fonte de gás que flui para a boca do buraco negro central da Via Láctea, Sagitário A*. O post O que está.",
+      "Dado-chave: Uma estrela binária, IRS 16SW, orbita Sgr A* a apenas 19.000 unidades astronômicas de distância, aproximadamente a distância da Nuvem de Oort de.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Astronomers have identified the likely source of gas that flows into the maw of the Milky Way’s central black hole, Sagittarius A*. The post What's.",
+      "Key detail: A binary star, IRS 16SW, orbits Sgr A* from just 19,000 astronomical units away, about the distance of the Oort Cloud of comets from the Sun.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "18 mai 2026",
+    "date_pt": "18 mai 2026",
+    "date_en": "18 May 2026",
+    "time": "13h00",
+    "time_pt": "13h00",
+    "time_en": "13:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-18T13:00:00+00:00",
+    "lastModifiedIso": "2026-05-18T13:00:00+00:00",
+    "source": "Sky & Telescope",
+    "sourceDomain": "skyandtelescope.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "Sky & Telescope",
+      "Cosmos Week",
+      "O que está alimentando nosso buraco negro supermassivo?"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Sky & Telescope",
+      "Cosmos Week",
+      "O que está alimentando nosso buraco negro supermassivo?"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "Sky & Telescope",
+      "Cosmos Week",
+      "What's Powering Our Supermassive Black Hole?"
+    ],
+    "srcUrl": "https://skyandtelescope.org/astronomy-news/whats-feeding-our-supermassive-black-hole/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=what-s-feeding-our-supermassive-black-hole",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=what-s-feeding-our-supermassive-black-hole",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=what-s-feeding-our-supermassive-black-hole&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 74,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 17,
     "slug": "supermassive-black-holes-can-render-exoplanets-uninhabitable-at-great-distances",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -1993,7 +2107,122 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 18,
+    "slug": "searching-for-earth-sized-exoplanets-with-the-poet-mission",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://earthsky.org/upl/2025/09/TRAPPIST1e-exoplanets-James-Webb-Space-Telescope-artists-concept-September-8-2025.jpg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Procurando exoplanetas do tamanho da Terra com a missão POET",
+    "title_pt": "Procurando exoplanetas do tamanho da Terra com a missão POET",
+    "title_en": "Searching for Earth-sized exoplanets with the POET mission",
+    "sub": "Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras. Ele se concentrará em estrelas menores e mais frias, como as anãs.",
+    "sub_pt": "Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras. Ele se concentrará em estrelas menores e mais frias, como as anãs.",
+    "sub_en": "In 2029, Canada's POET mission will start searching for Earth-sized exoplanets as well as super-Earths. It will focus on smaller, cooler stars like red dwarfs. The post Searching.",
+    "excerpt": "Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras. Ele se concentrará em estrelas menores e mais frias, como as anãs vermelhas. O post Procurando primeiro exoplanetas do tamanho da Terra com a missão.",
+    "excerpt_pt": "Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras. Ele se concentrará em estrelas menores e mais frias, como as anãs vermelhas. O post Procurando primeiro exoplanetas do tamanho da Terra com a missão.",
+    "excerpt_en": "In 2029, Canada's POET mission will start searching for Earth-sized exoplanets as well as super-Earths. It will focus on smaller, cooler stars like red dwarfs. The post Searching for Earth-sized exoplanets with the POET mission first.",
+    "body": "<p>Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras. Ele se concentrará em estrelas menores e mais frias, como as anãs vermelhas. O post Procurando primeiro exoplanetas do tamanho da Terra com a missão POET. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras. | Conceito artístico do sistema TRAPPIST-1, incluindo o exoplaneta rochoso do tamanho da Terra TRAPPIST-1e (canto inferior direito).</p><p>Em 2029, a missão de microssatélites POET do Canadá começará a procurar exoplanetas semelhantes do tamanho da Terra em torno de estrelas pequenas e frias. A missão POET do Canadá irá procurar exoplanetas do tamanho da Terra Dos milhares de exoplanetas que os astrónomos descobriram até agora, alguns são rochosos e têm aproximadamente.</p><p>A missão de microssatélites, chamada POET (Observações Fotométricas de Trânsitos de Exoplanetas), procurará mais planetas do tamanho da Terra e super-Terras. A pesquisa, detalhada num novo artigo pré-impresso de 25 de março de 2026, concentrar-se-á em estrelas mais pequenas e mais frias, como as anãs vermelhas.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/earth-sized-exoplanets-poet-canada/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras. Ele se concentrará em estrelas menores e mais frias, como as anãs vermelhas. O post Procurando primeiro exoplanetas do tamanho da Terra com a missão POET. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras. | Conceito artístico do sistema TRAPPIST-1, incluindo o exoplaneta rochoso do tamanho da Terra TRAPPIST-1e (canto inferior direito).</p><p>Em 2029, a missão de microssatélites POET do Canadá começará a procurar exoplanetas semelhantes do tamanho da Terra em torno de estrelas pequenas e frias. A missão POET do Canadá irá procurar exoplanetas do tamanho da Terra Dos milhares de exoplanetas que os astrónomos descobriram até agora, alguns são rochosos e têm aproximadamente.</p><p>A missão de microssatélites, chamada POET (Observações Fotométricas de Trânsitos de Exoplanetas), procurará mais planetas do tamanho da Terra e super-Terras. A pesquisa, detalhada num novo artigo pré-impresso de 25 de março de 2026, concentrar-se-á em estrelas mais pequenas e mais frias, como as anãs vermelhas.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/earth-sized-exoplanets-poet-canada/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>In 2029, Canada&#x27;s POET mission will start searching for Earth-sized exoplanets as well as super-Earths. It will focus on smaller, cooler stars like red dwarfs. The post Searching for Earth-sized exoplanets with the POET mission first. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. In 2029, Canada&#x27;s POET mission will start searching for Earth-sized exoplanets as well as super-Earths. | Artist’s concept of the TRAPPIST-1 system, including rocky, Earth-sized exoplanet TRAPPIST-1e (lower right).</p><p>In 2029, Canada’s POET micro-satellite mission will start searching for similar Earth-sized exoplanets around small, cool stars. Canada’s POET mission will search for Earth-sized exoplanets Out of the thousands of exoplanets that astronomers have discovered so far, some are rocky and about the same size as.</p><p>The micro-satellite mission, called POET, will look for more Earth-sized and super-Earth planets. The search, detailed in a new preprint paper on March 25, 2026, will focus on smaller, cooler stars, like red dwarfs.</p><p>It is a top priority small-sat space mission in the Canadian Astronomy Long Range Plan 2020, 2030. Laurence Tognetti wrote about the new mission, currently in development, for Universe Today on April 29, 2026.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>These are primarily the MOST (Microvariability and Oscillations of Stars) in 2003 and NEOSSat (Near-Earth Object Surveillance Satellite) in 2013. That’s a lot less than Earth’s 365-day orbital period.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/earth-sized-exoplanets-poet-canada/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras. Ele se concentrará em estrelas menores e.",
+      "Dado-chave: Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras. Ele se concentrará em estrelas menores e.",
+      "Dado-chave: Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: In 2029, Canada's POET mission will start searching for Earth-sized exoplanets as well as super-Earths. It will focus on smaller, cooler stars like.",
+      "Key detail: In 2029, Canada's POET mission will start searching for Earth-sized exoplanets as well as super-Earths.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "21 mai 2026",
+    "date_pt": "21 mai 2026",
+    "date_en": "21 May 2026",
+    "time": "11h13",
+    "time_pt": "11h13",
+    "time_en": "11:13 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-21T11:13:05+00:00",
+    "lastModifiedIso": "2026-05-21T11:13:05+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Exoplanetas",
+      "EarthSky",
+      "Cosmos Week",
+      "Procurando exoplanetas do tamanho da Terra com a missão POET"
+    ],
+    "keywords_pt": [
+      "Exoplanetas",
+      "EarthSky",
+      "Cosmos Week",
+      "Procurando exoplanetas do tamanho da Terra com a missão POET"
+    ],
+    "keywords_en": [
+      "Exoplanets",
+      "EarthSky",
+      "Cosmos Week",
+      "Searching for Earth-sized exoplanets with the POET mission"
+    ],
+    "srcUrl": "https://earthsky.org/space/earth-sized-exoplanets-poet-canada/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=searching-for-earth-sized-exoplanets-with-the-poet-mission",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=searching-for-earth-sized-exoplanets-with-the-poet-mission",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=searching-for-earth-sized-exoplanets-with-the-poet-mission&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 19,
     "slug": "hellish-venus-like-planets-may-be-more-prevalent-than-true-exoearths",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2111,132 +2340,17 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 75,
+    "score": 74,
     "scoreBreakdown": {
       "source": 73,
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 52
+      "novelty": 49
     }
   },
   {
-    "id": 18,
-    "slug": "searching-for-earth-sized-exoplanets-with-the-poet-mission",
-    "cat": "Exoplanetas",
-    "catCls": "exoplanetas",
-    "img": "https://earthsky.org/upl/2025/09/TRAPPIST1e-exoplanets-James-Webb-Space-Telescope-artists-concept-September-8-2025.jpg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Procurando exoplanetas do tamanho da Terra com a missão POET",
-    "title_pt": "Procurando exoplanetas do tamanho da Terra com a missão POET",
-    "title_en": "Searching for Earth-sized exoplanets with the POET mission",
-    "sub": "Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras. Ele se concentrará em estrelas menores e mais frias, como as anãs.",
-    "sub_pt": "Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras. Ele se concentrará em estrelas menores e mais frias, como as anãs.",
-    "sub_en": "In 2029, Canada's POET mission will start searching for Earth-sized exoplanets as well as super-Earths. It will focus on smaller, cooler stars like red dwarfs. The post Searching.",
-    "excerpt": "Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras. Ele se concentrará em estrelas menores e mais frias, como as anãs vermelhas. O post Procurando primeiro exoplanetas do tamanho da Terra com a missão.",
-    "excerpt_pt": "Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras. Ele se concentrará em estrelas menores e mais frias, como as anãs vermelhas. O post Procurando primeiro exoplanetas do tamanho da Terra com a missão.",
-    "excerpt_en": "In 2029, Canada's POET mission will start searching for Earth-sized exoplanets as well as super-Earths. It will focus on smaller, cooler stars like red dwarfs. The post Searching for Earth-sized exoplanets with the POET mission first.",
-    "body": "<p>Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras. Ele se concentrará em estrelas menores e mais frias, como as anãs vermelhas. O post Procurando primeiro exoplanetas do tamanho da Terra com a missão POET. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras. | Conceito artístico do sistema TRAPPIST-1, incluindo o exoplaneta rochoso do tamanho da Terra TRAPPIST-1e (canto inferior direito).</p><p>Em 2029, a missão de microssatélites POET do Canadá começará a procurar exoplanetas semelhantes do tamanho da Terra em torno de estrelas pequenas e frias. A missão POET do Canadá irá procurar exoplanetas do tamanho da Terra Dos milhares de exoplanetas que os astrónomos descobriram até agora, alguns são rochosos e têm aproximadamente.</p><p>A missão de microssatélites, chamada POET (Observações Fotométricas de Trânsitos de Exoplanetas), procurará mais planetas do tamanho da Terra e super-Terras. A pesquisa, detalhada num novo artigo pré-impresso de 25 de março de 2026, concentrar-se-á em estrelas mais pequenas e mais frias, como as anãs vermelhas.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/earth-sized-exoplanets-poet-canada/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras. Ele se concentrará em estrelas menores e mais frias, como as anãs vermelhas. O post Procurando primeiro exoplanetas do tamanho da Terra com a missão POET. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras. | Conceito artístico do sistema TRAPPIST-1, incluindo o exoplaneta rochoso do tamanho da Terra TRAPPIST-1e (canto inferior direito).</p><p>Em 2029, a missão de microssatélites POET do Canadá começará a procurar exoplanetas semelhantes do tamanho da Terra em torno de estrelas pequenas e frias. A missão POET do Canadá irá procurar exoplanetas do tamanho da Terra Dos milhares de exoplanetas que os astrónomos descobriram até agora, alguns são rochosos e têm aproximadamente.</p><p>A missão de microssatélites, chamada POET (Observações Fotométricas de Trânsitos de Exoplanetas), procurará mais planetas do tamanho da Terra e super-Terras. A pesquisa, detalhada num novo artigo pré-impresso de 25 de março de 2026, concentrar-se-á em estrelas mais pequenas e mais frias, como as anãs vermelhas.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/earth-sized-exoplanets-poet-canada/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>In 2029, Canada&#x27;s POET mission will start searching for Earth-sized exoplanets as well as super-Earths. It will focus on smaller, cooler stars like red dwarfs. The post Searching for Earth-sized exoplanets with the POET mission first. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. In 2029, Canada&#x27;s POET mission will start searching for Earth-sized exoplanets as well as super-Earths. | Artist’s concept of the TRAPPIST-1 system, including rocky, Earth-sized exoplanet TRAPPIST-1e (lower right).</p><p>In 2029, Canada’s POET micro-satellite mission will start searching for similar Earth-sized exoplanets around small, cool stars. Canada’s POET mission will search for Earth-sized exoplanets Out of the thousands of exoplanets that astronomers have discovered so far, some are rocky and about the same size as.</p><p>The micro-satellite mission, called POET, will look for more Earth-sized and super-Earth planets. The search, detailed in a new preprint paper on March 25, 2026, will focus on smaller, cooler stars, like red dwarfs.</p><p>It is a top priority small-sat space mission in the Canadian Astronomy Long Range Plan 2020, 2030. Laurence Tognetti wrote about the new mission, currently in development, for Universe Today on April 29, 2026.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>These are primarily the MOST (Microvariability and Oscillations of Stars) in 2003 and NEOSSat (Near-Earth Object Surveillance Satellite) in 2013. That’s a lot less than Earth’s 365-day orbital period.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/earth-sized-exoplanets-poet-canada/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras. Ele se concentrará em estrelas menores e.",
-      "Dado-chave: Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras. Ele se concentrará em estrelas menores e.",
-      "Dado-chave: Em 2029, a missão POET do Canadá começará a procurar exoplanetas do tamanho da Terra, bem como super-Terras.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: In 2029, Canada's POET mission will start searching for Earth-sized exoplanets as well as super-Earths. It will focus on smaller, cooler stars like.",
-      "Key detail: In 2029, Canada's POET mission will start searching for Earth-sized exoplanets as well as super-Earths.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "21 mai 2026",
-    "date_pt": "21 mai 2026",
-    "date_en": "21 May 2026",
-    "time": "11h13",
-    "time_pt": "11h13",
-    "time_en": "11:13 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-21T11:13:05+00:00",
-    "lastModifiedIso": "2026-05-21T11:13:05+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Exoplanetas",
-      "EarthSky",
-      "Cosmos Week",
-      "Procurando exoplanetas do tamanho da Terra com a missão POET"
-    ],
-    "keywords_pt": [
-      "Exoplanetas",
-      "EarthSky",
-      "Cosmos Week",
-      "Procurando exoplanetas do tamanho da Terra com a missão POET"
-    ],
-    "keywords_en": [
-      "Exoplanets",
-      "EarthSky",
-      "Cosmos Week",
-      "Searching for Earth-sized exoplanets with the POET mission"
-    ],
-    "srcUrl": "https://earthsky.org/space/earth-sized-exoplanets-poet-canada/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=searching-for-earth-sized-exoplanets-with-the-poet-mission",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=searching-for-earth-sized-exoplanets-with-the-poet-mission",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=searching-for-earth-sized-exoplanets-with-the-poet-mission&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 19,
+    "id": 20,
     "slug": "snappy-cubesat-takes-flight-to-test-space-based-neutrino-detectors",
     "cat": "Física",
     "catCls": "fisica",
@@ -2354,7 +2468,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "save-the-date-cern-safety-day-4-june-keeping-ourselves-and-each-other-safe",
     "cat": "Física",
     "catCls": "fisica",
@@ -2472,7 +2586,7 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "before-you-sign-anything-the-nda-procedure-is-now-on-the-admin-e-guide",
     "cat": "Física",
     "catCls": "fisica",
@@ -2580,7 +2694,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "is-dust-the-best-thing-in-the-universe-part-3-tiny-chemistry-labs",
     "cat": "Química",
     "catCls": "quimica",
@@ -2688,7 +2802,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "smile-lifts-off-on-quest-to-reveal-earth-s-invisible-shield-against-the-solar-wind",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2793,12 +2907,40 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
+    "id": 25,
     "slug": "insights-into-earth-s-molten-outer-core-from-space",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2012/09/earth_s_stormy_heart/11856791-2-eng-GB/Earth_s_stormy_heart_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/earth_s_molten_core_flow_in_1999/27286927-1-eng-GB/Earth_s_molten_core_flow_in_1999_article.jpg",
+        "caption": "Fluxo do núcleo derretido da Terra em 1999 e 2016 Open Image",
+        "caption_pt": "Fluxo do núcleo derretido da Terra em 1999 e 2016 Open Image",
+        "caption_en": "Earth’s molten core flow 1999 and 2016 Open Image",
+        "alt": "Fluxo do núcleo derretido da Terra em 1999 e 2016 Open Image",
+        "alt_pt": "Fluxo do núcleo derretido da Terra em 1999 e 2016 Open Image",
+        "alt_en": "Earth’s molten core flow 1999 and 2016 Open Image"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2013/10/swarm_constellation/13069393-1-eng-GB/Swarm_constellation_article.jpg",
+        "caption": "Constelação de enxame",
+        "caption_pt": "Constelação de enxame",
+        "caption_en": "Swarm constellation",
+        "alt": "Constelação de enxame",
+        "alt_pt": "Constelação de enxame",
+        "alt_en": "Swarm constellation"
+      },
+      {
+        "src": "https://www.esa.int/extension/pillars/design/pillars/images/play-button.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Insights sobre o núcleo externo derretido da Terra a partir do espaço",
@@ -2810,22 +2952,22 @@ window.postsData = [
     "excerpt": "O ferro líquido no núcleo externo da Terra nem sempre se comporta como esperado. Quando mudou de direção de forma inexplicável, os satélites da ESA forneceram dados sobre a direção do fluxo, ajudando os cientistas a obter uma melhor visão da dinâmica.",
     "excerpt_pt": "O ferro líquido no núcleo externo da Terra nem sempre se comporta como esperado. Quando mudou de direção de forma inexplicável, os satélites da ESA forneceram dados sobre a direção do fluxo, ajudando os cientistas a obter uma melhor visão da dinâmica.",
     "excerpt_en": "The liquid iron in Earth’s outer core doesn’t always behave as expected. When it changed direction in an unexplained way, ESA satellites provided data on the direction of flow, helping scientists gain better insight into the dynamics at.",
-    "body": "<p>O ferro líquido no núcleo externo da Terra nem sempre se comporta como esperado. Quando mudou de direção de forma inexplicável, os satélites da ESA forneceram dados sobre a direção do fluxo, ajudando os cientistas a obter uma melhor visão da dinâmica. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O ferro líquido no núcleo externo da Terra nem sempre se comporta como esperado. Quando mudou de direção de forma inexplicável, os satélites da ESA forneceram dados sobre a direção do fluxo, ajudando os cientistas a obter uma melhor visão da dinâmica no centro.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Insights_into_Earth_s_molten_outer_core_from_space\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O ferro líquido no núcleo externo da Terra nem sempre se comporta como esperado. Quando mudou de direção de forma inexplicável, os satélites da ESA forneceram dados sobre a direção do fluxo, ajudando os cientistas a obter uma melhor visão da dinâmica. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O ferro líquido no núcleo externo da Terra nem sempre se comporta como esperado. Quando mudou de direção de forma inexplicável, os satélites da ESA forneceram dados sobre a direção do fluxo, ajudando os cientistas a obter uma melhor visão da dinâmica no centro.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Insights_into_Earth_s_molten_outer_core_from_space\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The liquid iron in Earth’s outer core doesn’t always behave as expected. When it changed direction in an unexplained way, ESA satellites provided data on the direction of flow, helping scientists gain better insight into the dynamics at. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The liquid iron in Earth’s outer core doesn’t always behave as expected. When it changed direction in an unexplained way, ESA satellites provided data on the direction of flow, helping scientists gain better insight into the dynamics at the centre of.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Insights_into_Earth_s_molten_outer_core_from_space\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>O ferro líquido no núcleo externo da Terra nem sempre se comporta como esperado. Quando mudou de direção de forma inexplicável, os satélites da ESA forneceram dados sobre a direção do fluxo, ajudando os cientistas a obter uma melhor visão da dinâmica. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O núcleo derretido, que gira cerca de 2.200 km sob nossos pés, gera o campo geomagnético da Terra à medida que se move. Mas os satélites, incluindo o Swarm e o CryoSat da ESA, forneceram dados que foram agora analisados ​​e publicados.</p><p>O estudo, publicado no Journal of Studies of Earth’s Deep Interior, analisa observações terrestres e dados de satélite entre 1997 e 2025. Dados das missões Swarm e Cryosat da ESA foram utilizados no estudo, bem como dados da missão alemã CHAMP e da missão Ørsted.</p><p>A investigação descobriu que, em 2010, uma vasta região de fluido rico em ferro abaixo do Pacífico equatorial passou de um movimento fraco para oeste para um movimento forte para. O autor principal do estudo, Frederik Dahl Madsen, da Universidade de Edimburgo, Escola de Geociências, disse: “A reversão do fluxo em grande escala abaixo do Pacífico levanta.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Insights_into_Earth_s_molten_outer_core_from_space\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O ferro líquido no núcleo externo da Terra nem sempre se comporta como esperado. Quando mudou de direção de forma inexplicável, os satélites da ESA forneceram dados sobre a direção do fluxo, ajudando os cientistas a obter uma melhor visão da dinâmica. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O núcleo derretido, que gira cerca de 2.200 km sob nossos pés, gera o campo geomagnético da Terra à medida que se move. Mas os satélites, incluindo o Swarm e o CryoSat da ESA, forneceram dados que foram agora analisados ​​e publicados.</p><p>O estudo, publicado no Journal of Studies of Earth’s Deep Interior, analisa observações terrestres e dados de satélite entre 1997 e 2025. Dados das missões Swarm e Cryosat da ESA foram utilizados no estudo, bem como dados da missão alemã CHAMP e da missão Ørsted.</p><p>A investigação descobriu que, em 2010, uma vasta região de fluido rico em ferro abaixo do Pacífico equatorial passou de um movimento fraco para oeste para um movimento forte para. O autor principal do estudo, Frederik Dahl Madsen, da Universidade de Edimburgo, Escola de Geociências, disse: “A reversão do fluxo em grande escala abaixo do Pacífico levanta.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Insights_into_Earth_s_molten_outer_core_from_space\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The liquid iron in Earth’s outer core doesn’t always behave as expected. When it changed direction in an unexplained way, ESA satellites provided data on the direction of flow, helping scientists gain better insight into the dynamics at. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The molten core, which swirls about 2200 km beneath our feet, generates Earth’s geomagnetic field as it moves. But satellites, including ESA’s Swarm and CryoSat, provided data that have now been analysed and published.</p><p>The study, in the Journal of Studies of Earth’s Deep Interior, analyses both ground observations and satellite data between 1997 and 2025. Data from ESA’s Swarm and Cryosat missions were used in the study as well as data from the German CHAMP mission and the Ørsted mission.</p><p>The research found that in 2010, a broad region of iron-rich fluid beneath the equatorial Pacific switched from moving weakly westwards to strongly eastwards. Lead author of the study, Frederik Dahl Madsen, of the University of Edinburgh, School of Geosciences, said, “The large-scale flow reversal beneath the Pacific raises new.</p><p>Launched in 2013, the three Swarm satellites carry highly sensitive magnetometers capable of mapping Earth’s magnetic field with exceptional precision. These observations enabled researchers to reconstruct evolving flow patterns at the core, mantle boundary and identify the sudden changes associated with the Pacific reversal and.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>According to ESA’s Swarm Mission Manager, Anja Stromme, the long-term dataset provided by Swarm is important for this study. She noted, “Although Swarm was launched after the dramatic reversal event of 2010, it has provided high-precision data that tell us about Earth’s inner core in the period that.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Insights_into_Earth_s_molten_outer_core_from_space\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: O ferro líquido no núcleo externo da Terra nem sempre se comporta como esperado. Quando mudou de direção de forma inexplicável, os satélites da ESA.",
-      "Dado-chave: O ferro líquido no núcleo externo da Terra nem sempre se comporta como esperado.",
+      "Dado-chave: O núcleo derretido, que gira cerca de 2.200 km sob nossos pés, gera o campo geomagnético da Terra à medida que se move.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: O ferro líquido no núcleo externo da Terra nem sempre se comporta como esperado. Quando mudou de direção de forma inexplicável, os satélites da ESA.",
-      "Dado-chave: O ferro líquido no núcleo externo da Terra nem sempre se comporta como esperado.",
+      "Dado-chave: O núcleo derretido, que gira cerca de 2.200 km sob nossos pés, gera o campo geomagnético da Terra à medida que se move.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: The liquid iron in Earth’s outer core doesn’t always behave as expected. When it changed direction in an unexplained way, ESA satellites provided.",
-      "Key detail: The liquid iron in Earth’s outer core doesn’t always behave as expected.",
+      "Key detail: The molten core, which swirls about 2200 km beneath our feet, generates Earth’s geomagnetic field as it moves.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "21 mai 2026",
@@ -2898,7 +3040,7 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "meet-regulus-leo-the-lion-s-heart-and-brightest-star",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3019,7 +3161,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "keeping-nasa-flying-ground-crews-ensure-aircraft-readiness",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3155,7 +3297,140 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 28,
+    "slug": "esa-s-prodex-programme-brings-scientific-research-to-space",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/4dspace-daedalus_ici-5b_mission/27267553-1-eng-GB/4DSpace-Daedalus_ICI-5b_mission_card_full.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/4dspace-daedalus_ici-5b_sounding_rocket/27267599-2-eng-GB/4DSpace-Daedalus_ICI-5b_sounding_rocket_article.jpg",
+        "caption": "Foguete de sondagem 4DSpace-Daedalus (ICI-5b)",
+        "caption_pt": "Foguete de sondagem 4DSpace-Daedalus (ICI-5b)",
+        "caption_en": "4DSpace-Daedalus (ICI-5b) sounding rocket",
+        "alt": "Foguete de sondagem 4DSpace-Daedalus (ICI-5b)",
+        "alt_pt": "Foguete de sondagem 4DSpace-Daedalus (ICI-5b)",
+        "alt_en": "4DSpace-Daedalus (ICI-5b) sounding rocket"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/02/optical_periscopic_imager_for_comets_opic/25484612-1-eng-GB/Optical_Periscopic_Imager_for_Comets_OPIC_article.jpg",
+        "caption": "Imageador Periscópico Óptico para Cometas (OPIC)",
+        "caption_pt": "Imageador Periscópico Óptico para Cometas (OPIC)",
+        "caption_en": "Optical Periscopic Imager for Comets (OPIC)",
+        "alt": "Imageador Periscópico Óptico para Cometas (OPIC)",
+        "alt_pt": "Imageador Periscópico Óptico para Cometas (OPIC)",
+        "alt_en": "Optical Periscopic Imager for Comets (OPIC)"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/dfp-a_instruments_for_the_comet_interceptor_mission/27275275-1-eng-GB/DFP-A_instruments_for_the_Comet_Interceptor_mission_article.jpg",
+        "caption": "Os instrumentos DFP-A construídos para a missão Comet Interceptor",
+        "caption_pt": "Os instrumentos DFP-A construídos para a missão Comet Interceptor",
+        "caption_en": "The DFP-A instruments built for the Comet Interceptor mission",
+        "alt": "Os instrumentos DFP-A construídos para a missão Comet Interceptor",
+        "alt_pt": "Os instrumentos DFP-A construídos para a missão Comet Interceptor",
+        "alt_en": "The DFP-A instruments built for the Comet Interceptor mission"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "O programa Prodex da ESA leva a investigação científica ao espaço",
+    "title_pt": "O programa Prodex da ESA leva a investigação científica ao espaço",
+    "title_en": "ESA’s Prodex programme brings scientific research to space",
+    "sub": "O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite que institutos de.",
+    "sub_pt": "O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite que institutos de.",
+    "sub_en": "The launch of the 4DSpace-Daedalus mission in Norway is the latest success supported by Prodex, a European Space Agency programme which enables highly skilled research institutes.",
+    "excerpt": "O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite que institutos de investigação altamente qualificados participem em atividades e missões científicas.",
+    "excerpt_pt": "O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite que institutos de investigação altamente qualificados participem em atividades e missões científicas.",
+    "excerpt_en": "The launch of the 4DSpace-Daedalus mission in Norway is the latest success supported by Prodex, a European Space Agency programme which enables highly skilled research institutes to partake in European space science activities and missions.",
+    "body": "<p>O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite que institutos de investigação altamente qualificados participem em atividades e missões científicas espaciais europeias. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia (ESA) que permite que institutos de. “A ESA gere atualmente mais de 400 contratos com institutos e indústria no âmbito do Prodex, Programa de Desenvolvimento de Experimentos Científicos.</p><p>“A Prodex apoia o desenvolvimento industrial de instrumentos científicos altamente sofisticados e experiências em ciência, observação da Terra e domínios de microgravidade para. Estamos também a desenvolver instrumentação e experiências para a Estação Espacial Internacional”, disse o Chefe do Gabinete Prodex da ESA, Michel Lazerges.</p><p>No Conselho Ministerial de 2025, 17 Estados-Membros da ESA comprometeram-se com um total de 327,52 milhões de euros para este programa opcional, um aumento de 38% em relação ao. O Prodex está a apoiar o desenvolvimento de instrumentos científicos para uma série de missões e atividades da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Business_with_ESA/ESA_s_Prodex_programme_brings_scientific_research_to_space\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite que institutos de investigação altamente qualificados participem em atividades e missões científicas espaciais europeias. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia (ESA) que permite que institutos de. “A ESA gere atualmente mais de 400 contratos com institutos e indústria no âmbito do Prodex, Programa de Desenvolvimento de Experimentos Científicos.</p><p>“A Prodex apoia o desenvolvimento industrial de instrumentos científicos altamente sofisticados e experiências em ciência, observação da Terra e domínios de microgravidade para. Estamos também a desenvolver instrumentação e experiências para a Estação Espacial Internacional”, disse o Chefe do Gabinete Prodex da ESA, Michel Lazerges.</p><p>No Conselho Ministerial de 2025, 17 Estados-Membros da ESA comprometeram-se com um total de 327,52 milhões de euros para este programa opcional, um aumento de 38% em relação ao. O Prodex está a apoiar o desenvolvimento de instrumentos científicos para uma série de missões e atividades da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Business_with_ESA/ESA_s_Prodex_programme_brings_scientific_research_to_space\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The launch of the 4DSpace-Daedalus mission in Norway is the latest success supported by Prodex, a European Space Agency programme which enables highly skilled research institutes to partake in European space science activities and missions. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The launch of the 4DSpace-Daedalus mission in Norway is the latest success supported by Prodex, a European Space Agency (ESA) programme which enables highly skilled research. “ESA currently manages over 400 contracts with institutes and industry within Prodex, the Programme for the development of scientific experiments.</p><p>“Prodex supports the industrial development of highly sophisticated scientific instruments and experiments in science, Earth observation and microgravity domains for ESA Science. We are also developing instrumentation and experiments for the International Space Station,” said ESA Head of the Prodex Office, Michel Lazerges.</p><p>At the Ministerial Council 2025, 17 ESA Member States pledged a total of €327.52 million to this optional programme, a 38% increase on the commitment given at the previous. Prodex is supporting the development of scientific instruments for a range of ESA missions and activities.</p><p>Some notable recent successes include: Norway’s space weather research, The 4DSpace-Daedalus (ICI-5b) mission was coordinated by Oslo University in Norway and funded partly by. The Norwegian 12m-long sounding rocket with on-board instruments and releasable subpayloads launched on 11 March from Norway’s Andøya Space Centre into an auroral substorm.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The data will be analysed and used in space weather research and to understand the fundamental processes in energy transfer and couplings within the upper polar atmosphere. Poland and Estonia’s comet interceptor instruments Poland’s DFP-B2 instrument developed by Space Research Centre Polish Academy of Science (Centrum Badań Kosmicznych PAN) and.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Business_with_ESA/ESA_s_Prodex_programme_brings_scientific_research_to_space\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite.",
+      "Dado-chave: O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia (ESA).",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite.",
+      "Dado-chave: O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia (ESA).",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The launch of the 4DSpace-Daedalus mission in Norway is the latest success supported by Prodex, a European Space Agency programme which enables.",
+      "Key detail: The launch of the 4DSpace-Daedalus mission in Norway is the latest success supported by Prodex, a European Space Agency (ESA) programme which.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "22 mai 2026",
+    "date_pt": "22 mai 2026",
+    "date_en": "22 May 2026",
+    "time": "16h10",
+    "time_pt": "16h10",
+    "time_en": "16:10 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-22T16:10:00+00:00",
+    "lastModifiedIso": "2026-05-22T16:10:00+00:00",
+    "source": "ESA Space Science",
+    "sourceDomain": "www.esa.int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "O programa Prodex da ESA leva a investigação científica ao espaço"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "O programa Prodex da ESA leva a investigação científica ao espaço"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Space Science",
+      "Cosmos Week",
+      "ESA's Prodex program takes scientific research into space"
+    ],
+    "srcUrl": "https://www.esa.int/About_Us/Business_with_ESA/ESA_s_Prodex_programme_brings_scientific_research_to_space",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-s-prodex-programme-brings-scientific-research-to-space",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-s-prodex-programme-brings-scientific-research-to-space",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-s-prodex-programme-brings-scientific-research-to-space&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 81,
+    "scoreBreakdown": {
+      "source": 90,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 29,
     "slug": "nasa-announces-realignment-to-accelerate-mission-delivery",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3260,7 +3535,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 30,
     "slug": "nasa-to-showcase-mission-to-boost-swift-spacecraft-s-orbit",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3365,7 +3640,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 31,
     "slug": "how-to-follow-the-smile-launch-live",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3470,7 +3745,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 32,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3606,7 +3881,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 33,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3733,7 +4008,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 34,
     "slug": "science-release-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3869,140 +4144,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
-    "slug": "new-material-could-help-nasa-melt-moon-rocks-harness-lunar-resources",
-    "cat": "Biologia",
-    "catCls": "biologia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/05/feature-image-grc-2024-c-11488.jpg?w=2048",
-    "inline_images": [
-      {
-        "src": "https://images-assets.nasa.gov/image/AFRC2026-0053-25/AFRC2026-0053-25~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/clusters/Hubble_MACSJ1141.6-1905_1reg_flat_FINAL.tif",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-1.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Novo material pode ajudar a NASA a derreter rochas lunares e aproveitar os recursos lunares",
-    "title_pt": "Novo material pode ajudar a NASA a derreter rochas lunares e aproveitar os recursos lunares",
-    "title_en": "New Material Could Help NASA Melt Moon Rocks, Harness Lunar Resources",
-    "sub": "Um material recentemente descoberto e testado no Centro de Pesquisa Glenn da NASA em Cleveland poderia ajudar os astronautas a embalar isqueiros para futuras missões à Lua. A NASA.",
-    "sub_pt": "Um material recentemente descoberto e testado no Centro de Pesquisa Glenn da NASA em Cleveland poderia ajudar os astronautas a embalar isqueiros para futuras missões à Lua. A NASA.",
-    "sub_en": "A material recently discovered and tested at NASA’s Glenn Research Center in Cleveland could help astronauts pack lighter for future missions to the Moon. NASA is researching ways.",
-    "excerpt": "Um material recentemente descoberto e testado no Centro de Pesquisa Glenn da NASA em Cleveland poderia ajudar os astronautas a embalar isqueiros para futuras missões à Lua. A NASA está pesquisando maneiras pelas quais os exploradores poderiam “viver da terra”.",
-    "excerpt_pt": "Um material recentemente descoberto e testado no Centro de Pesquisa Glenn da NASA em Cleveland poderia ajudar os astronautas a embalar isqueiros para futuras missões à Lua. A NASA está pesquisando maneiras pelas quais os exploradores poderiam “viver da terra”.",
-    "excerpt_en": "A material recently discovered and tested at NASA’s Glenn Research Center in Cleveland could help astronauts pack lighter for future missions to the Moon. NASA is researching ways explorers could “live off the land” by harnessing lunar.",
-    "body": "<p>Um material recentemente descoberto e testado no Centro de Pesquisa Glenn da NASA em Cleveland poderia ajudar os astronautas a embalar isqueiros para futuras missões à Lua. A NASA está pesquisando maneiras pelas quais os exploradores poderiam “viver da terra” aproveitando a lua. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Kevin yu Tecnólogo do Laboratório de Propulsão a Jato da NASA Cerca de seis meses após o início de sua pesquisa, Stokes e Yu perceberam que haviam encontrado algo promissor e. Uma amostra do novo material descoberto pelos pesquisadores no Centro de Pesquisa Glenn da NASA, em Cleveland, fica dentro de um cadinho de platina, ou recipiente resistente ao.</p><p>“Ele tem um indicador de cor integrado, então, quando você termina de usá-lo, ele muda para uma cor bege claro ou bege, e é assim que você sabe que a reação ocorreu da maneira que. Kevin Yu posa para um retrato dentro de um laboratório no Glenn Research Center da NASA em Cleveland, em outubro de 2024.</p><p>Jamesa estimula o engenheiro de pesquisa de materiais da NASA Glenn O estudo de novos materiais também promove o trabalho da NASA na Terra. Para obter mais informações, visite: https: //www. nasa. gov/ Detalhes do compartilhamento Última atualização em 22 de maio de.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/new-material-melt-moon-rocks/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Um material recentemente descoberto e testado no Centro de Pesquisa Glenn da NASA em Cleveland poderia ajudar os astronautas a embalar isqueiros para futuras missões à Lua. A NASA está pesquisando maneiras pelas quais os exploradores poderiam “viver da terra” aproveitando a lua. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Kevin yu Tecnólogo do Laboratório de Propulsão a Jato da NASA Cerca de seis meses após o início de sua pesquisa, Stokes e Yu perceberam que haviam encontrado algo promissor e. Uma amostra do novo material descoberto pelos pesquisadores no Centro de Pesquisa Glenn da NASA, em Cleveland, fica dentro de um cadinho de platina, ou recipiente resistente ao.</p><p>“Ele tem um indicador de cor integrado, então, quando você termina de usá-lo, ele muda para uma cor bege claro ou bege, e é assim que você sabe que a reação ocorreu da maneira que. Kevin Yu posa para um retrato dentro de um laboratório no Glenn Research Center da NASA em Cleveland, em outubro de 2024.</p><p>Jamesa estimula o engenheiro de pesquisa de materiais da NASA Glenn O estudo de novos materiais também promove o trabalho da NASA na Terra. Para obter mais informações, visite: https: //www. nasa. gov/ Detalhes do compartilhamento Última atualização em 22 de maio de.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/new-material-melt-moon-rocks/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A material recently discovered and tested at NASA’s Glenn Research Center in Cleveland could help astronauts pack lighter for future missions to the Moon. NASA is researching ways explorers could “live off the land” by harnessing lunar. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. Kevin yu Technologist at NASA&#x27;s Jet Propulsion Laboratory About six months into their research, Stokes and Yu realized they’d stumbled across something promising and entirely new. A sample of the new material researchers discovered at NASA’s Glenn Research Center in Cleveland sits inside a platinum crucible, or heat-resistant container, after being removed.</p><p>“It has a built-in color indicator, so by the time you’re done with it, it turns to a light beige or tan color, and that’s how you know the reaction has proceeded the way you. Kevin Yu pose for a portrait inside of a laboratory at NASA’s Glenn Research Center in Cleveland in October 2024.</p><p>Jamesa stokes Materials Research Engineer at NASA Glenn Studying new materials also advances NASA’s work on Earth. Https: //www. nasa. gov/ Share Details Last Updated May 22.</p><p>Experts at Glenn Research Center in Cleveland recently discovered and tested a new material that could help NASA harness resources during future Moon missions. Jamesa Stokes prepare to remove a sample of a new material they discovered from a furnace inside a laboratory at NASA’s Glenn Research Center in Cleveland in October 2024.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>The researchers checked and double-checked their work, but the material didn’t match any of the more than 1 million substances in their X-ray analysis database. To make small, isolated samples and continue testing how it reacted with molten Moon dust, they used special grinding and mixing equipment in their laboratory to crush up around.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/new-material-melt-moon-rocks/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Um material recentemente descoberto e testado no Centro de Pesquisa Glenn da NASA em Cleveland poderia ajudar os astronautas a embalar isqueiros para.",
-      "Dado-chave: kevin yu Tecnólogo do Laboratório de Propulsão a Jato da NASA Cerca de seis meses após o início de sua pesquisa, Stokes e Yu perceberam que.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Um material recentemente descoberto e testado no Centro de Pesquisa Glenn da NASA em Cleveland poderia ajudar os astronautas a embalar isqueiros para.",
-      "Dado-chave: kevin yu Tecnólogo do Laboratório de Propulsão a Jato da NASA Cerca de seis meses após o início de sua pesquisa, Stokes e Yu perceberam que.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A material recently discovered and tested at NASA’s Glenn Research Center in Cleveland could help astronauts pack lighter for future missions to the.",
-      "Key detail: kevin yu Technologist at NASA's Jet Propulsion Laboratory About six months into their research, Stokes and Yu realized they’d stumbled across.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "22 mai 2026",
-    "date_pt": "22 mai 2026",
-    "date_en": "22 May 2026",
-    "time": "14h00",
-    "time_pt": "14h00",
-    "time_en": "14:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-22T14:00:00+00:00",
-    "lastModifiedIso": "2026-05-22T14:00:00+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Biologia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Novo material pode ajudar a NASA a derreter rochas lunares e aproveitar os recursos lunares"
-    ],
-    "keywords_pt": [
-      "Biologia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Novo material pode ajudar a NASA a derreter rochas lunares e aproveitar os recursos lunares"
-    ],
-    "keywords_en": [
-      "Biology",
-      "NASA News Releases",
-      "Cosmos Week",
-      "New material could help NASA melt lunar rocks and harness lunar resources"
-    ],
-    "srcUrl": "https://www.nasa.gov/general/new-material-melt-moon-rocks/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=new-material-could-help-nasa-melt-moon-rocks-harness-lunar-resources",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=new-material-could-help-nasa-melt-moon-rocks-harness-lunar-resources",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=new-material-could-help-nasa-melt-moon-rocks-harness-lunar-resources&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 78,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 34,
+    "id": 35,
     "slug": "nsf-doe-vera-c-rubin-observatory-launches-real-time-discovery-machine-for-monitoring-the-night-s",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4151,7 +4293,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "join-esa-for-a-total-solar-eclipse-on-12-august-2026",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4287,7 +4429,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "this-week-s-sky-at-a-glance-may-22-31",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4423,7 +4565,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "nereid-could-be-neptune-s-only-original-moon",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4538,7 +4680,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 39,
     "slug": "stonehenge-and-the-geometry-of-the-sky",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4671,7 +4813,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 40,
     "slug": "waterworn-chaos-on-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4771,139 +4913,6 @@ window.postsData = [
       "source": 90,
       "evidence": 88,
       "relevance": 70,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 40,
-    "slug": "what-s-feeding-our-supermassive-black-hole",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://dq0hsqwjhea1.cloudfront.net/eso1151b.jpg",
-    "inline_images": [
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/G2cloud.jpg",
-        "caption": "Esta imagem composta mostra o movimento da nuvem de poeira G2 à medida que se aproximava e depois passava pelo buraco negro supermassivo no centro da Via Láctea. ESO / A. Eckart",
-        "caption_pt": "Esta imagem composta mostra o movimento da nuvem de poeira G2 à medida que se aproximava e depois passava pelo buraco negro supermassivo no centro da Via Láctea. ESO / A. Eckart",
-        "caption_en": "This composite image shows the motion of the dusty G2 cloud as it closed in on, and then passed, the supermassive black hole at the center of the Milky Way. ESO / A. Eckart",
-        "alt": "Nuvem G2 observada de 2006 a 2014",
-        "alt_pt": "Nuvem G2 observada de 2006 a 2014",
-        "alt_en": "G2 cloud observed from 2006 to 2014"
-      },
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/eso1332e.jpg",
-        "caption": "Estas observações obtidas com o Very Large Telescope do ESO, utilizando o instrumento SINFONI, mostram a nuvem de gás G2 a esticar-se à medida que passava perto de Sgr A*. O eixo horizontal mostra a extensão da nuvem ao longo de sua órbita e o eixo vertical.",
-        "caption_pt": "Estas observações obtidas com o Very Large Telescope do ESO, utilizando o instrumento SINFONI, mostram a nuvem de gás G2 a esticar-se à medida que passava perto de Sgr A*. O eixo horizontal mostra a extensão da nuvem ao longo de sua órbita e o eixo vertical.",
-        "caption_en": "These observations from ESO’s Very Large Telescope, using the SINFONI instrument, show the G2 gas cloud being stretched as it passed close to Sgr A*. The horizontal axis shows the extent of the cloud along its orbit and the vertical axis.",
-        "alt": "Os dados mostraram alongamento (espaguetificação) de G2 à medida que se aproximava do buraco negro",
-        "alt_pt": "Os dados mostraram alongamento (espaguetificação) de G2 à medida que se aproximava do buraco negro",
-        "alt_en": "Data showed elongation (spaghettification) of G2 as it approached the black hole"
-      },
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/G2-orbit.webp",
-        "caption": "Este diagrama mostra a órbita de G2 sobreposta a uma imagem no infravermelho próximo da região em torno de Sgr A* (marcada com uma cruz). As estrelas aparecem como manchas brancas cercadas por vermelho e o sistema estelar binário IRS 16SW, de onde podem surgir as nuvens G.",
-        "caption_pt": "Este diagrama mostra a órbita de G2 sobreposta a uma imagem no infravermelho próximo da região em torno de Sgr A* (marcada com uma cruz). As estrelas aparecem como manchas brancas cercadas por vermelho e o sistema estelar binário IRS 16SW, de onde podem surgir as nuvens G.",
-        "caption_en": "This diagram shows the orbit of G2 superimposed on a near-infrared image of the region around Sgr A* (marked with a cross). Stars appear as white blotches surrounded by red, and the binary star system IRS 16SW, from which the G-clouds may.",
-        "alt": "Imagem mostrando a órbita de G2 em relação a Sgr A* e em relação ao sistema binário IRS 16SW",
-        "alt_pt": "Imagem mostrando a órbita de G2 em relação a Sgr A* e em relação ao sistema binário IRS 16SW",
-        "alt_en": "Image showing the orbit of G2 relative to Sgr A* and relative to the binary system IRS 16SW"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "O que está alimentando nosso buraco negro supermassivo?",
-    "title_pt": "O que está alimentando nosso buraco negro supermassivo?",
-    "title_en": "What's Feeding Our Supermassive Black Hole?",
-    "sub": "Os astrónomos identificaram a provável fonte de gás que flui para a boca do buraco negro central da Via Láctea, Sagitário A*. O post O que está alimentando nosso buraco negro.",
-    "sub_pt": "Os astrónomos identificaram a provável fonte de gás que flui para a boca do buraco negro central da Via Láctea, Sagitário A*. O post O que está alimentando nosso buraco negro.",
-    "sub_en": "Astronomers have identified the likely source of gas that flows into the maw of the Milky Way’s central black hole, Sagittarius A*. The post What's Feeding Our Supermassive Black.",
-    "excerpt": "Os astrónomos identificaram a provável fonte de gás que flui para a boca do buraco negro central da Via Láctea, Sagitário A*. O post O que está alimentando nosso buraco negro supermassivo? apareceu primeiro em Sky & Telescope.",
-    "excerpt_pt": "Os astrónomos identificaram a provável fonte de gás que flui para a boca do buraco negro central da Via Láctea, Sagitário A*. O post O que está alimentando nosso buraco negro supermassivo? apareceu primeiro em Sky & Telescope.",
-    "excerpt_en": "Astronomers have identified the likely source of gas that flows into the maw of the Milky Way’s central black hole, Sagittarius A*. The post What's Feeding Our Supermassive Black Hole? appeared first on Sky & Telescope.",
-    "body": "<p>Os astrónomos identificaram a provável fonte de gás que flui para a boca do buraco negro central da Via Láctea, Sagitário A*. O post O que está alimentando nosso buraco negro supermassivo? apareceu primeiro em Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Uma estrela binária, IRS 16SW, orbita Sgr A* a apenas 19.000 unidades astronômicas de distância, aproximadamente a distância da Nuvem de Oort de cometas ao Sol. Estas “estrelas S” residem perto de Sgr A*, a distâncias inferiores a 0,03 anos-luz.</p><p>(Outras nuvens G também foram observadas, mas estas parecem estar noutras órbitas.) Em 2014, G2 sobreviveu ao seu encontro mais próximo com o buraco negro, tornando-se algo. A equipe de Gillessen considera esta família de nuvens G, G1, G2 e G3, como parte de uma estrutura coerente, parte de um fluxo contínuo de gás que conecta as nuvens enquanto.</p><p>Os investigadores também analisaram os movimentos das estrelas que orbitam o buraco negro a distâncias inferiores a 1 ano-luz, um pouco mais distantes do que as estrelas S. Eles descobriram que os movimentos das nuvens correspondem à órbita do binário próximo IRS 16SW.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/whats-feeding-our-supermassive-black-hole/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os astrónomos identificaram a provável fonte de gás que flui para a boca do buraco negro central da Via Láctea, Sagitário A*. O post O que está alimentando nosso buraco negro supermassivo? apareceu primeiro em Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Uma estrela binária, IRS 16SW, orbita Sgr A* a apenas 19.000 unidades astronômicas de distância, aproximadamente a distância da Nuvem de Oort de cometas ao Sol. Estas “estrelas S” residem perto de Sgr A*, a distâncias inferiores a 0,03 anos-luz.</p><p>(Outras nuvens G também foram observadas, mas estas parecem estar noutras órbitas.) Em 2014, G2 sobreviveu ao seu encontro mais próximo com o buraco negro, tornando-se algo. A equipe de Gillessen considera esta família de nuvens G, G1, G2 e G3, como parte de uma estrutura coerente, parte de um fluxo contínuo de gás que conecta as nuvens enquanto.</p><p>Os investigadores também analisaram os movimentos das estrelas que orbitam o buraco negro a distâncias inferiores a 1 ano-luz, um pouco mais distantes do que as estrelas S. Eles descobriram que os movimentos das nuvens correspondem à órbita do binário próximo IRS 16SW.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/whats-feeding-our-supermassive-black-hole/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Identified the likely source of gas that flows into the maw of the Milky Way’s central black hole, Sagittarius A*. The post What&#x27;s Feeding Our Supermassive Black Hole? appeared first on Sky &amp; Telescope. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. A binary star, IRS 16SW, orbits Sgr A* from just 19,000 astronomical units away, about the distance of the Oort Cloud of comets from the Sun. These “S-stars” reside close to Sgr A*, at distances of less than 0.03 light-years.</p><p>( Other G-clouds have also been observed, but those seem to be on other orbits.) In 2014, G2 survived its closest encounter with the black hole, becoming somewhat “spaghettified”. Gillessen’s team n considers this family of G clouds, G1, G2, and G3, to be part of a coherent structure, part of a continuous stream of gas that connects the clouds as they orbit.</p><p>The researchers also analyzed the motions of stars orbiting the black hole at distances of less than 1 light-year, a bit farther away than the S-stars. They found that the clouds’ motions match the orbit of the close binary IRS 16SW.</p><p>IRS 16SW is a pair of two hot stars, each about 50 times as massive as the Sun. They orbit each other in just 19 days, which means they’re so close to each other that their atmospheres partially overlap.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>The researchers think that these shocks condense into clumps of gas every 10 to 20 years, each clump containing a few times Earth’s mass. IRS 16SW is thus the likely origin of the entire stream of G-clouds that’s the main food source for Sgr A*.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/whats-feeding-our-supermassive-black-hole/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os astrónomos identificaram a provável fonte de gás que flui para a boca do buraco negro central da Via Láctea, Sagitário A*. O post O que está.",
-      "Dado-chave: Uma estrela binária, IRS 16SW, orbita Sgr A* a apenas 19.000 unidades astronômicas de distância, aproximadamente a distância da Nuvem de Oort de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os astrónomos identificaram a provável fonte de gás que flui para a boca do buraco negro central da Via Láctea, Sagitário A*. O post O que está.",
-      "Dado-chave: Uma estrela binária, IRS 16SW, orbita Sgr A* a apenas 19.000 unidades astronômicas de distância, aproximadamente a distância da Nuvem de Oort de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Astronomers have identified the likely source of gas that flows into the maw of the Milky Way’s central black hole, Sagittarius A*. The post What's.",
-      "Key detail: A binary star, IRS 16SW, orbits Sgr A* from just 19,000 astronomical units away, about the distance of the Oort Cloud of comets from the Sun.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "18 mai 2026",
-    "date_pt": "18 mai 2026",
-    "date_en": "18 May 2026",
-    "time": "13h00",
-    "time_pt": "13h00",
-    "time_en": "13:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-18T13:00:00+00:00",
-    "lastModifiedIso": "2026-05-18T13:00:00+00:00",
-    "source": "Sky & Telescope",
-    "sourceDomain": "skyandtelescope.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "O que está alimentando nosso buraco negro supermassivo?"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "O que está alimentando nosso buraco negro supermassivo?"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "What's Powering Our Supermassive Black Hole?"
-    ],
-    "srcUrl": "https://skyandtelescope.org/astronomy-news/whats-feeding-our-supermassive-black-hole/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=what-s-feeding-our-supermassive-black-hole",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=what-s-feeding-our-supermassive-black-hole",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=what-s-feeding-our-supermassive-black-hole&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 74,
-      "evidence": 82,
-      "relevance": 88,
       "accessibility": 60,
       "novelty": 46
     }

@@ -40,14 +40,14 @@ window.postsData = [
     "date": "25 mai 2026",
     "date_pt": "25 mai 2026",
     "date_en": "25 May 2026",
-    "time": "17h50",
-    "time_pt": "17h50",
-    "time_en": "17:50 UTC",
+    "time": "19h55",
+    "time_pt": "19h55",
+    "time_en": "19:55 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-25T17:50:49.298335+00:00",
-    "lastModifiedIso": "2026-05-25T17:50:49.298335+00:00",
+    "publishedIso": "2026-05-25T19:55:24.611746+00:00",
+    "lastModifiedIso": "2026-05-25T19:55:24.611746+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "25 mai 2026",
     "date_pt": "25 mai 2026",
     "date_en": "25 May 2026",
-    "time": "17h50",
-    "time_pt": "17h50",
-    "time_en": "17:50 UTC",
+    "time": "19h55",
+    "time_pt": "19h55",
+    "time_en": "19:55 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-25T17:50:49.298285+00:00",
-    "lastModifiedIso": "2026-05-25T17:50:49.298285+00:00",
+    "publishedIso": "2026-05-25T19:55:24.611703+00:00",
+    "lastModifiedIso": "2026-05-25T19:55:24.611703+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -253,14 +253,14 @@ window.postsData = [
     "date": "25 mai 2026",
     "date_pt": "25 mai 2026",
     "date_en": "25 May 2026",
-    "time": "17h50",
-    "time_pt": "17h50",
-    "time_en": "17:50 UTC",
+    "time": "19h55",
+    "time_pt": "19h55",
+    "time_en": "19:55 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-25T17:50:49.298241+00:00",
-    "lastModifiedIso": "2026-05-25T17:50:49.298241+00:00",
+    "publishedIso": "2026-05-25T19:55:24.611652+00:00",
+    "lastModifiedIso": "2026-05-25T19:55:24.611652+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -364,14 +364,14 @@ window.postsData = [
     "date": "25 mai 2026",
     "date_pt": "25 mai 2026",
     "date_en": "25 May 2026",
-    "time": "17h50",
-    "time_pt": "17h50",
-    "time_en": "17:50 UTC",
+    "time": "19h55",
+    "time_pt": "19h55",
+    "time_en": "19:55 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-25T17:50:49.298197+00:00",
-    "lastModifiedIso": "2026-05-25T17:50:49.298197+00:00",
+    "publishedIso": "2026-05-25T19:55:24.611600+00:00",
+    "lastModifiedIso": "2026-05-25T19:55:24.611600+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -472,14 +472,14 @@ window.postsData = [
     "date": "25 mai 2026",
     "date_pt": "25 mai 2026",
     "date_en": "25 May 2026",
-    "time": "17h50",
-    "time_pt": "17h50",
-    "time_en": "17:50 UTC",
+    "time": "19h55",
+    "time_pt": "19h55",
+    "time_en": "19:55 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-25T17:50:49.298153+00:00",
-    "lastModifiedIso": "2026-05-25T17:50:49.298153+00:00",
+    "publishedIso": "2026-05-25T19:55:24.611564+00:00",
+    "lastModifiedIso": "2026-05-25T19:55:24.611564+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -540,6 +540,130 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "early-life-on-earth-may-have-thrived-in-impact-craters",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.universetoday.com/article_images/Space_Safety_Programme_-_Near_Earth_Objects_20260112_185550_20260525_173120.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/stromatolite_sample_sites_20260525_162632.jpg",
+        "caption": "Esta imagem mostra locais onde os investigadores perfuraram abaixo da cratera para determinar que se tratava de um local de impacto (marcado com CR). Ele também mostra locais de amostragem de estromatólitos (STR e MGS), local de depósito em encosta (SD), limite de palaeolake (PL).",
+        "caption_pt": "Esta imagem mostra locais onde os investigadores perfuraram abaixo da cratera para determinar que se tratava de um local de impacto (marcado com CR). Ele também mostra locais de amostragem de estromatólitos (STR e MGS), local de depósito em encosta (SD), limite de palaeolake (PL).",
+        "caption_en": "This image shows sites where the researchers drilled beneath the crater to determine that it was an impact site (marked with CR). It also shows stromatolite sampling sites (STR and MGS), slope deposit (SD) site, palaeolake (PL) boundary.",
+        "alt": "Esta imagem mostra locais onde os investigadores perfuraram abaixo da cratera para determinar que se tratava de um local de impacto (marcado com CR). Ele também mostra locais de amostragem de estromatólitos (STR e MGS), local de depósito em encosta (SD), limite de palaeolake (PL).",
+        "alt_pt": "Esta imagem mostra locais onde os investigadores perfuraram abaixo da cratera para determinar que se tratava de um local de impacto (marcado com CR). Ele também mostra locais de amostragem de estromatólitos (STR e MGS), local de depósito em encosta (SD), limite de palaeolake (PL).",
+        "alt_en": "This image shows sites where the researchers drilled beneath the crater to determine that it was an impact site (marked with CR). It also shows stromatolite sampling sites (STR and MGS), slope deposit (SD) site, palaeolake (PL) boundary."
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/43247_2026_3206_Figa_HTML_20260525_172640.jpg",
+        "caption": "Esta ilustração mostra um impactor atingindo a Terra e um lago se formando na cratera. O impacto criou um sistema hidrotérmico que sobrecarregou o crescimento de estromatólitos produtores de oxigênio. Se esse fenômeno fosse generalizado no.",
+        "caption_pt": "Esta ilustração mostra um impactor atingindo a Terra e um lago se formando na cratera. O impacto criou um sistema hidrotérmico que sobrecarregou o crescimento de estromatólitos produtores de oxigênio. Se esse fenômeno fosse generalizado no.",
+        "caption_en": "This illustration shows an impactor slamming into Earth, and a lake forming in the crater. The impact created a hydrothermal system which supercharged the growth of oxygen-producing stromatolites. If this phenomenon was widespread on the.",
+        "alt": "Esta ilustração mostra um impactor atingindo a Terra e um lago se formando na cratera. O impacto criou um sistema hidrotérmico que sobrecarregou o crescimento de estromatólitos produtores de oxigênio. Se esse fenômeno fosse generalizado no.",
+        "alt_pt": "Esta ilustração mostra um impactor atingindo a Terra e um lago se formando na cratera. O impacto criou um sistema hidrotérmico que sobrecarregou o crescimento de estromatólitos produtores de oxigênio. Se esse fenômeno fosse generalizado no.",
+        "alt_en": "This illustration shows an impactor slamming into Earth, and a lake forming in the crater. The impact created a hydrothermal system which supercharged the growth of oxygen-producing stromatolites. If this phenomenon was widespread on the."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "O início da vida na Terra pode ter prosperado em crateras de impacto",
+    "title_pt": "O início da vida na Terra pode ter prosperado em crateras de impacto",
+    "title_en": "Early Life on Earth May Have Thrived in Impact Craters",
+    "sub": "Uma equipa de cientistas sul-coreanos descobriu novas evidências que podem ajudar a explicar como a atmosfera da Terra se tornou rica em oxigénio, um dos eventos mais.",
+    "sub_pt": "Uma equipa de cientistas sul-coreanos descobriu novas evidências que podem ajudar a explicar como a atmosfera da Terra se tornou rica em oxigénio, um dos eventos mais.",
+    "sub_en": "A team of South Korean scientists has uncovered new evidence that could help explain how Earth’s atmosphere became rich in oxygen, one of the most transformative events in the.",
+    "excerpt": "Uma equipa de cientistas sul-coreanos descobriu novas evidências que podem ajudar a explicar como a atmosfera da Terra se tornou rica em oxigénio, um dos eventos mais transformadores da história do planeta. Pesquisadores do Instituto Coreano de.",
+    "excerpt_pt": "Uma equipa de cientistas sul-coreanos descobriu novas evidências que podem ajudar a explicar como a atmosfera da Terra se tornou rica em oxigénio, um dos eventos mais transformadores da história do planeta. Pesquisadores do Instituto Coreano de.",
+    "excerpt_en": "A team of South Korean scientists has uncovered new evidence that could help explain how Earth’s atmosphere became rich in oxygen, one of the most transformative events in the planet’s history. Researchers from the Korea Institute of.",
+    "body": "<p>Uma equipa de cientistas sul-coreanos descobriu novas evidências que podem ajudar a explicar como a atmosfera da Terra se tornou rica em oxigénio, um dos eventos mais transformadores da história do planeta. Pesquisadores do Instituto Coreano de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Embora a cratera Hapcheon tenha apenas cerca de 40.000 anos, ela mostra como os estromatólitos foram impulsionados pelo calor nos sistemas hidrotérmicos das crateras de impacto. Quando o oxigênio livre se acumulou na atmosfera da Terra durante o Grande Evento de Oxigenação (GOE), o curso da vida na Terra mudou para sempre.</p><p>Em uma nova pesquisa, cientistas do Instituto Coreano de Geociências e Recursos Minerais (KIGAM) encontraram estromatólitos fossilizados na cratera de impacto Hapcheon, o único. Embora a cratera Hapcheon tenha apenas cerca de 42.000 anos, a descoberta de estromatólitos é uma janela para a Terra primitiva, quando as cianobactérias estromatólitas oxigenavam.</p><p>O artigo de pesquisa é intitulado “Descoberta da formação de estromatólitos em ambientes lacustres hidrotermais pós-impacto e suas implicações para a Terra primitiva”, e foi.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/early-life-on-earth-may-have-thrived-in-impact-craters\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma equipa de cientistas sul-coreanos descobriu novas evidências que podem ajudar a explicar como a atmosfera da Terra se tornou rica em oxigénio, um dos eventos mais transformadores da história do planeta. Pesquisadores do Instituto Coreano de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Embora a cratera Hapcheon tenha apenas cerca de 40.000 anos, ela mostra como os estromatólitos foram impulsionados pelo calor nos sistemas hidrotérmicos das crateras de impacto. Quando o oxigênio livre se acumulou na atmosfera da Terra durante o Grande Evento de Oxigenação (GOE), o curso da vida na Terra mudou para sempre.</p><p>Em uma nova pesquisa, cientistas do Instituto Coreano de Geociências e Recursos Minerais (KIGAM) encontraram estromatólitos fossilizados na cratera de impacto Hapcheon, o único. Embora a cratera Hapcheon tenha apenas cerca de 42.000 anos, a descoberta de estromatólitos é uma janela para a Terra primitiva, quando as cianobactérias estromatólitas oxigenavam.</p><p>O artigo de pesquisa é intitulado “Descoberta da formação de estromatólitos em ambientes lacustres hidrotermais pós-impacto e suas implicações para a Terra primitiva”, e foi.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/early-life-on-earth-may-have-thrived-in-impact-craters\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A team of South Korean scientists has uncovered new evidence that could help explain how Earth’s atmosphere became rich in oxygen, one of the most transformative events in the planet’s history. Researchers from the Korea Institute of. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. While the Hapcheon crater is only about 40,000 years old, it shows how stromatolites got a boost from the heat in impact crater hydrothermal systems. When free oxygen accumulated in Earth&#x27;s atmosphere during the Great Oxygenation Event (GOE), the course of life on Earth changed forever.</p><p>In new research, scientists from the Korea Institute of Geoscience and Mineral Resources (KIGAM) found fossilized stromatolites in the Hapcheon impact crater, the only confirmed. While the Hapcheon crater is only about 42,000 years old, finding stromatolites there is a window into the early Earth, when stromatolite cyanobacteria slowly oxygenated Earth&#x27;s.</p><p>The research article is titled &quot; Discovery of stromatolite formation in post-impact hydrothermal lacustrine environments and its implications for early Earth,&quot; and it&#x27;s published. Understanding asteroid-collision-generated extreme environments, including hydrothermal activity, is crucial for gaining insights into biological evolution on the early Earth,&quot;.</p><p>Considering the frequency of asteroid collisions during the early Earth, stromatolite blooms in impact craters could be one of the active oxygen oases that led to the creation of. It&#x27;s hypothesized to have occurred between 4.1 to 3.8 billion years ago, and also affected Mars, Venus, and the Moon.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Research shows that the LHB would&#x27;ve created tens of thousands of craters on Earth, with the largest being about 5,000 km in diameter, though evidence of these craters is long. The results presented here support this possibility and demonstrate that impact-generated hydrothermal activity in early post-impact lake environments could have facilitated.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/early-life-on-earth-may-have-thrived-in-impact-craters\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Uma equipa de cientistas sul-coreanos descobriu novas evidências que podem ajudar a explicar como a atmosfera da Terra se tornou rica em oxigénio, um.",
+      "Dado-chave: Uma equipa de cientistas sul-coreanos descobriu novas evidências que podem ajudar a explicar como a atmosfera da Terra se tornou rica em.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Uma equipa de cientistas sul-coreanos descobriu novas evidências que podem ajudar a explicar como a atmosfera da Terra se tornou rica em oxigénio, um.",
+      "Dado-chave: Uma equipa de cientistas sul-coreanos descobriu novas evidências que podem ajudar a explicar como a atmosfera da Terra se tornou rica em.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: A team of South Korean scientists has uncovered new evidence that could help explain how Earth’s atmosphere became rich in oxygen, one of the most.",
+      "Key detail: A team of South Korean scientists has uncovered new evidence that could help explain how Earth’s atmosphere became rich in oxygen, one of the.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "25 mai 2026",
+    "date_pt": "25 mai 2026",
+    "date_en": "25 May 2026",
+    "time": "18h25",
+    "time_pt": "18h25",
+    "time_en": "18:25 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-25T18:25:20+00:00",
+    "lastModifiedIso": "2026-05-25T18:25:20+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "Universe Today",
+      "Cosmos Week",
+      "O início da vida na Terra pode ter prosperado em crateras de impacto"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "Universe Today",
+      "Cosmos Week",
+      "O início da vida na Terra pode ter prosperado em crateras de impacto"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "Universe Today",
+      "Cosmos Week",
+      "Early life on Earth may have thrived in impact craters"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/early-life-on-earth-may-have-thrived-in-impact-craters",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=early-life-on-earth-may-have-thrived-in-impact-craters",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=early-life-on-earth-may-have-thrived-in-impact-craters",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=early-life-on-earth-may-have-thrived-in-impact-craters&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 88,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "universe-s-most-distant-hot-dog-yet-may-owe-extreme-infrared-glow-to-polar-dust-webb-reveals",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -661,7 +785,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -675,7 +799,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "new-material-could-help-nasa-melt-moon-rocks-harness-lunar-resources",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -808,7 +932,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "a-beautiful-death-how-a-dying-star-created-the-crystal-ball-nebula",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -957,7 +1081,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "mars-fungi-could-make-red-planet-regolith-fertile-for-crops",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1098,124 +1222,6 @@ window.postsData = [
       "source": 76,
       "evidence": 82,
       "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "sun-news-coronal-hole-s-fast-winds-could-disturb-the-peace",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2026/05/ParkerSP-Dec2024-Wispr-SVS.webp",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Notícias do Sun: Os ventos rápidos do buraco coronal podem perturbar a paz",
-    "title_pt": "Notícias do Sun: Os ventos rápidos do buraco coronal podem perturbar a paz",
-    "title_en": "Sun news: Coronal hole’s fast winds could disturb the peace",
-    "sub": "O sol está calmo hoje, mas o rápido vento solar vindo de um buraco coronal pode trazer alguma emoção à Terra nos próximos dias. As notícias pós-Sol: Os ventos rápidos do buraco.",
-    "sub_pt": "O sol está calmo hoje, mas o rápido vento solar vindo de um buraco coronal pode trazer alguma emoção à Terra nos próximos dias. As notícias pós-Sol: Os ventos rápidos do buraco.",
-    "sub_en": "The sun is quiet today, but fast solar wind from a coronal hole could bring some excitement to Earth in the coming days. The post Sun news: Coronal hole’s fast winds could disturb.",
-    "excerpt": "O sol está calmo hoje, mas o rápido vento solar vindo de um buraco coronal pode trazer alguma emoção à Terra nos próximos dias. As notícias pós-Sol: Os ventos rápidos do buraco coronal podem perturbar a paz apareceu pela primeira vez no EarthSky.",
-    "excerpt_pt": "O sol está calmo hoje, mas o rápido vento solar vindo de um buraco coronal pode trazer alguma emoção à Terra nos próximos dias. As notícias pós-Sol: Os ventos rápidos do buraco coronal podem perturbar a paz apareceu pela primeira vez no EarthSky.",
-    "excerpt_en": "The sun is quiet today, but fast solar wind from a coronal hole could bring some excitement to Earth in the coming days. The post Sun news: Coronal hole’s fast winds could disturb the peace first appeared on EarthSky.",
-    "body": "<p>O sol está calmo hoje, mas o rápido vento solar vindo de um buraco coronal pode trazer alguma emoção à Terra nos próximos dias. As notícias pós-Sol: Os ventos rápidos do buraco coronal podem perturbar a paz apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Notícias do Sol para 25 de maio de 2026: O sol está calmo hoje, mas o vento solar rápido vindo de um buraco coronal pode trazer alguma emoção à Terra nos próximos dias. Este vídeo do Scientific Visualization Studio da NASA destaca imagens impressionantes capturadas pela Parker Solar Probe da NASA durante sua passagem recorde pelo Sol em 2024.</p><p>Observamos apenas 6 erupções C (comuns), enquanto a velocidade do vento solar permaneceu lenta. Uma corrente de vento solar de alta velocidade proveniente de um buraco coronal deverá chegar no final de 26 de maio até 27 de maio, potencialmente perturbando o nosso campo.</p><p>Regiões de manchas solares O disco solar voltado para a Terra mostra atualmente 9 regiões ativas numeradas. Campo magnético da Terra Durante o último dia, o campo magnético da Terra permaneceu quieto (Kp 0, 2).</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O sol está calmo hoje, mas o rápido vento solar vindo de um buraco coronal pode trazer alguma emoção à Terra nos próximos dias. As notícias pós-Sol: Os ventos rápidos do buraco coronal podem perturbar a paz apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Notícias do Sol para 25 de maio de 2026: O sol está calmo hoje, mas o vento solar rápido vindo de um buraco coronal pode trazer alguma emoção à Terra nos próximos dias. Este vídeo do Scientific Visualization Studio da NASA destaca imagens impressionantes capturadas pela Parker Solar Probe da NASA durante sua passagem recorde pelo Sol em 2024.</p><p>Observamos apenas 6 erupções C (comuns), enquanto a velocidade do vento solar permaneceu lenta. Uma corrente de vento solar de alta velocidade proveniente de um buraco coronal deverá chegar no final de 26 de maio até 27 de maio, potencialmente perturbando o nosso campo.</p><p>Regiões de manchas solares O disco solar voltado para a Terra mostra atualmente 9 regiões ativas numeradas. Campo magnético da Terra Durante o último dia, o campo magnético da Terra permaneceu quieto (Kp 0, 2).</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The sun is quiet today, but fast solar wind from a coronal hole could bring some excitement to Earth in the coming days. The post Sun news: Coronal hole’s fast winds could disturb the peace first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The sun is quiet today, but fast solar wind from a coronal hole could bring some excitement to Earth in the coming days. This video from NASA’s Scientific Visualization Studio highlights stunning imagery captured by NASA’s Parker Solar Probe during its record-breaking pass by the sun in 2024.</p><p>We observed just 6 C-flares (common), while solar wind speeds remained sluggish. A stream of high-speed solar wind from a coronal hole should arrive late on May 26 into May 27, potentially unsettling our magnetic field to G1 (minor) geomagnetic storm levels.</p><p>Sunspot regions The Earth-facing solar disk currently shows 9 numbered active regions. Earth’s magnetic field Over the past day, Earth’s magnetic field stayed quiet ( Kp 0, 2 ).</p><p>Sun, Earth forecast Flare activity forecast Forecasters expect low levels to continue through May 27. Quiet conditions should continue through the first half of the day.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>New region arrives, fires 16 flares. Even so, with the source at W71 on the western limb, any ejecta would be aimed well away from Earth.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O sol está calmo hoje, mas o rápido vento solar vindo de um buraco coronal pode trazer alguma emoção à Terra nos próximos dias. As notícias pós-Sol.",
-      "Dado-chave: Notícias do Sol para 25 de maio de 2026: O sol está calmo hoje, mas o vento solar rápido vindo de um buraco coronal pode trazer alguma emoção à.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O sol está calmo hoje, mas o rápido vento solar vindo de um buraco coronal pode trazer alguma emoção à Terra nos próximos dias. As notícias pós-Sol.",
-      "Dado-chave: Notícias do Sol para 25 de maio de 2026: O sol está calmo hoje, mas o vento solar rápido vindo de um buraco coronal pode trazer alguma emoção à.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The sun is quiet today, but fast solar wind from a coronal hole could bring some excitement to Earth in the coming days. The post Sun news: Coronal.",
-      "Key detail: The sun is quiet today, but fast solar wind from a coronal hole could bring some excitement to Earth in the coming days.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "25 mai 2026",
-    "date_pt": "25 mai 2026",
-    "date_en": "25 May 2026",
-    "time": "10h00",
-    "time_pt": "10h00",
-    "time_en": "10:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-25T10:00:53+00:00",
-    "lastModifiedIso": "2026-05-25T10:00:53+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Notícias do Sun",
-      "Os ventos rápidos do buraco coronal podem perturbar a paz"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Notícias do Sun",
-      "Os ventos rápidos do buraco coronal podem perturbar a paz"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "Sun News",
-      "The coronal hole's fast winds could disturb the peace"
-    ],
-    "srcUrl": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-coronal-hole-s-fast-winds-could-disturb-the-peace",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-coronal-hole-s-fast-winds-could-disturb-the-peace",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-coronal-hole-s-fast-winds-could-disturb-the-peace&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 68,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 62,
       "accessibility": 60,
       "novelty": 55
     }
@@ -2727,114 +2733,6 @@ window.postsData = [
   },
   {
     "id": 23,
-    "slug": "is-dust-the-best-thing-in-the-universe-part-3-tiny-chemistry-labs",
-    "cat": "Química",
-    "catCls": "quimica",
-    "img": "https://www.universetoday.com/article_images/barnard68_20260515_110406.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "A poeira é a melhor coisa do universo? Parte 3: Pequenos Laboratórios de Química",
-    "title_pt": "A poeira é a melhor coisa do universo? Parte 3: Pequenos Laboratórios de Química",
-    "title_en": "Is Dust the Best Thing in the Universe? Part 3: Tiny Chemistry Labs",
-    "sub": "Dois átomos de hidrogênio não podem formar uma molécula de H2 sozinhos no espaço vazio. Eles precisam de uma superfície. O universo tem apenas uma superfície disponível, e acabei.",
-    "sub_pt": "Dois átomos de hidrogênio não podem formar uma molécula de H2 sozinhos no espaço vazio. Eles precisam de uma superfície. O universo tem apenas uma superfície disponível, e acabei.",
-    "sub_en": "Two hydrogen atoms can't form an H2 molecule on their own in empty space. They need a surface. The universe has only one surface available, and it's something I have just spent.",
-    "excerpt": "Dois átomos de hidrogênio não podem formar uma molécula de H2 sozinhos no espaço vazio. Eles precisam de uma superfície. O universo tem apenas uma superfície disponível, e acabei de reclamar de dois artigos sobre isso.",
-    "excerpt_pt": "Dois átomos de hidrogênio não podem formar uma molécula de H2 sozinhos no espaço vazio. Eles precisam de uma superfície. O universo tem apenas uma superfície disponível, e acabei de reclamar de dois artigos sobre isso.",
-    "excerpt_en": "Two hydrogen atoms can't form an H2 molecule on their own in empty space. They need a surface. The universe has only one surface available, and it's something I have just spent two articles complaining about.",
-    "body": "<p>Dois átomos de hidrogênio não podem formar uma molécula de H2 sozinhos no espaço vazio. Eles precisam de uma superfície. O universo tem apenas uma superfície disponível, e acabei de reclamar de dois artigos sobre isso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. Dois átomos de hidrogênio não podem formar uma molécula de H2 sozinhos no espaço vazio. (Esta é a Parte 3 de uma série sobre poeira cósmica.</p><p>Leia a Parte 1 e a Parte 2 primeiro.) Mas quer saber. A molécula mais básica e fundamental, é aqui que tudo começa: H2.</p><p>H2 é a molécula mais comum no universo por uma margem enorme. Cada estrela que você já viu se formou em uma região onde o H2 era o ingrediente dominante.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/is-dust-the-best-thing-in-the-universe-part-3-tiny-chemistry-labs\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Dois átomos de hidrogênio não podem formar uma molécula de H2 sozinhos no espaço vazio. Eles precisam de uma superfície. O universo tem apenas uma superfície disponível, e acabei de reclamar de dois artigos sobre isso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. Dois átomos de hidrogênio não podem formar uma molécula de H2 sozinhos no espaço vazio. (Esta é a Parte 3 de uma série sobre poeira cósmica.</p><p>Leia a Parte 1 e a Parte 2 primeiro.) Mas quer saber. A molécula mais básica e fundamental, é aqui que tudo começa: H2.</p><p>H2 é a molécula mais comum no universo por uma margem enorme. Cada estrela que você já viu se formou em uma região onde o H2 era o ingrediente dominante.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/is-dust-the-best-thing-in-the-universe-part-3-tiny-chemistry-labs\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Two hydrogen atoms can&#x27;t form an H2 molecule on their own in empty space. They need a surface. The universe has only one surface available, and it&#x27;s something I have just spent two articles complaining about. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because chemistry gains force when a claimed structure or process can be described with enough precision to be reproduced by others. Synthetic routes, spectroscopic signatures, yield under defined conditions and stability under realistic operating parameters are the currency of credibility in chemistry, and a result that lacks these details cannot be evaluated independently. The distance between a discovery on a laboratory bench and a process that works reliably at scale is measured in years of optimization, and each step reveals constraints that were invisible at smaller scale. Two hydrogen atoms can&#x27;t form an H2 molecule on their own in empty space. (This is Part 3 of a series on cosmic dust.</p><p>Read Part 1 and Part 2 first.) But you know what. The most basic, fundamental, this-is-where-everything-starts molecule: H2.</p><p>H2 is the most common molecule in the universe by an enormous margin. Every star you have ever seen formed in a region where H2 was the dominant ingredient.</p><p>H2 doesn&#x27;t just form on its own in the middle of space. When two hydrogen atoms collide and try to form an H2 molecule, the energy of that bond has to go somewhere.</p><p>The broader interest lies in whether the claimed property or reaction pathway can be characterized with enough precision to support replication by other groups. Chemistry has a replication problem that is less discussed than the one in psychology or medicine, but it is real: synthetic procedures that work reliably in one laboratory sometimes fail to transfer, for reasons ranging from impure starting materials to undocumented temperature sensitivities. A result that comes with full experimental detail and a clear characterization of the product is far more valuable than one that reports a discovery without the procedural backbone.</p><p>The H2 molecule then drifts off into space, free and stable. Without H2, you don&#x27;t get molecular clouds.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent groups working with orthogonal techniques reach compatible conclusions, and whether the result scales beyond the conditions used in the original study. Chemical discoveries that matter tend to be ones whose key properties can be measured by multiple spectroscopic, crystallographic or computational methods that are unlikely to share the same blind spots. Scalability, cost and long-term stability under realistic operating conditions are additional filters that come into play before any practical application becomes viable.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/is-dust-the-best-thing-in-the-universe-part-3-tiny-chemistry-labs\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Dois átomos de hidrogênio não podem formar uma molécula de H2 sozinhos no espaço vazio. Eles precisam de uma superfície. O universo tem apenas uma.",
-      "Dado-chave: Dois átomos de hidrogênio não podem formar uma molécula de H2 sozinhos no espaço vazio.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Dois átomos de hidrogênio não podem formar uma molécula de H2 sozinhos no espaço vazio. Eles precisam de uma superfície. O universo tem apenas uma.",
-      "Dado-chave: Dois átomos de hidrogênio não podem formar uma molécula de H2 sozinhos no espaço vazio.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Two hydrogen atoms can't form an H2 molecule on their own in empty space. They need a surface. The universe has only one surface available, and it's.",
-      "Key detail: Two hydrogen atoms can't form an H2 molecule on their own in empty space.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "22 mai 2026",
-    "date_pt": "22 mai 2026",
-    "date_en": "22 May 2026",
-    "time": "14h16",
-    "time_pt": "14h16",
-    "time_en": "14:16 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-22T14:16:00+00:00",
-    "lastModifiedIso": "2026-05-22T14:16:00+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Química",
-      "Universe Today",
-      "Cosmos Week",
-      "A poeira é a melhor coisa do universo? Parte 3",
-      "Pequenos Laboratórios de Química"
-    ],
-    "keywords_pt": [
-      "Química",
-      "Universe Today",
-      "Cosmos Week",
-      "A poeira é a melhor coisa do universo? Parte 3",
-      "Pequenos Laboratórios de Química"
-    ],
-    "keywords_en": [
-      "Chemical",
-      "Universe Today",
-      "Cosmos Week",
-      "Is dust the best thing in the universe? Part 3",
-      "Small Chemistry Labs"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/is-dust-the-best-thing-in-the-universe-part-3-tiny-chemistry-labs",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=is-dust-the-best-thing-in-the-universe-part-3-tiny-chemistry-labs",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=is-dust-the-best-thing-in-the-universe-part-3-tiny-chemistry-labs",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=is-dust-the-best-thing-in-the-universe-part-3-tiny-chemistry-labs&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 68,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 64,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
-    "id": 24,
     "slug": "smile-lifts-off-on-quest-to-reveal-earth-s-invisible-shield-against-the-solar-wind",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2939,7 +2837,7 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 24,
     "slug": "good-news-here-s-where-light-pollution-is-getting-better",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3054,7 +2952,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 25,
     "slug": "keeping-nasa-flying-ground-crews-ensure-aircraft-readiness",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3190,7 +3088,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 26,
     "slug": "esa-s-prodex-programme-brings-scientific-research-to-space",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3323,7 +3221,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 27,
     "slug": "how-to-follow-the-smile-launch-live",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3428,7 +3326,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 28,
     "slug": "nasa-announces-realignment-to-accelerate-mission-delivery",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3533,7 +3431,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 29,
     "slug": "nasa-to-showcase-mission-to-boost-swift-spacecraft-s-orbit",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3638,7 +3536,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 30,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3774,7 +3672,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 31,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3901,7 +3799,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 32,
     "slug": "science-release-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4037,7 +3935,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 33,
     "slug": "nsf-doe-vera-c-rubin-observatory-launches-real-time-discovery-machine-for-monitoring-the-night-s",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4186,7 +4084,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 34,
     "slug": "tornado-draws-a-jagged-line-in-mississippi",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4319,7 +4217,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 35,
     "slug": "this-week-s-sky-at-a-glance-may-22-31",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4455,7 +4353,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 36,
     "slug": "nereid-could-be-neptune-s-only-original-moon",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4570,7 +4468,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 37,
     "slug": "join-esa-for-a-total-solar-eclipse-on-12-august-2026",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4706,7 +4604,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 38,
     "slug": "waterworn-chaos-on-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4811,7 +4709,7 @@ window.postsData = [
     }
   },
   {
-    "id": 40,
+    "id": 39,
     "slug": "stonehenge-and-the-geometry-of-the-sky",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4924,6 +4822,142 @@ window.postsData = [
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=stonehenge-and-the-geometry-of-the-sky",
     "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=stonehenge-and-the-geometry-of-the-sky",
     "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=stonehenge-and-the-geometry-of-the-sky&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 74,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 40,
+    "slug": "this-week-s-sky-at-a-glance-may-15-24",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_May19_ev_NORM_FEATURED.jpg",
+    "inline_images": [
+      {
+        "src": "https://dq0hsqwjhea1.cloudfront.net/Coma_Berenices_labels_Akira-Fujii.jpg",
+        "caption": "Se seus olhos nus pudessem ver até a magnitude 10, este seria o brilho do aglomerado estelar Coma. Akira Fujii",
+        "caption_pt": "Se seus olhos nus pudessem ver até a magnitude 10, este seria o brilho do aglomerado estelar Coma. Akira Fujii",
+        "caption_en": "If your bare eyes could see to 10th magnitude, this is how bright the Coma Star Cluster would look. Akira Fujii",
+        "alt": "O aglomerado estelar Coma Berenices, entre Denebola e Cor Caroli. Foto de Akira Fujii. Legenda: Se seus olhos nus pudessem ver até a magnitude 10, é assim que o aglomerado estelar Coma seria.",
+        "alt_pt": "O aglomerado estelar Coma Berenices, entre Denebola e Cor Caroli. Foto de Akira Fujii. Legenda: Se seus olhos nus pudessem ver até a magnitude 10, é assim que o aglomerado estelar Coma seria.",
+        "alt_en": "The Coma Berenices star cluster, between Denebola and Cor Caroli. Akira Fujii photo. Caption: If your bare eyes could see to 10th magnitude, this is how the Coma Star Cluster would look."
+      },
+      {
+        "src": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_May19_ev_NORM.jpg",
+        "caption": "Os três objetos celestes mais brilhantes depois do Sol brilham no crepúsculo oeste durante o crepúsculo.",
+        "caption_pt": "Os três objetos celestes mais brilhantes depois do Sol brilham no crepúsculo oeste durante o crepúsculo.",
+        "caption_en": "The three brightest celestial objects after the Sun shine in the westward dusk during twilight.",
+        "alt": "A Lua crescente passa por Vênus e depois por Júpiter em Gêmeos ao anoitecer, de 18 a 20 de maio de 2026",
+        "alt_pt": "A Lua crescente passa por Vênus e depois por Júpiter em Gêmeos ao anoitecer, de 18 a 20 de maio de 2026",
+        "alt_en": "The crescent Moon passes Venus, then Jupiter in Gemini at dusk, May 18 - 20, 2026"
+      },
+      {
+        "src": "https://dq0hsqwjhea1.cloudfront.net/Find-Theta-Centauri-Menkent-over-south-horixon-late-May.jpg",
+        "caption": "Memorize a forma do grande triângulo formado por Spica, Antares e Theta Centauri (Menkent) e, em seguida, aplique essa forma à sua vista sul três horas após o pôr do sol no final de maio. Theta Centauri marca o topo da cabeça do Centauro em H. A. Rey's.",
+        "caption_pt": "Memorize a forma do grande triângulo formado por Spica, Antares e Theta Centauri (Menkent) e, em seguida, aplique essa forma à sua vista sul três horas após o pôr do sol no final de maio. Theta Centauri marca o topo da cabeça do Centauro em H. A. Rey's.",
+        "caption_en": "Memorize the shape of the big triangle formed by Spica, Antares, and Theta Centauri (Menkent), then apply that shape to your south view three hours after sunset in late May. Theta Centauri marks the top of the Centaur's head in H. A. Rey's.",
+        "alt": "Cena do céu onde encontrar Theta Centauri de Spica e Antares, voltada para o sul após o anoitecer, no final de maio até o início de junho.",
+        "alt_pt": "Cena do céu onde encontrar Theta Centauri de Spica e Antares, voltada para o sul após o anoitecer, no final de maio até o início de junho.",
+        "alt_en": "Sky scene for where to find Theta Centauri from Spica and Antares, facing due south after dark in late May through early June."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Visão geral do céu desta semana, 15 a 24 de maio",
+    "title_pt": "Visão geral do céu desta semana, 15 a 24 de maio",
+    "title_en": "This Week's Sky at a Glance, May 15 – 24",
+    "sub": "A Lua, Vênus e Júpiter, os três objetos celestes mais brilhantes depois do Sol, se formarão lindamente no crepúsculo nesta segunda, terça e quarta-feira. O post Visão geral do céu.",
+    "sub_pt": "A Lua, Vênus e Júpiter, os três objetos celestes mais brilhantes depois do Sol, se formarão lindamente no crepúsculo nesta segunda, terça e quarta-feira. O post Visão geral do céu.",
+    "sub_en": "The Moon, Venus, and Jupiter, the three brightest celestial objects after the Sun, will form up beautifully in twilight this Monday, Tuesday, and Wednesday. The post This Week's.",
+    "excerpt": "A Lua, Vênus e Júpiter, os três objetos celestes mais brilhantes depois do Sol, se formarão lindamente no crepúsculo nesta segunda, terça e quarta-feira. O post Visão geral do céu desta semana, 15 de maio de 24, apareceu pela primeira vez na Sky & Telescope.",
+    "excerpt_pt": "A Lua, Vênus e Júpiter, os três objetos celestes mais brilhantes depois do Sol, se formarão lindamente no crepúsculo nesta segunda, terça e quarta-feira. O post Visão geral do céu desta semana, 15 de maio de 24, apareceu pela primeira vez na Sky & Telescope.",
+    "excerpt_en": "The Moon, Venus, and Jupiter, the three brightest celestial objects after the Sun, will form up beautifully in twilight this Monday, Tuesday, and Wednesday. The post This Week's Sky at a Glance, May 15, 24 appeared first on Sky & Telescope.",
+    "body": "<p>A Lua, Vênus e Júpiter, os três objetos celestes mais brilhantes depois do Sol, se formarão lindamente no crepúsculo nesta segunda, terça e quarta-feira. O post Visão geral do céu desta semana, 15 de maio de 24, apareceu pela primeira vez na Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O post Visão geral do céu desta semana, 15 a 24 de maio apareceu pela primeira vez em Sky &amp; Telescope. A Lua, Vênus e Júpiter, os objetos celestes mais brilhantes depois do Sol, formam-se lindamente no crepúsculo de 18 de maio, 19 de maio e 20 de maio.</p><p>Ele desempenhou um papel em praticamente todas as partes da revista e em outros produtos da empresa por mais de uma geração, tanto no lado da observação amadora quanto no lado da. Em 1994, uma coleção de livros com seus procedimentos de observação e passeios telescópicos pelo céu foi publicada como Star Hopping for Backyard Astronomers.</p><p>Ambas são estrelas quentes e quimicamente peculiares do tipo A m um pouco maiores, mais quentes e mais massivas que o Sol. ■ Lua Nova (exatamente às 16h01. Para os usuários de telescópios no terço oriental da América do Norte, Europa e Io reaparecerão lentamente fora do eclipse da sombra de Júpiter com apenas três minutos de.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-15-24/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Lua, Vênus e Júpiter, os três objetos celestes mais brilhantes depois do Sol, se formarão lindamente no crepúsculo nesta segunda, terça e quarta-feira. O post Visão geral do céu desta semana, 15 de maio de 24, apareceu pela primeira vez na Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O post Visão geral do céu desta semana, 15 a 24 de maio apareceu pela primeira vez em Sky &amp; Telescope. A Lua, Vênus e Júpiter, os objetos celestes mais brilhantes depois do Sol, formam-se lindamente no crepúsculo de 18 de maio, 19 de maio e 20 de maio.</p><p>Ele desempenhou um papel em praticamente todas as partes da revista e em outros produtos da empresa por mais de uma geração, tanto no lado da observação amadora quanto no lado da. Em 1994, uma coleção de livros com seus procedimentos de observação e passeios telescópicos pelo céu foi publicada como Star Hopping for Backyard Astronomers.</p><p>Ambas são estrelas quentes e quimicamente peculiares do tipo A m um pouco maiores, mais quentes e mais massivas que o Sol. ■ Lua Nova (exatamente às 16h01. Para os usuários de telescópios no terço oriental da América do Norte, Europa e Io reaparecerão lentamente fora do eclipse da sombra de Júpiter com apenas três minutos de.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-15-24/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The Moon, Venus, and Jupiter, the three brightest celestial objects after the Sun, will form up beautifully in twilight this Monday, Tuesday, and Wednesday. The post This Week&#x27;s Sky at a Glance, May 15, 24 appeared first on Sky &amp; Telescope. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The post This Week&#x27;s Sky at a Glance, May 15, 24 appeared first on Sky &amp; Telescope. The Moon, Venus, and Jupiter, the brightest celestial objects after the Sun, form up beautifully in twilight May 18, May 19, and May 20.</p><p>He played a role in practically every part of the magazine and the company&#x27;s other products for more than a generation, both on the amateur-observing side and the. In 1994 a book collection of his observing how-tos and telescopic sky tours was published as Star Hopping for Backyard Astronomers.</p><p>Both are hot, chemically peculiar type- A m stars somewhat larger, hotter, and more massive than the Sun ■ New Moon (exact at 4: 01 p. m. For telescope users in the eastern third of North America, Europa and Io will slowly reappear out of eclipse by Jupiter&#x27;s shadow just three minutes apart, at 8: 50 and 8: 53 p. m.</p><p>It&#x27;s 2/5 of the way from Denebola, Leo&#x27;s tail tip, to the end of the Big Dipper&#x27;s handle, Ursa Major&#x27;s tail tip. ■ This evening the waxing crescent Moon will shine just 2° or 3° from Venus, as shown below.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>■ This evening the waxing Moon forms the latest of its monthly quadrilaterals with Jupiter, Pollux, and Castor, as shown above. The Moon makes a nearly isosceles triangle (two equal sides) with Jupiter and Pollux.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-15-24/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A Lua, Vênus e Júpiter, os três objetos celestes mais brilhantes depois do Sol, se formarão lindamente no crepúsculo nesta segunda, terça e.",
+      "Dado-chave: O post Visão geral do céu desta semana, 15 a 24 de maio apareceu pela primeira vez em Sky & Telescope.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A Lua, Vênus e Júpiter, os três objetos celestes mais brilhantes depois do Sol, se formarão lindamente no crepúsculo nesta segunda, terça e.",
+      "Dado-chave: O post Visão geral do céu desta semana, 15 a 24 de maio apareceu pela primeira vez em Sky & Telescope.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The Moon, Venus, and Jupiter, the three brightest celestial objects after the Sun, will form up beautifully in twilight this Monday, Tuesday, and.",
+      "Key detail: The post This Week's Sky at a Glance, May 15, 24 appeared first on Sky & Telescope.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "15 mai 2026",
+    "date_pt": "15 mai 2026",
+    "date_en": "15 May 2026",
+    "time": "08h57",
+    "time_pt": "08h57",
+    "time_en": "08:57 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-15T08:57:00+00:00",
+    "lastModifiedIso": "2026-05-15T08:57:00+00:00",
+    "source": "Sky & Telescope",
+    "sourceDomain": "skyandtelescope.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Sky & Telescope",
+      "Cosmos Week",
+      "Visão geral do céu desta semana",
+      "15 a 24 de maio"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Sky & Telescope",
+      "Cosmos Week",
+      "Visão geral do céu desta semana",
+      "15 a 24 de maio"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Sky & Telescope",
+      "Cosmos Week",
+      "This week's sky overview",
+      "May 15th to 24th"
+    ],
+    "srcUrl": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-may-15-24/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=this-week-s-sky-at-a-glance-may-15-24",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=this-week-s-sky-at-a-glance-may-15-24",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=this-week-s-sky-at-a-glance-may-15-24&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",

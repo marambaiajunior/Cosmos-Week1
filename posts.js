@@ -40,14 +40,14 @@ window.postsData = [
     "date": "25 mai 2026",
     "date_pt": "25 mai 2026",
     "date_en": "25 May 2026",
-    "time": "04h46",
-    "time_pt": "04h46",
-    "time_en": "04:46 UTC",
+    "time": "09h04",
+    "time_pt": "09h04",
+    "time_en": "09:04 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-25T04:46:46.493644+00:00",
-    "lastModifiedIso": "2026-05-25T04:46:46.493644+00:00",
+    "publishedIso": "2026-05-25T09:04:43.142976+00:00",
+    "lastModifiedIso": "2026-05-25T09:04:43.142976+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "25 mai 2026",
     "date_pt": "25 mai 2026",
     "date_en": "25 May 2026",
-    "time": "04h46",
-    "time_pt": "04h46",
-    "time_en": "04:46 UTC",
+    "time": "09h04",
+    "time_pt": "09h04",
+    "time_en": "09:04 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-25T04:46:46.493588+00:00",
-    "lastModifiedIso": "2026-05-25T04:46:46.493588+00:00",
+    "publishedIso": "2026-05-25T09:04:43.142922+00:00",
+    "lastModifiedIso": "2026-05-25T09:04:43.142922+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -253,14 +253,14 @@ window.postsData = [
     "date": "25 mai 2026",
     "date_pt": "25 mai 2026",
     "date_en": "25 May 2026",
-    "time": "04h46",
-    "time_pt": "04h46",
-    "time_en": "04:46 UTC",
+    "time": "09h04",
+    "time_pt": "09h04",
+    "time_en": "09:04 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-25T04:46:46.493537+00:00",
-    "lastModifiedIso": "2026-05-25T04:46:46.493537+00:00",
+    "publishedIso": "2026-05-25T09:04:43.142873+00:00",
+    "lastModifiedIso": "2026-05-25T09:04:43.142873+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -364,14 +364,14 @@ window.postsData = [
     "date": "25 mai 2026",
     "date_pt": "25 mai 2026",
     "date_en": "25 May 2026",
-    "time": "04h46",
-    "time_pt": "04h46",
-    "time_en": "04:46 UTC",
+    "time": "09h04",
+    "time_pt": "09h04",
+    "time_en": "09:04 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-25T04:46:46.493488+00:00",
-    "lastModifiedIso": "2026-05-25T04:46:46.493488+00:00",
+    "publishedIso": "2026-05-25T09:04:43.142824+00:00",
+    "lastModifiedIso": "2026-05-25T09:04:43.142824+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -472,14 +472,14 @@ window.postsData = [
     "date": "25 mai 2026",
     "date_pt": "25 mai 2026",
     "date_en": "25 May 2026",
-    "time": "04h46",
-    "time_pt": "04h46",
-    "time_en": "04:46 UTC",
+    "time": "09h04",
+    "time_pt": "09h04",
+    "time_en": "09:04 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-05-25T04:46:46.493440+00:00",
-    "lastModifiedIso": "2026-05-25T04:46:46.493440+00:00",
+    "publishedIso": "2026-05-25T09:04:43.142775+00:00",
+    "lastModifiedIso": "2026-05-25T09:04:43.142775+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -540,6 +540,139 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "china-launches-crewed-space-flight-as-part-of-moon-ambitions",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-mission-will-mark.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/the-mission-will-mark.jpg",
+        "caption": "A missão marcará o primeiro voo espacial realizado por um astronauta de Hong Kong.",
+        "caption_pt": "A missão marcará o primeiro voo espacial realizado por um astronauta de Hong Kong.",
+        "caption_en": "The mission will mark the first spaceflight ever undertaken by an astronaut from Hong Kong.",
+        "alt": "A missão marcará o primeiro voo espacial já realizado por um astronauta de Hong Kong",
+        "alt_pt": "A missão marcará o primeiro voo espacial já realizado por um astronauta de Hong Kong",
+        "alt_en": "The mission will mark the first spaceflight ever undertaken by an astronaut from Hong Kong"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/astronauts-for-chinas.jpg",
+        "caption": "Os astronautas da missão espacial Shenzhou-23 da China, Lai Ka-ying (E), Zhu Yangzhu (C) e Zhang Zhiyuan (R), acenam durante uma conferência de imprensa.",
+        "caption_pt": "Os astronautas da missão espacial Shenzhou-23 da China, Lai Ka-ying (E), Zhu Yangzhu (C) e Zhang Zhiyuan (R), acenam durante uma conferência de imprensa.",
+        "caption_en": "Astronauts for China's Shenzhou-23 space mission Lai Ka-ying (L), Zhu Yangzhu (C) and Zhang Zhiyuan (R) wave during a press conference.",
+        "alt": "Astronautas da missão espacial Shenzhou-23 da China, Lai Ka-ying (L), Zhu Yangzhu (C) e Zhang Zhiyuan (R) acenam durante uma coletiva de imprensa",
+        "alt_pt": "Astronautas da missão espacial Shenzhou-23 da China, Lai Ka-ying (L), Zhu Yangzhu (C) e Zhang Zhiyuan (R) acenam durante uma coletiva de imprensa",
+        "alt_en": "Astronauts for China's Shenzhou-23 space mission Lai Ka-ying (L), Zhu Yangzhu (C) and Zhang Zhiyuan (R) wave during a press conference"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/the-experiment-is-part.jpg",
+        "caption": "O experimento faz parte dos preparativos da China para futuras missões lunares, bem como missões a Marte.",
+        "caption_pt": "O experimento faz parte dos preparativos da China para futuras missões lunares, bem como missões a Marte.",
+        "caption_en": "The experiment is part of China's preparations for future lunar missions, as well as missions to Mars.",
+        "alt": "O experimento faz parte dos preparativos da China para futuras missões lunares, bem como missões a Marte",
+        "alt_pt": "O experimento faz parte dos preparativos da China para futuras missões lunares, bem como missões a Marte",
+        "alt_en": "The experiment is part of China's preparations for future lunar missions, as well as missions to Mars"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "China lança voo espacial tripulado como parte das ambições lunares",
+    "title_pt": "China lança voo espacial tripulado como parte das ambições lunares",
+    "title_en": "China launches crewed space flight as part of moon ambitions",
+    "sub": "A China lançou sua espaçonave tripulada Shenzhou-23 e facilitou uma acoplagem bem-sucedida a uma estação espacial na manhã de segunda-feira, como parte das ambições de Pequim de.",
+    "sub_pt": "A China lançou sua espaçonave tripulada Shenzhou-23 e facilitou uma acoplagem bem-sucedida a uma estação espacial na manhã de segunda-feira, como parte das ambições de Pequim de.",
+    "sub_en": "China launched its crewed Shenzhou-23 spacecraft and eased it into a successful docking with a space station early Monday as part of Beijing's ambitions to send humans to the moon.",
+    "excerpt": "A China lançou sua espaçonave tripulada Shenzhou-23 e facilitou uma acoplagem bem-sucedida a uma estação espacial na manhã de segunda-feira, como parte das ambições de Pequim de enviar humanos à Lua até 2030, informou a mídia estatal.",
+    "excerpt_pt": "A China lançou sua espaçonave tripulada Shenzhou-23 e facilitou uma acoplagem bem-sucedida a uma estação espacial na manhã de segunda-feira, como parte das ambições de Pequim de enviar humanos à Lua até 2030, informou a mídia estatal.",
+    "excerpt_en": "China launched its crewed Shenzhou-23 spacecraft and eased it into a successful docking with a space station early Monday as part of Beijing's ambitions to send humans to the moon by 2030, state media said.",
+    "body": "<p>A China lançou sua espaçonave tripulada Shenzhou-23 e facilitou uma acoplagem bem-sucedida a uma estação espacial na manhã de segunda-feira, como parte das ambições de Pequim de enviar humanos à Lua até 2030, informou a mídia estatal. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida A missão marcará o primeiro voo espacial já. O foguete Longa Marcha 2-F decolou em uma nuvem de chamas e fumaça pontualmente às 23h08 (15h08 GMT) da noite de domingo, do centro de lançamento de Jiuquan, no deserto de Gobi.</p><p>A espaçonave separou-se do foguete cerca de 10 minutos depois e entrou em órbita, informou a Agência Espacial Tripulada Chinesa (CMSA) nas redes sociais. A nave atracou com sucesso na estação espacial Tiangong após um voo de cerca de 3,5 horas, informou a agência de notícias estatal Xinhua, citando a CMSA.</p><p>A missão marca o primeiro voo espacial de um astronauta de Hong Kong: Li Jiaying (Lai Ka-ying em cantonês), de 43 anos, que anteriormente trabalhou para a polícia de Hong Kong.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-china-crewed-space-flight-moon.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A China lançou sua espaçonave tripulada Shenzhou-23 e facilitou uma acoplagem bem-sucedida a uma estação espacial na manhã de segunda-feira, como parte das ambições de Pequim de enviar humanos à Lua até 2030, informou a mídia estatal. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida A missão marcará o primeiro voo espacial já. O foguete Longa Marcha 2-F decolou em uma nuvem de chamas e fumaça pontualmente às 23h08 (15h08 GMT) da noite de domingo, do centro de lançamento de Jiuquan, no deserto de Gobi.</p><p>A espaçonave separou-se do foguete cerca de 10 minutos depois e entrou em órbita, informou a Agência Espacial Tripulada Chinesa (CMSA) nas redes sociais. A nave atracou com sucesso na estação espacial Tiangong após um voo de cerca de 3,5 horas, informou a agência de notícias estatal Xinhua, citando a CMSA.</p><p>A missão marca o primeiro voo espacial de um astronauta de Hong Kong: Li Jiaying (Lai Ka-ying em cantonês), de 43 anos, que anteriormente trabalhou para a polícia de Hong Kong.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-china-crewed-space-flight-moon.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>China launched its crewed Shenzhou-23 spacecraft and eased it into a successful docking with a space station early Monday as part of Beijing&#x27;s ambitions to send humans to the moon by 2030, state media said. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source The mission will mark the first spaceflight ever undertaken by. The Long March 2-F rocket blasted off in a cloud of flames and smoke on time at 11: 08 pm (1508 GMT) Sunday night from the Jiuquan launch center in China&#x27;s northwestern Gobi.</p><p>The spacecraft separated from the rocket around 10 minutes later and entered orbit, the Chinese Manned Space Agency (CMSA) said on social media. The craft docked successfully with the Tiangong space station after a flight of about 3.5 hours, the state news agency Xinhua reported, quoting CMSA.</p><p>The mission marks the first spaceflight by an astronaut from Hong Kong: 43-year-old Li Jiaying (Lai Ka-ying in Cantonese), who previously worked for the Hong Kong police. The two other crew members are 39-year-old space engineer Zhu Yangzhu and 39-year-old Zhang Zhiyuan, a former air force pilot, who is traveling into space for the first time.</p><p>A key experiment of Shenzhou-23 will be the full-year stay in orbit by one of the crew in order to study the effects of a long stay in microgravity. The astronaut selected for this one-year mission will be named at a later date, depending on the progress of the Shenzhou-23 mission, a spokesperson for the CMSA said on Saturday.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>He also underlined the importance of reliable water and air recycling systems, as well as the ability to manage potential medical emergencies far from Earth. The Shenzhou-23 mission is part of China&#x27;s goal to land astronauts on the moon before 2030, a race in which the United States is also competing with its Artemis program.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-china-crewed-space-flight-moon.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A China lançou sua espaçonave tripulada Shenzhou-23 e facilitou uma acoplagem bem-sucedida a uma estação espacial na manhã de segunda-feira, como.",
+      "Dado-chave: Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida A missão.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A China lançou sua espaçonave tripulada Shenzhou-23 e facilitou uma acoplagem bem-sucedida a uma estação espacial na manhã de segunda-feira, como.",
+      "Dado-chave: Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida A missão.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: China launched its crewed Shenzhou-23 spacecraft and eased it into a successful docking with a space station early Monday as part of Beijing's.",
+      "Key detail: Editors have highlighted the following attributes while ensuring the content's credibility: Add as preferred source The mission will mark the.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "25 mai 2026",
+    "date_pt": "25 mai 2026",
+    "date_en": "25 May 2026",
+    "time": "08h10",
+    "time_pt": "08h10",
+    "time_en": "08:10 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-25T08:10:01+00:00",
+    "lastModifiedIso": "2026-05-25T08:10:01+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "China lança voo espacial tripulado como parte das ambições lunares"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "China lança voo espacial tripulado como parte das ambições lunares"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Phys.org Space",
+      "Cosmos Week",
+      "China launches manned space flight as part of lunar ambitions"
+    ],
+    "srcUrl": "https://phys.org/news/2026-05-china-crewed-space-flight-moon.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=china-launches-crewed-space-flight-as-part-of-moon-ambitions",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=china-launches-crewed-space-flight-as-part-of-moon-ambitions",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=china-launches-crewed-space-flight-as-part-of-moon-ambitions&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "a-brief-ish-history-of-seti-part-vii-brief-windows-and-transcendence",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -646,7 +779,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -660,7 +793,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "alien-life-may-be-missed-by-current-space-missions-but-ai-might-help",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -781,7 +914,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "study-shows-how-sunspot-activity-speeds-up-reentries",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -927,7 +1060,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "solar-activity-follows-an-11-year-cycle-here-s-how-it-controls-eruptions-and-solar-flares",
     "cat": "Física",
     "catCls": "fisica",
@@ -1050,146 +1183,13 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 70,
+    "score": 69,
     "scoreBreakdown": {
       "source": 76,
       "evidence": 82,
       "relevance": 64,
       "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "heavily-reddened-quasars-caught-going-through-a-blow-out-phase",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/heavily-reddened-quasa.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavily-reddened-quasa.jpg",
-        "caption": "Quasares fortemente avermelhados capturados passando por uma fase de “explosão”",
-        "caption_pt": "Quasares fortemente avermelhados capturados passando por uma fase de “explosão”",
-        "caption_en": "Heavily reddened quasars caught going through a \"blow-out\" phase",
-        "alt": "Quasares fortemente avermelhados capturados passando por uma fase de “explosão”",
-        "alt_pt": "Quasares fortemente avermelhados capturados passando por uma fase de “explosão”",
-        "alt_en": "Heavily reddened quasars caught going through a \"blow-out\" phase"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/05cc00b31f2c5b10.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/4b5d8e1e5856f832.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Quasares fortemente avermelhados capturados passando por uma fase de 'explosão'",
-    "title_pt": "Quasares fortemente avermelhados capturados passando por uma fase de 'explosão'",
-    "title_en": "Heavily reddened quasars caught going through a 'blow-out' phase",
-    "sub": "No centro da maioria das grandes galáxias fica um buraco negro supermassivo. Quando esses buracos negros consomem material ativamente, eles se tornam quasares incrivelmente.",
-    "sub_pt": "No centro da maioria das grandes galáxias fica um buraco negro supermassivo. Quando esses buracos negros consomem material ativamente, eles se tornam quasares incrivelmente.",
-    "sub_en": "At the center of most large galaxies sits a supermassive black hole. When these black holes are actively consuming material, they become incredibly luminous quasars. But some.",
-    "excerpt": "No centro da maioria das grandes galáxias fica um buraco negro supermassivo. Quando esses buracos negros consomem material ativamente, eles se tornam quasares incrivelmente luminosos. Mas alguns quasares aparecem envoltos em espessas nuvens de poeira, o que.",
-    "excerpt_pt": "No centro da maioria das grandes galáxias fica um buraco negro supermassivo. Quando esses buracos negros consomem material ativamente, eles se tornam quasares incrivelmente luminosos. Mas alguns quasares aparecem envoltos em espessas nuvens de poeira, o que.",
-    "excerpt_en": "At the center of most large galaxies sits a supermassive black hole. When these black holes are actively consuming material, they become incredibly luminous quasars. But some quasars appear wrapped in thick clouds of dust, making them hard.",
-    "body": "<p>No centro da maioria das grandes galáxias fica um buraco negro supermassivo. Quando esses buracos negros consomem material ativamente, eles se tornam quasares incrivelmente luminosos. Mas alguns quasares aparecem envoltos em espessas nuvens de poeira, o que os torna difíceis. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Num novo estudo, os astrónomos revelaram 77 novos quasares ocultos e “fortemente avermelhados” (HRQs).</p><p>O artigo que descreve a nova pesquisa foi carregado no servidor de pré-impressão arXiv em 7 de maio. Até agora, cerca de 50 quasares fortemente avermelhados foram confirmados através da sua procura através de um processo demorado, caçando-os um de cada vez com telescópios.</p><p>Num novo estudo, a equipa liderada por Matthew Stepney do Centro de Excelência em Astrofísica e Tecnologias Relacionadas, Chile, mais do que duplicou esta população de quasares. Eles descobriram 77 novos quasares obscurecidos por poeira quando o Universo tinha entre 1,6 mil milhões de anos e 4,3 mil milhões de anos de idade.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-heavily-reddened-quasars-caught-phase.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>No centro da maioria das grandes galáxias fica um buraco negro supermassivo. Quando esses buracos negros consomem material ativamente, eles se tornam quasares incrivelmente luminosos. Mas alguns quasares aparecem envoltos em espessas nuvens de poeira, o que os torna difíceis. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Num novo estudo, os astrónomos revelaram 77 novos quasares ocultos e “fortemente avermelhados” (HRQs).</p><p>O artigo que descreve a nova pesquisa foi carregado no servidor de pré-impressão arXiv em 7 de maio. Até agora, cerca de 50 quasares fortemente avermelhados foram confirmados através da sua procura através de um processo demorado, caçando-os um de cada vez com telescópios.</p><p>Num novo estudo, a equipa liderada por Matthew Stepney do Centro de Excelência em Astrofísica e Tecnologias Relacionadas, Chile, mais do que duplicou esta população de quasares. Eles descobriram 77 novos quasares obscurecidos por poeira quando o Universo tinha entre 1,6 mil milhões de anos e 4,3 mil milhões de anos de idade.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-heavily-reddened-quasars-caught-phase.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>At the center of most large galaxies sits a supermassive black hole. When these black holes are actively consuming material, they become incredibly luminous quasars. But some quasars appear wrapped in thick clouds of dust, making them hard. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. This article has been reviewed according to Science X&#x27;s editorial process and policies. In a new study, astronomers have revealed 77 new, hidden, &quot;heavily reddened&quot; quasars (HRQs).</p><p>The paper outlining the new research was uploaded to the preprint server arXiv on May 7. So far, around 50 heavily reddened quasars have been confirmed by searching for them via a time-expensive process, hunting them down one at a time with single-target infrared.</p><p>In a new study, the team led by Matthew Stepney of the Center of Excellence in Astrophysics and Related Technologies, Chile, has more than doubled this population of heavily. They discovered 77 new dust-obscured quasars when the universe was between 1.6 billion years and 4.3 billion years of age.</p><p>The new sample includes the first seven heavily reddened quasars ever identified at redshifts above 3, within the first 2.1 billion years after the Big Bang. Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>This phase happens when powerful feedback from the actively feeding black hole begins clearing away the dusty cocoon surrounding the galaxy&#x27;s core. They also detected an unexpected excess of ultraviolet (UV) light in roughly three-quarters of the sample.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-heavily-reddened-quasars-caught-phase.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: No centro da maioria das grandes galáxias fica um buraco negro supermassivo. Quando esses buracos negros consomem material ativamente, eles se tornam.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: No centro da maioria das grandes galáxias fica um buraco negro supermassivo. Quando esses buracos negros consomem material ativamente, eles se tornam.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: At the center of most large galaxies sits a supermassive black hole. When these black holes are actively consuming material, they become incredibly.",
-      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "24 mai 2026",
-    "date_pt": "24 mai 2026",
-    "date_en": "24 May 2026",
-    "time": "12h20",
-    "time_pt": "12h20",
-    "time_en": "12:20 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-24T12:20:01+00:00",
-    "lastModifiedIso": "2026-05-24T12:20:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Quasares fortemente avermelhados capturados passando por uma fase de 'explosão'"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Quasares fortemente avermelhados capturados passando por uma fase de 'explosão'"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Strongly reddish quasars captured undergoing 'explosion' phase"
-    ],
-    "srcUrl": "https://phys.org/news/2026-05-heavily-reddened-quasars-caught-phase.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=heavily-reddened-quasars-caught-going-through-a-blow-out-phase",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=heavily-reddened-quasars-caught-going-through-a-blow-out-phase",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=heavily-reddened-quasars-caught-going-through-a-blow-out-phase&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 76,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -1302,142 +1302,6 @@ window.postsData = [
   },
   {
     "id": 12,
-    "slug": "keeping-nasa-flying-ground-crews-ensure-aircraft-readiness",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://images-assets.nasa.gov/image/AFRC2026-0053-25/AFRC2026-0053-25~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://images-assets.nasa.gov/image/AFRC2026-0004-036/AFRC2026-0004-036~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Três homens, dois vestindo trajes de voo bege e um vestindo uma jaqueta preta com listras amarelas reflexivas, caminham para o lado direito de um avião a jato. A aeronave está voltada para frente e o velame está aberto. Duas rodas, entradas, asas e.",
-        "caption_pt": "Três homens, dois vestindo trajes de voo bege e um vestindo uma jaqueta preta com listras amarelas reflexivas, caminham para o lado direito de um avião a jato. A aeronave está voltada para frente e o velame está aberto. Duas rodas, entradas, asas e.",
-        "caption_en": "Three men, two wearing tan flight suits, and one wearing a black jacket with stripes of reflective yellow coating, walk to the right side of a jet aircraft. The aircraft faces forward and the canopy is open. Two wheels, intakes, wings, and.",
-        "alt": "Três homens, dois vestindo trajes de voo bege e um vestindo uma jaqueta preta com listras amarelas reflexivas, caminham para o lado direito de um avião a jato. A aeronave está voltada para frente e o velame está aberto. Duas rodas, entradas, asas e.",
-        "alt_pt": "Três homens, dois vestindo trajes de voo bege e um vestindo uma jaqueta preta com listras amarelas reflexivas, caminham para o lado direito de um avião a jato. A aeronave está voltada para frente e o velame está aberto. Duas rodas, entradas, asas e.",
-        "alt_en": "Three men, two wearing tan flight suits, and one wearing a black jacket with stripes of reflective yellow coating, walk to the right side of a jet aircraft. The aircraft faces forward and the canopy is open. Two wheels, intakes, wings, and."
-      },
-      {
-        "src": "https://images-assets.nasa.gov/image/AFRC2026-0012-076/AFRC2026-0012-076~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Quatro homens cercam um objeto redondo preso a uma asa de avião com prateleiras e fiação em seu interior. Os braços de um homem estão dentro do objeto e ele está ajustando um equipamento de metal dourado. Os outros homens observam enquanto ele trabalha no hardware.",
-        "caption_pt": "Quatro homens cercam um objeto redondo preso a uma asa de avião com prateleiras e fiação em seu interior. Os braços de um homem estão dentro do objeto e ele está ajustando um equipamento de metal dourado. Os outros homens observam enquanto ele trabalha no hardware.",
-        "caption_en": "Four men surround a round object attached to an aircraft wing with shelves and wiring inside. One man’s arms are inside of the object, and he is adjusting a gold-colored piece of metal equipment. The other men watch as he works on the hardware.",
-        "alt": "Quatro homens cercam um objeto redondo preso a uma asa de avião com prateleiras e fiação em seu interior. Os braços de um homem estão dentro do objeto e ele está ajustando um equipamento de metal dourado. Os outros homens observam enquanto ele trabalha no hardware.",
-        "alt_pt": "Quatro homens cercam um objeto redondo preso a uma asa de avião com prateleiras e fiação em seu interior. Os braços de um homem estão dentro do objeto e ele está ajustando um equipamento de metal dourado. Os outros homens observam enquanto ele trabalha no hardware.",
-        "alt_en": "Four men surround a round object attached to an aircraft wing with shelves and wiring inside. One man’s arms are inside of the object, and he is adjusting a gold-colored piece of metal equipment. The other men watch as he works on the hardware."
-      },
-      {
-        "src": "https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-1.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Mantendo a NASA voando: equipes de solo garantem a prontidão da aeronave",
-    "title_pt": "Mantendo a NASA voando: equipes de solo garantem a prontidão da aeronave",
-    "title_en": "Keeping NASA Flying: Ground Crews Ensure Aircraft Readiness",
-    "sub": "Desde voos de pesquisa em alta velocidade até campanhas científicas em grandes altitudes, a NASA depende de aeronaves que tenham o melhor desempenho e de equipes de terra que as.",
-    "sub_pt": "Desde voos de pesquisa em alta velocidade até campanhas científicas em grandes altitudes, a NASA depende de aeronaves que tenham o melhor desempenho e de equipes de terra que as.",
-    "sub_en": "From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them mission ready. At.",
-    "excerpt": "Desde voos de pesquisa em alta velocidade até campanhas científicas em grandes altitudes, a NASA depende de aeronaves que tenham o melhor desempenho e de equipes de terra que as mantenham prontas para a missão. No Armstrong Flight Research Center da NASA em.",
-    "excerpt_pt": "Desde voos de pesquisa em alta velocidade até campanhas científicas em grandes altitudes, a NASA depende de aeronaves que tenham o melhor desempenho e de equipes de terra que as mantenham prontas para a missão. No Armstrong Flight Research Center da NASA em.",
-    "excerpt_en": "From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them mission ready. At NASA’s Armstrong Flight Research Center in Edwards, California.",
-    "body": "<p>Desde voos de pesquisa em alta velocidade até campanhas científicas em grandes altitudes, a NASA depende de aeronaves que tenham o melhor desempenho e de equipes de terra que as mantenham prontas para a missão. No Armstrong Flight Research Center da NASA em Edwards, Califórnia. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 4 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) O chefe da tripulação da NASA, Walt Kondracki, verifica uma aeronave F-15 na. O piloto da NASA Nils Larson, à esquerda, caminha ao lado do chefe da tripulação Walt Kondracki, à direita, perto de uma aeronave F-15 na terça-feira, 1º de janeiro.</p><p>13 de outubro de 2026, no Armstrong Flight Research Center da NASA em Edwards, Califórnia. No fundo, o mecânico da NASA Tim Logan protege a cabine dentro do F-15, e o engenheiro de testes de voo A. J.</p><p>26 de outubro de 2026, no Armstrong Flight Research Center da NASA em Edwards, Califórnia.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Desde voos de pesquisa em alta velocidade até campanhas científicas em grandes altitudes, a NASA depende de aeronaves que tenham o melhor desempenho e de equipes de terra que as mantenham prontas para a missão. No Armstrong Flight Research Center da NASA em Edwards, Califórnia. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 4 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) O chefe da tripulação da NASA, Walt Kondracki, verifica uma aeronave F-15 na. O piloto da NASA Nils Larson, à esquerda, caminha ao lado do chefe da tripulação Walt Kondracki, à direita, perto de uma aeronave F-15 na terça-feira, 1º de janeiro.</p><p>13 de outubro de 2026, no Armstrong Flight Research Center da NASA em Edwards, Califórnia. No fundo, o mecânico da NASA Tim Logan protege a cabine dentro do F-15, e o engenheiro de testes de voo A. J.</p><p>26 de outubro de 2026, no Armstrong Flight Research Center da NASA em Edwards, Califórnia.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them mission ready. At NASA’s Armstrong Flight Research Center in Edwards, California. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them mission ready. 4 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) NASA crew chief Walt Kondracki checks an F-15 aircraft Tuesday, March 17, 2026, at NASA’s Armstrong.</p><p>NASA pilot Nils Larson, left, walks next to crew chief Walt Kondracki, right, by an F-15 aircraft Tuesday, Jan. 13, 2026, at NASA’s Armstrong Flight Research Center in Edwards, California.</p><p>In the background, NASA mechanic Tim Logan secures the cockpit inside of the F-15, and flight test engineer A. J. 26, 2026, at NASA’s Armstrong Flight Research Center in Edwards, California.</p><p>NASA/Christopher LC Clark On any given day, an aircraft may be flight-ready for a mission, undergoing scheduled maintenance or modifications, or down for longer-term care. From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them Article NASA crew chief.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>NASA/Carla Escamilla From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them. This year, NASA added two F-15s and a Pilatus PC-12 to its fleet at Armstrong.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Desde voos de pesquisa em alta velocidade até campanhas científicas em grandes altitudes, a NASA depende de aeronaves que tenham o melhor desempenho.",
-      "Dado-chave: Desde voos de pesquisa em alta velocidade até campanhas científicas em grandes altitudes, a NASA depende de aeronaves que tenham o melhor.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Desde voos de pesquisa em alta velocidade até campanhas científicas em grandes altitudes, a NASA depende de aeronaves que tenham o melhor desempenho.",
-      "Dado-chave: Desde voos de pesquisa em alta velocidade até campanhas científicas em grandes altitudes, a NASA depende de aeronaves que tenham o melhor.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who.",
-      "Key detail: From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "22 mai 2026",
-    "date_pt": "22 mai 2026",
-    "date_en": "22 May 2026",
-    "time": "15h45",
-    "time_pt": "15h45",
-    "time_en": "15:45 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-22T15:45:38+00:00",
-    "lastModifiedIso": "2026-05-22T15:45:38+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Mantendo a NASA voando",
-      "equipes de solo garantem a prontidão da aeronave"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Mantendo a NASA voando",
-      "equipes de solo garantem a prontidão da aeronave"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Keeping NASA Flying",
-      "Ground crews ensure aircraft readiness"
-    ],
-    "srcUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=keeping-nasa-flying-ground-crews-ensure-aircraft-readiness",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=keeping-nasa-flying-ground-crews-ensure-aircraft-readiness",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=keeping-nasa-flying-ground-crews-ensure-aircraft-readiness&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 81,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
-    "id": 13,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1573,7 +1437,7 @@ window.postsData = [
     }
   },
   {
-    "id": 14,
+    "id": 13,
     "slug": "science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1712,7 +1576,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 14,
     "slug": "extraterrestrial-life-may-be-slipping-past-space-missions-astrobiologists-warn",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1848,7 +1712,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 15,
     "slug": "extreme-8-5-minute-orbit-reveals-white-dwarf-being-torn-apart-by-its-binary-companion",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1984,7 +1848,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 16,
     "slug": "what-s-feeding-our-supermassive-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2117,6 +1981,139 @@ window.postsData = [
     }
   },
   {
+    "id": 17,
+    "slug": "the-magnetar-at-the-heart-of-a-superluminous-supernova",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://www.universetoday.com/article_images/hypernova_art_hero_20260521_171418.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/6_SLSNe_20260521_182412.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/sigmap_optical_montage_20260521_171744.jpg",
+        "caption": "Esta imagem composta mostra duas visualizações do SN 2017egm. A imagem inserida mostra-o em luz visível e a imagem principal mostra-o em raios gama. A imagem óptica mostra a supernova — o objeto mais brilhante na cena — e a sua galáxia hospedeira.",
+        "caption_pt": "Esta imagem composta mostra duas visualizações do SN 2017egm. A imagem inserida mostra-o em luz visível e a imagem principal mostra-o em raios gama. A imagem óptica mostra a supernova — o objeto mais brilhante na cena — e a sua galáxia hospedeira.",
+        "caption_en": "This composite image shows two views of SN 2017egm. The inset image shows it in visible light, and the main image shows it in gamma rays. The optical image shows the supernova — the brightest object in the scene — and its host galaxy on.",
+        "alt": "Esta imagem composta mostra duas visualizações do SN 2017egm. A imagem inserida mostra-o em luz visível e a imagem principal mostra-o em raios gama. A imagem óptica mostra a supernova — o objeto mais brilhante na cena — e a sua galáxia hospedeira.",
+        "alt_pt": "Esta imagem composta mostra duas visualizações do SN 2017egm. A imagem inserida mostra-o em luz visível e a imagem principal mostra-o em raios gama. A imagem óptica mostra a supernova — o objeto mais brilhante na cena — e a sua galáxia hospedeira.",
+        "alt_en": "This composite image shows two views of SN 2017egm. The inset image shows it in visible light, and the main image shows it in gamma rays. The optical image shows the supernova — the brightest object in the scene — and its host galaxy on."
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/aa58547-25-fig2_20260521_183957.jpg",
+        "caption": "Esta figura mostra as curvas de luz de luminosidade na faixa de energia de 100 MeV – 100 GeV ao longo de 16 anos para cada SN na amostra desde o lançamento do Fermi até agosto de 2024. SN 2017egm, no canto superior esquerdo, é o único com raios gama observados.",
+        "caption_pt": "Esta figura mostra as curvas de luz de luminosidade na faixa de energia de 100 MeV – 100 GeV ao longo de 16 anos para cada SN na amostra desde o lançamento do Fermi até agosto de 2024. SN 2017egm, no canto superior esquerdo, é o único com raios gama observados.",
+        "caption_en": "This figure shows the luminosity light curves in the 100 MeV – 100 GeV energy range over 16 yrs for each SN in the sample from the Fermi launch to August 2024. SN 2017egm, in the upper left, is the only one with an observed gamma-ray.",
+        "alt": "Esta figura mostra as curvas de luz de luminosidade na faixa de energia de 100 MeV – 100 GeV ao longo de 16 anos para cada SN na amostra desde o lançamento do Fermi até agosto de 2024. SN 2017egm, no canto superior esquerdo, é o único com raios gama observados.",
+        "alt_pt": "Esta figura mostra as curvas de luz de luminosidade na faixa de energia de 100 MeV – 100 GeV ao longo de 16 anos para cada SN na amostra desde o lançamento do Fermi até agosto de 2024. SN 2017egm, no canto superior esquerdo, é o único com raios gama observados.",
+        "alt_en": "This figure shows the luminosity light curves in the 100 MeV – 100 GeV energy range over 16 yrs for each SN in the sample from the Fermi launch to August 2024. SN 2017egm, in the upper left, is the only one with an observed gamma-ray."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "O Magnetar no Coração de uma Supernova Superluminosa",
+    "title_pt": "O Magnetar no Coração de uma Supernova Superluminosa",
+    "title_en": "The Magnetar at the Heart of a Superluminous Supernova",
+    "sub": "As supernovas superluminosas são a realeza no mundo das supernovas. Elas são até 100 vezes mais brilhantes que uma supernova padrão, e os astrofísicos querem saber por quê. Novas.",
+    "sub_pt": "As supernovas superluminosas são a realeza no mundo das supernovas. Elas são até 100 vezes mais brilhantes que uma supernova padrão, e os astrofísicos querem saber por quê. Novas.",
+    "sub_en": "Superluminous supernovae are the royalty in the supernova world. They're up to 100 times brighter than a standard supernova, and astrophysicists want to know why. New research.",
+    "excerpt": "As supernovas superluminosas são a realeza no mundo das supernovas. Elas são até 100 vezes mais brilhantes que uma supernova padrão, e os astrofísicos querem saber por quê. Novas pesquisas mostram que os magnetares são os responsáveis.",
+    "excerpt_pt": "As supernovas superluminosas são a realeza no mundo das supernovas. Elas são até 100 vezes mais brilhantes que uma supernova padrão, e os astrofísicos querem saber por quê. Novas pesquisas mostram que os magnetares são os responsáveis.",
+    "excerpt_en": "Superluminous supernovae are the royalty in the supernova world. They're up to 100 times brighter than a standard supernova, and astrophysicists want to know why. New research shows that magnetars are responsible.",
+    "body": "<p>As supernovas superluminosas são a realeza no mundo das supernovas. Elas são até 100 vezes mais brilhantes que uma supernova padrão, e os astrofísicos querem saber por quê. Novas pesquisas mostram que os magnetares são os responsáveis. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Elas podem ser 100 vezes mais brilhantes do que uma supernova normal com colapso de núcleo, que já é brilhante o suficiente para ofuscar todas as estrelas em sua galáxia. Eles examinaram 6 SLSNe encontrados nos primeiros 16 anos de observações do Fermi, em busca de raios gama das estrelas em explosão.</p><p>A equipe publicou seu trabalho em um artigo intitulado “Assinatura de raios gama de supernovas superluminosas: detecção Fermi-LAT GeV de SN 2017egm e evidência de um motor. Magnetares são estrelas de nêutrons com campos magnéticos extremamente poderosos que podem ser 1.000 vezes mais fortes que uma estrela de nêutrons típica.</p><p>“Durante quase 20 anos, os astrónomos pesquisaram os dados do Fermi em busca de sinais de raios gama de milhares de supernovas e, embora algumas pistas intrigantes tenham sido. Os raios gama de SN 2017egm foram descobertos pela primeira vez em 2024, anos depois de a supernova ter sido observada pela primeira vez.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-magnetar-at-the-heart-of-a-superluminous-supernova\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>As supernovas superluminosas são a realeza no mundo das supernovas. Elas são até 100 vezes mais brilhantes que uma supernova padrão, e os astrofísicos querem saber por quê. Novas pesquisas mostram que os magnetares são os responsáveis. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Elas podem ser 100 vezes mais brilhantes do que uma supernova normal com colapso de núcleo, que já é brilhante o suficiente para ofuscar todas as estrelas em sua galáxia. Eles examinaram 6 SLSNe encontrados nos primeiros 16 anos de observações do Fermi, em busca de raios gama das estrelas em explosão.</p><p>A equipe publicou seu trabalho em um artigo intitulado “Assinatura de raios gama de supernovas superluminosas: detecção Fermi-LAT GeV de SN 2017egm e evidência de um motor. Magnetares são estrelas de nêutrons com campos magnéticos extremamente poderosos que podem ser 1.000 vezes mais fortes que uma estrela de nêutrons típica.</p><p>“Durante quase 20 anos, os astrónomos pesquisaram os dados do Fermi em busca de sinais de raios gama de milhares de supernovas e, embora algumas pistas intrigantes tenham sido. Os raios gama de SN 2017egm foram descobertos pela primeira vez em 2024, anos depois de a supernova ter sido observada pela primeira vez.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-magnetar-at-the-heart-of-a-superluminous-supernova\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Superluminous supernovae are the royalty in the supernova world. They&#x27;re up to 100 times brighter than a standard supernova, and astrophysicists want to know why. New research shows that magnetars are responsible. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. They can be 100 times brighter than a regular, core-collapse supernova, which are already bright enough to outshine all the stars in their host galaxy. They examined 6 SLSNe found in Fermi&#x27;s first 16 years of observations, searching for gamma-rays from the exploding stars.</p><p>The team published their work in an article titled &quot; Gamma-ray signature of superluminous supernovae: Fermi-LAT GeV detection of SN 2017egm and evidence of a central engine. Magnetars are neutron stars with extremely powerful magnetic fields that can be 1,000 times stronger than a typical neutron star.</p><p>“For nearly 20 years, astronomers have searched Fermi data for gamma-ray signals from thousands of supernovae, and while a few intriguing hints have been reported, none were. Gamma-rays from SN 2017egm were first discovered in 2024, years after the supernova was first observed.</p><p>Both the peak time and the luminosity of the GeV emission are consistent with the magnetar model prediction, suggesting that such a GeV transient is the high-energy counterpart of. They were first noticed in the late 1970s, or rather their gamma-rays were, as soft gamma repeaters.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>They were first called magnetars in a 1992 paper, which stated that &quot;There is evidence that the soft gamma repeaters are young magnetars.&quot; They were proven correct in 1998. The array, which will have a total of 64 telescopes, will be the most powerful ground-based gamma-ray observatory.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-magnetar-at-the-heart-of-a-superluminous-supernova\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: As supernovas superluminosas são a realeza no mundo das supernovas. Elas são até 100 vezes mais brilhantes que uma supernova padrão, e os.",
+      "Dado-chave: Elas podem ser 100 vezes mais brilhantes do que uma supernova normal com colapso de núcleo, que já é brilhante o suficiente para ofuscar todas.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: As supernovas superluminosas são a realeza no mundo das supernovas. Elas são até 100 vezes mais brilhantes que uma supernova padrão, e os.",
+      "Dado-chave: Elas podem ser 100 vezes mais brilhantes do que uma supernova normal com colapso de núcleo, que já é brilhante o suficiente para ofuscar todas.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Superluminous supernovae are the royalty in the supernova world. They're up to 100 times brighter than a standard supernova, and astrophysicists want.",
+      "Key detail: They can be 100 times brighter than a regular, core-collapse supernova, which are already bright enough to outshine all the stars in their host.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "21 mai 2026",
+    "date_pt": "21 mai 2026",
+    "date_en": "21 May 2026",
+    "time": "15h39",
+    "time_pt": "15h39",
+    "time_en": "15:39 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-21T15:39:00+00:00",
+    "lastModifiedIso": "2026-05-21T15:39:00+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "O Magnetar no Coração de uma Supernova Superluminosa"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "O Magnetar no Coração de uma Supernova Superluminosa"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "Universe Today",
+      "Cosmos Week",
+      "The Magnetar at the Heart of a Superluminous Supernova"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/the-magnetar-at-the-heart-of-a-superluminous-supernova",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-magnetar-at-the-heart-of-a-superluminous-supernova",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-magnetar-at-the-heart-of-a-superluminous-supernova",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-magnetar-at-the-heart-of-a-superluminous-supernova&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 70,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 82,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 49
+    }
+  },
+  {
     "id": 18,
     "slug": "hot-jupiter-exoplanet-has-cloudy-mornings-and-clear-evenings",
     "cat": "Exoplanetas",
@@ -2228,7 +2225,7 @@ window.postsData = [
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -2494,124 +2491,6 @@ window.postsData = [
   },
   {
     "id": 21,
-    "slug": "snappy-cubesat-takes-flight-to-test-space-based-neutrino-detectors",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://www.universetoday.com/article_images/exolaunch3_20260518_172633.webp",
-    "inline_images": [],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/mvjpi6esnc8",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.universetoday.com/articles/snappy-cubesat-takes-flight-to-test-space-based-neutrino-detectors"
-    },
-    "audio": null,
-    "title": "SNAPPY CubeSat voa para testar detectores de neutrinos baseados no espaço",
-    "title_pt": "SNAPPY CubeSat voa para testar detectores de neutrinos baseados no espaço",
-    "title_en": "SNAPPY CubeSat Takes Flight to Test Space-Based Neutrino Detectors",
-    "sub": "Os neutrinos, as segundas partículas fundamentais mais comuns no universo, são notoriamente difíceis de detectar. Até agora, só conseguimos fazer isso construindo tanques gigantes.",
-    "sub_pt": "Os neutrinos, as segundas partículas fundamentais mais comuns no universo, são notoriamente difíceis de detectar. Até agora, só conseguimos fazer isso construindo tanques gigantes.",
-    "sub_en": "Neutrinos, the second most common fundamental particles in the universe, are notoriously difficult to detect. So far we’ve only been able to do so by building giant vats of water.",
-    "excerpt": "Os neutrinos, as segundas partículas fundamentais mais comuns no universo, são notoriamente difíceis de detectar. Até agora, só conseguimos fazer isso construindo tanques gigantes de água no subsolo, com centenas de fotodetectores atentos.",
-    "excerpt_pt": "Os neutrinos, as segundas partículas fundamentais mais comuns no universo, são notoriamente difíceis de detectar. Até agora, só conseguimos fazer isso construindo tanques gigantes de água no subsolo, com centenas de fotodetectores atentos.",
-    "excerpt_en": "Neutrinos, the second most common fundamental particles in the universe, are notoriously difficult to detect. So far we’ve only been able to do so by building giant vats of water far underground with hundreds of photodetectors watching for.",
-    "body": "<p>Os neutrinos, as segundas partículas fundamentais mais comuns no universo, são notoriamente difíceis de detectar. Até agora, só conseguimos fazer isso construindo tanques gigantes de água no subsolo, com centenas de fotodetectores atentos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Mas uma nova missão CubeSat espera mudar essa dinâmica e permitir aos detectores de neutrinos do futuro uma existência muito menos restrita e cara, no espaço. O Solar Neutrino Astro-Particle PhYsics CubeSat (SNAPPY) foi lançado oficialmente nas primeiras horas de 3 de maio de 2026 a partir de um lançamento de foguete Falcon 9 na Base da.</p><p>SNAPPY é um exemplo de programa de Conceitos Avançados Inovadores (NIAC) da NASA que foi bem-sucedido. Foi originalmente financiado como Fase I pelo NIAC em 2018, depois recebeu financiamento da Fase II em 2019 e da Fase III em 2021 para permitir que o CubeSat ficasse pronto para.</p><p>Nick Solomey, professor de matemática, estatística e física na Wichita State University (WSU) percebeu que, como parte da sua missão, Parker passaria por uma região do espaço que. Isso aumentaria a probabilidade da rara colisão que nos marca “encontrar” um neutrino por um fator de 1.000.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/snappy-cubesat-takes-flight-to-test-space-based-neutrino-detectors\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os neutrinos, as segundas partículas fundamentais mais comuns no universo, são notoriamente difíceis de detectar. Até agora, só conseguimos fazer isso construindo tanques gigantes de água no subsolo, com centenas de fotodetectores atentos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Mas uma nova missão CubeSat espera mudar essa dinâmica e permitir aos detectores de neutrinos do futuro uma existência muito menos restrita e cara, no espaço. O Solar Neutrino Astro-Particle PhYsics CubeSat (SNAPPY) foi lançado oficialmente nas primeiras horas de 3 de maio de 2026 a partir de um lançamento de foguete Falcon 9 na Base da.</p><p>SNAPPY é um exemplo de programa de Conceitos Avançados Inovadores (NIAC) da NASA que foi bem-sucedido. Foi originalmente financiado como Fase I pelo NIAC em 2018, depois recebeu financiamento da Fase II em 2019 e da Fase III em 2021 para permitir que o CubeSat ficasse pronto para.</p><p>Nick Solomey, professor de matemática, estatística e física na Wichita State University (WSU) percebeu que, como parte da sua missão, Parker passaria por uma região do espaço que. Isso aumentaria a probabilidade da rara colisão que nos marca “encontrar” um neutrino por um fator de 1.000.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/snappy-cubesat-takes-flight-to-test-space-based-neutrino-detectors\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Neutrinos, the second most common fundamental particles in the universe, are notoriously difficult to detect. So far we’ve only been able to do so by building giant vats of water far underground with hundreds of photodetectors watching for. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. But a new CubeSat mission hopes to change that dynamic and enable the neutrino detectors of the future a much less constrained and expensive existence, in space. The Solar Neutrino Astro-Particle PhYsics CubeSat (SNAPPY) officially launched in the early hours of May 3rd 2026 from a Falcon 9 Rocket launch at Vandenberg Space Force Base in.</p><p>SNAPPY is an example of a NASA Innovative Advanced Concepts (NIAC) program made good. It was originally funded as a Phase I by NIAC back in 2018, then received Phase II funding in 2019, and Phase III in 2021 to enable the CubeSat to get to flight readiness, and.</p><p>Nick Solomey, a professor of mathematics, statistics, and physics at Wichita State University (WSU) realized that, as part of its mission, Parker would be passing through a region. That would increase the likelihood of the rare collision that marks us “finding” a neutrino by a factor of 1,000.</p><p>That block, made from epoxy and loaded with tungsten dust, is meant to mimic the lead commonly used in Earth-based neutrino detectors as a medium for the neutrinos to collide with. SNAPPY was a joint effort, involving research from at least four different universities, one NASA center, and a few different companies.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>The CubeSat platform the satellite is housed in was designed by Kongsberg NanoAvionics, the electronics were designed by engineers as NASA’s Marshall Spaceflight Center, and 36. The current mission is only a technology demonstrator, though.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/snappy-cubesat-takes-flight-to-test-space-based-neutrino-detectors\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os neutrinos, as segundas partículas fundamentais mais comuns no universo, são notoriamente difíceis de detectar. Até agora, só conseguimos fazer.",
-      "Dado-chave: Mas uma nova missão CubeSat espera mudar essa dinâmica e permitir aos detectores de neutrinos do futuro uma existência muito menos restrita e.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os neutrinos, as segundas partículas fundamentais mais comuns no universo, são notoriamente difíceis de detectar. Até agora, só conseguimos fazer.",
-      "Dado-chave: Mas uma nova missão CubeSat espera mudar essa dinâmica e permitir aos detectores de neutrinos do futuro uma existência muito menos restrita e.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Neutrinos, the second most common fundamental particles in the universe, are notoriously difficult to detect. So far we’ve only been able to do so by.",
-      "Key detail: But a new CubeSat mission hopes to change that dynamic and enable the neutrino detectors of the future a much less constrained and expensive.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "21 mai 2026",
-    "date_pt": "21 mai 2026",
-    "date_en": "21 May 2026",
-    "time": "12h26",
-    "time_pt": "12h26",
-    "time_en": "12:26 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-21T12:26:27+00:00",
-    "lastModifiedIso": "2026-05-21T12:26:27+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Física",
-      "Universe Today",
-      "Cosmos Week",
-      "SNAPPY CubeSat voa para testar detectores de neutrinos baseados no espaço"
-    ],
-    "keywords_pt": [
-      "Física",
-      "Universe Today",
-      "Cosmos Week",
-      "SNAPPY CubeSat voa para testar detectores de neutrinos baseados no espaço"
-    ],
-    "keywords_en": [
-      "Physical",
-      "Universe Today",
-      "Cosmos Week",
-      "SNAPPY CubeSat flies to test space-based neutrino detectors"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/snappy-cubesat-takes-flight-to-test-space-based-neutrino-detectors",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=snappy-cubesat-takes-flight-to-test-space-based-neutrino-detectors",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=snappy-cubesat-takes-flight-to-test-space-based-neutrino-detectors",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=snappy-cubesat-takes-flight-to-test-space-based-neutrino-detectors&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 73,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 82,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
-    "id": 22,
     "slug": "save-the-date-cern-safety-day-4-june-keeping-ourselves-and-each-other-safe",
     "cat": "Física",
     "catCls": "fisica",
@@ -2725,6 +2604,114 @@ window.postsData = [
       "evidence": 82,
       "relevance": 68,
       "accessibility": 52,
+      "novelty": 49
+    }
+  },
+  {
+    "id": 22,
+    "slug": "before-you-sign-anything-the-nda-procedure-is-now-on-the-admin-e-guide",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://home.cern/before-you-sign-anything-the-nda-procedure-is-now-on-the-admin-e-guide/context.post.image",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Antes de assinar qualquer coisa: o procedimento de NDA agora está no guia eletrônico do administrador",
+    "title_pt": "Antes de assinar qualquer coisa: o procedimento de NDA agora está no guia eletrônico do administrador",
+    "title_en": "Before you sign anything: the NDA procedure is now on the Admin e-guide",
+    "sub": "A troca de informações confidenciais faz parte da vida diária no CERN. Esteja você explorando uma nova tecnologia com um fornecedor, discutindo termos comerciais sensíveis ou.",
+    "sub_pt": "A troca de informações confidenciais faz parte da vida diária no CERN. Esteja você explorando uma nova tecnologia com um fornecedor, discutindo termos comerciais sensíveis ou.",
+    "sub_en": "Exchange of confidential information is part of daily life at CERN. Whether you are exploring a new technology with a supplier, discussing sensitive commercial terms or preparing.",
+    "excerpt": "A troca de informações confidenciais faz parte da vida diária no CERN. Esteja você explorando uma nova tecnologia com um fornecedor, discutindo termos comerciais sensíveis ou preparando uma colaboração, é provável que alguém lhe peça para assinar um contrato.",
+    "excerpt_pt": "A troca de informações confidenciais faz parte da vida diária no CERN. Esteja você explorando uma nova tecnologia com um fornecedor, discutindo termos comerciais sensíveis ou preparando uma colaboração, é provável que alguém lhe peça para assinar um contrato.",
+    "excerpt_en": "Exchange of confidential information is part of daily life at CERN. Whether you are exploring a new technology with a supplier, discussing sensitive commercial terms or preparing a collaboration, chances are someone will ask you to sign a.",
+    "body": "<p>A troca de informações confidenciais faz parte da vida diária no CERN. Esteja você explorando uma nova tecnologia com um fornecedor, discutindo termos comerciais sensíveis ou preparando uma colaboração, é provável que alguém lhe peça para assinar um contrato. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. No CERN Antes de assinar qualquer coisa: o procedimento de NDA agora está no Admin e-guide Escrito por: Legal Service &amp; Knowledge Transfer Group, 21 de maio de 2026 A troca de. Explore o procedimento de NDA no Admin e-guide: https: //admin-eguide. web. cern. ch/en/procedure/non-disclosure-agreements-nda-drafting-and-signing Anúncio Comunidade CERN.</p><p>A troca de informações confidenciais faz parte da vida diária no CERN. Esteja você explorando uma nova tecnologia com um fornecedor, discutindo termos comerciais sensíveis ou preparando uma colaboração, é provável que alguém lhe peça para assinar um.</p><p>E é provável que você não tenha certeza do que fazer a seguir. O CERN agora tem um procedimento de NDA claro, atualizado e passo a passo publicado no Admin e-guide, e vale a pena marcá-lo no navegador de sua preferência.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/before-you-sign-anything-the-nda-procedure-is-now-on-the-admin-e-guide/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A troca de informações confidenciais faz parte da vida diária no CERN. Esteja você explorando uma nova tecnologia com um fornecedor, discutindo termos comerciais sensíveis ou preparando uma colaboração, é provável que alguém lhe peça para assinar um contrato. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. No CERN Antes de assinar qualquer coisa: o procedimento de NDA agora está no Admin e-guide Escrito por: Legal Service &amp; Knowledge Transfer Group, 21 de maio de 2026 A troca de. Explore o procedimento de NDA no Admin e-guide: https: //admin-eguide. web. cern. ch/en/procedure/non-disclosure-agreements-nda-drafting-and-signing Anúncio Comunidade CERN.</p><p>A troca de informações confidenciais faz parte da vida diária no CERN. Esteja você explorando uma nova tecnologia com um fornecedor, discutindo termos comerciais sensíveis ou preparando uma colaboração, é provável que alguém lhe peça para assinar um.</p><p>E é provável que você não tenha certeza do que fazer a seguir. O CERN agora tem um procedimento de NDA claro, atualizado e passo a passo publicado no Admin e-guide, e vale a pena marcá-lo no navegador de sua preferência.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/before-you-sign-anything-the-nda-procedure-is-now-on-the-admin-e-guide/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Exchange of confidential information is part of daily life at CERN. Whether you are exploring a new technology with a supplier, discussing sensitive commercial terms or preparing a collaboration, chances are someone will ask you to sign a. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. At CERN Before you sign anything: the NDA procedure is now on the Admin e-guide Written by: Legal Service &amp; Knowledge Transfer Group, 21 May, 2026 Exchange of confidential. Explore the NDA procedure on the Admin e-guide: https: //admin-eguide. web. cern. ch/en/procedure/non-disclosure-agreements-nda-drafting-and-signing Announcement CERN community.</p><p>Exchange of confidential information is part of daily life at CERN. Whether you are exploring a new technology with a supplier, discussing sensitive commercial terms or preparing a collaboration, chances are someone will ask you to sign a.</p><p>And chances are, you will not be entirely sure what to do next. CERN now has a clear, updated, step-by-step NDA procedure published on the Admin e-guide, and it is worth bookmarking on your browser of choice.</p><p>The procedure walks you through everything: checking whether an NDA already exists before drafting a new one (yes, we have a database for that), selecting the right template. It also clarifies who needs to sign on CERN’s behalf, because yes, that matters a lot.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>CERN templates exist for a reason: they protect CERN’s status as an international organisation. Third-party templates can create real legal headaches and should be declined whenever possible.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/before-you-sign-anything-the-nda-procedure-is-now-on-the-admin-e-guide/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A troca de informações confidenciais faz parte da vida diária no CERN. Esteja você explorando uma nova tecnologia com um fornecedor, discutindo.",
+      "Dado-chave: No CERN Antes de assinar qualquer coisa: o procedimento de NDA agora está no Admin e-guide Escrito por: Legal Service & Knowledge Transfer.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A troca de informações confidenciais faz parte da vida diária no CERN. Esteja você explorando uma nova tecnologia com um fornecedor, discutindo.",
+      "Dado-chave: No CERN Antes de assinar qualquer coisa: o procedimento de NDA agora está no Admin e-guide Escrito por: Legal Service & Knowledge Transfer.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Exchange of confidential information is part of daily life at CERN. Whether you are exploring a new technology with a supplier, discussing sensitive.",
+      "Key detail: At CERN Before you sign anything: the NDA procedure is now on the Admin e-guide Written by: Legal Service & Knowledge Transfer Group, 21 May.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "21 mai 2026",
+    "date_pt": "21 mai 2026",
+    "date_en": "21 May 2026",
+    "time": "13h11",
+    "time_pt": "13h11",
+    "time_en": "13:11 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-21T13:11:04+00:00",
+    "lastModifiedIso": "2026-05-21T13:11:04+00:00",
+    "source": "CERN News",
+    "sourceDomain": "home.cern",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "CERN News",
+      "Cosmos Week",
+      "Antes de assinar qualquer coisa",
+      "o procedimento de NDA agora está no guia eletrônico do administrador"
+    ],
+    "keywords_pt": [
+      "Física",
+      "CERN News",
+      "Cosmos Week",
+      "Antes de assinar qualquer coisa",
+      "o procedimento de NDA agora está no guia eletrônico do administrador"
+    ],
+    "keywords_en": [
+      "Physical",
+      "CERN News",
+      "Cosmos Week",
+      "Before signing anything",
+      "the NDA procedure is now in the administrator's e-guide"
+    ],
+    "srcUrl": "https://home.cern/before-you-sign-anything-the-nda-procedure-is-now-on-the-admin-e-guide/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=before-you-sign-anything-the-nda-procedure-is-now-on-the-admin-e-guide",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=before-you-sign-anything-the-nda-procedure-is-now-on-the-admin-e-guide",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=before-you-sign-anything-the-nda-procedure-is-now-on-the-admin-e-guide&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 71,
+    "scoreBreakdown": {
+      "source": 86,
+      "evidence": 82,
+      "relevance": 64,
+      "accessibility": 60,
       "novelty": 49
     }
   },
@@ -2945,11 +2932,147 @@ window.postsData = [
       "evidence": 88,
       "relevance": 80,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
     "id": 25,
+    "slug": "keeping-nasa-flying-ground-crews-ensure-aircraft-readiness",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://images-assets.nasa.gov/image/AFRC2026-0053-25/AFRC2026-0053-25~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://images-assets.nasa.gov/image/AFRC2026-0004-036/AFRC2026-0004-036~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Três homens, dois vestindo trajes de voo bege e um vestindo uma jaqueta preta com listras amarelas reflexivas, caminham para o lado direito de um avião a jato. A aeronave está voltada para frente e o velame está aberto. Duas rodas, entradas, asas e.",
+        "caption_pt": "Três homens, dois vestindo trajes de voo bege e um vestindo uma jaqueta preta com listras amarelas reflexivas, caminham para o lado direito de um avião a jato. A aeronave está voltada para frente e o velame está aberto. Duas rodas, entradas, asas e.",
+        "caption_en": "Three men, two wearing tan flight suits, and one wearing a black jacket with stripes of reflective yellow coating, walk to the right side of a jet aircraft. The aircraft faces forward and the canopy is open. Two wheels, intakes, wings, and.",
+        "alt": "Três homens, dois vestindo trajes de voo bege e um vestindo uma jaqueta preta com listras amarelas reflexivas, caminham para o lado direito de um avião a jato. A aeronave está voltada para frente e o velame está aberto. Duas rodas, entradas, asas e.",
+        "alt_pt": "Três homens, dois vestindo trajes de voo bege e um vestindo uma jaqueta preta com listras amarelas reflexivas, caminham para o lado direito de um avião a jato. A aeronave está voltada para frente e o velame está aberto. Duas rodas, entradas, asas e.",
+        "alt_en": "Three men, two wearing tan flight suits, and one wearing a black jacket with stripes of reflective yellow coating, walk to the right side of a jet aircraft. The aircraft faces forward and the canopy is open. Two wheels, intakes, wings, and."
+      },
+      {
+        "src": "https://images-assets.nasa.gov/image/AFRC2026-0012-076/AFRC2026-0012-076~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Quatro homens cercam um objeto redondo preso a uma asa de avião com prateleiras e fiação em seu interior. Os braços de um homem estão dentro do objeto e ele está ajustando um equipamento de metal dourado. Os outros homens observam enquanto ele trabalha no hardware.",
+        "caption_pt": "Quatro homens cercam um objeto redondo preso a uma asa de avião com prateleiras e fiação em seu interior. Os braços de um homem estão dentro do objeto e ele está ajustando um equipamento de metal dourado. Os outros homens observam enquanto ele trabalha no hardware.",
+        "caption_en": "Four men surround a round object attached to an aircraft wing with shelves and wiring inside. One man’s arms are inside of the object, and he is adjusting a gold-colored piece of metal equipment. The other men watch as he works on the hardware.",
+        "alt": "Quatro homens cercam um objeto redondo preso a uma asa de avião com prateleiras e fiação em seu interior. Os braços de um homem estão dentro do objeto e ele está ajustando um equipamento de metal dourado. Os outros homens observam enquanto ele trabalha no hardware.",
+        "alt_pt": "Quatro homens cercam um objeto redondo preso a uma asa de avião com prateleiras e fiação em seu interior. Os braços de um homem estão dentro do objeto e ele está ajustando um equipamento de metal dourado. Os outros homens observam enquanto ele trabalha no hardware.",
+        "alt_en": "Four men surround a round object attached to an aircraft wing with shelves and wiring inside. One man’s arms are inside of the object, and he is adjusting a gold-colored piece of metal equipment. The other men watch as he works on the hardware."
+      },
+      {
+        "src": "https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-1.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Mantendo a NASA voando: equipes de solo garantem a prontidão da aeronave",
+    "title_pt": "Mantendo a NASA voando: equipes de solo garantem a prontidão da aeronave",
+    "title_en": "Keeping NASA Flying: Ground Crews Ensure Aircraft Readiness",
+    "sub": "Desde voos de pesquisa em alta velocidade até campanhas científicas em grandes altitudes, a NASA depende de aeronaves que tenham o melhor desempenho e de equipes de terra que as.",
+    "sub_pt": "Desde voos de pesquisa em alta velocidade até campanhas científicas em grandes altitudes, a NASA depende de aeronaves que tenham o melhor desempenho e de equipes de terra que as.",
+    "sub_en": "From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them mission ready. At.",
+    "excerpt": "Desde voos de pesquisa em alta velocidade até campanhas científicas em grandes altitudes, a NASA depende de aeronaves que tenham o melhor desempenho e de equipes de terra que as mantenham prontas para a missão. No Armstrong Flight Research Center da NASA em.",
+    "excerpt_pt": "Desde voos de pesquisa em alta velocidade até campanhas científicas em grandes altitudes, a NASA depende de aeronaves que tenham o melhor desempenho e de equipes de terra que as mantenham prontas para a missão. No Armstrong Flight Research Center da NASA em.",
+    "excerpt_en": "From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them mission ready. At NASA’s Armstrong Flight Research Center in Edwards, California.",
+    "body": "<p>Desde voos de pesquisa em alta velocidade até campanhas científicas em grandes altitudes, a NASA depende de aeronaves que tenham o melhor desempenho e de equipes de terra que as mantenham prontas para a missão. No Armstrong Flight Research Center da NASA em Edwards, Califórnia. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 4 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) O chefe da tripulação da NASA, Walt Kondracki, verifica uma aeronave F-15 na. O piloto da NASA Nils Larson, à esquerda, caminha ao lado do chefe da tripulação Walt Kondracki, à direita, perto de uma aeronave F-15 na terça-feira, 1º de janeiro.</p><p>13 de outubro de 2026, no Armstrong Flight Research Center da NASA em Edwards, Califórnia. No fundo, o mecânico da NASA Tim Logan protege a cabine dentro do F-15, e o engenheiro de testes de voo A. J.</p><p>26 de outubro de 2026, no Armstrong Flight Research Center da NASA em Edwards, Califórnia.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Desde voos de pesquisa em alta velocidade até campanhas científicas em grandes altitudes, a NASA depende de aeronaves que tenham o melhor desempenho e de equipes de terra que as mantenham prontas para a missão. No Armstrong Flight Research Center da NASA em Edwards, Califórnia. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 4 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) O chefe da tripulação da NASA, Walt Kondracki, verifica uma aeronave F-15 na. O piloto da NASA Nils Larson, à esquerda, caminha ao lado do chefe da tripulação Walt Kondracki, à direita, perto de uma aeronave F-15 na terça-feira, 1º de janeiro.</p><p>13 de outubro de 2026, no Armstrong Flight Research Center da NASA em Edwards, Califórnia. No fundo, o mecânico da NASA Tim Logan protege a cabine dentro do F-15, e o engenheiro de testes de voo A. J.</p><p>26 de outubro de 2026, no Armstrong Flight Research Center da NASA em Edwards, Califórnia.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them mission ready. At NASA’s Armstrong Flight Research Center in Edwards, California. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them mission ready. 4 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) NASA crew chief Walt Kondracki checks an F-15 aircraft Tuesday, March 17, 2026, at NASA’s Armstrong.</p><p>NASA pilot Nils Larson, left, walks next to crew chief Walt Kondracki, right, by an F-15 aircraft Tuesday, Jan. 13, 2026, at NASA’s Armstrong Flight Research Center in Edwards, California.</p><p>In the background, NASA mechanic Tim Logan secures the cockpit inside of the F-15, and flight test engineer A. J. 26, 2026, at NASA’s Armstrong Flight Research Center in Edwards, California.</p><p>NASA/Christopher LC Clark On any given day, an aircraft may be flight-ready for a mission, undergoing scheduled maintenance or modifications, or down for longer-term care. From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them Article NASA crew chief.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>NASA/Carla Escamilla From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them. This year, NASA added two F-15s and a Pilatus PC-12 to its fleet at Armstrong.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Desde voos de pesquisa em alta velocidade até campanhas científicas em grandes altitudes, a NASA depende de aeronaves que tenham o melhor desempenho.",
+      "Dado-chave: Desde voos de pesquisa em alta velocidade até campanhas científicas em grandes altitudes, a NASA depende de aeronaves que tenham o melhor.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Desde voos de pesquisa em alta velocidade até campanhas científicas em grandes altitudes, a NASA depende de aeronaves que tenham o melhor desempenho.",
+      "Dado-chave: Desde voos de pesquisa em alta velocidade até campanhas científicas em grandes altitudes, a NASA depende de aeronaves que tenham o melhor.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who.",
+      "Key detail: From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "22 mai 2026",
+    "date_pt": "22 mai 2026",
+    "date_en": "22 May 2026",
+    "time": "15h45",
+    "time_pt": "15h45",
+    "time_en": "15:45 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-22T15:45:38+00:00",
+    "lastModifiedIso": "2026-05-22T15:45:38+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Mantendo a NASA voando",
+      "equipes de solo garantem a prontidão da aeronave"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Mantendo a NASA voando",
+      "equipes de solo garantem a prontidão da aeronave"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Keeping NASA Flying",
+      "Ground crews ensure aircraft readiness"
+    ],
+    "srcUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=keeping-nasa-flying-ground-crews-ensure-aircraft-readiness",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=keeping-nasa-flying-ground-crews-ensure-aircraft-readiness",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=keeping-nasa-flying-ground-crews-ensure-aircraft-readiness&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 81,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 49
+    }
+  },
+  {
+    "id": 26,
     "slug": "esa-s-prodex-programme-brings-scientific-research-to-space",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3054,7 +3177,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "how-to-follow-the-smile-launch-live",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3159,7 +3282,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "nasa-announces-realignment-to-accelerate-mission-delivery",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3264,7 +3387,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "nasa-to-showcase-mission-to-boost-swift-spacecraft-s-orbit",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3369,7 +3492,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3505,7 +3628,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3632,7 +3755,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "science-release-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3768,7 +3891,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "new-material-could-help-nasa-melt-moon-rocks-harness-lunar-resources",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3901,7 +4024,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "nsf-doe-vera-c-rubin-observatory-launches-real-time-discovery-machine-for-monitoring-the-night-s",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4050,7 +4173,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "this-week-s-sky-at-a-glance-may-22-31",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4186,7 +4309,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "nereid-could-be-neptune-s-only-original-moon",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4301,7 +4424,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "join-esa-for-a-total-solar-eclipse-on-12-august-2026",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4437,7 +4560,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "waterworn-chaos-on-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4542,7 +4665,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 39,
     "slug": "stonehenge-and-the-geometry-of-the-sky",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4675,7 +4798,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 40,
     "slug": "this-week-s-sky-at-a-glance-may-15-24",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4808,121 +4931,6 @@ window.postsData = [
       "relevance": 88,
       "accessibility": 60,
       "novelty": 46
-    }
-  },
-  {
-    "id": 40,
-    "slug": "john-f-kennedy-moon-landing-speech-65th-anniversary",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2016/05/apollo-11-landing-site.png",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Discurso de pouso na lua de John F. Kennedy 65º aniversário",
-    "title_pt": "Discurso de pouso na lua de John F. Kennedy 65º aniversário",
-    "title_en": "John F. Kennedy moon landing speech 65th anniversary",
-    "sub": "Em 25 de maio de 1961, John F. Kennedy dirigiu-se ao Congresso dos EUA, inspirando uma nação a pousar na Lua, as missões Apollo e o sonho de um retorno à Lua. A postagem do.",
-    "sub_pt": "Em 25 de maio de 1961, John F. Kennedy dirigiu-se ao Congresso dos EUA, inspirando uma nação a pousar na Lua, as missões Apollo e o sonho de um retorno à Lua. A postagem do.",
-    "sub_en": "On May 25, 1961, John F. Kennedy addressed the US Congress, inspiring a nation to a moon landing, the Apollo missions, and the dream of a return to the moon. The post John F.",
-    "excerpt": "Em 25 de maio de 1961, John F. Kennedy dirigiu-se ao Congresso dos EUA, inspirando uma nação a pousar na Lua, as missões Apollo e o sonho de um retorno à Lua. A postagem do discurso de pouso na Lua de John F. Kennedy, 65º aniversário, apareceu pela primeira.",
-    "excerpt_pt": "Em 25 de maio de 1961, John F. Kennedy dirigiu-se ao Congresso dos EUA, inspirando uma nação a pousar na Lua, as missões Apollo e o sonho de um retorno à Lua. A postagem do discurso de pouso na Lua de John F. Kennedy, 65º aniversário, apareceu pela primeira.",
-    "excerpt_en": "On May 25, 1961, John F. Kennedy addressed the US Congress, inspiring a nation to a moon landing, the Apollo missions, and the dream of a return to the moon. The post John F. Kennedy moon landing speech 65th anniversary first appeared on.",
-    "body": "<p>Em 25 de maio de 1961, John F. Kennedy dirigiu-se ao Congresso dos EUA, inspirando uma nação a pousar na Lua, as missões Apollo e o sonho de um retorno à Lua. A postagem do discurso de pouso na Lua de John F. Kennedy, 65º aniversário, apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Primeiro pouso na Lua em 1969 Os primeiros passos humanos na Lua foram dados durante a missão Apollo 11 em 20 de julho de 1969. Local de pouso da Apollo 11 na Lua, 1969.</p><p>As missões Apollo Seis missões Apollo foram à Lua: Apollo 11, 12, 14, 15, 16 e 17. As Apollo 7 e 9 precederam a Apollo 11 e orbitaram a Terra como um teste dos módulos lunares.</p><p>Em seguida, as Apollo 8 e 10 testaram componentes técnicos enquanto orbitavam a Lua e retornaram fotos de qualidade da superfície lunar. As missões Apollo retornaram uma riqueza de dados sobre a Lua e 842 libras (382 kg) de rochas.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/human-world/this-date-in-science-kennedy-speech-ignites-dreams-of-moon-landing/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em 25 de maio de 1961, John F. Kennedy dirigiu-se ao Congresso dos EUA, inspirando uma nação a pousar na Lua, as missões Apollo e o sonho de um retorno à Lua. A postagem do discurso de pouso na Lua de John F. Kennedy, 65º aniversário, apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Primeiro pouso na Lua em 1969 Os primeiros passos humanos na Lua foram dados durante a missão Apollo 11 em 20 de julho de 1969. Local de pouso da Apollo 11 na Lua, 1969.</p><p>As missões Apollo Seis missões Apollo foram à Lua: Apollo 11, 12, 14, 15, 16 e 17. As Apollo 7 e 9 precederam a Apollo 11 e orbitaram a Terra como um teste dos módulos lunares.</p><p>Em seguida, as Apollo 8 e 10 testaram componentes técnicos enquanto orbitavam a Lua e retornaram fotos de qualidade da superfície lunar. As missões Apollo retornaram uma riqueza de dados sobre a Lua e 842 libras (382 kg) de rochas.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/human-world/this-date-in-science-kennedy-speech-ignites-dreams-of-moon-landing/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>On May 25, 1961, John F. Kennedy addressed the US Congress, inspiring a nation to a moon landing, the Apollo missions, and the dream of a return to the moon. The post John F. Kennedy moon landing speech 65th anniversary first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. 1st moon landing in 1969 The first human footsteps on the moon were taken during the Apollo 11 mission on July 20, 1969. Apollo 11 moon landing site, 1969.</p><p>The Apollo missions Six Apollo missions went to the moon: Apollo 11, 12, 14, 15, 16 and 17. Apollo 7 and 9 preceded Apollo 11 and orbited Earth as a test of the lunar modules.</p><p>Then, Apollo 8 and 10 tested technical components while orbiting the moon and returned quality photos of the lunar surface. The Apollo missions returned a wealth of data about the moon, and 842 pounds (382 kg) of rocks.</p><p>The Apollo program, which first took humans to the moon in the late 1960s and early 1970s, has long awaited a successor. Artemis 1 was an uncrewed test mission that circled the moon and returned.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Artemis 2 sent four astronauts to orbit the moon and returned them safely to Earth in April 2026. Two month ago, EarthSky released the interview below with veteran space journalist Eric Berger of Ars Technica, about the Artemis 2 mission.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/human-world/this-date-in-science-kennedy-speech-ignites-dreams-of-moon-landing/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Em 25 de maio de 1961, John F. Kennedy dirigiu-se ao Congresso dos EUA, inspirando uma nação a pousar na Lua, as missões Apollo e o sonho de um.",
-      "Dado-chave: Primeiro pouso na Lua em 1969 Os primeiros passos humanos na Lua foram dados durante a missão Apollo 11 em 20 de julho de 1969.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Em 25 de maio de 1961, John F. Kennedy dirigiu-se ao Congresso dos EUA, inspirando uma nação a pousar na Lua, as missões Apollo e o sonho de um.",
-      "Dado-chave: Primeiro pouso na Lua em 1969 Os primeiros passos humanos na Lua foram dados durante a missão Apollo 11 em 20 de julho de 1969.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: On May 25, 1961, John F. Kennedy addressed the US Congress, inspiring a nation to a moon landing, the Apollo missions, and the dream of a return to.",
-      "Key detail: 1st moon landing in 1969 The first human footsteps on the moon were taken during the Apollo 11 mission on July 20, 1969.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "24 mai 2026",
-    "date_pt": "24 mai 2026",
-    "date_en": "24 May 2026",
-    "time": "11h31",
-    "time_pt": "11h31",
-    "time_en": "11:31 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-24T11:31:17+00:00",
-    "lastModifiedIso": "2026-05-24T11:31:17+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Discurso de pouso na lua de John F. Kennedy 65º aniversário"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Discurso de pouso na lua de John F. Kennedy 65º aniversário"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "John F. Kennedy 65th Anniversary Moon Landing Speech"
-    ],
-    "srcUrl": "https://earthsky.org/human-world/this-date-in-science-kennedy-speech-ignites-dreams-of-moon-landing/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=john-f-kennedy-moon-landing-speech-65th-anniversary",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=john-f-kennedy-moon-landing-speech-65th-anniversary",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=john-f-kennedy-moon-landing-speech-65th-anniversary&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 88,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
     }
   }
 ];

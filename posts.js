@@ -40,14 +40,14 @@ window.postsData = [
     "date": "05 jun 2026",
     "date_pt": "05 jun 2026",
     "date_en": "05 Jun 2026",
-    "time": "04h42",
-    "time_pt": "04h42",
-    "time_en": "04:42 UTC",
+    "time": "08h50",
+    "time_pt": "08h50",
+    "time_en": "08:50 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-05T04:42:50.963448+00:00",
-    "lastModifiedIso": "2026-06-05T04:42:50.963448+00:00",
+    "publishedIso": "2026-06-05T08:50:31.753214+00:00",
+    "lastModifiedIso": "2026-06-05T08:50:31.753214+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -151,14 +151,14 @@ window.postsData = [
     "date": "05 jun 2026",
     "date_pt": "05 jun 2026",
     "date_en": "05 Jun 2026",
-    "time": "04h42",
-    "time_pt": "04h42",
-    "time_en": "04:42 UTC",
+    "time": "08h50",
+    "time_pt": "08h50",
+    "time_en": "08:50 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-05T04:42:50.963403+00:00",
-    "lastModifiedIso": "2026-06-05T04:42:50.963403+00:00",
+    "publishedIso": "2026-06-05T08:50:31.753168+00:00",
+    "lastModifiedIso": "2026-06-05T08:50:31.753168+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -256,14 +256,14 @@ window.postsData = [
     "date": "05 jun 2026",
     "date_pt": "05 jun 2026",
     "date_en": "05 Jun 2026",
-    "time": "04h42",
-    "time_pt": "04h42",
-    "time_en": "04:42 UTC",
+    "time": "08h50",
+    "time_pt": "08h50",
+    "time_en": "08:50 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-05T04:42:50.963360+00:00",
-    "lastModifiedIso": "2026-06-05T04:42:50.963360+00:00",
+    "publishedIso": "2026-06-05T08:50:31.753125+00:00",
+    "lastModifiedIso": "2026-06-05T08:50:31.753125+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -364,14 +364,14 @@ window.postsData = [
     "date": "05 jun 2026",
     "date_pt": "05 jun 2026",
     "date_en": "05 Jun 2026",
-    "time": "04h42",
-    "time_pt": "04h42",
-    "time_en": "04:42 UTC",
+    "time": "08h50",
+    "time_pt": "08h50",
+    "time_en": "08:50 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-05T04:42:50.963316+00:00",
-    "lastModifiedIso": "2026-06-05T04:42:50.963316+00:00",
+    "publishedIso": "2026-06-05T08:50:31.753081+00:00",
+    "lastModifiedIso": "2026-06-05T08:50:31.753081+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -469,14 +469,14 @@ window.postsData = [
     "date": "05 jun 2026",
     "date_pt": "05 jun 2026",
     "date_en": "05 Jun 2026",
-    "time": "04h42",
-    "time_pt": "04h42",
-    "time_en": "04:42 UTC",
+    "time": "08h50",
+    "time_pt": "08h50",
+    "time_en": "08:50 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-05T04:42:50.963270+00:00",
-    "lastModifiedIso": "2026-06-05T04:42:50.963270+00:00",
+    "publishedIso": "2026-06-05T08:50:31.753036+00:00",
+    "lastModifiedIso": "2026-06-05T08:50:31.753036+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -540,6 +540,121 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "arietids-most-active-daytime-meteor-shower-around-june-10",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2022/06/Arieids-Radiant-Point-no-planets-800x798.jpg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Arietids – chuva de meteoros diurna mais ativa – por volta de 10 de junho",
+    "title_pt": "Arietids – chuva de meteoros diurna mais ativa – por volta de 10 de junho",
+    "title_en": "Arietids – most active daytime meteor shower – around June 10",
+    "sub": "As Arietidas, a chuva de meteoros diurna mais ativa, atingem seu pico nas manhãs por volta de 10 de junho. Observe-as antes do amanhecer enquanto bloqueia a luz da lua. O post.",
+    "sub_pt": "As Arietidas, a chuva de meteoros diurna mais ativa, atingem seu pico nas manhãs por volta de 10 de junho. Observe-as antes do amanhecer enquanto bloqueia a luz da lua. O post.",
+    "sub_en": "The Arietids, the most active daytime meteor shower, peak on the mornings around June 10. Watch for them before dawn while blocking out the light of the moon. The post Arietids.",
+    "excerpt": "As Arietidas, a chuva de meteoros diurna mais ativa, atingem seu pico nas manhãs por volta de 10 de junho. Observe-as antes do amanhecer enquanto bloqueia a luz da lua. O post Arietids, chuva de meteoros diurna mais ativa, por volta de 10 de junho.",
+    "excerpt_pt": "As Arietidas, a chuva de meteoros diurna mais ativa, atingem seu pico nas manhãs por volta de 10 de junho. Observe-as antes do amanhecer enquanto bloqueia a luz da lua. O post Arietids, chuva de meteoros diurna mais ativa, por volta de 10 de junho.",
+    "excerpt_en": "The Arietids, the most active daytime meteor shower, peak on the mornings around June 10. Watch for them before dawn while blocking out the light of the moon. The post Arietids, most active daytime meteor shower, around June 10 first.",
+    "body": "<p>As Arietidas, a chuva de meteoros diurna mais ativa, atingem seu pico nas manhãs por volta de 10 de junho. Observe-as antes do amanhecer enquanto bloqueia a luz da lua. O post Arietids, chuva de meteoros diurna mais ativa, por volta de 10 de junho. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Arietids, chuva de meteoros diurna mais ativa, por volta de 10 de junho apareceu pela primeira vez no EarthSky. Observe-os na direção do nascer do sol, na hora escura antes do amanhecer, de 22 de maio a 3 de julho.</p><p>Assista de 22 de maio a 3 de julho. Em 2026, uma lua crescente ocorre às 10: 00 UTC de 8 de junho.</p><p>Portanto, nas manhãs por volta de 10 de junho, uma lua crescente e espessa interferirá na observação de meteoros. Observe de um lugar à sombra da lua ou encontre um objeto distante para bloquear a luz da lua.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/arietids-daytime-meteor-shower-peaks/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>As Arietidas, a chuva de meteoros diurna mais ativa, atingem seu pico nas manhãs por volta de 10 de junho. Observe-as antes do amanhecer enquanto bloqueia a luz da lua. O post Arietids, chuva de meteoros diurna mais ativa, por volta de 10 de junho. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Arietids, chuva de meteoros diurna mais ativa, por volta de 10 de junho apareceu pela primeira vez no EarthSky. Observe-os na direção do nascer do sol, na hora escura antes do amanhecer, de 22 de maio a 3 de julho.</p><p>Assista de 22 de maio a 3 de julho. Em 2026, uma lua crescente ocorre às 10: 00 UTC de 8 de junho.</p><p>Portanto, nas manhãs por volta de 10 de junho, uma lua crescente e espessa interferirá na observação de meteoros. Observe de um lugar à sombra da lua ou encontre um objeto distante para bloquear a luz da lua.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/arietids-daytime-meteor-shower-peaks/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The Arietids, the most active daytime meteor shower, peak on the mornings around June 10. Watch for them before dawn while blocking out the light of the moon. The post Arietids, most active daytime meteor shower, around June 10 first. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The post Arietids, most active daytime meteor shower, around June 10 first appeared on EarthSky. Watch for them in the sunrise direction in the dark hour before dawn from May 22 to July 3.</p><p>Watch from May 22 to July 3. In 2026, a 3rd quarter moon occurs at 10: 00 UTC on June 8.</p><p>So on the mornings around June 10, a thick waxing crescent moon will interfere with watching for meteors. Watch from a place that’s in the moon shadow or find a distant object to block out the light of the moon.</p><p>More about a shower’s radiant point The Arietids shower’s radiant point, the point in the sky from which the meteors appear to radiate, is only 30 degrees from the sun. This 30-degree angle, the angle between the sun and the meteor radiant as seen from Earth, is the shower’s elongation.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The radiant rises just before the beginning of astronomical twilight, the darkest twilight stage, which is defined as the period of time when the center of the sun is 12 degrees. Meteor counts with radar and radio echoes have indicated a rate of 60 meteors per hour, and perhaps as high as 200 meteors per hour.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/arietids-daytime-meteor-shower-peaks/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: As Arietidas, a chuva de meteoros diurna mais ativa, atingem seu pico nas manhãs por volta de 10 de junho. Observe-as antes do amanhecer enquanto.",
+      "Dado-chave: O post Arietids, chuva de meteoros diurna mais ativa, por volta de 10 de junho apareceu pela primeira vez no EarthSky.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: As Arietidas, a chuva de meteoros diurna mais ativa, atingem seu pico nas manhãs por volta de 10 de junho. Observe-as antes do amanhecer enquanto.",
+      "Dado-chave: O post Arietids, chuva de meteoros diurna mais ativa, por volta de 10 de junho apareceu pela primeira vez no EarthSky.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The Arietids, the most active daytime meteor shower, peak on the mornings around June 10. Watch for them before dawn while blocking out the light of.",
+      "Key detail: The post Arietids, most active daytime meteor shower, around June 10 first appeared on EarthSky.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "05 jun 2026",
+    "date_pt": "05 jun 2026",
+    "date_en": "05 Jun 2026",
+    "time": "06h45",
+    "time_pt": "06h45",
+    "time_en": "06:45 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-05T06:45:01+00:00",
+    "lastModifiedIso": "2026-06-05T06:45:01+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Arietids – chuva de meteoros diurna mais ativa – por volta de 10 de junho"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Arietids – chuva de meteoros diurna mais ativa – por volta de 10 de junho"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "Arietids – most active daytime meteor shower – around June 10"
+    ],
+    "srcUrl": "https://earthsky.org/astronomy-essentials/arietids-daytime-meteor-shower-peaks/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=arietids-most-active-daytime-meteor-shower-around-june-10",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=arietids-most-active-daytime-meteor-shower-around-june-10",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=arietids-most-active-daytime-meteor-shower-around-june-10&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 68,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 62,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "fighting-fire-with-fire",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -658,7 +773,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -672,7 +787,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "auroras-may-dance-over-the-u-s-thursday-night-june-4-5",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -824,7 +939,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "new-cloud-detecting-method-will-help-astronomers-characterize-exoplanets",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -948,7 +1063,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "tessera-ai-model-offers-accessible-way-to-view-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1076,139 +1191,6 @@ window.postsData = [
       "source": 76,
       "evidence": 82,
       "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "record-ultraviolet-quasar-wind-reaches-30-light-speed-near-supermassive-black-hole",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/fastest-and-most-furio.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fastest-and-most-furio.jpg",
-        "caption": "A impressão artística de um quasar. O ponto preto no centro representa o buraco negro supermassivo no centro do quasar. A espiral vermelha e amarela que o rodeia mostra o disco de gás quente caindo no buraco negro. Alguns deles.",
-        "caption_pt": "A impressão artística de um quasar. O ponto preto no centro representa o buraco negro supermassivo no centro do quasar. A espiral vermelha e amarela que o rodeia mostra o disco de gás quente caindo no buraco negro. Alguns deles.",
-        "caption_en": "An artist's impression of a quasar. The black dot in the center represents the supermassive black hole at the center of the quasar. The red-and-yellow spiral surrounding it shows the disc of hot gas falling into the black hole. Some of.",
-        "alt": "Vento ultravioleta mais rápido e furioso perto de um buraco negro encontrado por pesquisadores da Universidade de York",
-        "alt_pt": "Vento ultravioleta mais rápido e furioso perto de um buraco negro encontrado por pesquisadores da Universidade de York",
-        "alt_en": "Fastest and most furious ultraviolet wind near a black hole found by York University researchers"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Vento recorde de quasar ultravioleta atinge 30% da velocidade da luz perto de buraco negro supermassivo",
-    "title_pt": "Vento recorde de quasar ultravioleta atinge 30% da velocidade da luz perto de buraco negro supermassivo",
-    "title_en": "Record ultraviolet quasar wind reaches 30% light speed near supermassive black hole",
-    "sub": "Uma equipe liderada por pesquisadores da Universidade de York descobriu o vento mais rápido perto de um buraco negro supermassivo já encontrado em comprimentos de onda.",
-    "sub_pt": "Uma equipe liderada por pesquisadores da Universidade de York descobriu o vento mais rápido perto de um buraco negro supermassivo já encontrado em comprimentos de onda.",
-    "sub_en": "A team led by York University researchers has discovered the fastest wind near a supermassive black hole ever found at ultraviolet wavelengths, driven by the disk of matter.",
-    "excerpt": "Uma equipe liderada por pesquisadores da Universidade de York descobriu o vento mais rápido perto de um buraco negro supermassivo já encontrado em comprimentos de onda ultravioleta, impulsionado pelo disco de matéria que circunda o buraco negro.",
-    "excerpt_pt": "Uma equipe liderada por pesquisadores da Universidade de York descobriu o vento mais rápido perto de um buraco negro supermassivo já encontrado em comprimentos de onda ultravioleta, impulsionado pelo disco de matéria que circunda o buraco negro.",
-    "excerpt_en": "A team led by York University researchers has discovered the fastest wind near a supermassive black hole ever found at ultraviolet wavelengths, driven by the disk of matter surrounding the black hole.",
-    "body": "<p>Uma equipe liderada por pesquisadores da Universidade de York descobriu o vento mais rápido perto de um buraco negro supermassivo já encontrado em comprimentos de onda ultravioleta, impulsionado pelo disco de matéria que circunda o buraco negro. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. O que não é típico é que o gás se mova em nossa direção a 30% da velocidade da luz&quot;, diz o professor Patrick Hall, da Faculdade de Ciências de York. A equipe de pesquisa inclui o estudante de graduação e autor principal de York, Lucas Seaton, a estudante de graduação Marianna Veltri e o estudante de graduação Zezhou Zhu.</p><p>Chamá-lo de categoria 79 dá uma ideia de quão rápido ele é, mas é claro, este vento é diferente de tudo na Terra.&quot; Os astrónomos sabem há quase três décadas que cada grande. Ventos ainda mais rápidos podem ser vistos em comprimentos de onda de raios X, mas J2318 é o mais rápido já descoberto em comprimentos de onda ultravioleta.&quot; Ao contrário das.</p><p>Descubra o que há de mais recente em ciência, tecnologia e espaço com mais de 100.000 assinantes que confiam no Phys. org para obter insights diários. Ele explica que “assim como um arco-íris espalha a luz do Sol em diferentes comprimentos de onda (cores), o SDSS espalha a luz de certas estrelas, galáxias e quasares no que.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-ultraviolet-quasar-supermassive-black-hole.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Uma equipe liderada por pesquisadores da Universidade de York descobriu o vento mais rápido perto de um buraco negro supermassivo já encontrado em comprimentos de onda ultravioleta, impulsionado pelo disco de matéria que circunda o buraco negro. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. O que não é típico é que o gás se mova em nossa direção a 30% da velocidade da luz&quot;, diz o professor Patrick Hall, da Faculdade de Ciências de York. A equipe de pesquisa inclui o estudante de graduação e autor principal de York, Lucas Seaton, a estudante de graduação Marianna Veltri e o estudante de graduação Zezhou Zhu.</p><p>Chamá-lo de categoria 79 dá uma ideia de quão rápido ele é, mas é claro, este vento é diferente de tudo na Terra.&quot; Os astrónomos sabem há quase três décadas que cada grande. Ventos ainda mais rápidos podem ser vistos em comprimentos de onda de raios X, mas J2318 é o mais rápido já descoberto em comprimentos de onda ultravioleta.&quot; Ao contrário das.</p><p>Descubra o que há de mais recente em ciência, tecnologia e espaço com mais de 100.000 assinantes que confiam no Phys. org para obter insights diários. Ele explica que “assim como um arco-íris espalha a luz do Sol em diferentes comprimentos de onda (cores), o SDSS espalha a luz de certas estrelas, galáxias e quasares no que.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-ultraviolet-quasar-supermassive-black-hole.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A team led by York University researchers has discovered the fastest wind near a supermassive black hole ever found at ultraviolet wavelengths, driven by the disk of matter surrounding the black hole. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. What&#x27;s not typical is that it has gas moving towards us at 30% of the speed of light,&quot; says York Professor Patrick Hall of the Faculty of Science. The research team includes York graduate student and lead author Lucas Seaton, graduate student Marianna Veltri, and undergraduate student Zezhou Zhu, along with colleagues from.</p><p>Calling it category 79 gives an idea of just how fast it is, but of course, this wind is unlike anything on Earth.&quot; Astronomers have known for close to three decades that every. Even faster winds can be seen at X-ray wavelengths, but J2318 is the fastest ever discovered at ultraviolet wavelengths.&quot; Unlike the differences in gas pressure that drive.</p><p>Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. He explains that &quot;just as a rainbow spreads the sun&#x27;s light into different wavelengths (colors), the SDSS spreads out the light from certain stars, galaxies, and quasars into what.</p><p>From those spectra, with practice, students learn to spot unusual quasars. Something in the wind conditions must be changing for that to happen.&quot; Veltri assembled measurements of the brightness of the quasar from 20 years of surveys, starting with the.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>That data shows that J2318 is slowly varying in brightness in a way indistinguishable from other quasars. Only by taking detailed measurements of spectra with SDSS was the wind in J2318 revealed.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-ultraviolet-quasar-supermassive-black-hole.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Uma equipe liderada por pesquisadores da Universidade de York descobriu o vento mais rápido perto de um buraco negro supermassivo já encontrado em.",
-      "Dado-chave: O que não é típico é que o gás se mova em nossa direção a 30% da velocidade da luz\", diz o professor Patrick Hall, da Faculdade de Ciências de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Uma equipe liderada por pesquisadores da Universidade de York descobriu o vento mais rápido perto de um buraco negro supermassivo já encontrado em.",
-      "Dado-chave: O que não é típico é que o gás se mova em nossa direção a 30% da velocidade da luz\", diz o professor Patrick Hall, da Faculdade de Ciências de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A team led by York University researchers has discovered the fastest wind near a supermassive black hole ever found at ultraviolet wavelengths.",
-      "Key detail: What's not typical is that it has gas moving towards us at 30% of the speed of light,\" says York Professor Patrick Hall of the Faculty of.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "04 jun 2026",
-    "date_pt": "04 jun 2026",
-    "date_en": "04 Jun 2026",
-    "time": "21h20",
-    "time_pt": "21h20",
-    "time_en": "21:20 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-04T21:20:01+00:00",
-    "lastModifiedIso": "2026-06-04T21:20:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Vento recorde de quasar ultravioleta atinge 30% da velocidade da luz perto de buraco negro supermassivo"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Vento recorde de quasar ultravioleta atinge 30% da velocidade da luz perto de buraco negro supermassivo"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Record wind from ultraviolet quasar reaches 30% the speed of light near supermassive black hole"
-    ],
-    "srcUrl": "https://phys.org/news/2026-06-ultraviolet-quasar-supermassive-black-hole.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=record-ultraviolet-quasar-wind-reaches-30-light-speed-near-supermassive-black-hole",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=record-ultraviolet-quasar-wind-reaches-30-light-speed-near-supermassive-black-hole",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=record-ultraviolet-quasar-wind-reaches-30-light-speed-near-supermassive-black-hole&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 76,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 88,
       "accessibility": 60,
       "novelty": 55
     }
@@ -1789,26 +1771,7 @@ window.postsData = [
     "cat": "Astrofísica",
     "catCls": "astrofisica",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/little_red_dot_abell2744-qso1_nircam_image/27296416-1-eng-GB/Little_Red_Dot_Abell2744-QSO1_NIRCam_Image_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/little_red_dot_abell2744-qso1_nircam_image/27296416-1-eng-GB/Little_Red_Dot_Abell2744-QSO1_NIRCam_Image_article.jpg",
-        "caption": "Pequeno ponto vermelho Abell2744-QSO1 (imagem NIRCam)",
-        "caption_pt": "Pequeno ponto vermelho Abell2744-QSO1 (imagem NIRCam)",
-        "caption_en": "Little Red Dot Abell2744-QSO1 (NIRCam Image)",
-        "alt": "Pequeno ponto vermelho Abell2744-QSO1 (imagem NIRCam)",
-        "alt_pt": "Pequeno ponto vermelho Abell2744-QSO1 (imagem NIRCam)",
-        "alt_en": "Little Red Dot Abell2744-QSO1 (NIRCam Image)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/little_red_dot_abell2744-qso1a_nircam_image_with_nirspec_ifu_velocity_map/27296701-1-eng-GB/Little_Red_Dot_Abell2744-QSO1a_NIRCam_image_with_NIRSpec_IFU_velocity_map_article.jpg",
-        "caption": "Little Red Dot Abell2744-QSO1a (imagem NIRCam com mapa de velocidade NIRSpec IFU)",
-        "caption_pt": "Little Red Dot Abell2744-QSO1a (imagem NIRCam com mapa de velocidade NIRSpec IFU)",
-        "caption_en": "Little Red Dot Abell2744-QSO1a (NIRCam image with NIRSpec IFU velocity map)",
-        "alt": "Little Red Dot Abell2744-QSO1a (imagem NIRCam com mapa de velocidade NIRSpec IFU)",
-        "alt_pt": "Little Red Dot Abell2744-QSO1a (imagem NIRCam com mapa de velocidade NIRSpec IFU)",
-        "alt_en": "Little Red Dot Abell2744-QSO1a (NIRCam image with NIRSpec IFU velocity map)"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Webb revela buraco negro que se formou antes de sua galáxia",
@@ -1820,9 +1783,9 @@ window.postsData = [
     "excerpt": "Usando imagens sem precedentes e poder espectroscópico do Telescópio Espacial James Webb da NASA/ESA/CSA, os pesquisadores mapearam o movimento e a composição do gás que orbita um buraco negro no centro de Abell2744-QSO1, uma pequena galáxia mais.",
     "excerpt_pt": "Usando imagens sem precedentes e poder espectroscópico do Telescópio Espacial James Webb da NASA/ESA/CSA, os pesquisadores mapearam o movimento e a composição do gás que orbita um buraco negro no centro de Abell2744-QSO1, uma pequena galáxia mais.",
     "excerpt_en": "Using the unprecedented imaging and spectroscopic power of the NASA/ESA/CSA James Webb Space Telescope, researchers have mapped the motion and composition of gas orbiting a black hole in the centre of Abell2744-QSO1, a tiny galaxy more.",
-    "body": "<p>Usando imagens sem precedentes e poder espectroscópico do Telescópio Espacial James Webb da NASA/ESA/CSA, os pesquisadores mapearam o movimento e a composição do gás que orbita um buraco negro no centro de Abell2744-QSO1, uma pequena galáxia mais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Usando a imagem sem precedentes e o poder espectroscópico do Telescópio Espacial James Webb da NASA/ESA/CSA, os investigadores mapearam o movimento e a composição do gás que. Os resultados sugerem que o buraco negro com 50 milhões de massa solar é anterior à sua galáxia hospedeira, possivelmente formado no primeiro segundo do Big Bang, e deve ter sido.</p><p>Mas é difícil descobrir como é que buracos negros com milhões a milhares de milhões de vezes a massa do Sol, milhares dos quais já foram detectados no Universo primordial. Agora, investigadores que utilizaram o Webb detectaram evidências claras de que alguns buracos negros supermassivos eram enormes desde o início, formando-se sem uma fase de.</p><p>“Esta é uma descoberta notável”, disse Roberto Maiolino, da Universidade de Cambridge, no Reino Unido, coautor de estudos publicados hoje na Nature e no Monthly Notices of the. “É uma mudança de paradigma, uma revisitação total dos cenários clássicos de como os buracos negros se formam e crescem.” A conclusão da equipa baseia-se em observações detalhadas.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_black_hole_that_formed_before_its_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Usando imagens sem precedentes e poder espectroscópico do Telescópio Espacial James Webb da NASA/ESA/CSA, os pesquisadores mapearam o movimento e a composição do gás que orbita um buraco negro no centro de Abell2744-QSO1, uma pequena galáxia mais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Usando a imagem sem precedentes e o poder espectroscópico do Telescópio Espacial James Webb da NASA/ESA/CSA, os investigadores mapearam o movimento e a composição do gás que. Os resultados sugerem que o buraco negro com 50 milhões de massa solar é anterior à sua galáxia hospedeira, possivelmente formado no primeiro segundo do Big Bang, e deve ter sido.</p><p>Mas é difícil descobrir como é que buracos negros com milhões a milhares de milhões de vezes a massa do Sol, milhares dos quais já foram detectados no Universo primordial. Agora, investigadores que utilizaram o Webb detectaram evidências claras de que alguns buracos negros supermassivos eram enormes desde o início, formando-se sem uma fase de.</p><p>“Esta é uma descoberta notável”, disse Roberto Maiolino, da Universidade de Cambridge, no Reino Unido, coautor de estudos publicados hoje na Nature e no Monthly Notices of the. “É uma mudança de paradigma, uma revisitação total dos cenários clássicos de como os buracos negros se formam e crescem.” A conclusão da equipa baseia-se em observações detalhadas.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_black_hole_that_formed_before_its_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Using the unprecedented imaging and spectroscopic power of the NASA/ESA/CSA James Webb Space Telescope, researchers have mapped the motion and composition of gas orbiting a black hole in the centre of Abell2744-QSO1, a tiny galaxy more. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. The results suggest that the 50-million-solar-mass black hole predates its host galaxy, possibly forming within the first second of the Big Bang, and must have been immense from. But it’s hard to figure out how black holes millions to billions of times the mass of the Sun, thousands of which have now been detected in the early Universe, could have grown so.</p><p>Now, researchers using Webb have detected clear evidence that some supermassive black holes were enormous from the beginning, forming without a stellar collapse phase, and without. “This is a remarkable finding,” said Roberto Maiolino of Cambridge University in the United Kingdom, co-author of studies published today in Nature and the Monthly Notices of the.</p><p>“It’s a paradigm shift, a total revisiting of the classical scenarios of how black holes form and grow.” The team’s conclusion is based on detailed observations of Abell2744-QSO1. Initial studies of QSO1 revealed compelling evidence that it may be little more than a cloud of glowing hydrogen and helium gas circling a supermassive black hole estimated at 40.</p><p>The IFU composition maps supported these results, showing that the gas throughout QSO1 is almost entirely hydrogen and helium, with very little of the heavier elements like oxygen. With a metallicity less than 0.5% of the Sun, QSO1 is one of the most pristine galactic environments ever measured.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>“It is the first direct measurement of a black hole mass within the first billion years after the Big Bang, and it is consistent with the previous measurements.” The team thinks. The outsized mass of QSO1 relative to its host galaxy suggests that it can’t have formed gradually from much smaller, stellar-mass black holes merging and feeding.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_black_hole_that_formed_before_its_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Usando imagens sem precedentes e poder espectroscópico do Telescópio Espacial James Webb da NASA/ESA/CSA, os pesquisadores mapearam o movimento e a composição do gás que orbita um buraco negro no centro de Abell2744-QSO1, uma pequena galáxia mais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Usando a imagem sem precedentes e o poder espectroscópico do Telescópio Espacial James Webb da NASA/ESA/CSA, os investigadores mapearam o movimento e a composição do gás que. Os resultados sugerem que o buraco negro com 50 milhões de massa solar é anterior à sua galáxia hospedeira, possivelmente formado no primeiro segundo do Big Bang, e deve ter sido.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_black_hole_that_formed_before_its_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Usando imagens sem precedentes e poder espectroscópico do Telescópio Espacial James Webb da NASA/ESA/CSA, os pesquisadores mapearam o movimento e a composição do gás que orbita um buraco negro no centro de Abell2744-QSO1, uma pequena galáxia mais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Usando a imagem sem precedentes e o poder espectroscópico do Telescópio Espacial James Webb da NASA/ESA/CSA, os investigadores mapearam o movimento e a composição do gás que. Os resultados sugerem que o buraco negro com 50 milhões de massa solar é anterior à sua galáxia hospedeira, possivelmente formado no primeiro segundo do Big Bang, e deve ter sido.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_black_hole_that_formed_before_its_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Using the unprecedented imaging and spectroscopic power of the NASA/ESA/CSA James Webb Space Telescope, researchers have mapped the motion and composition of gas orbiting a black hole in the centre of Abell2744-QSO1, a tiny galaxy more. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. The results suggest that the 50-million-solar-mass black hole predates its host galaxy, possibly forming within the first second of the Big Bang, and must have been immense from.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_black_hole_that_formed_before_its_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Usando imagens sem precedentes e poder espectroscópico do Telescópio Espacial James Webb da NASA/ESA/CSA, os pesquisadores mapearam o movimento e a.",
       "Dado-chave: Usando a imagem sem precedentes e o poder espectroscópico do Telescópio Espacial James Webb da NASA/ESA/CSA, os investigadores mapearam o.",
@@ -2045,6 +2008,139 @@ window.postsData = [
   },
   {
     "id": 17,
+    "slug": "record-ultraviolet-quasar-wind-reaches-30-light-speed-near-supermassive-black-hole",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/fastest-and-most-furio.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fastest-and-most-furio.jpg",
+        "caption": "A impressão artística de um quasar. O ponto preto no centro representa o buraco negro supermassivo no centro do quasar. A espiral vermelha e amarela que o rodeia mostra o disco de gás quente caindo no buraco negro. Alguns deles.",
+        "caption_pt": "A impressão artística de um quasar. O ponto preto no centro representa o buraco negro supermassivo no centro do quasar. A espiral vermelha e amarela que o rodeia mostra o disco de gás quente caindo no buraco negro. Alguns deles.",
+        "caption_en": "An artist's impression of a quasar. The black dot in the center represents the supermassive black hole at the center of the quasar. The red-and-yellow spiral surrounding it shows the disc of hot gas falling into the black hole. Some of.",
+        "alt": "Vento ultravioleta mais rápido e furioso perto de um buraco negro encontrado por pesquisadores da Universidade de York",
+        "alt_pt": "Vento ultravioleta mais rápido e furioso perto de um buraco negro encontrado por pesquisadores da Universidade de York",
+        "alt_en": "Fastest and most furious ultraviolet wind near a black hole found by York University researchers"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Vento recorde de quasar ultravioleta atinge 30% da velocidade da luz perto de buraco negro supermassivo",
+    "title_pt": "Vento recorde de quasar ultravioleta atinge 30% da velocidade da luz perto de buraco negro supermassivo",
+    "title_en": "Record ultraviolet quasar wind reaches 30% light speed near supermassive black hole",
+    "sub": "Uma equipe liderada por pesquisadores da Universidade de York descobriu o vento mais rápido perto de um buraco negro supermassivo já encontrado em comprimentos de onda.",
+    "sub_pt": "Uma equipe liderada por pesquisadores da Universidade de York descobriu o vento mais rápido perto de um buraco negro supermassivo já encontrado em comprimentos de onda.",
+    "sub_en": "A team led by York University researchers has discovered the fastest wind near a supermassive black hole ever found at ultraviolet wavelengths, driven by the disk of matter.",
+    "excerpt": "Uma equipe liderada por pesquisadores da Universidade de York descobriu o vento mais rápido perto de um buraco negro supermassivo já encontrado em comprimentos de onda ultravioleta, impulsionado pelo disco de matéria que circunda o buraco negro.",
+    "excerpt_pt": "Uma equipe liderada por pesquisadores da Universidade de York descobriu o vento mais rápido perto de um buraco negro supermassivo já encontrado em comprimentos de onda ultravioleta, impulsionado pelo disco de matéria que circunda o buraco negro.",
+    "excerpt_en": "A team led by York University researchers has discovered the fastest wind near a supermassive black hole ever found at ultraviolet wavelengths, driven by the disk of matter surrounding the black hole.",
+    "body": "<p>Uma equipe liderada por pesquisadores da Universidade de York descobriu o vento mais rápido perto de um buraco negro supermassivo já encontrado em comprimentos de onda ultravioleta, impulsionado pelo disco de matéria que circunda o buraco negro. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. O que não é típico é que o gás se mova em nossa direção a 30% da velocidade da luz&quot;, diz o professor Patrick Hall, da Faculdade de Ciências de York. A equipe de pesquisa inclui o estudante de graduação e autor principal de York, Lucas Seaton, a estudante de graduação Marianna Veltri e o estudante de graduação Zezhou Zhu.</p><p>Chamá-lo de categoria 79 dá uma ideia de quão rápido ele é, mas é claro, este vento é diferente de tudo na Terra.&quot; Os astrónomos sabem há quase três décadas que cada grande. Ventos ainda mais rápidos podem ser vistos em comprimentos de onda de raios X, mas J2318 é o mais rápido já descoberto em comprimentos de onda ultravioleta.&quot; Ao contrário das.</p><p>Descubra o que há de mais recente em ciência, tecnologia e espaço com mais de 100.000 assinantes que confiam no Phys. org para obter insights diários. Ele explica que “assim como um arco-íris espalha a luz do Sol em diferentes comprimentos de onda (cores), o SDSS espalha a luz de certas estrelas, galáxias e quasares no que.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-ultraviolet-quasar-supermassive-black-hole.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma equipe liderada por pesquisadores da Universidade de York descobriu o vento mais rápido perto de um buraco negro supermassivo já encontrado em comprimentos de onda ultravioleta, impulsionado pelo disco de matéria que circunda o buraco negro. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. O que não é típico é que o gás se mova em nossa direção a 30% da velocidade da luz&quot;, diz o professor Patrick Hall, da Faculdade de Ciências de York. A equipe de pesquisa inclui o estudante de graduação e autor principal de York, Lucas Seaton, a estudante de graduação Marianna Veltri e o estudante de graduação Zezhou Zhu.</p><p>Chamá-lo de categoria 79 dá uma ideia de quão rápido ele é, mas é claro, este vento é diferente de tudo na Terra.&quot; Os astrónomos sabem há quase três décadas que cada grande. Ventos ainda mais rápidos podem ser vistos em comprimentos de onda de raios X, mas J2318 é o mais rápido já descoberto em comprimentos de onda ultravioleta.&quot; Ao contrário das.</p><p>Descubra o que há de mais recente em ciência, tecnologia e espaço com mais de 100.000 assinantes que confiam no Phys. org para obter insights diários. Ele explica que “assim como um arco-íris espalha a luz do Sol em diferentes comprimentos de onda (cores), o SDSS espalha a luz de certas estrelas, galáxias e quasares no que.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-ultraviolet-quasar-supermassive-black-hole.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A team led by York University researchers has discovered the fastest wind near a supermassive black hole ever found at ultraviolet wavelengths, driven by the disk of matter surrounding the black hole. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. What&#x27;s not typical is that it has gas moving towards us at 30% of the speed of light,&quot; says York Professor Patrick Hall of the Faculty of Science. The research team includes York graduate student and lead author Lucas Seaton, graduate student Marianna Veltri, and undergraduate student Zezhou Zhu, along with colleagues from.</p><p>Calling it category 79 gives an idea of just how fast it is, but of course, this wind is unlike anything on Earth.&quot; Astronomers have known for close to three decades that every. Even faster winds can be seen at X-ray wavelengths, but J2318 is the fastest ever discovered at ultraviolet wavelengths.&quot; Unlike the differences in gas pressure that drive.</p><p>Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. He explains that &quot;just as a rainbow spreads the sun&#x27;s light into different wavelengths (colors), the SDSS spreads out the light from certain stars, galaxies, and quasars into what.</p><p>From those spectra, with practice, students learn to spot unusual quasars. Something in the wind conditions must be changing for that to happen.&quot; Veltri assembled measurements of the brightness of the quasar from 20 years of surveys, starting with the.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>That data shows that J2318 is slowly varying in brightness in a way indistinguishable from other quasars. Only by taking detailed measurements of spectra with SDSS was the wind in J2318 revealed.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-ultraviolet-quasar-supermassive-black-hole.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Uma equipe liderada por pesquisadores da Universidade de York descobriu o vento mais rápido perto de um buraco negro supermassivo já encontrado em.",
+      "Dado-chave: O que não é típico é que o gás se mova em nossa direção a 30% da velocidade da luz\", diz o professor Patrick Hall, da Faculdade de Ciências de.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Uma equipe liderada por pesquisadores da Universidade de York descobriu o vento mais rápido perto de um buraco negro supermassivo já encontrado em.",
+      "Dado-chave: O que não é típico é que o gás se mova em nossa direção a 30% da velocidade da luz\", diz o professor Patrick Hall, da Faculdade de Ciências de.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: A team led by York University researchers has discovered the fastest wind near a supermassive black hole ever found at ultraviolet wavelengths.",
+      "Key detail: What's not typical is that it has gas moving towards us at 30% of the speed of light,\" says York Professor Patrick Hall of the Faculty of.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "04 jun 2026",
+    "date_pt": "04 jun 2026",
+    "date_en": "04 Jun 2026",
+    "time": "21h20",
+    "time_pt": "21h20",
+    "time_en": "21:20 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-04T21:20:01+00:00",
+    "lastModifiedIso": "2026-06-04T21:20:01+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Vento recorde de quasar ultravioleta atinge 30% da velocidade da luz perto de buraco negro supermassivo"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Vento recorde de quasar ultravioleta atinge 30% da velocidade da luz perto de buraco negro supermassivo"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Record wind from ultraviolet quasar reaches 30% the speed of light near supermassive black hole"
+    ],
+    "srcUrl": "https://phys.org/news/2026-06-ultraviolet-quasar-supermassive-black-hole.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=record-ultraviolet-quasar-wind-reaches-30-light-speed-near-supermassive-black-hole",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=record-ultraviolet-quasar-wind-reaches-30-light-speed-near-supermassive-black-hole",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=record-ultraviolet-quasar-wind-reaches-30-light-speed-near-supermassive-black-hole&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 18,
     "slug": "nasa-finds-new-way-earth-may-have-received-elements-needed-for-life",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2177,7 +2273,7 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "how-jupiter-may-have-redirected-life-s-ingredients-toward-earth-4-5-billion-years-ago",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2313,7 +2409,7 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "asteroid-dirt-is-fluffier-than-we-thought",
     "cat": "Física",
     "catCls": "fisica",
@@ -2431,7 +2527,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "flash-melted-glass-from-chang-e-5-reveals-a-high-levels-of-iron-on-the-moon",
     "cat": "Física",
     "catCls": "fisica",
@@ -2552,14 +2648,14 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
-    "slug": "porte-de-france-multimodal-hub-preparatory-works-from-june-2026",
+    "id": 22,
+    "slug": "alpha-measures-tiny-energy-gap-in-antimatter-with-improved-precision",
     "cat": "Física",
     "catCls": "fisica",
-    "img": "https://home.cern/wp-content/uploads/2026/06/map_SCE-1024x724.png",
+    "img": "https://home.cern/wp-content/uploads/2026/05/202208-132_25.jpg",
     "inline_images": [
       {
-        "src": "https://home.cern/porte-de-france-multimodal-hub-preparatory-works-from-june-2026/context.post.image",
+        "src": "https://home.cern/alpha-measures-tiny-energy-gap-in-antimatter-with-improved-precision/context.post.image",
         "caption": "contexto.post.título",
         "caption_pt": "contexto.post.título",
         "caption_en": "context.post.title",
@@ -2568,46 +2664,59 @@ window.postsData = [
         "alt_en": "context.post.title"
       }
     ],
-    "video": null,
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/0qa7k2qnkea",
+      "fileUrl": "",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://home.cern/alpha-measures-tiny-energy-gap-in-antimatter-with-improved-precision/"
+    },
     "audio": null,
-    "title": "Centro multimodal Porte de France: trabalhos preparatórios a partir de junho de 2026",
-    "title_pt": "Centro multimodal Porte de France: trabalhos preparatórios a partir de junho de 2026",
-    "title_en": "Porte de France multimodal hub: preparatory works from June 2026",
-    "sub": "Um projecto de requalificação do nó de Porte de France em Saint-Genis-Pouilly, liderado pelas autoridades locais francesas, está a entrar na sua fase preparatória. Durante esta.",
-    "sub_pt": "Um projecto de requalificação do nó de Porte de France em Saint-Genis-Pouilly, liderado pelas autoridades locais francesas, está a entrar na sua fase preparatória. Durante esta.",
-    "sub_en": "A redevelopment project for the Porte de France junction in Saint-Genis-Pouilly, led by the local French authorities, is entering its preparatory phase. During this phase, utility.",
-    "excerpt": "Um projecto de requalificação do nó de Porte de France em Saint-Genis-Pouilly, liderado pelas autoridades locais francesas, está a entrar na sua fase preparatória. Durante esta fase, as empresas de serviços públicos terão de adaptar e realocar a água.",
-    "excerpt_pt": "Um projecto de requalificação do nó de Porte de France em Saint-Genis-Pouilly, liderado pelas autoridades locais francesas, está a entrar na sua fase preparatória. Durante esta fase, as empresas de serviços públicos terão de adaptar e realocar a água.",
-    "excerpt_en": "A redevelopment project for the Porte de France junction in Saint-Genis-Pouilly, led by the local French authorities, is entering its preparatory phase. During this phase, utility companies will need to adapt and relocate existing water.",
-    "body": "<p>Um projecto de requalificação do nó de Porte de France em Saint-Genis-Pouilly, liderado pelas autoridades locais francesas, está a entrar na sua fase preparatória. Durante esta fase, as empresas de serviços públicos terão de adaptar e realocar a água existente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Um projecto de requalificação do nó de Porte de France em Saint-Genis-Pouilly, liderado pelas autoridades locais francesas, está a entrar na sua fase preparatória. No centro multimodal CERN Porte de France: trabalhos preparatórios a partir de junho de 2026 Escrito por: Departamento SCE, 04 de junho de 2026 Um projeto de redesenvolvimento do.</p><p>Limpeza de terrenos a partir do outono de 2026 Os trabalhos preparatórios para alargar o corredor de transporte que liga a linha 18 do elétrico a Saint-Genis-Pouilly através do. Anúncio Comunidade CERN França mobilidade local Trabalhos no local Artigos relacionados Ver todas as notícias Nenhuma postagem foi encontrada.</p><p>Durante esta fase, as empresas de serviços públicos terão de adaptar e realocar as infra-estruturas existentes de água, electricidade, gás, telecomunicações e saneamento antes do.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/porte-de-france-multimodal-hub-preparatory-works-from-june-2026/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Um projecto de requalificação do nó de Porte de France em Saint-Genis-Pouilly, liderado pelas autoridades locais francesas, está a entrar na sua fase preparatória. Durante esta fase, as empresas de serviços públicos terão de adaptar e realocar a água existente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Um projecto de requalificação do nó de Porte de France em Saint-Genis-Pouilly, liderado pelas autoridades locais francesas, está a entrar na sua fase preparatória. No centro multimodal CERN Porte de France: trabalhos preparatórios a partir de junho de 2026 Escrito por: Departamento SCE, 04 de junho de 2026 Um projeto de redesenvolvimento do.</p><p>Limpeza de terrenos a partir do outono de 2026 Os trabalhos preparatórios para alargar o corredor de transporte que liga a linha 18 do elétrico a Saint-Genis-Pouilly através do. Anúncio Comunidade CERN França mobilidade local Trabalhos no local Artigos relacionados Ver todas as notícias Nenhuma postagem foi encontrada.</p><p>Durante esta fase, as empresas de serviços públicos terão de adaptar e realocar as infra-estruturas existentes de água, electricidade, gás, telecomunicações e saneamento antes do.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/porte-de-france-multimodal-hub-preparatory-works-from-june-2026/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A redevelopment project for the Porte de France junction in Saint-Genis-Pouilly, led by the local French authorities, is entering its preparatory phase. During this phase, utility companies will need to adapt and relocate existing water. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. A redevelopment project for the Porte de France junction in Saint-Genis-Pouilly, led by the local French authorities, is entering its preparatory phase. At CERN Porte de France multimodal hub: preparatory works from June 2026 Written by: SCE Department, 04 June, 2026 A redevelopment project for the Porte de France junction in.</p><p>Land clearing from autumn 2026 Preparatory works to extend the transport corridor linking tramway line 18 with Saint-Genis-Pouilly via bus rapid transit will start in autumn 2026. Announcement CERN community France local mobility On-site works Related Articles View all news No posts were found.</p><p>During this phase, utility companies will need to adapt and relocate existing water, electricity, gas, telecommunications and sanitation infrastructure ahead of the start of the. These preparatory works will be carried out progressively between June 2026 and summer 2027.</p><p>Little impact on access and traffic around CERN sites Works on public roads may occasionally cause temporary traffic disruptions or access changes, depending on the area and the. Access to CERN sites, including Gate E, will remain unchanged.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Any impact on traffic around CERN is expected to be minimal. The Porte de France multimodal hub is a major infrastructure project for the region, aimed at improving safety and travel conditions, better connecting multiple modes of transport.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/porte-de-france-multimodal-hub-preparatory-works-from-june-2026/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "ALPHA mede a pequena lacuna de energia na antimatéria com maior precisão",
+    "title_pt": "ALPHA mede a pequena lacuna de energia na antimatéria com maior precisão",
+    "title_en": "ALPHA measures tiny energy gap in antimatter with improved precision",
+    "sub": "Os pesquisadores do experimento ALPHA alcançaram uma melhoria cem vezes maior na medição de uma característica da contraparte de antimatéria do átomo de hidrogênio. O resultado.",
+    "sub_pt": "Os pesquisadores do experimento ALPHA alcançaram uma melhoria cem vezes maior na medição de uma característica da contraparte de antimatéria do átomo de hidrogênio. O resultado.",
+    "sub_en": "Researchers at the ALPHA experiment have achieved a hundredfold improvement in their measurement of a feature of the antimatter counterpart of the hydrogen atom. The result.",
+    "excerpt": "Os pesquisadores do experimento ALPHA alcançaram uma melhoria cem vezes maior na medição de uma característica da contraparte de antimatéria do átomo de hidrogênio. O resultado, publicado hoje na Nature, permite uma comparação precisa.",
+    "excerpt_pt": "Os pesquisadores do experimento ALPHA alcançaram uma melhoria cem vezes maior na medição de uma característica da contraparte de antimatéria do átomo de hidrogênio. O resultado, publicado hoje na Nature, permite uma comparação precisa.",
+    "excerpt_en": "Researchers at the ALPHA experiment have achieved a hundredfold improvement in their measurement of a feature of the antimatter counterpart of the hydrogen atom. The result, published today in Nature, allows a precise comparison of.",
+    "body": "<p>Os pesquisadores do experimento ALPHA alcançaram uma melhoria cem vezes maior na medição de uma característica da contraparte de antimatéria do átomo de hidrogênio. O resultado, publicado hoje na Nature, permite uma comparação precisa. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. O resultado, publicado hoje na Nature, permite uma comparação precisa entre hidrogênio e anti-hidrogênio. Física ALPHA mede minúscula lacuna de energia na antimatéria com maior precisão A Colaboração ALPHA aumentou a precisão de sua medição da divisão hiperfina do anti-hidrogênio no.</p><p>AD ALPHA Antimatter Comunidade CERN Público em geral Notícias Cientistas Artigos relacionados Ver todas as notícias Nenhuma postagem foi encontrada. Neste estudo, a Colaboração ALPHA mediu a divisão hiperfina do estado fundamental do átomo de anti-hidrogénio, que compreende um antipróton orbitado por um pósitron, a versão.</p><p>De acordo com as simetrias fundamentais da natureza, esta medição da divisão hiperfina deveria ser idêntica ao efeito equivalente observado no hidrogénio.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/alpha-measures-tiny-energy-gap-in-antimatter-with-improved-precision/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os pesquisadores do experimento ALPHA alcançaram uma melhoria cem vezes maior na medição de uma característica da contraparte de antimatéria do átomo de hidrogênio. O resultado, publicado hoje na Nature, permite uma comparação precisa. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. O resultado, publicado hoje na Nature, permite uma comparação precisa entre hidrogênio e anti-hidrogênio. Física ALPHA mede minúscula lacuna de energia na antimatéria com maior precisão A Colaboração ALPHA aumentou a precisão de sua medição da divisão hiperfina do anti-hidrogênio no.</p><p>AD ALPHA Antimatter Comunidade CERN Público em geral Notícias Cientistas Artigos relacionados Ver todas as notícias Nenhuma postagem foi encontrada. Neste estudo, a Colaboração ALPHA mediu a divisão hiperfina do estado fundamental do átomo de anti-hidrogénio, que compreende um antipróton orbitado por um pósitron, a versão.</p><p>De acordo com as simetrias fundamentais da natureza, esta medição da divisão hiperfina deveria ser idêntica ao efeito equivalente observado no hidrogénio.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/alpha-measures-tiny-energy-gap-in-antimatter-with-improved-precision/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Researchers at the ALPHA experiment have achieved a hundredfold improvement in their measurement of a feature of the antimatter counterpart of the hydrogen atom. The result, published today in Nature, allows a precise comparison of. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. The result, published today in Nature, allows a precise comparison of hydrogen and antihydrogen. Physics ALPHA measures tiny energy gap in antimatter with improved precision The ALPHA Collaboration has increased the precision of its measurement of the ground-state hyperfine.</p><p>AD ALPHA Antimatter CERN community General public News Scientists Related Articles View all news No posts were found. In this study, the ALPHA Collaboration measured the ground-state hyperfine splitting of the antihydrogen atom, which comprises an antiproton orbited by a positron, the antimatter.</p><p>According to the fundamental symmetries of nature, this measurement of the hyperfine splitting should be identical to the equivalent effect seen in hydrogen. “The ground-state hyperfine splitting of hydrogen is the origin of the so-called 21-cm line, beloved by radio astronomers and researchers searching for extraterrestrial.</p><p>“When the Antimatter Factory was conceived back in the 1990s, the hyperfine splitting of antihydrogen was one of the key targets for measurement that would justify constructing. CERN’s Antimatter Factory produces antimatter by firing high-energy protons from the Proton Synchrotron at a block of metal, producing cascades of secondary particles, including.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Since it began taking data in 2006, the ALPHA Collaboration has conducted more and more refined studies of the antihydrogen atom. And in 2017, they observed the ground-state hyperfine splitting of antihydrogen with a precision of 400 parts per million.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/alpha-measures-tiny-energy-gap-in-antimatter-with-improved-precision/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Um projecto de requalificação do nó de Porte de France em Saint-Genis-Pouilly, liderado pelas autoridades locais francesas, está a entrar na sua fase.",
-      "Dado-chave: Um projecto de requalificação do nó de Porte de France em Saint-Genis-Pouilly, liderado pelas autoridades locais francesas, está a entrar na sua.",
+      "Ponto central: Os pesquisadores do experimento ALPHA alcançaram uma melhoria cem vezes maior na medição de uma característica da contraparte de antimatéria do átomo.",
+      "Dado-chave: O resultado, publicado hoje na Nature, permite uma comparação precisa entre hidrogênio e anti-hidrogênio.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Um projecto de requalificação do nó de Porte de France em Saint-Genis-Pouilly, liderado pelas autoridades locais francesas, está a entrar na sua fase.",
-      "Dado-chave: Um projecto de requalificação do nó de Porte de France em Saint-Genis-Pouilly, liderado pelas autoridades locais francesas, está a entrar na sua.",
+      "Ponto central: Os pesquisadores do experimento ALPHA alcançaram uma melhoria cem vezes maior na medição de uma característica da contraparte de antimatéria do átomo.",
+      "Dado-chave: O resultado, publicado hoje na Nature, permite uma comparação precisa entre hidrogênio e anti-hidrogênio.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: A redevelopment project for the Porte de France junction in Saint-Genis-Pouilly, led by the local French authorities, is entering its preparatory.",
-      "Key detail: A redevelopment project for the Porte de France junction in Saint-Genis-Pouilly, led by the local French authorities, is entering its.",
+      "Core point: Researchers at the ALPHA experiment have achieved a hundredfold improvement in their measurement of a feature of the antimatter counterpart of the.",
+      "Key detail: The result, published today in Nature, allows a precise comparison of hydrogen and antihydrogen.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "04 jun 2026",
-    "date_pt": "04 jun 2026",
-    "date_en": "04 Jun 2026",
-    "time": "08h05",
-    "time_pt": "08h05",
-    "time_en": "08:05 UTC",
+    "date": "27 mai 2026",
+    "date_pt": "27 mai 2026",
+    "date_en": "27 May 2026",
+    "time": "15h17",
+    "time_pt": "15h17",
+    "time_en": "15:17 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-04T08:05:09+00:00",
-    "lastModifiedIso": "2026-06-04T08:05:09+00:00",
+    "publishedIso": "2026-05-27T15:17:25+00:00",
+    "lastModifiedIso": "2026-05-27T15:17:25+00:00",
     "source": "CERN News",
     "sourceDomain": "home.cern",
     "sourceType": "agency",
@@ -2629,27 +2738,24 @@ window.postsData = [
       "Física",
       "CERN News",
       "Cosmos Week",
-      "Centro multimodal Porte de France",
-      "trabalhos preparatórios a partir de junho de 2026"
+      "ALPHA mede a pequena lacuna de energia na antimatéria com maior precisão"
     ],
     "keywords_pt": [
       "Física",
       "CERN News",
       "Cosmos Week",
-      "Centro multimodal Porte de France",
-      "trabalhos preparatórios a partir de junho de 2026"
+      "ALPHA mede a pequena lacuna de energia na antimatéria com maior precisão"
     ],
     "keywords_en": [
       "Physical",
       "CERN News",
       "Cosmos Week",
-      "Porte de France multimodal center",
-      "preparatory work from June 2026"
+      "ALPHA measures the tiny energy gap in antimatter with greater precision"
     ],
-    "srcUrl": "https://home.cern/porte-de-france-multimodal-hub-preparatory-works-from-june-2026/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=porte-de-france-multimodal-hub-preparatory-works-from-june-2026",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=porte-de-france-multimodal-hub-preparatory-works-from-june-2026",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=porte-de-france-multimodal-hub-preparatory-works-from-june-2026&lang=en",
+    "srcUrl": "https://home.cern/alpha-measures-tiny-energy-gap-in-antimatter-with-improved-precision/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=alpha-measures-tiny-energy-gap-in-antimatter-with-improved-precision",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=alpha-measures-tiny-energy-gap-in-antimatter-with-improved-precision",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=alpha-measures-tiny-energy-gap-in-antimatter-with-improved-precision&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -2663,47 +2769,19 @@ window.postsData = [
     "score": 72,
     "scoreBreakdown": {
       "source": 86,
-      "evidence": 82,
+      "evidence": 88,
       "relevance": 68,
       "accessibility": 52,
-      "novelty": 52
+      "novelty": 46
     }
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "smile-lifts-off-on-quest-to-reveal-earth-s-invisible-shield-against-the-solar-wind",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/wide_view_of_vega-c_liftoff_with_smile/27281047-2-eng-GB/Wide_view_of_Vega-C_liftoff_with_Smile_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/vega-c_shoots_through_the_sky_with_a_smile/27280936-2-eng-GB/Vega-C_shoots_through_the_sky_with_a_Smile_pillars.jpg",
-        "caption": "Vega-C dispara pelo céu com um sorriso",
-        "caption_pt": "Vega-C dispara pelo céu com um sorriso",
-        "caption_en": "Vega-C shoots through the sky with a Smile",
-        "alt": "Vega-C dispara pelo céu com um sorriso",
-        "alt_pt": "Vega-C dispara pelo céu com um sorriso",
-        "alt_en": "Vega-C shoots through the sky with a Smile"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/vega-c_liftoff_with_smile/27281000-2-eng-GB/Vega-C_liftoff_with_Smile_pillars.jpg",
-        "caption": "Decolagem Vega-C com Smile",
-        "caption_pt": "Decolagem Vega-C com Smile",
-        "caption_en": "Vega-C liftoff with Smile",
-        "alt": "Decolagem Vega-C com Smile",
-        "alt_pt": "Decolagem Vega-C com Smile",
-        "alt_en": "Vega-C liftoff with Smile"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/vega-c_complete_with_smile_inside/27268196-1-eng-GB/Vega-C_complete_with_Smile_inside_pillars.png",
-        "caption": "Vega-C completo com Smile dentro",
-        "caption_pt": "Vega-C completo com Smile dentro",
-        "caption_en": "Vega-C complete with Smile inside",
-        "alt": "Vega-C completo com Smile dentro",
-        "alt_pt": "Vega-C completo com Smile dentro",
-        "alt_en": "Vega-C complete with Smile inside"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Smile decola em busca de revelar o escudo invisível da Terra contra o vento solar",
@@ -2715,22 +2793,22 @@ window.postsData = [
     "excerpt": "A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, geomagnéticas.",
     "excerpt_pt": "A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, geomagnéticas.",
     "excerpt_en": "The Smile spacecraft lifted off on a Vega-C rocket from Europe’s Spaceport in French Guiana at 04: 52 BST / 05: 52 CEST on 19 May 2026. The launch marks the beginning of an ambitious mission to better understand solar storms, geomagnetic.",
-    "body": "<p>A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, geomagnéticas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, as tempestades geomagnéticas e a ciência do clima espacial. Após o lançamento e separação do foguetão, o primeiro sinal do Smile foi recebido pela estação terrestre New Norcia da ESA, na Austrália, às 06: 48 CEST.</p><p>Os painéis solares da nave espacial foram então implantados às 06: 49 CEST, o que significa que o Smile pode agora recolher luz solar para alimentar os seus sistemas e. Irá revelar como a Terra responde aos fluxos de partículas e às explosões de radiação do Sol, utilizando uma câmara de raios X para fazer as primeiras observações de raios X do.</p><p>Esta missão é uma prova do compromisso da ESA com a colaboração internacional, avançando o conhecimento científico e promovendo a utilização pacífica do espaço.” “O Smile irá. “A missão é possível graças a uma colaboração harmoniosa entre a ESA e o CAS, com contribuições de parceiros de toda a Europa.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, geomagnéticas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, as tempestades geomagnéticas e a ciência do clima espacial. Após o lançamento e separação do foguetão, o primeiro sinal do Smile foi recebido pela estação terrestre New Norcia da ESA, na Austrália, às 06: 48 CEST.</p><p>Os painéis solares da nave espacial foram então implantados às 06: 49 CEST, o que significa que o Smile pode agora recolher luz solar para alimentar os seus sistemas e. Irá revelar como a Terra responde aos fluxos de partículas e às explosões de radiação do Sol, utilizando uma câmara de raios X para fazer as primeiras observações de raios X do.</p><p>Esta missão é uma prova do compromisso da ESA com a colaboração internacional, avançando o conhecimento científico e promovendo a utilização pacífica do espaço.” “O Smile irá. “A missão é possível graças a uma colaboração harmoniosa entre a ESA e o CAS, com contribuições de parceiros de toda a Europa.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The Smile spacecraft lifted off on a Vega-C rocket from Europe’s Spaceport in French Guiana at 04: 52 BST / 05: 52 CEST on 19 May 2026. The launch marks the beginning of an ambitious mission to better understand solar storms, geomagnetic. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The launch marks the beginning of an ambitious mission to better understand solar storms, geomagnetic storms, and the science of space weather. Following launch and separation from the rocket, the first signal from Smile was received by ESA’s New Norcia ground station in Australia at 06: 48 CEST.</p><p>The spacecraft’s solar panels then deployed at 06: 49 CEST, meaning that Smile can now collect sunlight to power its systems and science instruments. It will reveal how Earth responds to the streams of particles and bursts of radiation from the Sun, using an X-ray camera to make the world’s first X-ray observations of Earth’s.</p><p>This mission stands as a testament to ESA’s commitment to international collaboration, advancing scientific knowledge and promoting the peaceful use of space.” “Smile will shed. “The mission is made possible thanks to a smooth collaboration between ESA and CAS, with contributions from partners across Europe.</p><p>Professor Carole Mundell, ESA’s Director of Science says: “Smile is the newest member of ESA’s space science mission fleet. It’s exciting to see this all come together today and I’m looking forward to the new scientific discoveries Smile will deliver.” Smile is equipped with a unique toolbox designed.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>It will be the first mission to look at Earth’s magnetic shield with X-ray vision, to reveal where and how it is hit by the solar wind. Smile will use ultraviolet vision to record the northern lights for 45 hours at a time, becoming the first mission to observe them for so long, and the first since 2008 to observe.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, geomagnéticas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04: 52 BST/05: 52 CEST (00: 52 hora local) em 19 de maio de 2026. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, as tempestades geomagnéticas e a ciência do clima espacial.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, geomagnéticas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04: 52 BST/05: 52 CEST (00: 52 hora local) em 19 de maio de 2026. O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, as tempestades geomagnéticas e a ciência do clima espacial.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The Smile spacecraft lifted off on a Vega-C rocket from Europe’s Spaceport in French Guiana at 04: 52 BST / 05: 52 CEST on 19 May 2026. The launch marks the beginning of an ambitious mission to better understand solar storms, geomagnetic. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The Smile spacecraft lifted off on a Vega-C rocket from Europe’s Spaceport in French Guiana at 04: 52 BST / 05: 52 CEST (00: 52 local time) on 19 May 2026. The launch marks the beginning of an ambitious mission to better understand solar storms, geomagnetic storms, and the science of space weather.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O.",
-      "Dado-chave: O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, as tempestades geomagnéticas e a ciência do.",
+      "Dado-chave: A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04: 52 BST/05: 52 CEST (00: 52 hora local) em 19.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04h52 BST / 05h52 CEST em 19 de maio de 2026. O.",
-      "Dado-chave: O lançamento marca o início de uma missão ambiciosa para compreender melhor as tempestades solares, as tempestades geomagnéticas e a ciência do.",
+      "Dado-chave: A espaçonave Smile decolou em um foguete Vega-C do porto espacial europeu na Guiana Francesa às 04: 52 BST/05: 52 CEST (00: 52 hora local) em 19.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: The Smile spacecraft lifted off on a Vega-C rocket from Europe’s Spaceport in French Guiana at 04: 52 BST / 05: 52 CEST on 19 May 2026. The launch.",
-      "Key detail: The launch marks the beginning of an ambitious mission to better understand solar storms, geomagnetic storms, and the science of space weather.",
+      "Key detail: The Smile spacecraft lifted off on a Vega-C rocket from Europe’s Spaceport in French Guiana at 04: 52 BST / 05: 52 CEST (00: 52 local time) on.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "19 mai 2026",
@@ -2803,173 +2881,12 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
-    "slug": "exomars-rover-targets-vast-bed-of-clay-in-search-for-life",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/mars_vast_clay_region/27305677-1-eng-GB/Mars_vast_clay_region_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/04/eyes_on_mars/26013522-1-eng-GB/Eyes_on_Mars_article.png",
-        "caption": "Rover Rosalind Franklin explorando sítio marciano",
-        "caption_pt": "Rover Rosalind Franklin explorando sítio marciano",
-        "caption_en": "Rosalind Franklin rover exploring martian site",
-        "alt": "Rover Rosalind Franklin explorando sítio marciano",
-        "alt_pt": "Rover Rosalind Franklin explorando sítio marciano",
-        "alt_en": "Rosalind Franklin rover exploring martian site"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/iron_mars/27305724-3-eng-GB/Iron_Mars_article.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/mineralogy_at_mawrth_vallis_walls/27305771-1-eng-GB/Mineralogy_at_Mawrth_Vallis_walls_article.png",
-        "caption": "Mineralogia nas paredes de Mawrth Vallis",
-        "caption_pt": "Mineralogia nas paredes de Mawrth Vallis",
-        "caption_en": "Mineralogy at Mawrth Vallis walls",
-        "alt": "Mineralogia nas paredes de Mawrth Vallis",
-        "alt_pt": "Mineralogia nas paredes de Mawrth Vallis",
-        "alt_en": "Mineralogy at Mawrth Vallis walls"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida",
-    "title_pt": "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida",
-    "title_en": "ExoMars rover targets vast bed of clay in search for life",
-    "sub": "Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas anteriores, conclui um novo estudo. Uma.",
-    "sub_pt": "Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas anteriores, conclui um novo estudo. Uma.",
-    "sub_en": "In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study finds. One hypothesis even.",
-    "excerpt": "Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas anteriores, conclui um novo estudo. Uma hipótese até sugere que um vasto oceano já cobriu o local de pouso.",
-    "excerpt_pt": "Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas anteriores, conclui um novo estudo. Uma hipótese até sugere que um vasto oceano já cobriu o local de pouso.",
-    "excerpt_en": "In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study finds. One hypothesis even suggests a vast ocean once covered the landing site.",
-    "body": "<p>Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas anteriores, conclui um novo estudo. Uma hipótese até sugere que um vasto oceano já cobriu o local de pouso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas anteriores, conclui um novo estudo. Isto tem implicações importantes para o clima e a habitabilidade anteriores de Marte.</p><p>O estudo descobriu que os depósitos de argila no local de pouso chegavam até Mawrth Vallis, uma área a cerca de 300 km de Oxia Planum que também foi selecionada como candidato a. Estendendo-se por cerca de 600 km de diâmetro e elevando-se a mais de um quilómetro de altitude, os depósitos são vastos em escala.</p><p>Se um oceano os formasse, as suas linhas costeiras estariam entre as mais altas já teorizadas para Marte. Estamos a visar os depósitos mais antigos da sequência, o que torna as implicações potenciais para a geologia e o clima inicial de Marte muito relevantes para a missão Rosalind.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas anteriores, conclui um novo estudo. Uma hipótese até sugere que um vasto oceano já cobriu o local de pouso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas anteriores, conclui um novo estudo. Isto tem implicações importantes para o clima e a habitabilidade anteriores de Marte.</p><p>O estudo descobriu que os depósitos de argila no local de pouso chegavam até Mawrth Vallis, uma área a cerca de 300 km de Oxia Planum que também foi selecionada como candidato a. Estendendo-se por cerca de 600 km de diâmetro e elevando-se a mais de um quilómetro de altitude, os depósitos são vastos em escala.</p><p>Se um oceano os formasse, as suas linhas costeiras estariam entre as mais altas já teorizadas para Marte. Estamos a visar os depósitos mais antigos da sequência, o que torna as implicações potenciais para a geologia e o clima inicial de Marte muito relevantes para a missão Rosalind.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study finds. One hypothesis even suggests a vast ocean once covered the landing site. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study finds. This has important implications for Mars’s past climate and habitability.</p><p>The study found that the clay deposits at the landing site reached as far as Mawrth Vallis, an area some 300 km from Oxia Planum that was also shortlisted as a candidate landing. Stretching roughly 600 km across and rising over a kilometre in altitude, the deposits are vast in scale.</p><p>If an ocean did form them, its shorelines would rank among the highest ever theorised for Mars. We are targeting the oldest deposits in the sequence, which makes the potential implications for the geology and early climate of Mars very relevant for the Rosalind Franklin.</p><p>Understanding the nature and origin of these clay minerals is essential for reconstructing the planet’s climate and assessing its habitability. “We now have a new timeline: Oxia Planum’s clays formed first, about four billion years ago, predating those at Mawrth Vallis.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>By landing at Oxia Planum, we’ll uncover a large-scale process that shaped ancient clays across Mars,” says Inés Torres Auré, lead author of the publication from the University of. Scientists used the OMEGA instrument on ESA’s Mars Express orbiter and the CRISM instrument on NASA&#x27;s Mars Reconnaissance Orbiter to examine the mineralogy and reconstruct the.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas.",
-      "Dado-chave: Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas.",
-      "Dado-chave: Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study.",
-      "Key detail: In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "04 jun 2026",
-    "date_pt": "04 jun 2026",
-    "date_en": "04 Jun 2026",
-    "time": "06h30",
-    "time_pt": "06h30",
-    "time_en": "06:30 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-04T06:30:00+00:00",
-    "lastModifiedIso": "2026-06-04T06:30:00+00:00",
-    "source": "ESA Space News",
-    "sourceDomain": "www.esa.int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "ESA Space News",
-      "Cosmos Week",
-      "ExoMars rover targets vast clay bed in search of life"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=exomars-rover-targets-vast-bed-of-clay-in-search-for-life",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=exomars-rover-targets-vast-bed-of-clay-in-search-for-life",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=exomars-rover-targets-vast-bed-of-clay-in-search-for-life&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 76,
-    "scoreBreakdown": {
-      "source": 80,
-      "evidence": 88,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
     "id": 24,
     "slug": "esa-s-prodex-programme-brings-scientific-research-to-space",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/4dspace-daedalus_ici-5b_mission/27267553-1-eng-GB/4DSpace-Daedalus_ICI-5b_mission_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/4dspace-daedalus_ici-5b_sounding_rocket/27267599-2-eng-GB/4DSpace-Daedalus_ICI-5b_sounding_rocket_article.jpg",
-        "caption": "Foguete de sondagem 4DSpace-Daedalus (ICI-5b)",
-        "caption_pt": "Foguete de sondagem 4DSpace-Daedalus (ICI-5b)",
-        "caption_en": "4DSpace-Daedalus (ICI-5b) sounding rocket",
-        "alt": "Foguete de sondagem 4DSpace-Daedalus (ICI-5b)",
-        "alt_pt": "Foguete de sondagem 4DSpace-Daedalus (ICI-5b)",
-        "alt_en": "4DSpace-Daedalus (ICI-5b) sounding rocket"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/02/optical_periscopic_imager_for_comets_opic/25484612-1-eng-GB/Optical_Periscopic_Imager_for_Comets_OPIC_article.jpg",
-        "caption": "Imageador Periscópico Óptico para Cometas (OPIC)",
-        "caption_pt": "Imageador Periscópico Óptico para Cometas (OPIC)",
-        "caption_en": "Optical Periscopic Imager for Comets (OPIC)",
-        "alt": "Imageador Periscópico Óptico para Cometas (OPIC)",
-        "alt_pt": "Imageador Periscópico Óptico para Cometas (OPIC)",
-        "alt_en": "Optical Periscopic Imager for Comets (OPIC)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/dfp-a_instruments_for_the_comet_interceptor_mission/27275275-1-eng-GB/DFP-A_instruments_for_the_Comet_Interceptor_mission_article.jpg",
-        "caption": "Os instrumentos DFP-A construídos para a missão Comet Interceptor",
-        "caption_pt": "Os instrumentos DFP-A construídos para a missão Comet Interceptor",
-        "caption_en": "The DFP-A instruments built for the Comet Interceptor mission",
-        "alt": "Os instrumentos DFP-A construídos para a missão Comet Interceptor",
-        "alt_pt": "Os instrumentos DFP-A construídos para a missão Comet Interceptor",
-        "alt_en": "The DFP-A instruments built for the Comet Interceptor mission"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "O programa Prodex da ESA leva a investigação científica ao espaço",
@@ -2981,9 +2898,9 @@ window.postsData = [
     "excerpt": "O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite que institutos de investigação altamente qualificados participem em actividades e missões científicas.",
     "excerpt_pt": "O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite que institutos de investigação altamente qualificados participem em actividades e missões científicas.",
     "excerpt_en": "The launch of the 4DSpace-Daedalus mission in Norway is the latest success supported by Prodex, a European Space Agency programme which enables highly skilled research institutes to partake in European space science activities and missions.",
-    "body": "<p>O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite que institutos de investigação altamente qualificados participem em actividades e missões científicas espaciais europeias. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia (ESA) que permite que institutos de. “A ESA gere atualmente mais de 400 contratos com institutos e indústria no âmbito do Prodex, Programa de Desenvolvimento de Experimentos Científicos.</p><p>“A Prodex apoia o desenvolvimento industrial de instrumentos científicos altamente sofisticados e experiências em ciência, observação da Terra e domínios de microgravidade para. Estamos também a desenvolver instrumentação e experiências para a Estação Espacial Internacional”, disse o Chefe do Gabinete Prodex da ESA, Michel Lazerges.</p><p>No Conselho Ministerial de 2025, 17 Estados-Membros da ESA comprometeram-se com um total de 327,52 milhões de euros para este programa opcional, um aumento de 38% em relação ao. O Prodex está a apoiar o desenvolvimento de instrumentos científicos para uma série de missões e atividades da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Business_with_ESA/ESA_s_Prodex_programme_brings_scientific_research_to_space\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite que institutos de investigação altamente qualificados participem em actividades e missões científicas espaciais europeias. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia (ESA) que permite que institutos de. “A ESA gere atualmente mais de 400 contratos com institutos e indústria no âmbito do Prodex, Programa de Desenvolvimento de Experimentos Científicos.</p><p>“A Prodex apoia o desenvolvimento industrial de instrumentos científicos altamente sofisticados e experiências em ciência, observação da Terra e domínios de microgravidade para. Estamos também a desenvolver instrumentação e experiências para a Estação Espacial Internacional”, disse o Chefe do Gabinete Prodex da ESA, Michel Lazerges.</p><p>No Conselho Ministerial de 2025, 17 Estados-Membros da ESA comprometeram-se com um total de 327,52 milhões de euros para este programa opcional, um aumento de 38% em relação ao. O Prodex está a apoiar o desenvolvimento de instrumentos científicos para uma série de missões e atividades da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Business_with_ESA/ESA_s_Prodex_programme_brings_scientific_research_to_space\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The launch of the 4DSpace-Daedalus mission in Norway is the latest success supported by Prodex, a European Space Agency programme which enables highly skilled research institutes to partake in European space science activities and missions. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The launch of the 4DSpace-Daedalus mission in Norway is the latest success supported by Prodex, a European Space Agency (ESA) programme which enables highly skilled research. “ESA currently manages over 400 contracts with institutes and industry within Prodex, the Programme for the development of scientific experiments.</p><p>“Prodex supports the industrial development of highly sophisticated scientific instruments and experiments in science, Earth observation and microgravity domains for ESA Science. We are also developing instrumentation and experiments for the International Space Station,” said ESA Head of the Prodex Office, Michel Lazerges.</p><p>At the Ministerial Council 2025, 17 ESA Member States pledged a total of €327.52 million to this optional programme, a 38% increase on the commitment given at the previous. Prodex is supporting the development of scientific instruments for a range of ESA missions and activities.</p><p>Some notable recent successes include: Norway’s space weather research, The 4DSpace-Daedalus (ICI-5b) mission was coordinated by the University of Oslo, Norway and funded partly. The Norwegian 12m-long sounding rocket with on-board instruments and releasable subpayloads launched on 11 March from Norway’s Andøya Space Centre into an auroral substorm.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The data will be analysed and used in space weather research and to understand the fundamental processes in energy transfer and couplings within the upper polar atmosphere. Poland and Estonia’s comet interceptor instruments Poland’s DFP-B2 instrument developed by Space Research Centre Polish Academy of Science (Centrum Badań Kosmicznych PAN) and.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Business_with_ESA/ESA_s_Prodex_programme_brings_scientific_research_to_space\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite que institutos de investigação altamente qualificados participem em actividades e missões científicas espaciais europeias. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia (ESA) que permite que institutos de.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Business_with_ESA/ESA_s_Prodex_programme_brings_scientific_research_to_space\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite que institutos de investigação altamente qualificados participem em actividades e missões científicas espaciais europeias. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia (ESA) que permite que institutos de.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Business_with_ESA/ESA_s_Prodex_programme_brings_scientific_research_to_space\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The launch of the 4DSpace-Daedalus mission in Norway is the latest success supported by Prodex, a European Space Agency programme which enables highly skilled research institutes to partake in European space science activities and missions. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The launch of the 4DSpace-Daedalus mission in Norway is the latest success supported by Prodex, a European Space Agency (ESA) programme which enables highly skilled research.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Business_with_ESA/ESA_s_Prodex_programme_brings_scientific_research_to_space\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia que permite.",
       "Dado-chave: O lançamento da missão 4DSpace-Daedalus na Noruega é o mais recente sucesso apoiado pelo Prodex, um programa da Agência Espacial Europeia (ESA).",
@@ -3850,6 +3767,139 @@ window.postsData = [
   },
   {
     "id": 31,
+    "slug": "exomars-rover-targets-vast-bed-of-clay-in-search-for-life",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/mars_vast_clay_region/27305677-1-eng-GB/Mars_vast_clay_region_card_full.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/04/eyes_on_mars/26013522-1-eng-GB/Eyes_on_Mars_article.png",
+        "caption": "Rover Rosalind Franklin explorando sítio marciano",
+        "caption_pt": "Rover Rosalind Franklin explorando sítio marciano",
+        "caption_en": "Rosalind Franklin rover exploring martian site",
+        "alt": "Rover Rosalind Franklin explorando sítio marciano",
+        "alt_pt": "Rover Rosalind Franklin explorando sítio marciano",
+        "alt_en": "Rosalind Franklin rover exploring martian site"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/iron_mars/27305724-3-eng-GB/Iron_Mars_article.png",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/mineralogy_at_mawrth_vallis_walls/27305771-1-eng-GB/Mineralogy_at_Mawrth_Vallis_walls_article.png",
+        "caption": "Mineralogia nas paredes de Mawrth Vallis",
+        "caption_pt": "Mineralogia nas paredes de Mawrth Vallis",
+        "caption_en": "Mineralogy at Mawrth Vallis walls",
+        "alt": "Mineralogia nas paredes de Mawrth Vallis",
+        "alt_pt": "Mineralogia nas paredes de Mawrth Vallis",
+        "alt_en": "Mineralogy at Mawrth Vallis walls"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida",
+    "title_pt": "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida",
+    "title_en": "ExoMars rover targets vast bed of clay in search for life",
+    "sub": "Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas anteriores, conclui um novo estudo. Uma.",
+    "sub_pt": "Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas anteriores, conclui um novo estudo. Uma.",
+    "sub_en": "In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study finds. One hypothesis even.",
+    "excerpt": "Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas anteriores, conclui um novo estudo. Uma hipótese até sugere que um vasto oceano já cobriu o local de pouso.",
+    "excerpt_pt": "Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas anteriores, conclui um novo estudo. Uma hipótese até sugere que um vasto oceano já cobriu o local de pouso.",
+    "excerpt_en": "In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study finds. One hypothesis even suggests a vast ocean once covered the landing site.",
+    "body": "<p>Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas anteriores, conclui um novo estudo. Uma hipótese até sugere que um vasto oceano já cobriu o local de pouso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas anteriores, conclui um novo estudo. Isto tem implicações importantes para o clima e a habitabilidade anteriores de Marte.</p><p>O estudo descobriu que os depósitos de argila no local de pouso chegavam até Mawrth Vallis, uma área a cerca de 300 km de Oxia Planum que também foi selecionada como candidato a. Estendendo-se por cerca de 600 km de diâmetro e elevando-se a mais de um quilómetro de altitude, os depósitos são vastos em escala.</p><p>Se um oceano os formasse, as suas linhas costeiras estariam entre as mais altas já teorizadas para Marte. Estamos a visar os depósitos mais antigos da sequência, o que torna as implicações potenciais para a geologia e o clima inicial de Marte muito relevantes para a missão Rosalind.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas anteriores, conclui um novo estudo. Uma hipótese até sugere que um vasto oceano já cobriu o local de pouso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas anteriores, conclui um novo estudo. Isto tem implicações importantes para o clima e a habitabilidade anteriores de Marte.</p><p>O estudo descobriu que os depósitos de argila no local de pouso chegavam até Mawrth Vallis, uma área a cerca de 300 km de Oxia Planum que também foi selecionada como candidato a. Estendendo-se por cerca de 600 km de diâmetro e elevando-se a mais de um quilómetro de altitude, os depósitos são vastos em escala.</p><p>Se um oceano os formasse, as suas linhas costeiras estariam entre as mais altas já teorizadas para Marte. Estamos a visar os depósitos mais antigos da sequência, o que torna as implicações potenciais para a geologia e o clima inicial de Marte muito relevantes para a missão Rosalind.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study finds. One hypothesis even suggests a vast ocean once covered the landing site. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study finds. This has important implications for Mars’s past climate and habitability.</p><p>The study found that the clay deposits at the landing site reached as far as Mawrth Vallis, an area some 300 km from Oxia Planum that was also shortlisted as a candidate landing. Stretching roughly 600 km across and rising over a kilometre in altitude, the deposits are vast in scale.</p><p>If an ocean did form them, its shorelines would rank among the highest ever theorised for Mars. We are targeting the oldest deposits in the sequence, which makes the potential implications for the geology and early climate of Mars very relevant for the Rosalind Franklin.</p><p>Understanding the nature and origin of these clay minerals is essential for reconstructing the planet’s climate and assessing its habitability. “We now have a new timeline: Oxia Planum’s clays formed first, about four billion years ago, predating those at Mawrth Vallis.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>By landing at Oxia Planum, we’ll uncover a large-scale process that shaped ancient clays across Mars,” says Inés Torres Auré, lead author of the publication from the University of. Scientists used the OMEGA instrument on ESA’s Mars Express orbiter and the CRISM instrument on NASA&#x27;s Mars Reconnaissance Orbiter to examine the mineralogy and reconstruct the.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas.",
+      "Dado-chave: Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas.",
+      "Dado-chave: Na região onde o rover ExoMars Rosalind Franklin irá procurar sinais de vida, os depósitos de argila estendem-se para além das estimativas.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study.",
+      "Key detail: In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "04 jun 2026",
+    "date_pt": "04 jun 2026",
+    "date_en": "04 Jun 2026",
+    "time": "06h30",
+    "time_pt": "06h30",
+    "time_en": "06:30 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-04T06:30:00+00:00",
+    "lastModifiedIso": "2026-06-04T06:30:00+00:00",
+    "source": "ESA Space News",
+    "sourceDomain": "www.esa.int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "ESA Space News",
+      "Cosmos Week",
+      "ExoMars rover targets vast clay bed in search of life"
+    ],
+    "srcUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=exomars-rover-targets-vast-bed-of-clay-in-search-for-life",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=exomars-rover-targets-vast-bed-of-clay-in-search-for-life",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=exomars-rover-targets-vast-bed-of-clay-in-search-for-life&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 80,
+      "evidence": 88,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 32,
     "slug": "a-globular-season-surprise",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3960,11 +4010,11 @@ window.postsData = [
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "venus-jupiter-converge-in-stunning-june-9th-dusk-conjunction",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4097,7 +4147,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "mars-maven-mission-lost-nasa-says-farewell",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4233,7 +4283,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "nasa-hosts-2026-review-on-advanced-composite-manufacturing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4338,7 +4388,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "nasa-drains-66-million-gallon-reservoir-to-upgrade-critical-water-system",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4456,7 +4506,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "join-esa-for-a-total-solar-eclipse-on-12-august-2026",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4592,40 +4642,12 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "waterworn-chaos-on-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/mars_express_visits_shalbatana_vallis_on_mars/27273355-1-eng-GB/Mars_Express_visits_Shalbatana_Vallis_on_Mars_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/mars_express_visits_shalbatana_vallis_on_mars/27273355-1-eng-GB/Mars_Express_visits_Shalbatana_Vallis_on_Mars_article.jpg",
-        "caption": "Mars Express visita Shalbatana Vallis em Marte. Clique na imagem para ampliar e explorar.",
-        "caption_pt": "Mars Express visita Shalbatana Vallis em Marte. Clique na imagem para ampliar e explorar.",
-        "caption_en": "Mars Express visits Shalbatana Vallis on Mars. Click on the image to zoom in and explore.",
-        "alt": "Mars Express visita Shalbatana Vallis em Marte. Clique na imagem para ampliar e explorar.",
-        "alt_pt": "Mars Express visita Shalbatana Vallis em Marte. Clique na imagem para ampliar e explorar.",
-        "alt_en": "Mars Express visits Shalbatana Vallis on Mars. Click on the image to zoom in and explore."
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/topographic_map_of_shalbatana_vallis_on_mars/27273543-1-eng-GB/Topographic_map_of_Shalbatana_Vallis_on_Mars_article.jpg",
-        "caption": "Mapa topográfico de Shalbatana Vallis em Marte",
-        "caption_pt": "Mapa topográfico de Shalbatana Vallis em Marte",
-        "caption_en": "Topographic map of Shalbatana Vallis on Mars",
-        "alt": "Mapa topográfico de Shalbatana Vallis em Marte",
-        "alt_pt": "Mapa topográfico de Shalbatana Vallis em Marte",
-        "alt_en": "Topographic map of Shalbatana Vallis on Mars"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/a_view_from_above_shalbatana_vallis_on_mars/27273449-1-eng-GB/A_view_from_above_Shalbatana_Vallis_on_Mars_article.jpg",
-        "caption": "Uma vista de cima: Shalbatana Vallis em Marte",
-        "caption_pt": "Uma vista de cima: Shalbatana Vallis em Marte",
-        "caption_en": "A view from above: Shalbatana Vallis on Mars",
-        "alt": "Uma vista de cima: Shalbatana Vallis em Marte",
-        "alt_pt": "Uma vista de cima: Shalbatana Vallis em Marte",
-        "alt_en": "A view from above: Shalbatana Vallis on Mars"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Caos desgastado pela água em Marte",
@@ -4637,9 +4659,9 @@ window.postsData = [
     "excerpt": "Este mês, o Mars Express da ESA leva-nos a Shalbatana Vallis: um fascinante vale marciano rodeado por sinais de água, lava, crateras e caos.",
     "excerpt_pt": "Este mês, o Mars Express da ESA leva-nos a Shalbatana Vallis: um fascinante vale marciano rodeado por sinais de água, lava, crateras e caos.",
     "excerpt_en": "This month, ESA’s Mars Express takes us to Shalbatana Vallis: a fascinating martian valley surrounded by signs of water, lava, craters and chaos.",
-    "body": "<p>Este mês, o Mars Express da ESA leva-nos a Shalbatana Vallis: um fascinante vale marciano rodeado por sinais de água, lava, crateras e caos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Shalbatana Vallis é um canal impressionante próximo ao equador de Marte. Esta imagem, obtida pela Câmara Estéreo de Alta Resolução (HRSC) da Mars Express, capta a parte norte do canal, que serpenteia pela superfície de Marte ao longo de cerca de 1300.</p><p>Visitamos esta parte do Planeta Vermelho em outubro de 2025, lançando uma viagem de vídeo da Mars Express que seguiu este canal suavemente sinuoso desde o seu início (a região. Shalbatana Vallis formou-se há cerca de 3,5 mil milhões de anos, quando enormes quantidades de água subterrânea subiram à superfície de Marte.</p><p>O vale principal, que serpenteia a partir do canto inferior esquerdo e sai do enquadramento para a direita (norte), tem cerca de 10 km de largura e 500 m de profundidade, algo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Waterworn_chaos_on_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Este mês, o Mars Express da ESA leva-nos a Shalbatana Vallis: um fascinante vale marciano rodeado por sinais de água, lava, crateras e caos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Shalbatana Vallis é um canal impressionante próximo ao equador de Marte. Esta imagem, obtida pela Câmara Estéreo de Alta Resolução (HRSC) da Mars Express, capta a parte norte do canal, que serpenteia pela superfície de Marte ao longo de cerca de 1300.</p><p>Visitamos esta parte do Planeta Vermelho em outubro de 2025, lançando uma viagem de vídeo da Mars Express que seguiu este canal suavemente sinuoso desde o seu início (a região. Shalbatana Vallis formou-se há cerca de 3,5 mil milhões de anos, quando enormes quantidades de água subterrânea subiram à superfície de Marte.</p><p>O vale principal, que serpenteia a partir do canto inferior esquerdo e sai do enquadramento para a direita (norte), tem cerca de 10 km de largura e 500 m de profundidade, algo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Waterworn_chaos_on_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>This month, ESA’s Mars Express takes us to Shalbatana Vallis: a fascinating martian valley surrounded by signs of water, lava, craters and chaos. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Shalbatana Vallis is an impressive channel near Mars’s equator. This image, taken by Mars Express&#x27;s High Resolution Stereo Camera (HRSC), captures the northern part of the channel, which weaves its way across Mars’s surface for some 1300 km.</p><p>We visited this part of the Red Planet in October 2025, releasing a Mars Express video journey that followed this gently meandering channel from its beginning (the highland region. Shalbatana Vallis formed around 3.5 billion years ago, when huge quantities of groundwater rose up to Mars’s surface.</p><p>The main valley, which snakes in from the bottom-left and weaves out of frame to the right (north), is about 10 km wide and 500 m deep, something seen most clearly in the. While we don’t know exactly which materials filled the valley, one isolated patch of more recently deposited blue-black material can be seen in the most knobbly part of the.</p><p>This part of Mars divides the planet’s heavily cratered southern highlands (to the left) from the smoother northern lowlands (right). Many of Mars’s largest outflow channels end at Chryse Planitia, leading some to suggest that it may have once been covered by a sizeable ocean at some point in Mars’s warmer.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>This kind of terrain is common on Mars, and has been captured before by Mars Express in regions such as Pyrrhae Regio, Iani Chaos, Ariadnes Colles, Aram Chaos and, in video form. This image comes courtesy of the HRSC camera, one of eight state-of-the-art instruments aboard Mars Express.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Waterworn_chaos_on_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Este mês, o Mars Express da ESA leva-nos a Shalbatana Vallis: um fascinante vale marciano rodeado por sinais de água, lava, crateras e caos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Waterworn_chaos_on_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Este mês, o Mars Express da ESA leva-nos a Shalbatana Vallis: um fascinante vale marciano rodeado por sinais de água, lava, crateras e caos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Waterworn_chaos_on_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>This month, ESA’s Mars Express takes us to Shalbatana Vallis: a fascinating martian valley surrounded by signs of water, lava, craters and chaos. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Waterworn_chaos_on_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Este mês, o Mars Express da ESA leva-nos a Shalbatana Vallis: um fascinante vale marciano rodeado por sinais de água, lava, crateras e caos.",
       "Dado-chave: Este mês, o Mars Express da ESA leva-nos a Shalbatana Vallis: um fascinante vale marciano rodeado por sinais de água, lava, crateras e caos.",
@@ -4725,7 +4747,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 39,
     "slug": "magnetic-exoplanets-strange-winds-are-strongest-hint-yet",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -4837,124 +4859,6 @@ window.postsData = [
       "relevance": 88,
       "accessibility": 60,
       "novelty": 52
-    }
-  },
-  {
-    "id": 39,
-    "slug": "the-black-hole-or-galaxy-which-came-1st",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://earthsky.org/upl/2026/06/QS01A-galaxy-Little-red-dot-nasa-webb-2026.png",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "O buraco negro ou galáxia: qual veio primeiro?",
-    "title_pt": "O buraco negro ou galáxia: qual veio primeiro?",
-    "title_en": "The black hole or galaxy: Which came 1st?",
-    "sub": "QSO1 é uma antiga galáxia Little Red Dot do universo primitivo. Ele contém um buraco negro supermassivo. O que veio primeiro, o buraco negro ou a galáxia? O post O buraco negro ou.",
-    "sub_pt": "QSO1 é uma antiga galáxia Little Red Dot do universo primitivo. Ele contém um buraco negro supermassivo. O que veio primeiro, o buraco negro ou a galáxia? O post O buraco negro ou.",
-    "sub_en": "QSO1 is an ancient Little Red Dot galaxy from the early universe. It contains a supermassive black hole. Which came first, the black hole or galaxy? The post The black hole or.",
-    "excerpt": "QSO1 é uma antiga galáxia Little Red Dot do universo primitivo. Ele contém um buraco negro supermassivo. O que veio primeiro, o buraco negro ou a galáxia? O post O buraco negro ou galáxia: quem veio primeiro? apareceu pela primeira vez no EarthSky.",
-    "excerpt_pt": "QSO1 é uma antiga galáxia Little Red Dot do universo primitivo. Ele contém um buraco negro supermassivo. O que veio primeiro, o buraco negro ou a galáxia? O post O buraco negro ou galáxia: quem veio primeiro? apareceu pela primeira vez no EarthSky.",
-    "excerpt_en": "QSO1 is an ancient Little Red Dot galaxy from the early universe. It contains a supermassive black hole. Which came first, the black hole or galaxy? The post The black hole or galaxy: Which came 1st? first appeared on EarthSky.",
-    "body": "<p>QSO1 é uma antiga galáxia Little Red Dot do universo primitivo. Ele contém um buraco negro supermassivo. O que veio primeiro, o buraco negro ou a galáxia? O post O buraco negro ou galáxia: quem veio primeiro? apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. QSO1 é uma antiga galáxia Little Red Dot do universo primitivo. QSO1 é uma pequena galáxia do universo primitivo.</p><p>Mas investigadores liderados pela Universidade de Cambridge, no Reino Unido, disseram em 27 de maio de 2026 que o buraco negro gigante no centro da pequena galáxia Abell2744-QSO1. Dois novos artigos revisados ​​por pares foram publicados: na Nature em 27 de maio de 2026, e no Monthly Notices of the Royal Astronomical Society em 6 de abril de 2026.</p><p>A imensa gravidade do aglomerado de galáxias Abell 2744 ampliou e distorceu a luz da galáxia Abell2744-QSO1, produzindo múltiplas imagens com lentes (A, B e C) do mesmo objeto. Um artigo publicado na Nature relata uma medição direta da massa de um buraco negro num objeto distante conhecido como pequeno ponto vermelho, encontrado numa galáxia que data de.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/black-hole-or-galaxy-qso1-little-red-dots-webb-space-telescope/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>QSO1 é uma antiga galáxia Little Red Dot do universo primitivo. Ele contém um buraco negro supermassivo. O que veio primeiro, o buraco negro ou a galáxia? O post O buraco negro ou galáxia: quem veio primeiro? apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. QSO1 é uma antiga galáxia Little Red Dot do universo primitivo. QSO1 é uma pequena galáxia do universo primitivo.</p><p>Mas investigadores liderados pela Universidade de Cambridge, no Reino Unido, disseram em 27 de maio de 2026 que o buraco negro gigante no centro da pequena galáxia Abell2744-QSO1. Dois novos artigos revisados ​​por pares foram publicados: na Nature em 27 de maio de 2026, e no Monthly Notices of the Royal Astronomical Society em 6 de abril de 2026.</p><p>A imensa gravidade do aglomerado de galáxias Abell 2744 ampliou e distorceu a luz da galáxia Abell2744-QSO1, produzindo múltiplas imagens com lentes (A, B e C) do mesmo objeto. Um artigo publicado na Nature relata uma medição direta da massa de um buraco negro num objeto distante conhecido como pequeno ponto vermelho, encontrado numa galáxia que data de.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/black-hole-or-galaxy-qso1-little-red-dots-webb-space-telescope/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>QSO1 is an ancient Little Red Dot galaxy from the early universe. It contains a supermassive black hole. Which came first, the black hole or galaxy? The post The black hole or galaxy: Which came 1st? first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. QSO1 is an ancient Little Red Dot galaxy from the early universe. QSO1 is a tiny galaxy from the early universe.</p><p>But researchers led by the University of Cambridge in the U. K, said on May 27, 2026, that the giant black hole in the center of the tiny galaxy Abell2744-QSO1 predates its galaxy. Two new peer-reviewed papers were published: in Nature on May 27, 2026, and Monthly Notices of the Royal Astronomical Society on April 6, 2026.</p><p>The immense gravity of the galaxy cluster Abell 2744 has magnified and distorted the light from the galaxy Abell2744-QSO1, producing multiple lensed images (A, B, and C) of the. A paper in Nature reports a direct measurement of a black hole mass in a distant object known as a little red dot, found in a galaxy dating back to when the Universe was just 700.</p><p>— Nature Portfolio (@natureportfolio. nature. com) 2026-05-27T22: 13: 01.316Z This image is a simulation of a supermassive black hole showing how it distorts the starry background. Most of QSO1’s mass comes from its black hole So how massive is the black hole in QSO1.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Ignas Juodžbalis, lead author of the Nature paper at the University of Cambridge, said: This is important because it tells us that most of the mass of QSO1 is concentrated in the. By measuring the velocity of the gases in QSO1, the researchers could also determine the mass of the black hole.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/black-hole-or-galaxy-qso1-little-red-dots-webb-space-telescope/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: QSO1 é uma antiga galáxia Little Red Dot do universo primitivo. Ele contém um buraco negro supermassivo. O que veio primeiro, o buraco negro ou a.",
-      "Dado-chave: QSO1 é uma antiga galáxia Little Red Dot do universo primitivo.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: QSO1 é uma antiga galáxia Little Red Dot do universo primitivo. Ele contém um buraco negro supermassivo. O que veio primeiro, o buraco negro ou a.",
-      "Dado-chave: QSO1 é uma antiga galáxia Little Red Dot do universo primitivo.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: QSO1 is an ancient Little Red Dot galaxy from the early universe. It contains a supermassive black hole. Which came first, the black hole or galaxy?.",
-      "Key detail: QSO1 is an ancient Little Red Dot galaxy from the early universe.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "02 jun 2026",
-    "date_pt": "02 jun 2026",
-    "date_en": "02 Jun 2026",
-    "time": "09h42",
-    "time_pt": "09h42",
-    "time_en": "09:42 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-02T09:42:56+00:00",
-    "lastModifiedIso": "2026-06-02T09:42:56+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "EarthSky",
-      "Cosmos Week",
-      "O buraco negro ou galáxia",
-      "qual veio primeiro?"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "EarthSky",
-      "Cosmos Week",
-      "O buraco negro ou galáxia",
-      "qual veio primeiro?"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "EarthSky",
-      "Cosmos Week",
-      "The black hole or galaxy",
-      "which came first?"
-    ],
-    "srcUrl": "https://earthsky.org/space/black-hole-or-galaxy-qso1-little-red-dots-webb-space-telescope/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-black-hole-or-galaxy-which-came-1st",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-black-hole-or-galaxy-which-came-1st",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-black-hole-or-galaxy-which-came-1st&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 49
     }
   },
   {

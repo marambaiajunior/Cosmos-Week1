@@ -40,14 +40,14 @@ window.postsData = [
     "date": "10 jun 2026",
     "date_pt": "10 jun 2026",
     "date_en": "10 Jun 2026",
-    "time": "04h41",
-    "time_pt": "04h41",
-    "time_en": "04:41 UTC",
+    "time": "08h59",
+    "time_pt": "08h59",
+    "time_en": "08:59 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-10T04:41:15.032601+00:00",
-    "lastModifiedIso": "2026-06-10T04:41:15.032601+00:00",
+    "publishedIso": "2026-06-10T08:59:10.235659+00:00",
+    "lastModifiedIso": "2026-06-10T08:59:10.235659+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -148,14 +148,14 @@ window.postsData = [
     "date": "10 jun 2026",
     "date_pt": "10 jun 2026",
     "date_en": "10 Jun 2026",
-    "time": "04h41",
-    "time_pt": "04h41",
-    "time_en": "04:41 UTC",
+    "time": "08h59",
+    "time_pt": "08h59",
+    "time_en": "08:59 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-10T04:41:15.032552+00:00",
-    "lastModifiedIso": "2026-06-10T04:41:15.032552+00:00",
+    "publishedIso": "2026-06-10T08:59:10.235610+00:00",
+    "lastModifiedIso": "2026-06-10T08:59:10.235610+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -253,14 +253,14 @@ window.postsData = [
     "date": "10 jun 2026",
     "date_pt": "10 jun 2026",
     "date_en": "10 Jun 2026",
-    "time": "04h41",
-    "time_pt": "04h41",
-    "time_en": "04:41 UTC",
+    "time": "08h59",
+    "time_pt": "08h59",
+    "time_en": "08:59 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-10T04:41:15.032507+00:00",
-    "lastModifiedIso": "2026-06-10T04:41:15.032507+00:00",
+    "publishedIso": "2026-06-10T08:59:10.235555+00:00",
+    "lastModifiedIso": "2026-06-10T08:59:10.235555+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -361,14 +361,14 @@ window.postsData = [
     "date": "10 jun 2026",
     "date_pt": "10 jun 2026",
     "date_en": "10 Jun 2026",
-    "time": "04h41",
-    "time_pt": "04h41",
-    "time_en": "04:41 UTC",
+    "time": "08h59",
+    "time_pt": "08h59",
+    "time_en": "08:59 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-10T04:41:15.032463+00:00",
-    "lastModifiedIso": "2026-06-10T04:41:15.032463+00:00",
+    "publishedIso": "2026-06-10T08:59:10.235506+00:00",
+    "lastModifiedIso": "2026-06-10T08:59:10.235506+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -466,14 +466,14 @@ window.postsData = [
     "date": "10 jun 2026",
     "date_pt": "10 jun 2026",
     "date_en": "10 Jun 2026",
-    "time": "04h41",
-    "time_pt": "04h41",
-    "time_en": "04:41 UTC",
+    "time": "08h59",
+    "time_pt": "08h59",
+    "time_en": "08:59 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-10T04:41:15.032423+00:00",
-    "lastModifiedIso": "2026-06-10T04:41:15.032423+00:00",
+    "publishedIso": "2026-06-10T08:59:10.235460+00:00",
+    "lastModifiedIso": "2026-06-10T08:59:10.235460+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -534,6 +534,139 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "italian-astronaut-to-pilot-artemis-iii-mission",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/italian-astronaut-luca.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/italian-astronaut-luca.jpg",
+        "caption": "O astronauta italiano Luca Parmitano pilotará o Artemis III.",
+        "caption_pt": "O astronauta italiano Luca Parmitano pilotará o Artemis III.",
+        "caption_en": "Italian astronaut Luca Parmitano will pilot Artemis III.",
+        "alt": "O astronauta italiano Luca Parmitano pilotará o Artemis III",
+        "alt_pt": "O astronauta italiano Luca Parmitano pilotará o Artemis III",
+        "alt_en": "Italian astronaut Luca Parmitano will pilot Artemis III"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/parmitano-is-proud-to.jpg",
+        "caption": "Parmitano tem orgulho de representar a Itália no espaço.",
+        "caption_pt": "Parmitano tem orgulho de representar a Itália no espaço.",
+        "caption_en": "Parmitano is proud to represent Italy in space.",
+        "alt": "Parmitano tem orgulho de representar a Itália no espaço",
+        "alt_pt": "Parmitano tem orgulho de representar a Itália no espaço",
+        "alt_en": "Parmitano is proud to represent Italy in space"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/l-r-artemis-iii-comman.jpg",
+        "caption": "(LR) Artemis III Comandante Randy Bresnik, piloto Luca Parmitano, astronauta Frank Rubio e astronauta Andre Douglas.",
+        "caption_pt": "(LR) Artemis III Comandante Randy Bresnik, piloto Luca Parmitano, astronauta Frank Rubio e astronauta Andre Douglas.",
+        "caption_en": "(L-R) Artemis III Commander Randy Bresnik, pilot Luca Parmitano, astronaut Frank Rubio and astronaut Andre Douglas.",
+        "alt": "(Da esquerda para a direita) Artemis III Comandante Randy Bresnik, piloto Luca Parmitano, astronauta Frank Rubio e astronauta Andre Douglas",
+        "alt_pt": "(Da esquerda para a direita) Artemis III Comandante Randy Bresnik, piloto Luca Parmitano, astronauta Frank Rubio e astronauta Andre Douglas",
+        "alt_en": "(L-R) Artemis III Commander Randy Bresnik, pilot Luca Parmitano, astronaut Frank Rubio and astronaut Andre Douglas"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Astronauta italiano pilotará a missão Artemis III",
+    "title_pt": "Astronauta italiano pilotará a missão Artemis III",
+    "title_en": "Italian astronaut to pilot Artemis III mission",
+    "sub": "O astronauta italiano Luca Parmitano espera trazer um gostinho de sua terra natal para a missão Artemis III, que pilotará perto da Terra em 2027 para testar dois módulos lunares.",
+    "sub_pt": "O astronauta italiano Luca Parmitano espera trazer um gostinho de sua terra natal para a missão Artemis III, que pilotará perto da Terra em 2027 para testar dois módulos lunares.",
+    "sub_en": "Italian astronaut Luca Parmitano is hoping to bring a taste of his homeland to the Artemis III mission, which he will pilot near Earth in 2027 to test two lunar modules.",
+    "excerpt": "O astronauta italiano Luca Parmitano espera trazer um gostinho de sua terra natal para a missão Artemis III, que pilotará perto da Terra em 2027 para testar dois módulos lunares.",
+    "excerpt_pt": "O astronauta italiano Luca Parmitano espera trazer um gostinho de sua terra natal para a missão Artemis III, que pilotará perto da Terra em 2027 para testar dois módulos lunares.",
+    "excerpt_en": "Italian astronaut Luca Parmitano is hoping to bring a taste of his homeland to the Artemis III mission, which he will pilot near Earth in 2027 to test two lunar modules.",
+    "body": "<p>O astronauta italiano Luca Parmitano espera trazer um gostinho de sua terra natal para a missão Artemis III, que pilotará perto da Terra em 2027 para testar dois módulos lunares. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida O astronauta italiano Luca Parmitano pilotará.</p><p>O menu da missão Artemis II em abril incluía peito do Texas e tortilhas para a tripulação da espaçonave Orion, e um pote de doce italiano Nutella também foi visto flutuando. Selecionado como astronauta pela Agência Espacial Europeia (ESA) em 2009, Parmitano completou duas missões a bordo da Estação Espacial Internacional, onde realizou caminhadas.</p><p>Como piloto líder da missão, Parmitano dividirá a responsabilidade com o comandante Randy Bresnik.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-italian-astronaut-artemis-iii-mission.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O astronauta italiano Luca Parmitano espera trazer um gostinho de sua terra natal para a missão Artemis III, que pilotará perto da Terra em 2027 para testar dois módulos lunares. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida O astronauta italiano Luca Parmitano pilotará.</p><p>O menu da missão Artemis II em abril incluía peito do Texas e tortilhas para a tripulação da espaçonave Orion, e um pote de doce italiano Nutella também foi visto flutuando. Selecionado como astronauta pela Agência Espacial Europeia (ESA) em 2009, Parmitano completou duas missões a bordo da Estação Espacial Internacional, onde realizou caminhadas.</p><p>Como piloto líder da missão, Parmitano dividirá a responsabilidade com o comandante Randy Bresnik.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-italian-astronaut-artemis-iii-mission.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Italian astronaut Luca Parmitano is hoping to bring a taste of his homeland to the Artemis III mission, which he will pilot near Earth in 2027 to test two lunar modules. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Italian astronaut Luca Parmitano will pilot Artemis III.</p><p>The menu for the Artemis II mission in April featured Texas brisket and tortillas for the Orion spacecraft&#x27;s crew, and a jar of Italian sweet treat Nutella was also seen floating. Selected as an astronaut by the European Space Agency (ESA) in 2009, Parmitano has completed two missions aboard the International Space Station, where he carried out complex.</p><p>As the mission&#x27;s lead pilot, Parmitano will share responsibility with commander Randy Bresnik. We are both test pilots, and the spacecraft needs a crew of 2 to fly it, so we share the responsibilities,&quot; Parmitano said.</p><p>It was unexpected because I didn&#x27;t know that it was in the running for that position.&quot; Parmitano, a 49-year-old father of two daughters, added that he is &quot;also very humbled by the. The crew will be rounded out by African American Andre Douglas and U. S.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Parmitano said he has known the mission&#x27;s commander &quot;for my entire career,&quot; but noted that for Douglas, the mission will mark his first spaceflight. We immediately bonded as soon as we found out that we were assigned to this mission,&quot; Parmitano said.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-italian-astronaut-artemis-iii-mission.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O astronauta italiano Luca Parmitano espera trazer um gostinho de sua terra natal para a missão Artemis III, que pilotará perto da Terra em 2027 para.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O astronauta italiano Luca Parmitano espera trazer um gostinho de sua terra natal para a missão Artemis III, que pilotará perto da Terra em 2027 para.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Italian astronaut Luca Parmitano is hoping to bring a taste of his homeland to the Artemis III mission, which he will pilot near Earth in 2027 to.",
+      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "10 jun 2026",
+    "date_pt": "10 jun 2026",
+    "date_en": "10 Jun 2026",
+    "time": "08h10",
+    "time_pt": "08h10",
+    "time_en": "08:10 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-10T08:10:02+00:00",
+    "lastModifiedIso": "2026-06-10T08:10:02+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Astronauta italiano pilotará a missão Artemis III"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Astronauta italiano pilotará a missão Artemis III"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Italian astronaut will pilot the Artemis III mission"
+    ],
+    "srcUrl": "https://phys.org/news/2026-06-italian-astronaut-artemis-iii-mission.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=italian-astronaut-to-pilot-artemis-iii-mission",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=italian-astronaut-to-pilot-artemis-iii-mission",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=italian-astronaut-to-pilot-artemis-iii-mission&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "tyndall-s-trail-of-bergs",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -652,7 +785,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -666,7 +799,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "nasa-unveils-artemis-iii-astronauts-to-test-technology-for-a-future-moon-landing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -799,7 +932,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "flight-dynamics-research-facility-characteristics",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -923,7 +1056,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "alan-hale-1958-2026",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1059,139 +1192,6 @@ window.postsData = [
     }
   },
   {
-    "id": 10,
-    "slug": "dino-killing-asteroid-may-have-fueled-underground-life-for-8-million-years",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/meteorite-which-wiped-1.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/meteorite-which-wiped-1.jpg",
-        "caption": "O meteorito que destruiu os dinossauros também criou um sistema hidrotérmico recorde",
-        "caption_pt": "O meteorito que destruiu os dinossauros também criou um sistema hidrotérmico recorde",
-        "caption_en": "Meteorite which wiped out the dinosaurs also created record-breaking hydrothermal system",
-        "alt": "O meteorito que destruiu os dinossauros também criou um sistema hidrotérmico recorde",
-        "alt_pt": "O meteorito que destruiu os dinossauros também criou um sistema hidrotérmico recorde",
-        "alt_en": "Meteorite which wiped out the dinosaurs also created record-breaking hydrothermal system"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/meteorite-which-wiped.jpg",
-        "caption": "O meteorito que destruiu os dinossauros também criou um sistema hidrotérmico recorde",
-        "caption_pt": "O meteorito que destruiu os dinossauros também criou um sistema hidrotérmico recorde",
-        "caption_en": "Meteorite which wiped out the dinosaurs also created record-breaking hydrothermal system",
-        "alt": "O meteorito que destruiu os dinossauros também criou um sistema hidrotérmico recorde",
-        "alt_pt": "O meteorito que destruiu os dinossauros também criou um sistema hidrotérmico recorde",
-        "alt_en": "Meteorite which wiped out the dinosaurs also created record-breaking hydrothermal system"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Asteroide que mata dinossauros pode ter alimentado a vida subterrânea por 8 milhões de anos",
-    "title_pt": "Asteroide que mata dinossauros pode ter alimentado a vida subterrânea por 8 milhões de anos",
-    "title_en": "Dino-killing asteroid may have fueled underground life for 8 million years",
-    "sub": "O asteroide que causou a extinção dos dinossauros também criou um ambiente subterrâneo adequado para sustentar nova vida, e novas pesquisas sugerem que durou milhões de anos a.",
-    "sub_pt": "O asteroide que causou a extinção dos dinossauros também criou um ambiente subterrâneo adequado para sustentar nova vida, e novas pesquisas sugerem que durou milhões de anos a.",
-    "sub_en": "The asteroid that caused the extinction of the dinosaurs also created an underground environment suited to supporting new life, and new research suggests it lasted for millions of.",
-    "excerpt": "O asteroide que causou a extinção dos dinossauros também criou um ambiente subterrâneo adequado para sustentar nova vida, e novas pesquisas sugerem que durou milhões de anos a mais do que se suspeitava anteriormente.",
-    "excerpt_pt": "O asteroide que causou a extinção dos dinossauros também criou um ambiente subterrâneo adequado para sustentar nova vida, e novas pesquisas sugerem que durou milhões de anos a mais do que se suspeitava anteriormente.",
-    "excerpt_en": "The asteroid that caused the extinction of the dinosaurs also created an underground environment suited to supporting new life, and new research suggests it lasted for millions of years longer than previously suspected.",
-    "body": "<p>O asteroide que causou a extinção dos dinossauros também criou um ambiente subterrâneo adequado para sustentar nova vida, e novas pesquisas sugerem que durou milhões de anos a mais do que se suspeitava anteriormente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial Communications Earth &amp; Environment (2026). Comunicações Terra e Meio Ambiente (2026).</p><p>O asteroide que causou a extinção dos dinossauros também criou um ambiente subterrâneo adequado para sustentar nova vida, e novas pesquisas sugerem que ele durou milhões de anos a. A descoberta surpreendeu a equipa internacional de investigadores por trás dela, que chegaram às suas conclusões combinando novas análises sofisticadas de amostras retiradas da.</p><p>A investigação, publicada na revista Communications Earth &amp; Environment, lança uma nova luz sobre como a vida pode ter sido incubada pela primeira vez em sistemas hidrotermais nos. Deixou para trás uma cratera com quase 200 quilómetros (124 milhas) de diâmetro, e os efeitos esmagadores do impacto atingiram profundamente a crosta terrestre.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-dino-asteroid-fueled-underground-life.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O asteroide que causou a extinção dos dinossauros também criou um ambiente subterrâneo adequado para sustentar nova vida, e novas pesquisas sugerem que durou milhões de anos a mais do que se suspeitava anteriormente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial Communications Earth &amp; Environment (2026). Comunicações Terra e Meio Ambiente (2026).</p><p>O asteroide que causou a extinção dos dinossauros também criou um ambiente subterrâneo adequado para sustentar nova vida, e novas pesquisas sugerem que ele durou milhões de anos a. A descoberta surpreendeu a equipa internacional de investigadores por trás dela, que chegaram às suas conclusões combinando novas análises sofisticadas de amostras retiradas da.</p><p>A investigação, publicada na revista Communications Earth &amp; Environment, lança uma nova luz sobre como a vida pode ter sido incubada pela primeira vez em sistemas hidrotermais nos. Deixou para trás uma cratera com quase 200 quilómetros (124 milhas) de diâmetro, e os efeitos esmagadores do impacto atingiram profundamente a crosta terrestre.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-dino-asteroid-fueled-underground-life.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The asteroid that caused the extinction of the dinosaurs also created an underground environment suited to supporting new life, and new research suggests it lasted for millions of years longer than previously suspected. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Communications Earth &amp; Environment (2026). Communications Earth &amp; Environment (2026).</p><p>The finding has surprised the international team of researchers behind it, who came to their conclusions by pairing sophisticated new analysis of samples taken from the Chicxulub. The research, published in the journal Communications Earth &amp; Environment, casts new light on how life may have first been incubated in hydrothermal systems in the earliest.</p><p>It left behind a crater nearly 200 kilometers (124 miles) in diameter, and the crushing effects of the impact reached deep into Earth&#x27;s crust. The analysis showed a range of ages for the feldspar samples, from the time of the impact 66 million years ago to approximately 58 million years ago, an 8 million-year window.</p><p>Those findings were based on computer models that were, even at the time, regarded as conservative estimates, but we were still surprised by the outcomes of our research.&quot;. Using updated computer simulations based on the new findings, the team worked to identify which geological conditions were most likely to produce such a long-lived system.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The outcomes of the modeling indicate that a combination of high rock permeability, sustained heat from the impact, and natural geothermal conditions likely helped the system. He said, &quot;Advancements in computational methods enable researchers to simulate complex natural systems with unprecedented realism, bringing us even closer to unveiling the.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-dino-asteroid-fueled-underground-life.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O asteroide que causou a extinção dos dinossauros também criou um ambiente subterrâneo adequado para sustentar nova vida, e novas pesquisas sugerem.",
-      "Dado-chave: Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial Communications Earth &.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O asteroide que causou a extinção dos dinossauros também criou um ambiente subterrâneo adequado para sustentar nova vida, e novas pesquisas sugerem.",
-      "Dado-chave: Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial Communications Earth &.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The asteroid that caused the extinction of the dinosaurs also created an underground environment suited to supporting new life, and new research.",
-      "Key detail: Editors have highlighted the following attributes while ensuring the content's credibility: Add as preferred source Communications Earth &.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "09 jun 2026",
-    "date_pt": "09 jun 2026",
-    "date_en": "09 Jun 2026",
-    "time": "19h20",
-    "time_pt": "19h20",
-    "time_en": "19:20 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-09T19:20:02+00:00",
-    "lastModifiedIso": "2026-06-09T19:20:02+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Asteroide que mata dinossauros pode ter alimentado a vida subterrânea por 8 milhões de anos"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Asteroide que mata dinossauros pode ter alimentado a vida subterrânea por 8 milhões de anos"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Dinosaur-killing asteroid may have fueled underground life for 8 million years"
-    ],
-    "srcUrl": "https://phys.org/news/2026-06-dino-asteroid-fueled-underground-life.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=dino-killing-asteroid-may-have-fueled-underground-life-for-8-million-years",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=dino-killing-asteroid-may-have-fueled-underground-life-for-8-million-years",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=dino-killing-asteroid-may-have-fueled-underground-life-for-8-million-years&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 69,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 62,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
     "id": 11,
     "slug": "san-francisco-s-metropolitan-mosaic",
     "cat": "Astronomia",
@@ -1208,6 +1208,15 @@ window.postsData = [
         "alt_en": "Development associated with Dubai appears as a light gray zone along the coast of the Persian Gulf with the dark gray Al-Hajar Mountains on the far right side of the image. A ridge lies in the middle of the image in a sandy area."
       },
       {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tyndall’s-trail-of-bergs/ISS074-E-582898_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Uma foto de cima para baixo mostra uma visão detalhada da borda principal de uma geleira que termina em um lago. O gelo glacial é fortemente fendido com características lineares que se cruzam.",
+        "caption_pt": "Uma foto de cima para baixo mostra uma visão detalhada da borda principal de uma geleira que termina em um lago. O gelo glacial é fortemente fendido com características lineares que se cruzam.",
+        "caption_en": "A top-down photo shows a detailed view of the leading edge of a glacier terminating in a lake. The glacial ice is heavily crevassed with intersecting linear features.",
+        "alt": "Uma foto de cima para baixo mostra uma visão detalhada da borda principal de uma geleira que termina em um lago. O gelo glacial é fortemente fendido com características lineares que se cruzam.",
+        "alt_pt": "Uma foto de cima para baixo mostra uma visão detalhada da borda principal de uma geleira que termina em um lago. O gelo glacial é fortemente fendido com características lineares que se cruzam.",
+        "alt_en": "A top-down photo shows a detailed view of the leading edge of a glacier terminating in a lake. The glacial ice is heavily crevassed with intersecting linear features."
+      },
+      {
         "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/san-francisco’s-metropolitan-mosaic/ISS074-E-619284_lrg.jpg?w=8256&h=5504&fit=clip&crop=faces%2Cfocalpoint",
         "caption": "Uma foto de cima para baixo de São Francisco mostra uma densa infraestrutura urbana cinzenta intercalada com parques verdes. Ondas e navios são visíveis nas águas azul-esverdeadas circundantes.",
         "caption_pt": "Uma foto de cima para baixo de São Francisco mostra uma densa infraestrutura urbana cinzenta intercalada com parques verdes. Ondas e navios são visíveis nas águas azul-esverdeadas circundantes.",
@@ -1215,15 +1224,6 @@ window.postsData = [
         "alt": "Uma foto de cima para baixo de São Francisco mostra uma densa infraestrutura urbana cinzenta intercalada com parques verdes. Ondas e navios são visíveis nas águas azul-esverdeadas circundantes.",
         "alt_pt": "Uma foto de cima para baixo de São Francisco mostra uma densa infraestrutura urbana cinzenta intercalada com parques verdes. Ondas e navios são visíveis nas águas azul-esverdeadas circundantes.",
         "alt_en": "A top-down photo of San Francisco shows dense gray urban infrastructure interspersed with green parks. Waves and ships are visible in the surrounding blue-green water."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/belts-of-green-in-the-washington-suburbs/ISS069-E-39302_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
       }
     ],
     "video": null,
@@ -1436,13 +1436,13 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 82,
+    "score": 81,
     "scoreBreakdown": {
       "source": 94,
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -2330,51 +2330,51 @@ window.postsData = [
   },
   {
     "id": 20,
-    "slug": "suppppress-prototyping-and-testing-liquid-crystal-vector-vortex-coronagraphs-with-reduced-polari",
+    "slug": "towards-instrument-agnostic-exoplanet-candidate-prioritization",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Global_Surface_Temperature_Anomalies_1880-2013.jpg/1280px-Global_Surface_Temperature_Anomalies_1880-2013.jpg",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Transiting_Exoplanet_Artist%27s_Impression.jpg/1280px-Transiting_Exoplanet_Artist%27s_Impression.jpg",
     "inline_images": [],
     "video": null,
     "audio": null,
-    "title": "SUPPPPRESS: Prototipagem e teste de coronógrafos de vórtice vetorial de cristal líquido com vazamento de polarização reduzido",
-    "title_pt": "SUPPPPRESS: Prototipagem e teste de coronógrafos de vórtice vetorial de cristal líquido com vazamento de polarização reduzido",
-    "title_en": "SUPPPPRESS: Prototyping and testing liquid-crystal vector vortex coronagraphs with reduced polarization leakage",
-    "sub": "O coronógrafo de vórtice é um dos candidatos mais promissores para o Observatório de Mundos Habitáveis ​​devido ao seu excelente desempenho teórico para um telescópio fora do.",
-    "sub_pt": "O coronógrafo de vórtice é um dos candidatos mais promissores para o Observatório de Mundos Habitáveis ​​devido ao seu excelente desempenho teórico para um telescópio fora do.",
-    "sub_en": "The vortex coronagraph is one of the most promising candidates for the Habitable Worlds Observatory due to its excellent theoretical performance for an off-axis telescope. A.",
-    "excerpt": "O coronógrafo de vórtice é um dos candidatos mais promissores para o Observatório de Mundos Habitáveis ​​devido ao seu excelente desempenho teórico para um telescópio fora do eixo. Uma realização prática pode ser alcançada usando cristal líquido.",
-    "excerpt_pt": "O coronógrafo de vórtice é um dos candidatos mais promissores para o Observatório de Mundos Habitáveis ​​devido ao seu excelente desempenho teórico para um telescópio fora do eixo. Uma realização prática pode ser alcançada usando cristal líquido.",
-    "excerpt_en": "The vortex coronagraph is one of the most promising candidates for the Habitable Worlds Observatory due to its excellent theoretical performance for an off-axis telescope. A practical realization can be achieved using liquid-crystal.",
-    "body": "<p>O coronógrafo de vórtice é um dos candidatos mais promissores para o Observatório de Mundos Habitáveis ​​devido ao seu excelente desempenho teórico para um telescópio fora do eixo. Uma realização prática pode ser alcançada usando cristal líquido. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Alcançar o contraste de $ 10^{-10}$ necessário para a detecção de planetas semelhantes à Terra é, no entanto, limitado pelo vazamento de polarização causado por desvios. O coronógrafo de vórtice é um dos candidatos mais promissores para o Observatório de Mundos Habitáveis ​​(HWO) devido ao seu excelente desempenho teórico para um telescópio fora.</p><p>Uma realização prática pode ser alcançada usando polímeros de cristal líquido para formar um coronógrafo de vórtice vetorial (VVC). Alcançar o contraste de $ 10 ^ {-10} $ necessário para a detecção de planetas semelhantes à Terra é, no entanto, limitado pelo vazamento de polarização causado por desvios.</p><p>Este efeito pode ser mitigado usando retardadores torcidos multicamadas para minimizar o vazamento e combinando o VVC com múltiplas redes de polarização (mgVVC) para difratar o. Apresentamos os progressos recentes no âmbito do projecto SUPPPPRESS financiado pela ESA, que visa avançar no fabrico, montagem e testes de VVCs de alto desempenho.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2606.10760v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O coronógrafo de vórtice é um dos candidatos mais promissores para o Observatório de Mundos Habitáveis ​​devido ao seu excelente desempenho teórico para um telescópio fora do eixo. Uma realização prática pode ser alcançada usando cristal líquido. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Alcançar o contraste de $ 10^{-10}$ necessário para a detecção de planetas semelhantes à Terra é, no entanto, limitado pelo vazamento de polarização causado por desvios. O coronógrafo de vórtice é um dos candidatos mais promissores para o Observatório de Mundos Habitáveis ​​(HWO) devido ao seu excelente desempenho teórico para um telescópio fora.</p><p>Uma realização prática pode ser alcançada usando polímeros de cristal líquido para formar um coronógrafo de vórtice vetorial (VVC). Alcançar o contraste de $ 10 ^ {-10} $ necessário para a detecção de planetas semelhantes à Terra é, no entanto, limitado pelo vazamento de polarização causado por desvios.</p><p>Este efeito pode ser mitigado usando retardadores torcidos multicamadas para minimizar o vazamento e combinando o VVC com múltiplas redes de polarização (mgVVC) para difratar o. Apresentamos os progressos recentes no âmbito do projecto SUPPPPRESS financiado pela ESA, que visa avançar no fabrico, montagem e testes de VVCs de alto desempenho.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2606.10760v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The vortex coronagraph is one of the most promising candidates for the Habitable Worlds Observatory due to its excellent theoretical performance for an off-axis telescope. A practical realization can be achieved using liquid-crystal. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. Reaching the $10^{-10}$ contrast required for Earth-like planet detection is, however, limited by polarization leakage caused by wavelength-dependent deviations from. The vortex coronagraph is one of the most promising candidates for the Habitable Worlds Observatory (HWO) due to its excellent theoretical performance for an off-axis telescope.</p><p>A practical realization can be achieved using liquid-crystal polymers to form a vector vortex coronagraph (VVC). Reaching the $10^{-10}$ contrast required for Earth-like planet detection is, however, limited by polarization leakage caused by wavelength-dependent deviations from half-wave.</p><p>This effect can be mitigated using multi-layer twisted retarders to minimize leakage, and by combining the VVC with multiple polarization gratings (mgVVC) to diffract the. We present recent progress within the ESA-funded SUPPPPRESS project, which aims to advance the manufacturing, assembly, and testing of high-performance VVCs.</p><p>Central singularities of 2 and 6 $μ$m have been achieved for charge 2 and charge 6 VVCs, respectively, with patterning accuracies better than 1 degree root-mean-square error. Fabrication procedures have been developed to produce individual components with a polarization leakage of $3\\times10^{-4}$ over a 10% bandwidth and $8\\times10^{-4}$ over a 20%.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>We also report on the development of assembly and alignment procedures for mgVVCs and their metrology. Furthermore, we present initial high-contrast tests at the THD2 bench for both regular VVCs and a double-grating VVC.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2606.10760v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Rumo à priorização de candidatos a exoplanetas independentes de instrumentos",
+    "title_pt": "Rumo à priorização de candidatos a exoplanetas independentes de instrumentos",
+    "title_en": "Towards Instrument-Agnostic Exoplanet Candidate Prioritization",
+    "sub": "Desenvolvemos uma nova abordagem de aprendizado de máquina para prever a probabilidade de confirmação de candidato a exoplaneta com igual capacidade de desempenho em dados do TESS.",
+    "sub_pt": "Desenvolvemos uma nova abordagem de aprendizado de máquina para prever a probabilidade de confirmação de candidato a exoplaneta com igual capacidade de desempenho em dados do TESS.",
+    "sub_en": "We have developed a novel machine learning approach for predicting the likelihood of exoplanet candidate confirmation equally capable of performance on both TESS and Kepler data.",
+    "excerpt": "Desenvolvemos uma nova abordagem de aprendizado de máquina para prever a probabilidade de confirmação de candidato a exoplaneta com igual capacidade de desempenho em dados do TESS e do Kepler. Do arquivo de exoplanetas da NASA pós-processado Kepler e.",
+    "excerpt_pt": "Desenvolvemos uma nova abordagem de aprendizado de máquina para prever a probabilidade de confirmação de candidato a exoplaneta com igual capacidade de desempenho em dados do TESS e do Kepler. Do arquivo de exoplanetas da NASA pós-processado Kepler e.",
+    "excerpt_en": "We have developed a novel machine learning approach for predicting the likelihood of exoplanet candidate confirmation equally capable of performance on both TESS and Kepler data. From the NASA exoplanet archival post-processed Kepler and.",
+    "body": "<p>Desenvolvemos uma nova abordagem de aprendizado de máquina para prever a probabilidade de confirmação de candidato a exoplaneta com igual capacidade de desempenho em dados do TESS e do Kepler. Do arquivo de exoplanetas da NASA pós-processado Kepler e. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. A partir dos bancos de dados Kepler e TESS pós-processados ​​​​de arquivos de exoplanetas da NASA, escolhemos seis parâmetros que avaliamos como preditivos para a assinatura do. Desenvolvemos uma nova abordagem de aprendizado de máquina (ML) para prever a probabilidade de confirmação de candidato a exoplaneta igualmente capaz de desempenho em dados TESS e.</p><p>A partir dos bancos de dados Kepler e TESS pós-processados ​​de arquivos de exoplanetas da NASA, escolhemos seis parâmetros que avaliamos como preditivos para a assinatura do. Usamos esses parâmetros para avaliar onze modelos de ML diferentes em todas as combinações possíveis de treinamento/teste de dados TESS e Kepler, usando o planeta confirmado e.</p><p>Descobrimos que, devido a distribuições substancialmente diferentes dos parâmetros escolhidos nas bases de dados Kepler e TESS, os modelos treinados com dados de um instrumento. No entanto, os modelos treinados em conjunto com dados do TESS e do Kepler podem ter um bom desempenho em ambos.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2606.07769v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Desenvolvemos uma nova abordagem de aprendizado de máquina para prever a probabilidade de confirmação de candidato a exoplaneta com igual capacidade de desempenho em dados do TESS e do Kepler. Do arquivo de exoplanetas da NASA pós-processado Kepler e. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. A partir dos bancos de dados Kepler e TESS pós-processados ​​​​de arquivos de exoplanetas da NASA, escolhemos seis parâmetros que avaliamos como preditivos para a assinatura do. Desenvolvemos uma nova abordagem de aprendizado de máquina (ML) para prever a probabilidade de confirmação de candidato a exoplaneta igualmente capaz de desempenho em dados TESS e.</p><p>A partir dos bancos de dados Kepler e TESS pós-processados ​​de arquivos de exoplanetas da NASA, escolhemos seis parâmetros que avaliamos como preditivos para a assinatura do. Usamos esses parâmetros para avaliar onze modelos de ML diferentes em todas as combinações possíveis de treinamento/teste de dados TESS e Kepler, usando o planeta confirmado e.</p><p>Descobrimos que, devido a distribuições substancialmente diferentes dos parâmetros escolhidos nas bases de dados Kepler e TESS, os modelos treinados com dados de um instrumento. No entanto, os modelos treinados em conjunto com dados do TESS e do Kepler podem ter um bom desempenho em ambos.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2606.07769v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>We have developed a novel machine learning approach for predicting the likelihood of exoplanet candidate confirmation equally capable of performance on both TESS and Kepler data. From the NASA exoplanet archival post-processed Kepler and. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. From the NASA exoplanet archival post-processed Kepler and TESS databases, we chose six parameters that we assessed to be predictive to the planet transit signature: planet. We have developed a novel machine learning (ML) approach for predicting the likelihood of exoplanet candidate confirmation equally capable of performance on both TESS and Kepler.</p><p>We used these parameters to evaluate eleven different ML models on all possible train/test combinations of TESS and Kepler data, using the confirmed planet and false positive. We found that, due to substantially different distributions of our chosen parameters in Kepler and TESS databases, models trained with data from one instrument have difficulty.</p><p>However, models trained jointly with both TESS and Kepler data can perform well on both. We combined our best models into a statistically robust ensemble to evaluate the planet candidates in both Kepler and TESS, and we provide a list of the top candidates predicted.</p><p>Confirmed planets and false positives that have been resolved since the completion of our analysis demonstrate the effectiveness of our model and suggest that our top candidates. With the upcoming launch of the Nancy Grace Roman Space Telescope (Roman) and the expected order-of-magnitude increase in planet candidates, we suggest that our method can be.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. ArXiv is committed to these values and only works with partners that adhere to them.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2606.07769v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: O coronógrafo de vórtice é um dos candidatos mais promissores para o Observatório de Mundos Habitáveis ​​devido ao seu excelente desempenho teórico.",
-      "Dado-chave: Alcançar o contraste de $ 10^{-10}$ necessário para a detecção de planetas semelhantes à Terra é, no entanto, limitado pelo vazamento de.",
+      "Ponto central: Desenvolvemos uma nova abordagem de aprendizado de máquina para prever a probabilidade de confirmação de candidato a exoplaneta com igual capacidade.",
+      "Dado-chave: A partir dos bancos de dados Kepler e TESS pós-processados ​​​​de arquivos de exoplanetas da NASA, escolhemos seis parâmetros que avaliamos como.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Ponto central: O coronógrafo de vórtice é um dos candidatos mais promissores para o Observatório de Mundos Habitáveis ​​devido ao seu excelente desempenho teórico.",
-      "Dado-chave: Alcançar o contraste de $ 10^{-10}$ necessário para a detecção de planetas semelhantes à Terra é, no entanto, limitado pelo vazamento de.",
+      "Ponto central: Desenvolvemos uma nova abordagem de aprendizado de máquina para prever a probabilidade de confirmação de candidato a exoplaneta com igual capacidade.",
+      "Dado-chave: A partir dos bancos de dados Kepler e TESS pós-processados ​​​​de arquivos de exoplanetas da NASA, escolhemos seis parâmetros que avaliamos como.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Core point: The vortex coronagraph is one of the most promising candidates for the Habitable Worlds Observatory due to its excellent theoretical performance for.",
-      "Key detail: Reaching the $10^{-10}$ contrast required for Earth-like planet detection is, however, limited by polarization leakage caused by.",
+      "Core point: We have developed a novel machine learning approach for predicting the likelihood of exoplanet candidate confirmation equally capable of performance.",
+      "Key detail: From the NASA exoplanet archival post-processed Kepler and TESS databases, we chose six parameters that we assessed to be predictive to the.",
       "Result not yet peer reviewed."
     ],
-    "date": "09 jun 2026",
-    "date_pt": "09 jun 2026",
-    "date_en": "09 Jun 2026",
-    "time": "12h12",
-    "time_pt": "12h12",
-    "time_en": "12:12 UTC",
+    "date": "05 jun 2026",
+    "date_pt": "05 jun 2026",
+    "date_en": "05 Jun 2026",
+    "time": "18h26",
+    "time_pt": "18h26",
+    "time_en": "18:26 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-09T12:12:33+00:00",
-    "lastModifiedIso": "2026-06-09T12:12:33+00:00",
+    "publishedIso": "2026-06-05T18:26:33+00:00",
+    "lastModifiedIso": "2026-06-05T18:26:33+00:00",
     "source": "arXiv Earth & Planetary",
     "sourceDomain": "arxiv.org",
     "sourceType": "preprint",
@@ -2396,27 +2396,24 @@ window.postsData = [
       "Exoplanetas",
       "arXiv Earth & Planetary",
       "Cosmos Week",
-      "SUPPPPRESS",
-      "Prototipagem e teste de coronógrafos de vórtice vetorial de cristal líquido com vazamento de polarização reduzido"
+      "Rumo à priorização de candidatos a exoplanetas independentes de instrumentos"
     ],
     "keywords_pt": [
       "Exoplanetas",
       "arXiv Earth & Planetary",
       "Cosmos Week",
-      "SUPPPPRESS",
-      "Prototipagem e teste de coronógrafos de vórtice vetorial de cristal líquido com vazamento de polarização reduzido"
+      "Rumo à priorização de candidatos a exoplanetas independentes de instrumentos"
     ],
     "keywords_en": [
       "Exoplanets",
       "arXiv Earth & Planetary",
       "Cosmos Week",
-      "SUPPPPRESS",
-      "Prototyping and Testing of Liquid Crystal Vector Vortex Coronagraphs with Reduced Polarization Leakage"
+      "Towards prioritization of instrument-independent exoplanet candidates"
     ],
-    "srcUrl": "https://arxiv.org/abs/2606.10760v1",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=suppppress-prototyping-and-testing-liquid-crystal-vector-vortex-coronagraphs-with-reduced-polari",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=suppppress-prototyping-and-testing-liquid-crystal-vector-vortex-coronagraphs-with-reduced-polari",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=suppppress-prototyping-and-testing-liquid-crystal-vector-vortex-coronagraphs-with-reduced-polari&lang=en",
+    "srcUrl": "https://arxiv.org/abs/2606.07769v1",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=towards-instrument-agnostic-exoplanet-candidate-prioritization",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=towards-instrument-agnostic-exoplanet-candidate-prioritization",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=towards-instrument-agnostic-exoplanet-candidate-prioritization&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -2430,10 +2427,10 @@ window.postsData = [
     "score": 67,
     "scoreBreakdown": {
       "source": 56,
-      "evidence": 58,
+      "evidence": 64,
       "relevance": 94,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 46
     }
   },
   {
@@ -3574,7 +3571,7 @@ window.postsData = [
     "img": "https://www.nasa.gov/wp-content/uploads/2026/06/iss074e0361795.jpg?w=2048",
     "inline_images": [
       {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/san-francisco’s-metropolitan-mosaic/ISS074-E-619284_th.jpg",
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tyndall’s-trail-of-bergs/ISS074-E-582898_th.jpg",
         "caption": "",
         "caption_pt": "",
         "caption_en": "",
@@ -3583,7 +3580,7 @@ window.postsData = [
         "alt_en": ""
       },
       {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/downloadable_items/3/8/38884_mars-msl-gale-crater-mt-sharp-soil-layers-pia19912.jpg",
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/san-francisco’s-metropolitan-mosaic/ISS074-E-619284_th.jpg",
         "caption": "",
         "caption_pt": "",
         "caption_en": "",
@@ -3811,7 +3808,7 @@ window.postsData = [
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -3925,35 +3922,7 @@ window.postsData = [
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/atmospheric_nitrogen_dioxide_concentrations_in_2024/27315424-1-eng-GB/Atmospheric_nitrogen_dioxide_concentrations_in_2024_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/09/sentinel-5p_and_tropomi/17180096-1-eng-GB/Sentinel-5P_and_Tropomi_article.png",
-        "caption": "Sentinel-5P e Tropomi",
-        "caption_pt": "Sentinel-5P e Tropomi",
-        "caption_en": "Sentinel-5P and Tropomi",
-        "alt": "Sentinel-5P e Tropomi",
-        "alt_pt": "Sentinel-5P e Tropomi",
-        "alt_en": "Sentinel-5P and Tropomi"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/nitrogen_dioxide_compared_to_gross_domestic_product_between_2019_and_2024/27315471-1-eng-GB/Nitrogen_dioxide_compared_to_gross_domestic_product_between_2019_and_2024_article.jpg",
-        "caption": "Dióxido de nitrogênio em comparação com o produto interno bruto entre 2019 e 2024",
-        "caption_pt": "Dióxido de nitrogênio em comparação com o produto interno bruto entre 2019 e 2024",
-        "caption_en": "Nitrogen dioxide compared to gross domestic product between 2019 and 2024",
-        "alt": "Dióxido de nitrogênio em comparação com o produto interno bruto entre 2019 e 2024",
-        "alt_pt": "Dióxido de nitrogênio em comparação com o produto interno bruto entre 2019 e 2024",
-        "alt_en": "Nitrogen dioxide compared to gross domestic product between 2019 and 2024"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/nitrogen_dioxide_over_china_and_japan_in_2019/27315664-1-eng-GB/Nitrogen_dioxide_over_China_and_Japan_in_2019_article.jpg",
-        "caption": "Dióxido de nitrogênio sobre a China e o Japão em 2019 e 2024 Open Image",
-        "caption_pt": "Dióxido de nitrogênio sobre a China e o Japão em 2019 e 2024 Open Image",
-        "caption_en": "Nitrogen dioxide over China and Japan 2019 and 2024 Open Image",
-        "alt": "Dióxido de nitrogênio sobre a China e o Japão em 2019 e 2024 Open Image",
-        "alt_pt": "Dióxido de nitrogênio sobre a China e o Japão em 2019 e 2024 Open Image",
-        "alt_en": "Nitrogen dioxide over China and Japan 2019 and 2024 Open Image"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Ar mais limpo e prosperidade podem andar de mãos dadas",
@@ -3965,22 +3934,22 @@ window.postsData = [
     "excerpt": "Durante décadas, o crescimento económico e o consumo de combustíveis fósseis estiveram estreitamente interligados. À medida que as cidades se expandiram, o aumento da prosperidade tem sido frequentemente acompanhado pelo agravamento da poluição atmosférica.",
     "excerpt_pt": "Durante décadas, o crescimento económico e o consumo de combustíveis fósseis estiveram estreitamente interligados. À medida que as cidades se expandiram, o aumento da prosperidade tem sido frequentemente acompanhado pelo agravamento da poluição atmosférica.",
     "excerpt_en": "For decades, economic growth and fossil-fuel consumption have been tightly intertwined. As cities have expanded, rising prosperity has often been accompanied by worsening air pollution. New research, however, suggests that this.",
-    "body": "<p>Durante décadas, o crescimento económico e o consumo de combustíveis fósseis estiveram estreitamente interligados. À medida que as cidades se expandiram, o aumento da prosperidade tem sido frequentemente acompanhado pelo agravamento da poluição atmosférica. Novas pesquisas, no. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Utilizando dados da missão do satélite europeu Copernicus Sentinel-5P, juntamente com informações sobre o produto interno bruto (PIB), os investigadores descobriram que muitas das. O estudo, liderado pelo instituto de investigação norueguês NILU e publicado recentemente na Nature Cities, analisou 2.475 grandes áreas urbanas em todo o mundo e descobriu que.</p><p>No centro da pesquisa está o Sentinel-5P, cujas capacidades avançadas de monitoramento atmosférico fornecem uma visão global única da qualidade do ar. Os cientistas usaram medições de dióxido de azoto atmosférico recolhidas pelo Sentinel-5P entre janeiro de 2019 e dezembro de 2024 e compararam estes dados com informações sobre o.</p><p>Ao combinar as observações do Sentinel-5P com dados locais do PIB per capita, os investigadores conseguiram acompanhar a evolução do crescimento económico e da dependência dos. As conclusões indicam que quase 2.000 das 2.475 cidades selecionadas em todo o mundo implementaram políticas verdes que geraram prosperidade económica, reduzindo ao mesmo tempo a.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Cleaner_air_and_prosperity_can_go_hand_in_hand\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Durante décadas, o crescimento económico e o consumo de combustíveis fósseis estiveram estreitamente interligados. À medida que as cidades se expandiram, o aumento da prosperidade tem sido frequentemente acompanhado pelo agravamento da poluição atmosférica. Novas pesquisas, no. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Utilizando dados da missão do satélite europeu Copernicus Sentinel-5P, juntamente com informações sobre o produto interno bruto (PIB), os investigadores descobriram que muitas das. O estudo, liderado pelo instituto de investigação norueguês NILU e publicado recentemente na Nature Cities, analisou 2.475 grandes áreas urbanas em todo o mundo e descobriu que.</p><p>No centro da pesquisa está o Sentinel-5P, cujas capacidades avançadas de monitoramento atmosférico fornecem uma visão global única da qualidade do ar. Os cientistas usaram medições de dióxido de azoto atmosférico recolhidas pelo Sentinel-5P entre janeiro de 2019 e dezembro de 2024 e compararam estes dados com informações sobre o.</p><p>Ao combinar as observações do Sentinel-5P com dados locais do PIB per capita, os investigadores conseguiram acompanhar a evolução do crescimento económico e da dependência dos. As conclusões indicam que quase 2.000 das 2.475 cidades selecionadas em todo o mundo implementaram políticas verdes que geraram prosperidade económica, reduzindo ao mesmo tempo a.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Cleaner_air_and_prosperity_can_go_hand_in_hand\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>For decades, economic growth and fossil-fuel consumption have been tightly intertwined. As cities have expanded, rising prosperity has often been accompanied by worsening air pollution. New research, however, suggests that this. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Using data from Europe’s Copernicus Sentinel-5P satellite mission together with information on gross domestic product (GDP), researchers have found that many of the world’s. The study, led by Norway’s NILU research institute and published recently in Nature Cities, analysed 2475 major urban areas around the world and found that almost 80% of them are.</p><p>At the heart of the research is Sentinel-5P, whose advanced atmospheric monitoring capabilities provide a unique global view of air quality. Scientists used measurements of atmospheric nitrogen dioxide collected by Sentinel-5P between January 2019 and December 2024 and compared these data with information on GDP.</p><p>By combining Sentinel-5P observations with local GDP-per-capita data, researchers were able to track how economic growth and fossil-fuel dependence evolved over time. The findings indicate that almost 2000 out of the 2475 selected cities worldwide have implemented green policies that have generated economic prosperity while reducing.</p><p>The trend is particularly evident in China, which accounted for 719 cities in the cleaner-and-richer category, including Beijing, Shanghai and Chengdu. Similar patterns were observed across Europe, where cities including Paris, Berlin, Rome and Amsterdam have benefited from low-emission zones and clean-energy policies.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>For example, 390 cities matched trends of economic growth, but with increased use of fossil fuels, including Moscow, Tashkent, Izmir, Riyadh and Abu Dhabi. The study notes key uncertainties, including uneven economic data quality between countries, a study boundary that does not consider how cities’ total emissions footprints may be.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Cleaner_air_and_prosperity_can_go_hand_in_hand\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Durante décadas, o crescimento económico e o consumo de combustíveis fósseis estiveram estreitamente interligados. À medida que as cidades se expandiram, o aumento da prosperidade tem sido frequentemente acompanhado pelo agravamento da poluição atmosférica. Novas pesquisas, no. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Durante décadas, o crescimento económico e o consumo de combustíveis fósseis estiveram estreitamente interligados. À medida que as cidades se expandiram, o aumento da prosperidade tem sido frequentemente acompanhado pelo agravamento da poluição atmosférica.</p><p>Contudo, novas investigações sugerem que esta relação está a mudar, e os dados de satélite estão a ajudar a prová-lo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Cleaner_air_and_prosperity_can_go_hand_in_hand\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Durante décadas, o crescimento económico e o consumo de combustíveis fósseis estiveram estreitamente interligados. À medida que as cidades se expandiram, o aumento da prosperidade tem sido frequentemente acompanhado pelo agravamento da poluição atmosférica. Novas pesquisas, no. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Durante décadas, o crescimento económico e o consumo de combustíveis fósseis estiveram estreitamente interligados. À medida que as cidades se expandiram, o aumento da prosperidade tem sido frequentemente acompanhado pelo agravamento da poluição atmosférica.</p><p>Contudo, novas investigações sugerem que esta relação está a mudar, e os dados de satélite estão a ajudar a prová-lo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Cleaner_air_and_prosperity_can_go_hand_in_hand\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>For decades, economic growth and fossil-fuel consumption have been tightly intertwined. As cities have expanded, rising prosperity has often been accompanied by worsening air pollution. New research, however, suggests that this. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. For decades, economic growth and fossil-fuel consumption have been tightly intertwined. As cities have expanded, rising prosperity has often been accompanied by worsening air pollution.</p><p>New research, however, suggests that this relationship is changing, and satellite data are helping to prove it.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Cleaner_air_and_prosperity_can_go_hand_in_hand\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Durante décadas, o crescimento económico e o consumo de combustíveis fósseis estiveram estreitamente interligados. À medida que as cidades se.",
-      "Dado-chave: Utilizando dados da missão do satélite europeu Copernicus Sentinel-5P, juntamente com informações sobre o produto interno bruto (PIB), os.",
+      "Dado-chave: Durante décadas, o crescimento económico e o consumo de combustíveis fósseis estiveram estreitamente interligados.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Durante décadas, o crescimento económico e o consumo de combustíveis fósseis estiveram estreitamente interligados. À medida que as cidades se.",
-      "Dado-chave: Utilizando dados da missão do satélite europeu Copernicus Sentinel-5P, juntamente com informações sobre o produto interno bruto (PIB), os.",
+      "Dado-chave: Durante décadas, o crescimento económico e o consumo de combustíveis fósseis estiveram estreitamente interligados.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: For decades, economic growth and fossil-fuel consumption have been tightly intertwined. As cities have expanded, rising prosperity has often been.",
-      "Key detail: Using data from Europe’s Copernicus Sentinel-5P satellite mission together with information on gross domestic product (GDP), researchers have.",
+      "Key detail: For decades, economic growth and fossil-fuel consumption have been tightly intertwined.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "09 jun 2026",
@@ -4318,7 +4287,7 @@ window.postsData = [
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -4460,61 +4429,33 @@ window.postsData = [
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/solar_eclipse_artist_impression/27150246-1-eng-GB/Solar_eclipse_artist_impression_card_full.png",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/total_solar_eclipse_12_august_2026_map_of_totality_in_spain/27245996-1-eng-GB/Total_solar_eclipse_12_August_2026_Map_of_totality_in_Spain_pillars.png",
-        "caption": "Eclipse solar total 12 de agosto de 2026 – Mapa da totalidade na Espanha",
-        "caption_pt": "Eclipse solar total 12 de agosto de 2026 – Mapa da totalidade na Espanha",
-        "caption_en": "Total solar eclipse 12 August 2026 – Map of totality in Spain",
-        "alt": "Eclipse solar total 12 de agosto de 2026 – Mapa da totalidade na Espanha",
-        "alt_pt": "Eclipse solar total 12 de agosto de 2026 – Mapa da totalidade na Espanha",
-        "alt_en": "Total solar eclipse 12 August 2026 – Map of totality in Spain"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/total_solar_eclipse_12_august_2026_global_map/27246043-1-eng-GB/Total_solar_eclipse_12_August_2026_Global_map_pillars.png",
-        "caption": "Eclipse solar total 12 de agosto de 2026 – Mapa global",
-        "caption_pt": "Eclipse solar total 12 de agosto de 2026 – Mapa global",
-        "caption_en": "Total solar eclipse 12 August 2026 – Global map",
-        "alt": "Eclipse solar total 12 de agosto de 2026 – Mapa global",
-        "alt_pt": "Eclipse solar total 12 de agosto de 2026 – Mapa global",
-        "alt_en": "Total solar eclipse 12 August 2026 – Global map"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/solar_eclipse_coming_to_europe/27150340-1-eng-GB/Solar_eclipse_coming_to_Europe_pillars.png",
-        "caption": "Eclipse solar: chegando à Europa",
-        "caption_pt": "Eclipse solar: chegando à Europa",
-        "caption_en": "Solar eclipse: coming to Europe",
-        "alt": "Eclipse solar: chegando à Europa",
-        "alt_pt": "Eclipse solar: chegando à Europa",
-        "alt_en": "Solar eclipse: coming to Europe"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Junte-se à ESA para um eclipse solar total em 12 de agosto de 2026",
     "title_pt": "Junte-se à ESA para um eclipse solar total em 12 de agosto de 2026",
     "title_en": "Join ESA for a total solar eclipse on 12 August 2026",
-    "sub": "A ESA está a organizar uma série de atividades em torno do eclipse, combinando conhecimentos científicos, envolvimento público e divulgação educacional, ver programa abaixo.",
-    "sub_pt": "A ESA está a organizar uma série de atividades em torno do eclipse, combinando conhecimentos científicos, envolvimento público e divulgação educacional, ver programa abaixo.",
-    "sub_en": "ESA is organising a range of activities around the eclipse, combining scientific expertise, public engagement, and educational outreach, see programme below.",
-    "excerpt": "A ESA está a organizar uma série de atividades em torno do eclipse, combinando conhecimentos científicos, envolvimento público e divulgação educacional, ver programa abaixo.",
-    "excerpt_pt": "A ESA está a organizar uma série de atividades em torno do eclipse, combinando conhecimentos científicos, envolvimento público e divulgação educacional, ver programa abaixo.",
-    "excerpt_en": "ESA is organising a range of activities around the eclipse, combining scientific expertise, public engagement, and educational outreach, see programme below.",
-    "body": "<p>A ESA está a organizar uma série de atividades em torno do eclipse, combinando conhecimentos científicos, envolvimento público e divulgação educacional, ver programa abaixo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Acompanhe o eclipse solar total com a Agência Espacial Europeia (ESA), pessoalmente ou online. Durante um eclipse solar total, a Lua passa diretamente em frente do Sol, bloqueando a maior parte da sua luz e permitindo-nos ver a atmosfera de aparência ígnea do Sol.</p><p>É um espetáculo impressionante, visível pela última vez na Europa continental em 2006. Este será o primeiro eclipse solar total visível na Espanha continental desde 1905, e o primeiro de três eclipses solares visíveis no país entre 2026 e 2028.</p><p>Também oferece a oportunidade de experimentar em primeira mão a principal ciência solar e espacial em curso na Europa, incluindo as missões da ESA que estudam o Sol e a sua.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Join_ESA_for_a_total_solar_eclipse_on_12_August_2026\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A ESA está a organizar uma série de atividades em torno do eclipse, combinando conhecimentos científicos, envolvimento público e divulgação educacional, ver programa abaixo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Acompanhe o eclipse solar total com a Agência Espacial Europeia (ESA), pessoalmente ou online. Durante um eclipse solar total, a Lua passa diretamente em frente do Sol, bloqueando a maior parte da sua luz e permitindo-nos ver a atmosfera de aparência ígnea do Sol.</p><p>É um espetáculo impressionante, visível pela última vez na Europa continental em 2006. Este será o primeiro eclipse solar total visível na Espanha continental desde 1905, e o primeiro de três eclipses solares visíveis no país entre 2026 e 2028.</p><p>Também oferece a oportunidade de experimentar em primeira mão a principal ciência solar e espacial em curso na Europa, incluindo as missões da ESA que estudam o Sol e a sua.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Join_ESA_for_a_total_solar_eclipse_on_12_August_2026\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>ESA is organising a range of activities around the eclipse, combining scientific expertise, public engagement, and educational outreach, see programme below. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Follow the total solar eclipse with the European Space Agency (ESA), in person or online. During a total solar eclipse, the Moon passes directly in front of the Sun, blocking out most of its light and allowing us to see the Sun’s fiery-looking atmosphere.</p><p>It is an impressive spectacle, last visible from mainland Europe in 2006. This will be the first total solar eclipse visible from mainland Spain since 1905, and the first of three solar eclipses visible from the country between 2026 and 2028.</p><p>It also offers a chance to experience first-hand the leading solar and space science underway in Europe, including ESA missions studying the Sun and its interaction with Earth. Professor Carole Mundell, ESA Director of Science, commented: “A total solar eclipse is one of those rare moments when millions of people can look up together and feel both wonder.</p><p>Maggie Aderin, award-winning space scientist and science communicator, and feature Professor Carole Mundell (ESA’s Director of Science) amongst other special guests. In parallel, ESA is preparing a free public observation programme in the city of León, Spain, in collaboration with the University of León and the city council.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The initiative is designed to engage citizens directly with the science of the eclipse. It will offer engaging talks about solar science and space missions from ESA experts, alongside educational activities and connect with ESA’s live broadcast.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Join_ESA_for_a_total_solar_eclipse_on_12_August_2026\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "sub": "Acompanhe o eclipse solar total com a Agência Espacial Europeia, pessoalmente ou online.",
+    "sub_pt": "Acompanhe o eclipse solar total com a Agência Espacial Europeia, pessoalmente ou online.",
+    "sub_en": "Follow the total solar eclipse with the European Space Agency, in person or online.",
+    "excerpt": "Acompanhe o eclipse solar total com a Agência Espacial Europeia, pessoalmente ou online.",
+    "excerpt_pt": "Acompanhe o eclipse solar total com a Agência Espacial Europeia, pessoalmente ou online.",
+    "excerpt_en": "Follow the total solar eclipse with the European Space Agency, in person or online.",
+    "body": "<p>Acompanhe o eclipse solar total com a Agência Espacial Europeia, pessoalmente ou online. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Acompanhe o eclipse solar total com a Agência Espacial Europeia (ESA), pessoalmente ou online.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Join_ESA_for_a_total_solar_eclipse_on_12_August_2026\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Acompanhe o eclipse solar total com a Agência Espacial Europeia, pessoalmente ou online. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Acompanhe o eclipse solar total com a Agência Espacial Europeia (ESA), pessoalmente ou online.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Join_ESA_for_a_total_solar_eclipse_on_12_August_2026\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Follow the total solar eclipse with the European Space Agency, in person or online. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Follow the total solar eclipse with the European Space Agency (ESA), in person or online.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Join_ESA_for_a_total_solar_eclipse_on_12_August_2026\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: A ESA está a organizar uma série de atividades em torno do eclipse, combinando conhecimentos científicos, envolvimento público e divulgação.",
+      "Ponto central: Acompanhe o eclipse solar total com a Agência Espacial Europeia, pessoalmente ou online.",
       "Dado-chave: Acompanhe o eclipse solar total com a Agência Espacial Europeia (ESA), pessoalmente ou online.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: A ESA está a organizar uma série de atividades em torno do eclipse, combinando conhecimentos científicos, envolvimento público e divulgação.",
+      "Ponto central: Acompanhe o eclipse solar total com a Agência Espacial Europeia, pessoalmente ou online.",
       "Dado-chave: Acompanhe o eclipse solar total com a Agência Espacial Europeia (ESA), pessoalmente ou online.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: ESA is organising a range of activities around the eclipse, combining scientific expertise, public engagement, and educational outreach, see.",
+      "Core point: Follow the total solar eclipse with the European Space Agency, in person or online.",
       "Key detail: Follow the total solar eclipse with the European Space Agency (ESA), in person or online.",
       "Institutional origin: separate announcement from evidence."
     ],

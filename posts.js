@@ -37,17 +37,17 @@ window.postsData = [
       "Key detail: A National Institutes of Health (NIH)-funded study has identified key differences in human pancreatic islet cells that may help explain why some.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "11 jun 2026",
-    "date_pt": "11 jun 2026",
-    "date_en": "11 Jun 2026",
-    "time": "23h08",
-    "time_pt": "23h08",
-    "time_en": "23:08 UTC",
+    "date": "12 jun 2026",
+    "date_pt": "12 jun 2026",
+    "date_en": "12 Jun 2026",
+    "time": "01h58",
+    "time_pt": "01h58",
+    "time_en": "01:58 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-11T23:08:54.040297+00:00",
-    "lastModifiedIso": "2026-06-11T23:08:54.040297+00:00",
+    "publishedIso": "2026-06-12T01:58:25.181099+00:00",
+    "lastModifiedIso": "2026-06-12T01:58:25.181099+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,17 +145,17 @@ window.postsData = [
       "Key detail: NIH-funded study lays foundation for antibody-based measles treatment.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "11 jun 2026",
-    "date_pt": "11 jun 2026",
-    "date_en": "11 Jun 2026",
-    "time": "23h08",
-    "time_pt": "23h08",
-    "time_en": "23:08 UTC",
+    "date": "12 jun 2026",
+    "date_pt": "12 jun 2026",
+    "date_en": "12 Jun 2026",
+    "time": "01h58",
+    "time_pt": "01h58",
+    "time_en": "01:58 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-11T23:08:54.040250+00:00",
-    "lastModifiedIso": "2026-06-11T23:08:54.040250+00:00",
+    "publishedIso": "2026-06-12T01:58:25.181054+00:00",
+    "lastModifiedIso": "2026-06-12T01:58:25.181054+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,17 +250,17 @@ window.postsData = [
       "Key detail: A group of pediatric eye disease researchers supported by the National Institutes of Health (NIH) has launched an open-access tool designed to.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "11 jun 2026",
-    "date_pt": "11 jun 2026",
-    "date_en": "11 Jun 2026",
-    "time": "23h08",
-    "time_pt": "23h08",
-    "time_en": "23:08 UTC",
+    "date": "12 jun 2026",
+    "date_pt": "12 jun 2026",
+    "date_en": "12 Jun 2026",
+    "time": "01h58",
+    "time_pt": "01h58",
+    "time_en": "01:58 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-11T23:08:54.040208+00:00",
-    "lastModifiedIso": "2026-06-11T23:08:54.040208+00:00",
+    "publishedIso": "2026-06-12T01:58:25.181013+00:00",
+    "lastModifiedIso": "2026-06-12T01:58:25.181013+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -355,17 +355,17 @@ window.postsData = [
       "Key detail: A team of researchers at the National Institutes of Health (NIH) have unveiled new details about the events GLP-1 receptor agonists trigger.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "11 jun 2026",
-    "date_pt": "11 jun 2026",
-    "date_en": "11 Jun 2026",
-    "time": "23h08",
-    "time_pt": "23h08",
-    "time_en": "23:08 UTC",
+    "date": "12 jun 2026",
+    "date_pt": "12 jun 2026",
+    "date_en": "12 Jun 2026",
+    "time": "01h58",
+    "time_pt": "01h58",
+    "time_en": "01:58 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-11T23:08:54.040159+00:00",
-    "lastModifiedIso": "2026-06-11T23:08:54.040159+00:00",
+    "publishedIso": "2026-06-12T01:58:25.180966+00:00",
+    "lastModifiedIso": "2026-06-12T01:58:25.180966+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -460,17 +460,17 @@ window.postsData = [
       "Key detail: The National Institutes of Health (NIH) today announced that its Investigational New Drug (IND) application for mitragynine, the primary.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "11 jun 2026",
-    "date_pt": "11 jun 2026",
-    "date_en": "11 Jun 2026",
-    "time": "23h08",
-    "time_pt": "23h08",
-    "time_en": "23:08 UTC",
+    "date": "12 jun 2026",
+    "date_pt": "12 jun 2026",
+    "date_en": "12 Jun 2026",
+    "time": "01h58",
+    "time_pt": "01h58",
+    "time_en": "01:58 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-11T23:08:54.040118+00:00",
-    "lastModifiedIso": "2026-06-11T23:08:54.040118+00:00",
+    "publishedIso": "2026-06-12T01:58:25.180925+00:00",
+    "lastModifiedIso": "2026-06-12T01:58:25.180925+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -531,6 +531,272 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "a-look-at-the-spacex-ipo-by-the-numbers",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-look-at-the-spacex-i.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-look-at-the-spacex-i.jpg",
+        "caption": "Uma olhada no IPO da SpaceX pelos números",
+        "caption_pt": "Uma olhada no IPO da SpaceX pelos números",
+        "caption_en": "A look at the SpaceX IPO by the numbers",
+        "alt": "Uma olhada no IPO da SpaceX pelos números",
+        "alt_pt": "Uma olhada no IPO da SpaceX pelos números",
+        "alt_en": "A look at the SpaceX IPO by the numbers"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-look-at-the-spacex-i-1.jpg",
+        "caption": "Uma olhada no IPO da SpaceX pelos números",
+        "caption_pt": "Uma olhada no IPO da SpaceX pelos números",
+        "caption_en": "A look at the SpaceX IPO by the numbers",
+        "alt": "Uma olhada no IPO da SpaceX pelos números",
+        "alt_pt": "Uma olhada no IPO da SpaceX pelos números",
+        "alt_en": "A look at the SpaceX IPO by the numbers"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-look-at-the-spacex-i-2.jpg",
+        "caption": "Uma olhada no IPO da SpaceX pelos números",
+        "caption_pt": "Uma olhada no IPO da SpaceX pelos números",
+        "caption_en": "A look at the SpaceX IPO by the numbers",
+        "alt": "Uma olhada no IPO da SpaceX pelos números",
+        "alt_pt": "Uma olhada no IPO da SpaceX pelos números",
+        "alt_en": "A look at the SpaceX IPO by the numbers"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Uma olhada no IPO da SpaceX pelos números",
+    "title_pt": "Uma olhada no IPO da SpaceX pelos números",
+    "title_en": "A look at the SpaceX IPO by the numbers",
+    "sub": "Elon Musk trata de grandes números, milhões, bilhões e até trilhões, e há muitos deles associados à SpaceX e aos planos de Musk de tornar o fabricante de foguetes público.",
+    "sub_pt": "Elon Musk trata de grandes números, milhões, bilhões e até trilhões, e há muitos deles associados à SpaceX e aos planos de Musk de tornar o fabricante de foguetes público.",
+    "sub_en": "Elon Musk is all about big numbers, millions, billions, even trillions, and there are plenty of them associated with SpaceX and Musk's plans to take the rocket maker public.",
+    "excerpt": "Elon Musk trata de grandes números, milhões, bilhões e até trilhões, e há muitos deles associados à SpaceX e aos planos de Musk de tornar o fabricante de foguetes público.",
+    "excerpt_pt": "Elon Musk trata de grandes números, milhões, bilhões e até trilhões, e há muitos deles associados à SpaceX e aos planos de Musk de tornar o fabricante de foguetes público.",
+    "excerpt_en": "Elon Musk is all about big numbers, millions, billions, even trillions, and there are plenty of them associated with SpaceX and Musk's plans to take the rocket maker public.",
+    "body": "<p>Elon Musk trata de grandes números, milhões, bilhões e até trilhões, e há muitos deles associados à SpaceX e aos planos de Musk de tornar o fabricante de foguetes público. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Um foguete pesado Falcon 9 SpaceX decola da. Primeiro, Musk enviará pessoas à Lua para estabelecer uma base.</p><p>Um valor de US$ 1,77 trilhão colocaria a SpaceX em pé de igualdade com a Broadcom em primeiro lugar. 6 na lista dos mais valiosos, com base no fechamento do pregão de quarta-feira.</p><p>O património líquido combinado dos bilionários dois a cinco na lista da Forbes, os cofundadores da Google, Larry Page e Sergei Brin, o fundador da Amazon, Jeff Bezos, e o. Não há capacidade atual de transportar uma pessoa para Marte, muito menos 1 milhão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-spacex-ipo.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Elon Musk trata de grandes números, milhões, bilhões e até trilhões, e há muitos deles associados à SpaceX e aos planos de Musk de tornar o fabricante de foguetes público. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Um foguete pesado Falcon 9 SpaceX decola da. Primeiro, Musk enviará pessoas à Lua para estabelecer uma base.</p><p>Um valor de US$ 1,77 trilhão colocaria a SpaceX em pé de igualdade com a Broadcom em primeiro lugar. 6 na lista dos mais valiosos, com base no fechamento do pregão de quarta-feira.</p><p>O património líquido combinado dos bilionários dois a cinco na lista da Forbes, os cofundadores da Google, Larry Page e Sergei Brin, o fundador da Amazon, Jeff Bezos, e o. Não há capacidade atual de transportar uma pessoa para Marte, muito menos 1 milhão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-spacex-ipo.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Elon Musk is all about big numbers, millions, billions, even trillions, and there are plenty of them associated with SpaceX and Musk&#x27;s plans to take the rocket maker public. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source A Falcon 9 SpaceX heavy rocket lifts off from pad 39A at the. First, Musk will send people to the moon to establish a base.</p><p>A value of $1.77 trillion would put SpaceX equal with Broadcom at No. 6 on the most valuable list, based on Wednesday close of trading.</p><p>The combined net worth of billionaires two through five on the Forbes list, Google co-founders Larry Page and Sergei Brin, Amazon founder Jeff Bezos and Oracle Chairman Larry. There are no current capabilities of transporting one person to Mars, let alone 1 million.</p><p>Global cities with populations of around 1 million include Ottawa, Prague and San Jose, California. Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The bulk of the spending, at just under $11.4 billion, came from its connectivity unit that includes its Starlink satellites. By comparison, NASA&#x27;s budget for 2026 is $24.4 billion.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-spacex-ipo.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Elon Musk trata de grandes números, milhões, bilhões e até trilhões, e há muitos deles associados à SpaceX e aos planos de Musk de tornar o.",
+      "Dado-chave: Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Um.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Elon Musk trata de grandes números, milhões, bilhões e até trilhões, e há muitos deles associados à SpaceX e aos planos de Musk de tornar o.",
+      "Dado-chave: Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Um.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Elon Musk is all about big numbers, millions, billions, even trillions, and there are plenty of them associated with SpaceX and Musk's plans to take.",
+      "Key detail: Editors have highlighted the following attributes while ensuring the content's credibility: Add as preferred source A Falcon 9 SpaceX heavy.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "11 jun 2026",
+    "date_pt": "11 jun 2026",
+    "date_en": "11 Jun 2026",
+    "time": "23h40",
+    "time_pt": "23h40",
+    "time_en": "23:40 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-11T23:40:04+00:00",
+    "lastModifiedIso": "2026-06-11T23:40:04+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "watch",
+    "editorialBandLabel": "Leitura monitorada",
+    "editorialBandLabel_pt": "Leitura monitorada",
+    "editorialBandLabel_en": "Watchlist",
+    "keywords": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Uma olhada no IPO da SpaceX pelos números"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Uma olhada no IPO da SpaceX pelos números"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Phys.org Space",
+      "Cosmos Week",
+      "A look at SpaceX's IPO by the numbers"
+    ],
+    "srcUrl": "https://phys.org/news/2026-06-spacex-ipo.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=a-look-at-the-spacex-ipo-by-the-numbers",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=a-look-at-the-spacex-ipo-by-the-numbers",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=a-look-at-the-spacex-ipo-by-the-numbers&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 66,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 56,
+      "accessibility": 52,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
+    "slug": "cosmic-dawn-fuel-discovery-unlocks-early-galaxy-growth-secrets",
+    "cat": "Química",
+    "catCls": "quimica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/cosmic-dawn-fuel-disco-2.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/cosmic-dawn-fuel-disco-2.jpg",
+        "caption": "Esta ilustração traça a evolução do Universo desde o Big Bang até aos dias de hoje, destacando REBELS-25, uma galáxia muito distante observada durante a Época da Reionização, há 13 mil milhões de anos. Novas observações profundas com o NSF VLA e.",
+        "caption_pt": "Esta ilustração traça a evolução do Universo desde o Big Bang até aos dias de hoje, destacando REBELS-25, uma galáxia muito distante observada durante a Época da Reionização, há 13 mil milhões de anos. Novas observações profundas com o NSF VLA e.",
+        "caption_en": "This illustration traces the universe's evolution from the Big Bang to the present day, highlighting REBELS-25, a very distant galaxy seen during the Epoch of Reionization 13 billion years ago. New deep observations with the NSF VLA and.",
+        "alt": "A descoberta do combustível do amanhecer cósmico revela os segredos do crescimento da galáxia",
+        "alt_pt": "A descoberta do combustível do amanhecer cósmico revela os segredos do crescimento da galáxia",
+        "alt_en": "Cosmic dawn fuel discovery unlocks early galaxy growth secrets"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/cosmic-dawn-fuel-disco-1.jpg",
+        "caption": "A descoberta do combustível do amanhecer cósmico revela os segredos do crescimento da galáxia",
+        "caption_pt": "A descoberta do combustível do amanhecer cósmico revela os segredos do crescimento da galáxia",
+        "caption_en": "Cosmic dawn fuel discovery unlocks early galaxy growth secrets",
+        "alt": "A descoberta do combustível do amanhecer cósmico revela os segredos do crescimento da galáxia",
+        "alt_pt": "A descoberta do combustível do amanhecer cósmico revela os segredos do crescimento da galáxia",
+        "alt_en": "Cosmic dawn fuel discovery unlocks early galaxy growth secrets"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "A descoberta do combustível do amanhecer cósmico revela os segredos do crescimento da galáxia",
+    "title_pt": "A descoberta do combustível do amanhecer cósmico revela os segredos do crescimento da galáxia",
+    "title_en": "Cosmic dawn fuel discovery unlocks early galaxy growth secrets",
+    "sub": "Os astrónomos descobriram um enorme reservatório de gás molecular frio, o combustível direto para a formação de estrelas, em REBELS-25, uma enorme galáxia de formação estelar. A.",
+    "sub_pt": "Os astrónomos descobriram um enorme reservatório de gás molecular frio, o combustível direto para a formação de estrelas, em REBELS-25, uma enorme galáxia de formação estelar. A.",
+    "sub_en": "Astronomers have discovered a huge reservoir of cold molecular gas, the direct fuel for star formation, in REBELS-25, a massive, star-forming galaxy. The team, led from Leiden.",
+    "excerpt": "Os astrónomos descobriram um enorme reservatório de gás molecular frio, o combustível direto para a formação de estrelas, em REBELS-25, uma enorme galáxia de formação estelar. A equipe, liderada pela Universidade de Leiden, concentrou-se no REBELS-25, visto.",
+    "excerpt_pt": "Os astrónomos descobriram um enorme reservatório de gás molecular frio, o combustível direto para a formação de estrelas, em REBELS-25, uma enorme galáxia de formação estelar. A equipe, liderada pela Universidade de Leiden, concentrou-se no REBELS-25, visto.",
+    "excerpt_en": "Astronomers have discovered a huge reservoir of cold molecular gas, the direct fuel for star formation, in REBELS-25, a massive, star-forming galaxy. The team, led from Leiden University, focused on REBELS-25, seen when the universe was.",
+    "body": "<p>Os astrónomos descobriram um enorme reservatório de gás molecular frio, o combustível direto para a formação de estrelas, em REBELS-25, uma enorme galáxia de formação estelar. A equipe, liderada pela Universidade de Leiden, concentrou-se no REBELS-25, visto quando o universo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Esta ilustração traça a evolução do universo. Novas observações profundas realizadas com o NSF VLA e o ALMA revelam que REBELS-25 já tinha um enorme reservatório de gás molecular frio, o combustível direto para a formação de.</p><p>A equipa, liderada pela Universidade de Leiden, concentrou-se no REBELS-25, observado quando o Universo tinha apenas cerca de 700 milhões de anos, cerca de 5% da sua idade atual. REBELS-25 situa-se no redshift z = 7,3, profundamente na Época da Reionização, uma era chave em que as primeiras estrelas e galáxias transformaram o universo escuro e neutro no.</p><p>National Science Foundation Very Large Array (NSF VLA), um radiotelescópio no condado de Socorro, Novo México, bem como dados do Atacama Large Millimeter/submillimeter Array. O brilho do sinal sugere que REBELS-25 já tinha um grande suprimento de material de formação estelar quando o Universo era muito jovem.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-cosmic-dawn-fuel-discovery-early.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os astrónomos descobriram um enorme reservatório de gás molecular frio, o combustível direto para a formação de estrelas, em REBELS-25, uma enorme galáxia de formação estelar. A equipe, liderada pela Universidade de Leiden, concentrou-se no REBELS-25, visto quando o universo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Esta ilustração traça a evolução do universo. Novas observações profundas realizadas com o NSF VLA e o ALMA revelam que REBELS-25 já tinha um enorme reservatório de gás molecular frio, o combustível direto para a formação de.</p><p>A equipa, liderada pela Universidade de Leiden, concentrou-se no REBELS-25, observado quando o Universo tinha apenas cerca de 700 milhões de anos, cerca de 5% da sua idade atual. REBELS-25 situa-se no redshift z = 7,3, profundamente na Época da Reionização, uma era chave em que as primeiras estrelas e galáxias transformaram o universo escuro e neutro no.</p><p>National Science Foundation Very Large Array (NSF VLA), um radiotelescópio no condado de Socorro, Novo México, bem como dados do Atacama Large Millimeter/submillimeter Array. O brilho do sinal sugere que REBELS-25 já tinha um grande suprimento de material de formação estelar quando o Universo era muito jovem.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-cosmic-dawn-fuel-discovery-early.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Discovered a huge reservoir of cold molecular gas, the direct fuel for star formation, in REBELS-25, a massive, star-forming galaxy. The team, led from Leiden University, focused on REBELS-25, seen when the universe was. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because chemistry gains force when a claimed structure or process can be described with enough precision to be reproduced by others. Synthetic routes, spectroscopic signatures, yield under defined conditions and stability under realistic operating parameters are the currency of credibility in chemistry, and a result that lacks these details cannot be evaluated independently. The distance between a discovery on a laboratory bench and a process that works reliably at scale is measured in years of optimization, and each step reveals constraints that were invisible at smaller scale. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source This illustration traces the universe&#x27;s evolution from the Big. New deep observations with the NSF VLA and ALMA reveal that REBELS-25 already had an enormous reservoir of cool molecular gas, the direct fuel for star formation, when the.</p><p>The team, led from Leiden University, focused on REBELS-25, seen when the universe was only about 700 million years old, around 5% of its current age. REBELS-25 sits at redshift z = 7.3, deep in the Epoch of Reionization, a key era in which the first stars and galaxies transformed the dark, neutral universe into the universe we.</p><p>National Science Foundation Very Large Array (NSF VLA), a radio telescope in Socorro County, New Mexico, as well as data from the Atacama Large Millimeter/submillimeter Array. The brightness of the signal suggests that REBELS-25 had a very large supply of star-forming material already when the universe was very young.</p><p>ALMA&#x27;s higher-energy CO data, combined with NSF VLA results, then constrained the gas&#x27;s density and temperature under early-universe conditions. The cosmic microwave background (CMB), which constitutes the relic radiation from shortly after the Big Bang, acts as a background against which this emission must be detected.</p><p>The broader interest lies in whether the claimed property or reaction pathway can be characterized with enough precision to support replication by other groups. Chemistry has a replication problem that is less discussed than the one in psychology or medicine, but it is real: synthetic procedures that work reliably in one laboratory sometimes fail to transfer, for reasons ranging from impure starting materials to undocumented temperature sensitivities. A result that comes with full experimental detail and a clear characterization of the product is far more valuable than one that reports a discovery without the procedural backbone.</p><p>Our results show galaxies just 700 million years after the Big Bang already contained large reservoirs of cold gas available for star formation,&quot; said Karin Cescon, Ph. D. REBELS-25&#x27;s large gas mass shows some early galaxies were already primed for intense star formation, which is a key step in understanding mass assembly in the universe&#x27;s first.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent groups working with orthogonal techniques reach compatible conclusions, and whether the result scales beyond the conditions used in the original study. Chemical discoveries that matter tend to be ones whose key properties can be measured by multiple spectroscopic, crystallographic or computational methods that are unlikely to share the same blind spots. Scalability, cost and long-term stability under realistic operating conditions are additional filters that come into play before any practical application becomes viable.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-cosmic-dawn-fuel-discovery-early.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os astrónomos descobriram um enorme reservatório de gás molecular frio, o combustível direto para a formação de estrelas, em REBELS-25, uma enorme.",
+      "Dado-chave: Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Esta.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os astrónomos descobriram um enorme reservatório de gás molecular frio, o combustível direto para a formação de estrelas, em REBELS-25, uma enorme.",
+      "Dado-chave: Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Esta.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Astronomers have discovered a huge reservoir of cold molecular gas, the direct fuel for star formation, in REBELS-25, a massive, star-forming galaxy.",
+      "Key detail: Editors have highlighted the following attributes while ensuring the content's credibility: Add as preferred source This illustration traces the.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "11 jun 2026",
+    "date_pt": "11 jun 2026",
+    "date_en": "11 Jun 2026",
+    "time": "23h40",
+    "time_pt": "23h40",
+    "time_en": "23:40 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-11T23:40:01+00:00",
+    "lastModifiedIso": "2026-06-11T23:40:01+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Química",
+      "Phys.org Space",
+      "Cosmos Week",
+      "A descoberta do combustível do amanhecer cósmico revela os segredos do crescimento da galáxia"
+    ],
+    "keywords_pt": [
+      "Química",
+      "Phys.org Space",
+      "Cosmos Week",
+      "A descoberta do combustível do amanhecer cósmico revela os segredos do crescimento da galáxia"
+    ],
+    "keywords_en": [
+      "Chemical",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Discovery of Cosmic Dawn Fuel Reveals Secrets of Galaxy Growth"
+    ],
+    "srcUrl": "https://phys.org/news/2026-06-cosmic-dawn-fuel-discovery-early.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=cosmic-dawn-fuel-discovery-unlocks-early-galaxy-growth-secrets",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=cosmic-dawn-fuel-discovery-unlocks-early-galaxy-growth-secrets",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=cosmic-dawn-fuel-discovery-unlocks-early-galaxy-growth-secrets&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 82,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 8,
     "slug": "the-shape-of-a-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -640,7 +906,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -654,7 +920,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 9,
     "slug": "written-in-rock",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -778,7 +1044,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 10,
     "slug": "titan-s-hidden-blanket",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -897,272 +1163,6 @@ window.postsData = [
       "source": 73,
       "evidence": 82,
       "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 9,
-    "slug": "light-echoes-reveal-possible-dark-matter-buildup-around-supermassive-black-holes",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2019/5-blackhole.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2019/5-blackhole.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Ecos de luz revelam possível acúmulo de matéria escura em torno de buracos negros supermassivos",
-    "title_pt": "Ecos de luz revelam possível acúmulo de matéria escura em torno de buracos negros supermassivos",
-    "title_en": "Light echoes reveal possible dark matter buildup around supermassive black holes",
-    "sub": "Podemos não saber o que é a matéria escura, mas continuamos sentindo seu cheiro. “Estamos chegando a um ponto em que a evidência observacional da matéria escura é simplesmente.",
-    "sub_pt": "Podemos não saber o que é a matéria escura, mas continuamos sentindo seu cheiro. “Estamos chegando a um ponto em que a evidência observacional da matéria escura é simplesmente.",
-    "sub_en": "We may not know what dark matter is, but we keep getting whiffs of it. \"We are reaching a point where the observational evidence for dark matter is simply undeniable,\" said Mayank.",
-    "excerpt": "Podemos não saber o que é a matéria escura, mas continuamos sentindo seu cheiro. “Estamos chegando a um ponto em que a evidência observacional da matéria escura é simplesmente inegável”, disse Mayank Sharma, estudante de física da Virginia Tech.",
-    "excerpt_pt": "Podemos não saber o que é a matéria escura, mas continuamos sentindo seu cheiro. “Estamos chegando a um ponto em que a evidência observacional da matéria escura é simplesmente inegável”, disse Mayank Sharma, estudante de física da Virginia Tech.",
-    "excerpt_en": "We may not know what dark matter is, but we keep getting whiffs of it. \"We are reaching a point where the observational evidence for dark matter is simply undeniable,\" said Mayank Sharma, a Virginia Tech graduate student in physics.",
-    "body": "<p>Podemos não saber o que é a matéria escura, mas continuamos sentindo seu cheiro. “Estamos chegando a um ponto em que a evidência observacional da matéria escura é simplesmente inegável”, disse Mayank Sharma, estudante de física da Virginia Tech. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: CC0 Domínio Público Podemos não.</p><p>Cada nova descoberta ensina-nos mais sobre a substância invisível que supera em muito toda a matéria visível no Universo, tal como que a gravidade é a única força conhecida que. Este último é novo, relatado em uma publicação recente liderada pela Virginia Tech na Physical Review D.</p><p>Usando uma técnica astrofísica chamada mapeamento de eco, os pesquisadores ofereceram evidências para apoiar esta teoria, há muito defendida, mas não confirmada pela física de. O turbo boost vem da atração gravitacional da matéria escura invisível.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-echoes-reveal-dark-buildup-supermassive.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Podemos não saber o que é a matéria escura, mas continuamos sentindo seu cheiro. “Estamos chegando a um ponto em que a evidência observacional da matéria escura é simplesmente inegável”, disse Mayank Sharma, estudante de física da Virginia Tech. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: CC0 Domínio Público Podemos não.</p><p>Cada nova descoberta ensina-nos mais sobre a substância invisível que supera em muito toda a matéria visível no Universo, tal como que a gravidade é a única força conhecida que. Este último é novo, relatado em uma publicação recente liderada pela Virginia Tech na Physical Review D.</p><p>Usando uma técnica astrofísica chamada mapeamento de eco, os pesquisadores ofereceram evidências para apoiar esta teoria, há muito defendida, mas não confirmada pela física de. O turbo boost vem da atração gravitacional da matéria escura invisível.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-echoes-reveal-dark-buildup-supermassive.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>We may not know what dark matter is, but we keep getting whiffs of it. &quot;We are reaching a point where the observational evidence for dark matter is simply undeniable,&quot; said Mayank Sharma, a Virginia Tech graduate student in physics. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Credit: CC0 Public Domain We may not know what dark matter is.</p><p>Each new discovery teaches us more about the invisible substance that far outweighs all visible matter in the universe, such as that gravity is the only known force that has any. That last one is new, reported in a recent Virginia Tech-led publication in Physical Review D.</p><p>Using an astrophysical technique called echo mapping, researchers offered evidence to support this theory, long held but unconfirmed by particle physics. The turbo boost comes from the gravitational pull of unseen dark matter.</p><p>With no mechanism to shed energy, theory predicts that dark matter simply hovers thickly on the outskirts, although this behavior can&#x27;t be observed with standard telescopes. While discussing the problem with Gonzalo Herrera, a former Virginia Tech postdoctoral associate in particle physics, Sharma saw a possible way forward.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Because light travels at a constant speed, the delay reveals the gas&#x27;s distance from the black hole. The initial signal also contains fingerprints of the black hole, where intense heat and radiation strip the gas of electrons.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-echoes-reveal-dark-buildup-supermassive.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Podemos não saber o que é a matéria escura, mas continuamos sentindo seu cheiro. “Estamos chegando a um ponto em que a evidência observacional da.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Podemos não saber o que é a matéria escura, mas continuamos sentindo seu cheiro. “Estamos chegando a um ponto em que a evidência observacional da.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: We may not know what dark matter is, but we keep getting whiffs of it. \"We are reaching a point where the observational evidence for dark matter is.",
-      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "11 jun 2026",
-    "date_pt": "11 jun 2026",
-    "date_en": "11 Jun 2026",
-    "time": "22h10",
-    "time_pt": "22h10",
-    "time_en": "22:10 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-11T22:10:01+00:00",
-    "lastModifiedIso": "2026-06-11T22:10:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Cosmologia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Ecos de luz revelam possível acúmulo de matéria escura em torno de buracos negros supermassivos"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Ecos de luz revelam possível acúmulo de matéria escura em torno de buracos negros supermassivos"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Light echoes reveal possible accumulation of dark matter around supermassive black holes"
-    ],
-    "srcUrl": "https://phys.org/news/2026-06-echoes-reveal-dark-buildup-supermassive.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=light-echoes-reveal-possible-dark-matter-buildup-around-supermassive-black-holes",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=light-echoes-reveal-possible-dark-matter-buildup-around-supermassive-black-holes",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=light-echoes-reveal-possible-dark-matter-buildup-around-supermassive-black-holes&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 76,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "nasa-s-chandra-discovers-possible-supernova-remnant-in-galactic-center",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://science.nasa.gov/wp-content/uploads/2026/06/sgrc.jpg?w=1536",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/xraydot_illus_unlabeled.jpg?w=3900&h=3287&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/dimming_ngc2353.jpg?w=3909&h=3366&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/3d/resources/model/chandra-x-ray-observatory/Chandra%20X-ray%20Observatory.png?w=1920&h=1080&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Chandra da NASA descobre possível remanescente de supernova no centro galáctico",
-    "title_pt": "Chandra da NASA descobre possível remanescente de supernova no centro galáctico",
-    "title_en": "NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center",
-    "sub": "Usando dados do Observatório de Raios-X Chandra da NASA, os astrónomos podem ter encontrado um remanescente de supernova numa vizinhança intrigante no meio da nossa galáxia. Um.",
-    "sub_pt": "Usando dados do Observatório de Raios-X Chandra da NASA, os astrónomos podem ter encontrado um remanescente de supernova numa vizinhança intrigante no meio da nossa galáxia. Um.",
-    "sub_en": "Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A paper describing.",
-    "excerpt": "Usando dados do Observatório de Raios-X Chandra da NASA, os astrónomos podem ter encontrado um remanescente de supernova numa vizinhança intrigante no meio da nossa galáxia. Um artigo que descreve essas novas descobertas foi publicado no The Astrophysical.",
-    "excerpt_pt": "Usando dados do Observatório de Raios-X Chandra da NASA, os astrónomos podem ter encontrado um remanescente de supernova numa vizinhança intrigante no meio da nossa galáxia. Um artigo que descreve essas novas descobertas foi publicado no The Astrophysical.",
-    "excerpt_en": "Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A paper describing these new findings published in The Astrophysical Journal.",
-    "body": "<p>Usando dados do Observatório de Raios-X Chandra da NASA, os astrónomos podem ter encontrado um remanescente de supernova numa vizinhança intrigante no meio da nossa galáxia. Um artigo que descreve essas novas descobertas foi publicado no The Astrophysical Journal. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. 5 min Leia Chandra da NASA descobre possível remanescente de supernova no centro galáctico Usando dados do Observatório de raios X Chandra da NASA, os astrônomos podem ter. Edmonds Uma nova imagem composta desta região contém raios X do Chandra e da missão XMM-Newton da ESA (Agência Espacial Europeia) (mostrados em azul), bem como dados de rádio do.</p><p>O Centro de Raios-X Chandra do Observatório Astrofísico Smithsonian controla as operações científicas de Cambridge, Massachusetts, e as operações de voo de Burlington. Leia mais do Observatório de Raios-X Chandra da NASA Para saber mais sobre a missão Chandra da NASA, visite: https: //science. nasa. gov/chandra https: //chandra. si. edu Contato.</p><p>Alabama 256-544-0034 joel. w. wallace@nasa. gov Sobre o autor Lee Mohon Compartilhe detalhes Última atualização em 11 de junho. Estuda todas as fases do. Telescópio Espacial Hubble Desde o seu lançamento em 1990, o Telescópio Espacial Hubble mudou a nossa compreensão fundamental do universo.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Usando dados do Observatório de Raios-X Chandra da NASA, os astrónomos podem ter encontrado um remanescente de supernova numa vizinhança intrigante no meio da nossa galáxia. Um artigo que descreve essas novas descobertas foi publicado no The Astrophysical Journal. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. 5 min Leia Chandra da NASA descobre possível remanescente de supernova no centro galáctico Usando dados do Observatório de raios X Chandra da NASA, os astrônomos podem ter. Edmonds Uma nova imagem composta desta região contém raios X do Chandra e da missão XMM-Newton da ESA (Agência Espacial Europeia) (mostrados em azul), bem como dados de rádio do.</p><p>O Centro de Raios-X Chandra do Observatório Astrofísico Smithsonian controla as operações científicas de Cambridge, Massachusetts, e as operações de voo de Burlington. Leia mais do Observatório de Raios-X Chandra da NASA Para saber mais sobre a missão Chandra da NASA, visite: https: //science. nasa. gov/chandra https: //chandra. si. edu Contato.</p><p>Alabama 256-544-0034 joel. w. wallace@nasa. gov Sobre o autor Lee Mohon Compartilhe detalhes Última atualização em 11 de junho. Estuda todas as fases do. Telescópio Espacial Hubble Desde o seu lançamento em 1990, o Telescópio Espacial Hubble mudou a nossa compreensão fundamental do universo.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A paper describing these new findings published in The Astrophysical Journal. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. 5 Min Read NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant. Edmonds A new composite image of this region contains X-rays from Chandra and ESA’s (European Space Agency’s) XMM-Newton mission (shown in blue) as well as radio data from the.</p><p>The Smithsonian Astrophysical Observatory’s Chandra X-ray Center controls science operations from Cambridge, Massachusetts, and flight operations from Burlington, Massachusetts. Read more from NASA’s Chandra X-ray Observatory To learn more about NASA’s Chandra mission, visit: https: //science. nasa. gov/chandra https: //chandra. si. edu News Media Contact.</p><p>Alabama 256-544-0034 joel. w. wallace@nasa. gov About the Author Lee Mohon Share Details Last Updated Jun 11. It studies every phase in the. Hubble Space Telescope Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.</p><p>Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A Article Contents Visual Description News Media Contact Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>A new composite image of this region contains X-rays from Chandra and ESA’s (European Space Agency’s) XMM-Newton mission (shown in blue) as well as radio data from the MeerKAT. The evidence for the new supernova remnant, located about 26,000 light-years from Earth, comes from X-ray data from Chandra and XMM-Newton.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Usando dados do Observatório de Raios-X Chandra da NASA, os astrónomos podem ter encontrado um remanescente de supernova numa vizinhança intrigante.",
-      "Dado-chave: 5 min Leia Chandra da NASA descobre possível remanescente de supernova no centro galáctico Usando dados do Observatório de raios X Chandra da.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Usando dados do Observatório de Raios-X Chandra da NASA, os astrónomos podem ter encontrado um remanescente de supernova numa vizinhança intrigante.",
-      "Dado-chave: 5 min Leia Chandra da NASA descobre possível remanescente de supernova no centro galáctico Usando dados do Observatório de raios X Chandra da.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our.",
-      "Key detail: 5 Min Read NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center Using data from NASA’s Chandra X-ray Observatory, astronomers.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "11 jun 2026",
-    "date_pt": "11 jun 2026",
-    "date_en": "11 Jun 2026",
-    "time": "20h41",
-    "time_pt": "20h41",
-    "time_en": "20:41 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-11T20:41:44+00:00",
-    "lastModifiedIso": "2026-06-11T20:41:44+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astrofísica",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Chandra da NASA descobre possível remanescente de supernova no centro galáctico"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Chandra da NASA descobre possível remanescente de supernova no centro galáctico"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's Chandra Discovers Possible Supernova Remnant at Galactic Center"
-    ],
-    "srcUrl": "https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-chandra-discovers-possible-supernova-remnant-in-galactic-center",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-chandra-discovers-possible-supernova-remnant-in-galactic-center",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-chandra-discovers-possible-supernova-remnant-in-galactic-center&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 82,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 88,
       "accessibility": 60,
       "novelty": 55
     }
@@ -1408,130 +1408,6 @@ window.postsData = [
   },
   {
     "id": 13,
-    "slug": "esa-science-missions-get-green-light-for-new-discoveries",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/inspiring_humankind_with_space_science_at_esa/27322488-1-eng-GB/Inspiring_humankind_with_space_science_at_ESA_card_full.png",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/07/esa_science_missions/24379381-7-eng-GB/ESA_science_missions_article.gif",
-        "caption": "Missões científicas espaciais passadas, atuais e futuras da ESA",
-        "caption_pt": "Missões científicas espaciais passadas, atuais e futuras da ESA",
-        "caption_en": "ESA's past, current and future space science missions",
-        "alt": "Missões científicas espaciais passadas, atuais e futuras da ESA",
-        "alt_pt": "Missões científicas espaciais passadas, atuais e futuras da ESA",
-        "alt_en": "ESA's past, current and future space science missions"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/11/medium_science_mission_selection_process/25172828-1-eng-GB/Medium_science_mission_selection_process_article.png",
-        "caption": "Processo de seleção de missão científica média",
-        "caption_pt": "Processo de seleção de missão científica média",
-        "caption_en": "Medium science mission selection process",
-        "alt": "Processo de seleção de missão científica média",
-        "alt_pt": "Processo de seleção de missão científica média",
-        "alt_en": "Medium science mission selection process"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Missões científicas da ESA recebem luz verde para novas descobertas",
-    "title_pt": "Missões científicas da ESA recebem luz verde para novas descobertas",
-    "title_en": "ESA science missions get green light for new discoveries",
-    "sub": "Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa.",
-    "sub_pt": "Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa.",
-    "sub_en": "On 10, 11 June, representatives from European Space Agency Member States met in Tenerife to make far-reaching decisions about the future of ESA’s Science Programme. Their.",
-    "excerpt": "Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa Científico da ESA. As suas decisões de alargar as missões actuais e adoptar a.",
-    "excerpt_pt": "Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa Científico da ESA. As suas decisões de alargar as missões actuais e adoptar a.",
-    "excerpt_en": "On 10, 11 June, representatives from European Space Agency Member States met in Tenerife to make far-reaching decisions about the future of ESA’s Science Programme. Their decisions to extend current missions and adopt the next ‘fast-class’.",
-    "body": "<p>Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa Científico da ESA. As suas decisões de alargar as missões actuais e adoptar a próxima “classe. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. De 10 a 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia (ESA) reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa. As suas decisões de alargar as actuais missões e adoptar a próxima missão de “classe rápida”, Arrakihs, sublinham a liderança europeia e o compromisso a longo prazo com a ciência.</p><p>O Comité inclui representantes de cada um dos 23 Estados-Membros da ESA, garantindo que todos os países têm uma palavra a dizer nas principais decisões que decidem o futuro da. O nosso objetivo é proporcionar as melhores missões possíveis para incentivar a inovação tecnológica e as descobertas científicas em todos os nossos Estados-Membros.” As decisões.</p><p>As extensões para além deste período dependem da capacidade da missão de continuar a fornecer ciência nova. O Comité do Programa Científico discutiu a extensão das 13 missões que deverão terminar a sua fase científica atual antes do final de 2026.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_science_missions_get_green_light_for_new_discoveries\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa Científico da ESA. As suas decisões de alargar as missões actuais e adoptar a próxima “classe. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. De 10 a 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia (ESA) reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa. As suas decisões de alargar as actuais missões e adoptar a próxima missão de “classe rápida”, Arrakihs, sublinham a liderança europeia e o compromisso a longo prazo com a ciência.</p><p>O Comité inclui representantes de cada um dos 23 Estados-Membros da ESA, garantindo que todos os países têm uma palavra a dizer nas principais decisões que decidem o futuro da. O nosso objetivo é proporcionar as melhores missões possíveis para incentivar a inovação tecnológica e as descobertas científicas em todos os nossos Estados-Membros.” As decisões.</p><p>As extensões para além deste período dependem da capacidade da missão de continuar a fornecer ciência nova. O Comité do Programa Científico discutiu a extensão das 13 missões que deverão terminar a sua fase científica atual antes do final de 2026.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_science_missions_get_green_light_for_new_discoveries\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>On 10, 11 June, representatives from European Space Agency Member States met in Tenerife to make far-reaching decisions about the future of ESA’s Science Programme. Their decisions to extend current missions and adopt the next ‘fast-class’. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. On 10, 11 June, representatives from European Space Agency (ESA) Member States met in Tenerife to make far-reaching decisions about the future of ESA’s Science Programme. Their decisions to extend current missions and adopt the next ‘fast-class’ mission, Arrakihs, underscores European leadership in, and long-term commitment to, space science.</p><p>The Committee includes representatives from each of ESA’s 23 Member States, ensuring that all countries have an equal say in major decisions that decide the future of European. Our aim is to provide the best missions possible to encourage technological innovation and scientific discoveries across our Member States.” The decisions taken and discussions.</p><p>Extensions beyond this period depend on the ability of the mission to continue delivering novel science. The Science Programme Committee discussed the extension of the 13 missions that are due to end their current science phase before the end of 2026.</p><p>In alphabetical order, these missions are: BepiColombo, Cheops, Einstein Probe, Hinode, Hubble, IRIS, Mars Express, Proba-3, SOHO, Solar Orbiter, Webb, XMM-Newton and XRISM. The extension is particularly important for Solar Orbiter, an ESA-led mission to study the Sun up close.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Launched in 2020, Solar Orbiter is currently giving humankind its first views of the Sun’s poles. Missions that will still be operating in, or are yet to begin, their initial science phase at the end of 2029, including Euclid, Juice and Smile, were not considered for extension.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_science_missions_get_green_light_for_new_discoveries\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo.",
-      "Dado-chave: De 10 a 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia (ESA) reuniram-se em Tenerife para tomar decisões de longo.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo.",
-      "Dado-chave: De 10 a 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia (ESA) reuniram-se em Tenerife para tomar decisões de longo.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: On 10, 11 June, representatives from European Space Agency Member States met in Tenerife to make far-reaching decisions about the future of ESA’s.",
-      "Key detail: On 10, 11 June, representatives from European Space Agency (ESA) Member States met in Tenerife to make far-reaching decisions about the future.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "11 jun 2026",
-    "date_pt": "11 jun 2026",
-    "date_en": "11 Jun 2026",
-    "time": "08h00",
-    "time_pt": "08h00",
-    "time_en": "08:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-11T08:00:00+00:00",
-    "lastModifiedIso": "2026-06-11T08:00:00+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www.esa.int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Missões científicas da ESA recebem luz verde para novas descobertas"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Missões científicas da ESA recebem luz verde para novas descobertas"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Space Science",
-      "Cosmos Week",
-      "ESA science missions get the green light for new discoveries"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/ESA_science_missions_get_green_light_for_new_discoveries",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-science-missions-get-green-light-for-new-discoveries",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-science-missions-get-green-light-for-new-discoveries",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-science-missions-get-green-light-for-new-discoveries&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 81,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 14,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1667,7 +1543,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 14,
     "slug": "science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1806,7 +1682,273 @@ window.postsData = [
     }
   },
   {
+    "id": 15,
+    "slug": "light-echoes-reveal-possible-dark-matter-buildup-around-supermassive-black-holes",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2019/5-blackhole.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2019/5-blackhole.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Ecos de luz revelam possível acúmulo de matéria escura em torno de buracos negros supermassivos",
+    "title_pt": "Ecos de luz revelam possível acúmulo de matéria escura em torno de buracos negros supermassivos",
+    "title_en": "Light echoes reveal possible dark matter buildup around supermassive black holes",
+    "sub": "Podemos não saber o que é a matéria escura, mas continuamos sentindo seu cheiro. “Estamos chegando a um ponto em que a evidência observacional da matéria escura é simplesmente.",
+    "sub_pt": "Podemos não saber o que é a matéria escura, mas continuamos sentindo seu cheiro. “Estamos chegando a um ponto em que a evidência observacional da matéria escura é simplesmente.",
+    "sub_en": "We may not know what dark matter is, but we keep getting whiffs of it. \"We are reaching a point where the observational evidence for dark matter is simply undeniable,\" said Mayank.",
+    "excerpt": "Podemos não saber o que é a matéria escura, mas continuamos sentindo seu cheiro. “Estamos chegando a um ponto em que a evidência observacional da matéria escura é simplesmente inegável”, disse Mayank Sharma, estudante de física da Virginia Tech.",
+    "excerpt_pt": "Podemos não saber o que é a matéria escura, mas continuamos sentindo seu cheiro. “Estamos chegando a um ponto em que a evidência observacional da matéria escura é simplesmente inegável”, disse Mayank Sharma, estudante de física da Virginia Tech.",
+    "excerpt_en": "We may not know what dark matter is, but we keep getting whiffs of it. \"We are reaching a point where the observational evidence for dark matter is simply undeniable,\" said Mayank Sharma, a Virginia Tech graduate student in physics.",
+    "body": "<p>Podemos não saber o que é a matéria escura, mas continuamos sentindo seu cheiro. “Estamos chegando a um ponto em que a evidência observacional da matéria escura é simplesmente inegável”, disse Mayank Sharma, estudante de física da Virginia Tech. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: CC0 Domínio Público Podemos não.</p><p>Cada nova descoberta ensina-nos mais sobre a substância invisível que supera em muito toda a matéria visível no Universo, tal como que a gravidade é a única força conhecida que. Este último é novo, relatado em uma publicação recente liderada pela Virginia Tech na Physical Review D.</p><p>Usando uma técnica astrofísica chamada mapeamento de eco, os pesquisadores ofereceram evidências para apoiar esta teoria, há muito defendida, mas não confirmada pela física de. O turbo boost vem da atração gravitacional da matéria escura invisível.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-echoes-reveal-dark-buildup-supermassive.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Podemos não saber o que é a matéria escura, mas continuamos sentindo seu cheiro. “Estamos chegando a um ponto em que a evidência observacional da matéria escura é simplesmente inegável”, disse Mayank Sharma, estudante de física da Virginia Tech. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: CC0 Domínio Público Podemos não.</p><p>Cada nova descoberta ensina-nos mais sobre a substância invisível que supera em muito toda a matéria visível no Universo, tal como que a gravidade é a única força conhecida que. Este último é novo, relatado em uma publicação recente liderada pela Virginia Tech na Physical Review D.</p><p>Usando uma técnica astrofísica chamada mapeamento de eco, os pesquisadores ofereceram evidências para apoiar esta teoria, há muito defendida, mas não confirmada pela física de. O turbo boost vem da atração gravitacional da matéria escura invisível.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-echoes-reveal-dark-buildup-supermassive.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>We may not know what dark matter is, but we keep getting whiffs of it. &quot;We are reaching a point where the observational evidence for dark matter is simply undeniable,&quot; said Mayank Sharma, a Virginia Tech graduate student in physics. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Credit: CC0 Public Domain We may not know what dark matter is.</p><p>Each new discovery teaches us more about the invisible substance that far outweighs all visible matter in the universe, such as that gravity is the only known force that has any. That last one is new, reported in a recent Virginia Tech-led publication in Physical Review D.</p><p>Using an astrophysical technique called echo mapping, researchers offered evidence to support this theory, long held but unconfirmed by particle physics. The turbo boost comes from the gravitational pull of unseen dark matter.</p><p>With no mechanism to shed energy, theory predicts that dark matter simply hovers thickly on the outskirts, although this behavior can&#x27;t be observed with standard telescopes. While discussing the problem with Gonzalo Herrera, a former Virginia Tech postdoctoral associate in particle physics, Sharma saw a possible way forward.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Because light travels at a constant speed, the delay reveals the gas&#x27;s distance from the black hole. The initial signal also contains fingerprints of the black hole, where intense heat and radiation strip the gas of electrons.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-echoes-reveal-dark-buildup-supermassive.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Podemos não saber o que é a matéria escura, mas continuamos sentindo seu cheiro. “Estamos chegando a um ponto em que a evidência observacional da.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Podemos não saber o que é a matéria escura, mas continuamos sentindo seu cheiro. “Estamos chegando a um ponto em que a evidência observacional da.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: We may not know what dark matter is, but we keep getting whiffs of it. \"We are reaching a point where the observational evidence for dark matter is.",
+      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "11 jun 2026",
+    "date_pt": "11 jun 2026",
+    "date_en": "11 Jun 2026",
+    "time": "22h10",
+    "time_pt": "22h10",
+    "time_en": "22:10 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-11T22:10:01+00:00",
+    "lastModifiedIso": "2026-06-11T22:10:01+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Ecos de luz revelam possível acúmulo de matéria escura em torno de buracos negros supermassivos"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Ecos de luz revelam possível acúmulo de matéria escura em torno de buracos negros supermassivos"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Light echoes reveal possible accumulation of dark matter around supermassive black holes"
+    ],
+    "srcUrl": "https://phys.org/news/2026-06-echoes-reveal-dark-buildup-supermassive.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=light-echoes-reveal-possible-dark-matter-buildup-around-supermassive-black-holes",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=light-echoes-reveal-possible-dark-matter-buildup-around-supermassive-black-holes",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=light-echoes-reveal-possible-dark-matter-buildup-around-supermassive-black-holes&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
     "id": 16,
+    "slug": "nasa-s-chandra-discovers-possible-supernova-remnant-in-galactic-center",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://science.nasa.gov/wp-content/uploads/2026/06/sgrc.jpg?w=1536",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/xraydot_illus_unlabeled.jpg?w=3900&h=3287&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/dimming_ngc2353.jpg?w=3909&h=3366&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/3d/resources/model/chandra-x-ray-observatory/Chandra%20X-ray%20Observatory.png?w=1920&h=1080&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Chandra da NASA descobre possível remanescente de supernova no centro galáctico",
+    "title_pt": "Chandra da NASA descobre possível remanescente de supernova no centro galáctico",
+    "title_en": "NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center",
+    "sub": "Usando dados do Observatório de Raios-X Chandra da NASA, os astrónomos podem ter encontrado um remanescente de supernova numa vizinhança intrigante no meio da nossa galáxia. Um.",
+    "sub_pt": "Usando dados do Observatório de Raios-X Chandra da NASA, os astrónomos podem ter encontrado um remanescente de supernova numa vizinhança intrigante no meio da nossa galáxia. Um.",
+    "sub_en": "Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A paper describing.",
+    "excerpt": "Usando dados do Observatório de Raios-X Chandra da NASA, os astrónomos podem ter encontrado um remanescente de supernova numa vizinhança intrigante no meio da nossa galáxia. Um artigo que descreve essas novas descobertas foi publicado no The Astrophysical.",
+    "excerpt_pt": "Usando dados do Observatório de Raios-X Chandra da NASA, os astrónomos podem ter encontrado um remanescente de supernova numa vizinhança intrigante no meio da nossa galáxia. Um artigo que descreve essas novas descobertas foi publicado no The Astrophysical.",
+    "excerpt_en": "Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A paper describing these new findings published in The Astrophysical Journal.",
+    "body": "<p>Usando dados do Observatório de Raios-X Chandra da NASA, os astrónomos podem ter encontrado um remanescente de supernova numa vizinhança intrigante no meio da nossa galáxia. Um artigo que descreve essas novas descobertas foi publicado no The Astrophysical Journal. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. 5 min Leia Chandra da NASA descobre possível remanescente de supernova no centro galáctico Usando dados do Observatório de raios X Chandra da NASA, os astrônomos podem ter. Edmonds Uma nova imagem composta desta região contém raios X do Chandra e da missão XMM-Newton da ESA (Agência Espacial Europeia) (mostrados em azul), bem como dados de rádio do.</p><p>O Centro de Raios-X Chandra do Observatório Astrofísico Smithsonian controla as operações científicas de Cambridge, Massachusetts, e as operações de voo de Burlington. Leia mais do Observatório de Raios-X Chandra da NASA Para saber mais sobre a missão Chandra da NASA, visite: https: //science. nasa. gov/chandra https: //chandra. si. edu Contato.</p><p>Alabama 256-544-0034 joel. w. wallace@nasa. gov Sobre o autor Lee Mohon Compartilhe detalhes Última atualização em 11 de junho. Estuda todas as fases do. Telescópio Espacial Hubble Desde o seu lançamento em 1990, o Telescópio Espacial Hubble mudou a nossa compreensão fundamental do universo.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Usando dados do Observatório de Raios-X Chandra da NASA, os astrónomos podem ter encontrado um remanescente de supernova numa vizinhança intrigante no meio da nossa galáxia. Um artigo que descreve essas novas descobertas foi publicado no The Astrophysical Journal. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. 5 min Leia Chandra da NASA descobre possível remanescente de supernova no centro galáctico Usando dados do Observatório de raios X Chandra da NASA, os astrônomos podem ter. Edmonds Uma nova imagem composta desta região contém raios X do Chandra e da missão XMM-Newton da ESA (Agência Espacial Europeia) (mostrados em azul), bem como dados de rádio do.</p><p>O Centro de Raios-X Chandra do Observatório Astrofísico Smithsonian controla as operações científicas de Cambridge, Massachusetts, e as operações de voo de Burlington. Leia mais do Observatório de Raios-X Chandra da NASA Para saber mais sobre a missão Chandra da NASA, visite: https: //science. nasa. gov/chandra https: //chandra. si. edu Contato.</p><p>Alabama 256-544-0034 joel. w. wallace@nasa. gov Sobre o autor Lee Mohon Compartilhe detalhes Última atualização em 11 de junho. Estuda todas as fases do. Telescópio Espacial Hubble Desde o seu lançamento em 1990, o Telescópio Espacial Hubble mudou a nossa compreensão fundamental do universo.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A paper describing these new findings published in The Astrophysical Journal. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. 5 Min Read NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant. Edmonds A new composite image of this region contains X-rays from Chandra and ESA’s (European Space Agency’s) XMM-Newton mission (shown in blue) as well as radio data from the.</p><p>The Smithsonian Astrophysical Observatory’s Chandra X-ray Center controls science operations from Cambridge, Massachusetts, and flight operations from Burlington, Massachusetts. Read more from NASA’s Chandra X-ray Observatory To learn more about NASA’s Chandra mission, visit: https: //science. nasa. gov/chandra https: //chandra. si. edu News Media Contact.</p><p>Alabama 256-544-0034 joel. w. wallace@nasa. gov About the Author Lee Mohon Share Details Last Updated Jun 11. It studies every phase in the. Hubble Space Telescope Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.</p><p>Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A Article Contents Visual Description News Media Contact Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>A new composite image of this region contains X-rays from Chandra and ESA’s (European Space Agency’s) XMM-Newton mission (shown in blue) as well as radio data from the MeerKAT. The evidence for the new supernova remnant, located about 26,000 light-years from Earth, comes from X-ray data from Chandra and XMM-Newton.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Usando dados do Observatório de Raios-X Chandra da NASA, os astrónomos podem ter encontrado um remanescente de supernova numa vizinhança intrigante.",
+      "Dado-chave: 5 min Leia Chandra da NASA descobre possível remanescente de supernova no centro galáctico Usando dados do Observatório de raios X Chandra da.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Usando dados do Observatório de Raios-X Chandra da NASA, os astrónomos podem ter encontrado um remanescente de supernova numa vizinhança intrigante.",
+      "Dado-chave: 5 min Leia Chandra da NASA descobre possível remanescente de supernova no centro galáctico Usando dados do Observatório de raios X Chandra da.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our.",
+      "Key detail: 5 Min Read NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center Using data from NASA’s Chandra X-ray Observatory, astronomers.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "11 jun 2026",
+    "date_pt": "11 jun 2026",
+    "date_en": "11 Jun 2026",
+    "time": "20h41",
+    "time_pt": "20h41",
+    "time_en": "20:41 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-11T20:41:44+00:00",
+    "lastModifiedIso": "2026-06-11T20:41:44+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astrofísica",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Chandra da NASA descobre possível remanescente de supernova no centro galáctico"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Chandra da NASA descobre possível remanescente de supernova no centro galáctico"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA's Chandra Discovers Possible Supernova Remnant at Galactic Center"
+    ],
+    "srcUrl": "https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-chandra-discovers-possible-supernova-remnant-in-galactic-center",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-chandra-discovers-possible-supernova-remnant-in-galactic-center",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-chandra-discovers-possible-supernova-remnant-in-galactic-center&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 82,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 17,
     "slug": "webb-reveals-black-hole-that-formed-before-its-galaxy",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1911,7 +2053,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "jwst-reveals-dawn-dusk-atmosphere-split-on-ultra-hot-exoplanet-wasp-121-b",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2060,7 +2202,7 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "nasa-s-proposed-eve-mission-aims-to-solve-the-radius-valley-mystery",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2178,11 +2320,11 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "calibration-of-an-analog-to-digital-conversion-nonlinearity-in-jwst-niriss",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg/1280px-Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1280px-The_Earth_seen_from_Apollo_17.jpg",
     "inline_images": [],
     "video": null,
     "audio": null,
@@ -2224,7 +2366,7 @@ window.postsData = [
     "read_en": "4 min read",
     "publishedIso": "2026-06-10T12:04:15+00:00",
     "lastModifiedIso": "2026-06-10T12:04:15+00:00",
-    "source": "arXiv Astrophysics",
+    "source": "arXiv Earth & Planetary",
     "sourceDomain": "arxiv.org",
     "sourceType": "preprint",
     "sourceTypeLabel": "Preprint",
@@ -2243,21 +2385,21 @@ window.postsData = [
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
       "Exoplanetas",
-      "arXiv Astrophysics",
+      "arXiv Earth & Planetary",
       "Cosmos Week",
       "Calibração de uma não linearidade de conversão analógico",
       "digital em JWST/NIRISS"
     ],
     "keywords_pt": [
       "Exoplanetas",
-      "arXiv Astrophysics",
+      "arXiv Earth & Planetary",
       "Cosmos Week",
       "Calibração de uma não linearidade de conversão analógico",
       "digital em JWST/NIRISS"
     ],
     "keywords_en": [
       "Exoplanets",
-      "arXiv Astrophysics",
+      "arXiv Earth & Planetary",
       "Cosmos Week",
       "Calibration of an analog conversion nonlinearity",
       "digital em JWST/NIRISS"
@@ -2286,7 +2428,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "lab-created-moon-rock-could-help-scientists-interpret-lunar-data-and-explore-how-water-might-for",
     "cat": "Física",
     "catCls": "fisica",
@@ -2419,215 +2561,64 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
-    "slug": "nasa-s-cloudcube-pioneers-miniaturized-radar-to-study-clouds-precipitation",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasas-cloudcube-pionee.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/nasas-cloudcube-pionee.jpg",
-        "caption": "O CloudCube da NASA é pioneiro em radar miniaturizado para estudar nuvens e precipitação",
-        "caption_pt": "O CloudCube da NASA é pioneiro em radar miniaturizado para estudar nuvens e precipitação",
-        "caption_en": "NASA's CloudCube pioneers miniaturized radar to study clouds, precipitation",
-        "alt": "O CloudCube da NASA é pioneiro em radar miniaturizado para estudar nuvens e precipitação",
-        "alt_pt": "O CloudCube da NASA é pioneiro em radar miniaturizado para estudar nuvens e precipitação",
-        "alt_en": "NASA's CloudCube pioneers miniaturized radar to study clouds, precipitation"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f6b420961b46f94b.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/8b33bc1b4d9f6b4c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "O CloudCube da NASA é pioneiro em radar miniaturizado para estudar nuvens e precipitação",
-    "title_pt": "O CloudCube da NASA é pioneiro em radar miniaturizado para estudar nuvens e precipitação",
-    "title_en": "NASA's CloudCube pioneers miniaturized radar to study clouds, precipitation",
-    "sub": "Um radar compacto e multifrequencial construído por uma equipe do Laboratório de Propulsão a Jato da NASA facilitará a coleta de informações sobre sistemas dinâmicos de nuvens.",
-    "sub_pt": "Um radar compacto e multifrequencial construído por uma equipe do Laboratório de Propulsão a Jato da NASA facilitará a coleta de informações sobre sistemas dinâmicos de nuvens.",
-    "sub_en": "A compact, multifrequency radar built by a team at NASA's Jet Propulsion Laboratory will make it easier to collect information about dynamic cloud systems. Called CloudCube, this.",
-    "excerpt": "Um radar compacto e multifrequencial construído por uma equipe do Laboratório de Propulsão a Jato da NASA facilitará a coleta de informações sobre sistemas dinâmicos de nuvens. Chamado CloudCube, este novo instrumento sonda simultaneamente a atmosfera.",
-    "excerpt_pt": "Um radar compacto e multifrequencial construído por uma equipe do Laboratório de Propulsão a Jato da NASA facilitará a coleta de informações sobre sistemas dinâmicos de nuvens. Chamado CloudCube, este novo instrumento sonda simultaneamente a atmosfera.",
-    "excerpt_en": "A compact, multifrequency radar built by a team at NASA's Jet Propulsion Laboratory will make it easier to collect information about dynamic cloud systems. Called CloudCube, this new instrument simultaneously probes the atmosphere with.",
-    "body": "<p>Um radar compacto e multifrequencial construído por uma equipe do Laboratório de Propulsão a Jato da NASA facilitará a coleta de informações sobre sistemas dinâmicos de nuvens. Chamado CloudCube, este novo instrumento sonda simultaneamente a atmosfera. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Raquel Rodriguez Monje/JPL Um radar compacto e multifrequencial construído por uma equipe do Laboratório de Propulsão a Jato da NASA facilitará a coleta de informações sobre.</p><p>Chamado CloudCube, este novo instrumento sonda simultaneamente a atmosfera com três sinais de radar, abrangendo 36 a 240 GHz, para obter sensibilidade otimizada a uma ampla gama. Construído com financiamento do Programa Incubadora de Instrumentos do Escritório de Tecnologia de Ciências da Terra da NASA, o CloudCube transmite e recebe sinais de bandas Ka, W.</p><p>Construir um radar multifrequencial, especialmente na banda G, é uma novidade&quot;, disse Raquel Rodriguez Monje, engenheira de sistemas do JPL e investigadora principal do CloudCube.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-nasa-cloudcube-miniaturized-radar-clouds.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Um radar compacto e multifrequencial construído por uma equipe do Laboratório de Propulsão a Jato da NASA facilitará a coleta de informações sobre sistemas dinâmicos de nuvens. Chamado CloudCube, este novo instrumento sonda simultaneamente a atmosfera. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Raquel Rodriguez Monje/JPL Um radar compacto e multifrequencial construído por uma equipe do Laboratório de Propulsão a Jato da NASA facilitará a coleta de informações sobre.</p><p>Chamado CloudCube, este novo instrumento sonda simultaneamente a atmosfera com três sinais de radar, abrangendo 36 a 240 GHz, para obter sensibilidade otimizada a uma ampla gama. Construído com financiamento do Programa Incubadora de Instrumentos do Escritório de Tecnologia de Ciências da Terra da NASA, o CloudCube transmite e recebe sinais de bandas Ka, W.</p><p>Construir um radar multifrequencial, especialmente na banda G, é uma novidade&quot;, disse Raquel Rodriguez Monje, engenheira de sistemas do JPL e investigadora principal do CloudCube.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-nasa-cloudcube-miniaturized-radar-clouds.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A compact, multifrequency radar built by a team at NASA&#x27;s Jet Propulsion Laboratory will make it easier to collect information about dynamic cloud systems. Called CloudCube, this new instrument simultaneously probes the atmosphere with. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. A compact, multifrequency radar built by a team at NASA&#x27;s Jet Propulsion Laboratory will make it easier to collect information about dynamic cloud systems. This article has been reviewed according to Science X&#x27;s editorial process and policies.</p><p>Raquel Rodriguez Monje / JPL A compact, multifrequency radar built by a team at NASA&#x27;s Jet Propulsion Laboratory will make it easier to collect information about dynamic cloud. Called CloudCube, this new instrument simultaneously probes the atmosphere with three radar signals, spanning 36 to 240 GHz, for optimized sensitivity to a wide range of water.</p><p>Built with funding from NASA&#x27;s Earth Science Technology Office Instrument Incubator Program, CloudCube transmits and receives Ka-, W- and G-band signals, making it the first. Building a multifrequency radar, especially at G-band, is very novel,&quot; said Raquel Rodriguez Monje, a systems engineer at JPL and principal investigator for CloudCube.</p><p>Probing the atmosphere simultaneously with three signals allows researchers to collect data on all these cloud features at once, which is valuable for improving weather forecasts. Another innovation of CloudCube is that it was designed to use as few radio frequency components as possible to reduce its mass and power consumption, which could lower the cost.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Flying an instrument equipped with G-band radar in space will be a new capability and will allow researchers to achieve greater spatial resolution and sensitivity in the study of. Basically, we&#x27;re weighing clouds using these combinations of frequencies in a way that we couldn&#x27;t do before we had the G-band,&quot; said Matt Lebsock, a researcher at JPL and.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-nasa-cloudcube-miniaturized-radar-clouds.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Um radar compacto e multifrequencial construído por uma equipe do Laboratório de Propulsão a Jato da NASA facilitará a coleta de informações sobre.",
-      "Dado-chave: Um radar compacto e multifrequencial construído por uma equipe do Laboratório de Propulsão a Jato da NASA facilitará a coleta de informações.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Um radar compacto e multifrequencial construído por uma equipe do Laboratório de Propulsão a Jato da NASA facilitará a coleta de informações sobre.",
-      "Dado-chave: Um radar compacto e multifrequencial construído por uma equipe do Laboratório de Propulsão a Jato da NASA facilitará a coleta de informações.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A compact, multifrequency radar built by a team at NASA's Jet Propulsion Laboratory will make it easier to collect information about dynamic cloud.",
-      "Key detail: A compact, multifrequency radar built by a team at NASA's Jet Propulsion Laboratory will make it easier to collect information about dynamic.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "10 jun 2026",
-    "date_pt": "10 jun 2026",
-    "date_en": "10 Jun 2026",
-    "time": "23h40",
-    "time_pt": "23h40",
-    "time_en": "23:40 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-10T23:40:01+00:00",
-    "lastModifiedIso": "2026-06-10T23:40:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Física",
-      "Phys.org Space",
-      "Cosmos Week",
-      "O CloudCube da NASA é pioneiro em radar miniaturizado para estudar nuvens e precipitação"
-    ],
-    "keywords_pt": [
-      "Física",
-      "Phys.org Space",
-      "Cosmos Week",
-      "O CloudCube da NASA é pioneiro em radar miniaturizado para estudar nuvens e precipitação"
-    ],
-    "keywords_en": [
-      "Physical",
-      "Phys.org Space",
-      "Cosmos Week",
-      "NASA's CloudCube Pioneers Miniaturized Radar for Studying Clouds and Precipitation"
-    ],
-    "srcUrl": "https://phys.org/news/2026-06-nasa-cloudcube-miniaturized-radar-clouds.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-cloudcube-pioneers-miniaturized-radar-to-study-clouds-precipitation",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-cloudcube-pioneers-miniaturized-radar-to-study-clouds-precipitation",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-cloudcube-pioneers-miniaturized-radar-to-study-clouds-precipitation&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 82,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
     "id": 22,
-    "slug": "galaxy-killing-wind-discovered-in-the-early-universe",
+    "slug": "alice-s-upgraded-detector-showcases-its-beauty",
     "cat": "Física",
     "catCls": "fisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/galaxy-killing-wind-di.jpg",
+    "img": "https://home.cern/wp-content/uploads/2026/06/bmeson-export-new.png",
     "inline_images": [
       {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/galaxy-killing-wind-di.jpg",
-        "caption": "Vento destruidor de galáxias descoberto no início do universo",
-        "caption_pt": "Vento destruidor de galáxias descoberto no início do universo",
-        "caption_en": "Galaxy-killing wind discovered in the early universe",
-        "alt": "Vento destruidor de galáxias descoberto no início do universo",
-        "alt_pt": "Vento destruidor de galáxias descoberto no início do universo",
-        "alt_en": "Galaxy-killing wind discovered in the early universe"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f6b420961b46f94b.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
+        "src": "https://home.cern/alices-upgraded-detector-showcases-its-beauty/context.post.image",
+        "caption": "contexto.post.título",
+        "caption_pt": "contexto.post.título",
+        "caption_en": "context.post.title",
+        "alt": "contexto.post.título",
+        "alt_pt": "contexto.post.título",
+        "alt_en": "context.post.title"
       }
     ],
     "video": null,
     "audio": null,
-    "title": "Vento destruidor de galáxias descoberto no início do universo",
-    "title_pt": "Vento destruidor de galáxias descoberto no início do universo",
-    "title_en": "Galaxy-killing wind discovered in the early universe",
-    "sub": "Os astrônomos descobriram um “vento destruidor de galáxias” que pode explicar por que existem muito mais galáxias “mortas” massivas do que o esperado no universo primitivo. Este.",
-    "sub_pt": "Os astrônomos descobriram um “vento destruidor de galáxias” que pode explicar por que existem muito mais galáxias “mortas” massivas do que o esperado no universo primitivo. Este.",
-    "sub_en": "Astronomers have discovered a \"galaxy-killing wind\" that may explain why there are far more massive \"dead\" galaxies than expected in the early universe. This wind, powered by.",
-    "excerpt": "Os astrônomos descobriram um “vento destruidor de galáxias” que pode explicar por que existem muito mais galáxias “mortas” massivas do que o esperado no universo primitivo. Este vento, alimentado por colisões cósmicas entre galáxias, poderia rapidamente.",
-    "excerpt_pt": "Os astrônomos descobriram um “vento destruidor de galáxias” que pode explicar por que existem muito mais galáxias “mortas” massivas do que o esperado no universo primitivo. Este vento, alimentado por colisões cósmicas entre galáxias, poderia rapidamente.",
-    "excerpt_en": "Astronomers have discovered a \"galaxy-killing wind\" that may explain why there are far more massive \"dead\" galaxies than expected in the early universe. This wind, powered by cosmic collisions between galaxies, could quickly blow away all.",
-    "body": "<p>Os astrônomos descobriram um “vento destruidor de galáxias” que pode explicar por que existem muito mais galáxias “mortas” massivas do que o esperado no universo primitivo. Este vento, alimentado por colisões cósmicas entre galáxias, poderia rapidamente destruir tudo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida uma impressão artística da galáxia CRISTAL-02.</p><p>Joshua Worth via Creative Commons, CC-BY 4.0 Astrônomos descobriram um “vento destruidor de galáxias” que pode explicar por que existem muito mais galáxias “mortas” massivas do. A teoria é muito mais simples do que algumas das outras explicações apresentadas desde 2022, quando o Telescópio Espacial James Webb (JWST) deu aos cientistas o primeiro vislumbre.</p><p>Os pesquisadores por trás do novo estudo, publicado hoje (10 de junho) no Monthly Notices of the Royal Astronomical Society, usaram o JWST para mostrar que os ventos destruidores. Utilizando o JWST e o radiotelescópio Atacama Large Millimeter/submillimeter Array (ALMA), a equipa de Swinburne obteve imagens de uma galáxia mil milhões de anos após o Big Bang.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-galaxy-early-universe.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os astrônomos descobriram um “vento destruidor de galáxias” que pode explicar por que existem muito mais galáxias “mortas” massivas do que o esperado no universo primitivo. Este vento, alimentado por colisões cósmicas entre galáxias, poderia rapidamente destruir tudo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida uma impressão artística da galáxia CRISTAL-02.</p><p>Joshua Worth via Creative Commons, CC-BY 4.0 Astrônomos descobriram um “vento destruidor de galáxias” que pode explicar por que existem muito mais galáxias “mortas” massivas do. A teoria é muito mais simples do que algumas das outras explicações apresentadas desde 2022, quando o Telescópio Espacial James Webb (JWST) deu aos cientistas o primeiro vislumbre.</p><p>Os pesquisadores por trás do novo estudo, publicado hoje (10 de junho) no Monthly Notices of the Royal Astronomical Society, usaram o JWST para mostrar que os ventos destruidores. Utilizando o JWST e o radiotelescópio Atacama Large Millimeter/submillimeter Array (ALMA), a equipa de Swinburne obteve imagens de uma galáxia mil milhões de anos após o Big Bang.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-galaxy-early-universe.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Discovered a &quot;galaxy-killing wind&quot; that may explain why there are far more massive &quot;dead&quot; galaxies than expected in the early universe. This wind, powered by cosmic collisions between galaxies, could quickly blow away all. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source An artist’s impression of the galaxy CRISTAL-02, with a huge.</p><p>Joshua Worth via Creative Commons, CC-BY 4.0 Astronomers have discovered a &quot;galaxy-killing wind&quot; that may explain why there are far more massive &quot;dead&quot; galaxies than expected in. The theory is much simpler than some of the other explanations put forward since 2022, when the James Webb Space Telescope (JWST) gave scientists their first clear glimpse of the.</p><p>Researchers behind the new study, published today (June 10) in Monthly Notices of the Royal Astronomical Society, used JWST to show that galaxy-killing winds can be powered by the. Using JWST and the Atacama Large Millimeter/submillimeter Array (ALMA) radio telescope, the Swinburne team imaged a galaxy 1 billion years after the Big Bang in the midst of a.</p><p>This galaxy, called CRISTAL-02, is forming stars twice as fast as other similarly sized galaxies. The extremely sensitive observations revealed a huge plume of cold gas extending far from CRISTAL-02.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>If this rapid blowout continues, the galaxy could be dead in less than 50 million years, explaining the origin of the mysterious massive dead galaxies in the early universe.&quot;. Davies believes that other galaxies will likely face a similar fate to CRISTAL-02, undergoing frenzied bursts of star formation followed by powerful winds that lead them to their.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-galaxy-early-universe.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "O detector atualizado de ALICE mostra sua beleza",
+    "title_pt": "O detector atualizado de ALICE mostra sua beleza",
+    "title_en": "ALICE’s upgraded detector showcases its beauty",
+    "sub": "A Colaboração ALICE realizou a primeira medição LHC da produção de beauty-quarks numa faixa de momentum anteriormente inexplorada",
+    "sub_pt": "A Colaboração ALICE realizou a primeira medição LHC da produção de beauty-quarks numa faixa de momentum anteriormente inexplorada",
+    "sub_en": "The ALICE Collaboration has performed the first LHC measurement of beauty-quark production in a previously unexplored momentum range",
+    "excerpt": "A Colaboração ALICE realizou a primeira medição LHC da produção de beauty-quarks numa faixa de momentum anteriormente inexplorada",
+    "excerpt_pt": "A Colaboração ALICE realizou a primeira medição LHC da produção de beauty-quarks numa faixa de momentum anteriormente inexplorada",
+    "excerpt_en": "The ALICE Collaboration has performed the first LHC measurement of beauty-quark production in a previously unexplored momentum range",
+    "body": "<p>A Colaboração ALICE realizou a primeira medição LHC da produção de beauty-quarks numa faixa de momentum anteriormente inexplorada. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Física O detector atualizado do ALICE mostra sua beleza A Colaboração ALICE realizou a primeira medição LHC da produção de quarks bonitos em uma faixa de momento anteriormente. No Grande Colisor de Hádrons (LHC), os prótons viajam ao redor do anel quase à velocidade da luz antes de colidirem para liberar energia que se transforma em muitas partículas.</p><p>Conforme relatado num artigo recente, a Colaboração ALICE fez uma nova medição da produção de mésons de beleza neutros, partículas compostas por um antiquark de beleza e um quark. Pela primeira vez nas energias do LHC, a probabilidade de esta partícula ser produzida numa região perpendicular ao feixe de partículas foi medida até um momento transversal de 1.</p><p>Este novo resultado foi baseado em dados de colisões próton-próton a uma energia de 13,6 TeV, que ocorreram durante a terceira execução do LHC.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/alices-upgraded-detector-showcases-its-beauty/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Colaboração ALICE realizou a primeira medição LHC da produção de beauty-quarks numa faixa de momentum anteriormente inexplorada. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Física O detector atualizado do ALICE mostra sua beleza A Colaboração ALICE realizou a primeira medição LHC da produção de quarks bonitos em uma faixa de momento anteriormente. No Grande Colisor de Hádrons (LHC), os prótons viajam ao redor do anel quase à velocidade da luz antes de colidirem para liberar energia que se transforma em muitas partículas.</p><p>Conforme relatado num artigo recente, a Colaboração ALICE fez uma nova medição da produção de mésons de beleza neutros, partículas compostas por um antiquark de beleza e um quark. Pela primeira vez nas energias do LHC, a probabilidade de esta partícula ser produzida numa região perpendicular ao feixe de partículas foi medida até um momento transversal de 1.</p><p>Este novo resultado foi baseado em dados de colisões próton-próton a uma energia de 13,6 TeV, que ocorreram durante a terceira execução do LHC.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/alices-upgraded-detector-showcases-its-beauty/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The ALICE Collaboration has performed the first LHC measurement of beauty-quark production in a previously unexplored momentum range. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Physics ALICE’s upgraded detector showcases its beauty The ALICE Collaboration has performed the first LHC measurement of beauty-quark production in a previously unexplored. At the Large Hadron Collider (LHC), protons travel around the ring at almost the speed of light before colliding to release energy that transforms into many particles, including.</p><p>As reported in a recent paper, the ALICE Collaboration has made a new measurement of the production of neutral beauty mesons, particles made of a beauty antiquark and a down quark. For the first time at LHC energies, the probability that this particle is produced in a region perpendicular to the particle beam was measured down to a transverse momentum of 1.</p><p>This new result was based on data from proton, proton collisions at an energy of 13.6 TeV, which took place during the third run of the LHC. These improvements included the installation of a new innermost detector, the Inner Tracking System 2, which improved the level of detail at which particles can be tracked.</p><p>Additionally, upgrades to the Time Projection Chamber and the Time-of-Flight detector significantly increased the collision recording rate, by a factor of 500 for proton, proton. To efficiently inspect the enormous amount of data and to isolate collisions such as those producing neutral beauty mesons, ALICE now also employs a software-based filtering.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>This is part of its new Online-Offline (O2) computing framework, a high-performance redesign of ALICE computing capabilities specifically tailored to Run 3 of the LHC and beyond. The likelihood that beauty particles, particles containing beauty quarks, are produced can be precisely predicted using calculations based on quantum chromodynamics (QCD), the.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/alices-upgraded-detector-showcases-its-beauty/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Os astrônomos descobriram um “vento destruidor de galáxias” que pode explicar por que existem muito mais galáxias “mortas” massivas do que o esperado.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Ponto central: A Colaboração ALICE realizou a primeira medição LHC da produção de beauty-quarks numa faixa de momentum anteriormente inexplorada",
+      "Dado-chave: A Colaboração ALICE realizou a primeira medição LHC da produção de beauty-quarks numa faixa de momentum anteriormente inexplorada",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Os astrônomos descobriram um “vento destruidor de galáxias” que pode explicar por que existem muito mais galáxias “mortas” massivas do que o esperado.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Ponto central: A Colaboração ALICE realizou a primeira medição LHC da produção de beauty-quarks numa faixa de momentum anteriormente inexplorada",
+      "Dado-chave: A Colaboração ALICE realizou a primeira medição LHC da produção de beauty-quarks numa faixa de momentum anteriormente inexplorada",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: Astronomers have discovered a \"galaxy-killing wind\" that may explain why there are far more massive \"dead\" galaxies than expected in the early.",
-      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
+      "Core point: The ALICE Collaboration has performed the first LHC measurement of beauty-quark production in a previously unexplored momentum range",
+      "Key detail: The ALICE Collaboration has performed the first LHC measurement of beauty-quark production in a previously unexplored momentum range",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "10 jun 2026",
-    "date_pt": "10 jun 2026",
-    "date_en": "10 Jun 2026",
-    "time": "13h00",
-    "time_pt": "13h00",
-    "time_en": "13:00 UTC",
+    "date": "05 jun 2026",
+    "date_pt": "05 jun 2026",
+    "date_en": "05 Jun 2026",
+    "time": "14h09",
+    "time_pt": "14h09",
+    "time_en": "14:09 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-10T13:00:03+00:00",
-    "lastModifiedIso": "2026-06-10T13:00:03+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
+    "publishedIso": "2026-06-05T14:09:45+00:00",
+    "lastModifiedIso": "2026-06-05T14:09:45+00:00",
+    "source": "CERN News",
+    "sourceDomain": "home.cern",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -2645,26 +2636,26 @@ window.postsData = [
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
       "Física",
-      "Phys.org Space",
+      "CERN News",
       "Cosmos Week",
-      "Vento destruidor de galáxias descoberto no início do universo"
+      "O detector atualizado de ALICE mostra sua beleza"
     ],
     "keywords_pt": [
       "Física",
-      "Phys.org Space",
+      "CERN News",
       "Cosmos Week",
-      "Vento destruidor de galáxias descoberto no início do universo"
+      "O detector atualizado de ALICE mostra sua beleza"
     ],
     "keywords_en": [
       "Physical",
-      "Phys.org Space",
+      "CERN News",
       "Cosmos Week",
-      "Galaxy-destroying wind discovered at the beginning of the universe"
+      "ALICE's updated detector shows off its beauty"
     ],
-    "srcUrl": "https://phys.org/news/2026-06-galaxy-early-universe.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=galaxy-killing-wind-discovered-in-the-early-universe",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=galaxy-killing-wind-discovered-in-the-early-universe",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=galaxy-killing-wind-discovered-in-the-early-universe&lang=en",
+    "srcUrl": "https://home.cern/alices-upgraded-detector-showcases-its-beauty/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=alice-s-upgraded-detector-showcases-its-beauty",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=alice-s-upgraded-detector-showcases-its-beauty",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=alice-s-upgraded-detector-showcases-its-beauty&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -2675,17 +2666,125 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 74,
+    "score": 71,
     "scoreBreakdown": {
-      "source": 76,
+      "source": 86,
       "evidence": 82,
-      "relevance": 82,
-      "accessibility": 60,
-      "novelty": 52
+      "relevance": 68,
+      "accessibility": 52,
+      "novelty": 46
     }
   },
   {
     "id": 23,
+    "slug": "new-wi-fi-network-at-cern",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://home.cern/new-wi-fi-network-at-cern/context.post.image",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Nova rede Wi-Fi no CERN",
+    "title_pt": "Nova rede Wi-Fi no CERN",
+    "title_en": "New Wi-Fi network at CERN",
+    "sub": "O CERN-Campus SSID é uma nova rede Wi-Fi disponível em todo o CERN. Ele substituirá o atual SSID do CERN como rede sem fio primária. A rede CERN-Campus utiliza segurança WPA para.",
+    "sub_pt": "O CERN-Campus SSID é uma nova rede Wi-Fi disponível em todo o CERN. Ele substituirá o atual SSID do CERN como rede sem fio primária. A rede CERN-Campus utiliza segurança WPA para.",
+    "sub_en": "The CERN-Campus SSID is a new Wi-Fi network available across CERN. It will replace the current CERN SSID as the primary wireless network. The CERN-Campus network uses WPA security.",
+    "excerpt": "O CERN-Campus SSID é uma nova rede Wi-Fi disponível em todo o CERN. Ele substituirá o atual SSID do CERN como rede sem fio primária. A rede CERN-Campus utiliza segurança WPA para fornecer autenticação e criptografia de dados. Para.",
+    "excerpt_pt": "O CERN-Campus SSID é uma nova rede Wi-Fi disponível em todo o CERN. Ele substituirá o atual SSID do CERN como rede sem fio primária. A rede CERN-Campus utiliza segurança WPA para fornecer autenticação e criptografia de dados. Para.",
+    "excerpt_en": "The CERN-Campus SSID is a new Wi-Fi network available across CERN. It will replace the current CERN SSID as the primary wireless network. The CERN-Campus network uses WPA security to provide both authentication and data encryption. To.",
+    "body": "<p>O CERN-Campus SSID é uma nova rede Wi-Fi disponível em todo o CERN. Ele substituirá o atual SSID do CERN como rede sem fio primária. A rede CERN-Campus utiliza segurança WPA para fornecer autenticação e criptografia de dados. Para. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Computando a nova rede Wi-Fi no CERN Escrito por: Equipe Wi-Fi do CERN, 05 de junho de 2026 O SSID (Service Set Identifier) ​​do CERN-Campus é uma nova rede Wi-Fi disponível no. Anúncio CERN community internet Artigos relacionados Ver todas as notícias Nenhuma postagem foi encontrada.</p><p>O CERN-Campus SSID (Service Set Identifier) ​​é uma nova rede Wi-Fi disponível em todo o CERN. Ele substituirá o atual SSID do CERN como rede sem fio primária.</p><p>A rede CERN-Campus utiliza segurança WPA (Wi-Fi Protected Access) para fornecer autenticação e criptografia de dados. Para se conectar, cada dispositivo precisa de um par exclusivo de login e senha, que você pode gerar através da página do LanDB.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/new-wi-fi-network-at-cern/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O CERN-Campus SSID é uma nova rede Wi-Fi disponível em todo o CERN. Ele substituirá o atual SSID do CERN como rede sem fio primária. A rede CERN-Campus utiliza segurança WPA para fornecer autenticação e criptografia de dados. Para. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Computando a nova rede Wi-Fi no CERN Escrito por: Equipe Wi-Fi do CERN, 05 de junho de 2026 O SSID (Service Set Identifier) ​​do CERN-Campus é uma nova rede Wi-Fi disponível no. Anúncio CERN community internet Artigos relacionados Ver todas as notícias Nenhuma postagem foi encontrada.</p><p>O CERN-Campus SSID (Service Set Identifier) ​​é uma nova rede Wi-Fi disponível em todo o CERN. Ele substituirá o atual SSID do CERN como rede sem fio primária.</p><p>A rede CERN-Campus utiliza segurança WPA (Wi-Fi Protected Access) para fornecer autenticação e criptografia de dados. Para se conectar, cada dispositivo precisa de um par exclusivo de login e senha, que você pode gerar através da página do LanDB.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/new-wi-fi-network-at-cern/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The CERN-Campus SSID is a new Wi-Fi network available across CERN. It will replace the current CERN SSID as the primary wireless network. The CERN-Campus network uses WPA security to provide both authentication and data encryption. To. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Computing New Wi-Fi network at CERN Written by: CERN Wi-Fi team, 05 June, 2026 The CERN-Campus SSID (Service Set Identifier) is a new Wi-Fi network available across CERN. Announcement CERN community internet Related Articles View all news No posts were found.</p><p>The CERN-Campus SSID (Service Set Identifier) is a new Wi-Fi network available across CERN. It will replace the current CERN SSID as the primary wireless network.</p><p>The CERN-Campus network uses WPA (Wi-Fi Protected Access) security to provide both authentication and data encryption. To connect, each device needs a unique login and password pair, which you can generate through the LanDB page.</p><p>Unlike the CERN SSID, CERN-Campus SSID does not require a static MAC address, although it is still highly recommended. This should resolve many of the issues caused by private MAC addressing, which Android and Apple now enable by default.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>To learn more about CERN-Campus and how to connect, check out our documentation. Visit IT-SOS for help resolving your issue.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/new-wi-fi-network-at-cern/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O CERN-Campus SSID é uma nova rede Wi-Fi disponível em todo o CERN. Ele substituirá o atual SSID do CERN como rede sem fio primária. A rede.",
+      "Dado-chave: Computando a nova rede Wi-Fi no CERN Escrito por: Equipe Wi-Fi do CERN, 05 de junho de 2026 O SSID (Service Set Identifier) ​​do CERN-Campus é.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O CERN-Campus SSID é uma nova rede Wi-Fi disponível em todo o CERN. Ele substituirá o atual SSID do CERN como rede sem fio primária. A rede.",
+      "Dado-chave: Computando a nova rede Wi-Fi no CERN Escrito por: Equipe Wi-Fi do CERN, 05 de junho de 2026 O SSID (Service Set Identifier) ​​do CERN-Campus é.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The CERN-Campus SSID is a new Wi-Fi network available across CERN. It will replace the current CERN SSID as the primary wireless network. The.",
+      "Key detail: Computing New Wi-Fi network at CERN Written by: CERN Wi-Fi team, 05 June, 2026 The CERN-Campus SSID (Service Set Identifier) is a new Wi-Fi.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "05 jun 2026",
+    "date_pt": "05 jun 2026",
+    "date_en": "05 Jun 2026",
+    "time": "09h16",
+    "time_pt": "09h16",
+    "time_en": "09:16 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-05T09:16:14+00:00",
+    "lastModifiedIso": "2026-06-05T09:16:14+00:00",
+    "source": "CERN News",
+    "sourceDomain": "home.cern",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "CERN News",
+      "Cosmos Week",
+      "Nova rede Wi",
+      "Fi no CERN"
+    ],
+    "keywords_pt": [
+      "Física",
+      "CERN News",
+      "Cosmos Week",
+      "Nova rede Wi",
+      "Fi no CERN"
+    ],
+    "keywords_en": [
+      "Physical",
+      "CERN News",
+      "Cosmos Week",
+      "New Wi network",
+      "Fi no CERN"
+    ],
+    "srcUrl": "https://home.cern/new-wi-fi-network-at-cern/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=new-wi-fi-network-at-cern",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=new-wi-fi-network-at-cern",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=new-wi-fi-network-at-cern&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 71,
+    "scoreBreakdown": {
+      "source": 86,
+      "evidence": 82,
+      "relevance": 68,
+      "accessibility": 52,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 24,
     "slug": "astrochemical-model-digs-into-the-universe-s-missing-sulfur",
     "cat": "Química",
     "catCls": "quimica",
@@ -2803,7 +2902,7 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
+    "id": 25,
     "slug": "comet-3i-atlas-has-methane-unexpected-discovery-reveals",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2921,7 +3020,112 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 26,
+    "slug": "esa-science-missions-get-green-light-for-new-discoveries",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/inspiring_humankind_with_space_science_at_esa/27322488-1-eng-GB/Inspiring_humankind_with_space_science_at_ESA_card_full.png",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Missões científicas da ESA recebem luz verde para novas descobertas",
+    "title_pt": "Missões científicas da ESA recebem luz verde para novas descobertas",
+    "title_en": "ESA science missions get green light for new discoveries",
+    "sub": "Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa.",
+    "sub_pt": "Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa.",
+    "sub_en": "On 10, 11 June, representatives from European Space Agency Member States met in Tenerife to make far-reaching decisions about the future of ESA’s Science Programme. Their.",
+    "excerpt": "Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa Científico da ESA. As suas decisões de alargar as missões actuais e adoptar a.",
+    "excerpt_pt": "Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa Científico da ESA. As suas decisões de alargar as missões actuais e adoptar a.",
+    "excerpt_en": "On 10, 11 June, representatives from European Space Agency Member States met in Tenerife to make far-reaching decisions about the future of ESA’s Science Programme. Their decisions to extend current missions and adopt the next ‘fast-class’.",
+    "body": "<p>Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa Científico da ESA. As suas decisões de alargar as missões actuais e adoptar a próxima “classe. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. De 10 a 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia (ESA) reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa. As suas decisões de alargar as actuais missões e adoptar a próxima missão de “classe rápida”, Arrakihs, sublinham a liderança europeia e o compromisso a longo prazo com a ciência.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_science_missions_get_green_light_for_new_discoveries\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa Científico da ESA. As suas decisões de alargar as missões actuais e adoptar a próxima “classe. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. De 10 a 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia (ESA) reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa. As suas decisões de alargar as actuais missões e adoptar a próxima missão de “classe rápida”, Arrakihs, sublinham a liderança europeia e o compromisso a longo prazo com a ciência.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_science_missions_get_green_light_for_new_discoveries\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>On 10, 11 June, representatives from European Space Agency Member States met in Tenerife to make far-reaching decisions about the future of ESA’s Science Programme. Their decisions to extend current missions and adopt the next ‘fast-class’. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. On 10, 11 June, representatives from European Space Agency (ESA) Member States met in Tenerife to make far-reaching decisions about the future of ESA’s Science Programme. Their decisions to extend current missions and adopt the next ‘fast-class’ mission, Arrakihs, underscores European leadership in, and long-term commitment to, space science.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_science_missions_get_green_light_for_new_discoveries\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo.",
+      "Dado-chave: De 10 a 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia (ESA) reuniram-se em Tenerife para tomar decisões de longo.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo.",
+      "Dado-chave: De 10 a 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia (ESA) reuniram-se em Tenerife para tomar decisões de longo.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: On 10, 11 June, representatives from European Space Agency Member States met in Tenerife to make far-reaching decisions about the future of ESA’s.",
+      "Key detail: On 10, 11 June, representatives from European Space Agency (ESA) Member States met in Tenerife to make far-reaching decisions about the future.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "11 jun 2026",
+    "date_pt": "11 jun 2026",
+    "date_en": "11 Jun 2026",
+    "time": "08h00",
+    "time_pt": "08h00",
+    "time_en": "08:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-11T08:00:00+00:00",
+    "lastModifiedIso": "2026-06-11T08:00:00+00:00",
+    "source": "ESA Space Science",
+    "sourceDomain": "www.esa.int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Missões científicas da ESA recebem luz verde para novas descobertas"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Missões científicas da ESA recebem luz verde para novas descobertas"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Space Science",
+      "Cosmos Week",
+      "ESA science missions get the green light for new discoveries"
+    ],
+    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/ESA_science_missions_get_green_light_for_new_discoveries",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-science-missions-get-green-light-for-new-discoveries",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-science-missions-get-green-light-for-new-discoveries",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-science-missions-get-green-light-for-new-discoveries&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 81,
+    "scoreBreakdown": {
+      "source": 90,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 27,
     "slug": "air-pollution-s-daily-pulse-over-the-northeast",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3054,12 +3258,31 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 28,
     "slug": "esa-adopts-galactic-archaeology-mission-arrakihs",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/simulated_arrakihs_mock_image_of_a_galaxy_halo/27318386-1-eng-GB/Simulated_Arrakihs_mock_image_of_a_galaxy_halo_card_full.png",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/simulated_galaxy_haloes/27318587-1-eng-GB/Simulated_galaxy_haloes_article.png",
+        "caption": "Halos de galáxias simulados",
+        "caption_pt": "Halos de galáxias simulados",
+        "caption_en": "Simulated galaxy haloes",
+        "alt": "Halos de galáxias simulados",
+        "alt_pt": "Halos de galáxias simulados",
+        "alt_en": "Simulated galaxy haloes"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/working_on_one_of_arrakihs_s_binoculars/27318634-1-eng-GB/Working_on_one_of_Arrakihs_s_binoculars_article.jpg",
+        "caption": "Trabalhando em um dos binóculos de Arrakihs",
+        "caption_pt": "Trabalhando em um dos binóculos de Arrakihs",
+        "caption_en": "Working on one of Arrakihs's binoculars",
+        "alt": "Trabalhando em um dos Arrakihs",
+        "alt_pt": "Trabalhando em um dos Arrakihs",
+        "alt_en": "Working on one of Arrakihs"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "ESA adota missão de arqueologia galáctica Arrakihs",
@@ -3071,9 +3294,9 @@ window.postsData = [
     "excerpt": "O Comité do Programa Científico da Agência Espacial Europeia adoptou a missão Arrakihs. Com lançamento previsto para o final de 2030, Arrakihs irá capturar a luz fraca dos halos de galáxias próximas. Ao ver o invisível, Arrakihs irá desenterrar.",
     "excerpt_pt": "O Comité do Programa Científico da Agência Espacial Europeia adoptou a missão Arrakihs. Com lançamento previsto para o final de 2030, Arrakihs irá capturar a luz fraca dos halos de galáxias próximas. Ao ver o invisível, Arrakihs irá desenterrar.",
     "excerpt_en": "The European Space Agency’s Science Programme Committee has adopted the Arrakihs mission. Planned for launch by the end of 2030, Arrakihs will capture the faint light from nearby galaxy haloes. By seeing the unseen, Arrakihs will dig up.",
-    "body": "<p>O Comité do Programa Científico da Agência Espacial Europeia adoptou a missão Arrakihs. Com lançamento previsto para o final de 2030, Arrakihs irá capturar a luz fraca dos halos de galáxias próximas. Ao ver o invisível, Arrakihs irá desenterrar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O Comité do Programa Científico da Agência Espacial Europeia (ESA) adoptou a missão Arrakihs. Com lançamento previsto para o final de 2030, Arrakihs irá capturar a luz fraca dos halos de galáxias próximas.</p><p>Ao ver o invisível, Arrakihs irá desenterrar a história cósmica e revelar como galáxias como a nossa se formam e evoluem.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_adopts_galactic_archaeology_mission_Arrakihs\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O Comité do Programa Científico da Agência Espacial Europeia adoptou a missão Arrakihs. Com lançamento previsto para o final de 2030, Arrakihs irá capturar a luz fraca dos halos de galáxias próximas. Ao ver o invisível, Arrakihs irá desenterrar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O Comité do Programa Científico da Agência Espacial Europeia (ESA) adoptou a missão Arrakihs. Com lançamento previsto para o final de 2030, Arrakihs irá capturar a luz fraca dos halos de galáxias próximas.</p><p>Ao ver o invisível, Arrakihs irá desenterrar a história cósmica e revelar como galáxias como a nossa se formam e evoluem.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_adopts_galactic_archaeology_mission_Arrakihs\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency’s Science Programme Committee has adopted the Arrakihs mission. Planned for launch by the end of 2030, Arrakihs will capture the faint light from nearby galaxy haloes. By seeing the unseen, Arrakihs will dig up. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The European Space Agency’s (ESA) Science Programme Committee has adopted the Arrakihs mission. Planned for launch by the end of 2030, Arrakihs will capture the faint light from nearby galaxy haloes.</p><p>By seeing the unseen, Arrakihs will dig up cosmic history and reveal how galaxies like our own form and evolve.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_adopts_galactic_archaeology_mission_Arrakihs\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>O Comité do Programa Científico da Agência Espacial Europeia adoptou a missão Arrakihs. Com lançamento previsto para o final de 2030, Arrakihs irá capturar a luz fraca dos halos de galáxias próximas. Ao ver o invisível, Arrakihs irá desenterrar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O Comité do Programa Científico da Agência Espacial Europeia (ESA) adoptou a missão Arrakihs. Com lançamento previsto para o final de 2030, Arrakihs irá capturar a luz fraca dos halos de galáxias próximas.</p><p>A adopção significa que a fase de estudo está concluída, a missão mostra-se viável e a ESA compromete-se a implementá-la. Arrakihs é a segunda missão “rápida” ou classe F do programa Cosmic Vision da ESA, necessitando de menos de dez anos desde a sua selecção em Novembro de 2022 até ao lançamento.</p><p>A decisão de adotá-lo foi tomada na reunião do Comitê do Programa Científico no Instituto Astrofísico de Canarias, Tenerife (10, 11 de junho de 2026). O seu rápido desenvolvimento mostra a flexibilidade e amplitude do Programa Científico da ESA”, afirma a Professora Carole Mundell, Diretora Científica da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_adopts_galactic_archaeology_mission_Arrakihs\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O Comité do Programa Científico da Agência Espacial Europeia adoptou a missão Arrakihs. Com lançamento previsto para o final de 2030, Arrakihs irá capturar a luz fraca dos halos de galáxias próximas. Ao ver o invisível, Arrakihs irá desenterrar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O Comité do Programa Científico da Agência Espacial Europeia (ESA) adoptou a missão Arrakihs. Com lançamento previsto para o final de 2030, Arrakihs irá capturar a luz fraca dos halos de galáxias próximas.</p><p>A adopção significa que a fase de estudo está concluída, a missão mostra-se viável e a ESA compromete-se a implementá-la. Arrakihs é a segunda missão “rápida” ou classe F do programa Cosmic Vision da ESA, necessitando de menos de dez anos desde a sua selecção em Novembro de 2022 até ao lançamento.</p><p>A decisão de adotá-lo foi tomada na reunião do Comitê do Programa Científico no Instituto Astrofísico de Canarias, Tenerife (10, 11 de junho de 2026). O seu rápido desenvolvimento mostra a flexibilidade e amplitude do Programa Científico da ESA”, afirma a Professora Carole Mundell, Diretora Científica da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_adopts_galactic_archaeology_mission_Arrakihs\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency’s Science Programme Committee has adopted the Arrakihs mission. Planned for launch by the end of 2030, Arrakihs will capture the faint light from nearby galaxy haloes. By seeing the unseen, Arrakihs will dig up. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The European Space Agency’s (ESA) Science Programme Committee has adopted the Arrakihs mission. Planned for launch by the end of 2030, Arrakihs will capture the faint light from nearby galaxy haloes.</p><p>Being adopted means that the study phase is complete, the mission is shown to be feasible, and ESA commits to implementing it. Arrakihs is the second ‘fast’ or F-class mission of ESA’s Cosmic Vision programme, needing less than ten years from its selection in November 2022 until launch.</p><p>The decision to adopt it was made at the Science Programme Committee meeting at the Instituto Astrofísico de Canarias, Tenerife (10, 11 June 2026). Its rapid development showcases the flexibility and breadth of ESA’s Science Programme,” says Professor Carole Mundell, ESA’s Director of Science.</p><p>In total, Arrakihs plans to investigate at least 80 galaxies with a similar mass to the Milky Way galaxy. The mission needs to detect extremely faint objects with a ‘low surface brightness’.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Each camera is sensitive to a different band of wavelengths, spanning from the near-ultraviolet, through the visible spectrum, into the near-infrared. The instrument is being designed and developed by a consortium of ESA Member States led by Spain.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_adopts_galactic_archaeology_mission_Arrakihs\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: O Comité do Programa Científico da Agência Espacial Europeia adoptou a missão Arrakihs. Com lançamento previsto para o final de 2030, Arrakihs irá.",
       "Dado-chave: O Comité do Programa Científico da Agência Espacial Europeia (ESA) adoptou a missão Arrakihs.",
@@ -3159,7 +3382,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 29,
     "slug": "esa-s-prodex-programme-brings-scientific-research-to-space",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3264,7 +3487,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 30,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3400,7 +3623,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 31,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3527,7 +3750,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 32,
     "slug": "science-release-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3663,7 +3886,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 33,
     "slug": "revival-of-australia-s-molonglo-radio-telescope",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3787,7 +4010,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 34,
     "slug": "dark-matter-how-new-telescopes-might-help-us-find-it",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -3905,7 +4128,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 35,
     "slug": "meet-callisto-jupiter-s-ancient-moon",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4041,7 +4264,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 36,
     "slug": "alan-hale-1958-2026",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4177,7 +4400,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 37,
     "slug": "amazon-s-satellites-are-impacting-astronomy",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4310,7 +4533,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 38,
     "slug": "gravitational-wave-detections-surge-with-latest-release",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4443,7 +4666,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 39,
     "slug": "join-esa-for-a-total-solar-eclipse-on-12-august-2026",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4551,7 +4774,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 40,
     "slug": "gravity-waves-from-super-typhoon-sinlaku",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4681,266 +4904,6 @@ window.postsData = [
       "relevance": 80,
       "accessibility": 60,
       "novelty": 46
-    }
-  },
-  {
-    "id": 39,
-    "slug": "curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/june/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04916_opgs_edr_ncam_NLB_833905570EDR_S1221260NCAM00268M_.JPG?w=1024&h=640&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/08/buckskinmtsharpmars.jpg?w=2048&h=1152&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Um veículo espacial pousa na superfície montanhosa e laranja de Marte, sob um céu plano e cinzento, cercado por pedaços de rocha.",
-        "caption_pt": "Um veículo espacial pousa na superfície montanhosa e laranja de Marte, sob um céu plano e cinzento, cercado por pedaços de rocha.",
-        "caption_en": "A rover sits on the hilly, orange Martian surface beneath a flat grey sky, surrounded by chunks of rock.",
-        "alt": "Um veículo espacial pousa na superfície montanhosa e laranja de Marte, sob um céu plano e cinzento, cercado por pedaços de rocha.",
-        "alt_pt": "Um veículo espacial pousa na superfície montanhosa e laranja de Marte, sob um céu plano e cinzento, cercado por pedaços de rocha.",
-        "alt_en": "A rover sits on the hilly, orange Martian surface beneath a flat grey sky, surrounded by chunks of rock."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04908_mhli_4908MH0003260001801155C00_DXXX.jpg?w=1024&h=1024&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04897_mcam_4897MR1093660012502351E01_DXXX.jpg?w=1328&h=1184&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Blog de curiosidades: Sols 4913-4919: Exploradores planetários, viajando livremente para a unidade Yardang!",
-    "title_pt": "Blog de curiosidades: Sols 4913-4919: Exploradores planetários, viajando livremente para a unidade Yardang!",
-    "title_en": "Curiosity Blog: Sols 4913-4919: Planetary explorers, freewheeling to the Yardang unit!",
-    "sub": "Escrito por Catherine O’Connell-Cooper, planejadora estratégica da APXS e líder de uplink/downlink de carga útil, Universidade de New Brunswick, Canadá Dia de planejamento da.",
-    "sub_pt": "Escrito por Catherine O’Connell-Cooper, planejadora estratégica da APXS e líder de uplink/downlink de carga útil, Universidade de New Brunswick, Canadá Dia de planejamento da.",
-    "sub_en": "Written by Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University of New Brunswick, Canada Earth planning day: Friday, June 5th, 2026 In a.",
-    "excerpt": "Escrito por Catherine O’Connell-Cooper, planejadora estratégica da APXS e líder de uplink/downlink de carga útil, Universidade de New Brunswick, Canadá Dia de planejamento da Terra: sexta-feira, 5 de junho de 2026 Em um sentido muito amplo, o Curiosity tem.",
-    "excerpt_pt": "Escrito por Catherine O’Connell-Cooper, planejadora estratégica da APXS e líder de uplink/downlink de carga útil, Universidade de New Brunswick, Canadá Dia de planejamento da Terra: sexta-feira, 5 de junho de 2026 Em um sentido muito amplo, o Curiosity tem.",
-    "excerpt_en": "Written by Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University of New Brunswick, Canada Earth planning day: Friday, June 5th, 2026 In a very broad sense, Curiosity has two modes of doing science.",
-    "body": "<p>Escrito por Catherine O’Connell-Cooper, planejadora estratégica da APXS e líder de uplink/downlink de carga útil, Universidade de New Brunswick, Canadá Dia de planejamento da Terra: sexta-feira, 5 de junho de 2026 Em um sentido muito amplo, o Curiosity tem dois modos de fazer. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Imagem Navcam do sol 4916 mostrando a direção aproximada do movimento. A Curiosity tem dois modos de fazer ciência, um centrado em torno de uma campanha científica definida (como a recente campanha de boxwork) e outro à medida que avançamos entre as.</p><p>Visite a página de instrumentos científicos O rover Curiosity da NASA na base do Monte Sharp NASA/JPL-Caltech/MSSS Compartilhe detalhes Última atualização em 10 de junho de 2026. Descubra conteúdo valioso projetado para informar, educar e inspirar. Noções básicas do Rover Cada explorador robótico enviado ao Planeta Vermelho tem suas próprias capacidades.</p><p>Muitos atributos de uma. Exploração de Marte: Objetivos Científicos A chave para compreender o potencial passado, presente ou futuro da vida em Marte pode ser encontrada nos.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/blog/curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Escrito por Catherine O’Connell-Cooper, planejadora estratégica da APXS e líder de uplink/downlink de carga útil, Universidade de New Brunswick, Canadá Dia de planejamento da Terra: sexta-feira, 5 de junho de 2026 Em um sentido muito amplo, o Curiosity tem dois modos de fazer. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Imagem Navcam do sol 4916 mostrando a direção aproximada do movimento. A Curiosity tem dois modos de fazer ciência, um centrado em torno de uma campanha científica definida (como a recente campanha de boxwork) e outro à medida que avançamos entre as.</p><p>Visite a página de instrumentos científicos O rover Curiosity da NASA na base do Monte Sharp NASA/JPL-Caltech/MSSS Compartilhe detalhes Última atualização em 10 de junho de 2026. Descubra conteúdo valioso projetado para informar, educar e inspirar. Noções básicas do Rover Cada explorador robótico enviado ao Planeta Vermelho tem suas próprias capacidades.</p><p>Muitos atributos de uma. Exploração de Marte: Objetivos Científicos A chave para compreender o potencial passado, presente ou futuro da vida em Marte pode ser encontrada nos.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/blog/curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Written by Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University of New Brunswick, Canada Earth planning day: Friday, June 5th, 2026 In a very broad sense, Curiosity has two modes of doing science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Navcam image from sol 4916 showing the rough drive direction. Curiosity has two modes of doing science, one centred around a defined science campaign (such as the recent boxwork campaign) and the other as we move between campaigns.</p><p>Visit the Science Instruments page NASA’s Curiosity rover at the base of Mount Sharp NASA/JPL-Caltech/MSSS Share Details Last Updated Jun 10, 2026 Related Terms Blogs Explore More. Discover valuable content designed to inform, educate, and inspire. Rover Basics Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science.</p><p>Many attributes of a. Mars Exploration: Science Goals The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four. Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars.</p><p>NASA/JPL-Caltech Written by Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University of New Brunswick, Canada In a very broad sense. During a science campaign, with a very defined start and end location, every image and every workspace is carefully choregraphed to make sure we hit all of our science goals for.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Details Last Updated Jun 10, 2026 Related Terms Blogs Explore More 5 min read Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun. Article 2 weeks ago 3 min read Curiosity Blog, Sols 4893-4899: Drilling at Campo Marte and a Visit From the Psyche Spacecraft Article 3 weeks ago Keep Exploring Discover More.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/blog/curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Escrito por Catherine O’Connell-Cooper, planejadora estratégica da APXS e líder de uplink/downlink de carga útil, Universidade de New Brunswick.",
-      "Dado-chave: Escrito por Catherine O’Connell-Cooper, planejadora estratégica da APXS e líder de uplink/downlink de carga útil, Universidade de New Brunswick.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Escrito por Catherine O’Connell-Cooper, planejadora estratégica da APXS e líder de uplink/downlink de carga útil, Universidade de New Brunswick.",
-      "Dado-chave: Escrito por Catherine O’Connell-Cooper, planejadora estratégica da APXS e líder de uplink/downlink de carga útil, Universidade de New Brunswick.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Written by Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University of New Brunswick, Canada Earth planning.",
-      "Key detail: Written by Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University of New Brunswick, Canada Earth.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "10 jun 2026",
-    "date_pt": "10 jun 2026",
-    "date_en": "10 Jun 2026",
-    "time": "21h23",
-    "time_pt": "21h23",
-    "time_en": "21:23 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-10T21:23:02+00:00",
-    "lastModifiedIso": "2026-06-10T21:23:02+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Blog de curiosidades",
-      "Sols 4913",
-      "4919",
-      "Exploradores planetários",
-      "viajando livremente para a unidade Yardang!"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Blog de curiosidades",
-      "Sols 4913",
-      "4919",
-      "Exploradores planetários",
-      "viajando livremente para a unidade Yardang!"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Curiosity blog",
-      "Sols 4913",
-      "4919",
-      "Planetary explorers",
-      "traveling freely to Yardang drive!"
-    ],
-    "srcUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 62,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 40,
-    "slug": "what-is-airglow-this-glowing-light-is-not-an-aurora",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2023/06/Jun-18-23-Makrem-Larnaout-Morneg-Tunisia-AIR-GLOW-e1687947935843.jpg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "O que é airglow? Esta luz brilhante não é uma aurora",
-    "title_pt": "O que é airglow? Esta luz brilhante não é uma aurora",
-    "title_en": "What is airglow? This glowing light is not an aurora",
-    "sub": "Airglow é uma luz que ocorre no alto da atmosfera da Terra. Geralmente é muito escuro para ver a olho nu, mas os fotógrafos podem tirar fotos gloriosas dele. O post O que é.",
-    "sub_pt": "Airglow é uma luz que ocorre no alto da atmosfera da Terra. Geralmente é muito escuro para ver a olho nu, mas os fotógrafos podem tirar fotos gloriosas dele. O post O que é.",
-    "sub_en": "Airglow is a light that occurs high in Earth's atmosphere. It's usually too dim to see with the eye, but photographers can capture glorious photographs of it. The post What is.",
-    "excerpt": "Airglow é uma luz que ocorre no alto da atmosfera da Terra. Geralmente é muito escuro para ver a olho nu, mas os fotógrafos podem tirar fotos gloriosas dele. O post O que é airglow? Esta luz brilhante não é uma aurora que apareceu pela primeira vez.",
-    "excerpt_pt": "Airglow é uma luz que ocorre no alto da atmosfera da Terra. Geralmente é muito escuro para ver a olho nu, mas os fotógrafos podem tirar fotos gloriosas dele. O post O que é airglow? Esta luz brilhante não é uma aurora que apareceu pela primeira vez.",
-    "excerpt_en": "Airglow is a light that occurs high in Earth's atmosphere. It's usually too dim to see with the eye, but photographers can capture glorious photographs of it. The post What is airglow? This glowing light is not an aurora first appeared on.",
-    "body": "<p>Airglow é uma luz que ocorre no alto da atmosfera da Terra. Geralmente é muito escuro para ver a olho nu, mas os fotógrafos podem tirar fotos gloriosas dele. O post O que é airglow? Esta luz brilhante não é uma aurora que apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Airglow é uma luz que ocorre no alto da atmosfera da Terra. | Makrem Larnaout em Morneg, Tunísia, capturou esta imagem, com brilho aéreo, em 18 de junho de 2023.</p><p>Para saber as novidades da ciência e do céu noturno, clique aqui para assinar nosso boletim informativo diário gratuito. Airglow é a luz de átomos excitados no alto da atmosfera da Terra.</p><p>Veja como o Observatório da Terra da NASA descreve o brilho do ar: O fenômeno normalmente ocorre quando moléculas (principalmente nitrogênio e oxigênio) são energizadas pela. Já em 1935, Lord Rayleigh percebeu que o pico de brilho do ar ocorre durante os anos próximos ao máximo solar.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/what-is-airglow-not-aurora/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Airglow é uma luz que ocorre no alto da atmosfera da Terra. Geralmente é muito escuro para ver a olho nu, mas os fotógrafos podem tirar fotos gloriosas dele. O post O que é airglow? Esta luz brilhante não é uma aurora que apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Airglow é uma luz que ocorre no alto da atmosfera da Terra. | Makrem Larnaout em Morneg, Tunísia, capturou esta imagem, com brilho aéreo, em 18 de junho de 2023.</p><p>Para saber as novidades da ciência e do céu noturno, clique aqui para assinar nosso boletim informativo diário gratuito. Airglow é a luz de átomos excitados no alto da atmosfera da Terra.</p><p>Veja como o Observatório da Terra da NASA descreve o brilho do ar: O fenômeno normalmente ocorre quando moléculas (principalmente nitrogênio e oxigênio) são energizadas pela. Já em 1935, Lord Rayleigh percebeu que o pico de brilho do ar ocorre durante os anos próximos ao máximo solar.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/what-is-airglow-not-aurora/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Airglow is a light that occurs high in Earth&#x27;s atmosphere. It&#x27;s usually too dim to see with the eye, but photographers can capture glorious photographs of it. The post What is airglow? This glowing light is not an aurora first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Airglow is a light that occurs high in Earth&#x27;s atmosphere. | Makrem Larnaout in Morneg, Tunisia, captured this image, with airglow, on June 18, 2023.</p><p>For the latest in science and the night sky, click here to subscribe to our free daily newsletter. Airglow is the light of excited atoms high in Earth’s atmosphere.</p><p>Here’s how NASA’s Earth Observatory describes airglow: The phenomenon typically occurs when molecules (mostly nitrogen and oxygen) are energized by ultraviolet (UV) radiation from. As long ago as 1935, Lord Rayleigh realized that airglow peaks during years around solar maximum.</p><p>Modern studies (e. g, 2011 and 2015 have confirmed the effect. And airglow is up to 40% brighter when the sun is most active.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>| Julie Machado captured this image from New Zealand on November 16, 2025. | Meiying Lee in Mount Cook National Park, New Zealand, captured the Milky Way on March 19, 2026.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/what-is-airglow-not-aurora/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Airglow é uma luz que ocorre no alto da atmosfera da Terra. Geralmente é muito escuro para ver a olho nu, mas os fotógrafos podem tirar fotos.",
-      "Dado-chave: Airglow é uma luz que ocorre no alto da atmosfera da Terra.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Airglow é uma luz que ocorre no alto da atmosfera da Terra. Geralmente é muito escuro para ver a olho nu, mas os fotógrafos podem tirar fotos.",
-      "Dado-chave: Airglow é uma luz que ocorre no alto da atmosfera da Terra.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Airglow is a light that occurs high in Earth's atmosphere. It's usually too dim to see with the eye, but photographers can capture glorious.",
-      "Key detail: Airglow is a light that occurs high in Earth's atmosphere.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "11 jun 2026",
-    "date_pt": "11 jun 2026",
-    "date_en": "11 Jun 2026",
-    "time": "06h01",
-    "time_pt": "06h01",
-    "time_en": "06:01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-11T06:01:05+00:00",
-    "lastModifiedIso": "2026-06-11T06:01:05+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "O que é airglow? Esta luz brilhante não é uma aurora"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "O que é airglow? Esta luz brilhante não é uma aurora"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "What is airglow? This bright light is not an aurora"
-    ],
-    "srcUrl": "https://earthsky.org/earth/what-is-airglow-not-aurora/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=what-is-airglow-this-glowing-light-is-not-an-aurora",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=what-is-airglow-this-glowing-light-is-not-an-aurora",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=what-is-airglow-this-glowing-light-is-not-an-aurora&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 73,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
     }
   }
 ];

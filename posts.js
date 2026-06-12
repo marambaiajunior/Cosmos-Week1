@@ -40,14 +40,14 @@ window.postsData = [
     "date": "12 jun 2026",
     "date_pt": "12 jun 2026",
     "date_en": "12 Jun 2026",
-    "time": "01h58",
-    "time_pt": "01h58",
-    "time_en": "01:58 UTC",
+    "time": "06h53",
+    "time_pt": "06h53",
+    "time_en": "06:53 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-12T01:58:25.181099+00:00",
-    "lastModifiedIso": "2026-06-12T01:58:25.181099+00:00",
+    "publishedIso": "2026-06-12T06:53:17.605524+00:00",
+    "lastModifiedIso": "2026-06-12T06:53:17.605524+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -148,14 +148,14 @@ window.postsData = [
     "date": "12 jun 2026",
     "date_pt": "12 jun 2026",
     "date_en": "12 Jun 2026",
-    "time": "01h58",
-    "time_pt": "01h58",
-    "time_en": "01:58 UTC",
+    "time": "06h53",
+    "time_pt": "06h53",
+    "time_en": "06:53 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-12T01:58:25.181054+00:00",
-    "lastModifiedIso": "2026-06-12T01:58:25.181054+00:00",
+    "publishedIso": "2026-06-12T06:53:17.605478+00:00",
+    "lastModifiedIso": "2026-06-12T06:53:17.605478+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -253,14 +253,14 @@ window.postsData = [
     "date": "12 jun 2026",
     "date_pt": "12 jun 2026",
     "date_en": "12 Jun 2026",
-    "time": "01h58",
-    "time_pt": "01h58",
-    "time_en": "01:58 UTC",
+    "time": "06h53",
+    "time_pt": "06h53",
+    "time_en": "06:53 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-12T01:58:25.181013+00:00",
-    "lastModifiedIso": "2026-06-12T01:58:25.181013+00:00",
+    "publishedIso": "2026-06-12T06:53:17.605431+00:00",
+    "lastModifiedIso": "2026-06-12T06:53:17.605431+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -358,14 +358,14 @@ window.postsData = [
     "date": "12 jun 2026",
     "date_pt": "12 jun 2026",
     "date_en": "12 Jun 2026",
-    "time": "01h58",
-    "time_pt": "01h58",
-    "time_en": "01:58 UTC",
+    "time": "06h53",
+    "time_pt": "06h53",
+    "time_en": "06:53 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-12T01:58:25.180966+00:00",
-    "lastModifiedIso": "2026-06-12T01:58:25.180966+00:00",
+    "publishedIso": "2026-06-12T06:53:17.605382+00:00",
+    "lastModifiedIso": "2026-06-12T06:53:17.605382+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -463,14 +463,14 @@ window.postsData = [
     "date": "12 jun 2026",
     "date_pt": "12 jun 2026",
     "date_en": "12 Jun 2026",
-    "time": "01h58",
-    "time_pt": "01h58",
-    "time_en": "01:58 UTC",
+    "time": "06h53",
+    "time_pt": "06h53",
+    "time_en": "06:53 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-12T01:58:25.180925+00:00",
-    "lastModifiedIso": "2026-06-12T01:58:25.180925+00:00",
+    "publishedIso": "2026-06-12T06:53:17.605340+00:00",
+    "lastModifiedIso": "2026-06-12T06:53:17.605340+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -531,6 +531,275 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "conversations-in-the-sky-galileo-s-intersatellite-links-tested",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/antenna_pointing_mechanism_for_galileo_second_generation_intersatellite_links_thales_alenia_space/27318988-1-eng-GB/Antenna_pointing_mechanism_for_Galileo_second_generation_intersatellite_links_Thales_Alenia_Space_card_full.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/thales_alenia_space_s_antenna_pointing_mechanism_for_galileo_second_generation_satellites/27319197-1-eng-GB/Thales_Alenia_Space_s_antenna_pointing_mechanism_for_Galileo_second_generation_satellites_article.gif",
+        "caption": "Mecanismo de apontamento de antena da Thales Alenia Space para satélites Galileo de segunda geração",
+        "caption_pt": "Mecanismo de apontamento de antena da Thales Alenia Space para satélites Galileo de segunda geração",
+        "caption_en": "Thales Alenia Space’s antenna pointing mechanism for Galileo second generation satellites",
+        "alt": "Mecanismo de apontamento de antena da Thales Alenia Space para satélites Galileo de segunda geração",
+        "alt_pt": "Mecanismo de apontamento de antena da Thales Alenia Space para satélites Galileo de segunda geração",
+        "alt_en": "Thales Alenia Space’s antenna pointing mechanism for Galileo second generation satellites"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/esa_and_airbus_defence_and_space_during_testing_of_the_antenna_pointing_mechanism_for_galileo_second_generation_satellites/27319309-1-eng-GB/ESA_and_Airbus_Defence_and_Space_during_testing_of_the_antenna_pointing_mechanism_for_Galileo_second_generation_satellites_article.jpg",
+        "caption": "ESA e Airbus Defence and Space durante teste do mecanismo de apontamento de antena para satélites Galileo de segunda geração",
+        "caption_pt": "ESA e Airbus Defence and Space durante teste do mecanismo de apontamento de antena para satélites Galileo de segunda geração",
+        "caption_en": "ESA and Airbus Defence and Space during testing of the antenna pointing mechanism for Galileo second generation satellites",
+        "alt": "ESA e Airbus Defence and Space durante teste do mecanismo de apontamento de antena para satélites Galileo de segunda geração",
+        "alt_pt": "ESA e Airbus Defence and Space durante teste do mecanismo de apontamento de antena para satélites Galileo de segunda geração",
+        "alt_en": "ESA and Airbus Defence and Space during testing of the antenna pointing mechanism for Galileo second generation satellites"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/antenna_pointing_mechanism_for_galileo_second_generation_intersatellite_links_airbus_defence_and_space/27319263-1-eng-GB/Antenna_pointing_mechanism_for_Galileo_second_generation_intersatellite_links_Airbus_Defence_and_Space_article.gif",
+        "caption": "Mecanismo de apontamento de antena para links intersatélites de segunda geração Galileo, Airbus Defence and Space",
+        "caption_pt": "Mecanismo de apontamento de antena para links intersatélites de segunda geração Galileo, Airbus Defence and Space",
+        "caption_en": "Antenna pointing mechanism for Galileo second generation intersatellite links, Airbus Defence and Space",
+        "alt": "Mecanismo de apontamento de antena para links intersatélites de segunda geração Galileo, Airbus Defence and Space",
+        "alt_pt": "Mecanismo de apontamento de antena para links intersatélites de segunda geração Galileo, Airbus Defence and Space",
+        "alt_en": "Antenna pointing mechanism for Galileo second generation intersatellite links, Airbus Defence and Space"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Conversas no céu: links intersatélites do Galileo testados",
+    "title_pt": "Conversas no céu: links intersatélites do Galileo testados",
+    "title_en": "Conversations in the sky: Galileo’s intersatellite links tested",
+    "sub": "A segunda geração do Galileo, a constelação europeia de navegação por satélite, está a ser construída. Esses satélites contarão com cargas reconfiguráveis, fornecerão.",
+    "sub_pt": "A segunda geração do Galileo, a constelação europeia de navegação por satélite, está a ser construída. Esses satélites contarão com cargas reconfiguráveis, fornecerão.",
+    "sub_en": "The second generation of Galileo, Europe’s satellite navigation constellation, is being built. These satellites will feature reconfigurable payloads, provide more robust and.",
+    "excerpt": "A segunda geração do Galileo, a constelação europeia de navegação por satélite, está a ser construída. Esses satélites contarão com cargas reconfiguráveis, fornecerão posicionamento, navegação e temporização mais robustos e confiáveis ​​e permitirão novos.",
+    "excerpt_pt": "A segunda geração do Galileo, a constelação europeia de navegação por satélite, está a ser construída. Esses satélites contarão com cargas reconfiguráveis, fornecerão posicionamento, navegação e temporização mais robustos e confiáveis ​​e permitirão novos.",
+    "excerpt_en": "The second generation of Galileo, Europe’s satellite navigation constellation, is being built. These satellites will feature reconfigurable payloads, provide more robust and reliable positioning, navigation and timing, enable new services.",
+    "body": "<p>A segunda geração do Galileo, a constelação europeia de navegação por satélite, está a ser construída. Esses satélites contarão com cargas reconfiguráveis, fornecerão posicionamento, navegação e temporização mais robustos e confiáveis ​​e permitirão novos serviços. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Com ligações intersatélites, a nova geração de satélites Galileo será capaz de comunicar diretamente entre si em órbita, trocando informações sobre tempo e localização. Estes testes estão a ser realizados pela Thales Alenia Space e pela Airbus Defence and Space, as empresas que lideram o desenvolvimento das duas famílias de satélites Galileo de.</p><p>O mecanismo apontador do terminal reorientará a antena a cada 40 segundos para apontar para um satélite diferente. Ao longo da vida útil esperada de 15 anos dos satélites, isto equivalerá a 12 milhões de reorientações.</p><p>Para garantir que o mecanismo apontador da antena funcione no espaço, sem qualquer manutenção, modelos do mecanismo foram testados aqui na Terra. Num teste de sete meses nas instalações da Beyond Gravity na Suíça, concluído em março de 2026, o mecanismo apontador da antena da Thales Alenia Space reorientou-se 15 milhões de.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Satellite_navigation/Conversations_in_the_sky_Galileo_s_intersatellite_links_tested\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A segunda geração do Galileo, a constelação europeia de navegação por satélite, está a ser construída. Esses satélites contarão com cargas reconfiguráveis, fornecerão posicionamento, navegação e temporização mais robustos e confiáveis ​​e permitirão novos serviços. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Com ligações intersatélites, a nova geração de satélites Galileo será capaz de comunicar diretamente entre si em órbita, trocando informações sobre tempo e localização. Estes testes estão a ser realizados pela Thales Alenia Space e pela Airbus Defence and Space, as empresas que lideram o desenvolvimento das duas famílias de satélites Galileo de.</p><p>O mecanismo apontador do terminal reorientará a antena a cada 40 segundos para apontar para um satélite diferente. Ao longo da vida útil esperada de 15 anos dos satélites, isto equivalerá a 12 milhões de reorientações.</p><p>Para garantir que o mecanismo apontador da antena funcione no espaço, sem qualquer manutenção, modelos do mecanismo foram testados aqui na Terra. Num teste de sete meses nas instalações da Beyond Gravity na Suíça, concluído em março de 2026, o mecanismo apontador da antena da Thales Alenia Space reorientou-se 15 milhões de.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Satellite_navigation/Conversations_in_the_sky_Galileo_s_intersatellite_links_tested\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The second generation of Galileo, Europe’s satellite navigation constellation, is being built. These satellites will feature reconfigurable payloads, provide more robust and reliable positioning, navigation and timing, enable new services. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. With intersatellite links, the new generation of Galileo satellites will be able to talk directly to one another in orbit, exchanging information on timing and location. These tests are being carried out under Thales Alenia Space and Airbus Defence and Space, the companies leading the development of the two families of Galileo Second Generation.</p><p>The pointing mechanism of the terminal will reorient the antenna every 40 seconds to point towards a different satellite. Over the expected 15-year lifetime of the satellites, this will amount to 12 million reorientations.</p><p>To ensure the antenna pointing mechanism will work in space, without any maintenance, models of the mechanism were tested here on Earth. In a seven-months-long test at Beyond Gravity’s facilities in Switzerland that finished in March 2026, the antenna pointing mechanism for Thales Alenia Space reoriented itself 15.</p><p>Tests on key mechanical components of the antenna pointing mechanism of the Airbus Defence and Space satellite family were completed by MDA Montreal in February 2025. These tests verified that the components will be able to last 15 years in space.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Even as individual mechanical components were being tested, teams from ESA, Airbus Defence and Space and TESAT also completed the Test Readiness Review for the first flight model. The flight model of the antenna pointing mechanism, which will actually fly in space, completed environmental and radio frequency testing at MDA Canada in December 2025.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Satellite_navigation/Conversations_in_the_sky_Galileo_s_intersatellite_links_tested\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A segunda geração do Galileo, a constelação europeia de navegação por satélite, está a ser construída. Esses satélites contarão com cargas.",
+      "Dado-chave: Com ligações intersatélites, a nova geração de satélites Galileo será capaz de comunicar diretamente entre si em órbita, trocando informações.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A segunda geração do Galileo, a constelação europeia de navegação por satélite, está a ser construída. Esses satélites contarão com cargas.",
+      "Dado-chave: Com ligações intersatélites, a nova geração de satélites Galileo será capaz de comunicar diretamente entre si em órbita, trocando informações.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The second generation of Galileo, Europe’s satellite navigation constellation, is being built. These satellites will feature reconfigurable payloads.",
+      "Key detail: With intersatellite links, the new generation of Galileo satellites will be able to talk directly to one another in orbit, exchanging.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "12 jun 2026",
+    "date_pt": "12 jun 2026",
+    "date_en": "12 Jun 2026",
+    "time": "06h45",
+    "time_pt": "06h45",
+    "time_en": "06:45 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-12T06:45:00+00:00",
+    "lastModifiedIso": "2026-06-12T06:45:00+00:00",
+    "source": "ESA Space News",
+    "sourceDomain": "www.esa.int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Space News",
+      "Cosmos Week",
+      "Conversas no céu",
+      "links intersatélites do Galileo testados"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Space News",
+      "Cosmos Week",
+      "Conversas no céu",
+      "links intersatélites do Galileo testados"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Space News",
+      "Cosmos Week",
+      "Conversations in the sky",
+      "Galileo intersatellite links tested"
+    ],
+    "srcUrl": "https://www.esa.int/Applications/Satellite_navigation/Conversations_in_the_sky_Galileo_s_intersatellite_links_tested",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=conversations-in-the-sky-galileo-s-intersatellite-links-tested",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=conversations-in-the-sky-galileo-s-intersatellite-links-tested",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=conversations-in-the-sky-galileo-s-intersatellite-links-tested&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 72,
+    "scoreBreakdown": {
+      "source": 80,
+      "evidence": 82,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
+    "slug": "world-cup-fever-in-guadalajara",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/world-cup-fever-in-guadalajara/guadalajara_tm5_19860413.jpg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pollution's-daily-pulse-over-the-northeast/newyork_tempo_no2_20260518_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Um mapa do dióxido de nitrogênio matinal mostra concentrações elevadas do gás em uma região que se estende da cidade de Nova York a Washington, D.C., às 7h05 do dia 18 de maio de 2026. Um segundo mapa da mesma área mostra concentrações muito mais baixas naquela tarde.",
+        "caption_pt": "Um mapa do dióxido de nitrogênio matinal mostra concentrações elevadas do gás em uma região que se estende da cidade de Nova York a Washington, D.C., às 7h05 do dia 18 de maio de 2026. Um segundo mapa da mesma área mostra concentrações muito mais baixas naquela tarde.",
+        "caption_en": "A map of morning nitrogen dioxide shows elevated concentrations of the gas over a region stretching from New York City to Washington, D.C., at 7:05 a.m. on May 18, 2026. A second map of the same area shows much lower concentrations that afternoon.",
+        "alt": "Um mapa do dióxido de nitrogênio matinal mostra concentrações elevadas do gás em uma região que se estende da cidade de Nova York a Washington, D.C., às 7h05 do dia 18 de maio de 2026. Um segundo mapa da mesma área mostra concentrações muito mais baixas naquela tarde.",
+        "alt_pt": "Um mapa do dióxido de nitrogênio matinal mostra concentrações elevadas do gás em uma região que se estende da cidade de Nova York a Washington, D.C., às 7h05 do dia 18 de maio de 2026. Um segundo mapa da mesma área mostra concentrações muito mais baixas naquela tarde.",
+        "alt_en": "A map of morning nitrogen dioxide shows elevated concentrations of the gas over a region stretching from New York City to Washington, D.C., at 7:05 a.m. on May 18, 2026. A second map of the same area shows much lower concentrations that afternoon."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/world-cup-fever-in-guadalajara/guadalajara_tm5_19860413.jpg?w=1440&h=1200&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": ": Imagens de Guadalajara em 1986 (esquerda) e 2026 (direita) mostram a cidade se expandindo para o oeste em uma área que antes era composta principalmente de terras agrícolas. O Estádio de Guadalajara aparece como um pequeno elemento circular no lado esquerdo da imagem de 2026.",
+        "caption_pt": ": Imagens de Guadalajara em 1986 (esquerda) e 2026 (direita) mostram a cidade se expandindo para o oeste em uma área que antes era composta principalmente de terras agrícolas. O Estádio de Guadalajara aparece como um pequeno elemento circular no lado esquerdo da imagem de 2026.",
+        "caption_en": ": Images of Guadalajara in 1986 (left) and 2026 (right) shows the city expanding westward into an area that had been mostly farmland. Guadalajara Stadium appears as a small circular feature on the left side of the 2026 image.",
+        "alt": ": Imagens de Guadalajara em 1986 (esquerda) e 2026 (direita) mostram a cidade se expandindo para o oeste em uma área que antes era composta principalmente de terras agrícolas. O Estádio de Guadalajara aparece como um pequeno elemento circular no lado esquerdo da imagem de 2026.",
+        "alt_pt": ": Imagens de Guadalajara em 1986 (esquerda) e 2026 (direita) mostram a cidade se expandindo para o oeste em uma área que antes era composta principalmente de terras agrícolas. O Estádio de Guadalajara aparece como um pequeno elemento circular no lado esquerdo da imagem de 2026.",
+        "alt_en": ": Images of Guadalajara in 1986 (left) and 2026 (right) shows the city expanding westward into an area that had been mostly farmland. Guadalajara Stadium appears as a small circular feature on the left side of the 2026 image."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/world-cup-fever-in-guadalajara/guadalajara_oli_20260427.jpg?w=1440&h=1200&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Imagens de Guadalajara em 1986 (esquerda) e 2026 (direita) mostram a cidade se expandindo para o oeste em uma área que era composta principalmente de terras agrícolas. O Estádio de Guadalajara aparece como um pequeno elemento circular no lado esquerdo da imagem de 2026.",
+        "caption_pt": "Imagens de Guadalajara em 1986 (esquerda) e 2026 (direita) mostram a cidade se expandindo para o oeste em uma área que era composta principalmente de terras agrícolas. O Estádio de Guadalajara aparece como um pequeno elemento circular no lado esquerdo da imagem de 2026.",
+        "caption_en": "Images of Guadalajara in 1986 (left) and 2026 (right) shows the city expanding westward into an area that had been mostly farmland. Guadalajara Stadium appears as a small circular feature on the left side of the 2026 image.",
+        "alt": "Imagens de Guadalajara em 1986 (esquerda) e 2026 (direita) mostram a cidade se expandindo para o oeste em uma área que era composta principalmente de terras agrícolas. O Estádio de Guadalajara aparece como um pequeno elemento circular no lado esquerdo da imagem de 2026.",
+        "alt_pt": "Imagens de Guadalajara em 1986 (esquerda) e 2026 (direita) mostram a cidade se expandindo para o oeste em uma área que era composta principalmente de terras agrícolas. O Estádio de Guadalajara aparece como um pequeno elemento circular no lado esquerdo da imagem de 2026.",
+        "alt_en": "Images of Guadalajara in 1986 (left) and 2026 (right) shows the city expanding westward into an area that had been mostly farmland. Guadalajara Stadium appears as a small circular feature on the left side of the 2026 image."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Febre da Copa do Mundo em Guadalajara",
+    "title_pt": "Febre da Copa do Mundo em Guadalajara",
+    "title_en": "World Cup Fever in Guadalajara",
+    "sub": "A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo, em 1986, expandindo-se por uma paisagem moldada por antigos vulcões.",
+    "sub_pt": "A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo, em 1986, expandindo-se por uma paisagem moldada por antigos vulcões.",
+    "sub_en": "The city’s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient volcanoes.",
+    "excerpt": "A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo, em 1986, expandindo-se por uma paisagem moldada por antigos vulcões.",
+    "excerpt_pt": "A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo, em 1986, expandindo-se por uma paisagem moldada por antigos vulcões.",
+    "excerpt_en": "The city’s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient volcanoes.",
+    "body": "<p>A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo, em 1986, expandindo-se por uma paisagem moldada por antigos vulcões. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Observatório da Terra da NASA / Lauren Dauphin 13 de abril de 1986 27 de abril de 2026 13 de abril de 1986, 27 de abril de 2026 Detalhes da imagem 2-Up de alternância de cortina. O novo estádio, construído em 2010 para receber o Club Deportivo Guadalajara, ou Chivas, do México, fica perto do complexo vulcânico Sierra la Primavera, uma paisagem acidentada.</p><p>Durante a lendária disputa pelo título do Brasil em 1970, quando Pelé liderou o time, o Estádio Jalisco foi palco das partidas da primeira fase, quartas de final e semifinais do. NASA (2026, 8 de junho) Como a NASA Science e a Artemis estão moldando a Copa do Mundo FIFA de 2026.</p><p>Observatório da Terra da NASA (2022, 19 de novembro) Stadium City Qatar. Observatório da Terra da NASA (2014, 16 de junho) Estádio Nacional de Brasília.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo, em 1986, expandindo-se por uma paisagem moldada por antigos vulcões. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Observatório da Terra da NASA / Lauren Dauphin 13 de abril de 1986 27 de abril de 2026 13 de abril de 1986, 27 de abril de 2026 Detalhes da imagem 2-Up de alternância de cortina. O novo estádio, construído em 2010 para receber o Club Deportivo Guadalajara, ou Chivas, do México, fica perto do complexo vulcânico Sierra la Primavera, uma paisagem acidentada.</p><p>Durante a lendária disputa pelo título do Brasil em 1970, quando Pelé liderou o time, o Estádio Jalisco foi palco das partidas da primeira fase, quartas de final e semifinais do. NASA (2026, 8 de junho) Como a NASA Science e a Artemis estão moldando a Copa do Mundo FIFA de 2026.</p><p>Observatório da Terra da NASA (2022, 19 de novembro) Stadium City Qatar. Observatório da Terra da NASA (2014, 16 de junho) Estádio Nacional de Brasília.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The city’s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient volcanoes. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. NASA Earth Observatory / Lauren Dauphin April 13, 1986 April 27, 2026 April 13, 1986, April 27, 2026 Curtain Toggle 2-Up Image Details A pair of Landsat images shows 40 years of. The new stadium, built in 2010 to host Mexico’s Club Deportivo Guadalajara, or Chivas, lies near the Sierra la Primavera volcanic complex, a rugged landscape full of lava flows.</p><p>During Brazil’s legendary title run in 1970, when Pelé led the team, Jalisco Stadium was the venue for Brazil’s first-round, quarterfinal, and semifinal matches. NASA (2026, June 8) How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup.</p><p>NASA Earth Observatory (2022, November 19) Stadium City Qatar. NASA Earth Observatory (2014, June 16) National Stadium of Brasília.</p><p>NASA Earth Observatory / Lauren Dauphin April 13, 1986 April 27, 2026 A pair of Landsat images shows 40 years of westward urban expansion from Guadalajara, Mexico. NASA Earth Observatory / Lauren Dauphin April 13, 1986 April 27, 2026 April 13, 1986, April 27, 2026 A pair of Landsat images shows 40 years of westward urban expansion from.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The new stadium, built in 2010 to host Mexico&#x27;s Club Deportivo Guadalajara, or Chivas, lies near the Sierra la Primavera volcanic complex, a rugged landscape full of lava flows. The population of the Guadalajara metro area has grown from about 2.7 million in 1986 to more than 5.5 million now, with particularly rapid growth in Zapopan, a burgeoning tech.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo, em 1986, expandindo-se por uma paisagem.",
+      "Dado-chave: Observatório da Terra da NASA / Lauren Dauphin 13 de abril de 1986 27 de abril de 2026 13 de abril de 1986, 27 de abril de 2026 Detalhes da.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo, em 1986, expandindo-se por uma paisagem.",
+      "Dado-chave: Observatório da Terra da NASA / Lauren Dauphin 13 de abril de 1986 27 de abril de 2026 13 de abril de 1986, 27 de abril de 2026 Detalhes da.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The city’s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient volcanoes.",
+      "Key detail: NASA Earth Observatory / Lauren Dauphin April 13, 1986 April 27, 2026 April 13, 1986, April 27, 2026 Curtain Toggle 2-Up Image Details A pair of.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "12 jun 2026",
+    "date_pt": "12 jun 2026",
+    "date_en": "12 Jun 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04:01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-12T04:01:00+00:00",
+    "lastModifiedIso": "2026-06-12T04:01:00+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Febre da Copa do Mundo em Guadalajara"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Febre da Copa do Mundo em Guadalajara"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "World Cup fever in Guadalajara"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=world-cup-fever-in-guadalajara",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=world-cup-fever-in-guadalajara",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=world-cup-fever-in-guadalajara&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 8,
     "slug": "a-look-at-the-spacex-ipo-by-the-numbers",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -649,7 +918,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -663,7 +932,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 9,
     "slug": "cosmic-dawn-fuel-discovery-unlocks-early-galaxy-growth-secrets",
     "cat": "Química",
     "catCls": "quimica",
@@ -796,7 +1065,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 10,
     "slug": "the-shape-of-a-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -920,494 +1189,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
-    "slug": "written-in-rock",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.universetoday.com/article_images/lossy-page1-1280px-FullMoon2020.tif_20260611_224234.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/panorama1_20260611_223841.jpeg",
-        "caption": "O local de pouso da Apollo 17 (Crédito: NASA)",
-        "caption_pt": "O local de pouso da Apollo 17 (Crédito: NASA)",
-        "caption_en": "The landing site of Apollo 17 (Credit : NASA)",
-        "alt": "O local de pouso da Apollo 17 (Crédito: NASA)",
-        "alt_pt": "O local de pouso da Apollo 17 (Crédito: NASA)",
-        "alt_en": "The landing site of Apollo 17 (Credit : NASA)"
-      },
-      {
-        "src": "https://www.universetoday.com/article_images/Lunaite_lunar_breccia_Northwest_Africa_8586_Meteorite_4_17381662662_1_20260611_224218.jpg",
-        "caption": "Meteorito de brecha lunar como o usado neste estudo recente (Crédito: James St Johns)",
-        "caption_pt": "Meteorito de brecha lunar como o usado neste estudo recente (Crédito: James St Johns)",
-        "caption_en": "Lunar breccia meteorite like that used in this recent study (Credit : James St Johns)",
-        "alt": "Meteorito de brecha lunar como o usado neste estudo recente (Crédito: James St Johns)",
-        "alt_pt": "Meteorito de brecha lunar como o usado neste estudo recente (Crédito: James St Johns)",
-        "alt_en": "Lunar breccia meteorite like that used in this recent study (Credit : James St Johns)"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Escrito em Rock",
-    "title_pt": "Escrito em Rock",
-    "title_en": "Written in Rock",
-    "sub": "Uma pequena rocha encontrada no deserto africano acaba de oferecer aos cientistas uma janela extraordinária para um dos períodos mais violentos e importantes da história do.",
-    "sub_pt": "Uma pequena rocha encontrada no deserto africano acaba de oferecer aos cientistas uma janela extraordinária para um dos períodos mais violentos e importantes da história do.",
-    "sub_en": "A small rock found in the African desert has just handed scientists an extraordinary window into one of the most violent and consequential periods in the history of the Solar.",
-    "excerpt": "Uma pequena rocha encontrada no deserto africano acaba de oferecer aos cientistas uma janela extraordinária para um dos períodos mais violentos e importantes da história do Sistema Solar. Dentro deste meteorito lunar, um pedaço da Lua caiu.",
-    "excerpt_pt": "Uma pequena rocha encontrada no deserto africano acaba de oferecer aos cientistas uma janela extraordinária para um dos períodos mais violentos e importantes da história do Sistema Solar. Dentro deste meteorito lunar, um pedaço da Lua caiu.",
-    "excerpt_en": "A small rock found in the African desert has just handed scientists an extraordinary window into one of the most violent and consequential periods in the history of the Solar System. Inside this lunar meteorite, a chunk of the Moon knocked.",
-    "body": "<p>Uma pequena rocha encontrada no deserto africano acaba de oferecer aos cientistas uma janela extraordinária para um dos períodos mais violentos e importantes da história do Sistema Solar. Dentro deste meteorito lunar, um pedaço da Lua caiu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Dentro deste meteorito lunar, um pedaço da Lua derrubado na Terra por uma colisão antiga, os investigadores encontraram evidências de um evento de impacto massivo há 3,5 mil. Pegue um punhado de terra do seu jardim e você terá material que foi reciclado, erodido, subduzido e refeito tantas vezes que quase nada da Terra original sobreviveu.</p><p>Se quisermos saber o que estava a acontecer aqui há 3,5 mil milhões de anos, quando a vida estava apenas a começar a tomar a sua primeira influência no mundo, temos de procurar. A Lua partilha a nossa vizinhança e a nossa história de impacto, mas não partilha a nossa convulsão geológica.</p><p>O meteorito, catalogado como NWA 12593, originou-se na Lua. Em algum momento do passado mais recente, uma colisão derrubou-o da superfície lunar e enviou-o numa lenta viagem em direção à Terra, onde finalmente caiu e foi encontrado.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/written-in-rock\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Uma pequena rocha encontrada no deserto africano acaba de oferecer aos cientistas uma janela extraordinária para um dos períodos mais violentos e importantes da história do Sistema Solar. Dentro deste meteorito lunar, um pedaço da Lua caiu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Dentro deste meteorito lunar, um pedaço da Lua derrubado na Terra por uma colisão antiga, os investigadores encontraram evidências de um evento de impacto massivo há 3,5 mil. Pegue um punhado de terra do seu jardim e você terá material que foi reciclado, erodido, subduzido e refeito tantas vezes que quase nada da Terra original sobreviveu.</p><p>Se quisermos saber o que estava a acontecer aqui há 3,5 mil milhões de anos, quando a vida estava apenas a começar a tomar a sua primeira influência no mundo, temos de procurar. A Lua partilha a nossa vizinhança e a nossa história de impacto, mas não partilha a nossa convulsão geológica.</p><p>O meteorito, catalogado como NWA 12593, originou-se na Lua. Em algum momento do passado mais recente, uma colisão derrubou-o da superfície lunar e enviou-o numa lenta viagem em direção à Terra, onde finalmente caiu e foi encontrado.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/written-in-rock\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A small rock found in the African desert has just handed scientists an extraordinary window into one of the most violent and consequential periods in the history of the Solar System. Inside this lunar meteorite, a chunk of the Moon knocked. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Inside this lunar meteorite, a chunk of the Moon knocked to Earth by an ancient collision, researchers have found evidence of a massive impact event 3.5 billion years ago, one. Pick up a handful of soil from your garden and you&#x27;re holding material that has been recycled, eroded, subducted, and remade so many times that almost nothing of the original.</p><p>If you want to know what was happening here 3.5 billion years ago, when life was just beginning to take its first tentative hold on the world, you have to look somewhere else. The Moon shares our neighbourhood and our impact history, but it doesn&#x27;t share our geological upheaval.</p><p>The meteorite, catalogued as NWA 12593, originated on the Moon. At some point in the more recent past, a collision knocked it off the lunar surface and sent it on a slow journey toward Earth, where it eventually fell and was found.</p><p>Cubic zirconia is fragile at low temperatures and rarely survives in nature so finding traces of it in this meteorite is a fingerprint of something catastrophic. The meteorite itself is that very breccia, the third impact, relatively recent in geological terms, that simply launched it off the Moon toward us.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>That same 3.5 billion year window shows up in the impact record on Earth, and on 4 Vesta, one of the largest objects in the asteroid belt. It suggests a shared event, perhaps the breakup of a large asteroid sending a wave of debris cascading across the inner Solar System at exactly the moment life on Earth was.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/written-in-rock\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Uma pequena rocha encontrada no deserto africano acaba de oferecer aos cientistas uma janela extraordinária para um dos períodos mais violentos e.",
-      "Dado-chave: Dentro deste meteorito lunar, um pedaço da Lua derrubado na Terra por uma colisão antiga, os investigadores encontraram evidências de um evento.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Uma pequena rocha encontrada no deserto africano acaba de oferecer aos cientistas uma janela extraordinária para um dos períodos mais violentos e.",
-      "Dado-chave: Dentro deste meteorito lunar, um pedaço da Lua derrubado na Terra por uma colisão antiga, os investigadores encontraram evidências de um evento.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A small rock found in the African desert has just handed scientists an extraordinary window into one of the most violent and consequential periods in.",
-      "Key detail: Inside this lunar meteorite, a chunk of the Moon knocked to Earth by an ancient collision, researchers have found evidence of a massive impact.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "11 jun 2026",
-    "date_pt": "11 jun 2026",
-    "date_en": "11 Jun 2026",
-    "time": "22h31",
-    "time_pt": "22h31",
-    "time_en": "22:31 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-11T22:31:00+00:00",
-    "lastModifiedIso": "2026-06-11T22:31:00+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "Universe Today",
-      "Cosmos Week",
-      "Escrito em Rock"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "Universe Today",
-      "Cosmos Week",
-      "Escrito em Rock"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "Universe Today",
-      "Cosmos Week",
-      "Written in Rock"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/written-in-rock",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=written-in-rock",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=written-in-rock",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=written-in-rock&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 73,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "titan-s-hidden-blanket",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.universetoday.com/article_images/Titan_in_true_color_by_Kevin_M._Gill_20260611_222930.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/1280px-PIA17655_crop_Titan_north_polar_seas_and_lakes_20260611_222812.jpg",
-        "caption": "Mosaico de radar de abertura sintética Cassini de cor falsa e resolução média de Titã",
-        "caption_pt": "Mosaico de radar de abertura sintética Cassini de cor falsa e resolução média de Titã",
-        "caption_en": "False-colour, medium-resolution Cassini synthetic aperture radar mosaic of Titan",
-        "alt": "Mosaico de radar de abertura sintética Cassini de cor falsa e resolução média de Titã",
-        "alt_pt": "Mosaico de radar de abertura sintética Cassini de cor falsa e resolução média de Titã",
-        "alt_en": "False-colour, medium-resolution Cassini synthetic aperture radar mosaic of Titan"
-      },
-      {
-        "src": "https://www.universetoday.com/article_images/Titan-Complex_Anti-greenhouse_20260611_222916.jpg",
-        "caption": "Imagem em cores reais de camadas de neblina em Titã",
-        "caption_pt": "Imagem em cores reais de camadas de neblina em Titã",
-        "caption_en": "True-colour image of layers of haze in Titan",
-        "alt": "Imagem em cores reais de camadas de neblina em Titã",
-        "alt_pt": "Imagem em cores reais de camadas de neblina em Titã",
-        "alt_en": "True-colour image of layers of haze in Titan"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Cobertor Oculto do Titã",
-    "title_pt": "Cobertor Oculto do Titã",
-    "title_en": "Titan's Hidden Blanket",
-    "sub": "A lua de Saturno, Titã, há muito fascina os cientistas, é um mundo com rios, lagos e uma atmosfera densa, tudo feito não de água, mas de metano. Agora, um novo estudo sugere que.",
-    "sub_pt": "A lua de Saturno, Titã, há muito fascina os cientistas, é um mundo com rios, lagos e uma atmosfera densa, tudo feito não de água, mas de metano. Agora, um novo estudo sugere que.",
-    "sub_en": "Saturn's moon Titan has long fascinated scientists, it’s a world with rivers, lakes, and a thick atmosphere, all made not of water but of methane. Now, a new study suggests Titan.",
-    "excerpt": "A lua de Saturno, Titã, há muito fascina os cientistas, é um mundo com rios, lagos e uma atmosfera densa, tudo feito não de água, mas de metano. Agora, um novo estudo sugere que Titã é mais estranho do que se imaginava, pois está abaixo de sua superfície.",
-    "excerpt_pt": "A lua de Saturno, Titã, há muito fascina os cientistas, é um mundo com rios, lagos e uma atmosfera densa, tudo feito não de água, mas de metano. Agora, um novo estudo sugere que Titã é mais estranho do que se imaginava, pois está abaixo de sua superfície.",
-    "excerpt_en": "Saturn's moon Titan has long fascinated scientists, it’s a world with rivers, lakes, and a thick atmosphere, all made not of water but of methane. Now, a new study suggests Titan is stranger than first imagined since beneath its surface.",
-    "body": "<p>A lua de Saturno, Titã, há muito fascina os cientistas, é um mundo com rios, lagos e uma atmosfera densa, tudo feito não de água, mas de metano. Agora, um novo estudo sugere que Titã é mais estranho do que se imaginava, pois está abaixo de sua superfície. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A lua de Saturno, Titã, há muito fascina os cientistas, é um mundo com rios, lagos e uma atmosfera densa, tudo feito não de água, mas de metano. Agora, um novo estudo sugere que Titã é mais estranha do que se imaginava, uma vez que por baixo da sua superfície existe uma crosta de gelo com 9 km de espessura misturada com.</p><p>Aqui está uma pergunta que parece estranha demais para ser levada a sério: e se um dos mundos mais parecidos com a Terra no Sistema Solar for mantido aquecido por uma camada de. Bem-vindo a Titã e a uma descoberta que está reescrevendo silenciosamente o que pensávamos saber sobre a lua mais notável de Saturno.</p><p>É o único lugar no Sistema Solar, além da Terra, com uma atmosfera densa e o único lugar com rios, lagos e mares em sua superfície. As áreas brancas não foram fotografadas (Crédito: NASA/JPL-Caltech/Agenzia Spaziale Italiana/USGS) Mas os cientistas há muito tempo ficam intrigados com algo.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/titans-hidden-blanket\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A lua de Saturno, Titã, há muito fascina os cientistas, é um mundo com rios, lagos e uma atmosfera densa, tudo feito não de água, mas de metano. Agora, um novo estudo sugere que Titã é mais estranho do que se imaginava, pois está abaixo de sua superfície. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A lua de Saturno, Titã, há muito fascina os cientistas, é um mundo com rios, lagos e uma atmosfera densa, tudo feito não de água, mas de metano. Agora, um novo estudo sugere que Titã é mais estranha do que se imaginava, uma vez que por baixo da sua superfície existe uma crosta de gelo com 9 km de espessura misturada com.</p><p>Aqui está uma pergunta que parece estranha demais para ser levada a sério: e se um dos mundos mais parecidos com a Terra no Sistema Solar for mantido aquecido por uma camada de. Bem-vindo a Titã e a uma descoberta que está reescrevendo silenciosamente o que pensávamos saber sobre a lua mais notável de Saturno.</p><p>É o único lugar no Sistema Solar, além da Terra, com uma atmosfera densa e o único lugar com rios, lagos e mares em sua superfície. As áreas brancas não foram fotografadas (Crédito: NASA/JPL-Caltech/Agenzia Spaziale Italiana/USGS) Mas os cientistas há muito tempo ficam intrigados com algo.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/titans-hidden-blanket\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Saturn&#x27;s moon Titan has long fascinated scientists, it’s a world with rivers, lakes, and a thick atmosphere, all made not of water but of methane. Now, a new study suggests Titan is stranger than first imagined since beneath its surface. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Saturn&#x27;s moon Titan has long fascinated scientists, it’s a world with rivers, lakes, and a thick atmosphere, all made not of water but of methane. Now, a new study suggests Titan is stranger than first imagined since beneath its surface lies a 9 km thick crust of methane laced ice that acts like a giant thermal blanket.</p><p>Here&#x27;s a question that sounds almost too strange to take seriously: what if one of the most Earth like worlds in the Solar System is kept warm by a 9 km thick blanket of methane. Welcome to Titan and to a discovery that&#x27;s quietly rewriting what we thought we knew about Saturn&#x27;s most remarkable moon.</p><p>It&#x27;s the only place in the Solar System other than Earth with a dense atmosphere, and the only place with rivers, lakes, and seas sitting on its surface. White areas have not been imaged But scientists have long been puzzled by something.</p><p>Titan&#x27;s atmosphere is saturated with methane, yet methane is constantly being destroyed by sunlight so something must be replenishing it. The results were striking, a clathrate crust between 2 km and 9 km thick produced crater depths that matched what the Cassini spacecraft actually observed.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>That convection would explain the shallow craters because the ice softens and flows, slowly filling them in, just as warm glaciers on Earth move and deform over time. True-colour image of layers of haze in Titan&#x27;s atmosphere What of the methane atmosphere.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/titans-hidden-blanket\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A lua de Saturno, Titã, há muito fascina os cientistas, é um mundo com rios, lagos e uma atmosfera densa, tudo feito não de água, mas de metano.",
-      "Dado-chave: A lua de Saturno, Titã, há muito fascina os cientistas, é um mundo com rios, lagos e uma atmosfera densa, tudo feito não de água, mas de metano.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A lua de Saturno, Titã, há muito fascina os cientistas, é um mundo com rios, lagos e uma atmosfera densa, tudo feito não de água, mas de metano.",
-      "Dado-chave: A lua de Saturno, Titã, há muito fascina os cientistas, é um mundo com rios, lagos e uma atmosfera densa, tudo feito não de água, mas de metano.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Saturn's moon Titan has long fascinated scientists, it’s a world with rivers, lakes, and a thick atmosphere, all made not of water but of methane.",
-      "Key detail: Saturn's moon Titan has long fascinated scientists, it’s a world with rivers, lakes, and a thick atmosphere, all made not of water but of.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "11 jun 2026",
-    "date_pt": "11 jun 2026",
-    "date_en": "11 Jun 2026",
-    "time": "22h30",
-    "time_pt": "22h30",
-    "time_en": "22:30 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-11T22:30:05+00:00",
-    "lastModifiedIso": "2026-06-11T22:30:05+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "Universe Today",
-      "Cosmos Week",
-      "Cobertor Oculto do Titã"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "Universe Today",
-      "Cosmos Week",
-      "Cobertor Oculto do Titã"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "Universe Today",
-      "Cosmos Week",
-      "Titan's Hidden Blanket"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/titans-hidden-blanket",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=titan-s-hidden-blanket",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=titan-s-hidden-blanket",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=titan-s-hidden-blanket&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 73,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
     "id": 11,
-    "slug": "nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/a-step/34340D_0569_PSE_NASA_Goddard_Gamma-Ray_Tracker_Assembly_Process_WEB_16x9.jpg?w=2000&h=1125&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/a-step/FFR_Earth_Background_20251120%20.png?w=1607&h=902&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Um satélite no espaço com a Terra ao fundo",
-        "caption_pt": "Um satélite no espaço com a Terra ao fundo",
-        "caption_en": "A satellite in space with Earth in the background",
-        "alt": "Um satélite no espaço com a Terra ao fundo",
-        "alt_pt": "Um satélite no espaço com a Terra ao fundo",
-        "alt_en": "A satellite in space with Earth in the background"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Demonstração de tecnologia robótica da NASA avançará protótipos de detectores de raios gama",
-    "title_pt": "Demonstração de tecnologia robótica da NASA avançará protótipos de detectores de raios gama",
-    "title_en": "NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors",
-    "sub": "Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational Robots da agência.",
-    "sub_pt": "Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational Robots da agência.",
-    "sub_en": "A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.",
-    "excerpt": "Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational Robots da agência.",
-    "excerpt_pt": "Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational Robots da agência.",
-    "excerpt_en": "A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.",
-    "body": "<p>Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational Robots da agência. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 4 min de leitura Demonstração de tecnologia robótica da NASA avançará protótipos de detectores de raios gama Um novo tipo de sensor de raios gama desenvolvido pela NASA, chamado. Permitir que a AstroPix conclua sua própria demonstração de tecnologia em órbita é um bônus.” A missão Fly Foundational Robots da NASA será hospedada a bordo de uma espaçonave.</p><p>Https: //go. nasa. gov/3R28tWE Por Jeanette Kazmierczak Goddard Space Flight Center, Greenbelt, Maryland. Logotipo do Facebook @NASAUniverse @NASAUniverse Logotipo do Instagram @NASAUniverse Detalhes de compartilhamento Última atualização em 11 de junho de 2026 Termos relacionados.</p><p>Artigo Um novo tipo de sensor de raios gama desenvolvido pela NASA, chamado AstroPix, participará de uma demonstração de braço robótico na próxima missão Fly Foundational Robots.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational Robots da agência. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 4 min de leitura Demonstração de tecnologia robótica da NASA avançará protótipos de detectores de raios gama Um novo tipo de sensor de raios gama desenvolvido pela NASA, chamado. Permitir que a AstroPix conclua sua própria demonstração de tecnologia em órbita é um bônus.” A missão Fly Foundational Robots da NASA será hospedada a bordo de uma espaçonave.</p><p>Https: //go. nasa. gov/3R28tWE Por Jeanette Kazmierczak Goddard Space Flight Center, Greenbelt, Maryland. Logotipo do Facebook @NASAUniverse @NASAUniverse Logotipo do Instagram @NASAUniverse Detalhes de compartilhamento Última atualização em 11 de junho de 2026 Termos relacionados.</p><p>Artigo Um novo tipo de sensor de raios gama desenvolvido pela NASA, chamado AstroPix, participará de uma demonstração de braço robótico na próxima missão Fly Foundational Robots.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 4 min read NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors A new type of gamma-ray sensor developed by NASA, called AstroPix, will take part in a robotic arm. Allowing AstroPix to complete its own technology demonstration in orbit is a bonus.” NASA’s Fly Foundational Robots mission will be hosted aboard a spacecraft provided by Astro.</p><p>Https: //go. nasa. gov/3R28tWE By Jeanette Kazmierczak Goddard Space Flight Center, Greenbelt, Md. Facebook logo @NASAUniverse @NASAUniverse Instagram logo @NASAUniverse Share Details Last Updated Jun 11, 2026 Related Terms Technology Demonstration Astrophysics Gamma Rays.</p><p>Article A new type of gamma-ray sensor developed by NASA, called AstroPix, will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission. Scientists observe them coming from events like lightning in Earth’s atmosphere, powerful solar flares from our Sun, and cosmic collisions in distant galaxies.</p><p>Current NASA missions, including the Fermi Gamma-ray Space Telescope and Neil Gehrels Swift Observatory, also observe gamma rays, including those with even higher energies. As mission development progressed, however, the Fly Foundational Robots team identified an opportunity to further maximize the mission’s value by integrating an additional.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>“The unit already had the volume, power, and data needed to support the AstroPix team’s design,” said Bo Naasz, senior technical lead, I n-space Servicing, Assembly, and. “One of our major goals with Fly Foundational Robots is to demonstrate robotic changeout of payloads in orbit, enabling upgrades or improvements to satellites and space.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational.",
-      "Dado-chave: 4 min de leitura Demonstração de tecnologia robótica da NASA avançará protótipos de detectores de raios gama Um novo tipo de sensor de raios.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational.",
-      "Dado-chave: 4 min de leitura Demonstração de tecnologia robótica da NASA avançará protótipos de detectores de raios gama Um novo tipo de sensor de raios.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots.",
-      "Key detail: 4 min read NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors A new type of gamma-ray sensor developed by NASA, called AstroPix.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "11 jun 2026",
-    "date_pt": "11 jun 2026",
-    "date_en": "11 Jun 2026",
-    "time": "18h59",
-    "time_pt": "18h59",
-    "time_en": "18:59 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-11T18:59:37+00:00",
-    "lastModifiedIso": "2026-06-11T18:59:37+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Demonstração de tecnologia robótica da NASA avançará protótipos de detectores de raios gama"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Demonstração de tecnologia robótica da NASA avançará protótipos de detectores de raios gama"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA robotics technology demonstration will advance gamma-ray detector prototypes"
-    ],
-    "srcUrl": "https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 82,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 12,
-    "slug": "nasa-usgs-scientists-go-rock-hounding-in-california-s-high-desert",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/06/1-field-work-1.jpeg?w=2048",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pollution's-daily-pulse-over-the-northeast/newyork_tempo_no2_20260518_th.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/images/Cuprite%20wo%20key%20compass.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Cientistas da NASA e do USGS caçam rochas no alto deserto da Califórnia",
-    "title_pt": "Cientistas da NASA e do USGS caçam rochas no alto deserto da Califórnia",
-    "title_en": "NASA, USGS Scientists Go Rock Hounding in California’s High Desert",
-    "sub": "Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi recentemente enviada ao deserto de Mojave para investigar uma tentadora “impressão digital” detectada por.",
-    "sub_pt": "Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi recentemente enviada ao deserto de Mojave para investigar uma tentadora “impressão digital” detectada por.",
-    "sub_en": "Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint” detected by a NASA sensor.",
-    "excerpt": "Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi recentemente enviada ao deserto de Mojave para investigar uma tentadora “impressão digital” detectada por um sensor da NASA. O alvo deles: um esconderijo de topázios escondido à vista.",
-    "excerpt_pt": "Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi recentemente enviada ao deserto de Mojave para investigar uma tentadora “impressão digital” detectada por um sensor da NASA. O alvo deles: um esconderijo de topázios escondido à vista.",
-    "excerpt_en": "Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint” detected by a NASA sensor. Their target: a cache of topaz hiding in plain sight. The.",
-    "body": "<p>Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi recentemente enviada ao deserto de Mojave para investigar uma tentadora “impressão digital” detectada por um sensor da NASA. O alvo deles: um esconderijo de topázios escondido à vista de todos. O. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Transportando sensores de próxima geração, uma aeronave ER-2 da NASA de alta altitude decola do Armstrong Flight Research Center da agência em Edwards, Califórnia, em 31 de março. NASA/Carla Thomas Desde 2023, os voos GEMx cobriram mais de 386.000 milhas quadradas (1 milhão de quilômetros quadrados) de solo americano, incluindo a maior parte da Califórnia.</p><p>“Mas há muito mais para descobrir.” Alto voo Desde o início, a campanha de mapeamento mineral GEMx foi possibilitada por uma das aeronaves que voam mais alto na frota da NASA: o. Irons, agora um cientista emérito em. Artigo 1 dia atrás Continue explorando Descubra mais tópicos da NASA GEMx Armstrong Flight Research Center Laboratório de Propulsão a Jato.</p><p>NASA/JPL-Caltech Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi enviada recentemente ao deserto de Mojave para investigar uma tentadora “impressão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi recentemente enviada ao deserto de Mojave para investigar uma tentadora “impressão digital” detectada por um sensor da NASA. O alvo deles: um esconderijo de topázios escondido à vista de todos. O. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Transportando sensores de próxima geração, uma aeronave ER-2 da NASA de alta altitude decola do Armstrong Flight Research Center da agência em Edwards, Califórnia, em 31 de março. NASA/Carla Thomas Desde 2023, os voos GEMx cobriram mais de 386.000 milhas quadradas (1 milhão de quilômetros quadrados) de solo americano, incluindo a maior parte da Califórnia.</p><p>“Mas há muito mais para descobrir.” Alto voo Desde o início, a campanha de mapeamento mineral GEMx foi possibilitada por uma das aeronaves que voam mais alto na frota da NASA: o. Irons, agora um cientista emérito em. Artigo 1 dia atrás Continue explorando Descubra mais tópicos da NASA GEMx Armstrong Flight Research Center Laboratório de Propulsão a Jato.</p><p>NASA/JPL-Caltech Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi enviada recentemente ao deserto de Mojave para investigar uma tentadora “impressão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint” detected by a NASA sensor. Their target: a cache of topaz hiding in plain sight. The. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Carrying next-generation sensors, a high-altitude NASA ER-2 aircraft takes off from the agency’s Armstrong Flight Research Center in Edwards, California, on March 31, 2026, to. NASA/Carla Thomas Since 2023, GEMx flights have covered more than 386,000 square miles (1 million square kilometers) of American soil, including most of California.</p><p>“But there’s a lot more to discover.” High flyer From the beginning, the GEMx mineral mapping campaign has been enabled by one of the highest-flying aircraft in NASA’s fleet: the. Irons, now an emeritus scientist at. Article 1 day ago Keep Exploring Discover More Topics From NASA GEMx Armstrong Flight Research Center Jet Propulsion Laboratory Earth Science.</p><p>NASA/JPL-Caltech Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint” detected by a. The technology was pioneered in the early 1980s by a team that included Green, and space-hardened versions have explored the Moon, Mars, and other rocky bodies in the solar system.</p><p>The latest model, AVIRIS-5, recently took to the skies for the first time as part of the NASA-USGS Geologic Earth Mapping Experiment ( GEMx ). “But there’s a lot more to discover.” From the beginning, the GEMx mineral mapping campaign has been enabled by one of the highest-flying aircraft in NASA’s fleet: the ER‑2.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>It deployed on March 31 from NASA’s Armstrong Flight Research Center in Edwards, California, to Colorado Springs Airport in Colorado. “We deployed to Colorado Springs to maximize flight time for data collection needed in Colorado, Utah, New Mexico, Arizona, and Texas,” said John McGrath, ER‑2 project manager at.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi recentemente enviada ao deserto de Mojave para investigar uma tentadora.",
-      "Dado-chave: Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi recentemente enviada ao deserto de Mojave para investigar uma.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi recentemente enviada ao deserto de Mojave para investigar uma tentadora.",
-      "Dado-chave: Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi recentemente enviada ao deserto de Mojave para investigar uma.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint”.",
-      "Key detail: Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "11 jun 2026",
-    "date_pt": "11 jun 2026",
-    "date_en": "11 Jun 2026",
-    "time": "15h38",
-    "time_pt": "15h38",
-    "time_en": "15:38 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-11T15:38:31+00:00",
-    "lastModifiedIso": "2026-06-11T15:38:31+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Cientistas da NASA e do USGS caçam rochas no alto deserto da Califórnia"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Cientistas da NASA e do USGS caçam rochas no alto deserto da Califórnia"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA and USGS scientists hunt for rocks in California's high desert"
-    ],
-    "srcUrl": "https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-usgs-scientists-go-rock-hounding-in-california-s-high-desert",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-usgs-scientists-go-rock-hounding-in-california-s-high-desert",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-usgs-scientists-go-rock-hounding-in-california-s-high-desert&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 82,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 13,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1543,7 +1325,7 @@ window.postsData = [
     }
   },
   {
-    "id": 14,
+    "id": 12,
     "slug": "science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1682,7 +1464,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 13,
     "slug": "light-echoes-reveal-possible-dark-matter-buildup-around-supermassive-black-holes",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1815,7 +1597,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 14,
     "slug": "nasa-s-chandra-discovers-possible-supernova-remnant-in-galactic-center",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1948,7 +1730,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 15,
     "slug": "webb-reveals-black-hole-that-formed-before-its-galaxy",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2053,7 +1835,7 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 16,
     "slug": "jwst-reveals-dawn-dusk-atmosphere-split-on-ultra-hot-exoplanet-wasp-121-b",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2202,7 +1984,7 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
+    "id": 17,
     "slug": "nasa-s-proposed-eve-mission-aims-to-solve-the-radius-valley-mystery",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2320,7 +2102,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 18,
     "slug": "calibration-of-an-analog-to-digital-conversion-nonlinearity-in-jwst-niriss",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2428,7 +2210,7 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
+    "id": 19,
     "slug": "lab-created-moon-rock-could-help-scientists-interpret-lunar-data-and-explore-how-water-might-for",
     "cat": "Física",
     "catCls": "fisica",
@@ -2561,7 +2343,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 20,
     "slug": "alice-s-upgraded-detector-showcases-its-beauty",
     "cat": "Física",
     "catCls": "fisica",
@@ -2676,7 +2458,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 21,
     "slug": "new-wi-fi-network-at-cern",
     "cat": "Física",
     "catCls": "fisica",
@@ -2784,7 +2566,7 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
+    "id": 22,
     "slug": "astrochemical-model-digs-into-the-universe-s-missing-sulfur",
     "cat": "Química",
     "catCls": "quimica",
@@ -2902,7 +2684,7 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 23,
     "slug": "comet-3i-atlas-has-methane-unexpected-discovery-reveals",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3016,58 +2798,325 @@ window.postsData = [
       "evidence": 88,
       "relevance": 80,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 26,
-    "slug": "esa-science-missions-get-green-light-for-new-discoveries",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/inspiring_humankind_with_space_science_at_esa/27322488-1-eng-GB/Inspiring_humankind_with_space_science_at_ESA_card_full.png",
-    "inline_images": [],
+    "id": 24,
+    "slug": "gravity-waves-from-super-typhoon-sinlaku",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/gravity-waves-from-super-typhoon-sinlaku/sinlaku_gravitywaves_vir_20260412.jpg?w=2160&h=1733&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/painting-a-season-in-the-maize-triangle/southafricaag_nisar_20260310_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Uma visualização de terras agrícolas na África do Sul mostra campos geométricos numa variedade de cores que combinam vermelho, verde e azul.",
+        "caption_pt": "Uma visualização de terras agrícolas na África do Sul mostra campos geométricos numa variedade de cores que combinam vermelho, verde e azul.",
+        "caption_en": "A visualization of agricultural land in South Africa shows geometric fields in an array of colors that combine red, green, and blue.",
+        "alt": "Uma visualização de terras agrícolas na África do Sul mostra campos geométricos numa variedade de cores que combinam vermelho, verde e azul.",
+        "alt_pt": "Uma visualização de terras agrícolas na África do Sul mostra campos geométricos numa variedade de cores que combinam vermelho, verde e azul.",
+        "alt_en": "A visualization of agricultural land in South Africa shows geometric fields in an array of colors that combine red, green, and blue."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fire’s-footprint-on-santa-rosa-island/channelislandsfire_oli_20260524_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Uma imagem em cores falsas da Ilha de Santa Rosa de 24 de maio de 2026 mostra uma área queimada marrom-avermelhada abrangendo o terço oriental da ilha.",
+        "caption_pt": "Uma imagem em cores falsas da Ilha de Santa Rosa de 24 de maio de 2026 mostra uma área queimada marrom-avermelhada abrangendo o terço oriental da ilha.",
+        "caption_en": "A false-color image of Santa Rosa Island from May 24, 2026, shows a reddish-brown burned area spanning the eastern third of the island.",
+        "alt": "Uma imagem em cores falsas da Ilha de Santa Rosa de 24 de maio de 2026 mostra uma área queimada marrom-avermelhada abrangendo o terço oriental da ilha.",
+        "alt_pt": "Uma imagem em cores falsas da Ilha de Santa Rosa de 24 de maio de 2026 mostra uma área queimada marrom-avermelhada abrangendo o terço oriental da ilha.",
+        "alt_en": "A false-color image of Santa Rosa Island from May 24, 2026, shows a reddish-brown burned area spanning the eastern third of the island."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/gravity-waves-from-super-typhoon-sinlaku/sinlakugravitywaves_airs_20260413.jpg?w=2160&h=2355&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "A assinatura das ondas gravitacionais na estratosfera aparece como anéis concêntricos em dados de satélite infravermelho.",
+        "caption_pt": "A assinatura das ondas gravitacionais na estratosfera aparece como anéis concêntricos em dados de satélite infravermelho.",
+        "caption_en": "The signature of gravity waves in the stratosphere appears as concentric rings in infrared satellite data.",
+        "alt": "A assinatura das ondas gravitacionais na estratosfera aparece como anéis concêntricos em dados de satélite infravermelho.",
+        "alt_pt": "A assinatura das ondas gravitacionais na estratosfera aparece como anéis concêntricos em dados de satélite infravermelho.",
+        "alt_en": "The signature of gravity waves in the stratosphere appears as concentric rings in infrared satellite data."
+      }
+    ],
     "video": null,
     "audio": null,
-    "title": "Missões científicas da ESA recebem luz verde para novas descobertas",
-    "title_pt": "Missões científicas da ESA recebem luz verde para novas descobertas",
-    "title_en": "ESA science missions get green light for new discoveries",
-    "sub": "Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa.",
-    "sub_pt": "Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa.",
-    "sub_en": "On 10, 11 June, representatives from European Space Agency Member States met in Tenerife to make far-reaching decisions about the future of ESA’s Science Programme. Their.",
-    "excerpt": "Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa Científico da ESA. As suas decisões de alargar as missões actuais e adoptar a.",
-    "excerpt_pt": "Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa Científico da ESA. As suas decisões de alargar as missões actuais e adoptar a.",
-    "excerpt_en": "On 10, 11 June, representatives from European Space Agency Member States met in Tenerife to make far-reaching decisions about the future of ESA’s Science Programme. Their decisions to extend current missions and adopt the next ‘fast-class’.",
-    "body": "<p>Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa Científico da ESA. As suas decisões de alargar as missões actuais e adoptar a próxima “classe. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. De 10 a 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia (ESA) reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa. As suas decisões de alargar as actuais missões e adoptar a próxima missão de “classe rápida”, Arrakihs, sublinham a liderança europeia e o compromisso a longo prazo com a ciência.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_science_missions_get_green_light_for_new_discoveries\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa Científico da ESA. As suas decisões de alargar as missões actuais e adoptar a próxima “classe. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. De 10 a 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia (ESA) reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa. As suas decisões de alargar as actuais missões e adoptar a próxima missão de “classe rápida”, Arrakihs, sublinham a liderança europeia e o compromisso a longo prazo com a ciência.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_science_missions_get_green_light_for_new_discoveries\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>On 10, 11 June, representatives from European Space Agency Member States met in Tenerife to make far-reaching decisions about the future of ESA’s Science Programme. Their decisions to extend current missions and adopt the next ‘fast-class’. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. On 10, 11 June, representatives from European Space Agency (ESA) Member States met in Tenerife to make far-reaching decisions about the future of ESA’s Science Programme. Their decisions to extend current missions and adopt the next ‘fast-class’ mission, Arrakihs, underscores European leadership in, and long-term commitment to, space science.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_science_missions_get_green_light_for_new_discoveries\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Ondas gravitacionais do supertufão Sinlaku",
+    "title_pt": "Ondas gravitacionais do supertufão Sinlaku",
+    "title_en": "Gravity Waves From Super Typhoon Sinlaku",
+    "sub": "Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas gravitacionais do supertufão Sinlaku.",
+    "sub_pt": "Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas gravitacionais do supertufão Sinlaku.",
+    "sub_en": "Satellites observed striking upper-atmosphere phenomena generated by an intensifying tropical cyclone. The post Gravity Waves From Super Typhoon Sinlaku appeared first on NASA.",
+    "excerpt": "Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science.",
+    "excerpt_pt": "Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science.",
+    "excerpt_en": "Satellites observed striking upper-atmosphere phenomena generated by an intensifying tropical cyclone. The post Gravity Waves From Super Typhoon Sinlaku appeared first on NASA Science.",
+    "body": "<p>Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science. A energia térmica das ondas gravitacionais produzidas pelo Super Typhoon Sinlaku foi detectada na estratosfera pelo instrumento AIRS (Atmospheric Infrared Sounder) no satélite.</p><p>As ondas gravitacionais do Observatório Terrestre da NASA/Michala Garrison Sinlaku, além de aparecerem no alto da atmosfera por meio do brilho do ar, foram observadas mais abaixo. Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal.</p><p>Explore dados de ciências da terra da Terra Acesso aberto ao arquivo de dados de ciências da Terra da NASA O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira. Observatório da Terra da NASA/Michala Garrison Em meados de abril de 2026, o Super Tufão Sinlaku atravessou o Oceano Pacífico Norte e trouxe fortes chuvas e inundações para as.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA Earth Observatory, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/gravity-waves-from-super-typhoon-sinlaku/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science. A energia térmica das ondas gravitacionais produzidas pelo Super Typhoon Sinlaku foi detectada na estratosfera pelo instrumento AIRS (Atmospheric Infrared Sounder) no satélite.</p><p>As ondas gravitacionais do Observatório Terrestre da NASA/Michala Garrison Sinlaku, além de aparecerem no alto da atmosfera por meio do brilho do ar, foram observadas mais abaixo. Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal.</p><p>Explore dados de ciências da terra da Terra Acesso aberto ao arquivo de dados de ciências da Terra da NASA O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira. Observatório da Terra da NASA/Michala Garrison Em meados de abril de 2026, o Super Tufão Sinlaku atravessou o Oceano Pacífico Norte e trouxe fortes chuvas e inundações para as.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA Earth Observatory, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/gravity-waves-from-super-typhoon-sinlaku/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Satellites observed striking upper-atmosphere phenomena generated by an intensifying tropical cyclone. The post Gravity Waves From Super Typhoon Sinlaku appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The post Gravity Waves From Super Typhoon Sinlaku appeared first on NASA Science. Thermal energy from gravity waves produced by Super Typhoon Sinlaku was detected in the stratosphere by the AIRS (Atmospheric Infrared Sounder) instrument on NASA’s Aqua satellite.</p><p>NASA Earth Observatory/Michala Garrison Sinlaku’s gravity waves, in addition to appearing high in the atmosphere via airglow, were observed lower in the atmosphere by the AIRS. Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</p><p>Explore Earth Science Earth Science Data Open access to NASA’s archive of Earth science data The post Gravity Waves From Super Typhoon Sinlaku appeared first on NASA Science. NASA Earth Observatory/Michala Garrison In mid-April 2026, Super Typhoon Sinlaku churned across the North Pacific Ocean and brought heavy rain and flooding to the Mariana Islands.</p><p>The nighttime image above, acquired with the VIIRS (Visible Infrared Imaging Radiometer Suite) on the NOAA-20 satellite, shows atmospheric gravity waves radiating from the typhoon. Winds in the upper atmosphere can dissipate the waves before they reach such high altitudes, Alexander explained, but relatively light stratospheric winds at the storm’s latitude.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The Moon was about 25 percent illuminated on April 12, so some light reflected off clouds in the troposphere was visible, but not enough to overpower the signal from the airglow. Sinlaku’s gravity waves, in addition to appearing high in the atmosphere via airglow, were observed lower in the atmosphere by the AIRS (Atmospheric Infrared Sounder) instrument.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/gravity-waves-from-super-typhoon-sinlaku/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo.",
-      "Dado-chave: De 10 a 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia (ESA) reuniram-se em Tenerife para tomar decisões de longo.",
+      "Ponto central: Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas.",
+      "Dado-chave: O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo.",
-      "Dado-chave: De 10 a 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia (ESA) reuniram-se em Tenerife para tomar decisões de longo.",
+      "Ponto central: Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas.",
+      "Dado-chave: O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: On 10, 11 June, representatives from European Space Agency Member States met in Tenerife to make far-reaching decisions about the future of ESA’s.",
-      "Key detail: On 10, 11 June, representatives from European Space Agency (ESA) Member States met in Tenerife to make far-reaching decisions about the future.",
+      "Core point: Satellites observed striking upper-atmosphere phenomena generated by an intensifying tropical cyclone. The post Gravity Waves From Super Typhoon.",
+      "Key detail: The post Gravity Waves From Super Typhoon Sinlaku appeared first on NASA Science.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "01 jun 2026",
+    "date_pt": "01 jun 2026",
+    "date_en": "01 Jun 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04:01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-01T04:01:00+00:00",
+    "lastModifiedIso": "2026-06-01T04:01:00+00:00",
+    "source": "NASA Earth Observatory",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Ondas gravitacionais do supertufão Sinlaku"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Ondas gravitacionais do supertufão Sinlaku"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Gravitational waves from super typhoon Sinlaku"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/gravity-waves-from-super-typhoon-sinlaku/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=gravity-waves-from-super-typhoon-sinlaku",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=gravity-waves-from-super-typhoon-sinlaku",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=gravity-waves-from-super-typhoon-sinlaku&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 75,
+      "evidence": 88,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 25,
+    "slug": "written-in-rock",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.universetoday.com/article_images/lossy-page1-1280px-FullMoon2020.tif_20260611_224234.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/panorama1_20260611_223841.jpeg",
+        "caption": "O local de pouso da Apollo 17 (Crédito: NASA)",
+        "caption_pt": "O local de pouso da Apollo 17 (Crédito: NASA)",
+        "caption_en": "The landing site of Apollo 17 (Credit : NASA)",
+        "alt": "O local de pouso da Apollo 17 (Crédito: NASA)",
+        "alt_pt": "O local de pouso da Apollo 17 (Crédito: NASA)",
+        "alt_en": "The landing site of Apollo 17 (Credit : NASA)"
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/Lunaite_lunar_breccia_Northwest_Africa_8586_Meteorite_4_17381662662_1_20260611_224218.jpg",
+        "caption": "Meteorito de brecha lunar como o usado neste estudo recente (Crédito: James St Johns)",
+        "caption_pt": "Meteorito de brecha lunar como o usado neste estudo recente (Crédito: James St Johns)",
+        "caption_en": "Lunar breccia meteorite like that used in this recent study (Credit : James St Johns)",
+        "alt": "Meteorito de brecha lunar como o usado neste estudo recente (Crédito: James St Johns)",
+        "alt_pt": "Meteorito de brecha lunar como o usado neste estudo recente (Crédito: James St Johns)",
+        "alt_en": "Lunar breccia meteorite like that used in this recent study (Credit : James St Johns)"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Escrito em Rock",
+    "title_pt": "Escrito em Rock",
+    "title_en": "Written in Rock",
+    "sub": "Uma pequena rocha encontrada no deserto africano acaba de oferecer aos cientistas uma janela extraordinária para um dos períodos mais violentos e importantes da história do.",
+    "sub_pt": "Uma pequena rocha encontrada no deserto africano acaba de oferecer aos cientistas uma janela extraordinária para um dos períodos mais violentos e importantes da história do.",
+    "sub_en": "A small rock found in the African desert has just handed scientists an extraordinary window into one of the most violent and consequential periods in the history of the Solar.",
+    "excerpt": "Uma pequena rocha encontrada no deserto africano acaba de oferecer aos cientistas uma janela extraordinária para um dos períodos mais violentos e importantes da história do Sistema Solar. Dentro deste meteorito lunar, um pedaço da Lua caiu.",
+    "excerpt_pt": "Uma pequena rocha encontrada no deserto africano acaba de oferecer aos cientistas uma janela extraordinária para um dos períodos mais violentos e importantes da história do Sistema Solar. Dentro deste meteorito lunar, um pedaço da Lua caiu.",
+    "excerpt_en": "A small rock found in the African desert has just handed scientists an extraordinary window into one of the most violent and consequential periods in the history of the Solar System. Inside this lunar meteorite, a chunk of the Moon knocked.",
+    "body": "<p>Uma pequena rocha encontrada no deserto africano acaba de oferecer aos cientistas uma janela extraordinária para um dos períodos mais violentos e importantes da história do Sistema Solar. Dentro deste meteorito lunar, um pedaço da Lua caiu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Dentro deste meteorito lunar, um pedaço da Lua derrubado na Terra por uma colisão antiga, os investigadores encontraram evidências de um evento de impacto massivo há 3,5 mil. Pegue um punhado de terra do seu jardim e você terá material que foi reciclado, erodido, subduzido e refeito tantas vezes que quase nada da Terra original sobreviveu.</p><p>Se quisermos saber o que estava a acontecer aqui há 3,5 mil milhões de anos, quando a vida estava apenas a começar a tomar a sua primeira influência no mundo, temos de procurar. A Lua partilha a nossa vizinhança e a nossa história de impacto, mas não partilha a nossa convulsão geológica.</p><p>O meteorito, catalogado como NWA 12593, originou-se na Lua. Em algum momento do passado mais recente, uma colisão derrubou-o da superfície lunar e enviou-o numa lenta viagem em direção à Terra, onde finalmente caiu e foi encontrado.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/written-in-rock\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma pequena rocha encontrada no deserto africano acaba de oferecer aos cientistas uma janela extraordinária para um dos períodos mais violentos e importantes da história do Sistema Solar. Dentro deste meteorito lunar, um pedaço da Lua caiu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Dentro deste meteorito lunar, um pedaço da Lua derrubado na Terra por uma colisão antiga, os investigadores encontraram evidências de um evento de impacto massivo há 3,5 mil. Pegue um punhado de terra do seu jardim e você terá material que foi reciclado, erodido, subduzido e refeito tantas vezes que quase nada da Terra original sobreviveu.</p><p>Se quisermos saber o que estava a acontecer aqui há 3,5 mil milhões de anos, quando a vida estava apenas a começar a tomar a sua primeira influência no mundo, temos de procurar. A Lua partilha a nossa vizinhança e a nossa história de impacto, mas não partilha a nossa convulsão geológica.</p><p>O meteorito, catalogado como NWA 12593, originou-se na Lua. Em algum momento do passado mais recente, uma colisão derrubou-o da superfície lunar e enviou-o numa lenta viagem em direção à Terra, onde finalmente caiu e foi encontrado.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/written-in-rock\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A small rock found in the African desert has just handed scientists an extraordinary window into one of the most violent and consequential periods in the history of the Solar System. Inside this lunar meteorite, a chunk of the Moon knocked. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Inside this lunar meteorite, a chunk of the Moon knocked to Earth by an ancient collision, researchers have found evidence of a massive impact event 3.5 billion years ago, one. Pick up a handful of soil from your garden and you&#x27;re holding material that has been recycled, eroded, subducted, and remade so many times that almost nothing of the original.</p><p>If you want to know what was happening here 3.5 billion years ago, when life was just beginning to take its first tentative hold on the world, you have to look somewhere else. The Moon shares our neighbourhood and our impact history, but it doesn&#x27;t share our geological upheaval.</p><p>The meteorite, catalogued as NWA 12593, originated on the Moon. At some point in the more recent past, a collision knocked it off the lunar surface and sent it on a slow journey toward Earth, where it eventually fell and was found.</p><p>Cubic zirconia is fragile at low temperatures and rarely survives in nature so finding traces of it in this meteorite is a fingerprint of something catastrophic. The meteorite itself is that very breccia, the third impact, relatively recent in geological terms, that simply launched it off the Moon toward us.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>That same 3.5 billion year window shows up in the impact record on Earth, and on 4 Vesta, one of the largest objects in the asteroid belt. It suggests a shared event, perhaps the breakup of a large asteroid sending a wave of debris cascading across the inner Solar System at exactly the moment life on Earth was.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/written-in-rock\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Uma pequena rocha encontrada no deserto africano acaba de oferecer aos cientistas uma janela extraordinária para um dos períodos mais violentos e.",
+      "Dado-chave: Dentro deste meteorito lunar, um pedaço da Lua derrubado na Terra por uma colisão antiga, os investigadores encontraram evidências de um evento.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Uma pequena rocha encontrada no deserto africano acaba de oferecer aos cientistas uma janela extraordinária para um dos períodos mais violentos e.",
+      "Dado-chave: Dentro deste meteorito lunar, um pedaço da Lua derrubado na Terra por uma colisão antiga, os investigadores encontraram evidências de um evento.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: A small rock found in the African desert has just handed scientists an extraordinary window into one of the most violent and consequential periods in.",
+      "Key detail: Inside this lunar meteorite, a chunk of the Moon knocked to Earth by an ancient collision, researchers have found evidence of a massive impact.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "11 jun 2026",
     "date_pt": "11 jun 2026",
     "date_en": "11 Jun 2026",
-    "time": "08h00",
-    "time_pt": "08h00",
-    "time_en": "08:00 UTC",
+    "time": "22h31",
+    "time_pt": "22h31",
+    "time_en": "22:31 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-11T08:00:00+00:00",
-    "lastModifiedIso": "2026-06-11T08:00:00+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www.esa.int",
+    "publishedIso": "2026-06-11T22:31:00+00:00",
+    "lastModifiedIso": "2026-06-11T22:31:00+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "Universe Today",
+      "Cosmos Week",
+      "Escrito em Rock"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "Universe Today",
+      "Cosmos Week",
+      "Escrito em Rock"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "Universe Today",
+      "Cosmos Week",
+      "Written in Rock"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/written-in-rock",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=written-in-rock",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=written-in-rock",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=written-in-rock&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 73,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 82,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 26,
+    "slug": "nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/a-step/34340D_0569_PSE_NASA_Goddard_Gamma-Ray_Tracker_Assembly_Process_WEB_16x9.jpg?w=2000&h=1125&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/a-step/FFR_Earth_Background_20251120%20.png?w=1607&h=902&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Um satélite no espaço com a Terra ao fundo",
+        "caption_pt": "Um satélite no espaço com a Terra ao fundo",
+        "caption_en": "A satellite in space with Earth in the background",
+        "alt": "Um satélite no espaço com a Terra ao fundo",
+        "alt_pt": "Um satélite no espaço com a Terra ao fundo",
+        "alt_en": "A satellite in space with Earth in the background"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Demonstração de tecnologia robótica da NASA avançará protótipos de detectores de raios gama",
+    "title_pt": "Demonstração de tecnologia robótica da NASA avançará protótipos de detectores de raios gama",
+    "title_en": "NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors",
+    "sub": "Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational Robots da agência.",
+    "sub_pt": "Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational Robots da agência.",
+    "sub_en": "A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.",
+    "excerpt": "Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational Robots da agência.",
+    "excerpt_pt": "Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational Robots da agência.",
+    "excerpt_en": "A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.",
+    "body": "<p>Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational Robots da agência. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 4 min de leitura Demonstração de tecnologia robótica da NASA avançará protótipos de detectores de raios gama Um novo tipo de sensor de raios gama desenvolvido pela NASA, chamado. Permitir que a AstroPix conclua sua própria demonstração de tecnologia em órbita é um bônus.” A missão Fly Foundational Robots da NASA será hospedada a bordo de uma espaçonave.</p><p>Https: //go. nasa. gov/3R28tWE Por Jeanette Kazmierczak Goddard Space Flight Center, Greenbelt, Maryland. Logotipo do Facebook @NASAUniverse @NASAUniverse Logotipo do Instagram @NASAUniverse Detalhes de compartilhamento Última atualização em 11 de junho de 2026 Termos relacionados.</p><p>Artigo Um novo tipo de sensor de raios gama desenvolvido pela NASA, chamado AstroPix, participará de uma demonstração de braço robótico na próxima missão Fly Foundational Robots.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational Robots da agência. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 4 min de leitura Demonstração de tecnologia robótica da NASA avançará protótipos de detectores de raios gama Um novo tipo de sensor de raios gama desenvolvido pela NASA, chamado. Permitir que a AstroPix conclua sua própria demonstração de tecnologia em órbita é um bônus.” A missão Fly Foundational Robots da NASA será hospedada a bordo de uma espaçonave.</p><p>Https: //go. nasa. gov/3R28tWE Por Jeanette Kazmierczak Goddard Space Flight Center, Greenbelt, Maryland. Logotipo do Facebook @NASAUniverse @NASAUniverse Logotipo do Instagram @NASAUniverse Detalhes de compartilhamento Última atualização em 11 de junho de 2026 Termos relacionados.</p><p>Artigo Um novo tipo de sensor de raios gama desenvolvido pela NASA, chamado AstroPix, participará de uma demonstração de braço robótico na próxima missão Fly Foundational Robots.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 4 min read NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors A new type of gamma-ray sensor developed by NASA, called AstroPix, will take part in a robotic arm. Allowing AstroPix to complete its own technology demonstration in orbit is a bonus.” NASA’s Fly Foundational Robots mission will be hosted aboard a spacecraft provided by Astro.</p><p>Https: //go. nasa. gov/3R28tWE By Jeanette Kazmierczak Goddard Space Flight Center, Greenbelt, Md. Facebook logo @NASAUniverse @NASAUniverse Instagram logo @NASAUniverse Share Details Last Updated Jun 11, 2026 Related Terms Technology Demonstration Astrophysics Gamma Rays.</p><p>Article A new type of gamma-ray sensor developed by NASA, called AstroPix, will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission. Scientists observe them coming from events like lightning in Earth’s atmosphere, powerful solar flares from our Sun, and cosmic collisions in distant galaxies.</p><p>Current NASA missions, including the Fermi Gamma-ray Space Telescope and Neil Gehrels Swift Observatory, also observe gamma rays, including those with even higher energies. As mission development progressed, however, the Fly Foundational Robots team identified an opportunity to further maximize the mission’s value by integrating an additional.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>“The unit already had the volume, power, and data needed to support the AstroPix team’s design,” said Bo Naasz, senior technical lead, I n-space Servicing, Assembly, and. “One of our major goals with Fly Foundational Robots is to demonstrate robotic changeout of payloads in orbit, enabling upgrades or improvements to satellites and space.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational.",
+      "Dado-chave: 4 min de leitura Demonstração de tecnologia robótica da NASA avançará protótipos de detectores de raios gama Um novo tipo de sensor de raios.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational.",
+      "Dado-chave: 4 min de leitura Demonstração de tecnologia robótica da NASA avançará protótipos de detectores de raios gama Um novo tipo de sensor de raios.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots.",
+      "Key detail: 4 min read NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors A new type of gamma-ray sensor developed by NASA, called AstroPix.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "11 jun 2026",
+    "date_pt": "11 jun 2026",
+    "date_en": "11 Jun 2026",
+    "time": "18h59",
+    "time_pt": "18h59",
+    "time_en": "18:59 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-11T18:59:37+00:00",
+    "lastModifiedIso": "2026-06-11T18:59:37+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -3085,26 +3134,26 @@ window.postsData = [
     "editorialBandLabel_en": "High priority",
     "keywords": [
       "Astronomia",
-      "ESA Space Science",
+      "NASA News Releases",
       "Cosmos Week",
-      "Missões científicas da ESA recebem luz verde para novas descobertas"
+      "Demonstração de tecnologia robótica da NASA avançará protótipos de detectores de raios gama"
     ],
     "keywords_pt": [
       "Astronomia",
-      "ESA Space Science",
+      "NASA News Releases",
       "Cosmos Week",
-      "Missões científicas da ESA recebem luz verde para novas descobertas"
+      "Demonstração de tecnologia robótica da NASA avançará protótipos de detectores de raios gama"
     ],
     "keywords_en": [
       "Astronomy",
-      "ESA Space Science",
+      "NASA News Releases",
       "Cosmos Week",
-      "ESA science missions get the green light for new discoveries"
+      "NASA robotics technology demonstration will advance gamma-ray detector prototypes"
     ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/ESA_science_missions_get_green_light_for_new_discoveries",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-science-missions-get-green-light-for-new-discoveries",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-science-missions-get-green-light-for-new-discoveries",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-science-missions-get-green-light-for-new-discoveries&lang=en",
+    "srcUrl": "https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -3115,9 +3164,9 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 81,
+    "score": 82,
     "scoreBreakdown": {
-      "source": 90,
+      "source": 94,
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
@@ -3126,6 +3175,139 @@ window.postsData = [
   },
   {
     "id": 27,
+    "slug": "nasa-usgs-scientists-go-rock-hounding-in-california-s-high-desert",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/06/1-field-work-1.jpeg?w=2048",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/world-cup-fever-in-guadalajara/guadalajara_oli_20260427_th.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pollution's-daily-pulse-over-the-northeast/newyork_tempo_no2_20260518_th.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/images/Cuprite%20wo%20key%20compass.png",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Cientistas da NASA e do USGS caçam rochas no alto deserto da Califórnia",
+    "title_pt": "Cientistas da NASA e do USGS caçam rochas no alto deserto da Califórnia",
+    "title_en": "NASA, USGS Scientists Go Rock Hounding in California’s High Desert",
+    "sub": "Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi recentemente enviada ao deserto de Mojave para investigar uma tentadora “impressão digital” detectada por.",
+    "sub_pt": "Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi recentemente enviada ao deserto de Mojave para investigar uma tentadora “impressão digital” detectada por.",
+    "sub_en": "Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint” detected by a NASA sensor.",
+    "excerpt": "Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi recentemente enviada ao deserto de Mojave para investigar uma tentadora “impressão digital” detectada por um sensor da NASA. O alvo deles: um esconderijo de topázios escondido à vista.",
+    "excerpt_pt": "Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi recentemente enviada ao deserto de Mojave para investigar uma tentadora “impressão digital” detectada por um sensor da NASA. O alvo deles: um esconderijo de topázios escondido à vista.",
+    "excerpt_en": "Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint” detected by a NASA sensor. Their target: a cache of topaz hiding in plain sight. The.",
+    "body": "<p>Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi recentemente enviada ao deserto de Mojave para investigar uma tentadora “impressão digital” detectada por um sensor da NASA. O alvo deles: um esconderijo de topázios escondido à vista de todos. O. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Transportando sensores de próxima geração, uma aeronave ER-2 da NASA de alta altitude decola do Armstrong Flight Research Center da agência em Edwards, Califórnia, em 31 de março. NASA/Carla Thomas Desde 2023, os voos GEMx cobriram mais de 386.000 milhas quadradas (1 milhão de quilômetros quadrados) de solo americano, incluindo a maior parte da Califórnia.</p><p>“Mas há muito mais para descobrir.” Alto voo Desde o início, a campanha de mapeamento mineral GEMx foi possibilitada por uma das aeronaves que voam mais alto na frota da NASA: o. Para saber mais sobre o GEMx, visite: https: //science. nasa. gov/mission/gemx/ Contatos de mídia Andrew Wang / Andrew Good Jet Propulsion Laboratory, Pasadena, Califórnia.</p><p>NASA/JPL-Caltech Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi enviada recentemente ao deserto de Mojave para investigar uma tentadora “impressão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi recentemente enviada ao deserto de Mojave para investigar uma tentadora “impressão digital” detectada por um sensor da NASA. O alvo deles: um esconderijo de topázios escondido à vista de todos. O. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Transportando sensores de próxima geração, uma aeronave ER-2 da NASA de alta altitude decola do Armstrong Flight Research Center da agência em Edwards, Califórnia, em 31 de março. NASA/Carla Thomas Desde 2023, os voos GEMx cobriram mais de 386.000 milhas quadradas (1 milhão de quilômetros quadrados) de solo americano, incluindo a maior parte da Califórnia.</p><p>“Mas há muito mais para descobrir.” Alto voo Desde o início, a campanha de mapeamento mineral GEMx foi possibilitada por uma das aeronaves que voam mais alto na frota da NASA: o. Para saber mais sobre o GEMx, visite: https: //science. nasa. gov/mission/gemx/ Contatos de mídia Andrew Wang / Andrew Good Jet Propulsion Laboratory, Pasadena, Califórnia.</p><p>NASA/JPL-Caltech Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi enviada recentemente ao deserto de Mojave para investigar uma tentadora “impressão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint” detected by a NASA sensor. Their target: a cache of topaz hiding in plain sight. The. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Carrying next-generation sensors, a high-altitude NASA ER-2 aircraft takes off from the agency’s Armstrong Flight Research Center in Edwards, California, on March 31, 2026, to. NASA/Carla Thomas Since 2023, GEMx flights have covered more than 386,000 square miles (1 million square kilometers) of American soil, including most of California.</p><p>“But there’s a lot more to discover.” High flyer From the beginning, the GEMx mineral mapping campaign has been enabled by one of the highest-flying aircraft in NASA’s fleet: the. To learn more about GEMx visit: https: //science. nasa. gov/mission/gemx/ Media Contacts Andrew Wang / Andrew Good Jet Propulsion Laboratory, Pasadena, Calif.</p><p>NASA/JPL-Caltech Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint” detected by a. “We’re looking for clues to reconstruct what happened here.” The sensor that detected the topaz deposit on public land near Barstow, California, was built at JPL.</p><p>The technology was pioneered in the early 1980s by a team that included Green, and space-hardened versions have explored the Moon, Mars, and other rocky bodies in the solar system. The latest model, AVIRIS-5, recently took to the skies for the first time as part of the NASA-USGS Geologic Earth Mapping Experiment ( GEMx ).</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>“But there’s a lot more to discover.” From the beginning, the GEMx mineral mapping campaign has been enabled by one of the highest-flying aircraft in NASA’s fleet: the ER‑2. It deployed on March 31 from NASA’s Armstrong Flight Research Center in Edwards, California, to Colorado Springs Airport in Colorado.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi recentemente enviada ao deserto de Mojave para investigar uma tentadora.",
+      "Dado-chave: Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi recentemente enviada ao deserto de Mojave para investigar uma.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi recentemente enviada ao deserto de Mojave para investigar uma tentadora.",
+      "Dado-chave: Equipados com picaretas e lentes manuais, uma equipe de geocientistas foi recentemente enviada ao deserto de Mojave para investigar uma.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint”.",
+      "Key detail: Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "11 jun 2026",
+    "date_pt": "11 jun 2026",
+    "date_en": "11 Jun 2026",
+    "time": "15h38",
+    "time_pt": "15h38",
+    "time_en": "15:38 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-11T15:38:31+00:00",
+    "lastModifiedIso": "2026-06-11T15:38:31+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Cientistas da NASA e do USGS caçam rochas no alto deserto da Califórnia"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Cientistas da NASA e do USGS caçam rochas no alto deserto da Califórnia"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA and USGS scientists hunt for rocks in California's high desert"
+    ],
+    "srcUrl": "https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-usgs-scientists-go-rock-hounding-in-california-s-high-desert",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-usgs-scientists-go-rock-hounding-in-california-s-high-desert",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-usgs-scientists-go-rock-hounding-in-california-s-high-desert&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 82,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 28,
     "slug": "air-pollution-s-daily-pulse-over-the-northeast",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3141,16 +3323,16 @@ window.postsData = [
         "alt_en": "A top-down photo shows a detailed view of the leading edge of a glacier terminating in a lake. The glacial ice is heavily crevassed with intersecting linear features."
       },
       {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pollution's-daily-pulse-over-the-northeast/nyam_tempo_no2_20260518.jpg?w=2160&h=1795&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Um mapa do dióxido de nitrogênio matinal mostra concentrações elevadas do gás em uma região que se estende da cidade de Nova York a Washington, D.C., às 7h05 do dia 18 de maio de 2026. Um segundo mapa da mesma área mostra concentrações muito mais baixas naquela tarde.",
-        "caption_pt": "Um mapa do dióxido de nitrogênio matinal mostra concentrações elevadas do gás em uma região que se estende da cidade de Nova York a Washington, D.C., às 7h05 do dia 18 de maio de 2026. Um segundo mapa da mesma área mostra concentrações muito mais baixas naquela tarde.",
-        "caption_en": "A map of morning nitrogen dioxide shows elevated concentrations of the gas over a region stretching from New York City to Washington, D.C., at 7:05 a.m. on May 18, 2026. A second map of the same area shows much lower concentrations that afternoon.",
-        "alt": "Um mapa do dióxido de nitrogênio matinal mostra concentrações elevadas do gás em uma região que se estende da cidade de Nova York a Washington, D.C., às 7h05 do dia 18 de maio de 2026. Um segundo mapa da mesma área mostra concentrações muito mais baixas naquela tarde.",
-        "alt_pt": "Um mapa do dióxido de nitrogênio matinal mostra concentrações elevadas do gás em uma região que se estende da cidade de Nova York a Washington, D.C., às 7h05 do dia 18 de maio de 2026. Um segundo mapa da mesma área mostra concentrações muito mais baixas naquela tarde.",
-        "alt_en": "A map of morning nitrogen dioxide shows elevated concentrations of the gas over a region stretching from New York City to Washington, D.C., at 7:05 a.m. on May 18, 2026. A second map of the same area shows much lower concentrations that afternoon."
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/world-cup-fever-in-guadalajara/guadalajara_oli_20260427_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Imagens de Guadalajara em 1986 (esquerda) e 2026 (direita) mostram a cidade se expandindo para o oeste em uma área que era composta principalmente de terras agrícolas. O Estádio de Guadalajara aparece como um pequeno elemento circular no lado esquerdo da imagem de 2026.",
+        "caption_pt": "Imagens de Guadalajara em 1986 (esquerda) e 2026 (direita) mostram a cidade se expandindo para o oeste em uma área que era composta principalmente de terras agrícolas. O Estádio de Guadalajara aparece como um pequeno elemento circular no lado esquerdo da imagem de 2026.",
+        "caption_en": "Images of Guadalajara in 1986 (left) and 2026 (right) shows the city expanding westward into an area that had been mostly farmland. Guadalajara Stadium appears as a small circular feature on the left side of the 2026 image.",
+        "alt": "Imagens de Guadalajara em 1986 (esquerda) e 2026 (direita) mostram a cidade se expandindo para o oeste em uma área que era composta principalmente de terras agrícolas. O Estádio de Guadalajara aparece como um pequeno elemento circular no lado esquerdo da imagem de 2026.",
+        "alt_pt": "Imagens de Guadalajara em 1986 (esquerda) e 2026 (direita) mostram a cidade se expandindo para o oeste em uma área que era composta principalmente de terras agrícolas. O Estádio de Guadalajara aparece como um pequeno elemento circular no lado esquerdo da imagem de 2026.",
+        "alt_en": "Images of Guadalajara in 1986 (left) and 2026 (right) shows the city expanding westward into an area that had been mostly farmland. Guadalajara Stadium appears as a small circular feature on the left side of the 2026 image."
       },
       {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pollution's-daily-pulse-over-the-northeast/nypm_tempo_no2_20260518.jpg?w=2160&h=1795&fit=clip&crop=faces%2Cfocalpoint",
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pollution's-daily-pulse-over-the-northeast/nyam_tempo_no2_20260518.jpg?w=2160&h=1795&fit=clip&crop=faces%2Cfocalpoint",
         "caption": "Um mapa do dióxido de nitrogênio matinal mostra concentrações elevadas do gás em uma região que se estende da cidade de Nova York a Washington, D.C., às 7h05 do dia 18 de maio de 2026. Um segundo mapa da mesma área mostra concentrações muito mais baixas naquela tarde.",
         "caption_pt": "Um mapa do dióxido de nitrogênio matinal mostra concentrações elevadas do gás em uma região que se estende da cidade de Nova York a Washington, D.C., às 7h05 do dia 18 de maio de 2026. Um segundo mapa da mesma área mostra concentrações muito mais baixas naquela tarde.",
         "caption_en": "A map of morning nitrogen dioxide shows elevated concentrations of the gas over a region stretching from New York City to Washington, D.C., at 7:05 a.m. on May 18, 2026. A second map of the same area shows much lower concentrations that afternoon.",
@@ -3258,7 +3440,131 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 29,
+    "slug": "esa-science-missions-get-green-light-for-new-discoveries",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/inspiring_humankind_with_space_science_at_esa/27322488-1-eng-GB/Inspiring_humankind_with_space_science_at_ESA_card_full.png",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/07/esa_science_missions/24379381-7-eng-GB/ESA_science_missions_article.gif",
+        "caption": "Missões científicas espaciais passadas, atuais e futuras da ESA",
+        "caption_pt": "Missões científicas espaciais passadas, atuais e futuras da ESA",
+        "caption_en": "ESA's past, current and future space science missions",
+        "alt": "Missões científicas espaciais passadas, atuais e futuras da ESA",
+        "alt_pt": "Missões científicas espaciais passadas, atuais e futuras da ESA",
+        "alt_en": "ESA's past, current and future space science missions"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/11/medium_science_mission_selection_process/25172828-1-eng-GB/Medium_science_mission_selection_process_article.png",
+        "caption": "Processo de seleção de missão científica média",
+        "caption_pt": "Processo de seleção de missão científica média",
+        "caption_en": "Medium science mission selection process",
+        "alt": "Processo de seleção de missão científica média",
+        "alt_pt": "Processo de seleção de missão científica média",
+        "alt_en": "Medium science mission selection process"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Missões científicas da ESA recebem luz verde para novas descobertas",
+    "title_pt": "Missões científicas da ESA recebem luz verde para novas descobertas",
+    "title_en": "ESA science missions get green light for new discoveries",
+    "sub": "Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa.",
+    "sub_pt": "Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa.",
+    "sub_en": "On 10, 11 June, representatives from European Space Agency Member States met in Tenerife to make far-reaching decisions about the future of ESA’s Science Programme. Their.",
+    "excerpt": "Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa Científico da ESA. As suas decisões de alargar as missões actuais e adoptar a.",
+    "excerpt_pt": "Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa Científico da ESA. As suas decisões de alargar as missões actuais e adoptar a.",
+    "excerpt_en": "On 10, 11 June, representatives from European Space Agency Member States met in Tenerife to make far-reaching decisions about the future of ESA’s Science Programme. Their decisions to extend current missions and adopt the next ‘fast-class’.",
+    "body": "<p>Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa Científico da ESA. As suas decisões de alargar as missões actuais e adoptar a próxima “classe. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. De 10 a 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia (ESA) reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa. As suas decisões de alargar as actuais missões e adoptar a próxima missão de “classe rápida”, Arrakihs, sublinham a liderança europeia e o compromisso a longo prazo com a ciência.</p><p>O Comité inclui representantes de cada um dos 23 Estados-Membros da ESA, garantindo que todos os países têm uma palavra a dizer nas principais decisões que decidem o futuro da. O nosso objetivo é proporcionar as melhores missões possíveis para incentivar a inovação tecnológica e as descobertas científicas em todos os nossos Estados-Membros.” As decisões.</p><p>As extensões para além deste período dependem da capacidade da missão de continuar a fornecer ciência nova. O Comité do Programa Científico discutiu a extensão das 13 missões que deverão terminar a sua fase científica atual antes do final de 2026.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_science_missions_get_green_light_for_new_discoveries\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa Científico da ESA. As suas decisões de alargar as missões actuais e adoptar a próxima “classe. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. De 10 a 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia (ESA) reuniram-se em Tenerife para tomar decisões de longo alcance sobre o futuro do Programa. As suas decisões de alargar as actuais missões e adoptar a próxima missão de “classe rápida”, Arrakihs, sublinham a liderança europeia e o compromisso a longo prazo com a ciência.</p><p>O Comité inclui representantes de cada um dos 23 Estados-Membros da ESA, garantindo que todos os países têm uma palavra a dizer nas principais decisões que decidem o futuro da. O nosso objetivo é proporcionar as melhores missões possíveis para incentivar a inovação tecnológica e as descobertas científicas em todos os nossos Estados-Membros.” As decisões.</p><p>As extensões para além deste período dependem da capacidade da missão de continuar a fornecer ciência nova. O Comité do Programa Científico discutiu a extensão das 13 missões que deverão terminar a sua fase científica atual antes do final de 2026.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_science_missions_get_green_light_for_new_discoveries\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>On 10, 11 June, representatives from European Space Agency Member States met in Tenerife to make far-reaching decisions about the future of ESA’s Science Programme. Their decisions to extend current missions and adopt the next ‘fast-class’. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. On 10, 11 June, representatives from European Space Agency (ESA) Member States met in Tenerife to make far-reaching decisions about the future of ESA’s Science Programme. Their decisions to extend current missions and adopt the next ‘fast-class’ mission, Arrakihs, underscores European leadership in, and long-term commitment to, space science.</p><p>The Committee includes representatives from each of ESA’s 23 Member States, ensuring that all countries have an equal say in major decisions that decide the future of European. Our aim is to provide the best missions possible to encourage technological innovation and scientific discoveries across our Member States.” The decisions taken and discussions.</p><p>Extensions beyond this period depend on the ability of the mission to continue delivering novel science. The Science Programme Committee discussed the extension of the 13 missions that are due to end their current science phase before the end of 2026.</p><p>In alphabetical order, these missions are: BepiColombo, Cheops, Einstein Probe, Hinode, Hubble, IRIS, Mars Express, Proba-3, SOHO, Solar Orbiter, Webb, XMM-Newton and XRISM. The extension is particularly important for Solar Orbiter, an ESA-led mission to study the Sun up close.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Launched in 2020, Solar Orbiter is currently giving humankind its first views of the Sun’s poles. Missions that will still be operating in, or are yet to begin, their initial science phase at the end of 2029, including Euclid, Juice and Smile, were not considered for extension.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/ESA_science_missions_get_green_light_for_new_discoveries\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo.",
+      "Dado-chave: De 10 a 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia (ESA) reuniram-se em Tenerife para tomar decisões de longo.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Nos dias 10 e 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia reuniram-se em Tenerife para tomar decisões de longo.",
+      "Dado-chave: De 10 a 11 de Junho, representantes dos Estados-Membros da Agência Espacial Europeia (ESA) reuniram-se em Tenerife para tomar decisões de longo.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: On 10, 11 June, representatives from European Space Agency Member States met in Tenerife to make far-reaching decisions about the future of ESA’s.",
+      "Key detail: On 10, 11 June, representatives from European Space Agency (ESA) Member States met in Tenerife to make far-reaching decisions about the future.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "11 jun 2026",
+    "date_pt": "11 jun 2026",
+    "date_en": "11 Jun 2026",
+    "time": "08h00",
+    "time_pt": "08h00",
+    "time_en": "08:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-11T08:00:00+00:00",
+    "lastModifiedIso": "2026-06-11T08:00:00+00:00",
+    "source": "ESA Space Science",
+    "sourceDomain": "www.esa.int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Missões científicas da ESA recebem luz verde para novas descobertas"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Missões científicas da ESA recebem luz verde para novas descobertas"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Space Science",
+      "Cosmos Week",
+      "ESA science missions get the green light for new discoveries"
+    ],
+    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/ESA_science_missions_get_green_light_for_new_discoveries",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-science-missions-get-green-light-for-new-discoveries",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-science-missions-get-green-light-for-new-discoveries",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-science-missions-get-green-light-for-new-discoveries&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 90,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 30,
     "slug": "esa-adopts-galactic-archaeology-mission-arrakihs",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3382,7 +3688,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 31,
     "slug": "esa-s-prodex-programme-brings-scientific-research-to-space",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3487,7 +3793,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 32,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3623,7 +3929,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 33,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3750,7 +4056,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 34,
     "slug": "science-release-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3886,7 +4192,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 35,
     "slug": "revival-of-australia-s-molonglo-radio-telescope",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4000,74 +4306,83 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 77,
+    "score": 76,
     "scoreBreakdown": {
       "source": 74,
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 34,
-    "slug": "dark-matter-how-new-telescopes-might-help-us-find-it",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://images.theconversation.com/files/734128/original/file-20260505-71-99u9sv.jpg?ixlib=rb-4.1.0&rect=0%2C208%2C3999%2C2250&q=45&auto=format&w=754&fit=clip",
+    "id": 36,
+    "slug": "this-is-how-supermassive-black-holes-feed-themselves",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://www.universetoday.com/article_images/Fig1_TOP_20260610_170809.jpg",
     "inline_images": [
       {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "src": "https://www.universetoday.com/article_images/S_Swirl_20260609_192512.jpg",
         "caption": "",
         "caption_pt": "",
         "caption_en": "",
         "alt": "",
         "alt_pt": "",
         "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/paa_jwst_fig1_9_2d_20260610_172140.jpg",
+        "caption": "Estes quatro painéis mostram NGC 4696 e os filamentos gasosos circundantes. O canto superior esquerdo é a imagem do Hubble, mostrando o redemoinho em preto e branco. As outras três imagens são do JWST e mostram que o redemoinho é na verdade giratório.",
+        "caption_pt": "Estes quatro painéis mostram NGC 4696 e os filamentos gasosos circundantes. O canto superior esquerdo é a imagem do Hubble, mostrando o redemoinho em preto e branco. As outras três imagens são do JWST e mostram que o redemoinho é na verdade giratório.",
+        "caption_en": "These four panels show NGC 4696 and the surrounding gaseous filaments. The upper left is the Hubble image, showing the swirl in black and white. The other three images are from the JWST and show that the swirl is actually a rotating.",
+        "alt": "Estes quatro painéis mostram NGC 4696 e os filamentos gasosos circundantes. O canto superior esquerdo é a imagem do Hubble, mostrando o redemoinho em preto e branco. As outras três imagens são do JWST e mostram que o redemoinho é na verdade giratório.",
+        "alt_pt": "Estes quatro painéis mostram NGC 4696 e os filamentos gasosos circundantes. O canto superior esquerdo é a imagem do Hubble, mostrando o redemoinho em preto e branco. As outras três imagens são do JWST e mostram que o redemoinho é na verdade giratório.",
+        "alt_en": "These four panels show NGC 4696 and the surrounding gaseous filaments. The upper left is the Hubble image, showing the swirl in black and white. The other three images are from the JWST and show that the swirl is actually a rotating."
       }
     ],
     "video": null,
     "audio": null,
-    "title": "Matéria escura: como novos telescópios podem nos ajudar a encontrá-la",
-    "title_pt": "Matéria escura: como novos telescópios podem nos ajudar a encontrá-la",
-    "title_en": "Dark matter: How new telescopes might help us find it",
-    "sub": "Novos telescópios podem aproximar os cientistas da detecção de matéria escura. Eles poderão em breve revelar sinais que finalmente nos permitirão compreender esta substância.",
-    "sub_pt": "Novos telescópios podem aproximar os cientistas da detecção de matéria escura. Eles poderão em breve revelar sinais que finalmente nos permitirão compreender esta substância.",
-    "sub_en": "New telescopes might bring scientists closer to detecting dark matter. They could soon reveal signals that finally let us understand this mysterious substance. The post Dark.",
-    "excerpt": "Novos telescópios podem aproximar os cientistas da detecção de matéria escura. Eles poderão em breve revelar sinais que finalmente nos permitirão compreender esta substância misteriosa. O post Matéria escura: como novos telescópios podem nos ajudar a.",
-    "excerpt_pt": "Novos telescópios podem aproximar os cientistas da detecção de matéria escura. Eles poderão em breve revelar sinais que finalmente nos permitirão compreender esta substância misteriosa. O post Matéria escura: como novos telescópios podem nos ajudar a.",
-    "excerpt_en": "New telescopes might bring scientists closer to detecting dark matter. They could soon reveal signals that finally let us understand this mysterious substance. The post Dark matter: How new telescopes might help us find it first appeared.",
-    "body": "<p>Novos telescópios podem aproximar os cientistas da detecção de matéria escura. Eles poderão em breve revelar sinais que finalmente nos permitirão compreender esta substância misteriosa. O post Matéria escura: como novos telescópios podem nos ajudar a encontrá-la apareceu pela. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Novos telescópios como o Observatório Rubin poderiam ajudar os astrônomos a encontrar matéria escura. Novos telescópios poderão ajudar a confirmar se estes sinais vêm da matéria escura.</p><p>Os planos da NASA de devolver astronautas à Lua através do programa Artemis e, finalmente, enviar humanos a Marte destacam o quão longe a exploração espacial chegou. No entanto, embora a Lua e Marte continuem a ser destinos atraentes cheios de mistérios científicos, olhar para além do nosso sistema solar levanta questões ainda mais profundas.</p><p>Os físicos estimam que cerca de 85% de toda a matéria é composta por algo que não podemos ver, tocar ou detectar diretamente. Um sinal misterioso no coração da nossa galáxia Uma das ferramentas mais poderosas para esta busca é o Fermi Large Area Telescope da NASA, conhecido como Fermi-LAT, que tem.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/dark-matter-how-new-telescopes-will-help-us-find-it/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Novos telescópios podem aproximar os cientistas da detecção de matéria escura. Eles poderão em breve revelar sinais que finalmente nos permitirão compreender esta substância misteriosa. O post Matéria escura: como novos telescópios podem nos ajudar a encontrá-la apareceu pela. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Novos telescópios como o Observatório Rubin poderiam ajudar os astrônomos a encontrar matéria escura. Novos telescópios poderão ajudar a confirmar se estes sinais vêm da matéria escura.</p><p>Os planos da NASA de devolver astronautas à Lua através do programa Artemis e, finalmente, enviar humanos a Marte destacam o quão longe a exploração espacial chegou. No entanto, embora a Lua e Marte continuem a ser destinos atraentes cheios de mistérios científicos, olhar para além do nosso sistema solar levanta questões ainda mais profundas.</p><p>Os físicos estimam que cerca de 85% de toda a matéria é composta por algo que não podemos ver, tocar ou detectar diretamente. Um sinal misterioso no coração da nossa galáxia Uma das ferramentas mais poderosas para esta busca é o Fermi Large Area Telescope da NASA, conhecido como Fermi-LAT, que tem.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/dark-matter-how-new-telescopes-will-help-us-find-it/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>New telescopes might bring scientists closer to detecting dark matter. They could soon reveal signals that finally let us understand this mysterious substance. The post Dark matter: How new telescopes might help us find it first appeared. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. New telescopes like the Rubin Observatory could help astronomers find dark matter. New telescopes could help confirm whether these signals come from dark matter.</p><p>NASA’s plans to return astronauts to the moon through the Artemis program and ultimately send humans to Mars highlight just how far space exploration has come. Yet while the moon and Mars remain compelling destinations filled with scientific mysteries, looking beyond our solar system raises even deeper questions about the universe itself.</p><p>Physicists estimate that about 85% of all matter is made of something we cannot see, touch or directly detect. A mysterious signal at the heart of our galaxy One of the most powerful tools for this search is NASA’s Fermi Large Area Telescope, known as Fermi-LAT, which has been observing.</p><p>For years, Fermi has detected an unexplained glow of gamma rays coming from the center of the Milky Way. These objects can produce gamma rays that mimic the expected signal from dark matter.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>However, an analysis published in March 2024 led by our team at Clemson University found hints of a signal emerging from these dwarf galaxies, and updated results collected since. The properties of this signal are also consistent with what scientists see in the center of the Milky Way.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/dark-matter-how-new-telescopes-will-help-us-find-it/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "É assim que os buracos negros supermassivos se alimentam",
+    "title_pt": "É assim que os buracos negros supermassivos se alimentam",
+    "title_en": "This is How Supermassive Black Holes Feed Themselves",
+    "sub": "Os astrónomos podem ter encontrado o elo que faltava no processo de alimentação do SMBH. Novas observações com o JWST mostram que o disco circunnuclear de uma galáxia, que.",
+    "sub_pt": "Os astrónomos podem ter encontrado o elo que faltava no processo de alimentação do SMBH. Novas observações com o JWST mostram que o disco circunnuclear de uma galáxia, que.",
+    "sub_en": "Astronomers may have found the missing link in the SMBH feeding process. New observations with the JWST show that a galaxy's circumnuclear disk, which feeds gas into its black.",
+    "excerpt": "Os astrónomos podem ter encontrado o elo que faltava no processo de alimentação do SMBH. Novas observações com o JWST mostram que o disco circunnuclear de uma galáxia, que alimenta o seu buraco negro com gás, está ligado a uma rede muito maior de filamentos.",
+    "excerpt_pt": "Os astrónomos podem ter encontrado o elo que faltava no processo de alimentação do SMBH. Novas observações com o JWST mostram que o disco circunnuclear de uma galáxia, que alimenta o seu buraco negro com gás, está ligado a uma rede muito maior de filamentos.",
+    "excerpt_en": "Astronomers may have found the missing link in the SMBH feeding process. New observations with the JWST show that a galaxy's circumnuclear disk, which feeds gas into its black hole, is connected to a much larger network of filaments. Cool.",
+    "body": "<p>Os astrónomos podem ter encontrado o elo que faltava no processo de alimentação do SMBH. Novas observações com o JWST mostram que o disco circunnuclear de uma galáxia, que alimenta o seu buraco negro com gás, está ligado a uma rede muito maior de filamentos. Legal. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Novas observações com o JWST mostram que o disco circunnuclear de uma galáxia, que alimenta o seu buraco negro com gás, está ligado a uma rede muito maior de filamentos. Mas apenas algumas galáxias são facilmente observadas em detalhe, mesmo pelo poderoso JWST.</p><p>O aglomerado Centaurus está a cerca de 170 milhões de anos-luz de distância e contém centenas de galáxias. Sua galáxia central e mais luminosa, NGC 4696, está embutida em uma rede de filamentos gasosos.</p><p>Como o aglomerado está tão próximo em termos astronômicos, o Hubble obteve imagens desta região e encontrou um redemoinho de gás ionizado em forma de S dentro da esfera de. Numa nova investigação, os astrónomos usaram o JWST para observar este redemoinho e aprender mais sobre ele.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/this-is-how-supermassive-black-holes-feed-themselves\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os astrónomos podem ter encontrado o elo que faltava no processo de alimentação do SMBH. Novas observações com o JWST mostram que o disco circunnuclear de uma galáxia, que alimenta o seu buraco negro com gás, está ligado a uma rede muito maior de filamentos. Legal. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Novas observações com o JWST mostram que o disco circunnuclear de uma galáxia, que alimenta o seu buraco negro com gás, está ligado a uma rede muito maior de filamentos. Mas apenas algumas galáxias são facilmente observadas em detalhe, mesmo pelo poderoso JWST.</p><p>O aglomerado Centaurus está a cerca de 170 milhões de anos-luz de distância e contém centenas de galáxias. Sua galáxia central e mais luminosa, NGC 4696, está embutida em uma rede de filamentos gasosos.</p><p>Como o aglomerado está tão próximo em termos astronômicos, o Hubble obteve imagens desta região e encontrou um redemoinho de gás ionizado em forma de S dentro da esfera de. Numa nova investigação, os astrónomos usaram o JWST para observar este redemoinho e aprender mais sobre ele.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/this-is-how-supermassive-black-holes-feed-themselves\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Astronomers may have found the missing link in the SMBH feeding process. New observations with the JWST show that a galaxy&#x27;s circumnuclear disk, which feeds gas into its black hole, is connected to a much larger network of filaments. Cool. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. New observations with the JWST show that a galaxy&#x27;s circumnuclear disk, which feeds gas into its black hole, is connected to a much larger network of filaments. But only some galaxies are readily observed in detail, even by the powerful JWST.</p><p>The Centaurus cluster is about 170 million light-years away and contains hundreds of galaxies. It&#x27;s central and most luminous galaxy, NGC 4696, is embedded in a network of gaseous filaments.</p><p>Since the cluster is so close in astronomical terms, the Hubble has imaged this region and found an S-shaped swirl of ionized gas within the sphere of influence of the galaxy&#x27;s. In new research, astronomers used the JWST to observe this swirl and learn more about it.</p><p>The research is &quot; JWST reveals how black holes are fed: kiloparsec-scale multiphase filaments feed sub-kiloparsec circumnuclear disks, &quot; and it&#x27;s been submitted to The. It&#x27;s currently availalbe at arxiv. org.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>The Centaurus cluster is one of the most important archetypes of radio-mode AGN feedback, with its central galaxy, NGC 4696, launching powerful jets that inflate X-ray cavities. The swirl of ionized gas near NGC 4606 was detected by the Hubble in Hα imaging, a very important and a very widely-used emission line in astronomy that traces ionization.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/this-is-how-supermassive-black-holes-feed-themselves\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Novos telescópios podem aproximar os cientistas da detecção de matéria escura. Eles poderão em breve revelar sinais que finalmente nos permitirão.",
-      "Dado-chave: Novos telescópios como o Observatório Rubin poderiam ajudar os astrônomos a encontrar matéria escura.",
+      "Ponto central: Os astrónomos podem ter encontrado o elo que faltava no processo de alimentação do SMBH. Novas observações com o JWST mostram que o disco.",
+      "Dado-chave: Novas observações com o JWST mostram que o disco circunnuclear de uma galáxia, que alimenta o seu buraco negro com gás, está ligado a uma rede.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Novos telescópios podem aproximar os cientistas da detecção de matéria escura. Eles poderão em breve revelar sinais que finalmente nos permitirão.",
-      "Dado-chave: Novos telescópios como o Observatório Rubin poderiam ajudar os astrônomos a encontrar matéria escura.",
+      "Ponto central: Os astrónomos podem ter encontrado o elo que faltava no processo de alimentação do SMBH. Novas observações com o JWST mostram que o disco.",
+      "Dado-chave: Novas observações com o JWST mostram que o disco circunnuclear de uma galáxia, que alimenta o seu buraco negro com gás, está ligado a uma rede.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: New telescopes might bring scientists closer to detecting dark matter. They could soon reveal signals that finally let us understand this mysterious.",
-      "Key detail: New telescopes like the Rubin Observatory could help astronomers find dark matter.",
+      "Core point: Astronomers may have found the missing link in the SMBH feeding process. New observations with the JWST show that a galaxy's circumnuclear disk.",
+      "Key detail: New observations with the JWST show that a galaxy's circumnuclear disk, which feeds gas into its black hole, is connected to a much larger.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "11 jun 2026",
-    "date_pt": "11 jun 2026",
-    "date_en": "11 Jun 2026",
-    "time": "11h30",
-    "time_pt": "11h30",
-    "time_en": "11:30 UTC",
+    "date": "10 jun 2026",
+    "date_pt": "10 jun 2026",
+    "date_en": "10 Jun 2026",
+    "time": "18h12",
+    "time_pt": "18h12",
+    "time_en": "18:12 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-11T11:30:37+00:00",
-    "lastModifiedIso": "2026-06-11T11:30:37+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
+    "publishedIso": "2026-06-10T18:12:10+00:00",
+    "lastModifiedIso": "2026-06-10T18:12:10+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -4084,30 +4399,27 @@ window.postsData = [
     "editorialBandLabel_pt": "Prioridade editorial",
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
-      "Cosmologia",
-      "EarthSky",
+      "Astrofísica",
+      "Universe Today",
       "Cosmos Week",
-      "Matéria escura",
-      "como novos telescópios podem nos ajudar a encontrá"
+      "É assim que os buracos negros supermassivos se alimentam"
     ],
     "keywords_pt": [
-      "Cosmologia",
-      "EarthSky",
+      "Astrofísica",
+      "Universe Today",
       "Cosmos Week",
-      "Matéria escura",
-      "como novos telescópios podem nos ajudar a encontrá"
+      "É assim que os buracos negros supermassivos se alimentam"
     ],
     "keywords_en": [
-      "Cosmology",
-      "EarthSky",
+      "Astrophysics",
+      "Universe Today",
       "Cosmos Week",
-      "dark matter",
-      "How new telescopes can help us find"
+      "This is how supermassive black holes feed themselves"
     ],
-    "srcUrl": "https://earthsky.org/space/dark-matter-how-new-telescopes-will-help-us-find-it/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=dark-matter-how-new-telescopes-might-help-us-find-it",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=dark-matter-how-new-telescopes-might-help-us-find-it",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=dark-matter-how-new-telescopes-might-help-us-find-it&lang=en",
+    "srcUrl": "https://www.universetoday.com/articles/this-is-how-supermassive-black-holes-feed-themselves",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=this-is-how-supermassive-black-holes-feed-themselves",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=this-is-how-supermassive-black-holes-feed-themselves",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=this-is-how-supermassive-black-holes-feed-themselves&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -4118,17 +4430,17 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 75,
+    "score": 76,
     "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
+      "source": 73,
+      "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 35,
+    "id": 37,
     "slug": "meet-callisto-jupiter-s-ancient-moon",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4264,7 +4576,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 38,
     "slug": "alan-hale-1958-2026",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4400,7 +4712,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 39,
     "slug": "amazon-s-satellites-are-impacting-astronomy",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4533,7 +4845,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 40,
     "slug": "gravitational-wave-detections-surge-with-latest-release",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4663,247 +4975,6 @@ window.postsData = [
       "relevance": 88,
       "accessibility": 60,
       "novelty": 49
-    }
-  },
-  {
-    "id": 39,
-    "slug": "join-esa-for-a-total-solar-eclipse-on-12-august-2026",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/solar_eclipse_artist_impression/27150246-1-eng-GB/Solar_eclipse_artist_impression_card_full.png",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Junte-se à ESA para um eclipse solar total em 12 de agosto de 2026",
-    "title_pt": "Junte-se à ESA para um eclipse solar total em 12 de agosto de 2026",
-    "title_en": "Join ESA for a total solar eclipse on 12 August 2026",
-    "sub": "Acompanhe o eclipse solar total com a Agência Espacial Europeia, pessoalmente ou online.",
-    "sub_pt": "Acompanhe o eclipse solar total com a Agência Espacial Europeia, pessoalmente ou online.",
-    "sub_en": "Follow the total solar eclipse with the European Space Agency, in person or online.",
-    "excerpt": "Acompanhe o eclipse solar total com a Agência Espacial Europeia, pessoalmente ou online.",
-    "excerpt_pt": "Acompanhe o eclipse solar total com a Agência Espacial Europeia, pessoalmente ou online.",
-    "excerpt_en": "Follow the total solar eclipse with the European Space Agency, in person or online.",
-    "body": "<p>Acompanhe o eclipse solar total com a Agência Espacial Europeia, pessoalmente ou online. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Acompanhe o eclipse solar total com a Agência Espacial Europeia (ESA), pessoalmente ou online.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Join_ESA_for_a_total_solar_eclipse_on_12_August_2026\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Acompanhe o eclipse solar total com a Agência Espacial Europeia, pessoalmente ou online. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Acompanhe o eclipse solar total com a Agência Espacial Europeia (ESA), pessoalmente ou online.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Join_ESA_for_a_total_solar_eclipse_on_12_August_2026\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Follow the total solar eclipse with the European Space Agency, in person or online. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Follow the total solar eclipse with the European Space Agency (ESA), in person or online.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Join_ESA_for_a_total_solar_eclipse_on_12_August_2026\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Acompanhe o eclipse solar total com a Agência Espacial Europeia, pessoalmente ou online.",
-      "Dado-chave: Acompanhe o eclipse solar total com a Agência Espacial Europeia (ESA), pessoalmente ou online.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Acompanhe o eclipse solar total com a Agência Espacial Europeia, pessoalmente ou online.",
-      "Dado-chave: Acompanhe o eclipse solar total com a Agência Espacial Europeia (ESA), pessoalmente ou online.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Follow the total solar eclipse with the European Space Agency, in person or online.",
-      "Key detail: Follow the total solar eclipse with the European Space Agency (ESA), in person or online.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "21 mai 2026",
-    "date_pt": "21 mai 2026",
-    "date_en": "21 May 2026",
-    "time": "13h00",
-    "time_pt": "13h00",
-    "time_en": "13:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-21T13:00:00+00:00",
-    "lastModifiedIso": "2026-05-21T13:00:00+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www.esa.int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Junte",
-      "se à ESA para um eclipse solar total em 12 de agosto de 2026"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Junte",
-      "se à ESA para um eclipse solar total em 12 de agosto de 2026"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Join",
-      "to ESA for a total solar eclipse on August 12, 2026"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Join_ESA_for_a_total_solar_eclipse_on_12_August_2026",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=join-esa-for-a-total-solar-eclipse-on-12-august-2026",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=join-esa-for-a-total-solar-eclipse-on-12-august-2026",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=join-esa-for-a-total-solar-eclipse-on-12-august-2026&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 88,
-      "relevance": 70,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 40,
-    "slug": "gravity-waves-from-super-typhoon-sinlaku",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/gravity-waves-from-super-typhoon-sinlaku/sinlaku_gravitywaves_vir_20260412.jpg?w=2160&h=1733&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/painting-a-season-in-the-maize-triangle/southafricaag_nisar_20260310_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Uma visualização de terras agrícolas na África do Sul mostra campos geométricos numa variedade de cores que combinam vermelho, verde e azul.",
-        "caption_pt": "Uma visualização de terras agrícolas na África do Sul mostra campos geométricos numa variedade de cores que combinam vermelho, verde e azul.",
-        "caption_en": "A visualization of agricultural land in South Africa shows geometric fields in an array of colors that combine red, green, and blue.",
-        "alt": "Uma visualização de terras agrícolas na África do Sul mostra campos geométricos numa variedade de cores que combinam vermelho, verde e azul.",
-        "alt_pt": "Uma visualização de terras agrícolas na África do Sul mostra campos geométricos numa variedade de cores que combinam vermelho, verde e azul.",
-        "alt_en": "A visualization of agricultural land in South Africa shows geometric fields in an array of colors that combine red, green, and blue."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fire’s-footprint-on-santa-rosa-island/channelislandsfire_oli_20260524_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Uma imagem em cores falsas da Ilha de Santa Rosa de 24 de maio de 2026 mostra uma área queimada marrom-avermelhada abrangendo o terço oriental da ilha.",
-        "caption_pt": "Uma imagem em cores falsas da Ilha de Santa Rosa de 24 de maio de 2026 mostra uma área queimada marrom-avermelhada abrangendo o terço oriental da ilha.",
-        "caption_en": "A false-color image of Santa Rosa Island from May 24, 2026, shows a reddish-brown burned area spanning the eastern third of the island.",
-        "alt": "Uma imagem em cores falsas da Ilha de Santa Rosa de 24 de maio de 2026 mostra uma área queimada marrom-avermelhada abrangendo o terço oriental da ilha.",
-        "alt_pt": "Uma imagem em cores falsas da Ilha de Santa Rosa de 24 de maio de 2026 mostra uma área queimada marrom-avermelhada abrangendo o terço oriental da ilha.",
-        "alt_en": "A false-color image of Santa Rosa Island from May 24, 2026, shows a reddish-brown burned area spanning the eastern third of the island."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/gravity-waves-from-super-typhoon-sinlaku/sinlakugravitywaves_airs_20260413.jpg?w=2160&h=2355&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "A assinatura das ondas gravitacionais na estratosfera aparece como anéis concêntricos em dados de satélite infravermelho.",
-        "caption_pt": "A assinatura das ondas gravitacionais na estratosfera aparece como anéis concêntricos em dados de satélite infravermelho.",
-        "caption_en": "The signature of gravity waves in the stratosphere appears as concentric rings in infrared satellite data.",
-        "alt": "A assinatura das ondas gravitacionais na estratosfera aparece como anéis concêntricos em dados de satélite infravermelho.",
-        "alt_pt": "A assinatura das ondas gravitacionais na estratosfera aparece como anéis concêntricos em dados de satélite infravermelho.",
-        "alt_en": "The signature of gravity waves in the stratosphere appears as concentric rings in infrared satellite data."
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Ondas gravitacionais do supertufão Sinlaku",
-    "title_pt": "Ondas gravitacionais do supertufão Sinlaku",
-    "title_en": "Gravity Waves From Super Typhoon Sinlaku",
-    "sub": "Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas gravitacionais do supertufão Sinlaku.",
-    "sub_pt": "Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas gravitacionais do supertufão Sinlaku.",
-    "sub_en": "Satellites observed striking upper-atmosphere phenomena generated by an intensifying tropical cyclone. The post Gravity Waves From Super Typhoon Sinlaku appeared first on NASA.",
-    "excerpt": "Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science.",
-    "excerpt_pt": "Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science.",
-    "excerpt_en": "Satellites observed striking upper-atmosphere phenomena generated by an intensifying tropical cyclone. The post Gravity Waves From Super Typhoon Sinlaku appeared first on NASA Science.",
-    "body": "<p>Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science. A energia térmica das ondas gravitacionais produzidas pelo Super Typhoon Sinlaku foi detectada na estratosfera pelo instrumento AIRS (Atmospheric Infrared Sounder) no satélite.</p><p>As ondas gravitacionais do Observatório Terrestre da NASA/Michala Garrison Sinlaku, além de aparecerem no alto da atmosfera por meio do brilho do ar, foram observadas mais abaixo. Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal.</p><p>Explore dados de ciências da terra da Terra Acesso aberto ao arquivo de dados de ciências da Terra da NASA O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira. Observatório da Terra da NASA/Michala Garrison Em meados de abril de 2026, o Super Tufão Sinlaku atravessou o Oceano Pacífico Norte e trouxe fortes chuvas e inundações para as.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA Earth Observatory, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/gravity-waves-from-super-typhoon-sinlaku/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science. A energia térmica das ondas gravitacionais produzidas pelo Super Typhoon Sinlaku foi detectada na estratosfera pelo instrumento AIRS (Atmospheric Infrared Sounder) no satélite.</p><p>As ondas gravitacionais do Observatório Terrestre da NASA/Michala Garrison Sinlaku, além de aparecerem no alto da atmosfera por meio do brilho do ar, foram observadas mais abaixo. Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal.</p><p>Explore dados de ciências da terra da Terra Acesso aberto ao arquivo de dados de ciências da Terra da NASA O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira. Observatório da Terra da NASA/Michala Garrison Em meados de abril de 2026, o Super Tufão Sinlaku atravessou o Oceano Pacífico Norte e trouxe fortes chuvas e inundações para as.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA Earth Observatory, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/gravity-waves-from-super-typhoon-sinlaku/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Satellites observed striking upper-atmosphere phenomena generated by an intensifying tropical cyclone. The post Gravity Waves From Super Typhoon Sinlaku appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The post Gravity Waves From Super Typhoon Sinlaku appeared first on NASA Science. Thermal energy from gravity waves produced by Super Typhoon Sinlaku was detected in the stratosphere by the AIRS (Atmospheric Infrared Sounder) instrument on NASA’s Aqua satellite.</p><p>NASA Earth Observatory/Michala Garrison Sinlaku’s gravity waves, in addition to appearing high in the atmosphere via airglow, were observed lower in the atmosphere by the AIRS. Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</p><p>Explore Earth Science Earth Science Data Open access to NASA’s archive of Earth science data The post Gravity Waves From Super Typhoon Sinlaku appeared first on NASA Science. NASA Earth Observatory/Michala Garrison In mid-April 2026, Super Typhoon Sinlaku churned across the North Pacific Ocean and brought heavy rain and flooding to the Mariana Islands.</p><p>The nighttime image above, acquired with the VIIRS (Visible Infrared Imaging Radiometer Suite) on the NOAA-20 satellite, shows atmospheric gravity waves radiating from the typhoon. Winds in the upper atmosphere can dissipate the waves before they reach such high altitudes, Alexander explained, but relatively light stratospheric winds at the storm’s latitude.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The Moon was about 25 percent illuminated on April 12, so some light reflected off clouds in the troposphere was visible, but not enough to overpower the signal from the airglow. Sinlaku’s gravity waves, in addition to appearing high in the atmosphere via airglow, were observed lower in the atmosphere by the AIRS (Atmospheric Infrared Sounder) instrument.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/gravity-waves-from-super-typhoon-sinlaku/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas.",
-      "Dado-chave: O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas.",
-      "Dado-chave: O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Satellites observed striking upper-atmosphere phenomena generated by an intensifying tropical cyclone. The post Gravity Waves From Super Typhoon.",
-      "Key detail: The post Gravity Waves From Super Typhoon Sinlaku appeared first on NASA Science.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "01 jun 2026",
-    "date_pt": "01 jun 2026",
-    "date_en": "01 Jun 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04:01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-01T04:01:00+00:00",
-    "lastModifiedIso": "2026-06-01T04:01:00+00:00",
-    "source": "NASA Earth Observatory",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Ondas gravitacionais do supertufão Sinlaku"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Ondas gravitacionais do supertufão Sinlaku"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Gravitational waves from super typhoon Sinlaku"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/gravity-waves-from-super-typhoon-sinlaku/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=gravity-waves-from-super-typhoon-sinlaku",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=gravity-waves-from-super-typhoon-sinlaku",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=gravity-waves-from-super-typhoon-sinlaku&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 75,
-      "evidence": 88,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 46
     }
   }
 ];

@@ -40,14 +40,14 @@ window.postsData = [
     "date": "19 jun 2026",
     "date_pt": "19 jun 2026",
     "date_en": "19 Jun 2026",
-    "time": "02h20",
-    "time_pt": "02h20",
-    "time_en": "02:20 UTC",
+    "time": "08h16",
+    "time_pt": "08h16",
+    "time_en": "08:16 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-19T02:20:23.223875+00:00",
-    "lastModifiedIso": "2026-06-19T02:20:23.223875+00:00",
+    "publishedIso": "2026-06-19T08:16:30.494723+00:00",
+    "lastModifiedIso": "2026-06-19T08:16:30.494723+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "19 jun 2026",
     "date_pt": "19 jun 2026",
     "date_en": "19 Jun 2026",
-    "time": "02h20",
-    "time_pt": "02h20",
-    "time_en": "02:20 UTC",
+    "time": "08h16",
+    "time_pt": "08h16",
+    "time_en": "08:16 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-19T02:20:23.223831+00:00",
-    "lastModifiedIso": "2026-06-19T02:20:23.223831+00:00",
+    "publishedIso": "2026-06-19T08:16:30.494681+00:00",
+    "lastModifiedIso": "2026-06-19T08:16:30.494681+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,14 +250,14 @@ window.postsData = [
     "date": "19 jun 2026",
     "date_pt": "19 jun 2026",
     "date_en": "19 Jun 2026",
-    "time": "02h20",
-    "time_pt": "02h20",
-    "time_en": "02:20 UTC",
+    "time": "08h16",
+    "time_pt": "08h16",
+    "time_en": "08:16 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-19T02:20:23.223785+00:00",
-    "lastModifiedIso": "2026-06-19T02:20:23.223785+00:00",
+    "publishedIso": "2026-06-19T08:16:30.494646+00:00",
+    "lastModifiedIso": "2026-06-19T08:16:30.494646+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -358,14 +358,14 @@ window.postsData = [
     "date": "19 jun 2026",
     "date_pt": "19 jun 2026",
     "date_en": "19 Jun 2026",
-    "time": "02h20",
-    "time_pt": "02h20",
-    "time_en": "02:20 UTC",
+    "time": "08h16",
+    "time_pt": "08h16",
+    "time_en": "08:16 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-19T02:20:23.223738+00:00",
-    "lastModifiedIso": "2026-06-19T02:20:23.223738+00:00",
+    "publishedIso": "2026-06-19T08:16:30.494610+00:00",
+    "lastModifiedIso": "2026-06-19T08:16:30.494610+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -463,14 +463,14 @@ window.postsData = [
     "date": "19 jun 2026",
     "date_pt": "19 jun 2026",
     "date_en": "19 Jun 2026",
-    "time": "02h20",
-    "time_pt": "02h20",
-    "time_en": "02:20 UTC",
+    "time": "08h16",
+    "time_pt": "08h16",
+    "time_en": "08:16 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-19T02:20:23.223685+00:00",
-    "lastModifiedIso": "2026-06-19T02:20:23.223685+00:00",
+    "publishedIso": "2026-06-19T08:16:30.494571+00:00",
+    "lastModifiedIso": "2026-06-19T08:16:30.494571+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -531,6 +531,139 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "tropical-storm-arthur",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tropical-storm-arthur/stormarthur_tmo_20260617.jpg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-is-underway/elnino_sen6_20260608_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Um mapa global centrado no Oceano Pacífico mostra uma faixa vermelha de níveis de água acima do normal no Pacífico equatorial central e oriental e uma ampla mancha ao largo da costa da América do Sul.",
+        "caption_pt": "Um mapa global centrado no Oceano Pacífico mostra uma faixa vermelha de níveis de água acima do normal no Pacífico equatorial central e oriental e uma ampla mancha ao largo da costa da América do Sul.",
+        "caption_en": "A global map centered on the Pacific Ocean shows a band of red, higher-than-normal water levels across the central and eastern equatorial Pacific and a broad patch off the coast of South America.",
+        "alt": "Um mapa global centrado no Oceano Pacífico mostra uma faixa vermelha de níveis de água acima do normal no Pacífico equatorial central e oriental e uma ampla mancha ao largo da costa da América do Sul.",
+        "alt_pt": "Um mapa global centrado no Oceano Pacífico mostra uma faixa vermelha de níveis de água acima do normal no Pacífico equatorial central e oriental e uma ampla mancha ao largo da costa da América do Sul.",
+        "alt_en": "A global map centered on the Pacific Ocean shows a band of red, higher-than-normal water levels across the central and eastern equatorial Pacific and a broad patch off the coast of South America."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tropical-storm-arthur/stormarthur_tmo_20260617.jpg?w=2160&h=1965&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "As nuvens brancas de tempestade da tempestade tropical Arthur cobrem as águas da costa do Golfo dos EUA. Algumas nuvens se estendem para o interior, sobre partes do Texas e da Louisiana.",
+        "caption_pt": "As nuvens brancas de tempestade da tempestade tropical Arthur cobrem as águas da costa do Golfo dos EUA. Algumas nuvens se estendem para o interior, sobre partes do Texas e da Louisiana.",
+        "caption_en": "Tropical Storm Arthur’s white storm clouds cover the waters off the U.S. Gulf Coast. Some clouds extend inland over parts of Texas and Louisiana.",
+        "alt": "As nuvens brancas de tempestade da tempestade tropical Arthur cobrem as águas da costa do Golfo dos EUA. Algumas nuvens se estendem para o interior, sobre partes do Texas e da Louisiana.",
+        "alt_pt": "As nuvens brancas de tempestade da tempestade tropical Arthur cobrem as águas da costa do Golfo dos EUA. Algumas nuvens se estendem para o interior, sobre partes do Texas e da Louisiana.",
+        "alt_en": "Tropical Storm Arthur’s white storm clouds cover the waters off the U.S. Gulf Coast. Some clouds extend inland over parts of Texas and Louisiana."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tropical-storm-arthur/stormarthur_bt_tmo_20260617.jpg?w=2160&h=1965&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Áreas brancas e roxas de nuvens na costa do Golfo indicam as áreas mais frias do topo das nuvens associadas à tempestade tropical Arthur.",
+        "caption_pt": "Áreas brancas e roxas de nuvens na costa do Golfo indicam as áreas mais frias do topo das nuvens associadas à tempestade tropical Arthur.",
+        "caption_en": "White and purple areas of cloud off the Gulf Coast indicate the cooler areas of cloud tops associated with Tropical Storm Arthur.",
+        "alt": "Áreas brancas e roxas de nuvens na costa do Golfo indicam as áreas mais frias do topo das nuvens associadas à tempestade tropical Arthur.",
+        "alt_pt": "Áreas brancas e roxas de nuvens na costa do Golfo indicam as áreas mais frias do topo das nuvens associadas à tempestade tropical Arthur.",
+        "alt_en": "White and purple areas of cloud off the Gulf Coast indicate the cooler areas of cloud tops associated with Tropical Storm Arthur."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Tempestade Tropical Artur",
+    "title_pt": "Tempestade Tropical Artur",
+    "title_en": "Tropical Storm Arthur",
+    "sub": "A primeira tempestade nomeada da temporada de furacões no Atlântico de 2026 trouxe chuvas intensas e a ameaça de inundações repentinas na Costa do Golfo dos EUA.",
+    "sub_pt": "A primeira tempestade nomeada da temporada de furacões no Atlântico de 2026 trouxe chuvas intensas e a ameaça de inundações repentinas na Costa do Golfo dos EUA.",
+    "sub_en": "The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to the U. S. Gulf Coast.",
+    "excerpt": "A primeira tempestade nomeada da temporada de furacões no Atlântico de 2026 trouxe chuvas intensas e a ameaça de inundações repentinas na Costa do Golfo dos EUA.",
+    "excerpt_pt": "A primeira tempestade nomeada da temporada de furacões no Atlântico de 2026 trouxe chuvas intensas e a ameaça de inundações repentinas na Costa do Golfo dos EUA.",
+    "excerpt_en": "The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to the U. S. Gulf Coast.",
+    "body": "<p>A primeira tempestade nomeada da temporada de furacões no Atlântico de 2026 trouxe chuvas intensas e a ameaça de inundações repentinas na Costa do Golfo dos EUA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. NASA Earth Observatory/Michala Garrison Áreas brancas e roxas de nuvens na costa do Golfo indicam as áreas mais frias do topo das nuvens associadas à tempestade tropical Arthur. Observatório da Terra da NASA / Michala Garrison Cor natural brilho temperatura Cortina Alternar 2-Up Detalhes da imagem Imagens do MODIS (espectrorradiômetro de imagem de.</p><p>A tempestade tropical Arthur, a primeira tempestade nomeada da temporada de furacões no Atlântico de 2026, trouxe ventos fortes e chuvas fortes para os EUA. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>A primeira tempestade nomeada da temporada de furacões no Atlântico de 2026 trouxe chuvas intensas e a ameaça de inundações repentinas para os EUA. O satélite Terra da NASA capturou esta imagem em cores naturais (à esquerda) às 10h30.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A primeira tempestade nomeada da temporada de furacões no Atlântico de 2026 trouxe chuvas intensas e a ameaça de inundações repentinas na Costa do Golfo dos EUA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. NASA Earth Observatory/Michala Garrison Áreas brancas e roxas de nuvens na costa do Golfo indicam as áreas mais frias do topo das nuvens associadas à tempestade tropical Arthur. Observatório da Terra da NASA / Michala Garrison Cor natural brilho temperatura Cortina Alternar 2-Up Detalhes da imagem Imagens do MODIS (espectrorradiômetro de imagem de.</p><p>A tempestade tropical Arthur, a primeira tempestade nomeada da temporada de furacões no Atlântico de 2026, trouxe ventos fortes e chuvas fortes para os EUA. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>A primeira tempestade nomeada da temporada de furacões no Atlântico de 2026 trouxe chuvas intensas e a ameaça de inundações repentinas para os EUA. O satélite Terra da NASA capturou esta imagem em cores naturais (à esquerda) às 10h30.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to the U. S. Gulf Coast. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. NASA Earth Observatory/Michala Garrison White and purple areas of cloud off the Gulf Coast indicate the cooler areas of cloud tops associated with Tropical Storm Arthur. NASA Earth Observatory/Michala Garrison Natural color brightness temperature Curtain Toggle 2-Up Image Details Images from the MODIS (Moderate Resolution Imaging.</p><p>Tropical Storm Arthur, the first named storm of the 2026 Atlantic hurricane season, brought high winds and heavy rain to the U. S. Earth Observatory Image of the Day NASA’s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p><p>The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to the U. S. NASA’s Terra satellite captured this natural-color image (left) at 10: 30 a. m.</p><p>Tropical-storm-force winds extended 175 miles (280 kilometers) from the storm’s center, the NHC reported. Estimates from IMERG (the Integrated Multi-Satellite Retrievals for GPM), a product of the GPM (Global Precipitation Measurement) mission, showed high rainfall rates over Gulf.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Forecasts indicated that storm-total rainfall amounts could exceed 12 inches (30 centimeters) in areas, with some locations seeing totals approaching 20 inches (51 centimeters). NASA Earth Observatory images by Michala Garrison, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A primeira tempestade nomeada da temporada de furacões no Atlântico de 2026 trouxe chuvas intensas e a ameaça de inundações repentinas na Costa do.",
+      "Dado-chave: NASA Earth Observatory/Michala Garrison Áreas brancas e roxas de nuvens na costa do Golfo indicam as áreas mais frias do topo das nuvens.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A primeira tempestade nomeada da temporada de furacões no Atlântico de 2026 trouxe chuvas intensas e a ameaça de inundações repentinas na Costa do.",
+      "Dado-chave: NASA Earth Observatory/Michala Garrison Áreas brancas e roxas de nuvens na costa do Golfo indicam as áreas mais frias do topo das nuvens.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to the U. S. Gulf Coast.",
+      "Key detail: NASA Earth Observatory/Michala Garrison White and purple areas of cloud off the Gulf Coast indicate the cooler areas of cloud tops associated.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "19 jun 2026",
+    "date_pt": "19 jun 2026",
+    "date_en": "19 Jun 2026",
+    "time": "04h00",
+    "time_pt": "04h00",
+    "time_en": "04:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-19T04:00:00+00:00",
+    "lastModifiedIso": "2026-06-19T04:00:00+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Tempestade Tropical Artur"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Tempestade Tropical Artur"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Tropical Storm Arthur"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=tropical-storm-arthur",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=tropical-storm-arthur",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=tropical-storm-arthur&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "curiosity-blog-sols-4920-4926-surveying-the-bands",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -658,7 +791,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -672,7 +805,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "long-gamma-ray-bursts-may-trace-collapsing-stars-rather-than-neutron-star-mergers",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -805,7 +938,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "energetic-neutral-atoms-may-help-map-uranus-s-odd-magnetic-environment",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -938,7 +1071,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "nasa-mission-to-study-space-weather-impacts-of-earth-s-atmosphere",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1037,155 +1170,6 @@ window.postsData = [
     "scoreBreakdown": {
       "source": 94,
       "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "asteroid-donaldjohanson-wobbles-as-it-rotates-lucy-flyby-reveals",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/swri-led-lucy-mission.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/swri-led-lucy-mission.jpg",
-        "caption": "Durante seu encontro em 20 de abril de 2025 com o asteróide do cinturão principal Donaldjohanson, a espaçonave Lucy da NASA descobriu evidências de argilas ricas em ferro na superfície do asteróide usando seu espectrômetro infravermelho. Estudos recentes liderados pelo SwRI.",
-        "caption_pt": "Durante seu encontro em 20 de abril de 2025 com o asteróide do cinturão principal Donaldjohanson, a espaçonave Lucy da NASA descobriu evidências de argilas ricas em ferro na superfície do asteróide usando seu espectrômetro infravermelho. Estudos recentes liderados pelo SwRI.",
-        "caption_en": "During its April 20, 2025, encounter with the main belt asteroid Donaldjohanson, NASA's Lucy spacecraft discovered evidence for iron-rich clays on the surface of the asteroid using its infrared spectrometer. Recent studies led by SwRI.",
-        "alt": "Missão Lucy liderada pelo SwRI revela asteróide de amendoim oscilante",
-        "alt_pt": "Missão Lucy liderada pelo SwRI revela asteróide de amendoim oscilante",
-        "alt_en": "SwRI-led Lucy mission reveals wobbling peanut asteroid"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f774f64d75a8f8a3.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/qi4f8xwriki",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://phys.org/news/2026-06-asteroid-donaldjohanson-rotates-lucy-flyby.html"
-    },
-    "audio": null,
-    "title": "O asteróide Donaldjohanson oscila enquanto gira, revela o sobrevoo de Lucy",
-    "title_pt": "O asteróide Donaldjohanson oscila enquanto gira, revela o sobrevoo de Lucy",
-    "title_en": "Asteroid Donaldjohanson wobbles as it rotates, Lucy flyby reveals",
-    "sub": "Cientistas do Southwest Research Institute que estudam o asteróide Donaldjohanson do cinturão principal interno descobriram que sua rotação oscila. Em vez de rolar pelo espaço em.",
-    "sub_pt": "Cientistas do Southwest Research Institute que estudam o asteróide Donaldjohanson do cinturão principal interno descobriram que sua rotação oscila. Em vez de rolar pelo espaço em.",
-    "sub_en": "Southwest Research Institute scientists studying the inner main-belt asteroid Donaldjohanson have found that its rotation wobbles. Rather than rolling through space in a steady.",
-    "excerpt": "Cientistas do Southwest Research Institute que estudam o asteróide Donaldjohanson do cinturão principal interno descobriram que sua rotação oscila. Em vez de rolar pelo espaço em um padrão constante, Donaldjohanson gira em torno de dois eixos, girando de.",
-    "excerpt_pt": "Cientistas do Southwest Research Institute que estudam o asteróide Donaldjohanson do cinturão principal interno descobriram que sua rotação oscila. Em vez de rolar pelo espaço em um padrão constante, Donaldjohanson gira em torno de dois eixos, girando de.",
-    "excerpt_en": "Southwest Research Institute scientists studying the inner main-belt asteroid Donaldjohanson have found that its rotation wobbles. Rather than rolling through space in a steady pattern, Donaldjohanson turns on two axes, rotating end over.",
-    "body": "<p>Cientistas do Southwest Research Institute que estudam o asteróide Donaldjohanson do cinturão principal interno descobriram que sua rotação oscila. Em vez de rolar pelo espaço em um padrão constante, Donaldjohanson gira em torno de dois eixos, girando de ponta a ponta. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. As descobertas são publicadas na revista Science. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Durante seu encontro em 20 de abril de 2025.</p><p>Estudos recentes liderados por cientistas do SwRI descobriram que as argilas são semelhantes às encontradas em meteoritos ricos em carbono, como o QUE 97990, e indicam a presença. Em vez de rolar pelo espaço num padrão constante, Donaldjohanson gira em torno de dois eixos, girando de ponta a ponta uma vez a cada 10,5 dias terrestres, enquanto oscila em.</p><p>Esta é apenas uma das muitas coisas surpreendentes aprendidas desde que a sonda Lucy da NASA passou por Donaldjohanson em 20 de abril de 2025&quot;, disse o Dr.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-asteroid-donaldjohanson-rotates-lucy-flyby.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Cientistas do Southwest Research Institute que estudam o asteróide Donaldjohanson do cinturão principal interno descobriram que sua rotação oscila. Em vez de rolar pelo espaço em um padrão constante, Donaldjohanson gira em torno de dois eixos, girando de ponta a ponta. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. As descobertas são publicadas na revista Science. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Durante seu encontro em 20 de abril de 2025.</p><p>Estudos recentes liderados por cientistas do SwRI descobriram que as argilas são semelhantes às encontradas em meteoritos ricos em carbono, como o QUE 97990, e indicam a presença. Em vez de rolar pelo espaço num padrão constante, Donaldjohanson gira em torno de dois eixos, girando de ponta a ponta uma vez a cada 10,5 dias terrestres, enquanto oscila em.</p><p>Esta é apenas uma das muitas coisas surpreendentes aprendidas desde que a sonda Lucy da NASA passou por Donaldjohanson em 20 de abril de 2025&quot;, disse o Dr.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-asteroid-donaldjohanson-rotates-lucy-flyby.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Southwest Research Institute scientists studying the inner main-belt asteroid Donaldjohanson have found that its rotation wobbles. Rather than rolling through space in a steady pattern, Donaldjohanson turns on two axes, rotating end over. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The findings are published in the journal Science. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source During its April 20, 2025, encounter with the main belt.</p><p>Recent studies led by SwRI scientists have found that the clays are similar to those found in carbon-rich meteorites such as QUE 97990 and indicate the presence of water on the. Rather than rolling through space in a steady pattern, Donaldjohanson turns on two axes, rotating end over end once every 10.5 Earth days while wobbling around its horizontal axis.</p><p>This is just one of many surprising things learned since NASA&#x27;s Lucy spacecraft flew by Donaldjohanson on April 20, 2025,&quot; said SwRI&#x27;s Dr. Lucy images confirmed its elongated shape, initially suggested by Earth-based telescope observations.</p><p>The flyby revealed that the small asteroid, 0.8 kilometer (half a mile) in diameter, resembles a peanut, with a two-lobed structure connected by a narrower neck.&quot; The spacecraft. These findings indicate that the asteroid likely formed from fragments of a larger, carbon- and water-rich asteroid that broke apart 155 million years ago after a collision in the.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Lucy&#x27;s encounter with Donaldjohanson is considered a test run for its primary mission to explore the Trojan asteroids, two swarms of ancient objects that lead and trail Jupiter as. Once we start learning more about the Trojans, a completely different population of space rocks with very different histories, our understanding of solar system formation is.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-asteroid-donaldjohanson-rotates-lucy-flyby.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Cientistas do Southwest Research Institute que estudam o asteróide Donaldjohanson do cinturão principal interno descobriram que sua rotação oscila.",
-      "Dado-chave: As descobertas são publicadas na revista Science.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Cientistas do Southwest Research Institute que estudam o asteróide Donaldjohanson do cinturão principal interno descobriram que sua rotação oscila.",
-      "Dado-chave: As descobertas são publicadas na revista Science.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Southwest Research Institute scientists studying the inner main-belt asteroid Donaldjohanson have found that its rotation wobbles. Rather than.",
-      "Key detail: The findings are published in the journal Science.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "18 jun 2026",
-    "date_pt": "18 jun 2026",
-    "date_en": "18 Jun 2026",
-    "time": "21h20",
-    "time_pt": "21h20",
-    "time_en": "21:20 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-18T21:20:02+00:00",
-    "lastModifiedIso": "2026-06-18T21:20:02+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "Phys.org Space",
-      "Cosmos Week",
-      "O asteróide Donaldjohanson oscila enquanto gira",
-      "revela o sobrevoo de Lucy"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "Phys.org Space",
-      "Cosmos Week",
-      "O asteróide Donaldjohanson oscila enquanto gira",
-      "revela o sobrevoo de Lucy"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Asteroid Donaldjohanson wobbles as it spins",
-      "reveals Lucy's flyby"
-    ],
-    "srcUrl": "https://phys.org/news/2026-06-asteroid-donaldjohanson-rotates-lucy-flyby.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=asteroid-donaldjohanson-wobbles-as-it-rotates-lucy-flyby-reveals",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=asteroid-donaldjohanson-wobbles-as-it-rotates-lucy-flyby-reveals",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=asteroid-donaldjohanson-wobbles-as-it-rotates-lucy-flyby-reveals&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
       "relevance": 80,
       "accessibility": 60,
       "novelty": 55
@@ -1311,144 +1295,21 @@ window.postsData = [
   },
   {
     "id": 12,
-    "slug": "el-nino-is-underway",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-is-underway/elnino_sen6_20260608.jpg?w=1440&h=1090&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/low-water-at-san-carlos-reservoir/az_sancarlosres_oli2_20260522_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "A albufeira está quase vazia em Maio de 2026. O canal natural do Rio Gila é agora visível e ladeado por vegetação verde no que era o fundo da albufeira.",
-        "caption_pt": "A albufeira está quase vazia em Maio de 2026. O canal natural do Rio Gila é agora visível e ladeado por vegetação verde no que era o fundo da albufeira.",
-        "caption_en": "The reservoir is nearly empty by May 2026. The Gila River's natural channel is now visible and flanked with green vegetation in what had been the bottom of the reservoir.",
-        "alt": "A albufeira está quase vazia em Maio de 2026. O canal natural do Rio Gila é agora visível e ladeado por vegetação verde no que era o fundo da albufeira.",
-        "alt_pt": "A albufeira está quase vazia em Maio de 2026. O canal natural do Rio Gila é agora visível e ladeado por vegetação verde no que era o fundo da albufeira.",
-        "alt_en": "The reservoir is nearly empty by May 2026. The Gila River's natural channel is now visible and flanked with green vegetation in what had been the bottom of the reservoir."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-is-underway/elnino_sen6_20260608_lrg.jpg?w=2909&h=1939&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Um mapa global centrado no Oceano Pacífico mostra uma faixa vermelha de níveis de água acima do normal no Pacífico equatorial central e oriental e uma ampla mancha ao largo da costa da América do Sul.",
-        "caption_pt": "Um mapa global centrado no Oceano Pacífico mostra uma faixa vermelha de níveis de água acima do normal no Pacífico equatorial central e oriental e uma ampla mancha ao largo da costa da América do Sul.",
-        "caption_en": "A global map centered on the Pacific Ocean shows a band of red, higher-than-normal water levels across the central and eastern equatorial Pacific and a broad patch off the coast of South America.",
-        "alt": "Um mapa global centrado no Oceano Pacífico mostra uma faixa vermelha de níveis de água acima do normal no Pacífico equatorial central e oriental e uma ampla mancha ao largo da costa da América do Sul.",
-        "alt_pt": "Um mapa global centrado no Oceano Pacífico mostra uma faixa vermelha de níveis de água acima do normal no Pacífico equatorial central e oriental e uma ampla mancha ao largo da costa da América do Sul.",
-        "alt_en": "A global map centered on the Pacific Ocean shows a band of red, higher-than-normal water levels across the central and eastern equatorial Pacific and a broad patch off the coast of South America."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/barents-sea-tied-to-low-arctic-sea-ice/barentsice_tmo_20260317_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "El Niño está em andamento",
-    "title_pt": "El Niño está em andamento",
-    "title_en": "El Niño Is Underway",
-    "sub": "As observações por satélite da altura da superfície do mar indicaram que o evento de 2026 continuou a fortalecer-se no início de Junho.",
-    "sub_pt": "As observações por satélite da altura da superfície do mar indicaram que o evento de 2026 continuou a fortalecer-se no início de Junho.",
-    "sub_en": "Satellite observations of sea surface height indicated that the 2026 event continued to strengthen in early June.",
-    "excerpt": "As observações por satélite da altura da superfície do mar indicaram que o evento de 2026 continuou a fortalecer-se no início de Junho.",
-    "excerpt_pt": "As observações por satélite da altura da superfície do mar indicaram que o evento de 2026 continuou a fortalecer-se no início de Junho.",
-    "excerpt_en": "Satellite observations of sea surface height indicated that the 2026 event continued to strengthen in early June.",
-    "body": "<p>As observações por satélite da altura da superfície do mar indicaram que o evento de 2026 continuou a fortalecer-se no início de Junho. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Mar de Barents vinculado ao baixo gelo marinho do Ártico 4 min de leitura Manchas de águas abertas na região contribuíram para a baixa extensão do gelo marinho em todo o Ártico em. Os dados para o mapa foram adquiridos pelo satélite Sentinel-6 Michael Freilich e processados ​​por cientistas do Laboratório de Propulsão a Jato (JPL) da NASA.</p><p>NASA Earth Observatory/Lauren Dauphin El Niño, caracterizado por temperaturas da água mais quentes do que o normal em partes do Pacífico equatorial, regressou em junho de 2026. A NOAA declarou El Niño em 11 de junho, depois que as temperaturas da superfície do mar no Pacífico equatorial central e oriental mediram pelo menos 0,5 graus Celsius acima da.</p><p>O mapa acima mostra anomalias na altura da superfície do mar no Oceano Pacífico central e oriental, conforme observado em 8 de junho de 2026. Os dados para o mapa foram adquiridos pelo satélite Sentinel-6 Michael Freilich, lançado em 2020 pela NASA e liderado pela ESA (Agência Espacial Europeia), e processados ​​por.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>As observações por satélite da altura da superfície do mar indicaram que o evento de 2026 continuou a fortalecer-se no início de Junho. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Mar de Barents vinculado ao baixo gelo marinho do Ártico 4 min de leitura Manchas de águas abertas na região contribuíram para a baixa extensão do gelo marinho em todo o Ártico em. Os dados para o mapa foram adquiridos pelo satélite Sentinel-6 Michael Freilich e processados ​​por cientistas do Laboratório de Propulsão a Jato (JPL) da NASA.</p><p>NASA Earth Observatory/Lauren Dauphin El Niño, caracterizado por temperaturas da água mais quentes do que o normal em partes do Pacífico equatorial, regressou em junho de 2026. A NOAA declarou El Niño em 11 de junho, depois que as temperaturas da superfície do mar no Pacífico equatorial central e oriental mediram pelo menos 0,5 graus Celsius acima da.</p><p>O mapa acima mostra anomalias na altura da superfície do mar no Oceano Pacífico central e oriental, conforme observado em 8 de junho de 2026. Os dados para o mapa foram adquiridos pelo satélite Sentinel-6 Michael Freilich, lançado em 2020 pela NASA e liderado pela ESA (Agência Espacial Europeia), e processados ​​por.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Satellite observations of sea surface height indicated that the 2026 event continued to strengthen in early June. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Barents Sea Tied to Low Arctic Sea Ice 4 min read Patches of open water in the region contributed to low sea ice extent across the Arctic in March 2026, which. Article New. Data for the map were acquired by the Sentinel-6 Michael Freilich satellite and processed by scientists at NASA’s Jet Propulsion Laboratory (JPL).</p><p>NASA Earth Observatory/Lauren Dauphin El Niño, characterized by warmer-than-normal water temperatures in parts of the equatorial Pacific, made its return in June 2026. NOAA declared an El Niño on June 11, after sea surface temperatures in the central and eastern equatorial Pacific measured at least 0.5 degrees Celsius above average for several.</p><p>The map above depicts sea surface height anomalies across the central and eastern Pacific Ocean as observed on June 8, 2026. Data for the map were acquired by the Sentinel-6 Michael Freilich satellite, launched in 2020 by NASA and led by ESA (European Space Agency)—and processed by scientists at NASA’s.</p><p>According to JPL sea level researcher Severine Fournier, deputy project scientist for Sentinel-6 Michael Freilich, conditions in the western Pacific on June 8 looked similar to. Article Color Off the Mid-Atlantic Coast 4 min read Something is brewing in shallow waters offshore of Delaware, New Jersey, Maryland, and Virginia.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Article 1 2 3 4 Next Keep Exploring Discover More from NASA Earth Science Subscribe to Earth Observatory Newsletters Subscribe to the Earth Observatory and get the Earth in your. Open access to NASA’s archive of Earth science data Climate Prediction Center/NCEP/NWS (2026, June 11) El Niño/Southern Oscillation (ENSO) Diagnostic Discussion.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: As observações por satélite da altura da superfície do mar indicaram que o evento de 2026 continuou a fortalecer-se no início de Junho.",
-      "Dado-chave: Mar de Barents vinculado ao baixo gelo marinho do Ártico 4 min de leitura Manchas de águas abertas na região contribuíram para a baixa extensão.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: As observações por satélite da altura da superfície do mar indicaram que o evento de 2026 continuou a fortalecer-se no início de Junho.",
-      "Dado-chave: Mar de Barents vinculado ao baixo gelo marinho do Ártico 4 min de leitura Manchas de águas abertas na região contribuíram para a baixa extensão.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Satellite observations of sea surface height indicated that the 2026 event continued to strengthen in early June.",
-      "Key detail: Barents Sea Tied to Low Arctic Sea Ice 4 min read Patches of open water in the region contributed to low sea ice extent across the Arctic in.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "18 jun 2026",
-    "date_pt": "18 jun 2026",
-    "date_en": "18 Jun 2026",
-    "time": "04h00",
-    "time_pt": "04h00",
-    "time_en": "04:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-18T04:00:00+00:00",
-    "lastModifiedIso": "2026-06-18T04:00:00+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "El Niño está em andamento"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "El Niño está em andamento"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "The Child is on the move"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=el-nino-is-underway",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=el-nino-is-underway",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=el-nino-is-underway&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 81,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 13,
     "slug": "webb-hubble-reveal-relic-of-our-galaxy-s-formation",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/bulge_fossil_fragment_terzan_5_webb_and_hubble_image/27328339-1-eng-GB/Bulge_fossil_fragment_Terzan_5_Webb_and_Hubble_image_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/bulge_fossil_fragment_terzan_5_webb_and_hubble_image/27328339-1-eng-GB/Bulge_fossil_fragment_Terzan_5_Webb_and_Hubble_image_article.jpg",
+        "caption": "Fragmento fóssil de protuberância Terzan 5 (imagem Webb e Hubble)",
+        "caption_pt": "Fragmento fóssil de protuberância Terzan 5 (imagem Webb e Hubble)",
+        "caption_en": "Bulge fossil fragment Terzan 5 (Webb and Hubble image)",
+        "alt": "Fragmento fóssil de protuberância Terzan 5 (imagem Webb e Hubble)",
+        "alt_pt": "Fragmento fóssil de protuberância Terzan 5 (imagem Webb e Hubble)",
+        "alt_en": "Bulge fossil fragment Terzan 5 (Webb and Hubble image)"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Webb e Hubble revelam relíquia da formação da nossa galáxia",
@@ -1460,9 +1321,9 @@ window.postsData = [
     "excerpt": "Os pesquisadores confirmaram uma nova classe de objetos em nossa galáxia, a Via Láctea: sobreviventes chamados de 'fragmentos fósseis protuberantes'. Terzan 5 é o protótipo desses remanescentes da formação inicial da nossa galáxia. Usando o espaço James Webb.",
     "excerpt_pt": "Os pesquisadores confirmaram uma nova classe de objetos em nossa galáxia, a Via Láctea: sobreviventes chamados de 'fragmentos fósseis protuberantes'. Terzan 5 é o protótipo desses remanescentes da formação inicial da nossa galáxia. Usando o espaço James Webb.",
     "excerpt_en": "Researchers have confirmed a new class of objects within our Milky Way galaxy: survivors called 'bulge fossil fragments.' Terzan 5 is the prototype of these remnants of our galaxy's early formation. Using the NASA/ESA/CSA James Webb Space.",
-    "body": "<p>Os pesquisadores confirmaram uma nova classe de objetos em nossa galáxia, a Via Láctea: sobreviventes chamados de &#x27;fragmentos fósseis protuberantes&#x27;. Terzan 5 é o protótipo desses remanescentes da formação inicial da nossa galáxia. Usando o espaço James Webb da NASA/ESA/CSA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Usando o Telescópio Espacial James Webb da NASA/ESA/CSA e os Telescópios Espaciais Hubble da NASA/ESA, os pesquisadores mostraram que Terzan 5 não é um aglomerado estelar globular. Em vez disso, é algo muito mais estranho e raro.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_reveal_relic_of_our_galaxy_s_formation\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os pesquisadores confirmaram uma nova classe de objetos em nossa galáxia, a Via Láctea: sobreviventes chamados de &#x27;fragmentos fósseis protuberantes&#x27;. Terzan 5 é o protótipo desses remanescentes da formação inicial da nossa galáxia. Usando o espaço James Webb da NASA/ESA/CSA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Usando o Telescópio Espacial James Webb da NASA/ESA/CSA e os Telescópios Espaciais Hubble da NASA/ESA, os pesquisadores mostraram que Terzan 5 não é um aglomerado estelar globular. Em vez disso, é algo muito mais estranho e raro.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_reveal_relic_of_our_galaxy_s_formation\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Confirmed a new class of objects within our Milky Way galaxy: survivors called &#x27;bulge fossil fragments.&#x27; Terzan 5 is the prototype of these remnants of our galaxy&#x27;s early formation. Using the NASA/ESA/CSA James Webb Space. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Using the NASA/ESA/CSA James Webb Space Telescope and the NASA/ESA Hubble Space Telescopes researchers have shown that Terzan 5 is not a globular star cluster as it was once. Instead, it is something much odder and rarer.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_reveal_relic_of_our_galaxy_s_formation\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Os pesquisadores confirmaram uma nova classe de objetos em nossa galáxia, a Via Láctea: sobreviventes chamados de &#x27;fragmentos fósseis protuberantes&#x27;. Terzan 5 é o protótipo desses remanescentes da formação inicial da nossa galáxia. Usando o espaço James Webb da NASA/ESA/CSA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Usando o Telescópio Espacial James Webb da NASA/ESA/CSA e os Telescópios Espaciais Hubble da NASA/ESA, os pesquisadores mostraram que Terzan 5 não é um aglomerado estelar globular. O novo estudo que combinou observações recentes de Webb com dados obtidos ao longo de 12 anos do Hubble mostrou que Terzan 5 experimentou até quatro episódios distintos de.</p><p>Novos dados não só confirmam a existência de duas populações distintas de estrelas em Terzan 5, mas também fornecem evidências de duas rondas mais recentes de formação estelar. “As novas observações de Webb no infravermelho próximo, cruzadas com as observações de arquivo do Hubble, deram-nos uma imagem muito mais clara da história do Terzan 5”, disse.</p><p>Estes resultados foram apresentados numa conferência de imprensa na terça-feira, na 248ª reunião da Sociedade Astronómica Americana, e foram publicados na revista Astronomy &amp;.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_reveal_relic_of_our_galaxy_s_formation\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os pesquisadores confirmaram uma nova classe de objetos em nossa galáxia, a Via Láctea: sobreviventes chamados de &#x27;fragmentos fósseis protuberantes&#x27;. Terzan 5 é o protótipo desses remanescentes da formação inicial da nossa galáxia. Usando o espaço James Webb da NASA/ESA/CSA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Usando o Telescópio Espacial James Webb da NASA/ESA/CSA e os Telescópios Espaciais Hubble da NASA/ESA, os pesquisadores mostraram que Terzan 5 não é um aglomerado estelar globular. O novo estudo que combinou observações recentes de Webb com dados obtidos ao longo de 12 anos do Hubble mostrou que Terzan 5 experimentou até quatro episódios distintos de.</p><p>Novos dados não só confirmam a existência de duas populações distintas de estrelas em Terzan 5, mas também fornecem evidências de duas rondas mais recentes de formação estelar. “As novas observações de Webb no infravermelho próximo, cruzadas com as observações de arquivo do Hubble, deram-nos uma imagem muito mais clara da história do Terzan 5”, disse.</p><p>Estes resultados foram apresentados numa conferência de imprensa na terça-feira, na 248ª reunião da Sociedade Astronómica Americana, e foram publicados na revista Astronomy &amp;.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_reveal_relic_of_our_galaxy_s_formation\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Confirmed a new class of objects within our Milky Way galaxy: survivors called &#x27;bulge fossil fragments.&#x27; Terzan 5 is the prototype of these remnants of our galaxy&#x27;s early formation. Using the NASA/ESA/CSA James Webb Space. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Using the NASA/ESA/CSA James Webb Space Telescope and the NASA/ESA Hubble Space Telescopes researchers have shown that Terzan 5 is not a globular star cluster as it was once. The new study that combined recent observations from Webb with data taken over 12 years from Hubble has shown that Terzan 5 experienced up to four distinct episodes of star.</p><p>New data not only confirms the existence of two distinct populations of stars in Terzan 5, but also provides evidence for two more recent rounds of star formation. “Webb’s new near-infrared observations, cross-referenced with Hubble’s archival observations, have given us a much clearer picture of the history of Terzan 5,” said Giorgia Zullo.</p><p>These results were presented at a press conference Tuesday at the 248th meeting of the American Astronomical Society, and were published in Astronomy &amp; Astrophysics. In 2016 Hubble provided the first estimate of their ages, showing that one formed roughly 12 billion years ago (as the Milky Way itself was assembling) and the other about 5.</p><p>To isolate the stars of Terzan 5, the team relied on the power and longevity of Hubble. The 12-year separation of Hubble’s exposures allowed the team to measure very small movements of individual stars, known as proper motions, to determine which stars belong to.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>By combining data from both Webb and Hubble, the researchers found strong evidence for two more stellar populations, one that formed 3.8 billion years ago and another only 2.5. They also were able to determine the ages of the previously known stellar populations with unprecedented precision, finding that they formed 12.5 billion and 4.7 billion years ago.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_reveal_relic_of_our_galaxy_s_formation\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Os pesquisadores confirmaram uma nova classe de objetos em nossa galáxia, a Via Láctea: sobreviventes chamados de 'fragmentos fósseis protuberantes'.",
       "Dado-chave: Os pesquisadores confirmaram uma nova classe de objetos em nossa galáxia, a Via Láctea: sobreviventes chamados de 'fragmentos fósseis.",
@@ -1548,7 +1409,7 @@ window.postsData = [
     }
   },
   {
-    "id": 14,
+    "id": 13,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1684,7 +1545,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 14,
     "slug": "science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1823,7 +1684,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 15,
     "slug": "ripple-like-rings-of-the-bullseye-galaxy-could-be-explained-by-dark-matter",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1952,11 +1813,11 @@ window.postsData = [
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 17,
+    "id": 16,
     "slug": "webb-reveals-black-hole-that-formed-before-its-galaxy",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2061,7 +1922,7 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 17,
     "slug": "supernova-origins-explored-through-primordial-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2194,14 +2055,32 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
-    "slug": "new-habitable-exoplanets-model-narrows-down-search-for-life",
+    "id": 18,
+    "slug": "mars-life-search-gets-boost-as-rover-test-distinguishes-mirrored-biosignature-molecules",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
-    "img": "https://earthsky.org/upl/2024/01/Kepler-186f-exoplanet-artist-concept-April-17-2014.jpg",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/mars-mission-a-stress.jpg",
     "inline_images": [
       {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/mars-mission-a-stress.jpg",
+        "caption": "Missão a Marte: um teste de estresse para a busca por vida",
+        "caption_pt": "Missão a Marte: um teste de estresse para a busca por vida",
+        "caption_en": "Mars mission: a stress test for the search for life",
+        "alt": "Missão a Marte: um teste de estresse para a busca por vida",
+        "alt_pt": "Missão a Marte: um teste de estresse para a busca por vida",
+        "alt_en": "Mars mission: a stress test for the search for life"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
         "caption": "",
         "caption_pt": "",
         "caption_en": "",
@@ -2212,46 +2091,46 @@ window.postsData = [
     ],
     "video": null,
     "audio": null,
-    "title": "Novo modelo de exoplanetas habitáveis ​​restringe a busca por vida",
-    "title_pt": "Novo modelo de exoplanetas habitáveis ​​restringe a busca por vida",
-    "title_en": "New habitable exoplanets model narrows down search for life",
-    "sub": "Os pesquisadores desenvolveram um novo modelo de exoplanetas habitáveis ​​para descobrir quais exoplanetas rochosos poderiam sustentar vida. O posto Novo modelo de exoplanetas.",
-    "sub_pt": "Os pesquisadores desenvolveram um novo modelo de exoplanetas habitáveis ​​para descobrir quais exoplanetas rochosos poderiam sustentar vida. O posto Novo modelo de exoplanetas.",
-    "sub_en": "Researchers have developed a new habitable exoplanets model to find out which rocky exoplanets could possibly support life. The post New habitable exoplanets model narrows down.",
-    "excerpt": "Os pesquisadores desenvolveram um novo modelo de exoplanetas habitáveis ​​para descobrir quais exoplanetas rochosos poderiam sustentar vida. O posto Novo modelo de exoplanetas habitáveis ​​restringe a busca por vida apareceu pela primeira vez no EarthSky.",
-    "excerpt_pt": "Os pesquisadores desenvolveram um novo modelo de exoplanetas habitáveis ​​para descobrir quais exoplanetas rochosos poderiam sustentar vida. O posto Novo modelo de exoplanetas habitáveis ​​restringe a busca por vida apareceu pela primeira vez no EarthSky.",
-    "excerpt_en": "Researchers have developed a new habitable exoplanets model to find out which rocky exoplanets could possibly support life. The post New habitable exoplanets model narrows down search for life first appeared on EarthSky.",
-    "body": "<p>Os pesquisadores desenvolveram um novo modelo de exoplanetas habitáveis ​​para descobrir quais exoplanetas rochosos poderiam sustentar vida. O posto Novo modelo de exoplanetas habitáveis ​​restringe a busca por vida apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. | Concepção artística de Kepler-186f, um exoplaneta do tamanho da Terra na zona habitável de sua estrela, onde poderia existir água líquida. Novo modelo de exoplanetas habitáveis ​​Planetas rochosos, como a Terra, são comuns na nossa galáxia.</p><p>Para responder a esta pergunta, uma equipe de cientistas desenvolveu um novo modelo denominado Modelo de Habitabilidade Menor que a Terra (STEHM). O estudo centra-se em planetas que variam desde cerca de metade do tamanho da Terra até ao tamanho da Terra.</p><p>O novo artigo revisado por pares foi publicado no The Planetary Science Journal em 4 de junho de 2026. O modelo de habitabilidade menor que a Terra Michelle Hill, da Escola de Sustentabilidade Stanford Doerr, liderou o novo estudo sobre exoplanetas habitáveis.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/habitable-exoplanets-model-stehm-habitability/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os pesquisadores desenvolveram um novo modelo de exoplanetas habitáveis ​​para descobrir quais exoplanetas rochosos poderiam sustentar vida. O posto Novo modelo de exoplanetas habitáveis ​​restringe a busca por vida apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. | Concepção artística de Kepler-186f, um exoplaneta do tamanho da Terra na zona habitável de sua estrela, onde poderia existir água líquida. Novo modelo de exoplanetas habitáveis ​​Planetas rochosos, como a Terra, são comuns na nossa galáxia.</p><p>Para responder a esta pergunta, uma equipe de cientistas desenvolveu um novo modelo denominado Modelo de Habitabilidade Menor que a Terra (STEHM). O estudo centra-se em planetas que variam desde cerca de metade do tamanho da Terra até ao tamanho da Terra.</p><p>O novo artigo revisado por pares foi publicado no The Planetary Science Journal em 4 de junho de 2026. O modelo de habitabilidade menor que a Terra Michelle Hill, da Escola de Sustentabilidade Stanford Doerr, liderou o novo estudo sobre exoplanetas habitáveis.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/habitable-exoplanets-model-stehm-habitability/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Developed a new habitable exoplanets model to find out which rocky exoplanets could possibly support life. The post New habitable exoplanets model narrows down search for life first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. | Artist’s concept of Kepler-186f, an Earth-sized exoplanet in the habitable zone of its star, where liquid water could exist. New habitable exoplanets model Rocky planets, like Earth, are common in our galaxy.</p><p>To answer this question, a team of scientists has developed a new model called Smaller Than Earth Habitability Model (STEHM). The study centers on planets ranging from about half the size of Earth up to Earth-sized.</p><p>The new peer-reviewed paper was published in The Planetary Science Journal on June 4, 2026. The Smaller Than Earth Habitability Model Michelle Hill of the Stanford Doerr School of Sustainability led the new study about habitable exoplanets.</p><p>With this in mind, she developed the Smaller Than Earth Habitability Model (STEHM). STEHM found that planets with a radius at least 80% of Earth’s can maintain their atmospheres for 10 billion years or more.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>If a planet is smaller than that, it could lose its atmosphere within 1 billion years. If a planet’s radius is about 0.7 that of Earth, it could maintain its atmosphere, depending on other factors.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/habitable-exoplanets-model-stehm-habitability/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "A busca por vida em Marte ganha impulso à medida que o teste do rover distingue moléculas de bioassinatura espelhadas",
+    "title_pt": "A busca por vida em Marte ganha impulso à medida que o teste do rover distingue moléculas de bioassinatura espelhadas",
+    "title_en": "Mars life search gets boost as rover test distinguishes mirrored biosignature molecules",
+    "sub": "Há milhares de milhões de anos, as condições ambientais em Marte eram significativamente mais hospitaleiras do que são hoje. Nosso planeta vizinho era provavelmente quente, úmido.",
+    "sub_pt": "Há milhares de milhões de anos, as condições ambientais em Marte eram significativamente mais hospitaleiras do que são hoje. Nosso planeta vizinho era provavelmente quente, úmido.",
+    "sub_en": "Billions of years ago, environmental conditions on Mars were significantly more hospitable than they are today. Our neighboring planet was likely warm, humid and surrounded by a.",
+    "excerpt": "Há milhares de milhões de anos, as condições ambientais em Marte eram significativamente mais hospitaleiras do que são hoje. Nosso planeta vizinho era provavelmente quente, úmido e rodeado por uma atmosfera densa. Se microorganismos simples poderiam ter.",
+    "excerpt_pt": "Há milhares de milhões de anos, as condições ambientais em Marte eram significativamente mais hospitaleiras do que são hoje. Nosso planeta vizinho era provavelmente quente, úmido e rodeado por uma atmosfera densa. Se microorganismos simples poderiam ter.",
+    "excerpt_en": "Billions of years ago, environmental conditions on Mars were significantly more hospitable than they are today. Our neighboring planet was likely warm, humid and surrounded by a dense atmosphere. Whether simple microorganisms could have.",
+    "body": "<p>Há milhares de milhões de anos, as condições ambientais em Marte eram significativamente mais hospitaleiras do que são hoje. Nosso planeta vizinho era provavelmente quente, úmido e rodeado por uma atmosfera densa. Se microorganismos simples poderiam ter. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Rosalind Franklin deverá se juntar à “equipe de busca” em Marte a partir de 2030. Pesquisadores do Instituto Max Planck para Pesquisa do Sistema Solar (MPS), da Universidade de Göttingen e da Universidade Côte d&#x27;Azur em Nice, França, submeteram agora o.</p><p>Suas descobertas foram publicadas na revista Earth and Planetary Science Letters. Os pesquisadores depositam suas esperanças no pristano (C 19 H 40) e no fitano (C 20 H 42), dois hidrocarbonetos que derivam de organismos vivos e ocorrem na Terra como.</p><p>Se alguma vez existiu vida em Marte, então moléculas como o pristano e o fitano representam importantes bioassinaturas moleculares que poderiam ter sobrevivido até hoje&quot;, disse o. Isto é verdade na Terra, e, devido às propriedades auto-replicativas da vida, também deve aplicar-se a qualquer vida extraterrestre potencial.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-mars-life-boost-rover-distinguishes.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Há milhares de milhões de anos, as condições ambientais em Marte eram significativamente mais hospitaleiras do que são hoje. Nosso planeta vizinho era provavelmente quente, úmido e rodeado por uma atmosfera densa. Se microorganismos simples poderiam ter. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Rosalind Franklin deverá se juntar à “equipe de busca” em Marte a partir de 2030. Pesquisadores do Instituto Max Planck para Pesquisa do Sistema Solar (MPS), da Universidade de Göttingen e da Universidade Côte d&#x27;Azur em Nice, França, submeteram agora o.</p><p>Suas descobertas foram publicadas na revista Earth and Planetary Science Letters. Os pesquisadores depositam suas esperanças no pristano (C 19 H 40) e no fitano (C 20 H 42), dois hidrocarbonetos que derivam de organismos vivos e ocorrem na Terra como.</p><p>Se alguma vez existiu vida em Marte, então moléculas como o pristano e o fitano representam importantes bioassinaturas moleculares que poderiam ter sobrevivido até hoje&quot;, disse o. Isto é verdade na Terra, e, devido às propriedades auto-replicativas da vida, também deve aplicar-se a qualquer vida extraterrestre potencial.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-mars-life-boost-rover-distinguishes.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Billions of years ago, environmental conditions on Mars were significantly more hospitable than they are today. Our neighboring planet was likely warm, humid and surrounded by a dense atmosphere. Whether simple microorganisms could have. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. Rosalind Franklin is set to join the &quot;search team&quot; on Mars starting in 2030. Researchers from the Max Planck Institute for Solar System Research (MPS), the University of Göttingen and Côte d&#x27;Azur University in Nice, France, have now subjected the.</p><p>Their findings are published in the journal Earth and Planetary Science Letters. The researchers are pinning their hopes on pristane (C 19 H 40 ) and phytane (C 20 H 42 ), two hydrocarbons that derive from living organisms and occur on Earth as components of.</p><p>If life once existed on Mars, then molecules like pristane and phytane represent important molecular biosignatures that could have survived to this day,&quot; said MPS scientist. This is true on Earth, and, because of life&#x27;s self-replicative properties, must also apply to any potential extraterrestrial life.</p><p>This task is performed by the Mars Organic Molecule Analyzer (MOMA), an instrument that combines a gas chromatograph, a mass spectrometer, small furnaces and an excitation laser. As a substitute for Martian rock, the researchers used samples from the Murchison meteorite, which fell in Australia in 1969.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. The researchers concluded that the contaminants must have been picked up during its descent through the atmosphere through contact with aerosols from fossil fuel burning.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-mars-life-boost-rover-distinguishes.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Os pesquisadores desenvolveram um novo modelo de exoplanetas habitáveis ​​para descobrir quais exoplanetas rochosos poderiam sustentar vida. O posto.",
-      "Dado-chave: | Concepção artística de Kepler-186f, um exoplaneta do tamanho da Terra na zona habitável de sua estrela, onde poderia existir água líquida.",
+      "Ponto central: Há milhares de milhões de anos, as condições ambientais em Marte eram significativamente mais hospitaleiras do que são hoje. Nosso planeta vizinho.",
+      "Dado-chave: Rosalind Franklin deverá se juntar à “equipe de busca” em Marte a partir de 2030.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Os pesquisadores desenvolveram um novo modelo de exoplanetas habitáveis ​​para descobrir quais exoplanetas rochosos poderiam sustentar vida. O posto.",
-      "Dado-chave: | Concepção artística de Kepler-186f, um exoplaneta do tamanho da Terra na zona habitável de sua estrela, onde poderia existir água líquida.",
+      "Ponto central: Há milhares de milhões de anos, as condições ambientais em Marte eram significativamente mais hospitaleiras do que são hoje. Nosso planeta vizinho.",
+      "Dado-chave: Rosalind Franklin deverá se juntar à “equipe de busca” em Marte a partir de 2030.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: Researchers have developed a new habitable exoplanets model to find out which rocky exoplanets could possibly support life. The post New habitable.",
-      "Key detail: | Artist’s concept of Kepler-186f, an Earth-sized exoplanet in the habitable zone of its star, where liquid water could exist.",
+      "Core point: Billions of years ago, environmental conditions on Mars were significantly more hospitable than they are today. Our neighboring planet was likely.",
+      "Key detail: Rosalind Franklin is set to join the \"search team\" on Mars starting in 2030.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "18 jun 2026",
     "date_pt": "18 jun 2026",
     "date_en": "18 Jun 2026",
-    "time": "11h28",
-    "time_pt": "11h28",
-    "time_en": "11:28 UTC",
+    "time": "18h20",
+    "time_pt": "18h20",
+    "time_en": "18:20 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-18T11:28:26+00:00",
-    "lastModifiedIso": "2026-06-18T11:28:26+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
+    "publishedIso": "2026-06-18T18:20:05+00:00",
+    "lastModifiedIso": "2026-06-18T18:20:05+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -2269,26 +2148,26 @@ window.postsData = [
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
       "Exoplanetas",
-      "EarthSky",
+      "Phys.org Space",
       "Cosmos Week",
-      "Novo modelo de exoplanetas habitáveis ​​restringe a busca por vida"
+      "A busca por vida em Marte ganha impulso à medida que o teste do rover distingue moléculas de bioassinatura espelhadas"
     ],
     "keywords_pt": [
       "Exoplanetas",
-      "EarthSky",
+      "Phys.org Space",
       "Cosmos Week",
-      "Novo modelo de exoplanetas habitáveis ​​restringe a busca por vida"
+      "A busca por vida em Marte ganha impulso à medida que o teste do rover distingue moléculas de bioassinatura espelhadas"
     ],
     "keywords_en": [
       "Exoplanets",
-      "EarthSky",
+      "Phys.org Space",
       "Cosmos Week",
-      "New model of habitable exoplanets narrows the search for life"
+      "Search for life on Mars gains momentum as rover test distinguishes mirror biosignature molecules"
     ],
-    "srcUrl": "https://earthsky.org/space/habitable-exoplanets-model-stehm-habitability/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=new-habitable-exoplanets-model-narrows-down-search-for-life",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=new-habitable-exoplanets-model-narrows-down-search-for-life",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=new-habitable-exoplanets-model-narrows-down-search-for-life&lang=en",
+    "srcUrl": "https://phys.org/news/2026-06-mars-life-boost-rover-distinguishes.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=mars-life-search-gets-boost-as-rover-test-distinguishes-mirrored-biosignature-molecules",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=mars-life-search-gets-boost-as-rover-test-distinguishes-mirrored-biosignature-molecules",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=mars-life-search-gets-boost-as-rover-test-distinguishes-mirrored-biosignature-molecules&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -2299,17 +2178,17 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 75,
+    "score": 77,
     "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
+      "source": 76,
+      "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
       "novelty": 55
     }
   },
   {
-    "id": 20,
+    "id": 19,
     "slug": "high-res-is-the-secret-to-finding-alien-life-with-the-next-great-space-telescope",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2427,7 +2306,7 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
+    "id": 20,
     "slug": "nasa-study-challenges-theories-on-where-the-ingredients-for-life-came-from",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2551,7 +2430,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 21,
     "slug": "update-on-ocean-observatories-initiative",
     "cat": "Física",
     "catCls": "fisica",
@@ -2666,7 +2545,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 22,
     "slug": "shadow-blaster-galaxy-might-have-sent-high-energy-neutrino-to-earth",
     "cat": "Física",
     "catCls": "fisica",
@@ -2789,17 +2668,17 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 74,
+    "score": 73,
     "scoreBreakdown": {
       "source": 74,
       "evidence": 82,
       "relevance": 82,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 24,
+    "id": 23,
     "slug": "powering-the-future-of-data-science-at-cern",
     "cat": "Física",
     "catCls": "fisica",
@@ -2914,7 +2793,7 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 24,
     "slug": "esa-science-missions-get-green-light-for-new-discoveries",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3019,7 +2898,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 25,
     "slug": "esa-adopts-galactic-archaeology-mission-arrakihs",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3124,7 +3003,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 26,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3260,7 +3139,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 27,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3387,7 +3266,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 28,
     "slug": "science-release-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3523,7 +3402,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 29,
     "slug": "revival-of-australia-s-molonglo-radio-telescope",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3647,12 +3526,40 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 30,
     "slug": "dozens-of-dust-devils-hidden-in-plain-sight",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/dust_devils_galore_mars_express_visits_mamers_valles_on_mars/27330596-1-eng-GB/Dust_devils_galore_Mars_Express_visits_Mamers_Valles_on_Mars_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/dust_devils_galore_mars_express_visits_mamers_valles_on_mars/27330596-1-eng-GB/Dust_devils_galore_Mars_Express_visits_Mamers_Valles_on_Mars_article.jpg",
+        "caption": "A Mars Express visita Mamers Valles em Marte, encontrando mais de 30 redemoinhos de poeira. Clique na imagem para ampliar e descobrir onde eles estão escondidos.",
+        "caption_pt": "A Mars Express visita Mamers Valles em Marte, encontrando mais de 30 redemoinhos de poeira. Clique na imagem para ampliar e descobrir onde eles estão escondidos.",
+        "caption_en": "Mars Express visits Mamers Valles on Mars, finding over 30 dust devils. Click on the image to zoom in and discover where they are hiding.",
+        "alt": "A Mars Express visita Mamers Valles em Marte, encontrando mais de 30 redemoinhos de poeira. Clique na imagem para ampliar e descobrir onde eles estão escondidos.",
+        "alt_pt": "A Mars Express visita Mamers Valles em Marte, encontrando mais de 30 redemoinhos de poeira. Clique na imagem para ampliar e descobrir onde eles estão escondidos.",
+        "alt_en": "Mars Express visits Mamers Valles on Mars, finding over 30 dust devils. Click on the image to zoom in and discover where they are hiding."
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/topographic_map_of_mamers_valles_on_mars/27330737-1-eng-GB/Topographic_map_of_Mamers_Valles_on_Mars_article.jpg",
+        "caption": "Mapa topográfico de Mamers Valles em Marte",
+        "caption_pt": "Mapa topográfico de Mamers Valles em Marte",
+        "caption_en": "Topographic map of Mamers Valles on Mars",
+        "alt": "Mapa topográfico de Mamers Valles em Marte",
+        "alt_pt": "Mapa topográfico de Mamers Valles em Marte",
+        "alt_en": "Topographic map of Mamers Valles on Mars"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/bird_s-eye_view_of_mamers_valles/27330643-1-eng-GB/Bird_s-eye_view_of_Mamers_Valles_article.jpg",
+        "caption": "Uma visão panorâmica em 3D ampliando a mesa no centro da imagem principal",
+        "caption_pt": "Uma visão panorâmica em 3D ampliando a mesa no centro da imagem principal",
+        "caption_en": "A birds-eye 3D view zooming in on the mesa at the centre of the main image",
+        "alt": "Uma visão panorâmica em 3D ampliando a mesa no centro da imagem principal",
+        "alt_pt": "Uma visão panorâmica em 3D ampliando a mesa no centro da imagem principal",
+        "alt_en": "A birds-eye 3D view zooming in on the mesa at the centre of the main image"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Dezenas de redemoinhos escondidos à vista de todos",
@@ -3664,9 +3571,9 @@ window.postsData = [
     "excerpt": "A Mars Express da Agência Espacial Europeia capturou parte de Mamers Valles, em Marte: um fascinante sistema de vales salpicado de breves redemoinhos semelhantes a tornados, conhecidos como redemoinhos de poeira.",
     "excerpt_pt": "A Mars Express da Agência Espacial Europeia capturou parte de Mamers Valles, em Marte: um fascinante sistema de vales salpicado de breves redemoinhos semelhantes a tornados, conhecidos como redemoinhos de poeira.",
     "excerpt_en": "The European Space Agency’s Mars Express has captured part of Mars’s Mamers Valles: a fascinating valley system speckled with brief, tornado-like whirlwinds known as dust devils.",
-    "body": "<p>A Mars Express da Agência Espacial Europeia capturou parte de Mamers Valles, em Marte: um fascinante sistema de vales salpicado de breves redemoinhos semelhantes a tornados, conhecidos como redemoinhos de poeira. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dozens_of_dust_devils_hidden_in_plain_sight\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A Mars Express da Agência Espacial Europeia capturou parte de Mamers Valles, em Marte: um fascinante sistema de vales salpicado de breves redemoinhos semelhantes a tornados, conhecidos como redemoinhos de poeira. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dozens_of_dust_devils_hidden_in_plain_sight\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency’s Mars Express has captured part of Mars’s Mamers Valles: a fascinating valley system speckled with brief, tornado-like whirlwinds known as dust devils. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dozens_of_dust_devils_hidden_in_plain_sight\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A Mars Express da Agência Espacial Europeia capturou parte de Mamers Valles, em Marte: um fascinante sistema de vales salpicado de breves redemoinhos semelhantes a tornados, conhecidos como redemoinhos de poeira. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Os redemoinhos de poeira se formam quando partes de Marte aquecem ao Sol, fazendo com que o ar logo acima da superfície gire para cima e carregue poeira com ele à medida que. Para formar uma única imagem utilizando a sua Câmara Estéreo de Alta Resolução, o instrumento responsável por estas novas imagens, a sonda combina visualizações sequenciais de até.</p><p>Neste novo conjunto de imagens, a Mars Express captura não um, mas dezenas de redemoinhos ativos. Clique na imagem abaixo para ver mais de 30 circulados, cada um visível como um pequeno ponto amarelo com uma ‘sombra’ rosada.</p><p>O alinhamento e a combinação dos vários canais de câmeras da Mars Express também nos permitem descobrir a direção e a velocidade dos redemoinhos de poeira de Marte.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dozens_of_dust_devils_hidden_in_plain_sight\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Mars Express da Agência Espacial Europeia capturou parte de Mamers Valles, em Marte: um fascinante sistema de vales salpicado de breves redemoinhos semelhantes a tornados, conhecidos como redemoinhos de poeira. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Os redemoinhos de poeira se formam quando partes de Marte aquecem ao Sol, fazendo com que o ar logo acima da superfície gire para cima e carregue poeira com ele à medida que. Para formar uma única imagem utilizando a sua Câmara Estéreo de Alta Resolução, o instrumento responsável por estas novas imagens, a sonda combina visualizações sequenciais de até.</p><p>Neste novo conjunto de imagens, a Mars Express captura não um, mas dezenas de redemoinhos ativos. Clique na imagem abaixo para ver mais de 30 circulados, cada um visível como um pequeno ponto amarelo com uma ‘sombra’ rosada.</p><p>O alinhamento e a combinação dos vários canais de câmeras da Mars Express também nos permitem descobrir a direção e a velocidade dos redemoinhos de poeira de Marte.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dozens_of_dust_devils_hidden_in_plain_sight\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency’s Mars Express has captured part of Mars’s Mamers Valles: a fascinating valley system speckled with brief, tornado-like whirlwinds known as dust devils. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Dust devils form as parts of Mars warm in the Sun, causing the air just above the surface to swirl upwards and carry dust with it as it goes. To form a single image using its High Resolution Stereo Camera, the instrument responsible for these new snapshots, the spacecraft combines sequential views from up to nine.</p><p>In this new set of images, Mars Express captures not one but dozens of active dust devils. Click on the image below to see more than 30 circled, each visible as a small yellow dot with a pinkish trailing ‘shadow’.</p><p>The alignment and combination of Mars Express’s various camera channels also allows us to figure out the direction and speed of Mars’s dust devils. This is something that scientists have done using data from both Mars Express and ESA’s ExoMars Trace Gas Orbiter, revealing how more than 1000 of these tornado-like storms move.</p><p>The feature was named in 1976 based on the ancient Oscan language of pre-Roman Italy, with ‘Mamers’ meaning ‘Mars’ and ‘Valles’ meaning ‘Valley’. These channels stretch out for around 1000 km, crossing from Mars&#x27;s ancient southern highlands into the planet&#x27;s northern lowlands, and in places measure up to 25 km wide and 1.2.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Although water ice isn&#x27;t stable on Mars&#x27;s surface today, it has managed to survive here because it was covered by rocky material, which has stopped it from escaping to the martian. Mars Express has visited this region of Mars before, imaging the areas surrounding both Mamers Valles (2008) and the neighbouring Deuteronilus Mensae (2019).</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dozens_of_dust_devils_hidden_in_plain_sight\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A Mars Express da Agência Espacial Europeia capturou parte de Mamers Valles, em Marte: um fascinante sistema de vales salpicado de breves redemoinhos.",
       "Dado-chave: A Mars Express da Agência Espacial Europeia capturou parte de Mamers Valles, em Marte: um fascinante sistema de vales salpicado de breves.",
@@ -3752,7 +3659,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 31,
     "slug": "plutonium-in-earth-rocks-signals-long-ago-cosmic-collision",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -3885,7 +3792,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 32,
     "slug": "what-would-happen-if-the-sun-stopped-part-4-black-hole-sun",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -3993,7 +3900,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 33,
     "slug": "lucy-s-first-asteroid-flyby-sheds-light-on-a-double-lobed-asteroid",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4121,7 +4028,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 34,
     "slug": "see-venus-disappear-in-broad-daylight-on-june-17th",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4254,7 +4161,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 35,
     "slug": "ancient-skies-the-moon-that-returns-once-in-a-generation",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4390,7 +4297,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 36,
     "slug": "nasa-testing-advanced-capabilities-for-moon-mars-rovers",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4515,6 +4422,121 @@ window.postsData = [
       "relevance": 70,
       "accessibility": 60,
       "novelty": 55
+    }
+  },
+  {
+    "id": 37,
+    "slug": "new-habitable-exoplanets-model-narrows-down-search-for-life",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://earthsky.org/upl/2024/01/Kepler-186f-exoplanet-artist-concept-April-17-2014.jpg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Novo modelo de exoplanetas habitáveis ​​restringe a busca por vida",
+    "title_pt": "Novo modelo de exoplanetas habitáveis ​​restringe a busca por vida",
+    "title_en": "New habitable exoplanets model narrows down search for life",
+    "sub": "Os pesquisadores desenvolveram um novo modelo de exoplanetas habitáveis ​​para descobrir quais exoplanetas rochosos poderiam sustentar vida. O posto Novo modelo de exoplanetas.",
+    "sub_pt": "Os pesquisadores desenvolveram um novo modelo de exoplanetas habitáveis ​​para descobrir quais exoplanetas rochosos poderiam sustentar vida. O posto Novo modelo de exoplanetas.",
+    "sub_en": "Researchers have developed a new habitable exoplanets model to find out which rocky exoplanets could possibly support life. The post New habitable exoplanets model narrows down.",
+    "excerpt": "Os pesquisadores desenvolveram um novo modelo de exoplanetas habitáveis ​​para descobrir quais exoplanetas rochosos poderiam sustentar vida. O posto Novo modelo de exoplanetas habitáveis ​​restringe a busca por vida apareceu pela primeira vez no EarthSky.",
+    "excerpt_pt": "Os pesquisadores desenvolveram um novo modelo de exoplanetas habitáveis ​​para descobrir quais exoplanetas rochosos poderiam sustentar vida. O posto Novo modelo de exoplanetas habitáveis ​​restringe a busca por vida apareceu pela primeira vez no EarthSky.",
+    "excerpt_en": "Researchers have developed a new habitable exoplanets model to find out which rocky exoplanets could possibly support life. The post New habitable exoplanets model narrows down search for life first appeared on EarthSky.",
+    "body": "<p>Os pesquisadores desenvolveram um novo modelo de exoplanetas habitáveis ​​para descobrir quais exoplanetas rochosos poderiam sustentar vida. O posto Novo modelo de exoplanetas habitáveis ​​restringe a busca por vida apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. | Concepção artística de Kepler-186f, um exoplaneta do tamanho da Terra na zona habitável de sua estrela, onde poderia existir água líquida. Novo modelo de exoplanetas habitáveis ​​Planetas rochosos, como a Terra, são comuns na nossa galáxia.</p><p>Para responder a esta pergunta, uma equipe de cientistas desenvolveu um novo modelo denominado Modelo de Habitabilidade Menor que a Terra (STEHM). O estudo centra-se em planetas que variam desde cerca de metade do tamanho da Terra até ao tamanho da Terra.</p><p>O novo artigo revisado por pares foi publicado no The Planetary Science Journal em 4 de junho de 2026. O modelo de habitabilidade menor que a Terra Michelle Hill, da Escola de Sustentabilidade Stanford Doerr, liderou o novo estudo sobre exoplanetas habitáveis.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/habitable-exoplanets-model-stehm-habitability/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os pesquisadores desenvolveram um novo modelo de exoplanetas habitáveis ​​para descobrir quais exoplanetas rochosos poderiam sustentar vida. O posto Novo modelo de exoplanetas habitáveis ​​restringe a busca por vida apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. | Concepção artística de Kepler-186f, um exoplaneta do tamanho da Terra na zona habitável de sua estrela, onde poderia existir água líquida. Novo modelo de exoplanetas habitáveis ​​Planetas rochosos, como a Terra, são comuns na nossa galáxia.</p><p>Para responder a esta pergunta, uma equipe de cientistas desenvolveu um novo modelo denominado Modelo de Habitabilidade Menor que a Terra (STEHM). O estudo centra-se em planetas que variam desde cerca de metade do tamanho da Terra até ao tamanho da Terra.</p><p>O novo artigo revisado por pares foi publicado no The Planetary Science Journal em 4 de junho de 2026. O modelo de habitabilidade menor que a Terra Michelle Hill, da Escola de Sustentabilidade Stanford Doerr, liderou o novo estudo sobre exoplanetas habitáveis.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/habitable-exoplanets-model-stehm-habitability/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Developed a new habitable exoplanets model to find out which rocky exoplanets could possibly support life. The post New habitable exoplanets model narrows down search for life first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. | Artist’s concept of Kepler-186f, an Earth-sized exoplanet in the habitable zone of its star, where liquid water could exist. New habitable exoplanets model Rocky planets, like Earth, are common in our galaxy.</p><p>To answer this question, a team of scientists has developed a new model called Smaller Than Earth Habitability Model (STEHM). The study centers on planets ranging from about half the size of Earth up to Earth-sized.</p><p>The new peer-reviewed paper was published in The Planetary Science Journal on June 4, 2026. The Smaller Than Earth Habitability Model Michelle Hill of the Stanford Doerr School of Sustainability led the new study about habitable exoplanets.</p><p>With this in mind, she developed the Smaller Than Earth Habitability Model (STEHM). STEHM found that planets with a radius at least 80% of Earth’s can maintain their atmospheres for 10 billion years or more.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>If a planet is smaller than that, it could lose its atmosphere within 1 billion years. If a planet’s radius is about 0.7 that of Earth, it could maintain its atmosphere, depending on other factors.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/habitable-exoplanets-model-stehm-habitability/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os pesquisadores desenvolveram um novo modelo de exoplanetas habitáveis ​​para descobrir quais exoplanetas rochosos poderiam sustentar vida. O posto.",
+      "Dado-chave: | Concepção artística de Kepler-186f, um exoplaneta do tamanho da Terra na zona habitável de sua estrela, onde poderia existir água líquida.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os pesquisadores desenvolveram um novo modelo de exoplanetas habitáveis ​​para descobrir quais exoplanetas rochosos poderiam sustentar vida. O posto.",
+      "Dado-chave: | Concepção artística de Kepler-186f, um exoplaneta do tamanho da Terra na zona habitável de sua estrela, onde poderia existir água líquida.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Researchers have developed a new habitable exoplanets model to find out which rocky exoplanets could possibly support life. The post New habitable.",
+      "Key detail: | Artist’s concept of Kepler-186f, an Earth-sized exoplanet in the habitable zone of its star, where liquid water could exist.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "18 jun 2026",
+    "date_pt": "18 jun 2026",
+    "date_en": "18 Jun 2026",
+    "time": "11h28",
+    "time_pt": "11h28",
+    "time_en": "11:28 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-18T11:28:26+00:00",
+    "lastModifiedIso": "2026-06-18T11:28:26+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Exoplanetas",
+      "EarthSky",
+      "Cosmos Week",
+      "Novo modelo de exoplanetas habitáveis ​​restringe a busca por vida"
+    ],
+    "keywords_pt": [
+      "Exoplanetas",
+      "EarthSky",
+      "Cosmos Week",
+      "Novo modelo de exoplanetas habitáveis ​​restringe a busca por vida"
+    ],
+    "keywords_en": [
+      "Exoplanets",
+      "EarthSky",
+      "Cosmos Week",
+      "New model of habitable exoplanets narrows the search for life"
+    ],
+    "srcUrl": "https://earthsky.org/space/habitable-exoplanets-model-stehm-habitability/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=new-habitable-exoplanets-model-narrows-down-search-for-life",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=new-habitable-exoplanets-model-narrows-down-search-for-life",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=new-habitable-exoplanets-model-narrows-down-search-for-life&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
     }
   },
   {
@@ -4762,81 +4784,63 @@ window.postsData = [
   },
   {
     "id": 40,
-    "slug": "gravity-waves-from-super-typhoon-sinlaku",
+    "slug": "no-crisis-universe-s-expansion-is-accelerating-study-says",
     "cat": "Ciências da Terra",
     "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/gravity-waves-from-super-typhoon-sinlaku/sinlaku_gravitywaves_vir_20260412.jpg?w=2160&h=1733&fit=clip&crop=faces%2Cfocalpoint",
+    "img": "https://earthsky.org/upl/2012/07/rcw86.jpg",
     "inline_images": [
       {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/painting-a-season-in-the-maize-triangle/southafricaag_nisar_20260310_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Uma visualização de terras agrícolas na África do Sul mostra campos geométricos numa variedade de cores que combinam vermelho, verde e azul.",
-        "caption_pt": "Uma visualização de terras agrícolas na África do Sul mostra campos geométricos numa variedade de cores que combinam vermelho, verde e azul.",
-        "caption_en": "A visualization of agricultural land in South Africa shows geometric fields in an array of colors that combine red, green, and blue.",
-        "alt": "Uma visualização de terras agrícolas na África do Sul mostra campos geométricos numa variedade de cores que combinam vermelho, verde e azul.",
-        "alt_pt": "Uma visualização de terras agrícolas na África do Sul mostra campos geométricos numa variedade de cores que combinam vermelho, verde e azul.",
-        "alt_en": "A visualization of agricultural land in South Africa shows geometric fields in an array of colors that combine red, green, and blue."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fire’s-footprint-on-santa-rosa-island/channelislandsfire_oli_20260524_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Uma imagem em cores falsas da Ilha de Santa Rosa de 24 de maio de 2026 mostra uma área queimada marrom-avermelhada abrangendo o terço oriental da ilha.",
-        "caption_pt": "Uma imagem em cores falsas da Ilha de Santa Rosa de 24 de maio de 2026 mostra uma área queimada marrom-avermelhada abrangendo o terço oriental da ilha.",
-        "caption_en": "A false-color image of Santa Rosa Island from May 24, 2026, shows a reddish-brown burned area spanning the eastern third of the island.",
-        "alt": "Uma imagem em cores falsas da Ilha de Santa Rosa de 24 de maio de 2026 mostra uma área queimada marrom-avermelhada abrangendo o terço oriental da ilha.",
-        "alt_pt": "Uma imagem em cores falsas da Ilha de Santa Rosa de 24 de maio de 2026 mostra uma área queimada marrom-avermelhada abrangendo o terço oriental da ilha.",
-        "alt_en": "A false-color image of Santa Rosa Island from May 24, 2026, shows a reddish-brown burned area spanning the eastern third of the island."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/gravity-waves-from-super-typhoon-sinlaku/sinlakugravitywaves_airs_20260413.jpg?w=2160&h=2355&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "A assinatura das ondas gravitacionais na estratosfera aparece como anéis concêntricos em dados de satélite infravermelho.",
-        "caption_pt": "A assinatura das ondas gravitacionais na estratosfera aparece como anéis concêntricos em dados de satélite infravermelho.",
-        "caption_en": "The signature of gravity waves in the stratosphere appears as concentric rings in infrared satellite data.",
-        "alt": "A assinatura das ondas gravitacionais na estratosfera aparece como anéis concêntricos em dados de satélite infravermelho.",
-        "alt_pt": "A assinatura das ondas gravitacionais na estratosfera aparece como anéis concêntricos em dados de satélite infravermelho.",
-        "alt_en": "The signature of gravity waves in the stratosphere appears as concentric rings in infrared satellite data."
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
       }
     ],
     "video": null,
     "audio": null,
-    "title": "Ondas gravitacionais do supertufão Sinlaku",
-    "title_pt": "Ondas gravitacionais do supertufão Sinlaku",
-    "title_en": "Gravity Waves From Super Typhoon Sinlaku",
-    "sub": "Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas gravitacionais do supertufão Sinlaku.",
-    "sub_pt": "Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas gravitacionais do supertufão Sinlaku.",
-    "sub_en": "Satellites observed striking upper-atmosphere phenomena generated by an intensifying tropical cyclone. The post Gravity Waves From Super Typhoon Sinlaku appeared first on NASA.",
-    "excerpt": "Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science.",
-    "excerpt_pt": "Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science.",
-    "excerpt_en": "Satellites observed striking upper-atmosphere phenomena generated by an intensifying tropical cyclone. The post Gravity Waves From Super Typhoon Sinlaku appeared first on NASA Science.",
-    "body": "<p>Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science. A energia térmica das ondas gravitacionais produzidas pelo Super Typhoon Sinlaku foi detectada na estratosfera pelo instrumento AIRS (Atmospheric Infrared Sounder) no satélite.</p><p>As ondas gravitacionais do Observatório Terrestre da NASA/Michala Garrison Sinlaku, além de aparecerem no alto da atmosfera por meio do brilho do ar, foram observadas mais abaixo. Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal.</p><p>Explore dados de ciências da terra da Terra Acesso aberto ao arquivo de dados de ciências da Terra da NASA O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira. Observatório da Terra da NASA/Michala Garrison Em meados de abril de 2026, o Supertufão Sinlaku atravessou o Oceano Pacífico Norte e trouxe fortes chuvas e inundações para as.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA Earth Observatory, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/gravity-waves-from-super-typhoon-sinlaku/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science. A energia térmica das ondas gravitacionais produzidas pelo Super Typhoon Sinlaku foi detectada na estratosfera pelo instrumento AIRS (Atmospheric Infrared Sounder) no satélite.</p><p>As ondas gravitacionais do Observatório Terrestre da NASA/Michala Garrison Sinlaku, além de aparecerem no alto da atmosfera por meio do brilho do ar, foram observadas mais abaixo. Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal.</p><p>Explore dados de ciências da terra da Terra Acesso aberto ao arquivo de dados de ciências da Terra da NASA O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira. Observatório da Terra da NASA/Michala Garrison Em meados de abril de 2026, o Supertufão Sinlaku atravessou o Oceano Pacífico Norte e trouxe fortes chuvas e inundações para as.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA Earth Observatory, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/gravity-waves-from-super-typhoon-sinlaku/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Satellites observed striking upper-atmosphere phenomena generated by an intensifying tropical cyclone. The post Gravity Waves From Super Typhoon Sinlaku appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The post Gravity Waves From Super Typhoon Sinlaku appeared first on NASA Science. Thermal energy from gravity waves produced by Super Typhoon Sinlaku was detected in the stratosphere by the AIRS (Atmospheric Infrared Sounder) instrument on NASA’s Aqua satellite.</p><p>NASA Earth Observatory/Michala Garrison Sinlaku’s gravity waves, in addition to appearing high in the atmosphere via airglow, were observed lower in the atmosphere by the AIRS. Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</p><p>Explore Earth Science Earth Science Data Open access to NASA’s archive of Earth science data The post Gravity Waves From Super Typhoon Sinlaku appeared first on NASA Science. NASA Earth Observatory/Michala Garrison In mid-April 2026, Super Typhoon Sinlaku churned across the North Pacific Ocean and brought heavy rain and flooding to the Mariana Islands.</p><p>The nighttime image above, acquired with the VIIRS (Visible Infrared Imaging Radiometer Suite) on the NOAA-20 satellite, shows atmospheric gravity waves radiating from the typhoon. Winds in the upper atmosphere can dissipate the waves before they reach such high altitudes, Alexander explained, but relatively light stratospheric winds at the storm’s latitude.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The Moon was about 25 percent illuminated on April 12, so some light reflected off clouds in the troposphere was visible, but not enough to overpower the signal from the airglow. Sinlaku’s gravity waves, in addition to appearing high in the atmosphere via airglow, were observed lower in the atmosphere by the AIRS (Atmospheric Infrared Sounder) instrument.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/gravity-waves-from-super-typhoon-sinlaku/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Sem crise? A expansão do Universo está acelerando, diz estudo",
+    "title_pt": "Sem crise? A expansão do Universo está acelerando, diz estudo",
+    "title_en": "No crisis? Universe’s expansion is accelerating, study says",
+    "sub": "Refutando um artigo surpreendente de 2025, um novo estudo descobriu que, afinal, a expansão do Universo está a acelerar. Crise evitada? O post Sem crise? A expansão do Universo.",
+    "sub_pt": "Refutando um artigo surpreendente de 2025, um novo estudo descobriu que, afinal, a expansão do Universo está a acelerar. Crise evitada? O post Sem crise? A expansão do Universo.",
+    "sub_en": "Rebutting a surprising paper from 2025, a new study has found that the universe's expansion is accelerating after all. Crisis averted? The post No crisis? Universe’s expansion is.",
+    "excerpt": "Refutando um artigo surpreendente de 2025, um novo estudo descobriu que, afinal, a expansão do Universo está a acelerar. Crise evitada? O post Sem crise? A expansão do Universo está se acelerando, diz estudo que apareceu pela primeira vez no EarthSky.",
+    "excerpt_pt": "Refutando um artigo surpreendente de 2025, um novo estudo descobriu que, afinal, a expansão do Universo está a acelerar. Crise evitada? O post Sem crise? A expansão do Universo está se acelerando, diz estudo que apareceu pela primeira vez no EarthSky.",
+    "excerpt_en": "Rebutting a surprising paper from 2025, a new study has found that the universe's expansion is accelerating after all. Crisis averted? The post No crisis? Universe’s expansion is accelerating, study says first appeared on EarthSky.",
+    "body": "<p>Refutando um artigo surpreendente de 2025, um novo estudo descobriu que, afinal, a expansão do Universo está a acelerar. Crise evitada? O post Sem crise? A expansão do Universo está se acelerando, diz estudo que apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Refutando um artigo surpreendente de 2025, um novo estudo descobriu que, afinal, a expansão do Universo está a acelerar. Esta é a RCW 86, o remanescente de uma supernova Tipo 1a a 8.000 anos-luz de distância.</p><p>O estudo das supernovas do Tipo 1a levou à descoberta de que a expansão do Universo está a acelerar. Um estudo surpreendente de 2025 questionou essa descoberta.</p><p>Mas agora, uma nova investigação afirma ter encontrado falhas no artigo de 2025. Imagem via NASA/ CXC/ SAO/ ESA (raio X)/ JPL-Caltech/ B.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/no-crisis-universes-expansion-is-accelerating-study-says/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Refutando um artigo surpreendente de 2025, um novo estudo descobriu que, afinal, a expansão do Universo está a acelerar. Crise evitada? O post Sem crise? A expansão do Universo está se acelerando, diz estudo que apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Refutando um artigo surpreendente de 2025, um novo estudo descobriu que, afinal, a expansão do Universo está a acelerar. Esta é a RCW 86, o remanescente de uma supernova Tipo 1a a 8.000 anos-luz de distância.</p><p>O estudo das supernovas do Tipo 1a levou à descoberta de que a expansão do Universo está a acelerar. Um estudo surpreendente de 2025 questionou essa descoberta.</p><p>Mas agora, uma nova investigação afirma ter encontrado falhas no artigo de 2025. Imagem via NASA/ CXC/ SAO/ ESA (raio X)/ JPL-Caltech/ B.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/no-crisis-universes-expansion-is-accelerating-study-says/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Rebutting a surprising paper from 2025, a new study has found that the universe&#x27;s expansion is accelerating after all. Crisis averted? The post No crisis? Universe’s expansion is accelerating, study says first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Rebutting a surprising paper from 2025, a new study has found that the universe&#x27;s expansion is accelerating after all. This is RCW 86, the remnant of a Type 1a supernova 8,000 light-years away.</p><p>Studying Type 1a supernovae led to the discovery that the universe’s expansion is accelerating. An astonishing 2025 study called this discovery into question.</p><p>But now, new research claims to have found flaws in the 2025 paper. Image via NASA/ CXC/ SAO/ ESA (X-ray)/ JPL-Caltech/ B.</p><p>The Royal Astronomical Society originally published this article on June 11, 2026. They published their rebuttal on June 10, 2026, in the peer-reviewed journal Monthly Notices of the Royal Astronomical Society.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Rebutting an extraordinary paper The new research is a direct rebuttal of a study by a team of South Korean researchers published in November 2025. The international team of researchers involved in the new study included Adam Riess and Brian Schmidt, who collectively won the 2011 Nobel Prize in Physics alongside Saul.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/no-crisis-universes-expansion-is-accelerating-study-says/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas.",
-      "Dado-chave: O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science.",
+      "Ponto central: Refutando um artigo surpreendente de 2025, um novo estudo descobriu que, afinal, a expansão do Universo está a acelerar. Crise evitada? O post Sem.",
+      "Dado-chave: Refutando um artigo surpreendente de 2025, um novo estudo descobriu que, afinal, a expansão do Universo está a acelerar.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Os satélites observaram fenómenos impressionantes na atmosfera superior gerados por um ciclone tropical em intensificação. O post Ondas.",
-      "Dado-chave: O post Ondas gravitacionais do supertufão Sinlaku apareceu pela primeira vez na NASA Science.",
+      "Ponto central: Refutando um artigo surpreendente de 2025, um novo estudo descobriu que, afinal, a expansão do Universo está a acelerar. Crise evitada? O post Sem.",
+      "Dado-chave: Refutando um artigo surpreendente de 2025, um novo estudo descobriu que, afinal, a expansão do Universo está a acelerar.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: Satellites observed striking upper-atmosphere phenomena generated by an intensifying tropical cyclone. The post Gravity Waves From Super Typhoon.",
-      "Key detail: The post Gravity Waves From Super Typhoon Sinlaku appeared first on NASA Science.",
+      "Core point: Rebutting a surprising paper from 2025, a new study has found that the universe's expansion is accelerating after all. Crisis averted? The post No.",
+      "Key detail: Rebutting a surprising paper from 2025, a new study has found that the universe's expansion is accelerating after all.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "01 jun 2026",
-    "date_pt": "01 jun 2026",
-    "date_en": "01 Jun 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04:01 UTC",
+    "date": "18 jun 2026",
+    "date_pt": "18 jun 2026",
+    "date_en": "18 Jun 2026",
+    "time": "11h45",
+    "time_pt": "11h45",
+    "time_en": "11:45 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-01T04:01:00+00:00",
-    "lastModifiedIso": "2026-06-01T04:01:00+00:00",
-    "source": "NASA Earth Observatory",
-    "sourceDomain": "science.nasa.gov",
+    "publishedIso": "2026-06-18T11:45:49+00:00",
+    "lastModifiedIso": "2026-06-18T11:45:49+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -4854,26 +4858,29 @@ window.postsData = [
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
       "Ciências da Terra",
-      "NASA Earth Observatory",
+      "EarthSky",
       "Cosmos Week",
-      "Ondas gravitacionais do supertufão Sinlaku"
+      "Sem crise? A expansão do Universo está acelerando",
+      "diz estudo"
     ],
     "keywords_pt": [
       "Ciências da Terra",
-      "NASA Earth Observatory",
+      "EarthSky",
       "Cosmos Week",
-      "Ondas gravitacionais do supertufão Sinlaku"
+      "Sem crise? A expansão do Universo está acelerando",
+      "diz estudo"
     ],
     "keywords_en": [
       "Earth Sciences",
-      "NASA Earth Observatory",
+      "EarthSky",
       "Cosmos Week",
-      "Gravitational waves from super typhoon Sinlaku"
+      "No crisis? The expansion of the Universe is accelerating",
+      "says study"
     ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/gravity-waves-from-super-typhoon-sinlaku/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=gravity-waves-from-super-typhoon-sinlaku",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=gravity-waves-from-super-typhoon-sinlaku",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=gravity-waves-from-super-typhoon-sinlaku&lang=en",
+    "srcUrl": "https://earthsky.org/space/no-crisis-universes-expansion-is-accelerating-study-says/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=no-crisis-universe-s-expansion-is-accelerating-study-says",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=no-crisis-universe-s-expansion-is-accelerating-study-says",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=no-crisis-universe-s-expansion-is-accelerating-study-says&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -4884,13 +4891,13 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 74,
+    "score": 72,
     "scoreBreakdown": {
-      "source": 75,
-      "evidence": 88,
+      "source": 72,
+      "evidence": 82,
       "relevance": 80,
       "accessibility": 60,
-      "novelty": 46
+      "novelty": 52
     }
   }
 ];

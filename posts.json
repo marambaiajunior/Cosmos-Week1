@@ -38,14 +38,14 @@
     "date": "05 jul 2026",
     "date_pt": "05 jul 2026",
     "date_en": "05 Jul 2026",
-    "time": "19h54",
-    "time_pt": "19h54",
-    "time_en": "19:54 UTC",
+    "time": "21h15",
+    "time_pt": "21h15",
+    "time_en": "21:15 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-05T19:54:02.072068+00:00",
-    "lastModifiedIso": "2026-07-05T19:54:02.072068+00:00",
+    "publishedIso": "2026-07-05T21:15:00.243448+00:00",
+    "lastModifiedIso": "2026-07-05T21:15:00.243448+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -146,14 +146,14 @@
     "date": "05 jul 2026",
     "date_pt": "05 jul 2026",
     "date_en": "05 Jul 2026",
-    "time": "19h54",
-    "time_pt": "19h54",
-    "time_en": "19:54 UTC",
+    "time": "21h15",
+    "time_pt": "21h15",
+    "time_en": "21:15 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-05T19:54:02.072018+00:00",
-    "lastModifiedIso": "2026-07-05T19:54:02.072018+00:00",
+    "publishedIso": "2026-07-05T21:15:00.243400+00:00",
+    "lastModifiedIso": "2026-07-05T21:15:00.243400+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -251,14 +251,14 @@
     "date": "05 jul 2026",
     "date_pt": "05 jul 2026",
     "date_en": "05 Jul 2026",
-    "time": "19h54",
-    "time_pt": "19h54",
-    "time_en": "19:54 UTC",
+    "time": "21h15",
+    "time_pt": "21h15",
+    "time_en": "21:15 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-05T19:54:02.071967+00:00",
-    "lastModifiedIso": "2026-07-05T19:54:02.071967+00:00",
+    "publishedIso": "2026-07-05T21:15:00.243349+00:00",
+    "lastModifiedIso": "2026-07-05T21:15:00.243349+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -356,14 +356,14 @@
     "date": "05 jul 2026",
     "date_pt": "05 jul 2026",
     "date_en": "05 Jul 2026",
-    "time": "19h54",
-    "time_pt": "19h54",
-    "time_en": "19:54 UTC",
+    "time": "21h15",
+    "time_pt": "21h15",
+    "time_en": "21:15 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-05T19:54:02.071922+00:00",
-    "lastModifiedIso": "2026-07-05T19:54:02.071922+00:00",
+    "publishedIso": "2026-07-05T21:15:00.243304+00:00",
+    "lastModifiedIso": "2026-07-05T21:15:00.243304+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -461,14 +461,14 @@
     "date": "05 jul 2026",
     "date_pt": "05 jul 2026",
     "date_en": "05 Jul 2026",
-    "time": "19h54",
-    "time_pt": "19h54",
-    "time_en": "19:54 UTC",
+    "time": "21h15",
+    "time_pt": "21h15",
+    "time_en": "21:15 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-05T19:54:02.071873+00:00",
-    "lastModifiedIso": "2026-07-05T19:54:02.071873+00:00",
+    "publishedIso": "2026-07-05T21:15:00.243254+00:00",
+    "lastModifiedIso": "2026-07-05T21:15:00.243254+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -529,6 +529,130 @@
   },
   {
     "id": 6,
+    "slug": "astronomers-characterize-improbable-system-shaped-by-brown-dwarf",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.universetoday.com/article_images/image_20260705_050415.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/ce3d8d20-3960-11f1-9d4c-4fe8a18dba16_1200_630_750_20260425_041943_20260705_200312.webp",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Astrônomos caracterizam sistema “improvável” moldado pela anã marrom",
+    "title_pt": "Astrônomos caracterizam sistema “improvável” moldado pela anã marrom",
+    "title_en": "Astronomers Characterize \"Improbable\" System Shaped by Brown Dwarf",
+    "sub": "Uma equipa internacional envolvendo mais de dez instituições, com uma forte participação do ESO e do INAF, caracterizou TOI-201 c, a anã castanha em trânsito com o período mais.",
+    "sub_pt": "Uma equipa internacional envolvendo mais de dez instituições, com uma forte participação do ESO e do INAF, caracterizou TOI-201 c, a anã castanha em trânsito com o período mais.",
+    "sub_en": "An international team involving over ten institutions, with a strong participation from ESO and INAF, has characterised TOI-201 c, the transiting brown dwarf with the longest.",
+    "excerpt": "Uma equipa internacional envolvendo mais de dez instituições, com uma forte participação do ESO e do INAF, caracterizou TOI-201 c, a anã castanha em trânsito com o período mais longo para o qual a massa foi medida. O estudo, publicado.",
+    "excerpt_pt": "Uma equipa internacional envolvendo mais de dez instituições, com uma forte participação do ESO e do INAF, caracterizou TOI-201 c, a anã castanha em trânsito com o período mais longo para o qual a massa foi medida. O estudo, publicado.",
+    "excerpt_en": "An international team involving over ten institutions, with a strong participation from ESO and INAF, has characterised TOI-201 c, the transiting brown dwarf with the longest period for which mass has been measured. The study, published.",
+    "body": "<p>Uma equipa internacional envolvendo mais de dez instituições, com uma forte participação do ESO e do INAF, caracterizou TOI-201 c, a anã castanha em trânsito com o período mais longo para o qual a massa foi medida. O estudo, publicado. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O estudo, publicado hoje na Nature, revela um sistema compacto e coplanar no qual a presença de um objeto massivo e excêntrico redefine os limites de estabilidade dos planetas. Ao estudar planetas além do nosso Sistema Solar (6.316 exoplanetas confirmados e contando), os cientistas descobriram alguns sistemas muito interessantes.</p><p>O sistema foi recentemente observado por uma equipa internacional liderada pelo Observatório Europeu do Sul (ESO) e pelo Instituto Nacional de Astrofísica (INAF) utilizando dados. As suas descobertas, publicadas recentemente na revista Nature, mostraram que, apesar da sua órbita altamente elíptica, a anã castanha desempenhou um papel importante na formação.</p><p>Isto foi combinado com dados espectroscópicos existentes obtidos por telescópios terrestres e novas medições de velocidade radial obtidas pelos instrumentos Fiber-fed Extended.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/astronomers-characterize-improbable-system-shaped-by-brown-dwarf\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma equipa internacional envolvendo mais de dez instituições, com uma forte participação do ESO e do INAF, caracterizou TOI-201 c, a anã castanha em trânsito com o período mais longo para o qual a massa foi medida. O estudo, publicado. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O estudo, publicado hoje na Nature, revela um sistema compacto e coplanar no qual a presença de um objeto massivo e excêntrico redefine os limites de estabilidade dos planetas. Ao estudar planetas além do nosso Sistema Solar (6.316 exoplanetas confirmados e contando), os cientistas descobriram alguns sistemas muito interessantes.</p><p>O sistema foi recentemente observado por uma equipa internacional liderada pelo Observatório Europeu do Sul (ESO) e pelo Instituto Nacional de Astrofísica (INAF) utilizando dados. As suas descobertas, publicadas recentemente na revista Nature, mostraram que, apesar da sua órbita altamente elíptica, a anã castanha desempenhou um papel importante na formação.</p><p>Isto foi combinado com dados espectroscópicos existentes obtidos por telescópios terrestres e novas medições de velocidade radial obtidas pelos instrumentos Fiber-fed Extended.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/astronomers-characterize-improbable-system-shaped-by-brown-dwarf\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>An international team involving over ten institutions, with a strong participation from ESO and INAF, has characterised TOI-201 c, the transiting brown dwarf with the longest period for which mass has been measured. The study, published. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The study, published today in Nature, reveals a compact, coplanar system in which the presence of a massive, eccentric object redefines the stability boundaries for the inner. In the course of studying planets beyond our Solar System ( 6,316 confirmed exoplanets and counting), scientists have discovered some very interesting systems.</p><p>The system was recently observed by an international team led by the European Southern Observatory (ESO) and the National Institute for Astrophysics (INAF) using data from NASA&#x27;s. Their findings, which were recently published in the journal Nature, showed that despite its highly elliptical orbit, the brown dwarf played a major role in shaping the system&#x27;s.</p><p>This was combined with existing spectroscopic data from ground-based telescopes and new radial velocity measurements from the Fiber-fed Extended Range Optical Spectrograph (FEROS). Its neighbor planets include a rocky super-Earth (TOI-201 d) with an orbital period of just 5.8 days, and a gaseous warm Jupiter (TOI-201 b) with an orbit of about 53 days.</p><p>In addition to its mass, the brown dwarf also has a highly elliptical orbit (with an eccentricity of 0.622), which causes severe gravitational perturbations and makes regions. In the case of TOI-201, astronomers would expect a massive object with such an eccentric orbit to interfere with the formation of additional planets.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Moreover, the data showed that when the warm Jupiter makes its closest approach to the Sun, it experiences strong variations in its transit timing, suggesting it has an intense. Such long-period objects discovered using the Transit Method are extremely rare, and TOI-201 c is the first to have its mass confirmed through precise measurements using the.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/astronomers-characterize-improbable-system-shaped-by-brown-dwarf\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Uma equipa internacional envolvendo mais de dez instituições, com uma forte participação do ESO e do INAF, caracterizou TOI-201 c, a anã castanha em.",
+      "Dado-chave: Uma equipa internacional envolvendo mais de dez instituições, com uma forte participação do ESO e do INAF, caracterizou TOI-201 c, a anã.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Uma equipa internacional envolvendo mais de dez instituições, com uma forte participação do ESO e do INAF, caracterizou TOI-201 c, a anã castanha em.",
+      "Dado-chave: Uma equipa internacional envolvendo mais de dez instituições, com uma forte participação do ESO e do INAF, caracterizou TOI-201 c, a anã.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: An international team involving over ten institutions, with a strong participation from ESO and INAF, has characterised TOI-201 c, the transiting.",
+      "Key detail: An international team involving over ten institutions, with a strong participation from ESO and INAF, has characterised TOI-201 c, the.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "05 jul 2026",
+    "date_pt": "05 jul 2026",
+    "date_en": "05 Jul 2026",
+    "time": "20h05",
+    "time_pt": "20h05",
+    "time_en": "20:05 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-05T20:05:13+00:00",
+    "lastModifiedIso": "2026-07-05T20:05:13+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "Astrônomos caracterizam sistema “improvável” moldado pela anã marrom"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "Astrônomos caracterizam sistema “improvável” moldado pela anã marrom"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Universe Today",
+      "Cosmos Week",
+      "Astronomers characterize “unlikely” system shaped by brown dwarf"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/astronomers-characterize-improbable-system-shaped-by-brown-dwarf",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-characterize-improbable-system-shaped-by-brown-dwarf",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-characterize-improbable-system-shaped-by-brown-dwarf",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-characterize-improbable-system-shaped-by-brown-dwarf&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "deuterium-in-comets-tells-interesting-tales",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -647,7 +771,7 @@
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -661,7 +785,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "mars-express-captures-dozens-of-dust-devils-in-mars-valley",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -794,7 +918,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "a-nearby-black-hole-as-a-window-into-the-early-universe",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -927,7 +1051,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "japan-space-probe-skims-asteroid-in-test-for-planetary-defense",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1046,121 +1170,6 @@
       "source": 76,
       "evidence": 82,
       "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "thank-you-guy-ottewell-and-happy-90th-birthday",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2023/03/Finisterre-detailCygnus-1.jpg-e1679065775766.webp",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Obrigado Guy Ottewell e feliz aniversário de 90 anos!",
-    "title_pt": "Obrigado Guy Ottewell e feliz aniversário de 90 anos!",
-    "title_en": "Thank you Guy Ottewell, and happy 90th birthday!",
-    "sub": "O educador astronômico de longa data, Guy Ottewell, completou 90 anos em 4 de julho de 2026. Ele é mais conhecido por seus belos mapas astronômicos e calendário astronômico. O.",
-    "sub_pt": "O educador astronômico de longa data, Guy Ottewell, completou 90 anos em 4 de julho de 2026. Ele é mais conhecido por seus belos mapas astronômicos e calendário astronômico. O.",
-    "sub_en": "Longtime astronomy educator Guy Ottewell turned 90 on July 4, 2026. He's best known for his beautiful astronomy charts and Astronomical Calendar. The post Thank you Guy Ottewell.",
-    "excerpt": "O educador astronômico de longa data, Guy Ottewell, completou 90 anos em 4 de julho de 2026. Ele é mais conhecido por seus belos mapas astronômicos e calendário astronômico. O post Obrigado Guy Ottewell e feliz aniversário de 90 anos! apareceu pela primeira.",
-    "excerpt_pt": "O educador astronômico de longa data, Guy Ottewell, completou 90 anos em 4 de julho de 2026. Ele é mais conhecido por seus belos mapas astronômicos e calendário astronômico. O post Obrigado Guy Ottewell e feliz aniversário de 90 anos! apareceu pela primeira.",
-    "excerpt_en": "Longtime astronomy educator Guy Ottewell turned 90 on July 4, 2026. He's best known for his beautiful astronomy charts and Astronomical Calendar. The post Thank you Guy Ottewell, and happy 90th birthday! first appeared on EarthSky.",
-    "body": "<p>O educador astronômico de longa data, Guy Ottewell, completou 90 anos em 4 de julho de 2026. Ele é mais conhecido por seus belos mapas astronômicos e calendário astronômico. O post Obrigado Guy Ottewell e feliz aniversário de 90 anos! apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O educador de astronomia de longa data, Guy Ottewell, completou 90 anos em 4 de julho de 2026. O homem por trás do Calendário Astronômico Anual O amado astrônomo britânico Guy Ottewell completou 90 anos em 4 de julho de 2026.</p><p>Guy Ottewell é mais conhecido mundialmente por seus belos mapas astronômicos e pelo Calendário Astronômico anual ilustrado à mão, do qual 2026 será o último ano. O Calendário Astronômico de Ottewell foi popular como livro impresso de 1974 a 2016.</p><p>Teve um hiato a partir de 2017, mas voltou em 2023, tanto no formato impresso quanto eletrônico. Gráfico de 2026 mostrando a aparição noturna do planeta mais brilhante, Vênus, por Guy Ottewell.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/human-world/guy-ottewell-astronomical-calendar-companion/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O educador astronômico de longa data, Guy Ottewell, completou 90 anos em 4 de julho de 2026. Ele é mais conhecido por seus belos mapas astronômicos e calendário astronômico. O post Obrigado Guy Ottewell e feliz aniversário de 90 anos! apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O educador de astronomia de longa data, Guy Ottewell, completou 90 anos em 4 de julho de 2026. O homem por trás do Calendário Astronômico Anual O amado astrônomo britânico Guy Ottewell completou 90 anos em 4 de julho de 2026.</p><p>Guy Ottewell é mais conhecido mundialmente por seus belos mapas astronômicos e pelo Calendário Astronômico anual ilustrado à mão, do qual 2026 será o último ano. O Calendário Astronômico de Ottewell foi popular como livro impresso de 1974 a 2016.</p><p>Teve um hiato a partir de 2017, mas voltou em 2023, tanto no formato impresso quanto eletrônico. Gráfico de 2026 mostrando a aparição noturna do planeta mais brilhante, Vênus, por Guy Ottewell.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/human-world/guy-ottewell-astronomical-calendar-companion/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Longtime astronomy educator Guy Ottewell turned 90 on July 4, 2026. He&#x27;s best known for his beautiful astronomy charts and Astronomical Calendar. The post Thank you Guy Ottewell, and happy 90th birthday! first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Longtime astronomy educator Guy Ottewell turned 90 on July 4, 2026. The man behind the yearly Astronomical Calendar Beloved British astronomer Guy Ottewell turned 90 on July 4, 2026.</p><p>Guy Ottewell is best known worldwide for his beautiful astronomy charts and hand-illustrated yearly Astronomical Calendar, of which 2026 will be the final year. Ottewell’s Astronomical Calendar was popular as a printed book from 1974 to 2016.</p><p>It took a hiatus beginning in 2017, but returned in 2023, in both printed and electronic formats. 2026 chart showing the evening apparition of the brightest planet, Venus, by Guy Ottewell.</p><p>My first extended job was at a school in Arab Jerusalem, living there with my late wife Barbara. Being ready to turn from astronomy to another side of nature, plants, I grew 80 kinds of vegetables and made botanical drawings.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>In 2001, I moved to England with my wife, Tilly, a journalist, and continued to publish the Astronomical Calendar. At least through the end of 2026, you can also find his charts at EarthSky’s most popular post, our visible planet and night sky guide.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/human-world/guy-ottewell-astronomical-calendar-companion/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O educador astronômico de longa data, Guy Ottewell, completou 90 anos em 4 de julho de 2026. Ele é mais conhecido por seus belos mapas astronômicos e.",
-      "Dado-chave: O educador de astronomia de longa data, Guy Ottewell, completou 90 anos em 4 de julho de 2026.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O educador astronômico de longa data, Guy Ottewell, completou 90 anos em 4 de julho de 2026. Ele é mais conhecido por seus belos mapas astronômicos e.",
-      "Dado-chave: O educador de astronomia de longa data, Guy Ottewell, completou 90 anos em 4 de julho de 2026.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Longtime astronomy educator Guy Ottewell turned 90 on July 4, 2026. He's best known for his beautiful astronomy charts and Astronomical Calendar. The.",
-      "Key detail: Longtime astronomy educator Guy Ottewell turned 90 on July 4, 2026.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "05 jul 2026",
-    "date_pt": "05 jul 2026",
-    "date_en": "05 Jul 2026",
-    "time": "12h15",
-    "time_pt": "12h15",
-    "time_en": "12:15 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-05T12:15:56+00:00",
-    "lastModifiedIso": "2026-07-05T12:15:56+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Obrigado Guy Ottewell e feliz aniversário de 90 anos!"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Obrigado Guy Ottewell e feliz aniversário de 90 anos!"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "Thank you Guy Ottewell and happy 90th birthday!"
-    ],
-    "srcUrl": "https://earthsky.org/human-world/guy-ottewell-astronomical-calendar-companion/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=thank-you-guy-ottewell-and-happy-90th-birthday",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=thank-you-guy-ottewell-and-happy-90th-birthday",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=thank-you-guy-ottewell-and-happy-90th-birthday&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 68,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 62,
       "accessibility": 60,
       "novelty": 55
     }
@@ -1302,133 +1311,9 @@
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 81,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
-    "id": 12,
-    "slug": "xmm-newton-helps-revise-distance-to-outer-spiral-arms",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/xmm-newton_chandra_revised_distance_to_outer_spiral_arms_no_lines/27355527-6-eng-GB/XMM-Newton_Chandra_revised_distance_to_outer_spiral_arms_no_lines_card_full.gif",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/xmm-newton_chandra_revise_distance_to_the_outer_spiral_arms/27347970-3-eng-GB/XMM-Newton_Chandra_revise_distance_to_the_outer_spiral_arms_article.jpg",
-        "caption": "Mapeando a galáxia Via Láctea",
-        "caption_pt": "Mapeando a galáxia Via Láctea",
-        "caption_en": "Mapping the Milky Way galaxy",
-        "alt": "Mapeando a galáxia Via Láctea",
-        "alt_pt": "Mapeando a galáxia Via Láctea",
-        "alt_en": "Mapping the Milky Way galaxy"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/xmm-newton_chandra_revise_distance_to_the_outer_spiral_arms_animation/27355046-1-eng-GB/XMM-Newton_Chandra_revise_distance_to_the_outer_spiral_arms_animation_article.gif",
-        "caption": "XMM-Newton e Chandra revisam a distância até os braços espirais externos (animação)",
-        "caption_pt": "XMM-Newton e Chandra revisam a distância até os braços espirais externos (animação)",
-        "caption_en": "XMM-Newton & Chandra revise distance to the outer spiral arms (animation)",
-        "alt": "XMM-Newton e Chandra revisam a distância até os braços espirais externos (animação)",
-        "alt_pt": "XMM-Newton e Chandra revisam a distância até os braços espirais externos (animação)",
-        "alt_en": "XMM-Newton & Chandra revise distance to the outer spiral arms (animation)"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "XMM-Newton ajuda a revisar a distância até os braços espirais externos",
-    "title_pt": "XMM-Newton ajuda a revisar a distância até os braços espirais externos",
-    "title_en": "XMM-Newton helps revise distance to outer spiral arms",
-    "sub": "Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços.",
-    "sub_pt": "Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços.",
-    "sub_en": "The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing through the outer spiral arms of our.",
-    "excerpt": "Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles.",
-    "excerpt_pt": "Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles.",
-    "excerpt_en": "The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing through the outer spiral arms of our galaxy, the Milky Way. By measuring the distance to these.",
-    "body": "<p>Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Ao medir a distância até estes ecos, eles descobriram que os braços exteriores estão até 10% mais distantes do que pensávamos. Aprendemos muito desde o lançamento do telescópio espacial Gaia da ESA.</p><p>Agora, outra missão da ESA encontrou uma nova forma de mapear as extremidades da nossa galáxia. Estas explosões lançaram raios X que ecoaram através de vários braços externos da Via Láctea, e medimos diretamente as distâncias a esses ecos.” A luz de raios X foi emitida por.</p><p>Além de confirmar a distância conhecida ao braço de Perseu, os cientistas descobriram que dois dos braços da galáxia Via Láctea, Braço Externo Scutum-Centaurus e Braço Externo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Ao medir a distância até estes ecos, eles descobriram que os braços exteriores estão até 10% mais distantes do que pensávamos. Aprendemos muito desde o lançamento do telescópio espacial Gaia da ESA.</p><p>Agora, outra missão da ESA encontrou uma nova forma de mapear as extremidades da nossa galáxia. Estas explosões lançaram raios X que ecoaram através de vários braços externos da Via Láctea, e medimos diretamente as distâncias a esses ecos.” A luz de raios X foi emitida por.</p><p>Além de confirmar a distância conhecida ao braço de Perseu, os cientistas descobriram que dois dos braços da galáxia Via Láctea, Braço Externo Scutum-Centaurus e Braço Externo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing through the outer spiral arms of our galaxy, the Milky Way. By measuring the distance to these. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. By measuring the distance to these echoes, they find the outer arms to be up to 10% further away than we thought. We’ve learnt a huge amount since the launch of ESA’s star-surveying Gaia space telescope.</p><p>Now, another of ESA&#x27;s missions has found a new way to map the extremities of our galaxy. These explosions flung out X-rays that echoed through several of the Milky Way’s outer arms, and we measured the distances to these echoes directly.” X-ray light was thrown out by.</p><p>Besides confirming the known distance to the Perseus arm, the scientists found that two of the Milky Way galaxy’s arms, Outer Scutum-Centaurus Arm and Outer Arm, lie up to 10%. While ESA’s Gaia has revolutionised our understanding of the Milky Way galaxy, the distance measurements available so far from the telescope are less precise for the outer arms.</p><p>“This finding is a great example of how ESA’s longer-standing missions, such as XMM-Newton, which launched in 1999, still have a hugely important role to play in exploring the. “Now in its third decade, XMM-Newton continues to return a steady stream of groundbreaking science on everything from the brightest-ever GRB, to stars being shredded by black.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Alongside ever more detailed data from Gaia’s fourth and fifth data releases (planned for December 2026 and after the end of 2030, respectively), ESA’s next generation X-ray. The researchers combined observations of GRBs 221009A (spotted in 2022), 160623A (2016), and 031203 (2003).</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes.",
-      "Dado-chave: Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes.",
-      "Dado-chave: Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing.",
-      "Key detail: The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "01 jul 2026",
-    "date_pt": "01 jul 2026",
-    "date_en": "01 Jul 2026",
-    "time": "12h00",
-    "time_pt": "12h00",
-    "time_en": "12:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-01T12:00:00+00:00",
-    "lastModifiedIso": "2026-07-01T12:00:00+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www.esa.int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Newton ajuda a revisar a distância até os braços espirais externos"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Newton ajuda a revisar a distância até os braços espirais externos"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Newton helps review the distance to the outer spiral arms"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=xmm-newton-helps-revise-distance-to-outer-spiral-arms",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=xmm-newton-helps-revise-distance-to-outer-spiral-arms",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=xmm-newton-helps-revise-distance-to-outer-spiral-arms&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
     "score": 80,
     "scoreBreakdown": {
-      "source": 90,
+      "source": 94,
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
@@ -1436,7 +1321,7 @@
     }
   },
   {
-    "id": 13,
+    "id": 12,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1572,7 +1457,7 @@
     }
   },
   {
-    "id": 14,
+    "id": 13,
     "slug": "science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1711,7 +1596,7 @@
     }
   },
   {
-    "id": 15,
+    "id": 14,
     "slug": "jwst-discovers-a-new-barred-spiral-galaxy",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1844,7 +1729,7 @@
     }
   },
   {
-    "id": 16,
+    "id": 15,
     "slug": "into-the-void-investigating-the-heart-of-a-giant-elliptical-galaxy",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1980,7 +1865,7 @@
     }
   },
   {
-    "id": 17,
+    "id": 16,
     "slug": "top-10-cool-things-about-stars-that-you-probably-didn-t-know",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2095,7 +1980,7 @@
     }
   },
   {
-    "id": 18,
+    "id": 17,
     "slug": "webb-studies-how-a-planet-survived-the-death-of-its-star",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2219,7 +2104,7 @@
     }
   },
   {
-    "id": 19,
+    "id": 18,
     "slug": "bending-spacetime-reveals-new-planet-hidden-in-archived-tess-data",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2346,7 +2231,7 @@
     }
   },
   {
-    "id": 20,
+    "id": 19,
     "slug": "cotton-candy-exoplanets-two-for-the-price-of-one",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2482,7 +2367,7 @@
     }
   },
   {
-    "id": 21,
+    "id": 20,
     "slug": "ams-releases-new-cosmic-ray-measurements",
     "cat": "Física",
     "catCls": "fisica",
@@ -2597,7 +2482,7 @@
     }
   },
   {
-    "id": 22,
+    "id": 21,
     "slug": "cloud-experiment-uncovers-a-major-new-source-of-marine-aerosol-particles",
     "cat": "Física",
     "catCls": "fisica",
@@ -2712,7 +2597,7 @@
     }
   },
   {
-    "id": 23,
+    "id": 22,
     "slug": "update-on-ocean-observatories-initiative",
     "cat": "Física",
     "catCls": "fisica",
@@ -2836,7 +2721,7 @@
     }
   },
   {
-    "id": 24,
+    "id": 23,
     "slug": "webb-finds-clues-to-ancient-origin-of-comet-3i-atlas",
     "cat": "Química",
     "catCls": "quimica",
@@ -2941,7 +2826,220 @@
     }
   },
   {
+    "id": 24,
+    "slug": "nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/07/mmea.png?w=1430",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "NASA procura voluntários para lua simulada de ano novo, missão a Marte",
+    "title_pt": "NASA procura voluntários para lua simulada de ano novo, missão a Marte",
+    "title_en": "NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission",
+    "sub": "A NASA está recrutando participantes de pesquisa para a próxima missão simulada da agência no espaço profundo. A partir de agosto de 2027, os voluntários de pesquisa passarão um.",
+    "sub_pt": "A NASA está recrutando participantes de pesquisa para a próxima missão simulada da agência no espaço profundo. A partir de agosto de 2027, os voluntários de pesquisa passarão um.",
+    "sub_en": "NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research volunteers will spend one year living.",
+    "excerpt": "A NASA está recrutando participantes de pesquisa para a próxima missão simulada da agência no espaço profundo. A partir de agosto de 2027, os voluntários de pesquisa passarão um ano vivendo e trabalhando em ambientes interplanetários na agência.",
+    "excerpt_pt": "A NASA está recrutando participantes de pesquisa para a próxima missão simulada da agência no espaço profundo. A partir de agosto de 2027, os voluntários de pesquisa passarão um ano vivendo e trabalhando em ambientes interplanetários na agência.",
+    "excerpt_en": "NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research volunteers will spend one year living and working in interplanetary environments at the agency’s.",
+    "body": "<p>A NASA está recrutando participantes de pesquisa para a próxima missão simulada da agência no espaço profundo. A partir de agosto de 2027, os voluntários de pesquisa passarão um ano vivendo e trabalhando em ambientes interplanetários na agência. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Os participantes selecionados para a primeira missão analógica de exploração da Lua e de Marte da NASA também realizarão tarefas em ambientes imersivos e interativos enquanto. NASA A NASA está recrutando participantes de pesquisa para a próxima missão simulada da agência no espaço profundo.</p><p>A partir de agosto de 2027, os voluntários de pesquisa passarão um ano vivendo e trabalhando em ambientes interplanetários no Centro Espacial Johnson da agência em Houston. Os insights desta nova experiência de um ano, chamada Análoga de Exploração da Lua e de Marte, podem ser usados ​​para ajudar a manter os astronautas seguros e prontos para a.</p><p>Os resultados também poderão informar os planos para uma presença lunar sustentada através da Base Lunar da agência e de futuras missões Artemis. A NASA está procurando candidatos para a simulação da missão com duração aproximada de um ano, que ocorrerá em dois habitats confinados.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A NASA está recrutando participantes de pesquisa para a próxima missão simulada da agência no espaço profundo. A partir de agosto de 2027, os voluntários de pesquisa passarão um ano vivendo e trabalhando em ambientes interplanetários na agência. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Os participantes selecionados para a primeira missão analógica de exploração da Lua e de Marte da NASA também realizarão tarefas em ambientes imersivos e interativos enquanto. NASA A NASA está recrutando participantes de pesquisa para a próxima missão simulada da agência no espaço profundo.</p><p>A partir de agosto de 2027, os voluntários de pesquisa passarão um ano vivendo e trabalhando em ambientes interplanetários no Centro Espacial Johnson da agência em Houston. Os insights desta nova experiência de um ano, chamada Análoga de Exploração da Lua e de Marte, podem ser usados ​​para ajudar a manter os astronautas seguros e prontos para a.</p><p>Os resultados também poderão informar os planos para uma presença lunar sustentada através da Base Lunar da agência e de futuras missões Artemis. A NASA está procurando candidatos para a simulação da missão com duração aproximada de um ano, que ocorrerá em dois habitats confinados.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research volunteers will spend one year living and working in interplanetary environments at the agency’s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Participants selected for NASA’s first Moon and Mars Exploration Analog mission also will perform tasks in immersive, interactive environments while living inside habitats that. NASA NASA is recruiting research participants for the agency’s next simulated deep space mission.</p><p>Beginning no earlier than August 2027, research volunteers will spend one year living and working in interplanetary environments at the agency’s Johnson Space Center in Houston. Insights from this new, yearlong experience, called the Moon and Mars Exploration Analog, can be used to help keep astronauts safe and mission-ready during future planetary.</p><p>The results also could inform plans for a sustained lunar presence through the agency’s Moon Base and future Artemis missions. NASA is looking for applicants for the approximately year-long mission simulation, which will take place in two confined habitats.</p><p>Candidates also should have a strong desire for unique, rewarding experiences, and interest in contributing to NASA’s work to prepare for extended stays on the lunar surface and. The Moon and Mars Exploration Analog evolves elements of the agency’s HERA ( Human Exploration Research Analog ) and CHAPEA ( Crew Health And Performance Exploration Analog ).</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>They also will mimic surface operations, including mock Mars walks and using a rover to travel to exploration sites located beyond the main habitat. Throughout the Moon and Mars Exploration Analog mission, researchers will study crew health and performance under resource limitations and mission demands.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A NASA está recrutando participantes de pesquisa para a próxima missão simulada da agência no espaço profundo. A partir de agosto de 2027, os.",
+      "Dado-chave: Os participantes selecionados para a primeira missão analógica de exploração da Lua e de Marte da NASA também realizarão tarefas em ambientes.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A NASA está recrutando participantes de pesquisa para a próxima missão simulada da agência no espaço profundo. A partir de agosto de 2027, os.",
+      "Dado-chave: Os participantes selecionados para a primeira missão analógica de exploração da Lua e de Marte da NASA também realizarão tarefas em ambientes.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research.",
+      "Key detail: Participants selected for NASA’s first Moon and Mars Exploration Analog mission also will perform tasks in immersive, interactive environments.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "01 jul 2026",
+    "date_pt": "01 jul 2026",
+    "date_en": "01 Jul 2026",
+    "time": "16h15",
+    "time_pt": "16h15",
+    "time_en": "16:15 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-01T16:15:14+00:00",
+    "lastModifiedIso": "2026-07-01T16:15:14+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA procura voluntários para lua simulada de ano novo",
+      "missão a Marte"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA procura voluntários para lua simulada de ano novo",
+      "missão a Marte"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA seeks volunteers for simulated New Year's moon",
+      "mission to Mars"
+    ],
+    "srcUrl": "https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 82,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
     "id": 25,
+    "slug": "xmm-newton-helps-revise-distance-to-outer-spiral-arms",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/xmm-newton_chandra_revised_distance_to_outer_spiral_arms_no_lines/27355527-6-eng-GB/XMM-Newton_Chandra_revised_distance_to_outer_spiral_arms_no_lines_card_full.gif",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "XMM-Newton ajuda a revisar a distância até os braços espirais externos",
+    "title_pt": "XMM-Newton ajuda a revisar a distância até os braços espirais externos",
+    "title_en": "XMM-Newton helps revise distance to outer spiral arms",
+    "sub": "Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços.",
+    "sub_pt": "Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços.",
+    "sub_en": "The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing through the outer spiral arms of our.",
+    "excerpt": "Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles.",
+    "excerpt_pt": "Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles.",
+    "excerpt_en": "The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing through the outer spiral arms of our galaxy, the Milky Way. By measuring the distance to these.",
+    "body": "<p>Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Ao medir a distância até estes ecos, eles descobriram que os braços exteriores estão até 10% mais distantes do que pensávamos.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Ao medir a distância até estes ecos, eles descobriram que os braços exteriores estão até 10% mais distantes do que pensávamos.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing through the outer spiral arms of our galaxy, the Milky Way. By measuring the distance to these. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. By measuring the distance to these echoes, they find the outer arms to be up to 10% further away than we thought.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes.",
+      "Dado-chave: Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes.",
+      "Dado-chave: Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing.",
+      "Key detail: The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "01 jul 2026",
+    "date_pt": "01 jul 2026",
+    "date_en": "01 Jul 2026",
+    "time": "12h00",
+    "time_pt": "12h00",
+    "time_en": "12:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-01T12:00:00+00:00",
+    "lastModifiedIso": "2026-07-01T12:00:00+00:00",
+    "source": "ESA Space Science",
+    "sourceDomain": "www.esa.int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Newton ajuda a revisar a distância até os braços espirais externos"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Newton ajuda a revisar a distância até os braços espirais externos"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Newton helps review the distance to the outer spiral arms"
+    ],
+    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=xmm-newton-helps-revise-distance-to-outer-spiral-arms",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=xmm-newton-helps-revise-distance-to-outer-spiral-arms",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=xmm-newton-helps-revise-distance-to-outer-spiral-arms&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 90,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 26,
     "slug": "nasa-s-artemis-ii-breaks-agency-streaming-record",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3056,7 +3154,7 @@
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3192,7 +3290,7 @@
     }
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3328,7 +3426,7 @@
     }
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3450,114 +3548,6 @@
       "source": 89,
       "evidence": 88,
       "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 29,
-    "slug": "nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/07/mmea.png?w=1430",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "NASA procura voluntários para lua simulada de ano novo, missão a Marte",
-    "title_pt": "NASA procura voluntários para lua simulada de ano novo, missão a Marte",
-    "title_en": "NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission",
-    "sub": "A NASA está recrutando participantes de pesquisa para a próxima missão simulada da agência no espaço profundo. A partir de agosto de 2027, os voluntários de pesquisa passarão um.",
-    "sub_pt": "A NASA está recrutando participantes de pesquisa para a próxima missão simulada da agência no espaço profundo. A partir de agosto de 2027, os voluntários de pesquisa passarão um.",
-    "sub_en": "NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research volunteers will spend one year living.",
-    "excerpt": "A NASA está recrutando participantes de pesquisa para a próxima missão simulada da agência no espaço profundo. A partir de agosto de 2027, os voluntários de pesquisa passarão um ano vivendo e trabalhando em ambientes interplanetários na agência.",
-    "excerpt_pt": "A NASA está recrutando participantes de pesquisa para a próxima missão simulada da agência no espaço profundo. A partir de agosto de 2027, os voluntários de pesquisa passarão um ano vivendo e trabalhando em ambientes interplanetários na agência.",
-    "excerpt_en": "NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research volunteers will spend one year living and working in interplanetary environments at the agency’s.",
-    "body": "<p>A NASA está recrutando participantes de pesquisa para a próxima missão simulada da agência no espaço profundo. A partir de agosto de 2027, os voluntários de pesquisa passarão um ano vivendo e trabalhando em ambientes interplanetários na agência. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Os participantes selecionados para a primeira missão analógica de exploração da Lua e de Marte da NASA também realizarão tarefas em ambientes imersivos e interativos enquanto. NASA A NASA está recrutando participantes de pesquisa para a próxima missão simulada da agência no espaço profundo.</p><p>A partir de agosto de 2027, os voluntários de pesquisa passarão um ano vivendo e trabalhando em ambientes interplanetários no Centro Espacial Johnson da agência em Houston. Os insights desta nova experiência de um ano, chamada Análoga de Exploração da Lua e de Marte, podem ser usados ​​para ajudar a manter os astronautas seguros e prontos para a.</p><p>Os resultados também poderão informar os planos para uma presença lunar sustentada através da Base Lunar da agência e de futuras missões Artemis. A NASA está procurando candidatos para a simulação da missão com duração aproximada de um ano, que ocorrerá em dois habitats confinados.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A NASA está recrutando participantes de pesquisa para a próxima missão simulada da agência no espaço profundo. A partir de agosto de 2027, os voluntários de pesquisa passarão um ano vivendo e trabalhando em ambientes interplanetários na agência. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Os participantes selecionados para a primeira missão analógica de exploração da Lua e de Marte da NASA também realizarão tarefas em ambientes imersivos e interativos enquanto. NASA A NASA está recrutando participantes de pesquisa para a próxima missão simulada da agência no espaço profundo.</p><p>A partir de agosto de 2027, os voluntários de pesquisa passarão um ano vivendo e trabalhando em ambientes interplanetários no Centro Espacial Johnson da agência em Houston. Os insights desta nova experiência de um ano, chamada Análoga de Exploração da Lua e de Marte, podem ser usados ​​para ajudar a manter os astronautas seguros e prontos para a.</p><p>Os resultados também poderão informar os planos para uma presença lunar sustentada através da Base Lunar da agência e de futuras missões Artemis. A NASA está procurando candidatos para a simulação da missão com duração aproximada de um ano, que ocorrerá em dois habitats confinados.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research volunteers will spend one year living and working in interplanetary environments at the agency’s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Participants selected for NASA’s first Moon and Mars Exploration Analog mission also will perform tasks in immersive, interactive environments while living inside habitats that. NASA NASA is recruiting research participants for the agency’s next simulated deep space mission.</p><p>Beginning no earlier than August 2027, research volunteers will spend one year living and working in interplanetary environments at the agency’s Johnson Space Center in Houston. Insights from this new, yearlong experience, called the Moon and Mars Exploration Analog, can be used to help keep astronauts safe and mission-ready during future planetary.</p><p>The results also could inform plans for a sustained lunar presence through the agency’s Moon Base and future Artemis missions. NASA is looking for applicants for the approximately year-long mission simulation, which will take place in two confined habitats.</p><p>Candidates also should have a strong desire for unique, rewarding experiences, and interest in contributing to NASA’s work to prepare for extended stays on the lunar surface and. The Moon and Mars Exploration Analog evolves elements of the agency’s HERA ( Human Exploration Research Analog ) and CHAPEA ( Crew Health And Performance Exploration Analog ).</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>They also will mimic surface operations, including mock Mars walks and using a rover to travel to exploration sites located beyond the main habitat. Throughout the Moon and Mars Exploration Analog mission, researchers will study crew health and performance under resource limitations and mission demands.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A NASA está recrutando participantes de pesquisa para a próxima missão simulada da agência no espaço profundo. A partir de agosto de 2027, os.",
-      "Dado-chave: Os participantes selecionados para a primeira missão analógica de exploração da Lua e de Marte da NASA também realizarão tarefas em ambientes.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A NASA está recrutando participantes de pesquisa para a próxima missão simulada da agência no espaço profundo. A partir de agosto de 2027, os.",
-      "Dado-chave: Os participantes selecionados para a primeira missão analógica de exploração da Lua e de Marte da NASA também realizarão tarefas em ambientes.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research.",
-      "Key detail: Participants selected for NASA’s first Moon and Mars Exploration Analog mission also will perform tasks in immersive, interactive environments.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "01 jul 2026",
-    "date_pt": "01 jul 2026",
-    "date_en": "01 Jul 2026",
-    "time": "16h15",
-    "time_pt": "16h15",
-    "time_en": "16:15 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-01T16:15:14+00:00",
-    "lastModifiedIso": "2026-07-01T16:15:14+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA procura voluntários para lua simulada de ano novo",
-      "missão a Marte"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA procura voluntários para lua simulada de ano novo",
-      "missão a Marte"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA seeks volunteers for simulated New Year's moon",
-      "mission to Mars"
-    ],
-    "srcUrl": "https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 77,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 82,
-      "relevance": 80,
       "accessibility": 60,
       "novelty": 46
     }
@@ -4490,152 +4480,6 @@
   },
   {
     "id": 37,
-    "slug": "it-s-finally-begun-the-vera-rubin-observatory-creating-what-will-be-the-greatest-movie-ever-made",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://www.universetoday.com/article_images/noirlab2616a_20260630_174913.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/noirlab2521a_20260630_184836.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.universetoday.com/article_images/noirlab2616e_20260630_195614.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/cnvuf2dzluo",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.universetoday.com/articles/its-finally-begun-the-vera-rubin-observatory-creating-what-will-be-the-greatest-movie-ever-made"
-    },
-    "audio": null,
-    "title": "Finalmente começou! Observatório Vera Rubin criando aquele que será o melhor filme já feito",
-    "title_pt": "Finalmente começou! Observatório Vera Rubin criando aquele que será o melhor filme já feito",
-    "title_en": "It's Finally Begun! The Vera Rubin Observatory Creating What Will Be the Greatest Movie Ever Made",
-    "sub": "A tão esperada Pesquisa Legada de Espaço e Tempo do Observatório Vera Rubin já começou. Este filme do cosmos com duração de uma década irá capturar qualquer coisa que mude o.",
-    "sub_pt": "A tão esperada Pesquisa Legada de Espaço e Tempo do Observatório Vera Rubin já começou. Este filme do cosmos com duração de uma década irá capturar qualquer coisa que mude o.",
-    "sub_en": "The Vera Rubin Observatory's long-awaited Legacy Survey of Space and Time has begun. This decade-long movie of the cosmos will capture anything that changes brightness, position.",
-    "excerpt": "A tão esperada Pesquisa Legada de Espaço e Tempo do Observatório Vera Rubin já começou. Este filme do cosmos com duração de uma década irá capturar qualquer coisa que mude o brilho, a posição ou ambos no céu noturno do sul. Vai estudar muito.",
-    "excerpt_pt": "A tão esperada Pesquisa Legada de Espaço e Tempo do Observatório Vera Rubin já começou. Este filme do cosmos com duração de uma década irá capturar qualquer coisa que mude o brilho, a posição ou ambos no céu noturno do sul. Vai estudar muito.",
-    "excerpt_en": "The Vera Rubin Observatory's long-awaited Legacy Survey of Space and Time has begun. This decade-long movie of the cosmos will capture anything that changes brightness, position, or both in the southern night sky. It will study grand.",
-    "body": "<p>A tão esperada Pesquisa Legada de Espaço e Tempo do Observatório Vera Rubin já começou. Este filme do cosmos com duração de uma década irá capturar qualquer coisa que mude o brilho, a posição ou ambos no céu noturno do sul. Vai estudar muito. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. A tão esperada Pesquisa Legada de Espaço e Tempo do Observatório Vera Rubin já começou. E agora, depois de tantos anos, e depois de ter sido encomendado e testado extensivamente, o Observatório Rubin está finalmente a iniciar a sua tão esperada e esperada pesquisa de.</p><p>Durante a pesquisa, o VRO e seu Telescópio de Pesquisa Simonyi de 8,4 metros e sua câmera irão repetidamente capturar imagens de todo o céu meridional. “Com o lançamento do Legacy Survey of Space and Time de dez anos, o NSF, DOE Rubin Observatory está abrindo uma nova janela para o Universo.</p><p>Está a embarcar numa missão que irá redefinir a cosmologia e a astrofísica modernas”, afirma Darío Gil, subsecretário para a Ciência dos EUA. “Com o seu design e ferramentas de classe mundial, o Observatório Rubin irá capturar a natureza dinâmica do nosso cosmos e revelar insights inimagináveis ​​sobre os maiores.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/its-finally-begun-the-vera-rubin-observatory-creating-what-will-be-the-greatest-movie-ever-made\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A tão esperada Pesquisa Legada de Espaço e Tempo do Observatório Vera Rubin já começou. Este filme do cosmos com duração de uma década irá capturar qualquer coisa que mude o brilho, a posição ou ambos no céu noturno do sul. Vai estudar muito. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. A tão esperada Pesquisa Legada de Espaço e Tempo do Observatório Vera Rubin já começou. E agora, depois de tantos anos, e depois de ter sido encomendado e testado extensivamente, o Observatório Rubin está finalmente a iniciar a sua tão esperada e esperada pesquisa de.</p><p>Durante a pesquisa, o VRO e seu Telescópio de Pesquisa Simonyi de 8,4 metros e sua câmera irão repetidamente capturar imagens de todo o céu meridional. “Com o lançamento do Legacy Survey of Space and Time de dez anos, o NSF, DOE Rubin Observatory está abrindo uma nova janela para o Universo.</p><p>Está a embarcar numa missão que irá redefinir a cosmologia e a astrofísica modernas”, afirma Darío Gil, subsecretário para a Ciência dos EUA. “Com o seu design e ferramentas de classe mundial, o Observatório Rubin irá capturar a natureza dinâmica do nosso cosmos e revelar insights inimagináveis ​​sobre os maiores.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/its-finally-begun-the-vera-rubin-observatory-creating-what-will-be-the-greatest-movie-ever-made\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The Vera Rubin Observatory&#x27;s long-awaited Legacy Survey of Space and Time has begun. This decade-long movie of the cosmos will capture anything that changes brightness, position, or both in the southern night sky. It will study grand. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. The Vera Rubin Observatory&#x27;s long-awaited Legacy Survey of Space and Time has begun. And now, after so many years, and after being commissioned and tested extensively, the Rubin Observatory is finally beginning its long-awaited, much-anticipated, 10-year survey.</p><p>During the survey, the VRO and its 8.4 meter Simonyi Survey Telescope and camera will repeatedly image the entire southern sky. “With the launch of the ten-year Legacy Survey of Space and Time, NSF, DOE Rubin Observatory is opening a new window on the Universe.</p><p>It is embarking on a mission that will redefine modern cosmology and astrophysics,” says Darío Gil, Under Secretary for Science at the U. S. “With its world-class design and tools, Rubin Observatory will capture the dynamic nature of our cosmos and reveal unimagined insights into our Universe’s biggest mysteries, from.</p><p>As we grapple with our personal lives, we keep one part of our minds engaged with bigger issues, including the fundamental nature of the Universe we find ourselves in. In only 1.5 months of observation during early optimization work, the telescope detected 11,000 new asteroids, including 33 near-Earth objects.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>The LSST is our most powerful tool for detecting these objects, and if the survey is extended to 12 years, it could complete the mandate given by the US Congress to find 90% of. “It is amazing and humbling to be here at this time and place as we start the Legacy Survey of Space and Time, after more than two decades of incredible work by our dedicated.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/its-finally-begun-the-vera-rubin-observatory-creating-what-will-be-the-greatest-movie-ever-made\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A tão esperada Pesquisa Legada de Espaço e Tempo do Observatório Vera Rubin já começou. Este filme do cosmos com duração de uma década irá capturar.",
-      "Dado-chave: A tão esperada Pesquisa Legada de Espaço e Tempo do Observatório Vera Rubin já começou.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A tão esperada Pesquisa Legada de Espaço e Tempo do Observatório Vera Rubin já começou. Este filme do cosmos com duração de uma década irá capturar.",
-      "Dado-chave: A tão esperada Pesquisa Legada de Espaço e Tempo do Observatório Vera Rubin já começou.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The Vera Rubin Observatory's long-awaited Legacy Survey of Space and Time has begun. This decade-long movie of the cosmos will capture anything that.",
-      "Key detail: The Vera Rubin Observatory's long-awaited Legacy Survey of Space and Time has begun.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "30 jun 2026",
-    "date_pt": "30 jun 2026",
-    "date_en": "30 Jun 2026",
-    "time": "21h20",
-    "time_pt": "21h20",
-    "time_en": "21:20 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-30T21:20:00+00:00",
-    "lastModifiedIso": "2026-06-30T21:20:00+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Cosmologia",
-      "Universe Today",
-      "Cosmos Week",
-      "Finalmente começou! Observatório Vera Rubin criando aquele que será o melhor filme já feito"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "Universe Today",
-      "Cosmos Week",
-      "Finalmente começou! Observatório Vera Rubin criando aquele que será o melhor filme já feito"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "Universe Today",
-      "Cosmos Week",
-      "It's finally started! Vera Rubin Observatory creating what will be the best film ever made"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/its-finally-begun-the-vera-rubin-observatory-creating-what-will-be-the-greatest-movie-ever-made",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=it-s-finally-begun-the-vera-rubin-observatory-creating-what-will-be-the-greatest-movie-ever-made",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=it-s-finally-begun-the-vera-rubin-observatory-creating-what-will-be-the-greatest-movie-ever-made",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=it-s-finally-begun-the-vera-rubin-observatory-creating-what-will-be-the-greatest-movie-ever-made&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 38,
     "slug": "end-of-the-blue-glow-bepicolombo-turns-off-solar-electric-propulsion-for-mercury-arrival",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4743,7 +4587,7 @@
     }
   },
   {
-    "id": 39,
+    "id": 38,
     "slug": "radio-astronomers-measure-a-brighter-sky-than-they-expected",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4876,22 +4720,12 @@
     }
   },
   {
-    "id": 40,
+    "id": 39,
     "slug": "authorisation-paves-the-way-for-aeolus-2-wind-mission",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/07/aeolus-2/27360039-1-eng-GB/Aeolus-2_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/07/aeolus-2/27360039-1-eng-GB/Aeolus-2_article.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Autorização abre caminho para missão eólica Aeolus-2",
@@ -4903,9 +4737,9 @@
     "excerpt": "Com base no notável sucesso da missão eólica Earth Explorer Aeolus, a Agência Espacial Europeia concedeu à Airbus Defence and Space no Reino Unido a autorização para prosseguir com o desenvolvimento do sucessor do Aeolus, o Aeolus-2.",
     "excerpt_pt": "Com base no notável sucesso da missão eólica Earth Explorer Aeolus, a Agência Espacial Europeia concedeu à Airbus Defence and Space no Reino Unido a autorização para prosseguir com o desenvolvimento do sucessor do Aeolus, o Aeolus-2.",
     "excerpt_en": "Building on the remarkable success of the Earth Explorer Aeolus wind mission, the European Space Agency has given Airbus Defence and Space in the UK the authorisation to proceed to begin the development of Aeolus’ successor, Aeolus-2.",
-    "body": "<p>Com base no notável sucesso da missão eólica Earth Explorer Aeolus, a Agência Espacial Europeia concedeu à Airbus Defence and Space no Reino Unido a autorização para prosseguir com o desenvolvimento do sucessor do Aeolus, o Aeolus-2. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O plano é desenvolver o Aeolus-2 diretamente como uma missão meteorológica operacional, em colaboração com a Eumetsat. Ele será projetado para fornecer perfis de vento globais contínuos que melhorarão a precisão das previsões meteorológicas e fortalecerão as capacidades de monitoramento.</p><p>A decisão de desenvolver o Aeolus-2 como uma missão meteorológica operacional está enraizada no excelente desempenho e impacto científico do satélite Aeolus original. Lançado em 2018, o Aeolus provou ser uma conquista inovadora na observação da Terra e na ciência atmosférica, tornando-se o primeiro satélite do mundo capaz de medir diretamente.</p><p>A missão demonstrou inovação tecnológica excepcional, superando desafios complexos de engenharia para operar em órbita um instrumento altamente sofisticado baseado em laser.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Authorisation_paves_the_way_for_Aeolus-2_wind_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Com base no notável sucesso da missão eólica Earth Explorer Aeolus, a Agência Espacial Europeia concedeu à Airbus Defence and Space no Reino Unido a autorização para prosseguir com o desenvolvimento do sucessor do Aeolus, o Aeolus-2. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O plano é desenvolver o Aeolus-2 diretamente como uma missão meteorológica operacional, em colaboração com a Eumetsat. Ele será projetado para fornecer perfis de vento globais contínuos que melhorarão a precisão das previsões meteorológicas e fortalecerão as capacidades de monitoramento.</p><p>A decisão de desenvolver o Aeolus-2 como uma missão meteorológica operacional está enraizada no excelente desempenho e impacto científico do satélite Aeolus original. Lançado em 2018, o Aeolus provou ser uma conquista inovadora na observação da Terra e na ciência atmosférica, tornando-se o primeiro satélite do mundo capaz de medir diretamente.</p><p>A missão demonstrou inovação tecnológica excepcional, superando desafios complexos de engenharia para operar em órbita um instrumento altamente sofisticado baseado em laser.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Authorisation_paves_the_way_for_Aeolus-2_wind_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Building on the remarkable success of the Earth Explorer Aeolus wind mission, the European Space Agency has given Airbus Defence and Space in the UK the authorisation to proceed to begin the development of Aeolus’ successor, Aeolus-2. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The plan is to develop Aeolus-2 directly as an operational meteorological mission, in collaboration with Eumetsat. It will be designed to provide continuous global wind profiles that will improve weather forecasting accuracy and strengthen atmospheric and climate monitoring capabilities.</p><p>The decision to develop Aeolus-2 as an operational meteorological mission is rooted in the outstanding performance and scientific impact of the original Aeolus satellite. Launched in 2018, Aeolus proved to be a groundbreaking achievement in Earth observation and atmospheric science, becoming the world’s first satellite capable of directly measuring.</p><p>The mission demonstrated exceptional technological innovation, overcoming complex engineering challenges to operate a highly sophisticated ultra-violet laser-based instrument in. Aeolus provided the evidence needed to transition this pioneering technology from an Earth Explorer research mission into an operational capability.</p><p>The mission’s achievements highlighted the critical role of global wind observations in improving forecast accuracy and addressing gaps in existing observing networks. Like Aeolus, its operational successor, Aelous-2, will carry a Doppler wind lidar, however, the Aeolus-2 version will be even more sophisticated than the original.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>ESA’s Aeolus-2 Project Manager, Ben Boyes, explained, “Aeolus was a trailblazing mission that demonstrated, for the first time, the immense value of measuring global winds. “Building on the lidar heritage of both Aeolus and EarthCARE, Aeolus-2 will carry two lasers, each twice as powerful as Aeolus’, with an upgraded and more robust instrument design.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Authorisation_paves_the_way_for_Aeolus-2_wind_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Com base no notável sucesso da missão eólica Earth Explorer Aeolus, a Agência Espacial Europeia concedeu à Airbus Defence and Space no Reino Unido a autorização para prosseguir com o desenvolvimento do sucessor do Aeolus, o Aeolus-2. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Authorisation_paves_the_way_for_Aeolus-2_wind_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Com base no notável sucesso da missão eólica Earth Explorer Aeolus, a Agência Espacial Europeia concedeu à Airbus Defence and Space no Reino Unido a autorização para prosseguir com o desenvolvimento do sucessor do Aeolus, o Aeolus-2. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Authorisation_paves_the_way_for_Aeolus-2_wind_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Building on the remarkable success of the Earth Explorer Aeolus wind mission, the European Space Agency has given Airbus Defence and Space in the UK the authorisation to proceed to begin the development of Aeolus’ successor, Aeolus-2. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Authorisation_paves_the_way_for_Aeolus-2_wind_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Com base no notável sucesso da missão eólica Earth Explorer Aeolus, a Agência Espacial Europeia concedeu à Airbus Defence and Space no Reino Unido a.",
       "Dado-chave: Com base no notável sucesso da missão eólica Earth Explorer Aeolus, a Agência Espacial Europeia concedeu à Airbus Defence and Space no Reino.",
@@ -4988,6 +4822,152 @@
       "relevance": 80,
       "accessibility": 60,
       "novelty": 49
+    }
+  },
+  {
+    "id": 40,
+    "slug": "viking-mission-resources",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia00/pia00381/PIA00381.jpg?w=1439&h=512&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia00/pia00563/PIA00563.tif?w=1024",
+        "caption": "Esta fotografia colorida de Marte foi tirada em 21 de julho de 1997, um dia após o Viking l da NASA pousar com sucesso no planeta vermelho.",
+        "caption_pt": "Esta fotografia colorida de Marte foi tirada em 21 de julho de 1997, um dia após o Viking l da NASA pousar com sucesso no planeta vermelho.",
+        "caption_en": "This color picture of Mars was taken July 21, 1997, the day following NASA's Viking l successfully landed on the red planet.",
+        "alt": "Esta fotografia colorida de Marte foi tirada em 21 de julho de 1997, um dia após o Viking l da NASA pousar com sucesso no planeta vermelho.",
+        "alt_pt": "Esta fotografia colorida de Marte foi tirada em 21 de julho de 1997, um dia após o Viking l da NASA pousar com sucesso no planeta vermelho.",
+        "alt_en": "This color picture of Mars was taken July 21, 1997, the day following NASA's Viking l successfully landed on the red planet."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia00/pia00396/PIA00396.jpg?w=1614&h=512&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "A primeira foto do Viking 2 da NASA na superfície de Marte foi tirada poucos minutos depois que a espaçonave pousou em 3 de setembro de 1976. A cena revela uma grande variedade de rochas espalhadas por uma superfície de depósitos de granulação fina.",
+        "caption_pt": "A primeira foto do Viking 2 da NASA na superfície de Marte foi tirada poucos minutos depois que a espaçonave pousou em 3 de setembro de 1976. A cena revela uma grande variedade de rochas espalhadas por uma superfície de depósitos de granulação fina.",
+        "caption_en": "NASA's Viking 2's first picture on the surface of Mars was taken within minutes after the spacecraft touched down on Sept. 3, 1976. The scene reveals a wide variety of rocks littering a surface of fine-grained deposit.",
+        "alt": "A primeira foto do Viking 2 da NASA na superfície de Marte foi tirada poucos minutos depois que a espaçonave pousou em 3 de setembro de 1976. A cena revela uma grande variedade de rochas espalhadas por uma superfície de depósitos de granulação fina.",
+        "alt_pt": "A primeira foto do Viking 2 da NASA na superfície de Marte foi tirada poucos minutos depois que a espaçonave pousou em 3 de setembro de 1976. A cena revela uma grande variedade de rochas espalhadas por uma superfície de depósitos de granulação fina.",
+        "alt_en": "NASA's Viking 2's first picture on the surface of Mars was taken within minutes after the spacecraft touched down on Sept. 3, 1976. The scene reveals a wide variety of rocks littering a surface of fine-grained deposit."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia00/pia00383/PIA00383.jpg?w=2497&h=512&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Primeira vista panorâmica da superfície de Marte feita pelo Viking 1 da NASA, tirada em 1976. Na borda direita há uma série de material liso e de granulação fina que mostra algum indício de estrutura ondulada e pode ser o início de um grande campo de dunas.",
+        "caption_pt": "Primeira vista panorâmica da superfície de Marte feita pelo Viking 1 da NASA, tirada em 1976. Na borda direita há uma série de material liso e de granulação fina que mostra algum indício de estrutura ondulada e pode ser o início de um grande campo de dunas.",
+        "caption_en": "First panoramic view by NASA's Viking 1 from the surface of Mars taken in 1976. Toward the right edge is an array of smooth fine-grained material which shows some hint of ripple structure and may be the beginning of a large dune field.",
+        "alt": "Primeira vista panorâmica da superfície de Marte feita pelo Viking 1 da NASA, tirada em 1976. Na borda direita há uma série de material liso e de granulação fina que mostra algum indício de estrutura ondulada e pode ser o início de um grande campo de dunas.",
+        "alt_pt": "Primeira vista panorâmica da superfície de Marte feita pelo Viking 1 da NASA, tirada em 1976. Na borda direita há uma série de material liso e de granulação fina que mostra algum indício de estrutura ondulada e pode ser o início de um grande campo de dunas.",
+        "alt_en": "First panoramic view by NASA's Viking 1 from the surface of Mars taken in 1976. Toward the right edge is an array of smooth fine-grained material which shows some hint of ripple structure and may be the beginning of a large dune field."
+      }
+    ],
+    "video": {
+      "kind": "file",
+      "platform": "html5",
+      "embedUrl": "",
+      "fileUrl": "https://science.nasa.gov/wp-content/uploads/2024/07/jpl-19760131-vikings-0001-src001968-viking-mission-to-mars-trimmed.mp4",
+      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2008/02/382-viking-lander-pia09703.jpg?w=1116&h=900&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "Recursos da Missão Viking - Ciência da NASA",
+      "title_pt": "Recursos da Missão Viking - Ciência da NASA",
+      "title_en": "Viking Mission Resources - NASA Science",
+      "caption": "Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte.",
+      "caption_pt": "Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte.",
+      "caption_en": "A collection of images, videos, activities, and other downloadable resources about NASA's Viking 1 and 2 missions to Mars.",
+      "sourcePage": "https://science.nasa.gov/mars/resources/viking-mission-resources/"
+    },
+    "audio": null,
+    "title": "Recursos da Missão Viking",
+    "title_pt": "Recursos da Missão Viking",
+    "title_en": "Viking Mission Resources",
+    "sub": "Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão Viking apareceu pela primeira.",
+    "sub_pt": "Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão Viking apareceu pela primeira.",
+    "sub_en": "A collection of images, videos, activities, and other downloadable resources about NASA's Viking 1 and 2 missions to Mars. The post Viking Mission Resources appeared first on NASA.",
+    "excerpt": "Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão Viking apareceu pela primeira vez na NASA Science.",
+    "excerpt_pt": "Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão Viking apareceu pela primeira vez na NASA Science.",
+    "excerpt_en": "A collection of images, videos, activities, and other downloadable resources about NASA's Viking 1 and 2 missions to Mars. The post Viking Mission Resources appeared first on NASA Science.",
+    "body": "<p>Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão Viking apareceu pela primeira vez na NASA Science. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Veja mais Primeira imagem colorida Esta foto colorida de Marte foi tirada em 21 de julho de 1976, um dia após o pouso bem-sucedido da Viking 1 no planeta. Veja mais Primeira imagem do Viking 2 A primeira foto do Viking 2 na superfície de Marte depois que a espaçonave pousou em setembro.</p><p>Veja mais Primeiro Panorama A sonda Viking 1 produziu a primeira imagem panorâmica da superfície de Marte. Veja mais Amostragem da superfície Operação do amostrador de superfície na obtenção de solo marciano para o experimento de análise molecular Viking 2 da NASA.</p><p>Veja mais vídeo em destaque Missão Viking a Marte O vídeo em estilo retrô apresenta animação de uma das espaçonaves Viking da NASA a caminho de Marte e pousando lá em 1976. Veja mais Preparando o Aeroshell Técnicos preparando a cobertura do aeroshell que protegerá o módulo de pouso Viking 1 enquanto ele atravessa a atmosfera de Marte.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA Earth Observatory, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/mars/resources/viking-mission-resources/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão Viking apareceu pela primeira vez na NASA Science. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Veja mais Primeira imagem colorida Esta foto colorida de Marte foi tirada em 21 de julho de 1976, um dia após o pouso bem-sucedido da Viking 1 no planeta. Veja mais Primeira imagem do Viking 2 A primeira foto do Viking 2 na superfície de Marte depois que a espaçonave pousou em setembro.</p><p>Veja mais Primeiro Panorama A sonda Viking 1 produziu a primeira imagem panorâmica da superfície de Marte. Veja mais Amostragem da superfície Operação do amostrador de superfície na obtenção de solo marciano para o experimento de análise molecular Viking 2 da NASA.</p><p>Veja mais vídeo em destaque Missão Viking a Marte O vídeo em estilo retrô apresenta animação de uma das espaçonaves Viking da NASA a caminho de Marte e pousando lá em 1976. Veja mais Preparando o Aeroshell Técnicos preparando a cobertura do aeroshell que protegerá o módulo de pouso Viking 1 enquanto ele atravessa a atmosfera de Marte.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA Earth Observatory, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/mars/resources/viking-mission-resources/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A collection of images, videos, activities, and other downloadable resources about NASA&#x27;s Viking 1 and 2 missions to Mars. The post Viking Mission Resources appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. See More First Color Image This color picture of Mars was taken July 21, 1976, the day following Viking 1’s successful landing on the planet. See More Viking 2’s First Image Viking 2’s first picture on the surface of Mars after the spacecraft touched down on Sept.</p><p>See More First Panorama Viking 1 lander produced the first panorama image from Mars’s surface. See More Sampling the Surface Operation of the surface sampler in obtaining Martian soil for NASA’s Viking 2 molecular analysis experiment.</p><p>See More Featured Video Viking Mission to Mars Retro-style video features animation of one of NASA’s Viking spacecraft en route to Mars and landing there in 1976. See More Preparing the Aeroshell Technicians preparing the aeroshell cover that will protect the Viking 1 lander as it traverses Mars’s atmosphere.</p><p>Read More and Download To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video Viking and Mars Downloadables Scroll through. Retro Viking Download Mars Superstar Download Lander Silhouette Download First Soil Sample on Another Planet Download American Flag Download Orbiter and Lander Download Spirit of.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Future Download 40th Anniversary Medallion Download Keep Exploring Discover More Topics From NASA Viking Project Mars Orbiters &amp; Landers Viking 1 Viking 1 made the first truly. The Soviet Mars 3 lander claimed a technical first, but. Viking Spacecraft and Science Mars Exploration Mars is the only planet we know of inhabited entirely by robots.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/mars/resources/viking-mission-resources/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão.",
+      "Dado-chave: Veja mais Primeira imagem colorida Esta foto colorida de Marte foi tirada em 21 de julho de 1976, um dia após o pouso bem-sucedido da Viking 1.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão.",
+      "Dado-chave: Veja mais Primeira imagem colorida Esta foto colorida de Marte foi tirada em 21 de julho de 1976, um dia após o pouso bem-sucedido da Viking 1.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: A collection of images, videos, activities, and other downloadable resources about NASA's Viking 1 and 2 missions to Mars. The post Viking Mission.",
+      "Key detail: See More First Color Image This color picture of Mars was taken July 21, 1976, the day following Viking 1’s successful landing on the planet.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "29 jun 2026",
+    "date_pt": "29 jun 2026",
+    "date_en": "29 Jun 2026",
+    "time": "23h30",
+    "time_pt": "23h30",
+    "time_en": "23:30 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-29T23:30:45+00:00",
+    "lastModifiedIso": "2026-06-29T23:30:45+00:00",
+    "source": "NASA Earth Observatory",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Recursos da Missão Viking"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Recursos da Missão Viking"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Viking Quest Features"
+    ],
+    "srcUrl": "https://science.nasa.gov/mars/resources/viking-mission-resources/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=viking-mission-resources",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=viking-mission-resources",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=viking-mission-resources&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 75,
+      "evidence": 88,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 46
     }
   }
 ]

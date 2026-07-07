@@ -40,14 +40,14 @@ window.postsData = [
     "date": "07 jul 2026",
     "date_pt": "07 jul 2026",
     "date_en": "07 Jul 2026",
-    "time": "01h19",
-    "time_pt": "01h19",
-    "time_en": "01:19 UTC",
+    "time": "05h48",
+    "time_pt": "05h48",
+    "time_en": "05:48 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-07T01:19:44.116963+00:00",
-    "lastModifiedIso": "2026-07-07T01:19:44.116963+00:00",
+    "publishedIso": "2026-07-07T05:48:49.029903+00:00",
+    "lastModifiedIso": "2026-07-07T05:48:49.029903+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -148,14 +148,14 @@ window.postsData = [
     "date": "07 jul 2026",
     "date_pt": "07 jul 2026",
     "date_en": "07 Jul 2026",
-    "time": "01h19",
-    "time_pt": "01h19",
-    "time_en": "01:19 UTC",
+    "time": "05h48",
+    "time_pt": "05h48",
+    "time_en": "05:48 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-07T01:19:44.116916+00:00",
-    "lastModifiedIso": "2026-07-07T01:19:44.116916+00:00",
+    "publishedIso": "2026-07-07T05:48:49.029855+00:00",
+    "lastModifiedIso": "2026-07-07T05:48:49.029855+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -253,14 +253,14 @@ window.postsData = [
     "date": "07 jul 2026",
     "date_pt": "07 jul 2026",
     "date_en": "07 Jul 2026",
-    "time": "01h19",
-    "time_pt": "01h19",
-    "time_en": "01:19 UTC",
+    "time": "05h48",
+    "time_pt": "05h48",
+    "time_en": "05:48 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-07T01:19:44.116864+00:00",
-    "lastModifiedIso": "2026-07-07T01:19:44.116864+00:00",
+    "publishedIso": "2026-07-07T05:48:49.029801+00:00",
+    "lastModifiedIso": "2026-07-07T05:48:49.029801+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -358,14 +358,14 @@ window.postsData = [
     "date": "07 jul 2026",
     "date_pt": "07 jul 2026",
     "date_en": "07 Jul 2026",
-    "time": "01h19",
-    "time_pt": "01h19",
-    "time_en": "01:19 UTC",
+    "time": "05h48",
+    "time_pt": "05h48",
+    "time_en": "05:48 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-07T01:19:44.116819+00:00",
-    "lastModifiedIso": "2026-07-07T01:19:44.116819+00:00",
+    "publishedIso": "2026-07-07T05:48:49.029755+00:00",
+    "lastModifiedIso": "2026-07-07T05:48:49.029755+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -463,14 +463,14 @@ window.postsData = [
     "date": "07 jul 2026",
     "date_pt": "07 jul 2026",
     "date_en": "07 Jul 2026",
-    "time": "01h19",
-    "time_pt": "01h19",
-    "time_en": "01:19 UTC",
+    "time": "05h48",
+    "time_pt": "05h48",
+    "time_en": "05:48 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-07T01:19:44.116770+00:00",
-    "lastModifiedIso": "2026-07-07T01:19:44.116770+00:00",
+    "publishedIso": "2026-07-07T05:48:49.029704+00:00",
+    "lastModifiedIso": "2026-07-07T05:48:49.029704+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -531,6 +531,275 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "the-world-cup-from-250-miles-up",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-orbital-view-of-world-cup-stadiums/ISS067-E-202213_wide.jpg?w=1440&h=959&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/examining-algal-blooms-in-blue-mesa/bluemesablooms_oli_20211117_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "A segunda imagem do par mostra a mesma parte do reservatório em novembro de 2021, quando o nível da água estava bem mais baixo e sua cor era bem mais verde.",
+        "caption_pt": "A segunda imagem do par mostra a mesma parte do reservatório em novembro de 2021, quando o nível da água estava bem mais baixo e sua cor era bem mais verde.",
+        "caption_en": "The second image in the pair shows the same part of the reservoir in November 2021, when water levels were much lower and its color was much greener.",
+        "alt": "A segunda imagem do par mostra a mesma parte do reservatório em novembro de 2021, quando o nível da água estava bem mais baixo e sua cor era bem mais verde.",
+        "alt_pt": "A segunda imagem do par mostra a mesma parte do reservatório em novembro de 2021, quando o nível da água estava bem mais baixo e sua cor era bem mais verde.",
+        "alt_en": "The second image in the pair shows the same part of the reservoir in November 2021, when water levels were much lower and its color was much greener."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-orbital-view-of-world-cup-stadiums/iss067e018580_stadium.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Uma vista aérea do Estádio da Baía de São Francisco, no meio à esquerda, cercado por infraestrutura urbana. Lagoas coloridas do sul da Baía de São Francisco são visíveis no topo.",
+        "caption_pt": "Uma vista aérea do Estádio da Baía de São Francisco, no meio à esquerda, cercado por infraestrutura urbana. Lagoas coloridas do sul da Baía de São Francisco são visíveis no topo.",
+        "caption_en": "An aerial view of the San Francisco Bay Area Stadium, middle-left, is surrounded by urban infrastructure. Colorful ponds of the southern San Francisco Bay are visible toward the top.",
+        "alt": "Uma vista aérea do Estádio da Baía de São Francisco, no meio à esquerda, cercado por infraestrutura urbana. Lagoas coloridas do sul da Baía de São Francisco são visíveis no topo.",
+        "alt_pt": "Uma vista aérea do Estádio da Baía de São Francisco, no meio à esquerda, cercado por infraestrutura urbana. Lagoas coloridas do sul da Baía de São Francisco são visíveis no topo.",
+        "alt_en": "An aerial view of the San Francisco Bay Area Stadium, middle-left, is surrounded by urban infrastructure. Colorful ponds of the southern San Francisco Bay are visible toward the top."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-orbital-view-of-world-cup-stadiums/ISS067-E-202213_lrg.jpg?w=4989&h=3324&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Uma vista aérea do Estádio da Baía de São Francisco, no meio à esquerda, cercado por infraestrutura urbana. Lagoas coloridas do sul da Baía de São Francisco são visíveis no topo.",
+        "caption_pt": "Uma vista aérea do Estádio da Baía de São Francisco, no meio à esquerda, cercado por infraestrutura urbana. Lagoas coloridas do sul da Baía de São Francisco são visíveis no topo.",
+        "caption_en": "An aerial view of the San Francisco Bay Area Stadium, middle-left, is surrounded by urban infrastructure. Colorful ponds of the southern San Francisco Bay are visible toward the top.",
+        "alt": "Uma vista aérea do Estádio da Baía de São Francisco, no meio à esquerda, cercado por infraestrutura urbana. Lagoas coloridas do sul da Baía de São Francisco são visíveis no topo.",
+        "alt_pt": "Uma vista aérea do Estádio da Baía de São Francisco, no meio à esquerda, cercado por infraestrutura urbana. Lagoas coloridas do sul da Baía de São Francisco são visíveis no topo.",
+        "alt_en": "An aerial view of the San Francisco Bay Area Stadium, middle-left, is surrounded by urban infrastructure. Colorful ponds of the southern San Francisco Bay are visible toward the top."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "A Copa do Mundo a 250 milhas de altura",
+    "title_pt": "A Copa do Mundo a 250 milhas de altura",
+    "title_en": "The World Cup From 250 Miles Up",
+    "sub": "Ao longo dos anos, os astronautas a bordo da Estação Espacial Internacional fotografaram várias cidades que sediaram a Copa do Mundo FIFA de 2026.",
+    "sub_pt": "Ao longo dos anos, os astronautas a bordo da Estação Espacial Internacional fotografaram várias cidades que sediaram a Copa do Mundo FIFA de 2026.",
+    "sub_en": "Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup.",
+    "excerpt": "Ao longo dos anos, os astronautas a bordo da Estação Espacial Internacional fotografaram várias cidades que sediaram a Copa do Mundo FIFA de 2026.",
+    "excerpt_pt": "Ao longo dos anos, os astronautas a bordo da Estação Espacial Internacional fotografaram várias cidades que sediaram a Copa do Mundo FIFA de 2026.",
+    "excerpt_en": "Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup.",
+    "body": "<p>Ao longo dos anos, os astronautas a bordo da Estação Espacial Internacional fotografaram várias cidades que sediaram a Copa do Mundo FIFA de 2026. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 17 de abril de 2022 A final da Copa do Mundo FIFA está marcada para 19 de julho, no New York New Jersey Stadium, parte do Meadowlands Sports Complex, em East Rutherford, New. Downloads 26 de julho de 2022 JPEG (17,97 MB) 17 de abril de 2022 JPEG (3,18 MB) Referências e recursos NASA (2026, 1º de julho) Dados da NASA ajudam o CDC a rastrear a qualidade.</p><p>Science Earth Observatory A Copa do Mundo a 250 milhas. Seis das partidas foram disputadas no San Francisco Bay Area Stadium, começando no dia 13 de junho com o confronto entre Catar e Suíça.</p><p>A final da Copa do Mundo FIFA está marcada para 19 de julho no New York New Jersey Stadium, parte do Meadowlands Sports Complex, em East Rutherford, New Jersey. Referências e recursos NASA (2026, 1º de julho) Dados da NASA ajudam o CDC a monitorar a qualidade do ar durante a Copa do Mundo de 2026.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Ao longo dos anos, os astronautas a bordo da Estação Espacial Internacional fotografaram várias cidades que sediaram a Copa do Mundo FIFA de 2026. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 17 de abril de 2022 A final da Copa do Mundo FIFA está marcada para 19 de julho, no New York New Jersey Stadium, parte do Meadowlands Sports Complex, em East Rutherford, New. Downloads 26 de julho de 2022 JPEG (17,97 MB) 17 de abril de 2022 JPEG (3,18 MB) Referências e recursos NASA (2026, 1º de julho) Dados da NASA ajudam o CDC a rastrear a qualidade.</p><p>Science Earth Observatory A Copa do Mundo a 250 milhas. Seis das partidas foram disputadas no San Francisco Bay Area Stadium, começando no dia 13 de junho com o confronto entre Catar e Suíça.</p><p>A final da Copa do Mundo FIFA está marcada para 19 de julho no New York New Jersey Stadium, parte do Meadowlands Sports Complex, em East Rutherford, New Jersey. Referências e recursos NASA (2026, 1º de julho) Dados da NASA ajudam o CDC a monitorar a qualidade do ar durante a Copa do Mundo de 2026.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. April 17, 2022 The FIFA World Cup final is scheduled for July 19 at New York New Jersey Stadium, part of the Meadowlands Sports Complex, in East Rutherford, New Jersey. Downloads July 26, 2022 JPEG (17.97 MB) April 17, 2022 JPEG (3.18 MB) References &amp; Resources NASA (2026, July 1) NASA Data Helps CDC Track Air Quality During World Cup 2026.</p><p>Science Earth Observatory The World Cup From 250 Miles. Six of the matches were played at the San Francisco Bay Area Stadium, beginning on June 13 with a match-up between Qatar and Switzerland.</p><p>The FIFA World Cup final is scheduled for July 19 at New York New Jersey Stadium, part of the Meadowlands Sports Complex, in East Rutherford, New Jersey. References &amp; Resources NASA (2026, July 1) NASA Data Helps CDC Track Air Quality During World Cup 2026.</p><p>Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet. Article A Moonlit Earth as Seen From Artemis II 4 min read An astronaut’s photo, taken en route to the Moon, reveals our planet and its place in space in a novel. Article 1 2 3 4.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Open access to NASA’s archive of Earth science data NASA (2026, July 1) NASA Data Helps CDC Track Air Quality During World Cup 2026. NASA Earth Observatory (2026, June 12) World Cup Fever in Guadalajara.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Ao longo dos anos, os astronautas a bordo da Estação Espacial Internacional fotografaram várias cidades que sediaram a Copa do Mundo FIFA de 2026.",
+      "Dado-chave: 17 de abril de 2022 A final da Copa do Mundo FIFA está marcada para 19 de julho, no New York New Jersey Stadium, parte do Meadowlands Sports.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Ao longo dos anos, os astronautas a bordo da Estação Espacial Internacional fotografaram várias cidades que sediaram a Copa do Mundo FIFA de 2026.",
+      "Dado-chave: 17 de abril de 2022 A final da Copa do Mundo FIFA está marcada para 19 de julho, no New York New Jersey Stadium, parte do Meadowlands Sports.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup.",
+      "Key detail: April 17, 2022 The FIFA World Cup final is scheduled for July 19 at New York New Jersey Stadium, part of the Meadowlands Sports Complex, in East.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "07 jul 2026",
+    "date_pt": "07 jul 2026",
+    "date_en": "07 Jul 2026",
+    "time": "04h00",
+    "time_pt": "04h00",
+    "time_en": "04:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-07T04:00:00+00:00",
+    "lastModifiedIso": "2026-07-07T04:00:00+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "A Copa do Mundo a 250 milhas de altura"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "A Copa do Mundo a 250 milhas de altura"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "The World Cup 250 miles high"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-world-cup-from-250-miles-up",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-world-cup-from-250-miles-up",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-world-cup-from-250-miles-up&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
+    "slug": "how-an-interstellar-comet-sheds-light-on-universe-s-cosmic-noon",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2023/halleys-comet.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2023/halleys-comet.jpg",
+        "caption": "Cometa Halley",
+        "caption_pt": "Cometa Halley",
+        "caption_en": "Halley's comet",
+        "alt": "Cometa Halley",
+        "alt_pt": "Cometa Halley",
+        "alt_en": "Halley's comet"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-an-interstellar-co.jpg",
+        "caption": "Como um cometa interestelar lança luz sobre o ‘meio-dia cósmico’ do universo",
+        "caption_pt": "Como um cometa interestelar lança luz sobre o ‘meio-dia cósmico’ do universo",
+        "caption_en": "How an interstellar comet sheds light on universe's 'cosmic noon'",
+        "alt": "Como um cometa interestelar lança luz sobre o ‘meio-dia cósmico’ do universo",
+        "alt_pt": "Como um cometa interestelar lança luz sobre o ‘meio-dia cósmico’ do universo",
+        "alt_en": "How an interstellar comet sheds light on universe's 'cosmic noon'"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/f6b420961b46f94b.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Como um cometa interestelar lança luz sobre o ‘meio-dia cósmico’ do universo",
+    "title_pt": "Como um cometa interestelar lança luz sobre o ‘meio-dia cósmico’ do universo",
+    "title_en": "How an interstellar comet sheds light on universe's 'cosmic noon'",
+    "sub": "No ano passado, um viajante interestelar entrou no nosso sistema solar. Alguns especularam que se tratava de uma nave alienígena, mas acabou por ser um cometa, 3I/Atlas, e.",
+    "sub_pt": "No ano passado, um viajante interestelar entrou no nosso sistema solar. Alguns especularam que se tratava de uma nave alienígena, mas acabou por ser um cometa, 3I/Atlas, e.",
+    "sub_en": "Last year, an interstellar traveler entered our solar system. Some speculated that it was an alien spacecraft, but it turned out to be a comet, 3I/Atlas, and it provoked interest.",
+    "excerpt": "No ano passado, um viajante interestelar entrou no nosso sistema solar. Alguns especularam que se tratava de uma nave alienígena, mas acabou por ser um cometa, 3I/Atlas, e despertou o interesse de astrónomos e astrofísicos ávidos por informações sobre o.",
+    "excerpt_pt": "No ano passado, um viajante interestelar entrou no nosso sistema solar. Alguns especularam que se tratava de uma nave alienígena, mas acabou por ser um cometa, 3I/Atlas, e despertou o interesse de astrónomos e astrofísicos ávidos por informações sobre o.",
+    "excerpt_en": "Last year, an interstellar traveler entered our solar system. Some speculated that it was an alien spacecraft, but it turned out to be a comet, 3I/Atlas, and it provoked interest from astronomers and astrophysicists eager for insights into.",
+    "body": "<p>No ano passado, um viajante interestelar entrou no nosso sistema solar. Alguns especularam que se tratava de uma nave alienígena, mas acabou por ser um cometa, 3I/Atlas, e despertou o interesse de astrónomos e astrofísicos ávidos por informações sobre o assunto. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Observações detalhadas da Administração Nacional de Aeronáutica e Espaço (NASA) derrubaram a ideia da espaçonave alienígena, mas análises recentes da NASA contêm pistas sobre a. Alguns especularam que se tratava de uma nave espacial alienígena, mas acabou por ser um cometa, 3I/Atlas, e despertou o interesse de astrónomos e astrofísicos ávidos por.</p><p>Observações detalhadas da Administração Nacional de Aeronáutica e Espaço (NASA) derrubaram a ideia da espaçonave alienígena, mas análises recentes da NASA contêm pistas sobre as. Com seu poderoso Telescópio Espacial James Webb (JWST), a NASA conseguiu capturar dados detalhados sobre o viajante interestelar, incluindo sua composição química.</p><p>Os blocos de construção são os mesmos, mas muita coisa mudou nos últimos bilhões de anos, desde a samambaia até a rosa.&quot; A descoberta mais surpreendente que a NASA fez diz. O cometa tem cerca de 30 vezes a quantidade de deutério, um isótopo de hidrogênio com o dobro da massa do hidrogênio padrão, encontrado em cometas do nosso sistema solar, segundo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-interstellar-comet-universe-cosmic-noon.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>No ano passado, um viajante interestelar entrou no nosso sistema solar. Alguns especularam que se tratava de uma nave alienígena, mas acabou por ser um cometa, 3I/Atlas, e despertou o interesse de astrónomos e astrofísicos ávidos por informações sobre o assunto. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Observações detalhadas da Administração Nacional de Aeronáutica e Espaço (NASA) derrubaram a ideia da espaçonave alienígena, mas análises recentes da NASA contêm pistas sobre a. Alguns especularam que se tratava de uma nave espacial alienígena, mas acabou por ser um cometa, 3I/Atlas, e despertou o interesse de astrónomos e astrofísicos ávidos por.</p><p>Observações detalhadas da Administração Nacional de Aeronáutica e Espaço (NASA) derrubaram a ideia da espaçonave alienígena, mas análises recentes da NASA contêm pistas sobre as. Com seu poderoso Telescópio Espacial James Webb (JWST), a NASA conseguiu capturar dados detalhados sobre o viajante interestelar, incluindo sua composição química.</p><p>Os blocos de construção são os mesmos, mas muita coisa mudou nos últimos bilhões de anos, desde a samambaia até a rosa.&quot; A descoberta mais surpreendente que a NASA fez diz. O cometa tem cerca de 30 vezes a quantidade de deutério, um isótopo de hidrogênio com o dobro da massa do hidrogênio padrão, encontrado em cometas do nosso sistema solar, segundo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-interstellar-comet-universe-cosmic-noon.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Last year, an interstellar traveler entered our solar system. Some speculated that it was an alien spacecraft, but it turned out to be a comet, 3I/Atlas, and it provoked interest from astronomers and astrophysicists eager for insights into. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Detailed observations from the National Aeronautics and Space Administration (NASA) shot down the alien spacecraft idea, but recent NASA analysis holds clues about the comet&#x27;s. Some speculated that it was an alien spacecraft, but it turned out to be a comet, 3I/Atlas, and it provoked interest from astronomers and astrophysicists eager for insights into.</p><p>With its powerful James Webb Space Telescope (JWST), NASA was able to capture detailed data on the interstellar traveler, including its chemical composition. The building blocks are the same, but a lot has changed in the last few billion years to go from fern to rose.&quot; The most surprising discovery NASA made concerns 3I/Atlas&#x27; chemical.</p><p>The comet has about 30 times the amount of deuterium, an isotope of hydrogen with double the mass of standard hydrogen, found in comets from our solar system, according to NASA. For instance, the &quot;heavy water&quot; ice on the comet, composed of oxygen and deuterium instead of oxygen and hydrogen, points to a lack of long-term warmth in 3I/Atlas&#x27; home system.</p><p>Combined with the trace amounts of carbon-13, a carbon isotope, detected in 3I/Atlas, it further marks the comet as an ancient interstellar object. But NASA estimates that 3I/Atlas could have formed 10 to 12 billion years ago during a time in the universe&#x27;s history known as &quot;cosmic noon.&quot; This period, 2 to 3 billion years.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. All of this new information about the comet&#x27;s ancient origins and interstellar chemistry could also be a major step toward understanding how unique the conditions for life are.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-interstellar-comet-universe-cosmic-noon.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: No ano passado, um viajante interestelar entrou no nosso sistema solar. Alguns especularam que se tratava de uma nave alienígena, mas acabou por ser.",
+      "Dado-chave: Observações detalhadas da Administração Nacional de Aeronáutica e Espaço (NASA) derrubaram a ideia da espaçonave alienígena, mas análises.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: No ano passado, um viajante interestelar entrou no nosso sistema solar. Alguns especularam que se tratava de uma nave alienígena, mas acabou por ser.",
+      "Dado-chave: Observações detalhadas da Administração Nacional de Aeronáutica e Espaço (NASA) derrubaram a ideia da espaçonave alienígena, mas análises.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Last year, an interstellar traveler entered our solar system. Some speculated that it was an alien spacecraft, but it turned out to be a comet.",
+      "Key detail: Detailed observations from the National Aeronautics and Space Administration (NASA) shot down the alien spacecraft idea, but recent NASA.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "07 jul 2026",
+    "date_pt": "07 jul 2026",
+    "date_en": "07 Jul 2026",
+    "time": "02h20",
+    "time_pt": "02h20",
+    "time_en": "02:20 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-07T02:20:01+00:00",
+    "lastModifiedIso": "2026-07-07T02:20:01+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Como um cometa interestelar lança luz sobre o ‘meio",
+      "dia cósmico’ do universo"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Como um cometa interestelar lança luz sobre o ‘meio",
+      "dia cósmico’ do universo"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Phys.org Space",
+      "Cosmos Week",
+      "How an interstellar comet sheds light on the ‘middle",
+      "cosmic day’ of the universe"
+    ],
+    "srcUrl": "https://phys.org/news/2026-07-interstellar-comet-universe-cosmic-noon.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=how-an-interstellar-comet-sheds-light-on-universe-s-cosmic-noon",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=how-an-interstellar-comet-sheds-light-on-universe-s-cosmic-noon",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=how-an-interstellar-comet-sheds-light-on-universe-s-cosmic-noon&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 8,
     "slug": "university-team-proposed-retractable-pressurized-tunnels-for-missions-to-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -649,7 +918,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -663,7 +932,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 9,
     "slug": "a-new-net-membrane-could-clean-up-some-tricky-space-debris",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -796,7 +1065,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 10,
     "slug": "the-square-kilometer-array-will-revolutionize-the-hunt-for-alien-life",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -929,263 +1198,6 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
-    "slug": "canadian-artemis-ii-crew-member-to-retire-from-space-agency",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/canadian-astronaut-jer.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/canadian-astronaut-jer.jpg",
-        "caption": "O astronauta canadense Jeremy Hansen, membro da histórica missão Artemis II, está se aposentando da agência espacial nacional.",
-        "caption_pt": "O astronauta canadense Jeremy Hansen, membro da histórica missão Artemis II, está se aposentando da agência espacial nacional.",
-        "caption_en": "Canadian astronaut Jeremy Hansen, a member of the historic Artemis II mission, is retiring from the national space agency.",
-        "alt": "O astronauta canadense Jeremy Hansen, membro da histórica missão Artemis II, está se aposentando da agência espacial nacional",
-        "alt_pt": "O astronauta canadense Jeremy Hansen, membro da histórica missão Artemis II, está se aposentando da agência espacial nacional",
-        "alt_en": "Canadian astronaut Jeremy Hansen, a member of the historic Artemis II mission, is retiring from the national space agency"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/8b33bc1b4d9f6b4c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Tripulante canadense do Artemis II se aposentará da agência espacial",
-    "title_pt": "Tripulante canadense do Artemis II se aposentará da agência espacial",
-    "title_en": "Canadian Artemis II crew member to retire from space agency",
-    "sub": "O astronauta canadense que fez parte da tripulação histórica do Artemis II que viajou com sucesso ao redor da Lua no início deste ano está se aposentando da agência espacial do.",
-    "sub_pt": "O astronauta canadense que fez parte da tripulação histórica do Artemis II que viajou com sucesso ao redor da Lua no início deste ano está se aposentando da agência espacial do.",
-    "sub_en": "The Canadian astronaut who was part of the historic Artemis II crew that successfully voyaged around the moon earlier this year is retiring from the nation's space agency.",
-    "excerpt": "O astronauta canadense que fez parte da tripulação histórica do Artemis II que viajou com sucesso ao redor da Lua no início deste ano está se aposentando da agência espacial do país, disseram autoridades na segunda-feira.",
-    "excerpt_pt": "O astronauta canadense que fez parte da tripulação histórica do Artemis II que viajou com sucesso ao redor da Lua no início deste ano está se aposentando da agência espacial do país, disseram autoridades na segunda-feira.",
-    "excerpt_en": "The Canadian astronaut who was part of the historic Artemis II crew that successfully voyaged around the moon earlier this year is retiring from the nation's space agency, officials said Monday.",
-    "body": "<p>O astronauta canadense que fez parte da tripulação histórica do Artemis II que viajou com sucesso ao redor da Lua no início deste ano está se aposentando da agência espacial do país, disseram autoridades na segunda-feira. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial O astronauta canadense Jeremy Hansen.</p><p>Jeremy Hansen juntou-se aos americanos Reid Wiseman, Christina Koch e Victor Glover na missão que capturou a atenção global ao avançar o programa da NASA para estabelecer uma. O primeiro-ministro Mark Carney disse que Hansen &quot;fez história como o primeiro canadense a se aventurar no outro lado da lua&quot;. A Agência Espacial Canadense elogiou-o por ajudar a.</p><p>50 anos, buscará novas oportunidades profissionais a partir de setembro de 2026, mas permanecerá reservista na Força Aérea Real Canadense.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-canadian-artemis-ii-crew-member.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O astronauta canadense que fez parte da tripulação histórica do Artemis II que viajou com sucesso ao redor da Lua no início deste ano está se aposentando da agência espacial do país, disseram autoridades na segunda-feira. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial O astronauta canadense Jeremy Hansen.</p><p>Jeremy Hansen juntou-se aos americanos Reid Wiseman, Christina Koch e Victor Glover na missão que capturou a atenção global ao avançar o programa da NASA para estabelecer uma. O primeiro-ministro Mark Carney disse que Hansen &quot;fez história como o primeiro canadense a se aventurar no outro lado da lua&quot;. A Agência Espacial Canadense elogiou-o por ajudar a.</p><p>50 anos, buscará novas oportunidades profissionais a partir de setembro de 2026, mas permanecerá reservista na Força Aérea Real Canadense.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-canadian-artemis-ii-crew-member.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The Canadian astronaut who was part of the historic Artemis II crew that successfully voyaged around the moon earlier this year is retiring from the nation&#x27;s space agency, officials said Monday. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Canadian astronaut Jeremy Hansen, a member of the historic.</p><p>Jeremy Hansen joined Americans Reid Wiseman, Christina Koch and Victor Glover on the mission that captured global attention as it advanced NASA&#x27;s program to establish a sustained. Prime Minister Mark Carney said Hansen &quot;made history as the first Canadian to venture to the far side of the moon.&quot; The Canadian Space Agency praised him for helping &quot;place.</p><p>50, will be pursuing new professional opportunities beginning in September 2026, but will remain a reservist in the Royal Canadian Air Force. The mission traveled farther into space than anyone ever had before.</p><p>Master&#x27;s in physics with research experience. Long-time science news enthusiast.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Plays key role in Science X&#x27;s editorial success.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-canadian-artemis-ii-crew-member.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O astronauta canadense que fez parte da tripulação histórica do Artemis II que viajou com sucesso ao redor da Lua no início deste ano está se.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O astronauta canadense que fez parte da tripulação histórica do Artemis II que viajou com sucesso ao redor da Lua no início deste ano está se.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The Canadian astronaut who was part of the historic Artemis II crew that successfully voyaged around the moon earlier this year is retiring from the.",
-      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "06 jul 2026",
-    "date_pt": "06 jul 2026",
-    "date_en": "06 Jul 2026",
-    "time": "20h00",
-    "time_pt": "20h00",
-    "time_en": "20:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-06T20:00:02+00:00",
-    "lastModifiedIso": "2026-07-06T20:00:02+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Tripulante canadense do Artemis II se aposentará da agência espacial"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Tripulante canadense do Artemis II se aposentará da agência espacial"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Canadian Artemis II crew member to retire from space agency"
-    ],
-    "srcUrl": "https://phys.org/news/2026-07-canadian-artemis-ii-crew-member.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=canadian-artemis-ii-crew-member-to-retire-from-space-agency",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=canadian-artemis-ii-crew-member-to-retire-from-space-agency",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=canadian-artemis-ii-crew-member-to-retire-from-space-agency&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 71,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 70,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "andromeda-s-newest-dwarf-galaxy-is-extremely-dim",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.universetoday.com/article_images/A36.original_20260706_164138.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/aa60151-26-fig3_20260706_175057.jpg",
-        "caption": "Esses painéis mostram And XXXVI de quatro pesquisas diferentes. Da esquerda para a direita: SDSS DR9, PanSTARRS DR1, CFHT (PAndAS) e GTC. “A sobredensidade é quase invisível no SDSS e PanSTARRS, e só se torna aparente no CFHT e GTC”.",
-        "caption_pt": "Esses painéis mostram And XXXVI de quatro pesquisas diferentes. Da esquerda para a direita: SDSS DR9, PanSTARRS DR1, CFHT (PAndAS) e GTC. “A sobredensidade é quase invisível no SDSS e PanSTARRS, e só se torna aparente no CFHT e GTC”.",
-        "caption_en": "These panels show And XXXVI from four different surveys. From left to right: SDSS DR9, PanSTARRS DR1, CFHT (PAndAS), and GTC. \"The overdensity is almost invisible in SDSS and PanSTARRS, and it only becomes apparent with in CFHT and GTC,\".",
-        "alt": "Esses painéis mostram And XXXVI de quatro pesquisas diferentes. Da esquerda para a direita: SDSS DR9, PanSTARRS DR1, CFHT (PAndAS) e GTC. “A sobredensidade é quase invisível no SDSS e PanSTARRS, e só se torna aparente no CFHT e GTC”.",
-        "alt_pt": "Esses painéis mostram And XXXVI de quatro pesquisas diferentes. Da esquerda para a direita: SDSS DR9, PanSTARRS DR1, CFHT (PAndAS) e GTC. “A sobredensidade é quase invisível no SDSS e PanSTARRS, e só se torna aparente no CFHT e GTC”.",
-        "alt_en": "These panels show And XXXVI from four different surveys. From left to right: SDSS DR9, PanSTARRS DR1, CFHT (PAndAS), and GTC. \"The overdensity is almost invisible in SDSS and PanSTARRS, and it only becomes apparent with in CFHT and GTC,\"."
-      },
-      {
-        "src": "https://www.universetoday.com/article_images/aa60151-26-fig2_20260706_182635.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "A mais nova galáxia anã de Andrômeda é extremamente escura",
-    "title_pt": "A mais nova galáxia anã de Andrômeda é extremamente escura",
-    "title_en": "Andromeda's Newest Dwarf Galaxy is Extremely Dim",
-    "sub": "Os astrônomos descobriram uma galáxia anã fraca e de massa extremamente baixa ao redor de Andrômeda. Chamada de And 35, é uma galáxia anã ultrafraca e, até agora, os pesquisadores.",
-    "sub_pt": "Os astrônomos descobriram uma galáxia anã fraca e de massa extremamente baixa ao redor de Andrômeda. Chamada de And 35, é uma galáxia anã ultrafraca e, até agora, os pesquisadores.",
-    "sub_en": "Astronomers have discovered an extremely low-mass and dim dwarf galaxy around Andromeda. Called And 35, it's an Ultra-Faint Dwarf Galaxy and so far, the researchers have detected.",
-    "excerpt": "Os astrônomos descobriram uma galáxia anã fraca e de massa extremamente baixa ao redor de Andrômeda. Chamada de And 35, é uma galáxia anã ultrafraca e, até agora, os pesquisadores detectaram apenas 46 de suas estrelas. Lambda-CDM prevê que sim.",
-    "excerpt_pt": "Os astrônomos descobriram uma galáxia anã fraca e de massa extremamente baixa ao redor de Andrômeda. Chamada de And 35, é uma galáxia anã ultrafraca e, até agora, os pesquisadores detectaram apenas 46 de suas estrelas. Lambda-CDM prevê que sim.",
-    "excerpt_en": "Astronomers have discovered an extremely low-mass and dim dwarf galaxy around Andromeda. Called And 35, it's an Ultra-Faint Dwarf Galaxy and so far, the researchers have detected only 46 of its stars. Lambda-CDM predicts that there should.",
-    "body": "<p>Os astrônomos descobriram uma galáxia anã fraca e de massa extremamente baixa ao redor de Andrômeda. Chamada de And 35, é uma galáxia anã ultrafraca e, até agora, os pesquisadores detectaram apenas 46 de suas estrelas. Lambda-CDM prevê que sim. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Chamada And 35, é uma Galáxia Anã Ultra-Faint (UFDG) e até agora, os pesquisadores detectaram apenas 46 de suas estrelas. Os humanos conhecem Andrômeda desde que olharam para o céu pela primeira vez, porque ela é visível a olho nu como uma pequena mancha cinza.</p><p>Foi Edwin Hubble quem finalmente provou que as manchas eram galáxias, e Andrômeda desempenhou um papel central nesse desenvolvimento. Os astrônomos estimam que Andrômeda hospede cerca de 92 galáxias anãs, e apenas cerca de 40 delas foram detectadas e confirmadas.</p><p>O estudo é intitulado “Andromeda XXXVI: Descoberta de uma nova galáxia anã ultra-fraca em direção a M31”, e a autora principal é Joanna Sakowska, pesquisadora do Instituto de. Apresentamos imagens profundas de Andrômeda XXXVI (And XXXVI), uma galáxia anã descoberta através da inspeção visual do Pan-Andromeda Archaeological Survey usando observações.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/andromedas-newest-dwarf-galaxy-is-extremely-dim\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os astrônomos descobriram uma galáxia anã fraca e de massa extremamente baixa ao redor de Andrômeda. Chamada de And 35, é uma galáxia anã ultrafraca e, até agora, os pesquisadores detectaram apenas 46 de suas estrelas. Lambda-CDM prevê que sim. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Chamada And 35, é uma Galáxia Anã Ultra-Faint (UFDG) e até agora, os pesquisadores detectaram apenas 46 de suas estrelas. Os humanos conhecem Andrômeda desde que olharam para o céu pela primeira vez, porque ela é visível a olho nu como uma pequena mancha cinza.</p><p>Foi Edwin Hubble quem finalmente provou que as manchas eram galáxias, e Andrômeda desempenhou um papel central nesse desenvolvimento. Os astrônomos estimam que Andrômeda hospede cerca de 92 galáxias anãs, e apenas cerca de 40 delas foram detectadas e confirmadas.</p><p>O estudo é intitulado “Andromeda XXXVI: Descoberta de uma nova galáxia anã ultra-fraca em direção a M31”, e a autora principal é Joanna Sakowska, pesquisadora do Instituto de. Apresentamos imagens profundas de Andrômeda XXXVI (And XXXVI), uma galáxia anã descoberta através da inspeção visual do Pan-Andromeda Archaeological Survey usando observações.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/andromedas-newest-dwarf-galaxy-is-extremely-dim\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Discovered an extremely low-mass and dim dwarf galaxy around Andromeda. Called And 35, it&#x27;s an Ultra-Faint Dwarf Galaxy and so far, the researchers have detected only 46 of its stars. Lambda-CDM predicts that there should. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Called And 35, it&#x27;s an Ultra-Faint Dwarf Galaxy (UFDG) and so far, the researchers have detected only 46 of its stars. Humans have known about Andromeda since they first gazed skyward, because it&#x27;s visible with the naked eye as a little grey smudge.</p><p>It was Edwin Hubble who finally proved that the smudges were galaxies, and Andromeda played a central role in that development. Astronomers estimate that Andromeda hosts about 92 dwarf galaxies, and only about 40 of them have been detected and confirmed.</p><p>The study is titled &quot; Andromeda XXXVI: Discovery of a new ultra-faint dwarf galaxy towards M31,&quot; and the lead author is Joanna Sakowska, researcher at the Instituto de Astrofísica. We present deep imaging of Andromeda XXXVI (And XXXVI), a dwarf galaxy discovered through visual inspection of the Pan-Andromeda Archaeological Survey using observations obtained.</p><p>OSIRIS is an optical spectrometer attached to the Gran Telescopio Canarias, a 10.4 meter telescope in Spain&#x27;s Canary Islands. The discovery of And XXXVI adds to the faint end of M31’s satellite luminosity function, suggesting the presence of an even larger population of very faint satellites,&quot; the.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>“Our study suggests that And XXXVI is an extremely old galaxy, around 12.5 billion years old, and remarkably poor in heavy elements,” lead author Sakowska said in a press release. “However, observations with space telescopes such as Hubble will be needed to determine its distance, age and chemical composition with greater precision.” Astronomers are.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/andromedas-newest-dwarf-galaxy-is-extremely-dim\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os astrônomos descobriram uma galáxia anã fraca e de massa extremamente baixa ao redor de Andrômeda. Chamada de And 35, é uma galáxia anã ultrafraca.",
-      "Dado-chave: Chamada And 35, é uma Galáxia Anã Ultra-Faint (UFDG) e até agora, os pesquisadores detectaram apenas 46 de suas estrelas.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os astrônomos descobriram uma galáxia anã fraca e de massa extremamente baixa ao redor de Andrômeda. Chamada de And 35, é uma galáxia anã ultrafraca.",
-      "Dado-chave: Chamada And 35, é uma Galáxia Anã Ultra-Faint (UFDG) e até agora, os pesquisadores detectaram apenas 46 de suas estrelas.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Astronomers have discovered an extremely low-mass and dim dwarf galaxy around Andromeda. Called And 35, it's an Ultra-Faint Dwarf Galaxy and so far.",
-      "Key detail: Called And 35, it's an Ultra-Faint Dwarf Galaxy (UFDG) and so far, the researchers have detected only 46 of its stars.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "06 jul 2026",
-    "date_pt": "06 jul 2026",
-    "date_en": "06 Jul 2026",
-    "time": "18h53",
-    "time_pt": "18h53",
-    "time_en": "18:53 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-06T18:53:10+00:00",
-    "lastModifiedIso": "2026-07-06T18:53:10+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Universe Today",
-      "Cosmos Week",
-      "A mais nova galáxia anã de Andrômeda é extremamente escura"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Universe Today",
-      "Cosmos Week",
-      "A mais nova galáxia anã de Andrômeda é extremamente escura"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Universe Today",
-      "Cosmos Week",
-      "The newest Andromeda dwarf galaxy is extremely dark"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/andromedas-newest-dwarf-galaxy-is-extremely-dim",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=andromeda-s-newest-dwarf-galaxy-is-extremely-dim",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=andromeda-s-newest-dwarf-galaxy-is-extremely-dim",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=andromeda-s-newest-dwarf-galaxy-is-extremely-dim&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
     "id": 11,
     "slug": "nasa-s-capstone-completes-extended-mission-testing-lunar-technologies",
     "cat": "Cosmologia",
@@ -1231,9 +1243,9 @@ window.postsData = [
     "excerpt": "À medida que a NASA se prepara para uma presença humana sustentada na Lua, as missões exigirão cada vez mais naves espaciais que possam navegar e comunicar sem uma ligação direta à Terra. Tecnologia de Sistema de Posicionamento Autônomo Cislunar da NASA.",
     "excerpt_pt": "À medida que a NASA se prepara para uma presença humana sustentada na Lua, as missões exigirão cada vez mais naves espaciais que possam navegar e comunicar sem uma ligação direta à Terra. Tecnologia de Sistema de Posicionamento Autônomo Cislunar da NASA.",
     "excerpt_en": "As NASA prepares for a sustained human presence on the Moon, missions will increasingly require spacecraft that can navigate and communicate without a direct connection to Earth. NASA’s Cislunar Autonomous Positioning System Technology.",
-    "body": "<p>À medida que a NASA se prepara para uma presença humana sustentada na Lua, as missões exigirão cada vez mais naves espaciais que possam navegar e comunicar sem uma ligação direta à Terra. Tecnologia de Sistema de Posicionamento Autônomo Cislunar da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. 5 minutos de leitura CAPSTONE da NASA conclui testes de missão estendida de tecnologias lunares O experimento de navegação e operações de tecnologia do sistema de posicionamento. Estrelas Azuis Estrelas azuis e brancas brilham intensamente contra o gás vermelho nesta imagem do Hubble da NASA. Artigo 3 dias atrás Continue explorando Descubra mais tópicos da.</p><p>Projetado para testar e validar tecnologias em órbita lunar, o CAPSTONE foi lançado em junho de 2022 e se tornou o primeiro dos EUA. Missão comercial na Lua.</p><p>Tornou-se a primeira espaçonave a voar e caracterizar esta órbita para futuras missões científicas e de exploração. De propriedade e operada pela Advanced Space, a espaçonave do tamanho de micro-ondas recebeu então uma extensão de missão de 15 meses, tornando-se um ambiente de teste para.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>À medida que a NASA se prepara para uma presença humana sustentada na Lua, as missões exigirão cada vez mais naves espaciais que possam navegar e comunicar sem uma ligação direta à Terra. Tecnologia de Sistema de Posicionamento Autônomo Cislunar da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. 5 minutos de leitura CAPSTONE da NASA conclui testes de missão estendida de tecnologias lunares O experimento de navegação e operações de tecnologia do sistema de posicionamento. Estrelas Azuis Estrelas azuis e brancas brilham intensamente contra o gás vermelho nesta imagem do Hubble da NASA. Artigo 3 dias atrás Continue explorando Descubra mais tópicos da.</p><p>Projetado para testar e validar tecnologias em órbita lunar, o CAPSTONE foi lançado em junho de 2022 e se tornou o primeiro dos EUA. Missão comercial na Lua.</p><p>Tornou-se a primeira espaçonave a voar e caracterizar esta órbita para futuras missões científicas e de exploração. De propriedade e operada pela Advanced Space, a espaçonave do tamanho de micro-ondas recebeu então uma extensão de missão de 15 meses, tornando-se um ambiente de teste para.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>As NASA prepares for a sustained human presence on the Moon, missions will increasingly require spacecraft that can navigate and communicate without a direct connection to Earth. NASA’s Cislunar Autonomous Positioning System Technology. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. 5 Min Read NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies The Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment. Blue Stars Blue and white stars shine brightly against crimson gas in this image from NASA’s Hubble. Article 3 days ago Keep Exploring Discover More Topics From NASA CAPSTONE.</p><p>Designed to test and validate technologies in lunar orbit, CAPSTONE launched in June 2022 and became the first U. S. Commercial mission at the Moon.</p><p>It became the first spacecraft to fly and characterize this orbit for future exploration and science missions. Owned and operated by Advanced Space, the microwave-sized spacecraft then received a 15-month mission extension, becoming a testbed for advanced communications, networking.</p><p>Leadership as activity around the Moon continues to increase.” Two experiments aboard CAPSTONE used software-defined infrastructure to advance two future mission essentials. While portions of the software had previously flown in Earth orbit, CAPSTONE marked the first time autoNGC was tested at the Moon.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Unlike Earth-based internet systems, deep space communications must function despite long delays and frequent signal gaps. With these demonstrations, CAPSTONE became the first to fly the latest DTN protocols beyond Earth orbit and the first to run them in NASA’s core Flight System, an open-source.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>À medida que a NASA se prepara para uma presença humana sustentada na Lua, as missões exigirão cada vez mais naves espaciais que possam navegar e comunicar sem uma ligação direta à Terra. Tecnologia de Sistema de Posicionamento Autônomo Cislunar da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. 5 minutos de leitura CAPSTONE da NASA conclui testes de missão estendida de tecnologias lunares O experimento de navegação e operações de tecnologia do sistema de posicionamento. Estrelas Azuis Estrelas azuis e brancas brilham intensamente contra o gás vermelho nesta imagem do Hubble da NASA. Artigo 4 dias atrás Continue explorando Descubra mais tópicos da.</p><p>Projetado para testar e validar tecnologias em órbita lunar, o CAPSTONE foi lançado em junho de 2022 e se tornou o primeiro dos EUA. Missão comercial na Lua.</p><p>Tornou-se a primeira espaçonave a voar e caracterizar esta órbita para futuras missões científicas e de exploração. De propriedade e operada pela Advanced Space, a espaçonave do tamanho de micro-ondas recebeu então uma extensão de missão de 15 meses, tornando-se um ambiente de teste para.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>À medida que a NASA se prepara para uma presença humana sustentada na Lua, as missões exigirão cada vez mais naves espaciais que possam navegar e comunicar sem uma ligação direta à Terra. Tecnologia de Sistema de Posicionamento Autônomo Cislunar da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. 5 minutos de leitura CAPSTONE da NASA conclui testes de missão estendida de tecnologias lunares O experimento de navegação e operações de tecnologia do sistema de posicionamento. Estrelas Azuis Estrelas azuis e brancas brilham intensamente contra o gás vermelho nesta imagem do Hubble da NASA. Artigo 4 dias atrás Continue explorando Descubra mais tópicos da.</p><p>Projetado para testar e validar tecnologias em órbita lunar, o CAPSTONE foi lançado em junho de 2022 e se tornou o primeiro dos EUA. Missão comercial na Lua.</p><p>Tornou-se a primeira espaçonave a voar e caracterizar esta órbita para futuras missões científicas e de exploração. De propriedade e operada pela Advanced Space, a espaçonave do tamanho de micro-ondas recebeu então uma extensão de missão de 15 meses, tornando-se um ambiente de teste para.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>As NASA prepares for a sustained human presence on the Moon, missions will increasingly require spacecraft that can navigate and communicate without a direct connection to Earth. NASA’s Cislunar Autonomous Positioning System Technology. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. 5 Min Read NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies The Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment. Blue Stars Blue and white stars shine brightly against crimson gas in this image from NASA’s Hubble. Article 4 days ago Keep Exploring Discover More Topics From NASA CAPSTONE.</p><p>Designed to test and validate technologies in lunar orbit, CAPSTONE launched in June 2022 and became the first U. S. Commercial mission at the Moon.</p><p>It became the first spacecraft to fly and characterize this orbit for future exploration and science missions. Owned and operated by Advanced Space, the microwave-sized spacecraft then received a 15-month mission extension, becoming a testbed for advanced communications, networking.</p><p>Leadership as activity around the Moon continues to increase.” Two experiments aboard CAPSTONE used software-defined infrastructure to advance two future mission essentials. While portions of the software had previously flown in Earth orbit, CAPSTONE marked the first time autoNGC was tested at the Moon.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Unlike Earth-based internet systems, deep space communications must function despite long delays and frequent signal gaps. With these demonstrations, CAPSTONE became the first to fly the latest DTN protocols beyond Earth orbit and the first to run them in NASA’s core Flight System, an open-source.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: À medida que a NASA se prepara para uma presença humana sustentada na Lua, as missões exigirão cada vez mais naves espaciais que possam navegar e.",
       "Dado-chave: 5 minutos de leitura CAPSTONE da NASA conclui testes de missão estendida de tecnologias lunares O experimento de navegação e operações de.",
@@ -1865,7 +1877,26 @@ window.postsData = [
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/exoplanet_wd_1856_b_artist_s_concept/27358511-2-eng-GB/Exoplanet_WD_1856_b_artist_s_concept_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/exoplanet_wd_1856_b_artist_s_concept/27358511-2-eng-GB/Exoplanet_WD_1856_b_artist_s_concept_article.jpg",
+        "caption": "Exoplaneta WD 1856 b (conceito artístico)",
+        "caption_pt": "Exoplaneta WD 1856 b (conceito artístico)",
+        "caption_en": "Exoplanet WD 1856 b (artist’s concept)",
+        "alt": "Exoplaneta WD 1856 b (conceito artístico)",
+        "alt_pt": "Exoplaneta WD 1856 b (conceito artístico)",
+        "alt_en": "Exoplanet WD 1856 b (artist’s concept)"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/exoplanet_wd_1856_b_nirspec_transmission_spectrum/27358558-1-eng-GB/Exoplanet_WD_1856_b_NIRSpec_transmission_spectrum_article.jpg",
+        "caption": "Espectro de transmissão do Exoplaneta WD 1856 b NIRSpec",
+        "caption_pt": "Espectro de transmissão do Exoplaneta WD 1856 b NIRSpec",
+        "caption_en": "Exoplanet WD 1856 b NIRSpec transmission spectrum",
+        "alt": "Espectro de transmissão do Exoplaneta WD 1856 b NIRSpec",
+        "alt_pt": "Espectro de transmissão do Exoplaneta WD 1856 b NIRSpec",
+        "alt_en": "Exoplanet WD 1856 b NIRSpec transmission spectrum"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Webb estuda como um planeta sobreviveu à morte de sua estrela",
@@ -1877,22 +1908,22 @@ window.postsData = [
     "excerpt": "Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando.",
     "excerpt_pt": "Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando.",
     "excerpt_en": "An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet’s mass and temperature and even detecting its atmosphere.",
-    "body": "<p>Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando a sua atmosfera. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os resultados são a nossa primeira janela para o futuro dos planetas. Eles descobriram que o planeta é significativamente mais quente do que o esperado e determinaram como provavelmente atingiu a sua órbita muito estreita em torno da estrela, uma.</p><p>Os resultados são a nossa primeira janela para o futuro de planetas como Júpiter após a morte do Sol, daqui a milhares de milhões de anos.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando a sua atmosfera. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os resultados são a nossa primeira janela para o futuro dos planetas. Eles descobriram que o planeta é significativamente mais quente do que o esperado e determinaram como provavelmente atingiu a sua órbita muito estreita em torno da estrela, uma.</p><p>Os resultados são a nossa primeira janela para o futuro de planetas como Júpiter após a morte do Sol, daqui a milhares de milhões de anos.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet’s mass and temperature and even detecting its atmosphere. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. The results are our first window into the future of planets. They found that the planet is significantly warmer than expected and determined how it most likely reached its very tight orbit around the star, a white dwarf.</p><p>The results are our first window into the future of planets like Jupiter after the death of the Sun, billions of years into the future.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando a sua atmosfera. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os resultados foram publicados em 1º de julho de 2026 na revista Nature. WD 1856 b foi descoberto em 2020 por cientistas usando o Transiting Exoplanet Survey Satellite (TESS) da NASA e o Telescópio Espacial Spitzer, orbitando a anã branca chamada WD.</p><p>O planeta tem aproximadamente o tamanho de Júpiter, mas a anã branca que orbita é do tamanho da Terra, por isso o planeta é sete vezes maior que a sua estrela,&quot; disse o principal. WD 1856 b orbita extremamente perto de sua estrela hospedeira, a uma distância 50 vezes mais próxima do que a Terra orbita o Sol.</p><p>Os dados indicaram que o planeta tem uma temperatura de cerca de 126 °C, significativamente mais quente do que seria se a sua única fonte de calor fosse a luz da anã branca.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando a sua atmosfera. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os resultados foram publicados em 1º de julho de 2026 na revista Nature. WD 1856 b foi descoberto em 2020 por cientistas usando o Transiting Exoplanet Survey Satellite (TESS) da NASA e o Telescópio Espacial Spitzer, orbitando a anã branca chamada WD.</p><p>O planeta tem aproximadamente o tamanho de Júpiter, mas a anã branca que orbita é do tamanho da Terra, por isso o planeta é sete vezes maior que a sua estrela,&quot; disse o principal. WD 1856 b orbita extremamente perto de sua estrela hospedeira, a uma distância 50 vezes mais próxima do que a Terra orbita o Sol.</p><p>Os dados indicaram que o planeta tem uma temperatura de cerca de 126 °C, significativamente mais quente do que seria se a sua única fonte de calor fosse a luz da anã branca.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet’s mass and temperature and even detecting its atmosphere. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. The results were published on 1 July 2026 in the journal Nature. WD 1856 b was discovered in 2020 by scientists using NASA&#x27;s Transiting Exoplanet Survey Satellite (TESS) and the Spitzer Space Telescope, orbiting the white dwarf named WD.</p><p>The planet is about the size of Jupiter, but the white dwarf it orbits is the size of Earth, so the planet is seven times larger than its star,&quot; said lead author Ryan MacDonald of. WD 1856 b orbits extremely close to its host star, at a distance 50 times closer than Earth orbits the Sun.</p><p>The data indicated that the planet has a temperature of about 126 °C, significantly hotter than it would be if its only source of heat was the light from the white dwarf. The white dwarf is part of a triple star system, and the outer companion stars could have influenced WD 1856 b’s orbit.&quot; The researchers realised that there was no source of.</p><p>Using models of how sub-stellar objects like WD 1856 b cool down over time, coupled with the new data from Webb about the planet’s mass and its current temperature, the team was. Light from the star passing through the planet’s atmosphere also picked up information about its chemical composition.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>We recently observed four more transits of WD 1856 b with Webb to take a deeper look into its atmospheric chemistry and can’t wait to see the results.&quot; In approximately five. It&#x27;s like using a time machine to peer into the distant future of our Solar System.&quot; A transit occurs when a planet passes in front of the star it is orbiting from our point of.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de.",
-      "Dado-chave: Os resultados são a nossa primeira janela para o futuro dos planetas.",
+      "Dado-chave: Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de.",
-      "Dado-chave: Os resultados são a nossa primeira janela para o futuro dos planetas.",
+      "Dado-chave: Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its.",
-      "Key detail: The results are our first window into the future of planets.",
+      "Key detail: An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "01 jul 2026",
@@ -2336,13 +2367,13 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 77,
+    "score": 76,
     "scoreBreakdown": {
       "source": 86,
       "evidence": 82,
       "relevance": 82,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -2707,7 +2738,17 @@ window.postsData = [
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/07/aeolus-2/27360039-1-eng-GB/Aeolus-2_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/07/aeolus-2/27360039-1-eng-GB/Aeolus-2_article.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Autorização abre caminho para missão eólica Aeolus-2",
@@ -2719,9 +2760,9 @@ window.postsData = [
     "excerpt": "Com base no notável sucesso da missão eólica Earth Explorer Aeolus, a Agência Espacial Europeia concedeu à Airbus Defence and Space no Reino Unido a autorização para prosseguir com o desenvolvimento do sucessor do Aeolus, o Aeolus-2.",
     "excerpt_pt": "Com base no notável sucesso da missão eólica Earth Explorer Aeolus, a Agência Espacial Europeia concedeu à Airbus Defence and Space no Reino Unido a autorização para prosseguir com o desenvolvimento do sucessor do Aeolus, o Aeolus-2.",
     "excerpt_en": "Building on the remarkable success of the Earth Explorer Aeolus wind mission, the European Space Agency has given Airbus Defence and Space in the UK the authorisation to proceed to begin the development of Aeolus’ successor, Aeolus-2.",
-    "body": "<p>Com base no notável sucesso da missão eólica Earth Explorer Aeolus, a Agência Espacial Europeia concedeu à Airbus Defence and Space no Reino Unido a autorização para prosseguir com o desenvolvimento do sucessor do Aeolus, o Aeolus-2. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Authorisation_paves_the_way_for_Aeolus-2_wind_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Com base no notável sucesso da missão eólica Earth Explorer Aeolus, a Agência Espacial Europeia concedeu à Airbus Defence and Space no Reino Unido a autorização para prosseguir com o desenvolvimento do sucessor do Aeolus, o Aeolus-2. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Authorisation_paves_the_way_for_Aeolus-2_wind_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Building on the remarkable success of the Earth Explorer Aeolus wind mission, the European Space Agency has given Airbus Defence and Space in the UK the authorisation to proceed to begin the development of Aeolus’ successor, Aeolus-2. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Authorisation_paves_the_way_for_Aeolus-2_wind_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Com base no notável sucesso da missão eólica Earth Explorer Aeolus, a Agência Espacial Europeia concedeu à Airbus Defence and Space no Reino Unido a autorização para prosseguir com o desenvolvimento do sucessor do Aeolus, o Aeolus-2. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O plano é desenvolver o Aeolus-2 diretamente como uma missão meteorológica operacional, em colaboração com a Eumetsat. Ele será projetado para fornecer perfis de vento globais contínuos que melhorarão a precisão das previsões meteorológicas e fortalecerão as capacidades de monitoramento.</p><p>A decisão de desenvolver o Aeolus-2 como uma missão meteorológica operacional está enraizada no excelente desempenho e impacto científico do satélite Aeolus original. Lançado em 2018, o Aeolus provou ser uma conquista inovadora na observação da Terra e na ciência atmosférica, tornando-se o primeiro satélite do mundo capaz de medir diretamente.</p><p>A missão demonstrou inovação tecnológica excepcional, superando desafios complexos de engenharia para operar em órbita um instrumento altamente sofisticado baseado em laser.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Authorisation_paves_the_way_for_Aeolus-2_wind_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Com base no notável sucesso da missão eólica Earth Explorer Aeolus, a Agência Espacial Europeia concedeu à Airbus Defence and Space no Reino Unido a autorização para prosseguir com o desenvolvimento do sucessor do Aeolus, o Aeolus-2. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O plano é desenvolver o Aeolus-2 diretamente como uma missão meteorológica operacional, em colaboração com a Eumetsat. Ele será projetado para fornecer perfis de vento globais contínuos que melhorarão a precisão das previsões meteorológicas e fortalecerão as capacidades de monitoramento.</p><p>A decisão de desenvolver o Aeolus-2 como uma missão meteorológica operacional está enraizada no excelente desempenho e impacto científico do satélite Aeolus original. Lançado em 2018, o Aeolus provou ser uma conquista inovadora na observação da Terra e na ciência atmosférica, tornando-se o primeiro satélite do mundo capaz de medir diretamente.</p><p>A missão demonstrou inovação tecnológica excepcional, superando desafios complexos de engenharia para operar em órbita um instrumento altamente sofisticado baseado em laser.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Authorisation_paves_the_way_for_Aeolus-2_wind_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Building on the remarkable success of the Earth Explorer Aeolus wind mission, the European Space Agency has given Airbus Defence and Space in the UK the authorisation to proceed to begin the development of Aeolus’ successor, Aeolus-2. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The plan is to develop Aeolus-2 directly as an operational meteorological mission, in collaboration with Eumetsat. It will be designed to provide continuous global wind profiles that will improve weather forecasting accuracy and strengthen atmospheric and climate monitoring capabilities.</p><p>The decision to develop Aeolus-2 as an operational meteorological mission is rooted in the outstanding performance and scientific impact of the original Aeolus satellite. Launched in 2018, Aeolus proved to be a groundbreaking achievement in Earth observation and atmospheric science, becoming the world’s first satellite capable of directly measuring.</p><p>The mission demonstrated exceptional technological innovation, overcoming complex engineering challenges to operate a highly sophisticated ultra-violet laser-based instrument in. Aeolus provided the evidence needed to transition this pioneering technology from an Earth Explorer research mission into an operational capability.</p><p>The mission’s achievements highlighted the critical role of global wind observations in improving forecast accuracy and addressing gaps in existing observing networks. Like Aeolus, its operational successor, Aelous-2, will carry a Doppler wind lidar, however, the Aeolus-2 version will be even more sophisticated than the original.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>ESA’s Aeolus-2 Project Manager, Ben Boyes, explained, “Aeolus was a trailblazing mission that demonstrated, for the first time, the immense value of measuring global winds. “Building on the lidar heritage of both Aeolus and EarthCARE, Aeolus-2 will carry two lasers, each twice as powerful as Aeolus’, with an upgraded and more robust instrument design.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Authorisation_paves_the_way_for_Aeolus-2_wind_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Com base no notável sucesso da missão eólica Earth Explorer Aeolus, a Agência Espacial Europeia concedeu à Airbus Defence and Space no Reino Unido a.",
       "Dado-chave: Com base no notável sucesso da missão eólica Earth Explorer Aeolus, a Agência Espacial Europeia concedeu à Airbus Defence and Space no Reino.",
@@ -3082,35 +3123,7 @@ window.postsData = [
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_miri_image/27358464-1-eng-GB/Centaurus_A_MIRI_image_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_miri_image/27358464-1-eng-GB/Centaurus_A_MIRI_image_article.jpg",
-        "caption": "Centauro A (imagem MIRI)",
-        "caption_pt": "Centauro A (imagem MIRI)",
-        "caption_en": "Centaurus A (MIRI image)",
-        "alt": "Centauro A (imagem MIRI)",
-        "alt_pt": "Centauro A (imagem MIRI)",
-        "alt_en": "Centaurus A (MIRI image)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_miri_and_nircam_image/27358605-1-eng-GB/Centaurus_A_MIRI_and_NIRCam_image_article.jpg",
-        "caption": "Centaurus A (imagem MIRI e NIRCam)",
-        "caption_pt": "Centaurus A (imagem MIRI e NIRCam)",
-        "caption_en": "Centaurus A (MIRI and NIRCam image)",
-        "alt": "Centaurus A (imagem MIRI e NIRCam)",
-        "alt_pt": "Centaurus A (imagem MIRI e NIRCam)",
-        "alt_en": "Centaurus A (MIRI and NIRCam image)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_ground-based_context/27359451-1-eng-GB/Centaurus_A_ground-based_context_article.jpg",
-        "caption": "Centaurus A: contexto terrestre",
-        "caption_pt": "Centaurus A: contexto terrestre",
-        "caption_en": "Centaurus A: ground-based context",
-        "alt": "Centaurus A: contexto terrestre",
-        "alt_pt": "Centaurus A: contexto terrestre",
-        "alt_en": "Centaurus A: ground-based context"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Webb revela milhões de estrelas em galáxia próxima",
@@ -3122,22 +3135,22 @@ window.postsData = [
     "excerpt": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes.",
     "excerpt_pt": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes.",
     "excerpt_en": "In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented.",
-    "body": "<p>Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Estas imagens marcam quatro anos de desempenho melhor do que o esperado e operações científicas bem-sucedidas para o telescópio espacial mais poderoso da história. Centaurus A (também conhecido como NGC 5128) está a 11 milhões de anos-luz de distância da Terra, relativamente próximo em termos cósmicos.</p><p>As observações de luz visível do Telescópio Espacial Hubble da NASA/ESA não conseguiram revelar a região central onde a poeira bloqueava a visão, enquanto o Telescópio Espacial. Cada estrela revelada ajuda a reconstruir quando ocorreram diferentes eventos: quando as estrelas mais velhas se formaram pela primeira vez, quando a atividade abrandou, uma.</p><p>O quarto ano de operações científicas de Webb proporcionou mais ciência e descobertas inovadoras em lugares de todo o Universo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Estas imagens marcam quatro anos de desempenho melhor do que o esperado e operações científicas bem-sucedidas para o telescópio espacial mais poderoso da história. Centaurus A (também conhecido como NGC 5128) está a 11 milhões de anos-luz de distância da Terra, relativamente próximo em termos cósmicos.</p><p>As observações de luz visível do Telescópio Espacial Hubble da NASA/ESA não conseguiram revelar a região central onde a poeira bloqueava a visão, enquanto o Telescópio Espacial. Cada estrela revelada ajuda a reconstruir quando ocorreram diferentes eventos: quando as estrelas mais velhas se formaram pela primeira vez, quando a atividade abrandou, uma.</p><p>O quarto ano de operações científicas de Webb proporcionou mais ciência e descobertas inovadoras em lugares de todo o Universo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. These images mark four years of better-than-anticipated performance and successful science operations for the most powerful space telescope in history. Centaurus A (also known as NGC 5128) is 11 million light-years away from Earth, relatively close in cosmic terms.</p><p>Visible light observations from the NASA/ESA Hubble Space Telescope could not reveal the central region where dust blocked the view, while NASA’s retired Spitzer Space Telescope. Each star revealed helps to reconstruct when different events happened: when older stars first formed, when activity slowed down, a burst of star formation during the collision.</p><p>The fourth year of Webb’s science operations has delivered further groundbreaking science and discoveries from places across the Universe. New evidence for a planet orbiting Alpha Centauri, just four light-years away from our Sun.</p><p>In the early Universe, Webb revealed a black hole that formed before its galaxy did, providing new evidence for how supermassive black holes originated, and identified a supernova. Researchers presented the strongest evidence yet that some of the “little red dots” discovered by Webb in 2022 are rapidly growing black holes enveloped in dense gas cocoons.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Webb also took a fresh look at the Hubble Ultra Deep Field, resulting in a new view that reveals thousands of distant galaxies dating back to the earliest periods of cosmic. Webb and Hubble also joined forces to share the most comprehensive view of Saturn to date, showing layers and storms in its atmosphere.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A sensibilidade sem precedentes de Webb nos comprimentos de onda do infravermelho próximo e médio corta as espessas faixas de poeira que obscurecem o centro de Centaurus A na luz. Estas imagens marcam quatro anos de desempenho melhor do que o esperado e operações científicas bem-sucedidas para o telescópio espacial mais poderoso da história.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A sensibilidade sem precedentes de Webb nos comprimentos de onda do infravermelho próximo e médio corta as espessas faixas de poeira que obscurecem o centro de Centaurus A na luz. Estas imagens marcam quatro anos de desempenho melhor do que o esperado e operações científicas bem-sucedidas para o telescópio espacial mais poderoso da história.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A’s centre in visible light, showing a. These images mark four years of better-than-anticipated performance and successful science operations for the most powerful space telescope in history.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar.",
-      "Dado-chave: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar.",
+      "Dado-chave: A sensibilidade sem precedentes de Webb nos comprimentos de onda do infravermelho próximo e médio corta as espessas faixas de poeira que.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar.",
-      "Dado-chave: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar.",
+      "Dado-chave: A sensibilidade sem precedentes de Webb nos comprimentos de onda do infravermelho próximo e médio corta as espessas faixas de poeira que.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into.",
-      "Key detail: In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into.",
+      "Key detail: Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A’s.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "06 jul 2026",
@@ -3226,6 +3239,15 @@ window.postsData = [
         "alt_en": "2013-06-01 00:00:00"
       },
       {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-orbital-view-of-world-cup-stadiums/ISS067-E-202213_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Uma vista aérea do Estádio da Baía de São Francisco, no meio à esquerda, cercado por infraestrutura urbana. Lagoas coloridas do sul da Baía de São Francisco são visíveis no topo.",
+        "caption_pt": "Uma vista aérea do Estádio da Baía de São Francisco, no meio à esquerda, cercado por infraestrutura urbana. Lagoas coloridas do sul da Baía de São Francisco são visíveis no topo.",
+        "caption_en": "An aerial view of the San Francisco Bay Area Stadium, middle-left, is surrounded by urban infrastructure. Colorful ponds of the southern San Francisco Bay are visible toward the top.",
+        "alt": "Uma vista aérea do Estádio da Baía de São Francisco, no meio à esquerda, cercado por infraestrutura urbana. Lagoas coloridas do sul da Baía de São Francisco são visíveis no topo.",
+        "alt_pt": "Uma vista aérea do Estádio da Baía de São Francisco, no meio à esquerda, cercado por infraestrutura urbana. Lagoas coloridas do sul da Baía de São Francisco são visíveis no topo.",
+        "alt_en": "An aerial view of the San Francisco Bay Area Stadium, middle-left, is surrounded by urban infrastructure. Colorful ponds of the southern San Francisco Bay are visible toward the top."
+      },
+      {
         "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/examining-algal-blooms-in-blue-mesa/bluemesablooms_oli_20170919.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint",
         "caption": "A primeira de um par de imagens de satélite mostra o reservatório em novembro de 2017, quando os níveis da água estavam relativamente altos e a sua cor era predominantemente azul.",
         "caption_pt": "A primeira de um par de imagens de satélite mostra o reservatório em novembro de 2017, quando os níveis da água estavam relativamente altos e a sua cor era predominantemente azul.",
@@ -3233,15 +3255,6 @@ window.postsData = [
         "alt": "A primeira de um par de imagens de satélite mostra o reservatório em novembro de 2017, quando os níveis da água estavam relativamente altos e a sua cor era predominantemente azul.",
         "alt_pt": "A primeira de um par de imagens de satélite mostra o reservatório em novembro de 2017, quando os níveis da água estavam relativamente altos e a sua cor era predominantemente azul.",
         "alt_en": "The first of a pair of satellite images shows the reservoir in November 2017, when water levels were relatively high and its color was mostly blue."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/examining-algal-blooms-in-blue-mesa/bluemesablooms_oli_20211117.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "A segunda imagem do par mostra a mesma parte do reservatório em novembro de 2021, quando o nível da água estava bem mais baixo e sua cor era bem mais verde.",
-        "caption_pt": "A segunda imagem do par mostra a mesma parte do reservatório em novembro de 2021, quando o nível da água estava bem mais baixo e sua cor era bem mais verde.",
-        "caption_en": "The second image in the pair shows the same part of the reservoir in November 2021, when water levels were much lower and its color was much greener.",
-        "alt": "A segunda imagem do par mostra a mesma parte do reservatório em novembro de 2021, quando o nível da água estava bem mais baixo e sua cor era bem mais verde.",
-        "alt_pt": "A segunda imagem do par mostra a mesma parte do reservatório em novembro de 2021, quando o nível da água estava bem mais baixo e sua cor era bem mais verde.",
-        "alt_en": "The second image in the pair shows the same part of the reservoir in November 2021, when water levels were much lower and its color was much greener."
       }
     ],
     "video": null,
@@ -3449,121 +3462,6 @@ window.postsData = [
   },
   {
     "id": 29,
-    "slug": "nasa-s-artemis-ii-breaks-agency-streaming-record",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/04/55193772552-b8cfb47b7e-o.jpg?w=2048",
-    "inline_images": [
-      {
-        "src": "https://images-assets.nasa.gov/image/art002e013365/art002e013365~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "017A7337.NEF",
-        "caption_pt": "017A7337.NEF",
-        "caption_en": "017A7337.NEF",
-        "alt": "017A7337.NEF",
-        "alt_pt": "017A7337.NEF",
-        "alt_en": "017A7337.NEF"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Artemis II da NASA quebra recorde de streaming de agência",
-    "title_pt": "Artemis II da NASA quebra recorde de streaming de agência",
-    "title_en": "NASA’s Artemis II Breaks Agency Streaming Record",
-    "sub": "A cobertura ao vivo da NASA da missão Artemis II atraiu um interesse público sem precedentes, incluindo mais de 149,4 milhões de visualizações do lançamento, sobrevôo lunar, queda.",
-    "sub_pt": "A cobertura ao vivo da NASA da missão Artemis II atraiu um interesse público sem precedentes, incluindo mais de 149,4 milhões de visualizações do lançamento, sobrevôo lunar, queda.",
-    "sub_en": "NASA’s live coverage of the Artemis II mission mission drew unprecedented public interest, including more than 149.4 million views of the launch, lunar flyby, splashdown on.",
-    "excerpt": "A cobertura ao vivo da NASA da missão Artemis II atraiu um interesse público sem precedentes, incluindo mais de 149,4 milhões de visualizações do lançamento, sobrevôo lunar, queda em plataformas de propriedade da NASA, incluindo transmissões 24 horas por dia.",
-    "excerpt_pt": "A cobertura ao vivo da NASA da missão Artemis II atraiu um interesse público sem precedentes, incluindo mais de 149,4 milhões de visualizações do lançamento, sobrevôo lunar, queda em plataformas de propriedade da NASA, incluindo transmissões 24 horas por dia.",
-    "excerpt_en": "NASA’s live coverage of the Artemis II mission mission drew unprecedented public interest, including more than 149.4 million views of the launch, lunar flyby, splashdown on NASA-owned platforms, including the 24/7 streams covering the.",
-    "body": "<p>A cobertura ao vivo da NASA da missão Artemis II atraiu um interesse público sem precedentes, incluindo mais de 149,4 milhões de visualizações do lançamento, sobrevôo lunar, queda em plataformas de propriedade da NASA, incluindo transmissões 24 horas por dia, 7 dias por semana. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A cobertura ao vivo da NASA da missão Artemis II atraiu um interesse público sem precedentes, incluindo mais de 149,4 milhões de visualizações do lançamento, sobrevôo lunar. Quatro astronautas a bordo da espaçonave Orion da NASA no topo do foguete SLS (Sistema de Lançamento Espacial) lançado no vôo de teste Artemis II da agência na quarta-feira, 1º de.</p><p>Sites NASA/Michael DeMocker A missão Artemis II da NASA gerou um grande aumento no tráfego nos sites da agência, com NASA. gov registrando 125,1 milhões de visualizações de. NASA A cobertura ao vivo da NASA da missão Artemis II atraiu um interesse público sem precedentes, incluindo mais de 149,4 milhões de visualizações do lançamento, sobrevoo lunar.</p><p>O lançamento gerou um total de 23,9 milhões de visualizações nas plataformas da NASA, com 16,6 milhões de pessoas assistindo ao vivo, ressaltando o amplo apelo nacional e global. A transmissão dedicada da NASA em espanhol também atingiu um pico histórico de 458.366 espectadores simultâneos e, desde então, acumulou 2,8 milhões de visualizações no total.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A cobertura ao vivo da NASA da missão Artemis II atraiu um interesse público sem precedentes, incluindo mais de 149,4 milhões de visualizações do lançamento, sobrevôo lunar, queda em plataformas de propriedade da NASA, incluindo transmissões 24 horas por dia, 7 dias por semana. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A cobertura ao vivo da NASA da missão Artemis II atraiu um interesse público sem precedentes, incluindo mais de 149,4 milhões de visualizações do lançamento, sobrevôo lunar. Quatro astronautas a bordo da espaçonave Orion da NASA no topo do foguete SLS (Sistema de Lançamento Espacial) lançado no vôo de teste Artemis II da agência na quarta-feira, 1º de.</p><p>Sites NASA/Michael DeMocker A missão Artemis II da NASA gerou um grande aumento no tráfego nos sites da agência, com NASA. gov registrando 125,1 milhões de visualizações de. NASA A cobertura ao vivo da NASA da missão Artemis II atraiu um interesse público sem precedentes, incluindo mais de 149,4 milhões de visualizações do lançamento, sobrevoo lunar.</p><p>O lançamento gerou um total de 23,9 milhões de visualizações nas plataformas da NASA, com 16,6 milhões de pessoas assistindo ao vivo, ressaltando o amplo apelo nacional e global. A transmissão dedicada da NASA em espanhol também atingiu um pico histórico de 458.366 espectadores simultâneos e, desde então, acumulou 2,8 milhões de visualizações no total.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>NASA’s live coverage of the Artemis II mission mission drew unprecedented public interest, including more than 149.4 million views of the launch, lunar flyby, splashdown on NASA-owned platforms, including the 24/7 streams covering the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Four astronauts aboard NASA’s Orion spacecraft atop the SLS (Space Launch System) rocket launched on the agency’s Artemis II test flight on Wednesday, April 1, 2026, from Launch. NASA/Michael DeMocker Websites NASA’s Artemis II mission drove a major surge in traffic across the agency’s websites, with NASA. gov recording 125.1 million pageviews between.</p><p>NASA NASA’s live coverage of the Artemis II mission mission drew unprecedented public interest, including more than 149.4 million views of the launch, lunar flyby, splashdown on. The launch generated 23.9 million total views across NASA platforms, with 16.6 million people watching live, underscoring the mission’s broad national and global appeal from.</p><p>NASA en español’s dedicated broadcast also reached a landmark peak of 458,366 concurrent viewers and has since amassed 2.8 million total views, highlighting the mission’s strong. NASA’s Artemis II Crew Comes Home generated 29.5 million total views across NASA-owned platforms, with an estimated 24.1 million occurring during the live return sequence, an.</p><p>NASA’s Artemis II mission drove a major surge in traffic across the agency’s websites, with NASA. gov recording 125.1 million pageviews between April 1 and 10, more than double. On launch day alone, NASA sites saw 17.6 million pageviews from 8.3 million visitors, with the Artemis Real-Time Orbit Website (AROW) drawing 797,796 pageviews, Interest spiked.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Splashdown day brought another surge to NASA-owned websites, with more than 16 million pageviews from 6.1 million visitors as audiences followed the Artemis II crew’s return. Engagement spiked around major mission milestones, with NASA accounts generating 35 million engagements on splashdown day content alone and 261 million from March 27 to April 13.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A cobertura ao vivo da NASA da missão Artemis II atraiu um interesse público sem precedentes, incluindo mais de 149,4 milhões de visualizações do.",
-      "Dado-chave: A cobertura ao vivo da NASA da missão Artemis II atraiu um interesse público sem precedentes, incluindo mais de 149,4 milhões de visualizações.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A cobertura ao vivo da NASA da missão Artemis II atraiu um interesse público sem precedentes, incluindo mais de 149,4 milhões de visualizações do.",
-      "Dado-chave: A cobertura ao vivo da NASA da missão Artemis II atraiu um interesse público sem precedentes, incluindo mais de 149,4 milhões de visualizações.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NASA’s live coverage of the Artemis II mission mission drew unprecedented public interest, including more than 149.4 million views of the launch.",
-      "Key detail: NASA’s live coverage of the Artemis II mission mission drew unprecedented public interest, including more than 149.4 million views of the.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "02 jul 2026",
-    "date_pt": "02 jul 2026",
-    "date_en": "02 Jul 2026",
-    "time": "18h02",
-    "time_pt": "18h02",
-    "time_en": "18:02 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-02T18:02:21+00:00",
-    "lastModifiedIso": "2026-07-02T18:02:21+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Artemis II da NASA quebra recorde de streaming de agência"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Artemis II da NASA quebra recorde de streaming de agência"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's Artemis II breaks agency streaming record"
-    ],
-    "srcUrl": "https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-artemis-ii-breaks-agency-streaming-record",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-artemis-ii-breaks-agency-streaming-record",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-artemis-ii-breaks-agency-streaming-record&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 79,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 30,
     "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3699,7 +3597,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 30,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3835,7 +3733,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 31,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3962,7 +3860,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 32,
     "slug": "science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -4101,7 +3999,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 33,
     "slug": "astronomers-characterize-improbable-system-shaped-by-brown-dwarf",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4225,12 +4123,40 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 34,
     "slug": "surface-cubesat-contracted-for-ramses-asteroid-mission",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/don_quijote_cubesat_around_dimorphos_asteroid/27361714-1-eng-GB/Don_Quijote_CubeSat_around_Dimorphos_asteroid_card_full.png",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/04/asteroid_apophis/26021615-4-eng-GB/Asteroid_Apophis_article.jpg",
+        "caption": "Asteróide Apófis",
+        "caption_pt": "Asteróide Apófis",
+        "caption_en": "Asteroid Apophis",
+        "alt": "Asteróide Apófis",
+        "alt_pt": "Asteróide Apófis",
+        "alt_en": "Asteroid Apophis"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/10/ramses_mission_patch/26369474-4-eng-GB/Ramses_mission_patch_article.png",
+        "caption": "Patch da missão Ramsés",
+        "caption_pt": "Patch da missão Ramsés",
+        "caption_en": "Ramses mission patch",
+        "alt": "Patch da missão Ramsés",
+        "alt_pt": "Patch da missão Ramsés",
+        "alt_en": "Ramses mission patch"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/03/esa_s_ramses_spacecraft/26600276-1-eng-GB/ESA_s_Ramses_spacecraft_article.jpg",
+        "caption": "Nave espacial Ramsés da ESA",
+        "caption_pt": "Nave espacial Ramsés da ESA",
+        "caption_en": "ESA's Ramses spacecraft",
+        "alt": "Nave espacial Ramsés da ESA",
+        "alt_pt": "Nave espacial Ramsés da ESA",
+        "alt_en": "ESA's Ramses spacecraft"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Surface CubeSat contratado para missão do asteroide Ramsés",
@@ -4242,9 +4168,9 @@ window.postsData = [
     "excerpt": "A Agência Espacial Europeia contratou a empresa espanhola EMXYS para o primeiro CubeSat concebido para operar na superfície de um asteróide. Don Quijote é uma nave espacial do tamanho de uma caixa de sapatos que será implantada no asteróide Apophis pela ESA.",
     "excerpt_pt": "A Agência Espacial Europeia contratou a empresa espanhola EMXYS para o primeiro CubeSat concebido para operar na superfície de um asteróide. Don Quijote é uma nave espacial do tamanho de uma caixa de sapatos que será implantada no asteróide Apophis pela ESA.",
     "excerpt_en": "The European Space Agency has contracted Spanish company EMXYS for the first CubeSat designed to operate on the surface of an asteroid. Don Quijote is a shoebox-sized spacecraft that will be deployed onto the Apophis asteroid by ESA’s.",
-    "body": "<p>A Agência Espacial Europeia contratou a empresa espanhola EMXYS para o primeiro CubeSat concebido para operar na superfície de um asteróide. Don Quijote é uma nave espacial do tamanho de uma caixa de sapatos que será implantada no asteróide Apophis pela ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. A Agência Espacial Europeia contratou a empresa espanhola EMXYS para o primeiro CubeSat concebido para operar na superfície de um asteróide. Don Quijote é uma nave espacial do tamanho de uma caixa de sapatos que será implantada no asteróide Apophis pela missão Ramses da ESA antes do asteróide passar pela Terra em 13 de.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Space_Safety/Planetary_Defence/Surface_CubeSat_contracted_for_Ramses_asteroid_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A Agência Espacial Europeia contratou a empresa espanhola EMXYS para o primeiro CubeSat concebido para operar na superfície de um asteróide. Don Quijote é uma nave espacial do tamanho de uma caixa de sapatos que será implantada no asteróide Apophis pela ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. A Agência Espacial Europeia contratou a empresa espanhola EMXYS para o primeiro CubeSat concebido para operar na superfície de um asteróide. Don Quijote é uma nave espacial do tamanho de uma caixa de sapatos que será implantada no asteróide Apophis pela missão Ramses da ESA antes do asteróide passar pela Terra em 13 de.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Space_Safety/Planetary_Defence/Surface_CubeSat_contracted_for_Ramses_asteroid_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency has contracted Spanish company EMXYS for the first CubeSat designed to operate on the surface of an asteroid. Don Quijote is a shoebox-sized spacecraft that will be deployed onto the Apophis asteroid by ESA’s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. The European Space Agency has contracted Spanish company EMXYS for the first CubeSat designed to operate on the surface of an asteroid. Don Quijote is a shoebox-sized spacecraft that will be deployed onto the Apophis asteroid by ESA’s Ramses mission before the asteroid flies by Earth on 13 April 2029.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Space_Safety/Planetary_Defence/Surface_CubeSat_contracted_for_Ramses_asteroid_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A Agência Espacial Europeia contratou a empresa espanhola EMXYS para o primeiro CubeSat concebido para operar na superfície de um asteróide. Don Quijote é uma nave espacial do tamanho de uma caixa de sapatos que será implantada no asteróide Apophis pela ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. A Agência Espacial Europeia contratou a empresa espanhola EMXYS para o primeiro CubeSat concebido para operar na superfície de um asteróide. Don Quijote é uma nave espacial do tamanho de uma caixa de sapatos que será implantada no asteróide Apophis pela missão Ramses da ESA antes do asteróide passar pela Terra em 13 de.</p><p>“A chegada do Apophis representa uma oportunidade única”, disse o gestor do programa da ESA para Marte e Além, Orson Sutherland. “É extremamente raro que um asteróide tão grande, com 375 m de diâmetro, aproximadamente do tamanho de um navio de cruzeiro, passe tão perto da Terra.</p><p>Voando a uma altitude de 32 000 km, a sua trajetória irá levá-lo para dentro da órbita dos nossos satélites geoestacionários. Para ajudar a conseguir isto, Ramsés reutiliza elementos de design da missão do asteroide Hera da ESA, a caminho do asteroide Dimorphos em novembro.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Space_Safety/Planetary_Defence/Surface_CubeSat_contracted_for_Ramses_asteroid_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Agência Espacial Europeia contratou a empresa espanhola EMXYS para o primeiro CubeSat concebido para operar na superfície de um asteróide. Don Quijote é uma nave espacial do tamanho de uma caixa de sapatos que será implantada no asteróide Apophis pela ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. A Agência Espacial Europeia contratou a empresa espanhola EMXYS para o primeiro CubeSat concebido para operar na superfície de um asteróide. Don Quijote é uma nave espacial do tamanho de uma caixa de sapatos que será implantada no asteróide Apophis pela missão Ramses da ESA antes do asteróide passar pela Terra em 13 de.</p><p>“A chegada do Apophis representa uma oportunidade única”, disse o gestor do programa da ESA para Marte e Além, Orson Sutherland. “É extremamente raro que um asteróide tão grande, com 375 m de diâmetro, aproximadamente do tamanho de um navio de cruzeiro, passe tão perto da Terra.</p><p>Voando a uma altitude de 32 000 km, a sua trajetória irá levá-lo para dentro da órbita dos nossos satélites geoestacionários. Para ajudar a conseguir isto, Ramsés reutiliza elementos de design da missão do asteroide Hera da ESA, a caminho do asteroide Dimorphos em novembro.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Space_Safety/Planetary_Defence/Surface_CubeSat_contracted_for_Ramses_asteroid_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency has contracted Spanish company EMXYS for the first CubeSat designed to operate on the surface of an asteroid. Don Quijote is a shoebox-sized spacecraft that will be deployed onto the Apophis asteroid by ESA’s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. The European Space Agency has contracted Spanish company EMXYS for the first CubeSat designed to operate on the surface of an asteroid. Don Quijote is a shoebox-sized spacecraft that will be deployed onto the Apophis asteroid by ESA’s Ramses mission before the asteroid flies by Earth on 13 April 2029.</p><p>“The arrival of Apophis represents a unique opportunity,” said ESA’s programme manager for Mars and Beyond, Orson Sutherland. “It is exceedingly rare for such a large asteroid, at 375 m across, about the size of a cruise liner, to pass so near to Earth.</p><p>Flying past at an altitude of 32 000 km, its trajectory will take it within the orbit of our geostationary satellites. To help achieve this, Ramses reuses design elements of ESA’s Hera asteroid mission, on track to reach the Dimorphos asteroid this November.</p><p>Ramses, like Hera, will also carry a pair of CubeSats, miniature spacecraft built up from 10 cm boxes, for closer observations of its target. Carrasco, CEO of EMXYS explains: “We have previously provided CubeSat platforms for low-Earth orbit, but Don Quijote must operate in the much more challenging deep space.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Once there it has not only to survive but also perform demanding science at the same time, then relaying results back to its Ramses mothership.” The CubeSat will carry a trio of. The Gravimeter for Small Solar System Objects (GRASS) is being developed by the Royal Observatory of Belgium with EMXYS to measure the asteroid&#x27;s miniscule gravity field.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Space_Safety/Planetary_Defence/Surface_CubeSat_contracted_for_Ramses_asteroid_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A Agência Espacial Europeia contratou a empresa espanhola EMXYS para o primeiro CubeSat concebido para operar na superfície de um asteróide. Don.",
       "Dado-chave: A Agência Espacial Europeia contratou a empresa espanhola EMXYS para o primeiro CubeSat concebido para operar na superfície de um asteróide.",
@@ -4330,7 +4256,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 35,
     "slug": "vera-c-rubin-observatory-begins-its-long-awaited-all-sky-survey",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4460,6 +4386,139 @@ window.postsData = [
       "relevance": 88,
       "accessibility": 60,
       "novelty": 46
+    }
+  },
+  {
+    "id": 36,
+    "slug": "andromeda-s-newest-dwarf-galaxy-is-extremely-dim",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.universetoday.com/article_images/A36.original_20260706_164138.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/aa60151-26-fig3_20260706_175057.jpg",
+        "caption": "Esses painéis mostram And XXXVI de quatro pesquisas diferentes. Da esquerda para a direita: SDSS DR9, PanSTARRS DR1, CFHT (PAndAS) e GTC. “A sobredensidade é quase invisível no SDSS e PanSTARRS, e só se torna aparente no CFHT e GTC”.",
+        "caption_pt": "Esses painéis mostram And XXXVI de quatro pesquisas diferentes. Da esquerda para a direita: SDSS DR9, PanSTARRS DR1, CFHT (PAndAS) e GTC. “A sobredensidade é quase invisível no SDSS e PanSTARRS, e só se torna aparente no CFHT e GTC”.",
+        "caption_en": "These panels show And XXXVI from four different surveys. From left to right: SDSS DR9, PanSTARRS DR1, CFHT (PAndAS), and GTC. \"The overdensity is almost invisible in SDSS and PanSTARRS, and it only becomes apparent with in CFHT and GTC,\".",
+        "alt": "Esses painéis mostram And XXXVI de quatro pesquisas diferentes. Da esquerda para a direita: SDSS DR9, PanSTARRS DR1, CFHT (PAndAS) e GTC. “A sobredensidade é quase invisível no SDSS e PanSTARRS, e só se torna aparente no CFHT e GTC”.",
+        "alt_pt": "Esses painéis mostram And XXXVI de quatro pesquisas diferentes. Da esquerda para a direita: SDSS DR9, PanSTARRS DR1, CFHT (PAndAS) e GTC. “A sobredensidade é quase invisível no SDSS e PanSTARRS, e só se torna aparente no CFHT e GTC”.",
+        "alt_en": "These panels show And XXXVI from four different surveys. From left to right: SDSS DR9, PanSTARRS DR1, CFHT (PAndAS), and GTC. \"The overdensity is almost invisible in SDSS and PanSTARRS, and it only becomes apparent with in CFHT and GTC,\"."
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/aa60151-26-fig2_20260706_182635.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "A mais nova galáxia anã de Andrômeda é extremamente escura",
+    "title_pt": "A mais nova galáxia anã de Andrômeda é extremamente escura",
+    "title_en": "Andromeda's Newest Dwarf Galaxy is Extremely Dim",
+    "sub": "Os astrônomos descobriram uma galáxia anã fraca e de massa extremamente baixa ao redor de Andrômeda. Chamada de And 35, é uma galáxia anã ultrafraca e, até agora, os pesquisadores.",
+    "sub_pt": "Os astrônomos descobriram uma galáxia anã fraca e de massa extremamente baixa ao redor de Andrômeda. Chamada de And 35, é uma galáxia anã ultrafraca e, até agora, os pesquisadores.",
+    "sub_en": "Astronomers have discovered an extremely low-mass and dim dwarf galaxy around Andromeda. Called And 35, it's an Ultra-Faint Dwarf Galaxy and so far, the researchers have detected.",
+    "excerpt": "Os astrônomos descobriram uma galáxia anã fraca e de massa extremamente baixa ao redor de Andrômeda. Chamada de And 35, é uma galáxia anã ultrafraca e, até agora, os pesquisadores detectaram apenas 46 de suas estrelas. Lambda-CDM prevê que sim.",
+    "excerpt_pt": "Os astrônomos descobriram uma galáxia anã fraca e de massa extremamente baixa ao redor de Andrômeda. Chamada de And 35, é uma galáxia anã ultrafraca e, até agora, os pesquisadores detectaram apenas 46 de suas estrelas. Lambda-CDM prevê que sim.",
+    "excerpt_en": "Astronomers have discovered an extremely low-mass and dim dwarf galaxy around Andromeda. Called And 35, it's an Ultra-Faint Dwarf Galaxy and so far, the researchers have detected only 46 of its stars. Lambda-CDM predicts that there should.",
+    "body": "<p>Os astrônomos descobriram uma galáxia anã fraca e de massa extremamente baixa ao redor de Andrômeda. Chamada de And 35, é uma galáxia anã ultrafraca e, até agora, os pesquisadores detectaram apenas 46 de suas estrelas. Lambda-CDM prevê que sim. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Chamada And 35, é uma Galáxia Anã Ultra-Faint (UFDG) e até agora, os pesquisadores detectaram apenas 46 de suas estrelas. Os humanos conhecem Andrômeda desde que olharam para o céu pela primeira vez, porque ela é visível a olho nu como uma pequena mancha cinza.</p><p>Foi Edwin Hubble quem finalmente provou que as manchas eram galáxias, e Andrômeda desempenhou um papel central nesse desenvolvimento. Os astrônomos estimam que Andrômeda hospede cerca de 92 galáxias anãs, e apenas cerca de 40 delas foram detectadas e confirmadas.</p><p>O estudo é intitulado “Andromeda XXXVI: Descoberta de uma nova galáxia anã ultra-fraca em direção a M31”, e a autora principal é Joanna Sakowska, pesquisadora do Instituto de. Apresentamos imagens profundas de Andrômeda XXXVI (And XXXVI), uma galáxia anã descoberta através da inspeção visual do Pan-Andromeda Archaeological Survey usando observações.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/andromedas-newest-dwarf-galaxy-is-extremely-dim\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os astrônomos descobriram uma galáxia anã fraca e de massa extremamente baixa ao redor de Andrômeda. Chamada de And 35, é uma galáxia anã ultrafraca e, até agora, os pesquisadores detectaram apenas 46 de suas estrelas. Lambda-CDM prevê que sim. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Chamada And 35, é uma Galáxia Anã Ultra-Faint (UFDG) e até agora, os pesquisadores detectaram apenas 46 de suas estrelas. Os humanos conhecem Andrômeda desde que olharam para o céu pela primeira vez, porque ela é visível a olho nu como uma pequena mancha cinza.</p><p>Foi Edwin Hubble quem finalmente provou que as manchas eram galáxias, e Andrômeda desempenhou um papel central nesse desenvolvimento. Os astrônomos estimam que Andrômeda hospede cerca de 92 galáxias anãs, e apenas cerca de 40 delas foram detectadas e confirmadas.</p><p>O estudo é intitulado “Andromeda XXXVI: Descoberta de uma nova galáxia anã ultra-fraca em direção a M31”, e a autora principal é Joanna Sakowska, pesquisadora do Instituto de. Apresentamos imagens profundas de Andrômeda XXXVI (And XXXVI), uma galáxia anã descoberta através da inspeção visual do Pan-Andromeda Archaeological Survey usando observações.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/andromedas-newest-dwarf-galaxy-is-extremely-dim\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Discovered an extremely low-mass and dim dwarf galaxy around Andromeda. Called And 35, it&#x27;s an Ultra-Faint Dwarf Galaxy and so far, the researchers have detected only 46 of its stars. Lambda-CDM predicts that there should. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Called And 35, it&#x27;s an Ultra-Faint Dwarf Galaxy (UFDG) and so far, the researchers have detected only 46 of its stars. Humans have known about Andromeda since they first gazed skyward, because it&#x27;s visible with the naked eye as a little grey smudge.</p><p>It was Edwin Hubble who finally proved that the smudges were galaxies, and Andromeda played a central role in that development. Astronomers estimate that Andromeda hosts about 92 dwarf galaxies, and only about 40 of them have been detected and confirmed.</p><p>The study is titled &quot; Andromeda XXXVI: Discovery of a new ultra-faint dwarf galaxy towards M31,&quot; and the lead author is Joanna Sakowska, researcher at the Instituto de Astrofísica. We present deep imaging of Andromeda XXXVI (And XXXVI), a dwarf galaxy discovered through visual inspection of the Pan-Andromeda Archaeological Survey using observations obtained.</p><p>OSIRIS is an optical spectrometer attached to the Gran Telescopio Canarias, a 10.4 meter telescope in Spain&#x27;s Canary Islands. The discovery of And XXXVI adds to the faint end of M31’s satellite luminosity function, suggesting the presence of an even larger population of very faint satellites,&quot; the.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>“Our study suggests that And XXXVI is an extremely old galaxy, around 12.5 billion years old, and remarkably poor in heavy elements,” lead author Sakowska said in a press release. “However, observations with space telescopes such as Hubble will be needed to determine its distance, age and chemical composition with greater precision.” Astronomers are.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/andromedas-newest-dwarf-galaxy-is-extremely-dim\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os astrônomos descobriram uma galáxia anã fraca e de massa extremamente baixa ao redor de Andrômeda. Chamada de And 35, é uma galáxia anã ultrafraca.",
+      "Dado-chave: Chamada And 35, é uma Galáxia Anã Ultra-Faint (UFDG) e até agora, os pesquisadores detectaram apenas 46 de suas estrelas.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os astrônomos descobriram uma galáxia anã fraca e de massa extremamente baixa ao redor de Andrômeda. Chamada de And 35, é uma galáxia anã ultrafraca.",
+      "Dado-chave: Chamada And 35, é uma Galáxia Anã Ultra-Faint (UFDG) e até agora, os pesquisadores detectaram apenas 46 de suas estrelas.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Astronomers have discovered an extremely low-mass and dim dwarf galaxy around Andromeda. Called And 35, it's an Ultra-Faint Dwarf Galaxy and so far.",
+      "Key detail: Called And 35, it's an Ultra-Faint Dwarf Galaxy (UFDG) and so far, the researchers have detected only 46 of its stars.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "06 jul 2026",
+    "date_pt": "06 jul 2026",
+    "date_en": "06 Jul 2026",
+    "time": "18h53",
+    "time_pt": "18h53",
+    "time_en": "18:53 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-06T18:53:10+00:00",
+    "lastModifiedIso": "2026-07-06T18:53:10+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "A mais nova galáxia anã de Andrômeda é extremamente escura"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "A mais nova galáxia anã de Andrômeda é extremamente escura"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Universe Today",
+      "Cosmos Week",
+      "The newest Andromeda dwarf galaxy is extremely dark"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/andromedas-newest-dwarf-galaxy-is-extremely-dim",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=andromeda-s-newest-dwarf-galaxy-is-extremely-dim",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=andromeda-s-newest-dwarf-galaxy-is-extremely-dim",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=andromeda-s-newest-dwarf-galaxy-is-extremely-dim&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
     }
   },
   {
@@ -4600,121 +4659,6 @@ window.postsData = [
   },
   {
     "id": 38,
-    "slug": "puffiest-exoplanets-yet-found-are-as-dense-as-cotton-candy",
-    "cat": "Exoplanetas",
-    "catCls": "exoplanetas",
-    "img": "https://earthsky.org/upl/2026/07/TOI-791b-TOI-791c-super-puff-exoplanets-artists-concept-June-26-2026.jpg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Os exoplanetas mais fofos já encontrados são tão densos quanto algodão doce",
-    "title_pt": "Os exoplanetas mais fofos já encontrados são tão densos quanto algodão doce",
-    "title_en": "Puffiest exoplanets yet found are as dense as cotton candy",
-    "sub": "Os astrônomos descobriram os dois exoplanetas mais inchados conhecidos até agora. Eles são semelhantes em tamanho a Júpiter, mas têm a densidade do algodão doce. Os exoplanetas.",
-    "sub_pt": "Os astrônomos descobriram os dois exoplanetas mais inchados conhecidos até agora. Eles são semelhantes em tamanho a Júpiter, mas têm a densidade do algodão doce. Os exoplanetas.",
-    "sub_en": "Astronomers have discovered the 2 puffiest exoplanets known so far. They are similar in size to Jupiter, but have the density of cotton candy. The post Puffiest exoplanets yet.",
-    "excerpt": "Os astrônomos descobriram os dois exoplanetas mais inchados conhecidos até agora. Eles são semelhantes em tamanho a Júpiter, mas têm a densidade do algodão doce. Os exoplanetas mais inchados já encontrados são tão densos quanto o algodão doce que apareceu.",
-    "excerpt_pt": "Os astrônomos descobriram os dois exoplanetas mais inchados conhecidos até agora. Eles são semelhantes em tamanho a Júpiter, mas têm a densidade do algodão doce. Os exoplanetas mais inchados já encontrados são tão densos quanto o algodão doce que apareceu.",
-    "excerpt_en": "Astronomers have discovered the 2 puffiest exoplanets known so far. They are similar in size to Jupiter, but have the density of cotton candy. The post Puffiest exoplanets yet found are as dense as cotton candy first appeared on EarthSky.",
-    "body": "<p>Os astrônomos descobriram os dois exoplanetas mais inchados conhecidos até agora. Eles são semelhantes em tamanho a Júpiter, mas têm a densidade do algodão doce. Os exoplanetas mais inchados já encontrados são tão densos quanto o algodão doce que apareceu pela primeira vez no. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os astrônomos descobriram mais dois exoplanetas “super-puff”, ambos a 1.113 anos-luz da Terra. Disseram que descobriram dois novos planetas “super-puff”, TOI-791 b e TOI-791 c.</p><p>Os pesquisadores usaram dados da missão Transiting Exoplanet Survey Satellite (TESS) da NASA para fazer a descoberta. Os astrônomos identificaram pela primeira vez TOI-791 b e TOI-791 c como candidatos a planetas em 2019 e 2023, respectivamente.</p><p>Os pesquisadores publicaram suas descobertas revisadas por pares nos Avisos Mensais da Royal Astronomical Society em 25 de junho de 2026. Suas densidades são semelhantes às do algodão doce, que normalmente tem uma densidade de cerca de 3 libras por pé cúbico (0,05 gramas por centímetro cúbico).</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/2-puffiest-exoplanets-toi-791-b-and-toi-791-c-tess/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os astrônomos descobriram os dois exoplanetas mais inchados conhecidos até agora. Eles são semelhantes em tamanho a Júpiter, mas têm a densidade do algodão doce. Os exoplanetas mais inchados já encontrados são tão densos quanto o algodão doce que apareceu pela primeira vez no. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os astrônomos descobriram mais dois exoplanetas “super-puff”, ambos a 1.113 anos-luz da Terra. Disseram que descobriram dois novos planetas “super-puff”, TOI-791 b e TOI-791 c.</p><p>Os pesquisadores usaram dados da missão Transiting Exoplanet Survey Satellite (TESS) da NASA para fazer a descoberta. Os astrônomos identificaram pela primeira vez TOI-791 b e TOI-791 c como candidatos a planetas em 2019 e 2023, respectivamente.</p><p>Os pesquisadores publicaram suas descobertas revisadas por pares nos Avisos Mensais da Royal Astronomical Society em 25 de junho de 2026. Suas densidades são semelhantes às do algodão doce, que normalmente tem uma densidade de cerca de 3 libras por pé cúbico (0,05 gramas por centímetro cúbico).</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/2-puffiest-exoplanets-toi-791-b-and-toi-791-c-tess/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Discovered the 2 puffiest exoplanets known so far. They are similar in size to Jupiter, but have the density of cotton candy. The post Puffiest exoplanets yet found are as dense as cotton candy first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. Discovered two more “super-puff” exoplanets, both 1,113 light-years from Earth. Said that they have discovered two new “super-puff” planets, TOI-791 b and TOI-791 c.</p><p>The researchers used data from NASA’s Transiting Exoplanet Survey Satellite ( TESS ) mission to make the discovery. Astronomers first identified TOI-791 b and TOI-791 c as candidate planets in 2019 and 2023 respectively.</p><p>The researchers published their peer-reviewed findings in the Monthly Notices of the Royal Astronomical Society on June 25, 2026. Their densities are similar to cotton candy, which typically has a density of about 3 pounds per cubic foot (0.05 grams per cubic centimeter).</p><p>The planets orbit the sun-like star TOI-791, which is 1,113 light-years from Earth. When the planets passed in front of their star, as seen from Earth, the light from the star dipped slightly in brightness.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>| Comparison of TOI-791 b and TOI-791 c with Earth and the gas and ice giants in our solar system. We propose to carry out space-based observations using the James Webb Space Telescope to assess if the puffy atmosphere contains carbon-, nitrogen-, and oxygen-bearing species.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/2-puffiest-exoplanets-toi-791-b-and-toi-791-c-tess/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os astrônomos descobriram os dois exoplanetas mais inchados conhecidos até agora. Eles são semelhantes em tamanho a Júpiter, mas têm a densidade do.",
-      "Dado-chave: Os astrônomos descobriram mais dois exoplanetas “super-puff”, ambos a 1.113 anos-luz da Terra.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os astrônomos descobriram os dois exoplanetas mais inchados conhecidos até agora. Eles são semelhantes em tamanho a Júpiter, mas têm a densidade do.",
-      "Dado-chave: Os astrônomos descobriram mais dois exoplanetas “super-puff”, ambos a 1.113 anos-luz da Terra.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Astronomers have discovered the 2 puffiest exoplanets known so far. They are similar in size to Jupiter, but have the density of cotton candy. The.",
-      "Key detail: Astronomers have discovered two more “super-puff” exoplanets, both 1,113 light-years from Earth.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "06 jul 2026",
-    "date_pt": "06 jul 2026",
-    "date_en": "06 Jul 2026",
-    "time": "11h30",
-    "time_pt": "11h30",
-    "time_en": "11:30 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-06T11:30:45+00:00",
-    "lastModifiedIso": "2026-07-06T11:30:45+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Exoplanetas",
-      "EarthSky",
-      "Cosmos Week",
-      "Os exoplanetas mais fofos já encontrados são tão densos quanto algodão doce"
-    ],
-    "keywords_pt": [
-      "Exoplanetas",
-      "EarthSky",
-      "Cosmos Week",
-      "Os exoplanetas mais fofos já encontrados são tão densos quanto algodão doce"
-    ],
-    "keywords_en": [
-      "Exoplanets",
-      "EarthSky",
-      "Cosmos Week",
-      "The cutest exoplanets ever found are as dense as cotton candy"
-    ],
-    "srcUrl": "https://earthsky.org/space/2-puffiest-exoplanets-toi-791-b-and-toi-791-c-tess/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=puffiest-exoplanets-yet-found-are-as-dense-as-cotton-candy",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=puffiest-exoplanets-yet-found-are-as-dense-as-cotton-candy",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=puffiest-exoplanets-yet-found-are-as-dense-as-cotton-candy&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 39,
     "slug": "this-week-s-sky-at-a-glance-july-3-12",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4847,6 +4791,121 @@ window.postsData = [
       "relevance": 88,
       "accessibility": 60,
       "novelty": 49
+    }
+  },
+  {
+    "id": 39,
+    "slug": "puffiest-exoplanets-yet-found-are-as-dense-as-cotton-candy",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://earthsky.org/upl/2026/07/TOI-791b-TOI-791c-super-puff-exoplanets-artists-concept-June-26-2026.jpg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Os exoplanetas mais fofos já encontrados são tão densos quanto algodão doce",
+    "title_pt": "Os exoplanetas mais fofos já encontrados são tão densos quanto algodão doce",
+    "title_en": "Puffiest exoplanets yet found are as dense as cotton candy",
+    "sub": "Os astrônomos descobriram os dois exoplanetas mais inchados conhecidos até agora. Eles são semelhantes em tamanho a Júpiter, mas têm a densidade do algodão doce. Os exoplanetas.",
+    "sub_pt": "Os astrônomos descobriram os dois exoplanetas mais inchados conhecidos até agora. Eles são semelhantes em tamanho a Júpiter, mas têm a densidade do algodão doce. Os exoplanetas.",
+    "sub_en": "Astronomers have discovered the 2 puffiest exoplanets known so far. They are similar in size to Jupiter, but have the density of cotton candy. The post Puffiest exoplanets yet.",
+    "excerpt": "Os astrônomos descobriram os dois exoplanetas mais inchados conhecidos até agora. Eles são semelhantes em tamanho a Júpiter, mas têm a densidade do algodão doce. Os exoplanetas mais inchados já encontrados são tão densos quanto o algodão doce que apareceu.",
+    "excerpt_pt": "Os astrônomos descobriram os dois exoplanetas mais inchados conhecidos até agora. Eles são semelhantes em tamanho a Júpiter, mas têm a densidade do algodão doce. Os exoplanetas mais inchados já encontrados são tão densos quanto o algodão doce que apareceu.",
+    "excerpt_en": "Astronomers have discovered the 2 puffiest exoplanets known so far. They are similar in size to Jupiter, but have the density of cotton candy. The post Puffiest exoplanets yet found are as dense as cotton candy first appeared on EarthSky.",
+    "body": "<p>Os astrônomos descobriram os dois exoplanetas mais inchados conhecidos até agora. Eles são semelhantes em tamanho a Júpiter, mas têm a densidade do algodão doce. Os exoplanetas mais inchados já encontrados são tão densos quanto o algodão doce que apareceu pela primeira vez no. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os astrônomos descobriram mais dois exoplanetas “super-puff”, ambos a 1.113 anos-luz da Terra. Disseram que descobriram dois novos planetas “super-puff”, TOI-791 b e TOI-791 c.</p><p>Os pesquisadores usaram dados da missão Transiting Exoplanet Survey Satellite (TESS) da NASA para fazer a descoberta. Os astrônomos identificaram pela primeira vez TOI-791 b e TOI-791 c como candidatos a planetas em 2019 e 2023, respectivamente.</p><p>Os pesquisadores publicaram suas descobertas revisadas por pares nos Avisos Mensais da Royal Astronomical Society em 25 de junho de 2026. Suas densidades são semelhantes às do algodão doce, que normalmente tem uma densidade de cerca de 3 libras por pé cúbico (0,05 gramas por centímetro cúbico).</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/2-puffiest-exoplanets-toi-791-b-and-toi-791-c-tess/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os astrônomos descobriram os dois exoplanetas mais inchados conhecidos até agora. Eles são semelhantes em tamanho a Júpiter, mas têm a densidade do algodão doce. Os exoplanetas mais inchados já encontrados são tão densos quanto o algodão doce que apareceu pela primeira vez no. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os astrônomos descobriram mais dois exoplanetas “super-puff”, ambos a 1.113 anos-luz da Terra. Disseram que descobriram dois novos planetas “super-puff”, TOI-791 b e TOI-791 c.</p><p>Os pesquisadores usaram dados da missão Transiting Exoplanet Survey Satellite (TESS) da NASA para fazer a descoberta. Os astrônomos identificaram pela primeira vez TOI-791 b e TOI-791 c como candidatos a planetas em 2019 e 2023, respectivamente.</p><p>Os pesquisadores publicaram suas descobertas revisadas por pares nos Avisos Mensais da Royal Astronomical Society em 25 de junho de 2026. Suas densidades são semelhantes às do algodão doce, que normalmente tem uma densidade de cerca de 3 libras por pé cúbico (0,05 gramas por centímetro cúbico).</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/2-puffiest-exoplanets-toi-791-b-and-toi-791-c-tess/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Discovered the 2 puffiest exoplanets known so far. They are similar in size to Jupiter, but have the density of cotton candy. The post Puffiest exoplanets yet found are as dense as cotton candy first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. Discovered two more “super-puff” exoplanets, both 1,113 light-years from Earth. Said that they have discovered two new “super-puff” planets, TOI-791 b and TOI-791 c.</p><p>The researchers used data from NASA’s Transiting Exoplanet Survey Satellite ( TESS ) mission to make the discovery. Astronomers first identified TOI-791 b and TOI-791 c as candidate planets in 2019 and 2023 respectively.</p><p>The researchers published their peer-reviewed findings in the Monthly Notices of the Royal Astronomical Society on June 25, 2026. Their densities are similar to cotton candy, which typically has a density of about 3 pounds per cubic foot (0.05 grams per cubic centimeter).</p><p>The planets orbit the sun-like star TOI-791, which is 1,113 light-years from Earth. When the planets passed in front of their star, as seen from Earth, the light from the star dipped slightly in brightness.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>| Comparison of TOI-791 b and TOI-791 c with Earth and the gas and ice giants in our solar system. We propose to carry out space-based observations using the James Webb Space Telescope to assess if the puffy atmosphere contains carbon-, nitrogen-, and oxygen-bearing species.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/2-puffiest-exoplanets-toi-791-b-and-toi-791-c-tess/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os astrônomos descobriram os dois exoplanetas mais inchados conhecidos até agora. Eles são semelhantes em tamanho a Júpiter, mas têm a densidade do.",
+      "Dado-chave: Os astrônomos descobriram mais dois exoplanetas “super-puff”, ambos a 1.113 anos-luz da Terra.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os astrônomos descobriram os dois exoplanetas mais inchados conhecidos até agora. Eles são semelhantes em tamanho a Júpiter, mas têm a densidade do.",
+      "Dado-chave: Os astrônomos descobriram mais dois exoplanetas “super-puff”, ambos a 1.113 anos-luz da Terra.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Astronomers have discovered the 2 puffiest exoplanets known so far. They are similar in size to Jupiter, but have the density of cotton candy. The.",
+      "Key detail: Astronomers have discovered two more “super-puff” exoplanets, both 1,113 light-years from Earth.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "06 jul 2026",
+    "date_pt": "06 jul 2026",
+    "date_en": "06 Jul 2026",
+    "time": "11h30",
+    "time_pt": "11h30",
+    "time_en": "11:30 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-06T11:30:45+00:00",
+    "lastModifiedIso": "2026-07-06T11:30:45+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Exoplanetas",
+      "EarthSky",
+      "Cosmos Week",
+      "Os exoplanetas mais fofos já encontrados são tão densos quanto algodão doce"
+    ],
+    "keywords_pt": [
+      "Exoplanetas",
+      "EarthSky",
+      "Cosmos Week",
+      "Os exoplanetas mais fofos já encontrados são tão densos quanto algodão doce"
+    ],
+    "keywords_en": [
+      "Exoplanets",
+      "EarthSky",
+      "Cosmos Week",
+      "The cutest exoplanets ever found are as dense as cotton candy"
+    ],
+    "srcUrl": "https://earthsky.org/space/2-puffiest-exoplanets-toi-791-b-and-toi-791-c-tess/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=puffiest-exoplanets-yet-found-are-as-dense-as-cotton-candy",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=puffiest-exoplanets-yet-found-are-as-dense-as-cotton-candy",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=puffiest-exoplanets-yet-found-are-as-dense-as-cotton-candy&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
     }
   },
   {

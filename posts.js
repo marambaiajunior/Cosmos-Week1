@@ -40,14 +40,14 @@ window.postsData = [
     "date": "09 jul 2026",
     "date_pt": "09 jul 2026",
     "date_en": "09 Jul 2026",
-    "time": "00h18",
-    "time_pt": "00h18",
-    "time_en": "00:18 UTC",
+    "time": "04h34",
+    "time_pt": "04h34",
+    "time_en": "04:34 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-09T00:18:18.830870+00:00",
-    "lastModifiedIso": "2026-07-09T00:18:18.830870+00:00",
+    "publishedIso": "2026-07-09T04:34:45.340042+00:00",
+    "lastModifiedIso": "2026-07-09T04:34:45.340042+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -148,14 +148,14 @@ window.postsData = [
     "date": "09 jul 2026",
     "date_pt": "09 jul 2026",
     "date_en": "09 Jul 2026",
-    "time": "00h18",
-    "time_pt": "00h18",
-    "time_en": "00:18 UTC",
+    "time": "04h34",
+    "time_pt": "04h34",
+    "time_en": "04:34 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-09T00:18:18.830821+00:00",
-    "lastModifiedIso": "2026-07-09T00:18:18.830821+00:00",
+    "publishedIso": "2026-07-09T04:34:45.339992+00:00",
+    "lastModifiedIso": "2026-07-09T04:34:45.339992+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -253,14 +253,14 @@ window.postsData = [
     "date": "09 jul 2026",
     "date_pt": "09 jul 2026",
     "date_en": "09 Jul 2026",
-    "time": "00h18",
-    "time_pt": "00h18",
-    "time_en": "00:18 UTC",
+    "time": "04h34",
+    "time_pt": "04h34",
+    "time_en": "04:34 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-09T00:18:18.830767+00:00",
-    "lastModifiedIso": "2026-07-09T00:18:18.830767+00:00",
+    "publishedIso": "2026-07-09T04:34:45.339939+00:00",
+    "lastModifiedIso": "2026-07-09T04:34:45.339939+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -358,14 +358,14 @@ window.postsData = [
     "date": "09 jul 2026",
     "date_pt": "09 jul 2026",
     "date_en": "09 Jul 2026",
-    "time": "00h18",
-    "time_pt": "00h18",
-    "time_en": "00:18 UTC",
+    "time": "04h34",
+    "time_pt": "04h34",
+    "time_en": "04:34 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-09T00:18:18.830721+00:00",
-    "lastModifiedIso": "2026-07-09T00:18:18.830721+00:00",
+    "publishedIso": "2026-07-09T04:34:45.339894+00:00",
+    "lastModifiedIso": "2026-07-09T04:34:45.339894+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -463,14 +463,14 @@ window.postsData = [
     "date": "09 jul 2026",
     "date_pt": "09 jul 2026",
     "date_en": "09 Jul 2026",
-    "time": "00h18",
-    "time_pt": "00h18",
-    "time_en": "00:18 UTC",
+    "time": "04h34",
+    "time_pt": "04h34",
+    "time_en": "04:34 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-09T00:18:18.830668+00:00",
-    "lastModifiedIso": "2026-07-09T00:18:18.830668+00:00",
+    "publishedIso": "2026-07-09T04:34:45.339844+00:00",
+    "lastModifiedIso": "2026-07-09T04:34:45.339844+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -531,6 +531,139 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "super-typhoon-bavi",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/super-typhoon-bavi/typhoonbavi_vir_20260705.jpg?w=2160&h=1540&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cottonwood-fire-chars-utah/utcottonwoodfire_oli_20260629_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Uma imagem da mesma área mostra uma grande mancha marrom abrangendo grande parte da imagem obtida após o incêndio em 29 de junho de 2026.",
+        "caption_pt": "Uma imagem da mesma área mostra uma grande mancha marrom abrangendo grande parte da imagem obtida após o incêndio em 29 de junho de 2026.",
+        "caption_en": "An image of the same area shows a large brown patch spanning much of the image in an image acquired after the fire on June 29, 2026.",
+        "alt": "Uma imagem da mesma área mostra uma grande mancha marrom abrangendo grande parte da imagem obtida após o incêndio em 29 de junho de 2026.",
+        "alt_pt": "Uma imagem da mesma área mostra uma grande mancha marrom abrangendo grande parte da imagem obtida após o incêndio em 29 de junho de 2026.",
+        "alt_en": "An image of the same area shows a large brown patch spanning much of the image in an image acquired after the fire on June 29, 2026."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/super-typhoon-bavi/typhoonbavi_vir2_20260708.jpg?w=2160&h=1635&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "As nuvens em espiral do Supertufão Bavi aparecem sobre o Mar das Filipinas, a sudeste de Taiwan. A trajetória da tempestade para oeste é mostrada em cores correspondentes à velocidade do vento.",
+        "caption_pt": "As nuvens em espiral do Supertufão Bavi aparecem sobre o Mar das Filipinas, a sudeste de Taiwan. A trajetória da tempestade para oeste é mostrada em cores correspondentes à velocidade do vento.",
+        "caption_en": "The spiraling clouds of Super Typhoon Bavi appear over the Philippine Sea southeast of Taiwan. The storm’s westward track is shown in colors corresponding to wind speed.",
+        "alt": "As nuvens em espiral do Supertufão Bavi aparecem sobre o Mar das Filipinas, a sudeste de Taiwan. A trajetória da tempestade para oeste é mostrada em cores correspondentes à velocidade do vento.",
+        "alt_pt": "As nuvens em espiral do Supertufão Bavi aparecem sobre o Mar das Filipinas, a sudeste de Taiwan. A trajetória da tempestade para oeste é mostrada em cores correspondentes à velocidade do vento.",
+        "alt_en": "The spiraling clouds of Super Typhoon Bavi appear over the Philippine Sea southeast of Taiwan. The storm’s westward track is shown in colors corresponding to wind speed."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/super-typhoon-bavi/typhoonbavi_vir_20260705_lrg.jpg?w=2160&h=1540&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "A parede ocular de um supertufão é parcialmente iluminada pela luz da lua em uma imagem noturna de satélite.",
+        "caption_pt": "A parede ocular de um supertufão é parcialmente iluminada pela luz da lua em uma imagem noturna de satélite.",
+        "caption_en": "The eyewall of a super typhoon is partially illuminated by moonlight in a nighttime satellite image.",
+        "alt": "A parede ocular de um supertufão é parcialmente iluminada pela luz da lua em uma imagem noturna de satélite.",
+        "alt_pt": "A parede ocular de um supertufão é parcialmente iluminada pela luz da lua em uma imagem noturna de satélite.",
+        "alt_en": "The eyewall of a super typhoon is partially illuminated by moonlight in a nighttime satellite image."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Supertufão Bavi",
+    "title_pt": "Supertufão Bavi",
+    "title_en": "Super Typhoon Bavi",
+    "sub": "O terceiro ciclone tropical de categoria 5 de 2026 atravessou as Ilhas Marianas do Norte dos EUA e Guam antes de continuar em direção à Ásia.",
+    "sub_pt": "O terceiro ciclone tropical de categoria 5 de 2026 atravessou as Ilhas Marianas do Norte dos EUA e Guam antes de continuar em direção à Ásia.",
+    "sub_en": "The third category 5 tropical cyclone of 2026 crossed the U. S. Northern Mariana Islands and Guam before continuing toward Asia.",
+    "excerpt": "O terceiro ciclone tropical de categoria 5 de 2026 atravessou as Ilhas Marianas do Norte dos EUA e Guam antes de continuar em direção à Ásia.",
+    "excerpt_pt": "O terceiro ciclone tropical de categoria 5 de 2026 atravessou as Ilhas Marianas do Norte dos EUA e Guam antes de continuar em direção à Ásia.",
+    "excerpt_en": "The third category 5 tropical cyclone of 2026 crossed the U. S. Northern Mariana Islands and Guam before continuing toward Asia.",
+    "body": "<p>O terceiro ciclone tropical de categoria 5 de 2026 atravessou as Ilhas Marianas do Norte dos EUA e Guam antes de continuar em direção à Ásia. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A imagem da tempestade foi capturada pelo VIIRS (Visible Infrared Imaging Radiometer Suite) no satélite NOAA-21 em 8 de julho de 2026, por volta das 04h30, horário universal. Observatório da Terra da NASA/Michala Garrison Em 8 de julho, Bavi permaneceu um poderoso tufão enquanto se movia para oeste sobre o Mar das Filipinas.</p><p>Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes. Artigo Veja mais imagens do dia: 8 de julho de 2026 Instrumentos: NOAA-20, VIIRS NOAA-21, VIIRS Tópicos: Ciclones O luar ilumina o lado oeste da parede ocular do Super Tufão Bavi.</p><p>A imagem foi adquirida com a banda dia-noite VIIRS (Visible Infrared Imaging Radiometer Suite) do satélite NOAA-20. Observatório da Terra da NASA/Michala Garrison No início de julho de 2026, pela segunda vez em três meses, um poderoso tufão cruzou os EUA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O terceiro ciclone tropical de categoria 5 de 2026 atravessou as Ilhas Marianas do Norte dos EUA e Guam antes de continuar em direção à Ásia. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A imagem da tempestade foi capturada pelo VIIRS (Visible Infrared Imaging Radiometer Suite) no satélite NOAA-21 em 8 de julho de 2026, por volta das 04h30, horário universal. Observatório da Terra da NASA/Michala Garrison Em 8 de julho, Bavi permaneceu um poderoso tufão enquanto se movia para oeste sobre o Mar das Filipinas.</p><p>Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes. Artigo Veja mais imagens do dia: 8 de julho de 2026 Instrumentos: NOAA-20, VIIRS NOAA-21, VIIRS Tópicos: Ciclones O luar ilumina o lado oeste da parede ocular do Super Tufão Bavi.</p><p>A imagem foi adquirida com a banda dia-noite VIIRS (Visible Infrared Imaging Radiometer Suite) do satélite NOAA-20. Observatório da Terra da NASA/Michala Garrison No início de julho de 2026, pela segunda vez em três meses, um poderoso tufão cruzou os EUA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The third category 5 tropical cyclone of 2026 crossed the U. S. Northern Mariana Islands and Guam before continuing toward Asia. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The image of the storm was captured by the VIIRS (Visible Infrared Imaging Radiometer Suite) on the NOAA-21 satellite on July 8, 2026, at about 04: 30 Universal Time. NASA Earth Observatory/Michala Garrison On July 8, Bavi remained a powerful typhoon as it moved west over the Philippine Sea.</p><p>Earth Observatory Image of the Day NASA’s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery. Article View more Images of the Day: Jul 8, 2026 Instruments: NOAA-20, VIIRS NOAA-21, VIIRS Topics: Cyclones Moonlight illuminates the western side of Super Typhoon Bavi’s eyewall.</p><p>The image was acquired with the VIIRS (Visible Infrared Imaging Radiometer Suite) day-night band on the NOAA-20 satellite. NASA Earth Observatory/Michala Garrison In early July 2026, for the second time in three months, a powerful typhoon crossed the U. S.</p><p>Super Typhoon Bavi was at peak intensity when it neared the islands on the night of July 5, bringing winds of 290 kilometers (180 miles) per hour, along with torrential rain and. This nighttime image, captured by the VIIRS (Visible Infrared Imaging Radiometer Suite) on the NOAA-20 satellite, shows Bavi’s eye at about 15: 30 Universal Time on July 5 (1: 30.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Masters explained, “resulting in a greater chance of reaching Category 5 intensity.” NASA Earth Observatory images by Michala Garrison, using data from NASA EOSDIS LANCE. Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O terceiro ciclone tropical de categoria 5 de 2026 atravessou as Ilhas Marianas do Norte dos EUA e Guam antes de continuar em direção à Ásia.",
+      "Dado-chave: A imagem da tempestade foi capturada pelo VIIRS (Visible Infrared Imaging Radiometer Suite) no satélite NOAA-21 em 8 de julho de 2026, por volta.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O terceiro ciclone tropical de categoria 5 de 2026 atravessou as Ilhas Marianas do Norte dos EUA e Guam antes de continuar em direção à Ásia.",
+      "Dado-chave: A imagem da tempestade foi capturada pelo VIIRS (Visible Infrared Imaging Radiometer Suite) no satélite NOAA-21 em 8 de julho de 2026, por volta.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The third category 5 tropical cyclone of 2026 crossed the U. S. Northern Mariana Islands and Guam before continuing toward Asia.",
+      "Key detail: The image of the storm was captured by the VIIRS (Visible Infrared Imaging Radiometer Suite) on the NOAA-21 satellite on July 8, 2026, at about.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "09 jul 2026",
+    "date_pt": "09 jul 2026",
+    "date_en": "09 Jul 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04:01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-09T04:01:00+00:00",
+    "lastModifiedIso": "2026-07-09T04:01:00+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Supertufão Bavi"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Supertufão Bavi"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Supertufão Bavi"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=super-typhoon-bavi",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=super-typhoon-bavi",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=super-typhoon-bavi&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "could-astronauts-grow-rice-on-the-moon",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -640,7 +773,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -654,7 +787,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "7-000-galaxy-clusters-hiding-in-plain-sight",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -790,7 +923,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "primordial-mini-moons-may-explain-meteorite-composition",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -923,7 +1056,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "detecting-atomic-weapons-in-space",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1036,134 +1169,6 @@ window.postsData = [
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=detecting-atomic-weapons-in-space",
     "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=detecting-atomic-weapons-in-space",
     "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=detecting-atomic-weapons-in-space&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "the-milky-way-s-arms-reach-out-further-than-we-thought",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.universetoday.com/article_images/arms_illus2_20260707_223741.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/2waialjkuaq",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.universetoday.com/articles/the-milky-ways-arms-reach-out-further-than-we-thought"
-    },
-    "audio": null,
-    "title": "Os braços da Via Láctea vão além do que pensávamos",
-    "title_pt": "Os braços da Via Láctea vão além do que pensávamos",
-    "title_en": "The Milky Way's Arms Reach Out Further Than we Thought",
-    "sub": "Um novo resultado usando o Observatório de Raios-X Chandra da NASA mostra que os braços espirais externos da Via Láctea podem ser mais largos do que se pensava anteriormente. Esta.",
-    "sub_pt": "Um novo resultado usando o Observatório de Raios-X Chandra da NASA mostra que os braços espirais externos da Via Láctea podem ser mais largos do que se pensava anteriormente. Esta.",
-    "sub_en": "A new result using NASA’s Chandra X-ray Observatory shows that the outer spiral arms in the Milky Way galaxy may reach wider than previously thought. This finding may lead.",
-    "excerpt": "Um novo resultado usando o Observatório de Raios-X Chandra da NASA mostra que os braços espirais externos da Via Láctea podem ser mais largos do que se pensava anteriormente. Esta descoberta pode levar os astrónomos a ajustar a sua compreensão da nossa.",
-    "excerpt_pt": "Um novo resultado usando o Observatório de Raios-X Chandra da NASA mostra que os braços espirais externos da Via Láctea podem ser mais largos do que se pensava anteriormente. Esta descoberta pode levar os astrónomos a ajustar a sua compreensão da nossa.",
-    "excerpt_en": "A new result using NASA’s Chandra X-ray Observatory shows that the outer spiral arms in the Milky Way galaxy may reach wider than previously thought. This finding may lead astronomers to adjust their understanding of our home galaxy’s.",
-    "body": "<p>Um novo resultado usando o Observatório de Raios-X Chandra da NASA mostra que os braços espirais externos da Via Láctea podem ser mais largos do que se pensava anteriormente. Esta descoberta pode levar os astrónomos a ajustar a sua compreensão da nossa galáxia natal. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um novo resultado usando o Observatório de Raios-X Chandra da NASA mostra que os braços espirais externos da Via Láctea podem ser mais largos do que se pensava anteriormente. Utilizando o Observatório de Raios-X Chandra da NASA e o satélite XMM-Newton da ESA, uma equipa de astrónomos fez recentemente medições precisas da distância até às nuvens de.</p><p>Os resultados são descritos em um novo artigo publicado na revista Astronomy &amp; Astrophysics. As medições de distância da equipa basearam-se numa técnica que utiliza ecos de luz, onde observaram anéis criados por explosões de raios gama (GRBs) ricocheteando em nuvens de.</p><p>Os diâmetros dos anéis nos raios X fornecem medições de distância, com anéis maiores sendo gerados por nuvens de poeira mais próximas de nós. Em ordem de distância do Centro Galáctico, são os braços Perseus e Outer Scutum-Centaurus.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-milky-ways-arms-reach-out-further-than-we-thought\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Um novo resultado usando o Observatório de Raios-X Chandra da NASA mostra que os braços espirais externos da Via Láctea podem ser mais largos do que se pensava anteriormente. Esta descoberta pode levar os astrónomos a ajustar a sua compreensão da nossa galáxia natal. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um novo resultado usando o Observatório de Raios-X Chandra da NASA mostra que os braços espirais externos da Via Láctea podem ser mais largos do que se pensava anteriormente. Utilizando o Observatório de Raios-X Chandra da NASA e o satélite XMM-Newton da ESA, uma equipa de astrónomos fez recentemente medições precisas da distância até às nuvens de.</p><p>Os resultados são descritos em um novo artigo publicado na revista Astronomy &amp; Astrophysics. As medições de distância da equipa basearam-se numa técnica que utiliza ecos de luz, onde observaram anéis criados por explosões de raios gama (GRBs) ricocheteando em nuvens de.</p><p>Os diâmetros dos anéis nos raios X fornecem medições de distância, com anéis maiores sendo gerados por nuvens de poeira mais próximas de nós. Em ordem de distância do Centro Galáctico, são os braços Perseus e Outer Scutum-Centaurus.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-milky-ways-arms-reach-out-further-than-we-thought\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A new result using NASA’s Chandra X-ray Observatory shows that the outer spiral arms in the Milky Way galaxy may reach wider than previously thought. This finding may lead astronomers to adjust their understanding of our home galaxy’s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A new result using NASA’s Chandra X-ray Observatory shows that the outer spiral arms in the Milky Way galaxy may reach wider than previously thought. Using NASA&#x27;s Chandra X-ray Observatory and ESA&#x27;s XMM-Newton satellite, a team of astronomers recently made precise distance measurements to dust clouds in the Milky Way’s spiral.</p><p>The results are described in a new paper published in the journal Astronomy &amp; Astrophysics. The team&#x27;s distance measurements relied on a technique that utilizes light echoes, where they observed rings created by gamma-ray bursts (GRBs) bouncing off of dust clouds in the.</p><p>The diameters of the rings in X-rays provide distance measurements, with larger rings being generated by dust clouds closer to us. In order of distance from the Galactic Center, they are the Perseus and Outer Scutum-Centaurus arms.</p><p>In the latter two arms, the GRB shells they observed indicated that they are about 10% farther than originally thought. The data also led the team to estimate the diameter of the dust cloud in the most distant arm (3,500 light-years).</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>“We’re relying on the universe to provide us with these events, and so far, over 25 years, we’ve only found a handful that we can use,” added co-author Andrea Tiengo of IUSS Pavia. “That said, we will continue to be on the lookout for more.” Further Reading: NASA, Astronomy &amp; Astrophysics.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-milky-ways-arms-reach-out-further-than-we-thought\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Um novo resultado usando o Observatório de Raios-X Chandra da NASA mostra que os braços espirais externos da Via Láctea podem ser mais largos do que.",
-      "Dado-chave: Um novo resultado usando o Observatório de Raios-X Chandra da NASA mostra que os braços espirais externos da Via Láctea podem ser mais largos do.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Um novo resultado usando o Observatório de Raios-X Chandra da NASA mostra que os braços espirais externos da Via Láctea podem ser mais largos do que.",
-      "Dado-chave: Um novo resultado usando o Observatório de Raios-X Chandra da NASA mostra que os braços espirais externos da Via Láctea podem ser mais largos do.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A new result using NASA’s Chandra X-ray Observatory shows that the outer spiral arms in the Milky Way galaxy may reach wider than previously thought.",
-      "Key detail: A new result using NASA’s Chandra X-ray Observatory shows that the outer spiral arms in the Milky Way galaxy may reach wider than previously.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "08 jul 2026",
-    "date_pt": "08 jul 2026",
-    "date_en": "08 Jul 2026",
-    "time": "21h14",
-    "time_pt": "21h14",
-    "time_en": "21:14 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-08T21:14:54+00:00",
-    "lastModifiedIso": "2026-07-08T21:14:54+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Universe Today",
-      "Cosmos Week",
-      "Os braços da Via Láctea vão além do que pensávamos"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Universe Today",
-      "Cosmos Week",
-      "Os braços da Via Láctea vão além do que pensávamos"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Universe Today",
-      "Cosmos Week",
-      "The arms of the Milky Way go further than we thought"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/the-milky-ways-arms-reach-out-further-than-we-thought",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-milky-way-s-arms-reach-out-further-than-we-thought",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-milky-way-s-arms-reach-out-further-than-we-thought",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-milky-way-s-arms-reach-out-further-than-we-thought&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -1997,7 +2002,26 @@ window.postsData = [
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/exoplanet_wd_1856_b_artist_s_concept/27358511-2-eng-GB/Exoplanet_WD_1856_b_artist_s_concept_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/exoplanet_wd_1856_b_artist_s_concept/27358511-2-eng-GB/Exoplanet_WD_1856_b_artist_s_concept_article.jpg",
+        "caption": "Exoplaneta WD 1856 b (conceito artístico)",
+        "caption_pt": "Exoplaneta WD 1856 b (conceito artístico)",
+        "caption_en": "Exoplanet WD 1856 b (artist’s concept)",
+        "alt": "Exoplaneta WD 1856 b (conceito artístico)",
+        "alt_pt": "Exoplaneta WD 1856 b (conceito artístico)",
+        "alt_en": "Exoplanet WD 1856 b (artist’s concept)"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/exoplanet_wd_1856_b_nirspec_transmission_spectrum/27358558-1-eng-GB/Exoplanet_WD_1856_b_NIRSpec_transmission_spectrum_article.jpg",
+        "caption": "Espectro de transmissão do Exoplaneta WD 1856 b NIRSpec",
+        "caption_pt": "Espectro de transmissão do Exoplaneta WD 1856 b NIRSpec",
+        "caption_en": "Exoplanet WD 1856 b NIRSpec transmission spectrum",
+        "alt": "Espectro de transmissão do Exoplaneta WD 1856 b NIRSpec",
+        "alt_pt": "Espectro de transmissão do Exoplaneta WD 1856 b NIRSpec",
+        "alt_en": "Exoplanet WD 1856 b NIRSpec transmission spectrum"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Webb estuda como um planeta sobreviveu à morte de sua estrela",
@@ -2009,22 +2033,22 @@ window.postsData = [
     "excerpt": "Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando.",
     "excerpt_pt": "Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando.",
     "excerpt_en": "An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet’s mass and temperature and even detecting its atmosphere.",
-    "body": "<p>Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando a sua atmosfera. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os resultados são a nossa primeira janela para o futuro dos planetas. Eles descobriram que o planeta é significativamente mais quente do que o esperado e determinaram como provavelmente atingiu a sua órbita muito estreita em torno da estrela, uma.</p><p>Os resultados são a nossa primeira janela para o futuro de planetas como Júpiter após a morte do Sol, daqui a milhares de milhões de anos.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando a sua atmosfera. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os resultados são a nossa primeira janela para o futuro dos planetas. Eles descobriram que o planeta é significativamente mais quente do que o esperado e determinaram como provavelmente atingiu a sua órbita muito estreita em torno da estrela, uma.</p><p>Os resultados são a nossa primeira janela para o futuro de planetas como Júpiter após a morte do Sol, daqui a milhares de milhões de anos.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet’s mass and temperature and even detecting its atmosphere. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. The results are our first window into the future of planets. They found that the planet is significantly warmer than expected and determined how it most likely reached its very tight orbit around the star, a white dwarf.</p><p>The results are our first window into the future of planets like Jupiter after the death of the Sun, billions of years into the future.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando a sua atmosfera. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os resultados foram publicados em 1º de julho de 2026 na revista Nature. WD 1856 b foi descoberto em 2020 por cientistas usando o Transiting Exoplanet Survey Satellite (TESS) da NASA e o Telescópio Espacial Spitzer, orbitando a anã branca chamada WD.</p><p>O planeta tem aproximadamente o tamanho de Júpiter, mas a anã branca que orbita é do tamanho da Terra, por isso o planeta é sete vezes maior que a sua estrela,&quot; disse o principal. WD 1856 b orbita extremamente perto de sua estrela hospedeira, a uma distância 50 vezes mais próxima do que a Terra orbita o Sol.</p><p>Os dados indicaram que o planeta tem uma temperatura de cerca de 126 °C, significativamente mais quente do que seria se a sua única fonte de calor fosse a luz da anã branca.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando a sua atmosfera. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os resultados foram publicados em 1º de julho de 2026 na revista Nature. WD 1856 b foi descoberto em 2020 por cientistas usando o Transiting Exoplanet Survey Satellite (TESS) da NASA e o Telescópio Espacial Spitzer, orbitando a anã branca chamada WD.</p><p>O planeta tem aproximadamente o tamanho de Júpiter, mas a anã branca que orbita é do tamanho da Terra, por isso o planeta é sete vezes maior que a sua estrela,&quot; disse o principal. WD 1856 b orbita extremamente perto de sua estrela hospedeira, a uma distância 50 vezes mais próxima do que a Terra orbita o Sol.</p><p>Os dados indicaram que o planeta tem uma temperatura de cerca de 126 °C, significativamente mais quente do que seria se a sua única fonte de calor fosse a luz da anã branca.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet’s mass and temperature and even detecting its atmosphere. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. The results were published on 1 July 2026 in the journal Nature. WD 1856 b was discovered in 2020 by scientists using NASA&#x27;s Transiting Exoplanet Survey Satellite (TESS) and the Spitzer Space Telescope, orbiting the white dwarf named WD.</p><p>The planet is about the size of Jupiter, but the white dwarf it orbits is the size of Earth, so the planet is seven times larger than its star,&quot; said lead author Ryan MacDonald of. WD 1856 b orbits extremely close to its host star, at a distance 50 times closer than Earth orbits the Sun.</p><p>The data indicated that the planet has a temperature of about 126 °C, significantly hotter than it would be if its only source of heat was the light from the white dwarf. The white dwarf is part of a triple star system, and the outer companion stars could have influenced WD 1856 b’s orbit.&quot; The researchers realised that there was no source of.</p><p>Using models of how sub-stellar objects like WD 1856 b cool down over time, coupled with the new data from Webb about the planet’s mass and its current temperature, the team was. Light from the star passing through the planet’s atmosphere also picked up information about its chemical composition.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>We recently observed four more transits of WD 1856 b with Webb to take a deeper look into its atmospheric chemistry and can’t wait to see the results.&quot; In approximately five. It&#x27;s like using a time machine to peer into the distant future of our Solar System.&quot; A transit occurs when a planet passes in front of the star it is orbiting from our point of.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de.",
-      "Dado-chave: Os resultados são a nossa primeira janela para o futuro dos planetas.",
+      "Dado-chave: Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de.",
-      "Dado-chave: Os resultados são a nossa primeira janela para o futuro dos planetas.",
+      "Dado-chave: Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its.",
-      "Key detail: The results are our first window into the future of planets.",
+      "Key detail: An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "01 jul 2026",
@@ -3012,7 +3036,35 @@ window.postsData = [
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_miri_image/27358464-1-eng-GB/Centaurus_A_MIRI_image_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_miri_image/27358464-1-eng-GB/Centaurus_A_MIRI_image_article.jpg",
+        "caption": "Centauro A (imagem MIRI)",
+        "caption_pt": "Centauro A (imagem MIRI)",
+        "caption_en": "Centaurus A (MIRI image)",
+        "alt": "Centauro A (imagem MIRI)",
+        "alt_pt": "Centauro A (imagem MIRI)",
+        "alt_en": "Centaurus A (MIRI image)"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_miri_and_nircam_image/27358605-1-eng-GB/Centaurus_A_MIRI_and_NIRCam_image_article.jpg",
+        "caption": "Centaurus A (imagem MIRI e NIRCam)",
+        "caption_pt": "Centaurus A (imagem MIRI e NIRCam)",
+        "caption_en": "Centaurus A (MIRI and NIRCam image)",
+        "alt": "Centaurus A (imagem MIRI e NIRCam)",
+        "alt_pt": "Centaurus A (imagem MIRI e NIRCam)",
+        "alt_en": "Centaurus A (MIRI and NIRCam image)"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_ground-based_context/27359451-1-eng-GB/Centaurus_A_ground-based_context_article.jpg",
+        "caption": "Centaurus A: contexto terrestre",
+        "caption_pt": "Centaurus A: contexto terrestre",
+        "caption_en": "Centaurus A: ground-based context",
+        "alt": "Centaurus A: contexto terrestre",
+        "alt_pt": "Centaurus A: contexto terrestre",
+        "alt_en": "Centaurus A: ground-based context"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Webb revela milhões de estrelas em galáxia próxima",
@@ -3024,22 +3076,22 @@ window.postsData = [
     "excerpt": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes.",
     "excerpt_pt": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes.",
     "excerpt_en": "In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented.",
-    "body": "<p>Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A sensibilidade sem precedentes de Webb nos comprimentos de onda do infravermelho próximo e médio corta as espessas faixas de poeira que obscurecem o centro de Centaurus A na luz. Estas imagens marcam quatro anos de desempenho melhor do que o esperado e operações científicas bem-sucedidas para o telescópio espacial mais poderoso da história.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A sensibilidade sem precedentes de Webb nos comprimentos de onda do infravermelho próximo e médio corta as espessas faixas de poeira que obscurecem o centro de Centaurus A na luz. Estas imagens marcam quatro anos de desempenho melhor do que o esperado e operações científicas bem-sucedidas para o telescópio espacial mais poderoso da história.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A’s centre in visible light, showing a. These images mark four years of better-than-anticipated performance and successful science operations for the most powerful space telescope in history.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Estas imagens marcam quatro anos de desempenho melhor do que o esperado e operações científicas bem-sucedidas para o telescópio espacial mais poderoso da história. Centaurus A (também conhecido como NGC 5128) está a 11 milhões de anos-luz de distância da Terra, relativamente próximo em termos cósmicos.</p><p>As observações de luz visível do Telescópio Espacial Hubble da NASA/ESA não conseguiram revelar a região central onde a poeira bloqueava a visão, enquanto o Telescópio Espacial. Cada estrela revelada ajuda a reconstruir quando ocorreram diferentes eventos: quando as estrelas mais velhas se formaram pela primeira vez, quando a atividade abrandou, uma.</p><p>O quarto ano de operações científicas de Webb proporcionou mais ciência e descobertas inovadoras em lugares de todo o Universo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Estas imagens marcam quatro anos de desempenho melhor do que o esperado e operações científicas bem-sucedidas para o telescópio espacial mais poderoso da história. Centaurus A (também conhecido como NGC 5128) está a 11 milhões de anos-luz de distância da Terra, relativamente próximo em termos cósmicos.</p><p>As observações de luz visível do Telescópio Espacial Hubble da NASA/ESA não conseguiram revelar a região central onde a poeira bloqueava a visão, enquanto o Telescópio Espacial. Cada estrela revelada ajuda a reconstruir quando ocorreram diferentes eventos: quando as estrelas mais velhas se formaram pela primeira vez, quando a atividade abrandou, uma.</p><p>O quarto ano de operações científicas de Webb proporcionou mais ciência e descobertas inovadoras em lugares de todo o Universo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. These images mark four years of better-than-anticipated performance and successful science operations for the most powerful space telescope in history. Centaurus A (also known as NGC 5128) is 11 million light-years away from Earth, relatively close in cosmic terms.</p><p>Visible light observations from the NASA/ESA Hubble Space Telescope could not reveal the central region where dust blocked the view, while NASA’s retired Spitzer Space Telescope. Each star revealed helps to reconstruct when different events happened: when older stars first formed, when activity slowed down, a burst of star formation during the collision.</p><p>The fourth year of Webb’s science operations has delivered further groundbreaking science and discoveries from places across the Universe. New evidence for a planet orbiting Alpha Centauri, just four light-years away from our Sun.</p><p>In the early Universe, Webb revealed a black hole that formed before its galaxy did, providing new evidence for how supermassive black holes originated, and identified a supernova. Researchers presented the strongest evidence yet that some of the “little red dots” discovered by Webb in 2022 are rapidly growing black holes enveloped in dense gas cocoons.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Webb also took a fresh look at the Hubble Ultra Deep Field, resulting in a new view that reveals thousands of distant galaxies dating back to the earliest periods of cosmic. Webb and Hubble also joined forces to share the most comprehensive view of Saturn to date, showing layers and storms in its atmosphere.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar.",
-      "Dado-chave: A sensibilidade sem precedentes de Webb nos comprimentos de onda do infravermelho próximo e médio corta as espessas faixas de poeira que.",
+      "Dado-chave: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar.",
-      "Dado-chave: A sensibilidade sem precedentes de Webb nos comprimentos de onda do infravermelho próximo e médio corta as espessas faixas de poeira que.",
+      "Dado-chave: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into.",
-      "Key detail: Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A’s.",
+      "Key detail: In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "06 jul 2026",
@@ -3117,7 +3169,26 @@ window.postsData = [
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/xmm-newton_chandra_revised_distance_to_outer_spiral_arms_no_lines/27355527-6-eng-GB/XMM-Newton_Chandra_revised_distance_to_outer_spiral_arms_no_lines_card_full.gif",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/xmm-newton_chandra_revise_distance_to_the_outer_spiral_arms/27347970-3-eng-GB/XMM-Newton_Chandra_revise_distance_to_the_outer_spiral_arms_article.jpg",
+        "caption": "Mapeando a galáxia Via Láctea",
+        "caption_pt": "Mapeando a galáxia Via Láctea",
+        "caption_en": "Mapping the Milky Way galaxy",
+        "alt": "Mapeando a galáxia Via Láctea",
+        "alt_pt": "Mapeando a galáxia Via Láctea",
+        "alt_en": "Mapping the Milky Way galaxy"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/xmm-newton_chandra_revise_distance_to_the_outer_spiral_arms_animation/27355046-1-eng-GB/XMM-Newton_Chandra_revise_distance_to_the_outer_spiral_arms_animation_article.gif",
+        "caption": "XMM-Newton e Chandra revisam a distância até os braços espirais externos (animação)",
+        "caption_pt": "XMM-Newton e Chandra revisam a distância até os braços espirais externos (animação)",
+        "caption_en": "XMM-Newton & Chandra revise distance to the outer spiral arms (animation)",
+        "alt": "XMM-Newton e Chandra revisam a distância até os braços espirais externos (animação)",
+        "alt_pt": "XMM-Newton e Chandra revisam a distância até os braços espirais externos (animação)",
+        "alt_en": "XMM-Newton & Chandra revise distance to the outer spiral arms (animation)"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "XMM-Newton ajuda a revisar a distância até os braços espirais externos",
@@ -3129,9 +3200,9 @@ window.postsData = [
     "excerpt": "Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles.",
     "excerpt_pt": "Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles.",
     "excerpt_en": "The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing through the outer spiral arms of our galaxy, the Milky Way. By measuring the distance to these.",
-    "body": "<p>Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Ao medir a distância a estes ecos, eles descobriram que os braços exteriores estão até 10% mais distantes do que pensávamos.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Ao medir a distância a estes ecos, eles descobriram que os braços exteriores estão até 10% mais distantes do que pensávamos.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing through the outer spiral arms of our galaxy, the Milky Way. By measuring the distance to these. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. By measuring the distance to these echoes, they find the outer arms to be up to 10% further away than we thought.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Ao medir a distância a estes ecos, eles descobriram que os braços exteriores estão até 10% mais distantes do que pensávamos. Aprendemos muito desde o lançamento do telescópio espacial Gaia da ESA.</p><p>Agora, outra missão da ESA encontrou uma nova forma de mapear as extremidades da nossa galáxia. Estas explosões lançaram raios X que ecoaram através de vários braços externos da Via Láctea, e medimos diretamente as distâncias a esses ecos.” A luz de raios X foi emitida por.</p><p>Além de confirmar a distância conhecida ao braço de Perseu, os cientistas descobriram que dois dos braços da galáxia Via Láctea, Braço Externo Scutum-Centaurus e Braço Externo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Ao medir a distância a estes ecos, eles descobriram que os braços exteriores estão até 10% mais distantes do que pensávamos. Aprendemos muito desde o lançamento do telescópio espacial Gaia da ESA.</p><p>Agora, outra missão da ESA encontrou uma nova forma de mapear as extremidades da nossa galáxia. Estas explosões lançaram raios X que ecoaram através de vários braços externos da Via Láctea, e medimos diretamente as distâncias a esses ecos.” A luz de raios X foi emitida por.</p><p>Além de confirmar a distância conhecida ao braço de Perseu, os cientistas descobriram que dois dos braços da galáxia Via Láctea, Braço Externo Scutum-Centaurus e Braço Externo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing through the outer spiral arms of our galaxy, the Milky Way. By measuring the distance to these. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. By measuring the distance to these echoes, they find the outer arms to be up to 10% further away than we thought. We’ve learnt a huge amount since the launch of ESA’s star-surveying Gaia space telescope.</p><p>Now, another of ESA&#x27;s missions has found a new way to map the extremities of our galaxy. These explosions flung out X-rays that echoed through several of the Milky Way’s outer arms, and we measured the distances to these echoes directly.” X-ray light was thrown out by.</p><p>Besides confirming the known distance to the Perseus arm, the scientists found that two of the Milky Way galaxy’s arms, Outer Scutum-Centaurus Arm and Outer Arm, lie up to 10%. While ESA’s Gaia has revolutionised our understanding of the Milky Way galaxy, the distance measurements available so far from the telescope are less precise for the outer arms.</p><p>“This finding is a great example of how ESA’s longer-standing missions, such as XMM-Newton, which launched in 1999, still have a hugely important role to play in exploring the. “Now in its third decade, XMM-Newton continues to return a steady stream of groundbreaking science on everything from the brightest-ever GRB, to stars being shredded by black.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Alongside ever more detailed data from Gaia’s fourth and fifth data releases (planned for December 2026 and after the end of 2030, respectively), ESA’s next generation X-ray. The researchers combined observations of GRBs 221009A (spotted in 2022), 160623A (2016), and 031203 (2003).</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes.",
       "Dado-chave: Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões.",
@@ -3745,7 +3816,7 @@ window.postsData = [
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -4029,6 +4100,139 @@ window.postsData = [
   },
   {
     "id": 33,
+    "slug": "another-success-for-hayabusa-2-as-it-completes-a-flyby-of-asteroid-torifune",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.universetoday.com/article_images/20260706-3-01_20260707_193904.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/1280px-Hayabusa2_Torifune_trajectory_inverted_20260707_194702.jpg",
+        "caption": "Estas são duas maneiras diferentes de visualizar Hayabusa 2 e o asteróide Torifune. O painel esquerdo mostra uma vista em um quadro que gira com a Terra",
+        "caption_pt": "Estas são duas maneiras diferentes de visualizar Hayabusa 2 e o asteróide Torifune. O painel esquerdo mostra uma vista em um quadro que gira com a Terra",
+        "caption_en": "These are two different top-down ways of envisioning Hayabusa 2 and asteroid Torifune. The left panel shows a view in a frame that rotates with Earth",
+        "alt": "Estas são duas maneiras diferentes de visualizar Hayabusa 2 e o asteróide Torifune. O painel esquerdo mostra uma vista em um quadro que gira com a Terra",
+        "alt_pt": "Estas são duas maneiras diferentes de visualizar Hayabusa 2 e o asteróide Torifune. O painel esquerdo mostra uma vista em um quadro que gira com a Terra",
+        "alt_en": "These are two different top-down ways of envisioning Hayabusa 2 and asteroid Torifune. The left panel shows a view in a frame that rotates with Earth"
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/20260706-3-02_20260707_194358.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Outro sucesso para Hayabusa 2 ao completar um sobrevôo do asteróide Torifune",
+    "title_pt": "Outro sucesso para Hayabusa 2 ao completar um sobrevôo do asteróide Torifune",
+    "title_en": "Another Success for Hayabusa 2 as it Completes a Flyby of Asteroid Torifune",
+    "sub": "Hayabusa 2 da JAXA completou seu sobrevôo pelo asteroide Torifune. A espaçonave chegou a cerca de 800 metros da superfície do asteroide. Embora a espaçonave esteja viajando muito.",
+    "sub_pt": "Hayabusa 2 da JAXA completou seu sobrevôo pelo asteroide Torifune. A espaçonave chegou a cerca de 800 metros da superfície do asteroide. Embora a espaçonave esteja viajando muito.",
+    "sub_en": "JAXA's Hayabusa 2 has completed its flyby of asteroid Torifune. The spacecraft came within about 800 meters of the asteroid's surface. Though the spacecraft is travelling very.",
+    "excerpt": "Hayabusa 2 da JAXA completou seu sobrevôo pelo asteroide Torifune. A espaçonave chegou a cerca de 800 metros da superfície do asteroide. Embora a espaçonave esteja viajando muito rapidamente, tornando a navegação um desafio, ela ainda consegue fazê-lo.",
+    "excerpt_pt": "Hayabusa 2 da JAXA completou seu sobrevôo pelo asteroide Torifune. A espaçonave chegou a cerca de 800 metros da superfície do asteroide. Embora a espaçonave esteja viajando muito rapidamente, tornando a navegação um desafio, ela ainda consegue fazê-lo.",
+    "excerpt_en": "JAXA's Hayabusa 2 has completed its flyby of asteroid Torifune. The spacecraft came within about 800 meters of the asteroid's surface. Though the spacecraft is travelling very rapidly, making navigation challenging, it was still able to.",
+    "body": "<p>Hayabusa 2 da JAXA completou seu sobrevôo pelo asteroide Torifune. A espaçonave chegou a cerca de 800 metros da superfície do asteroide. Embora a espaçonave esteja viajando muito rapidamente, tornando a navegação um desafio, ela ainda consegue fazê-lo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão principal da Hayabusa 2 está no passado, agora. A espaçonave de amostragem de asteroides da JAXA se encontrou com o asteroide Ryugu em junho de 2018.</p><p>Estudou o asteróide durante 1,5 anos e recolheu uma amostra que foi devolvida à Terra em dezembro de 2020. Está a caminho de visitar um pequeno asteroide chamado 1998 KY 26, um objeto próximo da Terra (NEO) com apenas cerca de 11 metros de diâmetro.</p><p>Observações terrestres mostraram que Torifune é um asteroide próximo da Terra (NEA) medindo cerca de 450 metros de diâmetro. Hayabusa 2 começou a observar o Torifune em junho com sua Câmera de Navegação Óptica, Telescópica (ONC-T).</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/another-success-for-hayabusa-2-as-it-completes-a-flyby-of-asteroid-torifune\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Hayabusa 2 da JAXA completou seu sobrevôo pelo asteroide Torifune. A espaçonave chegou a cerca de 800 metros da superfície do asteroide. Embora a espaçonave esteja viajando muito rapidamente, tornando a navegação um desafio, ela ainda consegue fazê-lo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão principal da Hayabusa 2 está no passado, agora. A espaçonave de amostragem de asteroides da JAXA se encontrou com o asteroide Ryugu em junho de 2018.</p><p>Estudou o asteróide durante 1,5 anos e recolheu uma amostra que foi devolvida à Terra em dezembro de 2020. Está a caminho de visitar um pequeno asteroide chamado 1998 KY 26, um objeto próximo da Terra (NEO) com apenas cerca de 11 metros de diâmetro.</p><p>Observações terrestres mostraram que Torifune é um asteroide próximo da Terra (NEA) medindo cerca de 450 metros de diâmetro. Hayabusa 2 começou a observar o Torifune em junho com sua Câmera de Navegação Óptica, Telescópica (ONC-T).</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/another-success-for-hayabusa-2-as-it-completes-a-flyby-of-asteroid-torifune\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>JAXA&#x27;s Hayabusa 2 has completed its flyby of asteroid Torifune. The spacecraft came within about 800 meters of the asteroid&#x27;s surface. Though the spacecraft is travelling very rapidly, making navigation challenging, it was still able to. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Hayabusa 2&#x27;s primary mission is well in the past, now. JAXA&#x27;s asteroid sampling spacecraft rendezvoused with asteroid Ryugu back in June 2018.</p><p>It studied the asteroid for 1.5 years and gathered a sample which was returned to Earth in December 2020. It&#x27;s on its way to visit a tiny asteroid called 1998 KY 26, a near-Earth object (NEO) only about 11 meters in diameter.</p><p>Ground-based observations showed that Torifune is a near-Earth asteroid (NEA) measuring about 450 meters in diameter. Hayabusa 2 began looking at Torifune in June with its Optical Navigation Camera, Telescopic (ONC-T).</p><p>Beginning at about one hour before closest approach, Hayabusa 2 also observed Torifune with its other instruments, the NIRS3 (Near-Infrared Spectrometer), TIR (Thermal InfraRed. It has less than half of its xenon propellant remaining, enough to power its ion thrusters to meet Torifune and 1998 KY 26, but not enough for any extra maneuvers.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Hayabusa 2&#x27;s next milestone will be in December 2027 when it swings past Earth. Then in June 2028, it will swing by Earth again.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/another-success-for-hayabusa-2-as-it-completes-a-flyby-of-asteroid-torifune\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Hayabusa 2 da JAXA completou seu sobrevôo pelo asteroide Torifune. A espaçonave chegou a cerca de 800 metros da superfície do asteroide. Embora a.",
+      "Dado-chave: A missão principal da Hayabusa 2 está no passado, agora.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Hayabusa 2 da JAXA completou seu sobrevôo pelo asteroide Torifune. A espaçonave chegou a cerca de 800 metros da superfície do asteroide. Embora a.",
+      "Dado-chave: A missão principal da Hayabusa 2 está no passado, agora.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: JAXA's Hayabusa 2 has completed its flyby of asteroid Torifune. The spacecraft came within about 800 meters of the asteroid's surface. Though the.",
+      "Key detail: Hayabusa 2's primary mission is well in the past, now.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "07 jul 2026",
+    "date_pt": "07 jul 2026",
+    "date_en": "07 Jul 2026",
+    "time": "20h21",
+    "time_pt": "20h21",
+    "time_en": "20:21 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-07T20:21:53+00:00",
+    "lastModifiedIso": "2026-07-07T20:21:53+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "Outro sucesso para Hayabusa 2 ao completar um sobrevôo do asteróide Torifune"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "Outro sucesso para Hayabusa 2 ao completar um sobrevôo do asteróide Torifune"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Universe Today",
+      "Cosmos Week",
+      "Another success for Hayabusa 2 as it completes a flyby of the asteroid Torifune"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/another-success-for-hayabusa-2-as-it-completes-a-flyby-of-asteroid-torifune",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=another-success-for-hayabusa-2-as-it-completes-a-flyby-of-asteroid-torifune",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=another-success-for-hayabusa-2-as-it-completes-a-flyby-of-asteroid-torifune",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=another-success-for-hayabusa-2-as-it-completes-a-flyby-of-asteroid-torifune&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 34,
     "slug": "the-world-cup-from-250-miles-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4151,17 +4355,17 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 77,
+    "score": 76,
     "scoreBreakdown": {
       "source": 94,
       "evidence": 88,
       "relevance": 70,
       "accessibility": 60,
-      "novelty": 52
+      "novelty": 49
     }
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "steamy-nights-at-the-galactic-equator",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4294,7 +4498,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "did-a-passing-star-shower-us-with-comets",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4427,7 +4631,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "nearby-super-earth-gj-3378b-may-be-a-good-candidate-for-life",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -4545,7 +4749,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "hayabusa-2-completes-flyby-past-asteroid-torifune",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4678,7 +4882,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 39,
     "slug": "puffiest-exoplanets-yet-found-are-as-dense-as-cotton-candy",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -4793,40 +4997,12 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 40,
     "slug": "unpacking-europe-s-new-weather-imagers",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mtg-i2_is_unboxed_at_europe_s_spaceport/27366685-2-eng-GB/MTG-I2_is_unboxed_at_Europe_s_Spaceport_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/first_view_of_mtg-i2_since_leaving_europe/27366732-2-eng-GB/First_view_of_MTG-I2_since_leaving_Europe_article.jpg",
-        "caption": "O MTG-I2 foi retirado de sua caixa protetora no Porto Espacial Europeu na Guiana Francesa",
-        "caption_pt": "O MTG-I2 foi retirado de sua caixa protetora no Porto Espacial Europeu na Guiana Francesa",
-        "caption_en": "MTG-I2 was taken out of its protective casing at Europe’s Spaceport in French Guiana",
-        "alt": "O MTG-I2 foi retirado de sua caixa protetora no Porto Espacial Europeu na Guiana Francesa",
-        "alt_pt": "O MTG-I2 foi retirado de sua caixa protetora no Porto Espacial Europeu na Guiana Francesa",
-        "alt_en": "MTG-I2 was taken out of its protective casing at Europe’s Spaceport in French Guiana"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/mtg-i2_pushed_into_place_for_final_environmental_tests/27173507-1-eng-GB/MTG-I2_pushed_into_place_for_final_environmental_tests_article.jpg",
-        "caption": "MTG-I2 colocado em prática para testes ambientais finais",
-        "caption_pt": "MTG-I2 colocado em prática para testes ambientais finais",
-        "caption_en": "MTG-I2 pushed into place for final environmental tests",
-        "alt": "MTG-I2 colocado em prática para testes ambientais finais",
-        "alt_pt": "MTG-I2 colocado em prática para testes ambientais finais",
-        "alt_en": "MTG-I2 pushed into place for final environmental tests"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/05/24-hours_over_europe/24861981-1-eng-GB/24-hours_over_Europe_article.gif",
-        "caption": "24 horas na Europa",
-        "caption_pt": "24 horas na Europa",
-        "caption_en": "24-hours over Europe",
-        "alt": "24 horas na Europa",
-        "alt_pt": "24 horas na Europa",
-        "alt_en": "24-hours over Europe"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Desvendando os novos sensores meteorológicos da Europa",
@@ -4838,22 +5014,22 @@ window.postsData = [
     "excerpt": "O segundo satélite Meteosat Third Generation Imager iniciou a sua campanha de lançamento, durante a qual passará pelas inspecções finais antes de ser instalado na carenagem do foguetão Ariane 6 que o lançará ao espaço em direcção ao.",
     "excerpt_pt": "O segundo satélite Meteosat Third Generation Imager iniciou a sua campanha de lançamento, durante a qual passará pelas inspecções finais antes de ser instalado na carenagem do foguetão Ariane 6 que o lançará ao espaço em direcção ao.",
     "excerpt_en": "The second Meteosat Third Generation Imager satellite has begun its launch campaign, during which it will go through final inspections before being fitted inside the fairing of the Ariane 6 rocket that will launch it into space towards the.",
-    "body": "<p>O segundo satélite Meteosat Third Generation Imager iniciou a sua campanha de lançamento, durante a qual passará pelas inspecções finais antes de ser instalado na carenagem do foguetão Ariane 6 que o lançará ao espaço em direcção ao. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O MTG-I2 foi retirado ontem da sua caixa protetora no Porto Espacial Europeu, na Guiana Francesa, e as equipes no terreno estão prontas para iniciar as semanas de testes e. Por fim, o satélite e seu adaptador serão ‘encapsulados’, ou firmemente encaixados, dentro da carenagem (módulo superior) do foguete Ariane 6, prontos para o lançamento.</p><p>James Champion, Gestor de Projecto MTG da ESA, disse: “Foram necessários mais de 15 anos de trabalho extremamente árduo para criar os sistemas e a tecnologia para este satélite de. A partir de 2033, o segundo lote de satélites MTG será lançado em sequência para prolongar a duração da missão.</p><p>Esta é uma órbita que por vezes é comparada a uma posição de “olho de falcão”, porque os satélites seguem o mesmo ponto na superfície da Terra à medida que esta roda, observando. Este serviço entrará em vigor assim que a Eumetsat, com o apoio da ESA e das equipas industriais, tiver concluído o comissionamento do satélite MTG-I2 e do seu segmento terrestre.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Unpacking_Europe_s_new_weather_imagers\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O segundo satélite Meteosat Third Generation Imager iniciou a sua campanha de lançamento, durante a qual passará pelas inspecções finais antes de ser instalado na carenagem do foguetão Ariane 6 que o lançará ao espaço em direcção ao. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O MTG-I2 foi retirado ontem da sua caixa protetora no Porto Espacial Europeu, na Guiana Francesa, e as equipes no terreno estão prontas para iniciar as semanas de testes e. Por fim, o satélite e seu adaptador serão ‘encapsulados’, ou firmemente encaixados, dentro da carenagem (módulo superior) do foguete Ariane 6, prontos para o lançamento.</p><p>James Champion, Gestor de Projecto MTG da ESA, disse: “Foram necessários mais de 15 anos de trabalho extremamente árduo para criar os sistemas e a tecnologia para este satélite de. A partir de 2033, o segundo lote de satélites MTG será lançado em sequência para prolongar a duração da missão.</p><p>Esta é uma órbita que por vezes é comparada a uma posição de “olho de falcão”, porque os satélites seguem o mesmo ponto na superfície da Terra à medida que esta roda, observando. Este serviço entrará em vigor assim que a Eumetsat, com o apoio da ESA e das equipas industriais, tiver concluído o comissionamento do satélite MTG-I2 e do seu segmento terrestre.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Unpacking_Europe_s_new_weather_imagers\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The second Meteosat Third Generation Imager satellite has begun its launch campaign, during which it will go through final inspections before being fitted inside the fairing of the Ariane 6 rocket that will launch it into space towards the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. MTG-I2 was taken out of its protective casing at Europe’s Spaceport in French Guiana yesterday and the teams on the ground are ready to begin the weeks of testing and inspection. Finally, the satellite and its adapter will be ‘encapsulated’, or firmly fitted, inside the fairing (upper module) of the Ariane 6 rocket, ready for launch.</p><p>James Champion, ESA’s MTG Project Manager, said, “It has taken more than 15 years of extremely hard work to create the systems and technology for this next-generation satellite. From 2033, the second batch of MTG satellites will be launched in sequence to extend the mission’s duration.</p><p>This is an orbit that is sometimes compared to a ‘hawk’s eye’ position because the satellites follow the same point on Earth’s surface as it rotates, observing detail from a great. This service will come into effect once Eumetsat, with the support of ESA and the industrial teams, has completed the commissioning of both the MTG-I2 satellite and its ground.</p><p>It provides precise information about Earth’s atmosphere and surface environments, from clouds to water vapour, and from oceans to local fires. When it was launched on the first MTG-I in 2022, it was the first of its kind in Europe.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>We look forward to the next steps and to the continuation of ESA’s excellent contributions together with its European partners.” The next steps for the MTG-I2 satellite. Launch is scheduled for August 2026, with a date to be announced within the next few weeks.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Unpacking_Europe_s_new_weather_imagers\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>O segundo satélite Meteosat Third Generation Imager iniciou a sua campanha de lançamento, durante a qual passará pelas inspecções finais antes de ser instalado na carenagem do foguetão Ariane 6 que o lançará ao espaço em direcção ao. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O segundo satélite Meteosat Third Generation Imager (MTG-I2) iniciou a sua campanha de lançamento, durante a qual passará pelas inspecções finais antes de ser instalado na. Então, como é que este satélite de 3800 kg ajudará a melhorar as previsões meteorológicas para a Europa e o Norte de África.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Unpacking_Europe_s_new_weather_imagers\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O segundo satélite Meteosat Third Generation Imager iniciou a sua campanha de lançamento, durante a qual passará pelas inspecções finais antes de ser instalado na carenagem do foguetão Ariane 6 que o lançará ao espaço em direcção ao. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O segundo satélite Meteosat Third Generation Imager (MTG-I2) iniciou a sua campanha de lançamento, durante a qual passará pelas inspecções finais antes de ser instalado na. Então, como é que este satélite de 3800 kg ajudará a melhorar as previsões meteorológicas para a Europa e o Norte de África.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Unpacking_Europe_s_new_weather_imagers\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The second Meteosat Third Generation Imager satellite has begun its launch campaign, during which it will go through final inspections before being fitted inside the fairing of the Ariane 6 rocket that will launch it into space towards the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The second Meteosat Third Generation Imager satellite (MTG-I2) has begun its launch campaign, during which it will go through final inspections before being fitted inside the. So how will this 3800 kg satellite help improve weather forecasts for Europe and North Africa.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Unpacking_Europe_s_new_weather_imagers\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: O segundo satélite Meteosat Third Generation Imager iniciou a sua campanha de lançamento, durante a qual passará pelas inspecções finais antes de ser.",
-      "Dado-chave: O MTG-I2 foi retirado ontem da sua caixa protetora no Porto Espacial Europeu, na Guiana Francesa, e as equipes no terreno estão prontas para.",
+      "Dado-chave: O segundo satélite Meteosat Third Generation Imager (MTG-I2) iniciou a sua campanha de lançamento, durante a qual passará pelas inspecções.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: O segundo satélite Meteosat Third Generation Imager iniciou a sua campanha de lançamento, durante a qual passará pelas inspecções finais antes de ser.",
-      "Dado-chave: O MTG-I2 foi retirado ontem da sua caixa protetora no Porto Espacial Europeu, na Guiana Francesa, e as equipes no terreno estão prontas para.",
+      "Dado-chave: O segundo satélite Meteosat Third Generation Imager (MTG-I2) iniciou a sua campanha de lançamento, durante a qual passará pelas inspecções.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: The second Meteosat Third Generation Imager satellite has begun its launch campaign, during which it will go through final inspections before being.",
-      "Key detail: MTG-I2 was taken out of its protective casing at Europe’s Spaceport in French Guiana yesterday and the teams on the ground are ready to begin.",
+      "Key detail: The second Meteosat Third Generation Imager satellite (MTG-I2) has begun its launch campaign, during which it will go through final inspections.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "07 jul 2026",
@@ -4923,152 +5099,6 @@ window.postsData = [
       "relevance": 80,
       "accessibility": 60,
       "novelty": 52
-    }
-  },
-  {
-    "id": 40,
-    "slug": "viking-mission-resources",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia00/pia00381/PIA00381.jpg?w=1439&h=512&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia00/pia00563/PIA00563.tif?w=1024",
-        "caption": "Esta fotografia colorida de Marte foi tirada em 21 de julho de 1997, um dia após o Viking l da NASA pousar com sucesso no planeta vermelho.",
-        "caption_pt": "Esta fotografia colorida de Marte foi tirada em 21 de julho de 1997, um dia após o Viking l da NASA pousar com sucesso no planeta vermelho.",
-        "caption_en": "This color picture of Mars was taken July 21, 1997, the day following NASA's Viking l successfully landed on the red planet.",
-        "alt": "Esta fotografia colorida de Marte foi tirada em 21 de julho de 1997, um dia após o Viking l da NASA pousar com sucesso no planeta vermelho.",
-        "alt_pt": "Esta fotografia colorida de Marte foi tirada em 21 de julho de 1997, um dia após o Viking l da NASA pousar com sucesso no planeta vermelho.",
-        "alt_en": "This color picture of Mars was taken July 21, 1997, the day following NASA's Viking l successfully landed on the red planet."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia00/pia00396/PIA00396.jpg?w=1614&h=512&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "A primeira foto do Viking 2 da NASA na superfície de Marte foi tirada poucos minutos depois que a espaçonave pousou em 3 de setembro de 1976. A cena revela uma grande variedade de rochas espalhadas por uma superfície de depósitos de granulação fina.",
-        "caption_pt": "A primeira foto do Viking 2 da NASA na superfície de Marte foi tirada poucos minutos depois que a espaçonave pousou em 3 de setembro de 1976. A cena revela uma grande variedade de rochas espalhadas por uma superfície de depósitos de granulação fina.",
-        "caption_en": "NASA's Viking 2's first picture on the surface of Mars was taken within minutes after the spacecraft touched down on Sept. 3, 1976. The scene reveals a wide variety of rocks littering a surface of fine-grained deposit.",
-        "alt": "A primeira foto do Viking 2 da NASA na superfície de Marte foi tirada poucos minutos depois que a espaçonave pousou em 3 de setembro de 1976. A cena revela uma grande variedade de rochas espalhadas por uma superfície de depósitos de granulação fina.",
-        "alt_pt": "A primeira foto do Viking 2 da NASA na superfície de Marte foi tirada poucos minutos depois que a espaçonave pousou em 3 de setembro de 1976. A cena revela uma grande variedade de rochas espalhadas por uma superfície de depósitos de granulação fina.",
-        "alt_en": "NASA's Viking 2's first picture on the surface of Mars was taken within minutes after the spacecraft touched down on Sept. 3, 1976. The scene reveals a wide variety of rocks littering a surface of fine-grained deposit."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia00/pia00383/PIA00383.jpg?w=2497&h=512&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Primeira vista panorâmica da superfície de Marte feita pelo Viking 1 da NASA, tirada em 1976. Na borda direita há uma série de material liso e de granulação fina que mostra algum indício de estrutura ondulada e pode ser o início de um grande campo de dunas.",
-        "caption_pt": "Primeira vista panorâmica da superfície de Marte feita pelo Viking 1 da NASA, tirada em 1976. Na borda direita há uma série de material liso e de granulação fina que mostra algum indício de estrutura ondulada e pode ser o início de um grande campo de dunas.",
-        "caption_en": "First panoramic view by NASA's Viking 1 from the surface of Mars taken in 1976. Toward the right edge is an array of smooth fine-grained material which shows some hint of ripple structure and may be the beginning of a large dune field.",
-        "alt": "Primeira vista panorâmica da superfície de Marte feita pelo Viking 1 da NASA, tirada em 1976. Na borda direita há uma série de material liso e de granulação fina que mostra algum indício de estrutura ondulada e pode ser o início de um grande campo de dunas.",
-        "alt_pt": "Primeira vista panorâmica da superfície de Marte feita pelo Viking 1 da NASA, tirada em 1976. Na borda direita há uma série de material liso e de granulação fina que mostra algum indício de estrutura ondulada e pode ser o início de um grande campo de dunas.",
-        "alt_en": "First panoramic view by NASA's Viking 1 from the surface of Mars taken in 1976. Toward the right edge is an array of smooth fine-grained material which shows some hint of ripple structure and may be the beginning of a large dune field."
-      }
-    ],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://science.nasa.gov/wp-content/uploads/2024/07/jpl-19760131-vikings-0001-src001968-viking-mission-to-mars-trimmed.mp4",
-      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2008/02/382-viking-lander-pia09703.jpg?w=1116&h=900&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "Recursos da Missão Viking - Ciência da NASA",
-      "title_pt": "Recursos da Missão Viking - Ciência da NASA",
-      "title_en": "Viking Mission Resources - NASA Science",
-      "caption": "Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte.",
-      "caption_pt": "Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte.",
-      "caption_en": "A collection of images, videos, activities, and other downloadable resources about NASA's Viking 1 and 2 missions to Mars.",
-      "sourcePage": "https://science.nasa.gov/mars/resources/viking-mission-resources/"
-    },
-    "audio": null,
-    "title": "Recursos da Missão Viking",
-    "title_pt": "Recursos da Missão Viking",
-    "title_en": "Viking Mission Resources",
-    "sub": "Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão Viking apareceu pela primeira.",
-    "sub_pt": "Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão Viking apareceu pela primeira.",
-    "sub_en": "A collection of images, videos, activities, and other downloadable resources about NASA's Viking 1 and 2 missions to Mars. The post Viking Mission Resources appeared first on NASA.",
-    "excerpt": "Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão Viking apareceu pela primeira vez na NASA Science.",
-    "excerpt_pt": "Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão Viking apareceu pela primeira vez na NASA Science.",
-    "excerpt_en": "A collection of images, videos, activities, and other downloadable resources about NASA's Viking 1 and 2 missions to Mars. The post Viking Mission Resources appeared first on NASA Science.",
-    "body": "<p>Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão Viking apareceu pela primeira vez na NASA Science. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Veja mais Primeira imagem colorida Esta foto colorida de Marte foi tirada em 21 de julho de 1976, um dia após o pouso bem-sucedido da Viking 1 no planeta. Veja mais Primeira imagem do Viking 2 A primeira foto do Viking 2 na superfície de Marte depois que a espaçonave pousou em setembro.</p><p>Veja mais Primeiro Panorama A sonda Viking 1 produziu a primeira imagem panorâmica da superfície de Marte. Veja mais Amostragem da superfície Operação do amostrador de superfície na obtenção de solo marciano para o experimento de análise molecular Viking 2 da NASA.</p><p>Veja mais vídeo em destaque Missão Viking a Marte O vídeo em estilo retrô apresenta animação de uma das espaçonaves Viking da NASA a caminho de Marte e pousando lá em 1976. Veja mais Preparando o Aeroshell Técnicos preparando a cobertura do aeroshell que protegerá o módulo de pouso Viking 1 enquanto ele atravessa a atmosfera de Marte.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA Earth Observatory, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/mars/resources/viking-mission-resources/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão Viking apareceu pela primeira vez na NASA Science. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Veja mais Primeira imagem colorida Esta foto colorida de Marte foi tirada em 21 de julho de 1976, um dia após o pouso bem-sucedido da Viking 1 no planeta. Veja mais Primeira imagem do Viking 2 A primeira foto do Viking 2 na superfície de Marte depois que a espaçonave pousou em setembro.</p><p>Veja mais Primeiro Panorama A sonda Viking 1 produziu a primeira imagem panorâmica da superfície de Marte. Veja mais Amostragem da superfície Operação do amostrador de superfície na obtenção de solo marciano para o experimento de análise molecular Viking 2 da NASA.</p><p>Veja mais vídeo em destaque Missão Viking a Marte O vídeo em estilo retrô apresenta animação de uma das espaçonaves Viking da NASA a caminho de Marte e pousando lá em 1976. Veja mais Preparando o Aeroshell Técnicos preparando a cobertura do aeroshell que protegerá o módulo de pouso Viking 1 enquanto ele atravessa a atmosfera de Marte.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA Earth Observatory, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/mars/resources/viking-mission-resources/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A collection of images, videos, activities, and other downloadable resources about NASA&#x27;s Viking 1 and 2 missions to Mars. The post Viking Mission Resources appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. See More First Color Image This color picture of Mars was taken July 21, 1976, the day following Viking 1’s successful landing on the planet. See More Viking 2’s First Image Viking 2’s first picture on the surface of Mars after the spacecraft touched down on Sept.</p><p>See More First Panorama Viking 1 lander produced the first panorama image from Mars’s surface. See More Sampling the Surface Operation of the surface sampler in obtaining Martian soil for NASA’s Viking 2 molecular analysis experiment.</p><p>See More Featured Video Viking Mission to Mars Retro-style video features animation of one of NASA’s Viking spacecraft en route to Mars and landing there in 1976. See More Preparing the Aeroshell Technicians preparing the aeroshell cover that will protect the Viking 1 lander as it traverses Mars’s atmosphere.</p><p>Read More and Download To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video Viking and Mars Downloadables Scroll through. Retro Viking Download Mars Superstar Download Lander Silhouette Download First Soil Sample on Another Planet Download American Flag Download Orbiter and Lander Download Spirit of.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Future Download 40th Anniversary Medallion Download Keep Exploring Discover More Topics From NASA Viking Project Mars Orbiters &amp; Landers Viking 1 Viking 1 made the first truly. The Soviet Mars 3 lander claimed a technical first, but. Viking Spacecraft and Science Mars Exploration Mars is the only planet we know of inhabited entirely by robots.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/mars/resources/viking-mission-resources/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão.",
-      "Dado-chave: Veja mais Primeira imagem colorida Esta foto colorida de Marte foi tirada em 21 de julho de 1976, um dia após o pouso bem-sucedido da Viking 1.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão.",
-      "Dado-chave: Veja mais Primeira imagem colorida Esta foto colorida de Marte foi tirada em 21 de julho de 1976, um dia após o pouso bem-sucedido da Viking 1.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A collection of images, videos, activities, and other downloadable resources about NASA's Viking 1 and 2 missions to Mars. The post Viking Mission.",
-      "Key detail: See More First Color Image This color picture of Mars was taken July 21, 1976, the day following Viking 1’s successful landing on the planet.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "29 jun 2026",
-    "date_pt": "29 jun 2026",
-    "date_en": "29 Jun 2026",
-    "time": "23h30",
-    "time_pt": "23h30",
-    "time_en": "23:30 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-29T23:30:45+00:00",
-    "lastModifiedIso": "2026-06-29T23:30:45+00:00",
-    "source": "NASA Earth Observatory",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Recursos da Missão Viking"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Recursos da Missão Viking"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Viking Quest Features"
-    ],
-    "srcUrl": "https://science.nasa.gov/mars/resources/viking-mission-resources/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=viking-mission-resources",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=viking-mission-resources",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=viking-mission-resources&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 75,
-      "evidence": 88,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 46
     }
   }
 ];

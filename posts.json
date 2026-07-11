@@ -38,14 +38,14 @@
     "date": "11 jul 2026",
     "date_pt": "11 jul 2026",
     "date_en": "11 Jul 2026",
-    "time": "15h13",
-    "time_pt": "15h13",
-    "time_en": "15:13 UTC",
+    "time": "16h29",
+    "time_pt": "16h29",
+    "time_en": "16:29 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-11T15:13:03.759803+00:00",
-    "lastModifiedIso": "2026-07-11T15:13:03.759803+00:00",
+    "publishedIso": "2026-07-11T16:29:28.933462+00:00",
+    "lastModifiedIso": "2026-07-11T16:29:28.933462+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -146,14 +146,14 @@
     "date": "11 jul 2026",
     "date_pt": "11 jul 2026",
     "date_en": "11 Jul 2026",
-    "time": "15h13",
-    "time_pt": "15h13",
-    "time_en": "15:13 UTC",
+    "time": "16h29",
+    "time_pt": "16h29",
+    "time_en": "16:29 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-11T15:13:03.759752+00:00",
-    "lastModifiedIso": "2026-07-11T15:13:03.759752+00:00",
+    "publishedIso": "2026-07-11T16:29:28.933419+00:00",
+    "lastModifiedIso": "2026-07-11T16:29:28.933419+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -251,14 +251,14 @@
     "date": "11 jul 2026",
     "date_pt": "11 jul 2026",
     "date_en": "11 Jul 2026",
-    "time": "15h13",
-    "time_pt": "15h13",
-    "time_en": "15:13 UTC",
+    "time": "16h29",
+    "time_pt": "16h29",
+    "time_en": "16:29 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-11T15:13:03.759699+00:00",
-    "lastModifiedIso": "2026-07-11T15:13:03.759699+00:00",
+    "publishedIso": "2026-07-11T16:29:28.933371+00:00",
+    "lastModifiedIso": "2026-07-11T16:29:28.933371+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -356,14 +356,14 @@
     "date": "11 jul 2026",
     "date_pt": "11 jul 2026",
     "date_en": "11 Jul 2026",
-    "time": "15h13",
-    "time_pt": "15h13",
-    "time_en": "15:13 UTC",
+    "time": "16h29",
+    "time_pt": "16h29",
+    "time_en": "16:29 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-11T15:13:03.759654+00:00",
-    "lastModifiedIso": "2026-07-11T15:13:03.759654+00:00",
+    "publishedIso": "2026-07-11T16:29:28.933329+00:00",
+    "lastModifiedIso": "2026-07-11T16:29:28.933329+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -461,14 +461,14 @@
     "date": "11 jul 2026",
     "date_pt": "11 jul 2026",
     "date_en": "11 Jul 2026",
-    "time": "15h13",
-    "time_pt": "15h13",
-    "time_en": "15:13 UTC",
+    "time": "16h29",
+    "time_pt": "16h29",
+    "time_en": "16:29 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-11T15:13:03.759603+00:00",
-    "lastModifiedIso": "2026-07-11T15:13:03.759603+00:00",
+    "publishedIso": "2026-07-11T16:29:28.933285+00:00",
+    "lastModifiedIso": "2026-07-11T16:29:28.933285+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -529,6 +529,152 @@
   },
   {
     "id": 6,
+    "slug": "could-permanent-magnets-protect-astronauts-from-solar-storms",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-permanent-magnet.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/could-permanent-magnet.jpg",
+        "caption": "Os ímãs permanentes poderiam proteger os astronautas das tempestades solares?",
+        "caption_pt": "Os ímãs permanentes poderiam proteger os astronautas das tempestades solares?",
+        "caption_en": "Could permanent magnets protect astronauts from solar storms?",
+        "alt": "Os ímãs permanentes poderiam proteger os astronautas das tempestades solares?",
+        "alt_pt": "Os ímãs permanentes poderiam proteger os astronautas das tempestades solares?",
+        "alt_en": "Could permanent magnets protect astronauts from solar storms?"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/8b33bc1b4d9f6b4c.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/pjftke8e1ja",
+      "fileUrl": "",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://phys.org/news/2026-07-permanent-magnets-astronauts-solar-storms.html"
+    },
+    "audio": null,
+    "title": "Os ímãs permanentes poderiam proteger os astronautas das tempestades solares?",
+    "title_pt": "Os ímãs permanentes poderiam proteger os astronautas das tempestades solares?",
+    "title_en": "Could permanent magnets protect astronauts from solar storms?",
+    "sub": "Proteger os astronautas da radiação mortal que enfrentam é um desafio central para qualquer projetista de uma missão tripulada no espaço profundo. Mesmo níveis relativamente.",
+    "sub_pt": "Proteger os astronautas da radiação mortal que enfrentam é um desafio central para qualquer projetista de uma missão tripulada no espaço profundo. Mesmo níveis relativamente.",
+    "sub_en": "Shielding astronauts from the deadly radiation they face is a central challenge for any designer of a deep-space crewed mission. Even relatively low levels of exposure over long.",
+    "excerpt": "Proteger os astronautas da radiação mortal que enfrentam é um desafio central para qualquer projetista de uma missão tripulada no espaço profundo. Mesmo níveis relativamente baixos de exposição durante longos períodos podem levar a tudo, desde o sistema.",
+    "excerpt_pt": "Proteger os astronautas da radiação mortal que enfrentam é um desafio central para qualquer projetista de uma missão tripulada no espaço profundo. Mesmo níveis relativamente baixos de exposição durante longos períodos podem levar a tudo, desde o sistema.",
+    "excerpt_en": "Shielding astronauts from the deadly radiation they face is a central challenge for any designer of a deep-space crewed mission. Even relatively low levels of exposure over long periods can lead to everything from central nervous system.",
+    "body": "<p>Proteger os astronautas da radiação mortal que enfrentam é um desafio central para qualquer projetista de uma missão tripulada no espaço profundo. Mesmo níveis relativamente baixos de exposição durante longos períodos podem levar a tudo, desde o sistema nervoso central. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Para contornar isso, um novo artigo, disponível em pré-impressão no arXiv, de Valerio Parisi e a. Proteger os astronautas da radiação mortal que enfrentam é um desafio central para qualquer projetista de uma missão tripulada no espaço profundo.</p><p>Para contornar isso, um novo artigo, disponível em pré-impressão no arXiv por Valerio Parisi e uma equipe de pesquisadores da Itália e da Alemanha, analisa a viabilidade de usar. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>NASA Proteger os astronautas da radiação mortal que enfrentam é um desafio central para qualquer projetista de uma missão tripulada no espaço profundo.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-permanent-magnets-astronauts-solar-storms.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Proteger os astronautas da radiação mortal que enfrentam é um desafio central para qualquer projetista de uma missão tripulada no espaço profundo. Mesmo níveis relativamente baixos de exposição durante longos períodos podem levar a tudo, desde o sistema nervoso central. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Para contornar isso, um novo artigo, disponível em pré-impressão no arXiv, de Valerio Parisi e a. Proteger os astronautas da radiação mortal que enfrentam é um desafio central para qualquer projetista de uma missão tripulada no espaço profundo.</p><p>Para contornar isso, um novo artigo, disponível em pré-impressão no arXiv por Valerio Parisi e uma equipe de pesquisadores da Itália e da Alemanha, analisa a viabilidade de usar. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>NASA Proteger os astronautas da radiação mortal que enfrentam é um desafio central para qualquer projetista de uma missão tripulada no espaço profundo.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-permanent-magnets-astronauts-solar-storms.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Shielding astronauts from the deadly radiation they face is a central challenge for any designer of a deep-space crewed mission. Even relatively low levels of exposure over long periods can lead to everything from central nervous system. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. To get around those, a new paper, available in preprint on arXiv by Valerio Parisi and a. Shielding astronauts from the deadly radiation they face is a central challenge for any designer of a deep-space crewed mission.</p><p>To get around those, a new paper, available in preprint on arXiv by Valerio Parisi and a team of researchers from Italy and Germany, looks at the feasibility of using a permanent. This article has been reviewed according to Science X&#x27;s editorial process and policies.</p><p>NASA Shielding astronauts from the deadly radiation they face is a central challenge for any designer of a deep-space crewed mission. The tyranny of the rocket equation means getting enough material into orbit to protect the crew from an SPE is extraordinarily expensive, and could amount to bringing tens of.</p><p>These have the obvious advantage of supplying up to a 1-Tesla magnetic &quot;shield&quot; around a craft, but they come at a huge potential cost. The authors created an array of 1,482 permanent magnets measuring 3 x 3 x 3 centimeters each and packed them all into a 1-square-meter (11-square-foot) area.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Weighing less than 300 kilograms (661 pounds), this permanent shield ended up deflecting approximately 20% of the incoming solar particles in the 0.1 to 10 MeV energy range. Functionally, that 20% was actually indicative of what the permanent magnets were really doing, deflecting lower-energy particles.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-permanent-magnets-astronauts-solar-storms.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Proteger os astronautas da radiação mortal que enfrentam é um desafio central para qualquer projetista de uma missão tripulada no espaço profundo.",
+      "Dado-chave: Para contornar isso, um novo artigo, disponível em pré-impressão no arXiv, de Valerio Parisi e a.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Proteger os astronautas da radiação mortal que enfrentam é um desafio central para qualquer projetista de uma missão tripulada no espaço profundo.",
+      "Dado-chave: Para contornar isso, um novo artigo, disponível em pré-impressão no arXiv, de Valerio Parisi e a.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Shielding astronauts from the deadly radiation they face is a central challenge for any designer of a deep-space crewed mission. Even relatively low.",
+      "Key detail: To get around those, a new paper, available in preprint on arXiv by Valerio Parisi and a.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "11 jul 2026",
+    "date_pt": "11 jul 2026",
+    "date_en": "11 Jul 2026",
+    "time": "15h30",
+    "time_pt": "15h30",
+    "time_en": "15:30 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-11T15:30:01+00:00",
+    "lastModifiedIso": "2026-07-11T15:30:01+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Os ímãs permanentes poderiam proteger os astronautas das tempestades solares?"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Os ímãs permanentes poderiam proteger os astronautas das tempestades solares?"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Could permanent magnets protect astronauts from solar storms?"
+    ],
+    "srcUrl": "https://phys.org/news/2026-07-permanent-magnets-astronauts-solar-storms.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=could-permanent-magnets-protect-astronauts-from-solar-storms",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=could-permanent-magnets-protect-astronauts-from-solar-storms",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=could-permanent-magnets-protect-astronauts-from-solar-storms&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "x-ray-tracking-reveals-uneven-expansion-in-young-supernova-remnant-g292-0-1-8",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -647,7 +793,7 @@
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -661,7 +807,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "the-total-solar-eclipse-of-august-12-2026",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -776,7 +922,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "visible-planets-and-night-sky-guide-for-july",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -891,7 +1037,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "sun-news-sun-still-quiet-but-auroras-possible-at-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1008,139 +1154,6 @@
       "evidence": 82,
       "relevance": 62,
       "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "japan-s-space-agency-conducts-first-test-flight-for-experimental-reusable-rocket",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/japans-space-agency-co.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/japans-space-agency-co.jpg",
-        "caption": "Agência espacial do Japão realiza primeiro voo de teste para foguete experimental reutilizável",
-        "caption_pt": "Agência espacial do Japão realiza primeiro voo de teste para foguete experimental reutilizável",
-        "caption_en": "Japan's space agency conducts first test flight for experimental reusable rocket",
-        "alt": "Agência espacial do Japão realiza primeiro voo de teste para foguete experimental reutilizável",
-        "alt_pt": "Agência espacial do Japão realiza primeiro voo de teste para foguete experimental reutilizável",
-        "alt_en": "Japan's space agency conducts first test flight for experimental reusable rocket"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/japans-space-agency-co-1.jpg",
-        "caption": "Agência espacial do Japão realiza primeiro voo de teste para foguete experimental reutilizável",
-        "caption_pt": "Agência espacial do Japão realiza primeiro voo de teste para foguete experimental reutilizável",
-        "caption_en": "Japan's space agency conducts first test flight for experimental reusable rocket",
-        "alt": "Agência espacial do Japão realiza primeiro voo de teste para foguete experimental reutilizável",
-        "alt_pt": "Agência espacial do Japão realiza primeiro voo de teste para foguete experimental reutilizável",
-        "alt_en": "Japan's space agency conducts first test flight for experimental reusable rocket"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/8b33bc1b4d9f6b4c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Agência espacial do Japão realiza primeiro voo de teste para foguete experimental reutilizável",
-    "title_pt": "Agência espacial do Japão realiza primeiro voo de teste para foguete experimental reutilizável",
-    "title_en": "Japan's space agency conducts first test flight for experimental reusable rocket",
-    "sub": "O foguete experimental reutilizável do Japão decolou e pousou com segurança em um primeiro voo de teste no sábado, enquanto o país busca alcançar a chave tecnológica para reduzir.",
-    "sub_pt": "O foguete experimental reutilizável do Japão decolou e pousou com segurança em um primeiro voo de teste no sábado, enquanto o país busca alcançar a chave tecnológica para reduzir.",
-    "sub_en": "Japan's experimental reusable rocket took off and safely landed in a first test flight Saturday as the country seeks to achieve the technology key to cut launch costs and compete.",
-    "excerpt": "O foguete experimental reutilizável do Japão decolou e pousou com segurança em um primeiro voo de teste no sábado, enquanto o país busca alcançar a chave tecnológica para reduzir custos de lançamento e competir no mercado espacial global dominado pela SpaceX.",
-    "excerpt_pt": "O foguete experimental reutilizável do Japão decolou e pousou com segurança em um primeiro voo de teste no sábado, enquanto o país busca alcançar a chave tecnológica para reduzir custos de lançamento e competir no mercado espacial global dominado pela SpaceX.",
-    "excerpt_en": "Japan's experimental reusable rocket took off and safely landed in a first test flight Saturday as the country seeks to achieve the technology key to cut launch costs and compete in the global space market dominated by SpaceX.",
-    "body": "<p>O foguete experimental reutilizável do Japão decolou e pousou com segurança em um primeiro voo de teste no sábado, enquanto o país busca alcançar a chave tecnológica para reduzir custos de lançamento e competir no mercado espacial global dominado pela SpaceX. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial O Reusable Vehicle eXperiment, conhecido.</p><p>Naoki Kawano/Kyodo News via AP O foguete experimental reutilizável do Japão decolou e pousou com segurança em um primeiro voo de teste no sábado, enquanto o país busca alcançar a. O foguete voou conforme planejado, subindo 11 metros (36 pés) e movendo-se horizontalmente 16 metros (52 pés), mantendo sua posição vertical antes de pousar, disse Takashi Ito.</p><p>O Japão busca acompanhar a tecnologia que a SpaceX de Elon Musk vem usando há vários anos para reduzir os custos de lançamento de entrega de cargas úteis ao espaço.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-japan-space-agency-flight-experimental.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O foguete experimental reutilizável do Japão decolou e pousou com segurança em um primeiro voo de teste no sábado, enquanto o país busca alcançar a chave tecnológica para reduzir custos de lançamento e competir no mercado espacial global dominado pela SpaceX. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial O Reusable Vehicle eXperiment, conhecido.</p><p>Naoki Kawano/Kyodo News via AP O foguete experimental reutilizável do Japão decolou e pousou com segurança em um primeiro voo de teste no sábado, enquanto o país busca alcançar a. O foguete voou conforme planejado, subindo 11 metros (36 pés) e movendo-se horizontalmente 16 metros (52 pés), mantendo sua posição vertical antes de pousar, disse Takashi Ito.</p><p>O Japão busca acompanhar a tecnologia que a SpaceX de Elon Musk vem usando há vários anos para reduzir os custos de lançamento de entrega de cargas úteis ao espaço.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-japan-space-agency-flight-experimental.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Japan&#x27;s experimental reusable rocket took off and safely landed in a first test flight Saturday as the country seeks to achieve the technology key to cut launch costs and compete in the global space market dominated by SpaceX. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source The Reusable Vehicle eXperiment, known as RV-X, is seen in a.</p><p>Naoki Kawano/Kyodo News via AP Japan&#x27;s experimental reusable rocket took off and safely landed in a first test flight Saturday as the country seeks to achieve the technology key. The rocket flew as planned, rising 11 meters (36 feet) and moving horizontally 16 meters (52 feet) while keeping its upright position before landing, Takashi Ito, JAXA&#x27;s reusable.</p><p>Japan seeks to catch up with the technology Elon Musk&#x27;s SpaceX has been using for several years to cut launch costs of delivering payloads into space. Saturday&#x27;s flight is a step forward for Japan in achieving the technology needed to develop a lower cost successor to the country&#x27;s current mainstay, single-use H3 series.</p><p>The flight comes one day after state media in China reported the country achieved its first successful recovery of the first stage of a rocket after a liftoff. Japan&#x27;s H3 rocket is designed to be more cost effective than its predecessor H-2A series, which had a near-perfect success record, but still needs further cost cuts to compete in.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>JAXA and Mitsubishi Heavy Industries have been co-developing the RV-X, which is 1.8 meters (5.9 feet) in diameter and 7.3 meters (23.9 feet) long and equipped with an engine with. The &quot;hardworking&quot; engine has so far withstood 165 combustion tests, Ito said.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-japan-space-agency-flight-experimental.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O foguete experimental reutilizável do Japão decolou e pousou com segurança em um primeiro voo de teste no sábado, enquanto o país busca alcançar a.",
-      "Dado-chave: O foguete experimental reutilizável do Japão decolou e pousou com segurança em um primeiro voo de teste no sábado, enquanto o país busca.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O foguete experimental reutilizável do Japão decolou e pousou com segurança em um primeiro voo de teste no sábado, enquanto o país busca alcançar a.",
-      "Dado-chave: O foguete experimental reutilizável do Japão decolou e pousou com segurança em um primeiro voo de teste no sábado, enquanto o país busca.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Japan's experimental reusable rocket took off and safely landed in a first test flight Saturday as the country seeks to achieve the technology key to.",
-      "Key detail: Japan's experimental reusable rocket took off and safely landed in a first test flight Saturday as the country seeks to achieve the technology.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "11 jul 2026",
-    "date_pt": "11 jul 2026",
-    "date_en": "11 Jul 2026",
-    "time": "07h19",
-    "time_pt": "07h19",
-    "time_en": "07:19 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-11T07:19:43+00:00",
-    "lastModifiedIso": "2026-07-11T07:19:43+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "watch",
-    "editorialBandLabel": "Leitura monitorada",
-    "editorialBandLabel_pt": "Leitura monitorada",
-    "editorialBandLabel_en": "Watchlist",
-    "keywords": [
-      "Astronomia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Agência espacial do Japão realiza primeiro voo de teste para foguete experimental reutilizável"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Agência espacial do Japão realiza primeiro voo de teste para foguete experimental reutilizável"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Japan space agency conducts first test flight for reusable experimental rocket"
-    ],
-    "srcUrl": "https://phys.org/news/2026-07-japan-space-agency-flight-experimental.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=japan-s-space-agency-conducts-first-test-flight-for-experimental-reusable-rocket",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=japan-s-space-agency-conducts-first-test-flight-for-experimental-reusable-rocket",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=japan-s-space-agency-conducts-first-test-flight-for-experimental-reusable-rocket&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 66,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 56,
-      "accessibility": 52,
       "novelty": 55
     }
   },
@@ -1356,39 +1369,116 @@
   },
   {
     "id": 13,
+    "slug": "xmm-newton-helps-revise-distance-to-outer-spiral-arms",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/xmm-newton_chandra_revised_distance_to_outer_spiral_arms_no_lines/27355527-6-eng-GB/XMM-Newton_Chandra_revised_distance_to_outer_spiral_arms_no_lines_card_full.gif",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "XMM-Newton ajuda a revisar a distância até os braços espirais externos",
+    "title_pt": "XMM-Newton ajuda a revisar a distância até os braços espirais externos",
+    "title_en": "XMM-Newton helps revise distance to outer spiral arms",
+    "sub": "Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços.",
+    "sub_pt": "Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços.",
+    "sub_en": "The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing through the outer spiral arms of our.",
+    "excerpt": "Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles.",
+    "excerpt_pt": "Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles.",
+    "excerpt_en": "The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing through the outer spiral arms of our galaxy, the Milky Way. By measuring the distance to these.",
+    "body": "<p>Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Ao medir a distância até estes ecos, eles descobriram que os braços exteriores estão até 10% mais distantes do que pensávamos.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Ao medir a distância até estes ecos, eles descobriram que os braços exteriores estão até 10% mais distantes do que pensávamos.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing through the outer spiral arms of our galaxy, the Milky Way. By measuring the distance to these. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. By measuring the distance to these echoes, they find the outer arms to be up to 10% further away than we thought.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes.",
+      "Dado-chave: Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes.",
+      "Dado-chave: Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing.",
+      "Key detail: The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "01 jul 2026",
+    "date_pt": "01 jul 2026",
+    "date_en": "01 Jul 2026",
+    "time": "12h00",
+    "time_pt": "12h00",
+    "time_en": "12:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-01T12:00:00+00:00",
+    "lastModifiedIso": "2026-07-01T12:00:00+00:00",
+    "source": "ESA Space Science",
+    "sourceDomain": "www.esa.int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Newton ajuda a revisar a distância até os braços espirais externos"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Newton ajuda a revisar a distância até os braços espirais externos"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Newton helps review the distance to the outer spiral arms"
+    ],
+    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=xmm-newton-helps-revise-distance-to-outer-spiral-arms",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=xmm-newton-helps-revise-distance-to-outer-spiral-arms",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=xmm-newton-helps-revise-distance-to-outer-spiral-arms&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 90,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 14,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
     "img": "https://cdn.esahubble.org/archives/images/screen/heic2605a.jpg",
-    "inline_images": [
-      {
-        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2605a.jpg",
-        "caption": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
-        "caption_pt": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
-        "caption_en": "Galaxy field of low-surface-brightness galaxy CDG-2",
-        "alt": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
-        "alt_pt": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
-        "alt_en": "Galaxy field of low-surface-brightness galaxy CDG-2"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2605a.jpg",
-        "caption": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
-        "caption_pt": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
-        "caption_en": "Galaxy field of low-surface-brightness galaxy CDG-2",
-        "alt": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
-        "alt_pt": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
-        "alt_en": "Galaxy field of low-surface-brightness galaxy CDG-2"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2605b.jpg",
-        "caption": "Galáxia escura CDG-2 perto do aglomerado de Perseu (anotado)",
-        "caption_pt": "Galáxia escura CDG-2 perto do aglomerado de Perseu (anotado)",
-        "caption_en": "Dark galaxy CDG-2 near Perseus Cluster (annotated)",
-        "alt": "Galáxia escura CDG-2 perto do aglomerado de Perseu (anotado)",
-        "alt_pt": "Galáxia escura CDG-2 perto do aglomerado de Perseu (anotado)",
-        "alt_en": "Dark galaxy CDG-2 near Perseus Cluster (annotated)"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas",
@@ -1400,9 +1490,9 @@
     "excerpt": "A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece.",
     "excerpt_pt": "A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece.",
     "excerpt_en": "Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be.",
-    "body": "<p>A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece ser. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os mais de 150 da Via Láctea). Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece ser quase inteiramente dominada por.</p><p>A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os mais de 150 da Via Láctea) e brilha. Um desses objetos indescritíveis, apelidado de CDG-2, pode estar entre as galáxias mais dominadas pela matéria escura já descobertas.</p><p>O artigo científico que detalha esta descoberta foi publicado no The Astrophysical Journal Letters. Usando técnicas estatísticas avançadas, David Li, da Universidade de Toronto, Canadá, e a sua equipa identificaram 10 galáxias previamente confirmadas com baixo brilho superficial.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2605/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece ser. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os mais de 150 da Via Láctea). Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece ser quase inteiramente dominada por.</p><p>A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os mais de 150 da Via Láctea) e brilha. Um desses objetos indescritíveis, apelidado de CDG-2, pode estar entre as galáxias mais dominadas pela matéria escura já descobertas.</p><p>O artigo científico que detalha esta descoberta foi publicado no The Astrophysical Journal Letters. Usando técnicas estatísticas avançadas, David Li, da Universidade de Toronto, Canadá, e a sua equipa identificaram 10 galáxias previamente confirmadas com baixo brilho superficial.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2605/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus). Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be almost entirely dominated by dark matter.</p><p>The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus), and dimly shines with the light. One such elusive object, dubbed CDG-2, may be among the most heavily dark matter-dominated galaxies ever discovered.</p><p>The science paper detailing this finding was published in The Astrophysical Journal Letters. Using advanced statistical techniques, David Li of the University of Toronto, Canada, and his team identified 10 previously confirmed low-surface-brightness galaxies and two.</p><p>To confirm one of the dark galaxy candidates, astronomers employed a trio of observatories: the Hubble Space Telescope, ESA’s Euclid space observatory, and the ground-based Subaru. Hubble’s high-resolution imaging revealed a close collection of four globular clusters in the Perseus galaxy cluster, 300 million light-years away.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Follow-up studies using Hubble, Euclid, and Subaru data then revealed a faint, diffuse glow surrounding the star clusters, strong evidence of an underlying galaxy. “Under conservative assumptions, the four clusters represent the entire globular cluster population of CDG-2.” Preliminary analysis suggests CDG-2 has the luminosity of roughly 1.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2605/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece ser. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os mais de 150 da Via Láctea). A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis.</p><p>Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece ser quase inteiramente dominada por. A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os mais de 150 da Via Láctea) e brilha.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2605/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece ser. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os mais de 150 da Via Láctea). A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis.</p><p>Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece ser quase inteiramente dominada por. A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os mais de 150 da Via Láctea) e brilha.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2605/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus). Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible.</p><p>Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be almost entirely dominated by dark matter. The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus), and dimly shines with the light.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2605/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o.",
       "Dado-chave: A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os.",
@@ -1491,7 +1581,7 @@
     }
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1627,134 +1717,6 @@
       "relevance": 88,
       "accessibility": 60,
       "novelty": 46
-    }
-  },
-  {
-    "id": 15,
-    "slug": "could-permanent-magnets-protect-astronauts-from-solar-storms",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://www.universetoday.com/article_images/Orion_20260709_152812.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/pjftke8e1ja",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.universetoday.com/articles/could-permanent-magnets-protect-astronauts-from-solar-storms"
-    },
-    "audio": null,
-    "title": "Os ímãs permanentes poderiam proteger os astronautas das tempestades solares?",
-    "title_pt": "Os ímãs permanentes poderiam proteger os astronautas das tempestades solares?",
-    "title_en": "Could Permanent Magnets Protect Astronauts from Solar Storms?",
-    "sub": "Proteger os astronautas da radiação assassina que enfrentam é um desafio central que qualquer projetista de uma missão tripulada no espaço profundo enfrenta. Mesmo níveis.",
-    "sub_pt": "Proteger os astronautas da radiação assassina que enfrentam é um desafio central que qualquer projetista de uma missão tripulada no espaço profundo enfrenta. Mesmo níveis.",
-    "sub_en": "Shielding astronauts from the killer radiation they face is a central challenge facing any designer of a deep-space crewed mission. Even relatively low levels of exposure for long.",
-    "excerpt": "Proteger os astronautas da radiação assassina que enfrentam é um desafio central que qualquer projetista de uma missão tripulada no espaço profundo enfrenta. Mesmo níveis relativamente baixos de exposição por longos períodos de tempo podem levar a tudo, desde.",
-    "excerpt_pt": "Proteger os astronautas da radiação assassina que enfrentam é um desafio central que qualquer projetista de uma missão tripulada no espaço profundo enfrenta. Mesmo níveis relativamente baixos de exposição por longos períodos de tempo podem levar a tudo, desde.",
-    "excerpt_en": "Shielding astronauts from the killer radiation they face is a central challenge facing any designer of a deep-space crewed mission. Even relatively low levels of exposure for long periods of time can lead to everything from central nervous.",
-    "body": "<p>Proteger os astronautas da radiação assassina que enfrentam é um desafio central que qualquer projetista de uma missão tripulada no espaço profundo enfrenta. Mesmo níveis relativamente baixos de exposição por longos períodos de tempo podem levar a tudo, desde o sistema nervoso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Para contornar isso, um novo artigo, disponível em pré-impressão no arXiv da Valerio. Proteger os astronautas da radiação assassina que enfrentam é um desafio central que qualquer projetista de uma missão tripulada no espaço profundo enfrenta.</p><p>Para contornar isso, um novo artigo, disponível em pré-impressão no arXiv por Valerio Parisi e uma equipe de pesquisadores da Itália e da Alemanha, analisa a viabilidade de usar. Primeiro, vejamos os tipos específicos de radiação que a tornam tão perigosa.</p><p>A maneira mais comum de se proteger dessas fontes de radiação é simplesmente colocar um monte de coisas entre elas e os frágeis sistemas biológicos. A tirania da equação do foguete significa que colocar material suficiente em órbita para proteger a tripulação de um SPE é extraordinariamente caro, e pode equivaler a retirar.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/could-permanent-magnets-protect-astronauts-from-solar-storms\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Proteger os astronautas da radiação assassina que enfrentam é um desafio central que qualquer projetista de uma missão tripulada no espaço profundo enfrenta. Mesmo níveis relativamente baixos de exposição por longos períodos de tempo podem levar a tudo, desde o sistema nervoso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Para contornar isso, um novo artigo, disponível em pré-impressão no arXiv da Valerio. Proteger os astronautas da radiação assassina que enfrentam é um desafio central que qualquer projetista de uma missão tripulada no espaço profundo enfrenta.</p><p>Para contornar isso, um novo artigo, disponível em pré-impressão no arXiv por Valerio Parisi e uma equipe de pesquisadores da Itália e da Alemanha, analisa a viabilidade de usar. Primeiro, vejamos os tipos específicos de radiação que a tornam tão perigosa.</p><p>A maneira mais comum de se proteger dessas fontes de radiação é simplesmente colocar um monte de coisas entre elas e os frágeis sistemas biológicos. A tirania da equação do foguete significa que colocar material suficiente em órbita para proteger a tripulação de um SPE é extraordinariamente caro, e pode equivaler a retirar.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/could-permanent-magnets-protect-astronauts-from-solar-storms\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Shielding astronauts from the killer radiation they face is a central challenge facing any designer of a deep-space crewed mission. Even relatively low levels of exposure for long periods of time can lead to everything from central nervous. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. To get around those, a new paper, available in pre-print on arXiv by Valerio. Shielding astronauts from the killer radiation they face is a central challenge facing any designer of a deep-space crewed mission.</p><p>To get around those, a new paper, available in pre-print on arXiv by Valerio Parisi and a team of researchers from Italy and Germany, looks at the feasibility of using a permanent. First, let’s look at the specific types of radiation that make it so dangerous.</p><p>The most common way to protect from these radiation sources is simply putting a bunch of stuff between them and the fragile biological systems. The tyranny of the rocket equation means that getting enough material into orbit to protect the crew from an SPE is extraordinarily expensive, and could amount to bringing tens of.</p><p>These have the obvious advantage of supplying up to a 1-Tesla magnetic “shield” around a craft, but they come at a huge potential cost. The authors created an array of 1,482 permanent magnets measuring 3x3x3cm each, and packed them all into a 1 square meter area.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Weighing in at less than 300kg, this permanent shield ended up deflecting approximately 20% of the incoming solar particles in the 0.1 to 10MeV energy range. Functionally, that 20% was actually indicative of what the permanent magnets were really doing, deflecting lower energy particles.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/could-permanent-magnets-protect-astronauts-from-solar-storms\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Proteger os astronautas da radiação assassina que enfrentam é um desafio central que qualquer projetista de uma missão tripulada no espaço profundo.",
-      "Dado-chave: Para contornar isso, um novo artigo, disponível em pré-impressão no arXiv da Valerio.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Proteger os astronautas da radiação assassina que enfrentam é um desafio central que qualquer projetista de uma missão tripulada no espaço profundo.",
-      "Dado-chave: Para contornar isso, um novo artigo, disponível em pré-impressão no arXiv da Valerio.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Shielding astronauts from the killer radiation they face is a central challenge facing any designer of a deep-space crewed mission. Even relatively.",
-      "Key detail: To get around those, a new paper, available in pre-print on arXiv by Valerio.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "09 jul 2026",
-    "date_pt": "09 jul 2026",
-    "date_en": "09 Jul 2026",
-    "time": "15h28",
-    "time_pt": "15h28",
-    "time_en": "15:28 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-09T15:28:35+00:00",
-    "lastModifiedIso": "2026-07-09T15:28:35+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Cosmologia",
-      "Universe Today",
-      "Cosmos Week",
-      "Os ímãs permanentes poderiam proteger os astronautas das tempestades solares?"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "Universe Today",
-      "Cosmos Week",
-      "Os ímãs permanentes poderiam proteger os astronautas das tempestades solares?"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "Universe Today",
-      "Cosmos Week",
-      "Could permanent magnets protect astronauts from solar storms?"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/could-permanent-magnets-protect-astronauts-from-solar-storms",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=could-permanent-magnets-protect-astronauts-from-solar-storms",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=could-permanent-magnets-protect-astronauts-from-solar-storms",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=could-permanent-magnets-protect-astronauts-from-solar-storms&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
     }
   },
   {
@@ -2755,144 +2717,11 @@
   },
   {
     "id": 24,
-    "slug": "xmm-newton-helps-revise-distance-to-outer-spiral-arms",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/xmm-newton_chandra_revised_distance_to_outer_spiral_arms_no_lines/27355527-6-eng-GB/XMM-Newton_Chandra_revised_distance_to_outer_spiral_arms_no_lines_card_full.gif",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "XMM-Newton ajuda a revisar a distância até os braços espirais externos",
-    "title_pt": "XMM-Newton ajuda a revisar a distância até os braços espirais externos",
-    "title_en": "XMM-Newton helps revise distance to outer spiral arms",
-    "sub": "Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços.",
-    "sub_pt": "Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços.",
-    "sub_en": "The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing through the outer spiral arms of our.",
-    "excerpt": "Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles.",
-    "excerpt_pt": "Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles.",
-    "excerpt_en": "The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing through the outer spiral arms of our galaxy, the Milky Way. By measuring the distance to these.",
-    "body": "<p>Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Ao medir a distância até estes ecos, eles descobriram que os braços exteriores estão até 10% mais distantes do que pensávamos.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes ecoando através dos braços espirais externos da nossa galáxia, a Via Láctea. Medindo a distância até eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Ao medir a distância até estes ecos, eles descobriram que os braços exteriores estão até 10% mais distantes do que pensávamos.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing through the outer spiral arms of our galaxy, the Milky Way. By measuring the distance to these. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. By measuring the distance to these echoes, they find the outer arms to be up to 10% further away than we thought.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes.",
-      "Dado-chave: Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões brilhantes.",
-      "Dado-chave: Os telescópios espaciais de raios X XMM-Newton da Agência Espacial Europeia e Chandra da NASA detectaram o resultado de três explosões.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing.",
-      "Key detail: The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "01 jul 2026",
-    "date_pt": "01 jul 2026",
-    "date_en": "01 Jul 2026",
-    "time": "12h00",
-    "time_pt": "12h00",
-    "time_en": "12:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-01T12:00:00+00:00",
-    "lastModifiedIso": "2026-07-01T12:00:00+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www.esa.int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Newton ajuda a revisar a distância até os braços espirais externos"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Newton ajuda a revisar a distância até os braços espirais externos"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Newton helps review the distance to the outer spiral arms"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=xmm-newton-helps-revise-distance-to-outer-spiral-arms",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=xmm-newton-helps-revise-distance-to-outer-spiral-arms",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=xmm-newton-helps-revise-distance-to-outer-spiral-arms&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 25,
     "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://cdn.esahubble.org/archives/images/screen/heic2609a.jpg",
-    "inline_images": [
-      {
-        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2609a.jpg",
-        "caption": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "caption_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "caption_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
-        "alt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "alt_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "alt_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2609a.jpg",
-        "caption": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "caption_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "caption_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
-        "alt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "alt_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "alt_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2609b.jpg",
-        "caption": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
-        "caption_pt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
-        "caption_en": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)",
-        "alt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
-        "alt_pt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
-        "alt_en": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Lançamento científico: Hubble detalha a vizinhança em transformação da galáxia inicial",
@@ -2904,22 +2733,22 @@
     "excerpt": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas.",
     "excerpt_pt": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas.",
     "excerpt_en": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that.",
-    "body": "<p>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas que. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um artigo que descreve esta descoberta foi publicado em 23 de junho de 2026 no Astrophysical Journal. À medida que esta luz viajou durante mais de 12 mil milhões de anos para chegar ao Hubble, o espaço expandiu-se e a luz esticou-se ou desviou-se para o vermelho em luz visível.</p><p>A cobertura do comprimento de onda do Hubble, combinada com a sensibilidade e resolução do seu ponto de vista baseado no espaço, torna-o no único telescópio capaz de capturar esta. “Os astrónomos encontraram muitas galáxias que existiam neste ponto da história do Universo, mas não detetámos fotões ionizantes de nenhuma delas, tornando o MXDFz4.4 único”.</p><p>As longas exposições do Hubble, extraídas de várias pesquisas existentes, revelaram que as estrelas jovens e massivas da galáxia são a fonte da luz ultravioleta, que clareou o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas que. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um artigo que descreve esta descoberta foi publicado em 23 de junho de 2026 no Astrophysical Journal. À medida que esta luz viajou durante mais de 12 mil milhões de anos para chegar ao Hubble, o espaço expandiu-se e a luz esticou-se ou desviou-se para o vermelho em luz visível.</p><p>A cobertura do comprimento de onda do Hubble, combinada com a sensibilidade e resolução do seu ponto de vista baseado no espaço, torna-o no único telescópio capaz de capturar esta. “Os astrónomos encontraram muitas galáxias que existiam neste ponto da história do Universo, mas não detetámos fotões ionizantes de nenhuma delas, tornando o MXDFz4.4 único”.</p><p>As longas exposições do Hubble, extraídas de várias pesquisas existentes, revelaram que as estrelas jovens e massivas da galáxia são a fonte da luz ultravioleta, que clareou o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A paper describing this discovery was published 23 June 2026 in the Astrophysical Journal. As this light traveled for over 12 billion years to reach Hubble, space expanded, and the light stretched or redshifted into visible light.</p><p>Hubble’s wavelength coverage, combined with the sensitivity and resolution of its space-based vantage point, makes it the only telescope capable of capturing this ultraviolet. “Astronomers have found many galaxies that existed at this point in the history of the Universe, but we haven’t detected ionising photons from any of them, making MXDFz4.4 one of.</p><p>Hubble’s long exposures, pulled from several existing surveys, revealed that the galaxy’s young, massive stars are the source of the ultraviolet light, which cleared the. These conclusions are supported by survey data taken by the NASA/ESA/CSA James Webb Space Telescope in near-infrared light and the MUSE eXtremely Deep Field or MXDF, the galaxy’s.</p><p>Before this discovery, researchers had only identified a galaxy emitting ionised light from a time when the Universe was 1.6 billion years old. These insights into MXDFz4.4 were possible thanks to the powerful combination of Hubble, Webb and the VLT,&quot; said co-author Alexander Beckett, a postdoctoral fellow at the.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>In 2023, researchers using Webb showed that galaxies’ stars emitted enough light to heat and ionise the gas around them 900 million years after the Big Bang. This was a breakthrough, but astronomers need galaxies like MXDFz4.4 to fully explain how the process happened, since it shows how the high-energy light from young stars managed.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas que. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Isto sugere que galáxias semelhantes no Universo primitivo foram responsáveis ​​pela limpeza. Essa galáxia contém estrelas jovens fortemente agrupadas que produzem luz ionizante capaz de transformar o gás opaco e neutro dentro e imediatamente ao redor da galáxia, limpando.</p><p>Isto sugere que galáxias semelhantes no Universo primitivo foram responsáveis ​​por limpar o nevoeiro neutro de gás hidrogénio que outrora enchia o cosmos.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas que. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Isto sugere que galáxias semelhantes no Universo primitivo foram responsáveis ​​pela limpeza. Essa galáxia contém estrelas jovens fortemente agrupadas que produzem luz ionizante capaz de transformar o gás opaco e neutro dentro e imediatamente ao redor da galáxia, limpando.</p><p>Isto sugere que galáxias semelhantes no Universo primitivo foram responsáveis ​​por limpar o nevoeiro neutro de gás hidrogénio que outrora enchia o cosmos.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. This suggests that similar galaxies in the early Universe were responsible for clearing. That galaxy contains tightly clustered young stars that produce ionising light capable of transforming the opaque, neutral gas within and immediately around the galaxy, clearing.</p><p>This suggests that similar galaxies in the early Universe were responsible for clearing the neutral fog of hydrogen gas that once filled the cosmos.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
-      "Dado-chave: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
+      "Dado-chave: Isto sugere que galáxias semelhantes no Universo primitivo foram responsáveis ​​pela limpeza.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
-      "Dado-chave: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
+      "Dado-chave: Isto sugere que galáxias semelhantes no Universo primitivo foram responsáveis ​​pela limpeza.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4.",
-      "Key detail: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed.",
+      "Key detail: This suggests that similar galaxies in the early Universe were responsible for clearing.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "23 jun 2026",
@@ -2995,7 +2824,7 @@
     }
   },
   {
-    "id": 26,
+    "id": 25,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3131,7 +2960,7 @@
     }
   },
   {
-    "id": 27,
+    "id": 26,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3258,7 +3087,7 @@
     }
   },
   {
-    "id": 28,
+    "id": 27,
     "slug": "where-venezuela-s-earthquakes-shifted-the-ground",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3391,7 +3220,7 @@
     }
   },
   {
-    "id": 29,
+    "id": 28,
     "slug": "principal-investigator-and-quality-assessment-reports-evaluate-umbra-synthetic-aperture-radar-da",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3496,7 +3325,7 @@
     }
   },
   {
-    "id": 30,
+    "id": 29,
     "slug": "nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3638,11 +3467,11 @@
       "evidence": 88,
       "relevance": 80,
       "accessibility": 60,
-      "novelty": 52
+      "novelty": 49
     }
   },
   {
-    "id": 31,
+    "id": 30,
     "slug": "observing-oscillations-flares-and-tornados-on-the-sun",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3778,7 +3607,7 @@
     }
   },
   {
-    "id": 32,
+    "id": 31,
     "slug": "new-european-exercise-device-begins-testing-with-first-rope-pulling-workout-in-space",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3883,7 +3712,7 @@
     }
   },
   {
-    "id": 33,
+    "id": 32,
     "slug": "to-ancient-astronomers-theta-eridani-was-brighter-for-a-thousand-years-now-we-know-why",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4019,7 +3848,7 @@
     }
   },
   {
-    "id": 34,
+    "id": 33,
     "slug": "7-000-galaxy-clusters-hiding-in-plain-sight",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4155,7 +3984,7 @@
     }
   },
   {
-    "id": 35,
+    "id": 34,
     "slug": "deep-space-software-upgrade-for-hera-s-asteroid-visit",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4260,7 +4089,7 @@
     }
   },
   {
-    "id": 36,
+    "id": 35,
     "slug": "another-success-for-hayabusa-2-as-it-completes-a-flyby-of-asteroid-torifune",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4393,7 +4222,7 @@
     }
   },
   {
-    "id": 37,
+    "id": 36,
     "slug": "the-euclid-space-telescope-has-found-31-new-ancient-quasars-including-the-most-ancient-one-ever-",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4526,6 +4355,130 @@
       "relevance": 88,
       "accessibility": 60,
       "novelty": 49
+    }
+  },
+  {
+    "id": 37,
+    "slug": "a-rapidly-growing-black-hole-in-a-nearby-galaxy-could-provide-a-window-into-the-early-universe",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://www.universetoday.com/article_images/original_20260711_005133.webp",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/DESI_20260711_004923.webp",
+        "caption": "Imagem composta do SDSS J110546.07+145202.4, mostrando a galáxia na luz visível e no infravermelho próximo. Crédito e ©: Pesquisa DESI Legacy",
+        "caption_pt": "Imagem composta do SDSS J110546.07+145202.4, mostrando a galáxia na luz visível e no infravermelho próximo. Crédito e ©: Pesquisa DESI Legacy",
+        "caption_en": "Composite image of SDSS J110546.07+145202.4, showing the galaxy in visible light and near-infrared. Credit and ©: DESI Legacy Survey",
+        "alt": "Imagem composta do SDSS J110546.07+145202.4, mostrando a galáxia na luz visível e no infravermelho próximo. Crédito e ©: Pesquisa DESI Legacy",
+        "alt_pt": "Imagem composta do SDSS J110546.07+145202.4, mostrando a galáxia na luz visível e no infravermelho próximo. Crédito e ©: Pesquisa DESI Legacy",
+        "alt_en": "Composite image of SDSS J110546.07+145202.4, showing the galaxy in visible light and near-infrared. Credit and ©: DESI Legacy Survey"
+      },
+      {
+        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Um buraco negro em rápido crescimento em uma galáxia próxima pode fornecer uma janela para o universo primitivo.",
+    "title_pt": "Um buraco negro em rápido crescimento em uma galáxia próxima pode fornecer uma janela para o universo primitivo.",
+    "title_en": "A Rapidly-Growing Black Hole in a Nearby Galaxy Could Provide a Window Into the Early Universe.",
+    "sub": "O buraco negro no centro de uma galáxia próxima está a crescer excepcionalmente rápido e a produzir uma explosão de emissão de rádio nunca antes observada. Com características.",
+    "sub_pt": "O buraco negro no centro de uma galáxia próxima está a crescer excepcionalmente rápido e a produzir uma explosão de emissão de rádio nunca antes observada. Com características.",
+    "sub_en": "The black hole at the centre of a nearby galaxy is growing exceptionally fast, and is producing a burst of radio emission that has never been observed before. With characteristics.",
+    "excerpt": "O buraco negro no centro de uma galáxia próxima está a crescer excepcionalmente rápido e a produzir uma explosão de emissão de rádio nunca antes observada. Com características esperadas no Universo primordial, esta galáxia única.",
+    "excerpt_pt": "O buraco negro no centro de uma galáxia próxima está a crescer excepcionalmente rápido e a produzir uma explosão de emissão de rádio nunca antes observada. Com características esperadas no Universo primordial, esta galáxia única.",
+    "excerpt_en": "The black hole at the centre of a nearby galaxy is growing exceptionally fast, and is producing a burst of radio emission that has never been observed before. With characteristics that are expected in the early Universe, this unique galaxy.",
+    "body": "<p>O buraco negro no centro de uma galáxia próxima está a crescer excepcionalmente rápido e a produzir uma explosão de emissão de rádio nunca antes observada. Com características esperadas no Universo primordial, esta galáxia única. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. O buraco negro no centro de uma galáxia próxima está a crescer excepcionalmente rápido e a produzir uma explosão de emissão de rádio nunca antes observada. Com características esperadas no Universo primordial, esta galáxia única fornece informações importantes sobre os processos que governaram o crescimento dos primeiros buracos.</p><p>Uma equipa internacional liderada por investigadores do Instituto Max Planck de Radioastronomia (MPIfR) fez recentemente uma descoberta inédita ao observar SDSS. Durante oito anos, esta galáxia brilhou extremamente intensamente no espectro de rádio devido à intensa radiação proveniente do buraco negro supermassivo (SMBH) no seu centro.</p><p>Embora a maioria dos transientes de rádio observados durem apenas dias ou semanas, esta fonte em particular persistiu durante vários anos, tornando-se o primeiro evento conhecido. *Imagem composta do SDSS J110546.07+145202.4, mostrando a galáxia na luz visível e no infravermelho próximo.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/a-rapidly-growing-black-hole-in-a-nearby-galaxy-could-provide-a-window-into-the-early-universe\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O buraco negro no centro de uma galáxia próxima está a crescer excepcionalmente rápido e a produzir uma explosão de emissão de rádio nunca antes observada. Com características esperadas no Universo primordial, esta galáxia única. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. O buraco negro no centro de uma galáxia próxima está a crescer excepcionalmente rápido e a produzir uma explosão de emissão de rádio nunca antes observada. Com características esperadas no Universo primordial, esta galáxia única fornece informações importantes sobre os processos que governaram o crescimento dos primeiros buracos.</p><p>Uma equipa internacional liderada por investigadores do Instituto Max Planck de Radioastronomia (MPIfR) fez recentemente uma descoberta inédita ao observar SDSS. Durante oito anos, esta galáxia brilhou extremamente intensamente no espectro de rádio devido à intensa radiação proveniente do buraco negro supermassivo (SMBH) no seu centro.</p><p>Embora a maioria dos transientes de rádio observados durem apenas dias ou semanas, esta fonte em particular persistiu durante vários anos, tornando-se o primeiro evento conhecido. *Imagem composta do SDSS J110546.07+145202.4, mostrando a galáxia na luz visível e no infravermelho próximo.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/a-rapidly-growing-black-hole-in-a-nearby-galaxy-could-provide-a-window-into-the-early-universe\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The black hole at the centre of a nearby galaxy is growing exceptionally fast, and is producing a burst of radio emission that has never been observed before. With characteristics that are expected in the early Universe, this unique galaxy. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. The black hole at the centre of a nearby galaxy is growing exceptionally fast, and is producing a burst of radio emission that has never been observed before. With characteristics that are expected in the early Universe, this unique galaxy provides important insights into the processes that governed the growth of the first black holes.</p><p>An international team led by researchers from the Max Planck Institute for Radio Astronomy (MPIfR) recently made a first-ever discovery when observing SDSS J110546.07+145202.4, a. For eight years, this galaxy has glowed extremely brightly in the radio spectrum due to intense radiation coming from the supermassive black hole (SMBH) at its center.</p><p>While most observed radio transients last only days or weeks, this particular source has persisted for several years, making it the first known event of its kind. *Composite image of SDSS J110546.07+145202.4, showing the galaxy in visible light and near-infrared.</p><p>DESI Legacy Survey* Komossa and her colleagues studied SDSS J110546.07+145202.4 by combining new observations with archival data from multiple observatories and multiple. The SMBH at the center of SDSS J110546.07+145202.4 is relatively low mass, but is growing at an exceptional rate through the accretion of matter in its disk.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Based on the massive dataset they analyzed, the team concluded that the black hole has been accreting material for several years, triggering the jet they observed. Their transition into a long-lasting, radio-bright state has never been observed before,” said Komossa in a MPIfR press release.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/a-rapidly-growing-black-hole-in-a-nearby-galaxy-could-provide-a-window-into-the-early-universe\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O buraco negro no centro de uma galáxia próxima está a crescer excepcionalmente rápido e a produzir uma explosão de emissão de rádio nunca antes.",
+      "Dado-chave: O buraco negro no centro de uma galáxia próxima está a crescer excepcionalmente rápido e a produzir uma explosão de emissão de rádio nunca antes.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O buraco negro no centro de uma galáxia próxima está a crescer excepcionalmente rápido e a produzir uma explosão de emissão de rádio nunca antes.",
+      "Dado-chave: O buraco negro no centro de uma galáxia próxima está a crescer excepcionalmente rápido e a produzir uma explosão de emissão de rádio nunca antes.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The black hole at the centre of a nearby galaxy is growing exceptionally fast, and is producing a burst of radio emission that has never been.",
+      "Key detail: The black hole at the centre of a nearby galaxy is growing exceptionally fast, and is producing a burst of radio emission that has never been.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "11 jul 2026",
+    "date_pt": "11 jul 2026",
+    "date_en": "11 Jul 2026",
+    "time": "00h51",
+    "time_pt": "00h51",
+    "time_en": "00:51 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-11T00:51:38+00:00",
+    "lastModifiedIso": "2026-07-11T00:51:38+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "Um buraco negro em rápido crescimento em uma galáxia próxima pode fornecer uma janela para o universo primitivo."
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "Um buraco negro em rápido crescimento em uma galáxia próxima pode fornecer uma janela para o universo primitivo."
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "Universe Today",
+      "Cosmos Week",
+      "A rapidly growing black hole in a nearby galaxy could provide a window into the early universe."
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/a-rapidly-growing-black-hole-in-a-nearby-galaxy-could-provide-a-window-into-the-early-universe",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=a-rapidly-growing-black-hole-in-a-nearby-galaxy-could-provide-a-window-into-the-early-universe",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=a-rapidly-growing-black-hole-in-a-nearby-galaxy-could-provide-a-window-into-the-early-universe",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=a-rapidly-growing-black-hole-in-a-nearby-galaxy-could-provide-a-window-into-the-early-universe&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
     }
   },
   {

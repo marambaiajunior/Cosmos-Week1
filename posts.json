@@ -38,14 +38,14 @@
     "date": "14 jul 2026",
     "date_pt": "14 jul 2026",
     "date_en": "14 Jul 2026",
-    "time": "22h34",
-    "time_pt": "22h34",
-    "time_en": "22:34 UTC",
+    "time": "23h29",
+    "time_pt": "23h29",
+    "time_en": "23:29 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-14T22:34:51.084138+00:00",
-    "lastModifiedIso": "2026-07-14T22:34:51.084138+00:00",
+    "publishedIso": "2026-07-14T23:29:25.589024+00:00",
+    "lastModifiedIso": "2026-07-14T23:29:25.589024+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -146,14 +146,14 @@
     "date": "14 jul 2026",
     "date_pt": "14 jul 2026",
     "date_en": "14 Jul 2026",
-    "time": "22h34",
-    "time_pt": "22h34",
-    "time_en": "22:34 UTC",
+    "time": "23h29",
+    "time_pt": "23h29",
+    "time_en": "23:29 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-14T22:34:51.084093+00:00",
-    "lastModifiedIso": "2026-07-14T22:34:51.084093+00:00",
+    "publishedIso": "2026-07-14T23:29:25.588973+00:00",
+    "lastModifiedIso": "2026-07-14T23:29:25.588973+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -251,14 +251,14 @@
     "date": "14 jul 2026",
     "date_pt": "14 jul 2026",
     "date_en": "14 Jul 2026",
-    "time": "22h34",
-    "time_pt": "22h34",
-    "time_en": "22:34 UTC",
+    "time": "23h29",
+    "time_pt": "23h29",
+    "time_en": "23:29 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-14T22:34:51.084043+00:00",
-    "lastModifiedIso": "2026-07-14T22:34:51.084043+00:00",
+    "publishedIso": "2026-07-14T23:29:25.588918+00:00",
+    "lastModifiedIso": "2026-07-14T23:29:25.588918+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -356,14 +356,14 @@
     "date": "14 jul 2026",
     "date_pt": "14 jul 2026",
     "date_en": "14 Jul 2026",
-    "time": "22h34",
-    "time_pt": "22h34",
-    "time_en": "22:34 UTC",
+    "time": "23h29",
+    "time_pt": "23h29",
+    "time_en": "23:29 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-14T22:34:51.084002+00:00",
-    "lastModifiedIso": "2026-07-14T22:34:51.084002+00:00",
+    "publishedIso": "2026-07-14T23:29:25.588867+00:00",
+    "lastModifiedIso": "2026-07-14T23:29:25.588867+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -461,14 +461,14 @@
     "date": "14 jul 2026",
     "date_pt": "14 jul 2026",
     "date_en": "14 Jul 2026",
-    "time": "22h34",
-    "time_pt": "22h34",
-    "time_en": "22:34 UTC",
+    "time": "23h29",
+    "time_pt": "23h29",
+    "time_en": "23:29 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-14T22:34:51.083955+00:00",
-    "lastModifiedIso": "2026-07-14T22:34:51.083955+00:00",
+    "publishedIso": "2026-07-14T23:29:25.588806+00:00",
+    "lastModifiedIso": "2026-07-14T23:29:25.588806+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -529,6 +529,139 @@
   },
   {
     "id": 6,
+    "slug": "astronomers-uncover-the-earliest-known-signs-of-galaxy-building-in-action",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/durham-university-astr.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/durham-university-astr.jpg",
+        "caption": "Astrônomos da Universidade de Durham descobrem os primeiros sinais conhecidos de construção de galáxias em ação",
+        "caption_pt": "Astrônomos da Universidade de Durham descobrem os primeiros sinais conhecidos de construção de galáxias em ação",
+        "caption_en": "Durham University astronomers uncover the earliest known signs of galaxy-building in action",
+        "alt": "Astrônomos da Universidade de Durham descobrem os primeiros sinais conhecidos de construção de galáxias em ação",
+        "alt_pt": "Astrônomos da Universidade de Durham descobrem os primeiros sinais conhecidos de construção de galáxias em ação",
+        "alt_en": "Durham University astronomers uncover the earliest known signs of galaxy-building in action"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/durham-university-astr-1.jpg",
+        "caption": "Astrônomos da Universidade de Durham descobrem os primeiros sinais conhecidos de construção de galáxias em ação",
+        "caption_pt": "Astrônomos da Universidade de Durham descobrem os primeiros sinais conhecidos de construção de galáxias em ação",
+        "caption_en": "Durham University astronomers uncover the earliest known signs of galaxy-building in action",
+        "alt": "Astrônomos da Universidade de Durham descobrem os primeiros sinais conhecidos de construção de galáxias em ação",
+        "alt_pt": "Astrônomos da Universidade de Durham descobrem os primeiros sinais conhecidos de construção de galáxias em ação",
+        "alt_en": "Durham University astronomers uncover the earliest known signs of galaxy-building in action"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/durham-university-astr-2.jpg",
+        "caption": "Imagem residual da galáxia distante, onde um modelo foi subtraído da imagem original, e estruturas estelares não modeladas são reveladas. O preto é o excesso de luz (ou seja, a luz emitida pelas estrelas) e o branco é o déficit de luz. O.",
+        "caption_pt": "Imagem residual da galáxia distante, onde um modelo foi subtraído da imagem original, e estruturas estelares não modeladas são reveladas. O preto é o excesso de luz (ou seja, a luz emitida pelas estrelas) e o branco é o déficit de luz. O.",
+        "caption_en": "Residual image of the distant galaxy, where a model has been subtracted from the original image, and unmodelled stellar structures are revealed. Black is excess light (i.e., light emitted by stars), and white is a light deficit. The.",
+        "alt": "Astrônomos da Universidade de Durham descobrem os primeiros sinais conhecidos de construção de galáxias em ação",
+        "alt_pt": "Astrônomos da Universidade de Durham descobrem os primeiros sinais conhecidos de construção de galáxias em ação",
+        "alt_en": "Durham University astronomers uncover the earliest known signs of galaxy-building in action"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Astrônomos descobrem os primeiros sinais conhecidos de construção de galáxias em ação",
+    "title_pt": "Astrônomos descobrem os primeiros sinais conhecidos de construção de galáxias em ação",
+    "title_en": "Astronomers uncover the earliest known signs of galaxy-building in action",
+    "sub": "Os astrónomos da Universidade de Durham fizeram um grande avanço na compreensão de como as galáxias se formaram e evoluíram no Universo primitivo. Usando novas observações.",
+    "sub_pt": "Os astrónomos da Universidade de Durham fizeram um grande avanço na compreensão de como as galáxias se formaram e evoluíram no Universo primitivo. Usando novas observações.",
+    "sub_en": "Astronomers at Durham University have made a major advance in understanding how galaxies formed and evolved in the early universe. Using powerful new observations, the team.",
+    "excerpt": "Os astrónomos da Universidade de Durham fizeram um grande avanço na compreensão de como as galáxias se formaram e evoluíram no Universo primitivo. Usando novas observações poderosas, a equipe descobriu o exemplo mais distante já encontrado de um compacto.",
+    "excerpt_pt": "Os astrónomos da Universidade de Durham fizeram um grande avanço na compreensão de como as galáxias se formaram e evoluíram no Universo primitivo. Usando novas observações poderosas, a equipe descobriu o exemplo mais distante já encontrado de um compacto.",
+    "excerpt_en": "Astronomers at Durham University have made a major advance in understanding how galaxies formed and evolved in the early universe. Using powerful new observations, the team discovered the most distant example ever found of a compact.",
+    "body": "<p>Os astrónomos da Universidade de Durham fizeram um grande avanço na compreensão de como as galáxias se formaram e evoluíram no Universo primitivo. Usando novas observações poderosas, a equipe descobriu o exemplo mais distante já encontrado de um compacto. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Imagem infantil do pôster de uma galáxia.</p><p>Https: //www. eso. org/public/images/eso0438d/ Os astrónomos da Universidade de Durham fizeram um grande avanço na compreensão de como as galáxias se formaram e evoluíram no. Usando novas observações poderosas, a equipe descobriu o exemplo mais distante já encontrado de uma estrutura compacta de formação de estrelas no coração de uma galáxia, que.</p><p>A investigação revela evidências claras de um “disco nuclear” (um disco denso e rotativo de estrelas no centro de uma galáxia) que se formou numa altura em que o Universo ainda. O trabalho foi publicado na revista Monthly Notices of the Royal Astronomical Society.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-astronomers-uncover-earliest-galaxy-action.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os astrónomos da Universidade de Durham fizeram um grande avanço na compreensão de como as galáxias se formaram e evoluíram no Universo primitivo. Usando novas observações poderosas, a equipe descobriu o exemplo mais distante já encontrado de um compacto. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Imagem infantil do pôster de uma galáxia.</p><p>Https: //www. eso. org/public/images/eso0438d/ Os astrónomos da Universidade de Durham fizeram um grande avanço na compreensão de como as galáxias se formaram e evoluíram no. Usando novas observações poderosas, a equipe descobriu o exemplo mais distante já encontrado de uma estrutura compacta de formação de estrelas no coração de uma galáxia, que.</p><p>A investigação revela evidências claras de um “disco nuclear” (um disco denso e rotativo de estrelas no centro de uma galáxia) que se formou numa altura em que o Universo ainda. O trabalho foi publicado na revista Monthly Notices of the Royal Astronomical Society.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-astronomers-uncover-earliest-galaxy-action.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Astronomers at Durham University have made a major advance in understanding how galaxies formed and evolved in the early universe. Using powerful new observations, the team discovered the most distant example ever found of a compact. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Poster child image of a barred galaxy, NGC 1097, with a nuclear.</p><p>Https: //www. eso. org/public/images/eso0438d/ Astronomers at Durham University have made a major advance in understanding how galaxies formed and evolved in the early universe. Using powerful new observations, the team discovered the most distant example ever found of a compact, star-forming structure at the heart of a galaxy, dating back more than 9.</p><p>The research reveals clear evidence of a &quot;nuclear disk&quot; (a dense, rotating disk of stars at the very center of a galaxy) forming at a time when the universe was still relatively. The work has been published in Monthly Notices of the Royal Astronomical Society.</p><p>Nuclear disks are common in nearby, mature galaxies, but until now, they had never been observed so far back in cosmic history. The galaxy they studied is seen as it was just 4.5 billion years after the Big Bang.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>At its center, the researchers identified a nuclear disk that is actively forming new stars and still growing. These bars are a familiar feature of many present-day spiral galaxies and act like cosmic engines, driving gas and stars toward the center and helping new structures form.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-astronomers-uncover-earliest-galaxy-action.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os astrónomos da Universidade de Durham fizeram um grande avanço na compreensão de como as galáxias se formaram e evoluíram no Universo primitivo.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os astrónomos da Universidade de Durham fizeram um grande avanço na compreensão de como as galáxias se formaram e evoluíram no Universo primitivo.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Astronomers at Durham University have made a major advance in understanding how galaxies formed and evolved in the early universe. Using powerful new.",
+      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "14 jul 2026",
+    "date_pt": "14 jul 2026",
+    "date_en": "14 Jul 2026",
+    "time": "23h00",
+    "time_pt": "23h00",
+    "time_en": "23:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-14T23:00:07+00:00",
+    "lastModifiedIso": "2026-07-14T23:00:07+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Astrônomos descobrem os primeiros sinais conhecidos de construção de galáxias em ação"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Astrônomos descobrem os primeiros sinais conhecidos de construção de galáxias em ação"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Astronomers Discover First Known Signs of Galaxy Building in Action"
+    ],
+    "srcUrl": "https://phys.org/news/2026-07-astronomers-uncover-earliest-galaxy-action.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-uncover-the-earliest-known-signs-of-galaxy-building-in-action",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-uncover-the-earliest-known-signs-of-galaxy-building-in-action",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-uncover-the-earliest-known-signs-of-galaxy-building-in-action&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "the-oldest-stars-in-the-galaxy-just-weighed-in-on-one-of-cosmology-s-biggest-arguments",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -647,7 +780,7 @@
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -661,7 +794,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "nasa-invites-media-to-serbia-artemis-accords-signing-ceremony",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -766,7 +899,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "with-an-eye-toward-exploration-researchers-map-moon-s-regolith-thickness",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -902,7 +1035,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "rogue-neptunes-are-detached-but-not-alone",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1038,255 +1171,7 @@
     }
   },
   {
-    "id": 10,
-    "slug": "artificial-intelligence-is-easily-fooled-in-the-search-for-life",
-    "cat": "Biologia",
-    "catCls": "biologia",
-    "img": "https://www.universetoday.com/article_images/ooastrobiology.9_20260714_185400.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/PIA25738-scaled_20260714_185915.jpg",
-        "caption": "Esta imagem mostra alguns dos tubos de amostra que o rover Perseverance coletou durante sua estada em Marte. Eles",
-        "caption_pt": "Esta imagem mostra alguns dos tubos de amostra que o rover Perseverance coletou durante sua estada em Marte. Eles",
-        "caption_en": "This image shows some of the sample tubes that the Perseverance rover has collected during its time on Mars. They",
-        "alt": "Esta imagem mostra alguns dos tubos de amostra que o rover Perseverance coletou durante sua estada em Marte. Eles",
-        "alt_pt": "Esta imagem mostra alguns dos tubos de amostra que o rover Perseverance coletou durante sua estada em Marte. Eles",
-        "alt_en": "This image shows some of the sample tubes that the Perseverance rover has collected during its time on Mars. They"
-      },
-      {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "A inteligência artificial é facilmente enganada na busca pela vida",
-    "title_pt": "A inteligência artificial é facilmente enganada na busca pela vida",
-    "title_en": "Artificial Intelligence is Easily Fooled in the Search for Life",
-    "sub": "A IA é uma ferramenta poderosa na pesquisa científica. Ele pode ser usado para encontrar padrões em grandes quantidades de dados. Mas também gera falsos positivos, como a maioria.",
-    "sub_pt": "A IA é uma ferramenta poderosa na pesquisa científica. Ele pode ser usado para encontrar padrões em grandes quantidades de dados. Mas também gera falsos positivos, como a maioria.",
-    "sub_en": "AI is a powerful tool in scientific research. It can be used to find patterns in vast quantities of data. But it also generates false positives, as most of us know. This is an.",
-    "excerpt": "A IA é uma ferramenta poderosa na pesquisa científica. Ele pode ser usado para encontrar padrões em grandes quantidades de dados. Mas também gera falsos positivos, como a maioria de nós sabe. Este é um “calcanhar de Aquiles”, de acordo com pesquisadores que.",
-    "excerpt_pt": "A IA é uma ferramenta poderosa na pesquisa científica. Ele pode ser usado para encontrar padrões em grandes quantidades de dados. Mas também gera falsos positivos, como a maioria de nós sabe. Este é um “calcanhar de Aquiles”, de acordo com pesquisadores que.",
-    "excerpt_en": "AI is a powerful tool in scientific research. It can be used to find patterns in vast quantities of data. But it also generates false positives, as most of us know. This is an \"Achilles Heel\" according to researchers who tested a neural.",
-    "body": "<p>A IA é uma ferramenta poderosa na pesquisa científica. Ele pode ser usado para encontrar padrões em grandes quantidades de dados. Mas também gera falsos positivos, como a maioria de nós sabe. Este é um “calcanhar de Aquiles”, de acordo com pesquisadores que testaram um neural. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Podemos ver o que parece ser um rosto, por exemplo, em rocha simples, como acontece com o Homem na Lua. Mas, infelizmente, como mostram novas pesquisas, o reconhecimento de padrões da IA ​​está sujeito ao fracasso da mesma forma que o nosso.</p><p>Lições de Vida Artificial”, e será apresentado em agosto na Conferência sobre Vida Artificial de 2026 em Waterloo, Canadá. Neste trabalho, eles mostram que esses sistemas podem afirmar com 100% de certeza que uma amostra que estão estudando é um organismo vivo, mesmo quando não o é.</p><p>Como as amostras extraterrestres estão muito provavelmente fora da distribuição fornecida pelas amostras bióticas e abióticas terrestres, o uso de métodos de IA para detecção de. Na missão futura, a IA terá a tarefa de detectar vida.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/artificial-intelligence-is-easily-fooled-in-the-search-for-life\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A IA é uma ferramenta poderosa na pesquisa científica. Ele pode ser usado para encontrar padrões em grandes quantidades de dados. Mas também gera falsos positivos, como a maioria de nós sabe. Este é um “calcanhar de Aquiles”, de acordo com pesquisadores que testaram um neural. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Podemos ver o que parece ser um rosto, por exemplo, em rocha simples, como acontece com o Homem na Lua. Mas, infelizmente, como mostram novas pesquisas, o reconhecimento de padrões da IA ​​está sujeito ao fracasso da mesma forma que o nosso.</p><p>Lições de Vida Artificial”, e será apresentado em agosto na Conferência sobre Vida Artificial de 2026 em Waterloo, Canadá. Neste trabalho, eles mostram que esses sistemas podem afirmar com 100% de certeza que uma amostra que estão estudando é um organismo vivo, mesmo quando não o é.</p><p>Como as amostras extraterrestres estão muito provavelmente fora da distribuição fornecida pelas amostras bióticas e abióticas terrestres, o uso de métodos de IA para detecção de. Na missão futura, a IA terá a tarefa de detectar vida.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/artificial-intelligence-is-easily-fooled-in-the-search-for-life\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>AI is a powerful tool in scientific research. It can be used to find patterns in vast quantities of data. But it also generates false positives, as most of us know. This is an &quot;Achilles Heel&quot; according to researchers who tested a neural. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. We can see what looks like a face, for example, in simple rock, as with the Man in the Moon. But, alas, as new research shows, AI&#x27;s pattern recognition is prone to failure the same way ours is.</p><p>Lessons from Artificial Life,&quot; and will be presented in August at the 2026 Conference on Artificial Life in Waterloo, Canada. In this work, they show that these systems can state with 100% certainty that a sample they&#x27;re studying is a living organism, even when it isn&#x27;t.</p><p>Because extra-terrestrial samples are very likely out of the distribution provided by terrestrial biotic and abiotic samples, using AI methods for life detection is likely to. In future mission, AI will be handed the job of detecing life.</p><p>The neural network correctly distinguished between both types with a 99.7% accuracy. The AI became confused, and in as few as 150 tweaks to the code, it confidently proclaimed that it had detected life, even though the digital organism couldn&#x27;t replicate.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>We found all runs resulting in 100% spoofing confidence as early as 150 model queries,&quot; the authors write. No matter what sequence of commands we started with, we were able to fool the AI 100% of the time,&quot; said Gupta, a PhD student in computer science and engineering at MSU.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/artificial-intelligence-is-easily-fooled-in-the-search-for-life\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A IA é uma ferramenta poderosa na pesquisa científica. Ele pode ser usado para encontrar padrões em grandes quantidades de dados. Mas também gera.",
-      "Dado-chave: Podemos ver o que parece ser um rosto, por exemplo, em rocha simples, como acontece com o Homem na Lua.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A IA é uma ferramenta poderosa na pesquisa científica. Ele pode ser usado para encontrar padrões em grandes quantidades de dados. Mas também gera.",
-      "Dado-chave: Podemos ver o que parece ser um rosto, por exemplo, em rocha simples, como acontece com o Homem na Lua.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: AI is a powerful tool in scientific research. It can be used to find patterns in vast quantities of data. But it also generates false positives, as.",
-      "Key detail: We can see what looks like a face, for example, in simple rock, as with the Man in the Moon.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "14 jul 2026",
-    "date_pt": "14 jul 2026",
-    "date_en": "14 Jul 2026",
-    "time": "19h21",
-    "time_pt": "19h21",
-    "time_en": "19:21 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-14T19:21:52+00:00",
-    "lastModifiedIso": "2026-07-14T19:21:52+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Biologia",
-      "Universe Today",
-      "Cosmos Week",
-      "A inteligência artificial é facilmente enganada na busca pela vida"
-    ],
-    "keywords_pt": [
-      "Biologia",
-      "Universe Today",
-      "Cosmos Week",
-      "A inteligência artificial é facilmente enganada na busca pela vida"
-    ],
-    "keywords_en": [
-      "Biology",
-      "Universe Today",
-      "Cosmos Week",
-      "Artificial intelligence is easily fooled in the search for life"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/artificial-intelligence-is-easily-fooled-in-the-search-for-life",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=artificial-intelligence-is-easily-fooled-in-the-search-for-life",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=artificial-intelligence-is-easily-fooled-in-the-search-for-life",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=artificial-intelligence-is-easily-fooled-in-the-search-for-life&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 73,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
     "id": 11,
-    "slug": "nasa-study-points-to-smoother-air-taxi-rides",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2023/07/afrc2025-0184-36.jpg?w=2048",
-    "inline_images": [
-      {
-        "src": "https://images-assets.nasa.gov/image/AFRC2026-0004-020/AFRC2026-0004-020~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://images-assets.nasa.gov/image/AFRC2026-0095-04/AFRC2026-0095-04~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Estudo da NASA aponta para viagens de táxi aéreo mais suaves",
-    "title_pt": "Estudo da NASA aponta para viagens de táxi aéreo mais suaves",
-    "title_en": "NASA Study Points to Smoother Air Taxi Rides",
-    "sub": "Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos – pequenas aeronaves de decolagem e pouso verticais.",
-    "sub_pt": "Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos – pequenas aeronaves de decolagem e pouso verticais.",
-    "sub_en": "No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short.",
-    "excerpt": "Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos – pequenas aeronaves de decolagem e pouso verticais destinadas a viagens curtas – a compreender a relação entre conforto e.",
-    "excerpt_pt": "Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos – pequenas aeronaves de decolagem e pouso verticais destinadas a viagens curtas – a compreender a relação entre conforto e.",
-    "excerpt_en": "No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips, understand the relationship between comfort and.",
-    "body": "<p>Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de decolagem e pouso verticais destinadas a viagens curtas, a compreender a relação entre conforto e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. É aí que entra a NASA, com dados que podem ajudar a identificar como planejar viagens de táxi aéreo que podem. 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) Matt Kamlet, funcionário do Armstrong Flight Research Center da NASA em.</p><p>A NASA concluiu recentemente um estudo de vários anos para entender como o movimento grande e repentino do táxi aéreo afeta o conforto da viagem. NASA/Christopher LC Clark Ninguém quer entrar em uma aeronave desconfortável.</p><p>A investigação da NASA poderá ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de descolagem e aterragem verticais destinadas a viagens curtas, a compreender a. É aí que entra a NASA, com dados que podem ajudar a identificar como planejar viagens de táxi aéreo que possam fazer com que os viajantes se sintam bem.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de decolagem e pouso verticais destinadas a viagens curtas, a compreender a relação entre conforto e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. É aí que entra a NASA, com dados que podem ajudar a identificar como planejar viagens de táxi aéreo que podem. 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) Matt Kamlet, funcionário do Armstrong Flight Research Center da NASA em.</p><p>A NASA concluiu recentemente um estudo de vários anos para entender como o movimento grande e repentino do táxi aéreo afeta o conforto da viagem. NASA/Christopher LC Clark Ninguém quer entrar em uma aeronave desconfortável.</p><p>A investigação da NASA poderá ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de descolagem e aterragem verticais destinadas a viagens curtas, a compreender a. É aí que entra a NASA, com dados que podem ajudar a identificar como planejar viagens de táxi aéreo que possam fazer com que os viajantes se sintam bem.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips, understand the relationship between comfort and. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. That’s where NASA comes in, with data that can help identify how to plan air taxi rides that can. 3 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) Matt Kamlet, an employee at NASA’s Armstrong Flight Research Center in Edwards, California, sits.</p><p>NASA recently completed a multi-year study to understand how large, sudden air taxi motion affects ride comfort. NASA/Christopher LC Clark No one wants to get into an uncomfortable aircraft.</p><p>NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips, understand the relationship between comfort and. That’s where NASA comes in, with data that can help identify how to plan air taxi rides that can keep travelers feeling good.</p><p>NASA was able to gather that data by putting its own employees through some rough virtual flights. Their reactions are giving NASA new insight into how aircraft motion influences comfort and confidence in flight, for instance, that certain kinds of large, sudden motions can be.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Using that data, the team developed new models linking those sudden motions to passengers’ willingness to fly. The NASA data allows researchers to estimate when passengers may begin to feel uncomfortable as motion increases, giving them the ability to shape aircraft designs and operations.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de.",
-      "Dado-chave: É aí que entra a NASA, com dados que podem ajudar a identificar como planejar viagens de táxi aéreo que podem [.]",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de.",
-      "Dado-chave: É aí que entra a NASA, com dados que podem ajudar a identificar como planejar viagens de táxi aéreo que podem [.]",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing.",
-      "Key detail: That’s where NASA comes in, with data that can help identify how to plan air taxi rides that can [.]",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "13 jul 2026",
-    "date_pt": "13 jul 2026",
-    "date_en": "13 Jul 2026",
-    "time": "21h46",
-    "time_pt": "21h46",
-    "time_en": "21:46 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-13T21:46:11+00:00",
-    "lastModifiedIso": "2026-07-13T21:46:11+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Estudo da NASA aponta para viagens de táxi aéreo mais suaves"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Estudo da NASA aponta para viagens de táxi aéreo mais suaves"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA study points to smoother air taxi rides"
-    ],
-    "srcUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-study-points-to-smoother-air-taxi-rides",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-study-points-to-smoother-air-taxi-rides",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-study-points-to-smoother-air-taxi-rides&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 12,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1422,7 +1307,7 @@
     }
   },
   {
-    "id": 13,
+    "id": 12,
     "slug": "science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1561,7 +1446,7 @@
     }
   },
   {
-    "id": 14,
+    "id": 13,
     "slug": "nasa-s-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1694,7 +1579,7 @@
     }
   },
   {
-    "id": 15,
+    "id": 14,
     "slug": "nasa-s-roman-telescope-will-spot-distant-black-holes-that-shred-stars",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1812,7 +1697,7 @@
     }
   },
   {
-    "id": 16,
+    "id": 15,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1948,7 +1833,7 @@
     }
   },
   {
-    "id": 17,
+    "id": 16,
     "slug": "webb-studies-how-a-planet-survived-the-death-of-its-star",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2053,7 +1938,7 @@
     }
   },
   {
-    "id": 18,
+    "id": 17,
     "slug": "data-driven-tool-can-find-mineral-biosignatures-on-other-worlds",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2186,7 +2071,7 @@
     }
   },
   {
-    "id": 19,
+    "id": 18,
     "slug": "are-we-missing-the-universe-s-noosignatures",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2314,7 +2199,7 @@
     }
   },
   {
-    "id": 20,
+    "id": 19,
     "slug": "update-on-ocean-observatories-initiative",
     "cat": "Física",
     "catCls": "fisica",
@@ -2438,7 +2323,7 @@
     }
   },
   {
-    "id": 21,
+    "id": 20,
     "slug": "the-us-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-",
     "cat": "Física",
     "catCls": "fisica",
@@ -2571,7 +2456,7 @@
     }
   },
   {
-    "id": 22,
+    "id": 21,
     "slug": "on-11-july-2026-set-off-on-the-future-explorers-adventure-at-cern",
     "cat": "Física",
     "catCls": "fisica",
@@ -2679,7 +2564,7 @@
     }
   },
   {
-    "id": 23,
+    "id": 22,
     "slug": "most-of-moon-s-water-likely-remains-chemically-bound-in-its-deep-interior",
     "cat": "Química",
     "catCls": "quimica",
@@ -2816,7 +2701,7 @@
     }
   },
   {
-    "id": 24,
+    "id": 23,
     "slug": "frame-dragging-observations-validate-einstein-yet-again",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2949,7 +2834,7 @@
     }
   },
   {
-    "id": 25,
+    "id": 24,
     "slug": "astronomers-find-new-features-hiding-in-the-orion-nebula",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3079,6 +2964,130 @@
       "relevance": 80,
       "accessibility": 60,
       "novelty": 55
+    }
+  },
+  {
+    "id": 25,
+    "slug": "nasa-study-points-to-smoother-air-taxi-rides",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2023/07/afrc2025-0184-36.jpg?w=2048",
+    "inline_images": [
+      {
+        "src": "https://images-assets.nasa.gov/image/AFRC2026-0004-020/AFRC2026-0004-020~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://images-assets.nasa.gov/image/AFRC2026-0095-04/AFRC2026-0095-04~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Estudo da NASA aponta para viagens de táxi aéreo mais suaves",
+    "title_pt": "Estudo da NASA aponta para viagens de táxi aéreo mais suaves",
+    "title_en": "NASA Study Points to Smoother Air Taxi Rides",
+    "sub": "Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos – pequenas aeronaves de decolagem e pouso verticais.",
+    "sub_pt": "Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos – pequenas aeronaves de decolagem e pouso verticais.",
+    "sub_en": "No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short.",
+    "excerpt": "Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos – pequenas aeronaves de decolagem e pouso verticais destinadas a viagens curtas – a compreender a relação entre conforto e.",
+    "excerpt_pt": "Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos – pequenas aeronaves de decolagem e pouso verticais destinadas a viagens curtas – a compreender a relação entre conforto e.",
+    "excerpt_en": "No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips, understand the relationship between comfort and.",
+    "body": "<p>Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de decolagem e pouso verticais destinadas a viagens curtas, a compreender a relação entre conforto e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. É aí que entra a NASA, com dados que podem ajudar a identificar como planejar viagens de táxi aéreo que podem. 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) Matt Kamlet, funcionário do Armstrong Flight Research Center da NASA em.</p><p>A NASA concluiu recentemente um estudo de vários anos para entender como o movimento grande e repentino do táxi aéreo afeta o conforto da viagem. NASA/Christopher LC Clark Ninguém quer entrar em uma aeronave desconfortável.</p><p>A investigação da NASA poderá ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de descolagem e aterragem verticais destinadas a viagens curtas, a compreender a. É aí que entra a NASA, com dados que podem ajudar a identificar como planejar viagens de táxi aéreo que possam fazer com que os viajantes se sintam bem.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de decolagem e pouso verticais destinadas a viagens curtas, a compreender a relação entre conforto e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. É aí que entra a NASA, com dados que podem ajudar a identificar como planejar viagens de táxi aéreo que podem. 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) Matt Kamlet, funcionário do Armstrong Flight Research Center da NASA em.</p><p>A NASA concluiu recentemente um estudo de vários anos para entender como o movimento grande e repentino do táxi aéreo afeta o conforto da viagem. NASA/Christopher LC Clark Ninguém quer entrar em uma aeronave desconfortável.</p><p>A investigação da NASA poderá ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de descolagem e aterragem verticais destinadas a viagens curtas, a compreender a. É aí que entra a NASA, com dados que podem ajudar a identificar como planejar viagens de táxi aéreo que possam fazer com que os viajantes se sintam bem.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips, understand the relationship between comfort and. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. That’s where NASA comes in, with data that can help identify how to plan air taxi rides that can. 3 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) Matt Kamlet, an employee at NASA’s Armstrong Flight Research Center in Edwards, California, sits.</p><p>NASA recently completed a multi-year study to understand how large, sudden air taxi motion affects ride comfort. NASA/Christopher LC Clark No one wants to get into an uncomfortable aircraft.</p><p>NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips, understand the relationship between comfort and. That’s where NASA comes in, with data that can help identify how to plan air taxi rides that can keep travelers feeling good.</p><p>NASA was able to gather that data by putting its own employees through some rough virtual flights. Their reactions are giving NASA new insight into how aircraft motion influences comfort and confidence in flight, for instance, that certain kinds of large, sudden motions can be.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Using that data, the team developed new models linking those sudden motions to passengers’ willingness to fly. The NASA data allows researchers to estimate when passengers may begin to feel uncomfortable as motion increases, giving them the ability to shape aircraft designs and operations.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de.",
+      "Dado-chave: É aí que entra a NASA, com dados que podem ajudar a identificar como planejar viagens de táxi aéreo que podem [.]",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de.",
+      "Dado-chave: É aí que entra a NASA, com dados que podem ajudar a identificar como planejar viagens de táxi aéreo que podem [.]",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing.",
+      "Key detail: That’s where NASA comes in, with data that can help identify how to plan air taxi rides that can [.]",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "13 jul 2026",
+    "date_pt": "13 jul 2026",
+    "date_en": "13 Jul 2026",
+    "time": "21h46",
+    "time_pt": "21h46",
+    "time_en": "21:46 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-13T21:46:11+00:00",
+    "lastModifiedIso": "2026-07-13T21:46:11+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Estudo da NASA aponta para viagens de táxi aéreo mais suaves"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Estudo da NASA aponta para viagens de táxi aéreo mais suaves"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA study points to smoother air taxi rides"
+    ],
+    "srcUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-study-points-to-smoother-air-taxi-rides",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-study-points-to-smoother-air-taxi-rides",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-study-points-to-smoother-air-taxi-rides&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
     }
   },
   {
@@ -3565,22 +3574,13 @@
   },
   {
     "id": 30,
-    "slug": "magnetic-fingerprint-of-a-cosmic-explosion-detected-for-the-first-time",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/magnetic-fingerprint-o.jpg",
+    "slug": "an-ancient-stellar-passage-altered-the-orbits-of-comets-we-see-today",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.universetoday.com/article_images/Screenshot_2026-07-14_102822_20260714_143320.png",
     "inline_images": [
       {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/magnetic-fingerprint-o.jpg",
-        "caption": "Esta ilustração mostra a rotação de Faraday no brilho de uma explosão de raios gama. Um jato poderoso (canto superior esquerdo) envia ondas de rádio polarizadas para fora através da parede fina de uma bolha circundante de gás magnetizado chamada região HII. Como o.",
-        "caption_pt": "Esta ilustração mostra a rotação de Faraday no brilho de uma explosão de raios gama. Um jato poderoso (canto superior esquerdo) envia ondas de rádio polarizadas para fora através da parede fina de uma bolha circundante de gás magnetizado chamada região HII. Como o.",
-        "caption_en": "This illustration depicts Faraday rotation in the afterglow of a gamma-ray burst. A powerful jet (upper left) sends polarized radio waves outward through the thin wall of a surrounding bubble of magnetized gas called an HII region. As the.",
-        "alt": "Impressão digital magnética de uma explosão cósmica pela primeira vez",
-        "alt_pt": "Impressão digital magnética de uma explosão cósmica pela primeira vez",
-        "alt_en": "Magnetic fingerprint of a cosmic explosion for the first time"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f6b420961b46f94b.jpg",
+        "src": "https://www.universetoday.com/article_images/Gaia_20260714_143712.jpg",
         "caption": "",
         "caption_pt": "",
         "caption_en": "",
@@ -3589,7 +3589,16 @@
         "alt_en": ""
       },
       {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/8b33bc1b4d9f6b4c.jpg",
+        "src": "https://www.universetoday.com/article_images/Screenshot_2026-07-13_103928_20260714_143836.png",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/54111879280_f74bff4b9e_c_20260714_143511.jpg",
         "caption": "",
         "caption_pt": "",
         "caption_en": "",
@@ -3598,48 +3607,61 @@
         "alt_en": ""
       }
     ],
-    "video": null,
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/wezbnsu4dmu",
+      "fileUrl": "",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://www.universetoday.com/articles/an-ancient-stellar-passage-altered-the-orbits-of-comets-we-see-today"
+    },
     "audio": null,
-    "title": "Impressão digital magnética de uma explosão cósmica detectada pela primeira vez",
-    "title_pt": "Impressão digital magnética de uma explosão cósmica detectada pela primeira vez",
-    "title_en": "Magnetic fingerprint of a cosmic explosion detected for the first time",
-    "sub": "Os astrônomos fizeram uma série de observações marcantes de um dos eventos mais violentos do universo. Usando o radiotelescópio Very Large Array da Fundação Nacional de Ciência.",
-    "sub_pt": "Os astrônomos fizeram uma série de observações marcantes de um dos eventos mais violentos do universo. Usando o radiotelescópio Very Large Array da Fundação Nacional de Ciência.",
-    "sub_en": "Astronomers have made a series of landmark observations of one of the universe's most violent events. Using the U. S. National Science Foundation Very Large Array radio telescope.",
-    "excerpt": "Os astrônomos fizeram uma série de observações marcantes de um dos eventos mais violentos do universo. Usando o radiotelescópio Very Large Array da Fundação Nacional de Ciência dos EUA, que é operado pela Fundação Nacional de Ciência dos EUA.",
-    "excerpt_pt": "Os astrônomos fizeram uma série de observações marcantes de um dos eventos mais violentos do universo. Usando o radiotelescópio Very Large Array da Fundação Nacional de Ciência dos EUA, que é operado pela Fundação Nacional de Ciência dos EUA.",
-    "excerpt_en": "Astronomers have made a series of landmark observations of one of the universe's most violent events. Using the U. S. National Science Foundation Very Large Array radio telescope, which is operated by the U. S. National Science Foundation.",
-    "body": "<p>Os astrônomos fizeram uma série de observações marcantes de um dos eventos mais violentos do universo. Usando o radiotelescópio Very Large Array da Fundação Nacional de Ciência dos EUA, que é operado pela Fundação Nacional de Ciência dos EUA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Ao medir esta diferença, os astrónomos conseguiram mapear pela primeira vez o ambiente magnético que rodeia GRB 260310A. Radiotelescópio Very Large Array da National Science Foundation (NSF VLA), operado pelos EUA.</p><p>Observatório Nacional de Radioastronomia da National Science Foundation (NSF NRAO), a equipe detectou luz polarizada de um brilho residual de explosão de raios gama (GRB) pela. Também marca a primeira vez que os cientistas detectaram a rotação de Faraday numa GRB, um fenómeno no qual os campos magnéticos fazem com que a polarização da luz se torça à.</p><p>O artigo foi submetido ao The Astrophysical Journal Letters e está disponível no servidor de pré-impressão arXiv. A explosão em questão, designada GRB 260310A, estava relativamente próxima da Terra pelos padrões cósmicos, tornando o seu brilho de rádio um dos mais brilhantes vistos em décadas.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-magnetic-fingerprint-cosmic-explosion.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os astrônomos fizeram uma série de observações marcantes de um dos eventos mais violentos do universo. Usando o radiotelescópio Very Large Array da Fundação Nacional de Ciência dos EUA, que é operado pela Fundação Nacional de Ciência dos EUA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Ao medir esta diferença, os astrónomos conseguiram mapear pela primeira vez o ambiente magnético que rodeia GRB 260310A. Radiotelescópio Very Large Array da National Science Foundation (NSF VLA), operado pelos EUA.</p><p>Observatório Nacional de Radioastronomia da National Science Foundation (NSF NRAO), a equipe detectou luz polarizada de um brilho residual de explosão de raios gama (GRB) pela. Também marca a primeira vez que os cientistas detectaram a rotação de Faraday numa GRB, um fenómeno no qual os campos magnéticos fazem com que a polarização da luz se torça à.</p><p>O artigo foi submetido ao The Astrophysical Journal Letters e está disponível no servidor de pré-impressão arXiv. A explosão em questão, designada GRB 260310A, estava relativamente próxima da Terra pelos padrões cósmicos, tornando o seu brilho de rádio um dos mais brilhantes vistos em décadas.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-magnetic-fingerprint-cosmic-explosion.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Made a series of landmark observations of one of the universe&#x27;s most violent events. Using the U. S. National Science Foundation Very Large Array radio telescope, which is operated by the U. S. National Science Foundation. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. By measuring this difference, astronomers were able to map the magnetic environment surrounding GRB 260310A for the first time. National Science Foundation Very Large Array (NSF VLA) radio telescope, which is operated by the U. S.</p><p>National Science Foundation National Radio Astronomy Observatory (NSF NRAO), the team detected polarized light from a gamma-ray burst (GRB) afterglow for the first time at radio. It also marks the first time scientists have detected Faraday rotation in a GRB, a phenomenon in which magnetic fields cause the polarization of light to twist as it travels.</p><p>The paper has been submitted to The Astrophysical Journal Letters and is available on the arXiv preprint server. The burst in question, designated GRB 260310A, was relatively nearby to Earth by cosmic standards, making its radio afterglow one of the brightest seen in decades.</p><p>Instead, it points to an exceptionally dense, magnetized cloud of gas surrounding the star that exploded to produce GRB 260310A. Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>The fact that GRB 260310A appears to have exploded inside such a region is consistent with GRBs arising from the deaths of the most massive stars and may help scientists. Now, with the NSF VLA, we&#x27;ve pushed into the centimeter bands and made the first-ever measurement of Faraday rotation in a GRB.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-magnetic-fingerprint-cosmic-explosion.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Uma antiga passagem estelar alterou as órbitas dos cometas que vemos hoje",
+    "title_pt": "Uma antiga passagem estelar alterou as órbitas dos cometas que vemos hoje",
+    "title_en": "An Ancient Stellar Passage Altered the Orbits of Comets We See Today",
+    "sub": "Um estudo recente do Planetary Science Institute observa que a passagem próxima da estrela HD 7977 pode ter desencadeado uma cascata, enviando cometas de longo período em direção.",
+    "sub_pt": "Um estudo recente do Planetary Science Institute observa que a passagem próxima da estrela HD 7977 pode ter desencadeado uma cascata, enviando cometas de longo período em direção.",
+    "sub_en": "A recent study out of the Planetary Science Institute notes that the close passage of the star HD 7977 may have triggered a cascade, sending long-period comets sunward. What’s.",
+    "excerpt": "Um estudo recente do Planetary Science Institute observa que a passagem próxima da estrela HD 7977 pode ter desencadeado uma cascata, enviando cometas de longo período em direção ao Sol. Além do mais, o mesmo aumento nos cometas de longo período ainda pode.",
+    "excerpt_pt": "Um estudo recente do Planetary Science Institute observa que a passagem próxima da estrela HD 7977 pode ter desencadeado uma cascata, enviando cometas de longo período em direção ao Sol. Além do mais, o mesmo aumento nos cometas de longo período ainda pode.",
+    "excerpt_en": "A recent study out of the Planetary Science Institute notes that the close passage of the star HD 7977 may have triggered a cascade, sending long-period comets sunward. What’s more, the same uptick in long-period comets may still be.",
+    "body": "<p>Um estudo recente do Planetary Science Institute observa que a passagem próxima da estrela HD 7977 pode ter desencadeado uma cascata, enviando cometas de longo período em direção ao Sol. Além do mais, o mesmo aumento nos cometas de longo período ainda pode ocorrer. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Agora, um estudo recente do Planetary Science Institute observa que a passagem próxima da estrela HD 7977 pode ter desencadeado uma cascata, enviando cometas de longo período em. A missão Gaia da Agência Espacial Europeia identificou pela primeira vez a passagem próxima de HD 7977 perto do nosso sistema solar.</p><p>Sucessora da missão Hipparcos da ESA, o papel do Gaia era fazer medições precisas do brilho, posição e movimento de mais de mil milhões de estrelas, num esforço para mapear com. A missão de Gaia terminou no início de 2025, mas os investigadores continuarão a analisar o enorme volume de dados criados pela missão durante o resto da década.</p><p>A nave espacial Gaia da ESA na sala limpa antes do lançamento.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/an-ancient-stellar-passage-altered-the-orbits-of-comets-we-see-today\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Um estudo recente do Planetary Science Institute observa que a passagem próxima da estrela HD 7977 pode ter desencadeado uma cascata, enviando cometas de longo período em direção ao Sol. Além do mais, o mesmo aumento nos cometas de longo período ainda pode ocorrer. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Agora, um estudo recente do Planetary Science Institute observa que a passagem próxima da estrela HD 7977 pode ter desencadeado uma cascata, enviando cometas de longo período em. A missão Gaia da Agência Espacial Europeia identificou pela primeira vez a passagem próxima de HD 7977 perto do nosso sistema solar.</p><p>Sucessora da missão Hipparcos da ESA, o papel do Gaia era fazer medições precisas do brilho, posição e movimento de mais de mil milhões de estrelas, num esforço para mapear com. A missão de Gaia terminou no início de 2025, mas os investigadores continuarão a analisar o enorme volume de dados criados pela missão durante o resto da década.</p><p>A nave espacial Gaia da ESA na sala limpa antes do lançamento.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/an-ancient-stellar-passage-altered-the-orbits-of-comets-we-see-today\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A recent study out of the Planetary Science Institute notes that the close passage of the star HD 7977 may have triggered a cascade, sending long-period comets sunward. What’s more, the same uptick in long-period comets may still be. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A recent study out of the Planetary Science Institute notes that the close passage of the star HD 7977 may have triggered a cascade, sending long-period comets sunward. Now, a recent study out of the Planetary Science Institute notes that the close passage of the star HD 7977 may have triggered a cascade, sending long-period comets sunward.</p><p>The European Space Agency’s Gaia mission first identified the close passage of HD 7977 near our solar system. A successor to ESA&#x27;s Hipparcos mission, Gaia’s role was to make precise measurements in the brightness, position and motion of over a billion stars, in an effort to accurately map.</p><p>Gaia’s mission came to an end in early 2025, but the researchers will continue to pour over the enormous volume of data created by the mission through the remainder of the decade. ESA&#x27;s Gaia spacecraft in the clean room ahead of launch.</p><p>Now located in the constellation of Cassiopeia the Queen, early estimates placed the passage of HD 7977 at 4,000 to 25,000 Astronomical Units (AUs) from the Sun. Voyager 1, most distant human-built object ever sent into space, is now just over 171 AU from the Sun.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>This vast reservoir located 2,000 to 200,000 AU from the Sun is the source of long-period comets, which are occasionally jostled and sent sunward. “The distribution of comet orbits suggests we are living through an unusual time where HD 7977 has dominated the generation of new comets and not the larger gravitational field of.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/an-ancient-stellar-passage-altered-the-orbits-of-comets-we-see-today\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Os astrônomos fizeram uma série de observações marcantes de um dos eventos mais violentos do universo. Usando o radiotelescópio Very Large Array da.",
-      "Dado-chave: Ao medir esta diferença, os astrónomos conseguiram mapear pela primeira vez o ambiente magnético que rodeia GRB 260310A.",
+      "Ponto central: Um estudo recente do Planetary Science Institute observa que a passagem próxima da estrela HD 7977 pode ter desencadeado uma cascata, enviando.",
+      "Dado-chave: Um estudo recente do Planetary Science Institute observa que a passagem próxima da estrela HD 7977 pode ter desencadeado uma cascata, enviando.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Os astrônomos fizeram uma série de observações marcantes de um dos eventos mais violentos do universo. Usando o radiotelescópio Very Large Array da.",
-      "Dado-chave: Ao medir esta diferença, os astrónomos conseguiram mapear pela primeira vez o ambiente magnético que rodeia GRB 260310A.",
+      "Ponto central: Um estudo recente do Planetary Science Institute observa que a passagem próxima da estrela HD 7977 pode ter desencadeado uma cascata, enviando.",
+      "Dado-chave: Um estudo recente do Planetary Science Institute observa que a passagem próxima da estrela HD 7977 pode ter desencadeado uma cascata, enviando.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: Astronomers have made a series of landmark observations of one of the universe's most violent events. Using the U. S. National Science Foundation.",
-      "Key detail: By measuring this difference, astronomers were able to map the magnetic environment surrounding GRB 260310A for the first time.",
+      "Core point: A recent study out of the Planetary Science Institute notes that the close passage of the star HD 7977 may have triggered a cascade, sending.",
+      "Key detail: A recent study out of the Planetary Science Institute notes that the close passage of the star HD 7977 may have triggered a cascade, sending.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "14 jul 2026",
     "date_pt": "14 jul 2026",
     "date_en": "14 Jul 2026",
-    "time": "17h30",
-    "time_pt": "17h30",
-    "time_en": "17:30 UTC",
+    "time": "15h03",
+    "time_pt": "15h03",
+    "time_en": "15:03 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-14T17:30:01+00:00",
-    "lastModifiedIso": "2026-07-14T17:30:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
+    "publishedIso": "2026-07-14T15:03:00+00:00",
+    "lastModifiedIso": "2026-07-14T15:03:00+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -3656,27 +3678,27 @@
     "editorialBandLabel_pt": "Prioridade editorial",
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
-      "Astrofísica",
-      "Phys.org Space",
+      "Astronomia",
+      "Universe Today",
       "Cosmos Week",
-      "Impressão digital magnética de uma explosão cósmica detectada pela primeira vez"
+      "Uma antiga passagem estelar alterou as órbitas dos cometas que vemos hoje"
     ],
     "keywords_pt": [
-      "Astrofísica",
-      "Phys.org Space",
+      "Astronomia",
+      "Universe Today",
       "Cosmos Week",
-      "Impressão digital magnética de uma explosão cósmica detectada pela primeira vez"
+      "Uma antiga passagem estelar alterou as órbitas dos cometas que vemos hoje"
     ],
     "keywords_en": [
-      "Astrophysics",
-      "Phys.org Space",
+      "Astronomy",
+      "Universe Today",
       "Cosmos Week",
-      "Magnetic fingerprint of a cosmic explosion detected for the first time"
+      "An ancient stellar passage changed the orbits of the comets we see today"
     ],
-    "srcUrl": "https://phys.org/news/2026-07-magnetic-fingerprint-cosmic-explosion.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=magnetic-fingerprint-of-a-cosmic-explosion-detected-for-the-first-time",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=magnetic-fingerprint-of-a-cosmic-explosion-detected-for-the-first-time",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=magnetic-fingerprint-of-a-cosmic-explosion-detected-for-the-first-time&lang=en",
+    "srcUrl": "https://www.universetoday.com/articles/an-ancient-stellar-passage-altered-the-orbits-of-comets-we-see-today",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=an-ancient-stellar-passage-altered-the-orbits-of-comets-we-see-today",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=an-ancient-stellar-passage-altered-the-orbits-of-comets-we-see-today",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=an-ancient-stellar-passage-altered-the-orbits-of-comets-we-see-today&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -3689,7 +3711,7 @@
     "geminiModel": "gemini-2.0-flash",
     "score": 77,
     "scoreBreakdown": {
-      "source": 76,
+      "source": 73,
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,

@@ -40,14 +40,14 @@ window.postsData = [
     "date": "17 jul 2026",
     "date_pt": "17 jul 2026",
     "date_en": "17 Jul 2026",
-    "time": "09h17",
-    "time_pt": "09h17",
-    "time_en": "09:17 UTC",
+    "time": "11h07",
+    "time_pt": "11h07",
+    "time_en": "11:07 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-17T09:17:58.818052+00:00",
-    "lastModifiedIso": "2026-07-17T09:17:58.818052+00:00",
+    "publishedIso": "2026-07-17T11:07:51.438419+00:00",
+    "lastModifiedIso": "2026-07-17T11:07:51.438419+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -148,14 +148,14 @@ window.postsData = [
     "date": "17 jul 2026",
     "date_pt": "17 jul 2026",
     "date_en": "17 Jul 2026",
-    "time": "09h17",
-    "time_pt": "09h17",
-    "time_en": "09:17 UTC",
+    "time": "11h07",
+    "time_pt": "11h07",
+    "time_en": "11:07 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-17T09:17:58.818002+00:00",
-    "lastModifiedIso": "2026-07-17T09:17:58.818002+00:00",
+    "publishedIso": "2026-07-17T11:07:51.438384+00:00",
+    "lastModifiedIso": "2026-07-17T11:07:51.438384+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -253,14 +253,14 @@ window.postsData = [
     "date": "17 jul 2026",
     "date_pt": "17 jul 2026",
     "date_en": "17 Jul 2026",
-    "time": "09h17",
-    "time_pt": "09h17",
-    "time_en": "09:17 UTC",
+    "time": "11h07",
+    "time_pt": "11h07",
+    "time_en": "11:07 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-17T09:17:58.817950+00:00",
-    "lastModifiedIso": "2026-07-17T09:17:58.817950+00:00",
+    "publishedIso": "2026-07-17T11:07:51.438345+00:00",
+    "lastModifiedIso": "2026-07-17T11:07:51.438345+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -358,14 +358,14 @@ window.postsData = [
     "date": "17 jul 2026",
     "date_pt": "17 jul 2026",
     "date_en": "17 Jul 2026",
-    "time": "09h17",
-    "time_pt": "09h17",
-    "time_en": "09:17 UTC",
+    "time": "11h07",
+    "time_pt": "11h07",
+    "time_en": "11:07 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-17T09:17:58.817903+00:00",
-    "lastModifiedIso": "2026-07-17T09:17:58.817903+00:00",
+    "publishedIso": "2026-07-17T11:07:51.438313+00:00",
+    "lastModifiedIso": "2026-07-17T11:07:51.438313+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -463,14 +463,14 @@ window.postsData = [
     "date": "17 jul 2026",
     "date_pt": "17 jul 2026",
     "date_en": "17 Jul 2026",
-    "time": "09h17",
-    "time_pt": "09h17",
-    "time_en": "09:17 UTC",
+    "time": "11h07",
+    "time_pt": "11h07",
+    "time_en": "11:07 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-17T09:17:58.817829+00:00",
-    "lastModifiedIso": "2026-07-17T09:17:58.817829+00:00",
+    "publishedIso": "2026-07-17T11:07:51.438277+00:00",
+    "lastModifiedIso": "2026-07-17T11:07:51.438277+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -531,6 +531,121 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "infectious-microbes-on-mars-could-become-even-more-deadly",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2024/07/astronaut-working-on-Mars-artist-concept-December-4-2016.jpg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Micróbios infecciosos em Marte podem se tornar ainda mais mortais",
+    "title_pt": "Micróbios infecciosos em Marte podem se tornar ainda mais mortais",
+    "title_en": "Infectious microbes on Mars could become even more deadly",
+    "sub": "Uma nova tese examina como os micróbios patogénicos terrestres em Marte poderiam sobreviver e tornar-se potencialmente ainda mais perigosos para futuros astronautas. A postagem.",
+    "sub_pt": "Uma nova tese examina como os micróbios patogénicos terrestres em Marte poderiam sobreviver e tornar-se potencialmente ainda mais perigosos para futuros astronautas. A postagem.",
+    "sub_en": "A new thesis examines how earthly pathogenic microbes on Mars could survive and potentially become even more dangerous for future astronauts. The post Infectious microbes on Mars.",
+    "excerpt": "Uma nova tese examina como os micróbios patogénicos terrestres em Marte poderiam sobreviver e tornar-se potencialmente ainda mais perigosos para futuros astronautas. A postagem Micróbios infecciosos em Marte podem se tornar ainda mais mortais apareceu pela.",
+    "excerpt_pt": "Uma nova tese examina como os micróbios patogénicos terrestres em Marte poderiam sobreviver e tornar-se potencialmente ainda mais perigosos para futuros astronautas. A postagem Micróbios infecciosos em Marte podem se tornar ainda mais mortais apareceu pela.",
+    "excerpt_en": "A new thesis examines how earthly pathogenic microbes on Mars could survive and potentially become even more dangerous for future astronauts. The post Infectious microbes on Mars could become even more deadly first appeared on EarthSky.",
+    "body": "<p>Uma nova tese examina como os micróbios patogénicos terrestres em Marte poderiam sobreviver e tornar-se potencialmente ainda mais perigosos para futuros astronautas. A postagem Micróbios infecciosos em Marte podem se tornar ainda mais mortais apareceu pela primeira vez no. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Uma nova tese examina como os micróbios patogénicos terrestres em Marte poderiam sobreviver e tornar-se potencialmente ainda mais perigosos para futuros astronautas. Uma nova tese explorou como alguns micróbios patogénicos terrestres, causadores de doenças, em Marte poderiam sobreviver. e os efeitos que poderiam ter nos futuros astronautas.</p><p>Esta tese investiga os riscos associados à contaminação de outros planetas com micróbios originários da Terra, e como o sistema imunológico humano responde às infecções no espaço. A tese foi publicada em 22 de junho de 2026.</p><p>Simulação de patógenos em Marte A primeira parte da tese trata de quatro patógenos, microrganismos infecciosos, da Terra. Nesse cenário, a sobrevivência dos micróbios caiu de 16 dias para apenas um.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/microbes-on-mars-pathogens-thesis/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma nova tese examina como os micróbios patogénicos terrestres em Marte poderiam sobreviver e tornar-se potencialmente ainda mais perigosos para futuros astronautas. A postagem Micróbios infecciosos em Marte podem se tornar ainda mais mortais apareceu pela primeira vez no. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Uma nova tese examina como os micróbios patogénicos terrestres em Marte poderiam sobreviver e tornar-se potencialmente ainda mais perigosos para futuros astronautas. Uma nova tese explorou como alguns micróbios patogénicos terrestres, causadores de doenças, em Marte poderiam sobreviver. e os efeitos que poderiam ter nos futuros astronautas.</p><p>Esta tese investiga os riscos associados à contaminação de outros planetas com micróbios originários da Terra, e como o sistema imunológico humano responde às infecções no espaço. A tese foi publicada em 22 de junho de 2026.</p><p>Simulação de patógenos em Marte A primeira parte da tese trata de quatro patógenos, microrganismos infecciosos, da Terra. Nesse cenário, a sobrevivência dos micróbios caiu de 16 dias para apenas um.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/microbes-on-mars-pathogens-thesis/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A new thesis examines how earthly pathogenic microbes on Mars could survive and potentially become even more dangerous for future astronauts. The post Infectious microbes on Mars could become even more deadly first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. A new thesis examines how earthly pathogenic microbes on Mars could survive and potentially become even more dangerous for future astronauts. A new thesis has explored how some earthly pathogenic, disease-causing, microbes on Mars could survive. and the effects they could have on future human astronauts.</p><p>This thesis investigates the risks associated with the contamination of other planets with microbes originating from Earth, and how the human immune system responds to infections. The thesis was published on June 22, 2026.</p><p>Simulating pathogens on Mars The first part of the thesis deals with four pathogens, infectious microorganisms, from Earth. In that scenario, the survival of the microbes dropped from 16 days to only one.</p><p>Shrinking microbes One of the most interesting aspects of the experiments from the first section was that the microbes shrank in size. As a result, the cells produced fewer cytokines (small proteins) and reactive oxygen species (highly reactive chemicals formed from oxygen molecules (O2), water and hydrogen.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Tommaso Zaccaria at Radboud University in the Netherlands wrote the new thesis about pathogenic microbes surviving on Mars. How regolith affects astronauts In the second part of the thesis, Zaccaria examines how Mars’ regolith, Martian “soil”, might affect the health of the astronauts.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/microbes-on-mars-pathogens-thesis/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Uma nova tese examina como os micróbios patogénicos terrestres em Marte poderiam sobreviver e tornar-se potencialmente ainda mais perigosos para.",
+      "Dado-chave: Uma nova tese examina como os micróbios patogénicos terrestres em Marte poderiam sobreviver e tornar-se potencialmente ainda mais perigosos para.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Uma nova tese examina como os micróbios patogénicos terrestres em Marte poderiam sobreviver e tornar-se potencialmente ainda mais perigosos para.",
+      "Dado-chave: Uma nova tese examina como os micróbios patogénicos terrestres em Marte poderiam sobreviver e tornar-se potencialmente ainda mais perigosos para.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: A new thesis examines how earthly pathogenic microbes on Mars could survive and potentially become even more dangerous for future astronauts. The.",
+      "Key detail: A new thesis examines how earthly pathogenic microbes on Mars could survive and potentially become even more dangerous for future astronauts.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "17 jul 2026",
+    "date_pt": "17 jul 2026",
+    "date_en": "17 Jul 2026",
+    "time": "11h00",
+    "time_pt": "11h00",
+    "time_en": "11:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-17T11:00:49+00:00",
+    "lastModifiedIso": "2026-07-17T11:00:49+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Micróbios infecciosos em Marte podem se tornar ainda mais mortais"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Micróbios infecciosos em Marte podem se tornar ainda mais mortais"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "Infectious microbes on Mars could become even more deadly"
+    ],
+    "srcUrl": "https://earthsky.org/space/microbes-on-mars-pathogens-thesis/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=infectious-microbes-on-mars-could-become-even-more-deadly",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=infectious-microbes-on-mars-could-become-even-more-deadly",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=infectious-microbes-on-mars-could-become-even-more-deadly&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 68,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 62,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "spacex-starship-launch-aborted-on-the-pad-at-the-last-moment",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -649,7 +764,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -663,7 +778,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "cms-explores-subtle-matter-antimatter-difference-using-beauty-mesons",
     "cat": "Física",
     "catCls": "fisica",
@@ -778,7 +893,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "this-week-s-sky-at-a-glance-july-17-26",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -914,11 +1029,11 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
-    "slug": "coathanger-cluster-this-star-pattern-looks-like-its-name",
+    "id": 10,
+    "slug": "sun-news-awaited-sunspot-region-numbered-ar4491",
     "cat": "Ciências da Terra",
     "catCls": "terra",
-    "img": "https://earthsky.org/upl/2017/07/coathanger-star-cluster-e1562178054418.jpg",
+    "img": "https://earthsky.org/upl/2026/07/Jul-17-26-Sun-activity-AR4491-800x798.png",
     "inline_images": [
       {
         "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
@@ -932,44 +1047,44 @@ window.postsData = [
     ],
     "video": null,
     "audio": null,
-    "title": "Aglomerado de cabide: este padrão de estrela se parece com seu nome",
-    "title_pt": "Aglomerado de cabide: este padrão de estrela se parece com seu nome",
-    "title_en": "Coathanger cluster: This star pattern looks like its name",
-    "sub": "O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do Verão, como sinalização. O aglomerado.",
-    "sub_pt": "O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do Verão, como sinalização. O aglomerado.",
-    "sub_en": "The Coathanger cluster resembles its namesake and is easy to spot with binoculars, using the star Albireo, part of the Summer Triangle, as a signpost. The post Coathanger cluster.",
-    "excerpt": "O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do Verão, como sinalização. O aglomerado pós Coathanger: Este padrão de estrela se parece com o nome que apareceu pela.",
-    "excerpt_pt": "O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do Verão, como sinalização. O aglomerado pós Coathanger: Este padrão de estrela se parece com o nome que apareceu pela.",
-    "excerpt_en": "The Coathanger cluster resembles its namesake and is easy to spot with binoculars, using the star Albireo, part of the Summer Triangle, as a signpost. The post Coathanger cluster: This star pattern looks like its name first appeared on.",
-    "body": "<p>O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do Verão, como sinalização. O aglomerado pós Coathanger: Este padrão de estrela se parece com o nome que apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do Verão, como sinalização. Este padrão de estrela parece ter seu nome apareceu pela primeira vez no EarthSky.</p><p>Em qualquer noite de julho a novembro, se o céu estiver escuro, você pode procurar dentro do famoso Triângulo do Verão um pequeno mas reconhecível aglomerado de estrelas. Dois outros nomes são aglomerado de Brocchi e Collinder 399.</p><p>| Steven Bellavia capturou esta imagem de Nova York em 1º de setembro de 2024 e escreveu: “A Via Láctea, o Triângulo do Verão e uma estrela cadente”. Obrigado, Steven. Albireo pode ajudá-lo a encontrar o Cabide Para encontrar o Cabide, primeiro você precisa encontrar uma estrela um pouco mais fraca: o amado Albireo.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/favorite-star-patterns/coathanger-cluster-brocchis-cluster-collinder-399/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do Verão, como sinalização. O aglomerado pós Coathanger: Este padrão de estrela se parece com o nome que apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do Verão, como sinalização. Este padrão de estrela parece ter seu nome apareceu pela primeira vez no EarthSky.</p><p>Em qualquer noite de julho a novembro, se o céu estiver escuro, você pode procurar dentro do famoso Triângulo do Verão um pequeno mas reconhecível aglomerado de estrelas. Dois outros nomes são aglomerado de Brocchi e Collinder 399.</p><p>| Steven Bellavia capturou esta imagem de Nova York em 1º de setembro de 2024 e escreveu: “A Via Láctea, o Triângulo do Verão e uma estrela cadente”. Obrigado, Steven. Albireo pode ajudá-lo a encontrar o Cabide Para encontrar o Cabide, primeiro você precisa encontrar uma estrela um pouco mais fraca: o amado Albireo.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/favorite-star-patterns/coathanger-cluster-brocchis-cluster-collinder-399/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The Coathanger cluster resembles its namesake and is easy to spot with binoculars, using the star Albireo, part of the Summer Triangle, as a signpost. The post Coathanger cluster: This star pattern looks like its name first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The Coathanger cluster resembles its namesake and is easy to spot with binoculars, using the star Albireo, part of the Summer Triangle, as a signpost. This star pattern looks like its name first appeared on EarthSky.</p><p>On any evening from July until about November, if you have a dark sky, you can look within the famous Summer Triangle for a tiny but recognizable cluster of stars. Two other names are Brocchi’s cluster and Collinder 399.</p><p>| Steven Bellavia captured this image from New York on September 1, 2024, and wrote: “The Milky Way, the Summer Triangle and a shooting star.” Thank you, Steven. Albireo can help you find the Coathanger To find the Coathanger, you first need to find a slightly fainter star: beloved Albireo.</p><p>Our sky chart above shows the stars as they appear from the Northern Hemisphere in middle July around midnight (1 a. m. Because the stars return to the same place in the sky some two hours earlier with each passing month, this sky chart also shows star positions for about 10 p. m.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Daylight time) in mid-August, 8 p. m. Daylight time) in mid-September and 6 p. m (7 p. m daylight time) in mid-October.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/favorite-star-patterns/coathanger-cluster-brocchis-cluster-collinder-399/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Notícias do Sol: região de manchas solares aguardada com o número AR4491",
+    "title_pt": "Notícias do Sol: região de manchas solares aguardada com o número AR4491",
+    "title_en": "Sun news: Awaited sunspot region numbered AR4491",
+    "sub": "O impetuoso recém-chegado ao sudeste é agora AR4491. Ele permaneceu como o maior produtor de flare, e as chances de flare M saltaram de 10% para 25% hoje. A postagem Notícias do.",
+    "sub_pt": "O impetuoso recém-chegado ao sudeste é agora AR4491. Ele permaneceu como o maior produtor de flare, e as chances de flare M saltaram de 10% para 25% hoje. A postagem Notícias do.",
+    "sub_en": "The fiery southeast newcomer is now AR4491. It stayed the top flare producer, and M flare chances jumped from 10% to 25% today. The post Sun news: Awaited sunspot region numbered.",
+    "excerpt": "O impetuoso recém-chegado ao sudeste é agora AR4491. Ele permaneceu como o maior produtor de flare, e as chances de flare M saltaram de 10% para 25% hoje. A postagem Notícias do Sol: região de manchas solares aguardada numerada AR4491 apareceu pela primeira.",
+    "excerpt_pt": "O impetuoso recém-chegado ao sudeste é agora AR4491. Ele permaneceu como o maior produtor de flare, e as chances de flare M saltaram de 10% para 25% hoje. A postagem Notícias do Sol: região de manchas solares aguardada numerada AR4491 apareceu pela primeira.",
+    "excerpt_en": "The fiery southeast newcomer is now AR4491. It stayed the top flare producer, and M flare chances jumped from 10% to 25% today. The post Sun news: Awaited sunspot region numbered AR4491 first appeared on EarthSky.",
+    "body": "<p>O impetuoso recém-chegado ao sudeste é agora AR4491. Ele permaneceu como o maior produtor de flare, e as chances de flare M saltaram de 10% para 25% hoje. A postagem Notícias do Sol: região de manchas solares aguardada numerada AR4491 apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Ele permaneceu como o maior produtor de flare, e as chances de flare M saltaram de 10% para 25% hoje. Região de manchas solares aguardada com o número AR4491 apareceu pela primeira vez no EarthSky.</p><p>O recém-chegado ainda está muito próximo do horizonte solar sudeste para uma análise completa. Bt, Bz e acoplamento magnético: O componente Bz apontou para o norte de 21 UTC de 16 de julho até 2h30 UTC de 17 de julho.</p><p>O campo geomagnético permaneceu em níveis silenciosos durante este período (Kp 1, 2). A chance de um surto de classe M (moderado) aumentou de 10% ontem para 25% hoje.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O impetuoso recém-chegado ao sudeste é agora AR4491. Ele permaneceu como o maior produtor de flare, e as chances de flare M saltaram de 10% para 25% hoje. A postagem Notícias do Sol: região de manchas solares aguardada numerada AR4491 apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Ele permaneceu como o maior produtor de flare, e as chances de flare M saltaram de 10% para 25% hoje. Região de manchas solares aguardada com o número AR4491 apareceu pela primeira vez no EarthSky.</p><p>O recém-chegado ainda está muito próximo do horizonte solar sudeste para uma análise completa. Bt, Bz e acoplamento magnético: O componente Bz apontou para o norte de 21 UTC de 16 de julho até 2h30 UTC de 17 de julho.</p><p>O campo geomagnético permaneceu em níveis silenciosos durante este período (Kp 1, 2). A chance de um surto de classe M (moderado) aumentou de 10% ontem para 25% hoje.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The fiery southeast newcomer is now AR4491. It stayed the top flare producer, and M flare chances jumped from 10% to 25% today. The post Sun news: Awaited sunspot region numbered AR4491 first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. It stayed the top flare producer, and M flare chances jumped from 10% to 25% today. Awaited sunspot region numbered AR4491 first appeared on EarthSky.</p><p>The newcomer still sits too close to the solar southeast horizon for a complete analysis. The Bz component pointed northward from 21 UTC on July 16 through 2: 30 UTC on July 17.</p><p>The geomagnetic field stayed at quiet levels during this period ( Kp 1, 2 ). The chance of an M-class (moderate) flare increased from 10% yesterday to 25% today.</p><p>Anticipate quiet-to-unsettled conditions with weak fast solar wind from a coronal hole. This image shows sun activity, with the most active regions labeled, as of 1 UTC on July 17, 2026.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Courtesy of NASA/SDO and the AIA, EVE, and HMI science teams, with labeling by EarthSky. A C8.9 from the as-yet-unnumbered incoming region in the southeast.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do Verão.",
-      "Dado-chave: O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do.",
+      "Ponto central: O impetuoso recém-chegado ao sudeste é agora AR4491. Ele permaneceu como o maior produtor de flare, e as chances de flare M saltaram de 10% para 25%.",
+      "Dado-chave: Ele permaneceu como o maior produtor de flare, e as chances de flare M saltaram de 10% para 25% hoje.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do Verão.",
-      "Dado-chave: O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do.",
+      "Ponto central: O impetuoso recém-chegado ao sudeste é agora AR4491. Ele permaneceu como o maior produtor de flare, e as chances de flare M saltaram de 10% para 25%.",
+      "Dado-chave: Ele permaneceu como o maior produtor de flare, e as chances de flare M saltaram de 10% para 25% hoje.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: The Coathanger cluster resembles its namesake and is easy to spot with binoculars, using the star Albireo, part of the Summer Triangle, as a.",
-      "Key detail: The Coathanger cluster resembles its namesake and is easy to spot with binoculars, using the star Albireo, part of the Summer Triangle, as a.",
+      "Core point: The fiery southeast newcomer is now AR4491. It stayed the top flare producer, and M flare chances jumped from 10% to 25% today. The post Sun news.",
+      "Key detail: It stayed the top flare producer, and M flare chances jumped from 10% to 25% today.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "17 jul 2026",
     "date_pt": "17 jul 2026",
     "date_en": "17 Jul 2026",
-    "time": "08h00",
-    "time_pt": "08h00",
-    "time_en": "08:00 UTC",
+    "time": "09h00",
+    "time_pt": "09h00",
+    "time_en": "09:00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-17T08:00:56+00:00",
-    "lastModifiedIso": "2026-07-17T08:00:56+00:00",
+    "publishedIso": "2026-07-17T09:00:53+00:00",
+    "lastModifiedIso": "2026-07-17T09:00:53+00:00",
     "source": "EarthSky",
     "sourceDomain": "earthsky.org",
     "sourceType": "agency",
@@ -991,27 +1106,27 @@ window.postsData = [
       "Ciências da Terra",
       "EarthSky",
       "Cosmos Week",
-      "Aglomerado de cabide",
-      "este padrão de estrela se parece com seu nome"
+      "Notícias do Sol",
+      "região de manchas solares aguardada com o número AR4491"
     ],
     "keywords_pt": [
       "Ciências da Terra",
       "EarthSky",
       "Cosmos Week",
-      "Aglomerado de cabide",
-      "este padrão de estrela se parece com seu nome"
+      "Notícias do Sol",
+      "região de manchas solares aguardada com o número AR4491"
     ],
     "keywords_en": [
       "Earth Sciences",
       "EarthSky",
       "Cosmos Week",
-      "Hanger chipboard",
-      "this star pattern looks like its name"
+      "Sun News",
+      "long-awaited sunspot region with number AR4491"
     ],
-    "srcUrl": "https://earthsky.org/favorite-star-patterns/coathanger-cluster-brocchis-cluster-collinder-399/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=coathanger-cluster-this-star-pattern-looks-like-its-name",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=coathanger-cluster-this-star-pattern-looks-like-its-name",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=coathanger-cluster-this-star-pattern-looks-like-its-name&lang=en",
+    "srcUrl": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-awaited-sunspot-region-numbered-ar4491",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-awaited-sunspot-region-numbered-ar4491",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-awaited-sunspot-region-numbered-ar4491&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -1022,147 +1137,11 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 73,
+    "score": 68,
     "scoreBreakdown": {
       "source": 72,
       "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "a-tide-fueled-trove-of-biodiversity-in-guinea-bissau",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/bijagosarchipelago_oli_20251128.jpg?w=1440&h=1200&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ontario-wildfire-smoke-drifts-east/ontariofires_virs3_20260714_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Uma imagem de satélite mostra fumaça marrom de incêndios florestais em Ontário, Canadá, fluindo para o leste através de partes do Canadá e dos EUA. Áreas de nuvens brancas estão misturadas à fumaça.",
-        "caption_pt": "Uma imagem de satélite mostra fumaça marrom de incêndios florestais em Ontário, Canadá, fluindo para o leste através de partes do Canadá e dos EUA. Áreas de nuvens brancas estão misturadas à fumaça.",
-        "caption_en": "A satellite image shows brown smoke from wildfires in Ontario, Canada, streaming east across parts of Canada and the U.S. Areas of white clouds are mixed in with the smoke.",
-        "alt": "Uma imagem de satélite mostra fumaça marrom de incêndios florestais em Ontário, Canadá, fluindo para o leste através de partes do Canadá e dos EUA. Áreas de nuvens brancas estão misturadas à fumaça.",
-        "alt_pt": "Uma imagem de satélite mostra fumaça marrom de incêndios florestais em Ontário, Canadá, fluindo para o leste através de partes do Canadá e dos EUA. Áreas de nuvens brancas estão misturadas à fumaça.",
-        "alt_en": "A satellite image shows brown smoke from wildfires in Ontario, Canada, streaming east across parts of Canada and the U.S. Areas of white clouds are mixed in with the smoke."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/bijagosarchipelago_oli_20251128_lrg.jpg?w=7236&h=6030&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Uma imagem de satélite mostra um aglomerado de ilhas verdes cercadas por planícies de areia bege e redes de canais cheios de água azul escura.",
-        "caption_pt": "Uma imagem de satélite mostra um aglomerado de ilhas verdes cercadas por planícies de areia bege e redes de canais cheios de água azul escura.",
-        "caption_en": "A satellite image shows a cluster of green islands surrounded by beige sand flats and networks of channels full of dark blue water.",
-        "alt": "Uma imagem de satélite mostra um aglomerado de ilhas verdes cercadas por planícies de areia bege e redes de canais cheios de água azul escura.",
-        "alt_pt": "Uma imagem de satélite mostra um aglomerado de ilhas verdes cercadas por planícies de areia bege e redes de canais cheios de água azul escura.",
-        "alt_en": "A satellite image shows a cluster of green islands surrounded by beige sand flats and networks of channels full of dark blue water."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pumice-rafts-encroach-on-admiralty-islands/bismarkpumicezm2_oli_20260604_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Um tesouro de biodiversidade alimentado pelas marés na Guiné-Bissau",
-    "title_pt": "Um tesouro de biodiversidade alimentado pelas marés na Guiné-Bissau",
-    "title_en": "A Tide-Fueled Trove of Biodiversity in Guinea-Bissau",
-    "sub": "Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande número de tartarugas marinhas.",
-    "sub_pt": "Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande número de tartarugas marinhas.",
-    "sub_en": "The expansive mudflats, sandy beaches, and mangrove forests of the Bijagós archipelago support an array of migratory shorebirds and large numbers of sea turtles.",
-    "excerpt": "Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande número de tartarugas marinhas.",
-    "excerpt_pt": "Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande número de tartarugas marinhas.",
-    "excerpt_en": "The expansive mudflats, sandy beaches, and mangrove forests of the Bijagós archipelago support an array of migratory shorebirds and large numbers of sea turtles.",
-    "body": "<p>Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande número de tartarugas marinhas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Observatório da Terra da NASA/Lauren Dauphin Duas vezes por dia, as marés vazam e fluem através de um labirinto de canais arenosos, lodaçais e florestas de mangais que flanqueiam. Uma análise das marés da região em 2025 explorou por que razão o arquipélago tem algumas das maiores amplitudes de marés da África Ocidental.</p><p>Jangadas de pedra-pomes invadem as Ilhas do Almirantado 4 min de leitura Fragmentos flutuantes de rocha vulcânica de uma erupção subaquática flutuaram pelo Mar de Bismarck e. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>Observatório da Terra da NASA/Lauren Dauphin Duas vezes por dia, as marés vazam e fluem através de um labirinto de canais arenosos, lodaçais e florestas de mangue que flanqueiam. Uma análise das marés da região em 2025 explorou por que o arquipélago tem algumas das maiores amplitudes de marés da África Ocidental.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande número de tartarugas marinhas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Observatório da Terra da NASA/Lauren Dauphin Duas vezes por dia, as marés vazam e fluem através de um labirinto de canais arenosos, lodaçais e florestas de mangais que flanqueiam. Uma análise das marés da região em 2025 explorou por que razão o arquipélago tem algumas das maiores amplitudes de marés da África Ocidental.</p><p>Jangadas de pedra-pomes invadem as Ilhas do Almirantado 4 min de leitura Fragmentos flutuantes de rocha vulcânica de uma erupção subaquática flutuaram pelo Mar de Bismarck e. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>Observatório da Terra da NASA/Lauren Dauphin Duas vezes por dia, as marés vazam e fluem através de um labirinto de canais arenosos, lodaçais e florestas de mangue que flanqueiam. Uma análise das marés da região em 2025 explorou por que o arquipélago tem algumas das maiores amplitudes de marés da África Ocidental.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The expansive mudflats, sandy beaches, and mangrove forests of the Bijagós archipelago support an array of migratory shorebirds and large numbers of sea turtles. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. NASA Earth Observatory/Lauren Dauphin Twice each day, tides ebb and flow through a maze of sandy channels, mudflats, and mangrove forests that flank the 88 islands and islets of. A 2025 analysis of the region’s tides explored why the archipelago has some of the largest tidal ranges in West Africa.</p><p>Pumice Rafts Encroach on Admiralty Islands 4 min read Buoyant volcanic rock fragments from an underwater eruption drifted across the Bismarck Sea and choked island coasts. Earth Observatory Image of the Day NASA’s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p><p>A 2025 analysis of the region&#x27;s tides explored why the archipelago has some of the largest tidal ranges in West Africa. The scientists used altimetry data from the NASA/CNES TOPEX/Poseidon, Jason-1, and Jason-2 satellites to help validate their findings.</p><p>Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet. Article Satellite Spots a Spawn 3 min read The activity of herring around Vancouver Island in British Columbia brightened coastal waters enough to be detectable from space.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Article 1 2 3 4 Next Keep Exploring Discover More from NASA Earth Science Subscribe to Earth Observatory Newsletters Subscribe to the Earth Observatory and get the Earth in your. NASA&#x27;s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande.",
-      "Dado-chave: Observatório da Terra da NASA/Lauren Dauphin Duas vezes por dia, as marés vazam e fluem através de um labirinto de canais arenosos, lodaçais e.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande.",
-      "Dado-chave: Observatório da Terra da NASA/Lauren Dauphin Duas vezes por dia, as marés vazam e fluem através de um labirinto de canais arenosos, lodaçais e.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The expansive mudflats, sandy beaches, and mangrove forests of the Bijagós archipelago support an array of migratory shorebirds and large numbers of.",
-      "Key detail: NASA Earth Observatory/Lauren Dauphin Twice each day, tides ebb and flow through a maze of sandy channels, mudflats, and mangrove forests that.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 jul 2026",
-    "date_pt": "17 jul 2026",
-    "date_en": "17 Jul 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04:01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-17T04:01:00+00:00",
-    "lastModifiedIso": "2026-07-17T04:01:00+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Um tesouro de biodiversidade alimentado pelas marés na Guiné",
-      "Bissau"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Um tesouro de biodiversidade alimentado pelas marés na Guiné",
-      "Bissau"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "A treasure trove of tide-fed biodiversity in Guinea",
-      "Bissau"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=a-tide-fueled-trove-of-biodiversity-in-guinea-bissau",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=a-tide-fueled-trove-of-biodiversity-in-guinea-bissau",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=a-tide-fueled-trove-of-biodiversity-in-guinea-bissau&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 77,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 70,
+      "relevance": 62,
       "accessibility": 60,
       "novelty": 55
     }
@@ -1315,6 +1294,111 @@ window.postsData = [
   },
   {
     "id": 12,
+    "slug": "webb-reveals-millions-of-stars-in-nearby-galaxy",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_miri_image/27358464-1-eng-GB/Centaurus_A_MIRI_image_card_full.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Webb revela milhões de estrelas em galáxia próxima",
+    "title_pt": "Webb revela milhões de estrelas em galáxia próxima",
+    "title_en": "Webb reveals millions of stars in nearby galaxy",
+    "sub": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e.",
+    "sub_pt": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e.",
+    "sub_en": "In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more.",
+    "excerpt": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes.",
+    "excerpt_pt": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes.",
+    "excerpt_en": "In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented.",
+    "body": "<p>Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A sensibilidade sem precedentes de Webb nos comprimentos de onda do infravermelho próximo e médio corta as espessas faixas de poeira que obscurecem o centro de Centaurus A na luz. Estas imagens marcam quatro anos de desempenho melhor do que o esperado e operações científicas bem-sucedidas para o telescópio espacial mais poderoso da história.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A sensibilidade sem precedentes de Webb nos comprimentos de onda do infravermelho próximo e médio corta as espessas faixas de poeira que obscurecem o centro de Centaurus A na luz. Estas imagens marcam quatro anos de desempenho melhor do que o esperado e operações científicas bem-sucedidas para o telescópio espacial mais poderoso da história.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A’s centre in visible light, showing a. These images mark four years of better-than-anticipated performance and successful science operations for the most powerful space telescope in history.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar.",
+      "Dado-chave: A sensibilidade sem precedentes de Webb nos comprimentos de onda do infravermelho próximo e médio corta as espessas faixas de poeira que.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar.",
+      "Dado-chave: A sensibilidade sem precedentes de Webb nos comprimentos de onda do infravermelho próximo e médio corta as espessas faixas de poeira que.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into.",
+      "Key detail: Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A’s.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "06 jul 2026",
+    "date_pt": "06 jul 2026",
+    "date_en": "06 Jul 2026",
+    "time": "16h00",
+    "time_pt": "16h00",
+    "time_en": "16:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-06T16:00:00+00:00",
+    "lastModifiedIso": "2026-07-06T16:00:00+00:00",
+    "source": "ESA Space Science",
+    "sourceDomain": "www.esa.int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Webb revela milhões de estrelas em galáxia próxima"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Webb revela milhões de estrelas em galáxia próxima"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Webb reveals millions of stars in nearby galaxy"
+    ],
+    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-reveals-millions-of-stars-in-nearby-galaxy",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-reveals-millions-of-stars-in-nearby-galaxy",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-reveals-millions-of-stars-in-nearby-galaxy&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 90,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 13,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1450,7 +1534,7 @@ window.postsData = [
     }
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1589,7 +1673,7 @@ window.postsData = [
     }
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "the-starry-night-redux-dark-energy-camera-captures-stars-nebulae-clusters-and-more-in-a-rich-van",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1744,7 +1828,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1880,7 +1964,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "a-relativistic-jet-could-be-an-indication-of-the-missing-link-for-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2013,7 +2097,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "researchers-prove-black-hole-theory-in-a-laboratory-setting",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2141,31 +2225,12 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "webb-studies-how-a-planet-survived-the-death-of-its-star",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/exoplanet_wd_1856_b_artist_s_concept/27358511-2-eng-GB/Exoplanet_WD_1856_b_artist_s_concept_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/exoplanet_wd_1856_b_artist_s_concept/27358511-2-eng-GB/Exoplanet_WD_1856_b_artist_s_concept_article.jpg",
-        "caption": "Exoplaneta WD 1856 b (conceito artístico)",
-        "caption_pt": "Exoplaneta WD 1856 b (conceito artístico)",
-        "caption_en": "Exoplanet WD 1856 b (artist’s concept)",
-        "alt": "Exoplaneta WD 1856 b (conceito artístico)",
-        "alt_pt": "Exoplaneta WD 1856 b (conceito artístico)",
-        "alt_en": "Exoplanet WD 1856 b (artist’s concept)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/exoplanet_wd_1856_b_nirspec_transmission_spectrum/27358558-1-eng-GB/Exoplanet_WD_1856_b_NIRSpec_transmission_spectrum_article.jpg",
-        "caption": "Espectro de transmissão do Exoplaneta WD 1856 b NIRSpec",
-        "caption_pt": "Espectro de transmissão do Exoplaneta WD 1856 b NIRSpec",
-        "caption_en": "Exoplanet WD 1856 b NIRSpec transmission spectrum",
-        "alt": "Espectro de transmissão do Exoplaneta WD 1856 b NIRSpec",
-        "alt_pt": "Espectro de transmissão do Exoplaneta WD 1856 b NIRSpec",
-        "alt_en": "Exoplanet WD 1856 b NIRSpec transmission spectrum"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Webb estuda como um planeta sobreviveu à morte de sua estrela",
@@ -2177,22 +2242,22 @@ window.postsData = [
     "excerpt": "Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando.",
     "excerpt_pt": "Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando.",
     "excerpt_en": "An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet’s mass and temperature and even detecting its atmosphere.",
-    "body": "<p>Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando a sua atmosfera. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os resultados foram publicados em 1º de julho de 2026 na revista Nature. WD 1856 b foi descoberto em 2020 por cientistas usando o Transiting Exoplanet Survey Satellite (TESS) da NASA e o Telescópio Espacial Spitzer, orbitando a anã branca chamada WD.</p><p>O planeta tem aproximadamente o tamanho de Júpiter, mas a anã branca que orbita é do tamanho da Terra, por isso o planeta é sete vezes maior que a sua estrela,&quot; disse o principal. WD 1856 b orbita extremamente perto de sua estrela hospedeira, a uma distância 50 vezes mais próxima do que a Terra orbita o Sol.</p><p>Os dados indicaram que o planeta tem uma temperatura de cerca de 126 °C, significativamente mais quente do que seria se a sua única fonte de calor fosse a luz da anã branca.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando a sua atmosfera. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os resultados foram publicados em 1º de julho de 2026 na revista Nature. WD 1856 b foi descoberto em 2020 por cientistas usando o Transiting Exoplanet Survey Satellite (TESS) da NASA e o Telescópio Espacial Spitzer, orbitando a anã branca chamada WD.</p><p>O planeta tem aproximadamente o tamanho de Júpiter, mas a anã branca que orbita é do tamanho da Terra, por isso o planeta é sete vezes maior que a sua estrela,&quot; disse o principal. WD 1856 b orbita extremamente perto de sua estrela hospedeira, a uma distância 50 vezes mais próxima do que a Terra orbita o Sol.</p><p>Os dados indicaram que o planeta tem uma temperatura de cerca de 126 °C, significativamente mais quente do que seria se a sua única fonte de calor fosse a luz da anã branca.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet’s mass and temperature and even detecting its atmosphere. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. The results were published on 1 July 2026 in the journal Nature. WD 1856 b was discovered in 2020 by scientists using NASA&#x27;s Transiting Exoplanet Survey Satellite (TESS) and the Spitzer Space Telescope, orbiting the white dwarf named WD.</p><p>The planet is about the size of Jupiter, but the white dwarf it orbits is the size of Earth, so the planet is seven times larger than its star,&quot; said lead author Ryan MacDonald of. WD 1856 b orbits extremely close to its host star, at a distance 50 times closer than Earth orbits the Sun.</p><p>The data indicated that the planet has a temperature of about 126 °C, significantly hotter than it would be if its only source of heat was the light from the white dwarf. The white dwarf is part of a triple star system, and the outer companion stars could have influenced WD 1856 b’s orbit.&quot; The researchers realised that there was no source of.</p><p>Using models of how sub-stellar objects like WD 1856 b cool down over time, coupled with the new data from Webb about the planet’s mass and its current temperature, the team was. Light from the star passing through the planet’s atmosphere also picked up information about its chemical composition.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>We recently observed four more transits of WD 1856 b with Webb to take a deeper look into its atmospheric chemistry and can’t wait to see the results.&quot; In approximately five. It&#x27;s like using a time machine to peer into the distant future of our Solar System.&quot; A transit occurs when a planet passes in front of the star it is orbiting from our point of.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando a sua atmosfera. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os resultados são a nossa primeira janela para o futuro dos planetas. Eles descobriram que o planeta é significativamente mais quente do que o esperado e determinaram como provavelmente atingiu a sua órbita muito estreita em torno da estrela, uma.</p><p>Os resultados são a nossa primeira janela para o futuro de planetas como Júpiter após a morte do Sol, daqui a milhares de milhões de anos.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando a sua atmosfera. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os resultados são a nossa primeira janela para o futuro dos planetas. Eles descobriram que o planeta é significativamente mais quente do que o esperado e determinaram como provavelmente atingiu a sua órbita muito estreita em torno da estrela, uma.</p><p>Os resultados são a nossa primeira janela para o futuro de planetas como Júpiter após a morte do Sol, daqui a milhares de milhões de anos.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet’s mass and temperature and even detecting its atmosphere. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. The results are our first window into the future of planets. They found that the planet is significantly warmer than expected and determined how it most likely reached its very tight orbit around the star, a white dwarf.</p><p>The results are our first window into the future of planets like Jupiter after the death of the Sun, billions of years into the future.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de.",
-      "Dado-chave: Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do.",
+      "Dado-chave: Os resultados são a nossa primeira janela para o futuro dos planetas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de.",
-      "Dado-chave: Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do.",
+      "Dado-chave: Os resultados são a nossa primeira janela para o futuro dos planetas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its.",
-      "Key detail: An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit.",
+      "Key detail: The results are our first window into the future of planets.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "01 jul 2026",
@@ -2265,7 +2330,7 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "this-exoplanet-hid-for-10-years-before-astronomers-finally-found-it",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2411,7 +2476,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "faintest-planet-ever-imaged-from-earth-found-after-more-than-10-years-of-hide-and-seek",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2547,7 +2612,7 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "update-on-ocean-observatories-initiative",
     "cat": "Física",
     "catCls": "fisica",
@@ -2671,7 +2736,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "efficiency-meets-environmental-responsibility-commissioning-cern-s-primary-co-cooling-circuit",
     "cat": "Física",
     "catCls": "fisica",
@@ -2792,7 +2857,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "alien-world-chemistry-found-inside-meteorite-that-struck-new-jersey-home",
     "cat": "Química",
     "catCls": "quimica",
@@ -2925,273 +2990,7 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
-    "slug": "nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/sciadv.aea2105-f2_HillsboroughClasts.jpg?w=3000&h=1792&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/S1.jpg?w=533&h=390&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Mapa de satélite da área de Hillsborough, Nova Jersey, com a trajetória de voo projetada do meteorito mostrada como uma linha diagonal verde que se estende de sudoeste a nordeste. As detecções de radar coloridas ao longo e abaixo da trajetória de voo indicam onde.",
-        "caption_pt": "Mapa de satélite da área de Hillsborough, Nova Jersey, com a trajetória de voo projetada do meteorito mostrada como uma linha diagonal verde que se estende de sudoeste a nordeste. As detecções de radar coloridas ao longo e abaixo da trajetória de voo indicam onde.",
-        "caption_en": "Satellite map of the Hillsborough, New Jersey, area with the meteorite's projected flight path shown as a green diagonal line extending from southwest to northeast. Colored radar detections along and below the flight path indicate where.",
-        "alt": "Mapa de satélite da área de Hillsborough, Nova Jersey, com a trajetória de voo projetada do meteorito mostrada como uma linha diagonal verde que se estende de sudoeste a nordeste. As detecções de radar coloridas ao longo e abaixo da trajetória de voo indicam onde.",
-        "alt_pt": "Mapa de satélite da área de Hillsborough, Nova Jersey, com a trajetória de voo projetada do meteorito mostrada como uma linha diagonal verde que se estende de sudoeste a nordeste. As detecções de radar coloridas ao longo e abaixo da trajetória de voo indicam onde.",
-        "alt_en": "Satellite map of the Hillsborough, New Jersey, area with the meteorite's projected flight path shown as a green diagonal line extending from southwest to northeast. Colored radar detections along and below the flight path indicate where."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/07/STScI-01KX448CEBRHBBJW579AG64G0H.jpg?w=3840&h=2160&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-1.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos",
-    "title_pt": "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos",
-    "title_en": "NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids",
-    "sub": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a.",
-    "sub_pt": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a.",
-    "sub_en": "A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive.",
-    "excerpt": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química de asteróides primitivos e os ingredientes que podem ter ajudado a.",
-    "excerpt_pt": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química de asteróides primitivos e os ingredientes que podem ter ajudado a.",
-    "excerpt_en": "A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive asteroids, and the ingredients that may have helped make life.",
-    "body": "<p>Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química de asteróides primitivos e os ingredientes que podem ter ajudado a formar a vida. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 6 min de leitura Estudo da NASA sobre meteorito primitivo acrescenta à história de antigos asteróides Clastos C1 em Hillsborough: À esquerda está uma imagem de elétrons. Os cientistas também foram capazes de detectar sais frágeis de carbonato de sódio que normalmente reagem com a umidade na atmosfera da Terra antes de poderem ser estudados.</p><p>Sais semelhantes foram identificados em amostras trazidas dos asteroides Bennu e Ryugu pela missão OSIRIS-REx da NASA e pela missão Hayabusa2 da JAXA (Agência de Exploração. “Os fragmentos dos pedaços mais ricos em sal deste meteorito são bastante comparáveis ​​às amostras retornadas pelas missões Hayabusa2 e OSIRIS-REx”, disse Mike Zolensky.</p><p>“É apenas mais uma prova de que os blocos químicos de construção da vida poderiam ter sido entregues, e ainda estão a ser entregues, à Terra hoje por estes fragmentos de. Os astrônomos reconstruíram a jornada do meteorito pelo espaço, encontrando evidências de que ele pode ter se originado da família de asteroides Erigone no cinturão de asteroides.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química de asteróides primitivos e os ingredientes que podem ter ajudado a formar a vida. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 6 min de leitura Estudo da NASA sobre meteorito primitivo acrescenta à história de antigos asteróides Clastos C1 em Hillsborough: À esquerda está uma imagem de elétrons. Os cientistas também foram capazes de detectar sais frágeis de carbonato de sódio que normalmente reagem com a umidade na atmosfera da Terra antes de poderem ser estudados.</p><p>Sais semelhantes foram identificados em amostras trazidas dos asteroides Bennu e Ryugu pela missão OSIRIS-REx da NASA e pela missão Hayabusa2 da JAXA (Agência de Exploração. “Os fragmentos dos pedaços mais ricos em sal deste meteorito são bastante comparáveis ​​às amostras retornadas pelas missões Hayabusa2 e OSIRIS-REx”, disse Mike Zolensky.</p><p>“É apenas mais uma prova de que os blocos químicos de construção da vida poderiam ter sido entregues, e ainda estão a ser entregues, à Terra hoje por estes fragmentos de. Os astrônomos reconstruíram a jornada do meteorito pelo espaço, encontrando evidências de que ele pode ter se originado da família de asteroides Erigone no cinturão de asteroides.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive asteroids, and the ingredients that may have helped make life. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. 6 min read NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids C1 clasts in Hillsborough: On the left is a back-scattered electron image with two C1 748 clasts. Scientists were also able to detect fragile sodium-carbonate salts that normally react with moisture in Earth’s atmosphere before they can be studied.</p><p>Similar salts were identified in samples returned from the asteroids Bennu and Ryugu by NASA’s OSIRIS-REx mission and JAXA’s (Japan Aerospace Exploration Agency) Hayabusa2 mission. “The chips of the most salt-rich bits of this meteorite are quite comparable to the samples returned by the Hayabusa2 and OSIRIS-REx missions,” said Mike Zolensky, a meteorite.</p><p>“It’s just more proof that the chemical building blocks of life could have been delivered, and are still being delivered, to Earth today by these carbonaceous asteroid fragments,”. Astronomers reconstructed the meteorite’s journey through space, finding evidence that it may have originated from the Erigone asteroid family in the inner asteroid belt, home to.</p><p>NASA/SETI A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of. Scientists were also able to detect fragile sodium-carbonate salts that normally react with moisture in Earth&#x27;s atmosphere before they can be studied.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Similar salts were identified in samples returned from the asteroids Bennu and Ryugu by NASA&#x27;s OSIRIS-REx mission and JAXA&#x27;s (Japan Aerospace Exploration Agency) Hayabusa2 mission. The chips of the most salt-rich bits of this meteorite are quite comparable to the samples returned by the Hayabusa2 and OSIRIS-REx missions,&quot; said Mike Zolensky, a meteorite.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas.",
-      "Dado-chave: 6 min de leitura Estudo da NASA sobre meteorito primitivo acrescenta à história de antigos asteróides Clastos C1 em Hillsborough: À esquerda.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas.",
-      "Dado-chave: 6 min de leitura Estudo da NASA sobre meteorito primitivo acrescenta à história de antigos asteróides Clastos C1 em Hillsborough: À esquerda.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the.",
-      "Key detail: 6 min read NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids C1 clasts in Hillsborough: On the left is a back-scattered.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "15 jul 2026",
-    "date_pt": "15 jul 2026",
-    "date_en": "15 Jul 2026",
-    "time": "19h28",
-    "time_pt": "19h28",
-    "time_en": "19:28 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-15T19:28:53+00:00",
-    "lastModifiedIso": "2026-07-15T19:28:53+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA Study of Pristine Meteorite Adds to History of Ancient Asteroids"
-    ],
-    "srcUrl": "https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 79,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
     "id": 25,
-    "slug": "webb-reveals-millions-of-stars-in-nearby-galaxy",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_miri_image/27358464-1-eng-GB/Centaurus_A_MIRI_image_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_miri_image/27358464-1-eng-GB/Centaurus_A_MIRI_image_article.jpg",
-        "caption": "Centauro A (imagem MIRI)",
-        "caption_pt": "Centauro A (imagem MIRI)",
-        "caption_en": "Centaurus A (MIRI image)",
-        "alt": "Centauro A (imagem MIRI)",
-        "alt_pt": "Centauro A (imagem MIRI)",
-        "alt_en": "Centaurus A (MIRI image)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_miri_and_nircam_image/27358605-1-eng-GB/Centaurus_A_MIRI_and_NIRCam_image_article.jpg",
-        "caption": "Centaurus A (imagem MIRI e NIRCam)",
-        "caption_pt": "Centaurus A (imagem MIRI e NIRCam)",
-        "caption_en": "Centaurus A (MIRI and NIRCam image)",
-        "alt": "Centaurus A (imagem MIRI e NIRCam)",
-        "alt_pt": "Centaurus A (imagem MIRI e NIRCam)",
-        "alt_en": "Centaurus A (MIRI and NIRCam image)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_ground-based_context/27359451-1-eng-GB/Centaurus_A_ground-based_context_article.jpg",
-        "caption": "Centaurus A: contexto terrestre",
-        "caption_pt": "Centaurus A: contexto terrestre",
-        "caption_en": "Centaurus A: ground-based context",
-        "alt": "Centaurus A: contexto terrestre",
-        "alt_pt": "Centaurus A: contexto terrestre",
-        "alt_en": "Centaurus A: ground-based context"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Webb revela milhões de estrelas em galáxia próxima",
-    "title_pt": "Webb revela milhões de estrelas em galáxia próxima",
-    "title_en": "Webb reveals millions of stars in nearby galaxy",
-    "sub": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e.",
-    "sub_pt": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e.",
-    "sub_en": "In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more.",
-    "excerpt": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes.",
-    "excerpt_pt": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes.",
-    "excerpt_en": "In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented.",
-    "body": "<p>Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Estas imagens marcam quatro anos de desempenho melhor do que o esperado e operações científicas bem-sucedidas para o telescópio espacial mais poderoso da história. Centaurus A (também conhecido como NGC 5128) está a 11 milhões de anos-luz de distância da Terra, relativamente próximo em termos cósmicos.</p><p>As observações de luz visível do Telescópio Espacial Hubble da NASA/ESA não conseguiram revelar a região central onde a poeira bloqueava a visão, enquanto o Telescópio Espacial. Cada estrela revelada ajuda a reconstruir quando ocorreram diferentes eventos: quando as estrelas mais velhas se formaram pela primeira vez, quando a atividade abrandou, uma.</p><p>O quarto ano de operações científicas de Webb proporcionou mais ciência e descobertas inovadoras em lugares de todo o Universo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Estas imagens marcam quatro anos de desempenho melhor do que o esperado e operações científicas bem-sucedidas para o telescópio espacial mais poderoso da história. Centaurus A (também conhecido como NGC 5128) está a 11 milhões de anos-luz de distância da Terra, relativamente próximo em termos cósmicos.</p><p>As observações de luz visível do Telescópio Espacial Hubble da NASA/ESA não conseguiram revelar a região central onde a poeira bloqueava a visão, enquanto o Telescópio Espacial. Cada estrela revelada ajuda a reconstruir quando ocorreram diferentes eventos: quando as estrelas mais velhas se formaram pela primeira vez, quando a atividade abrandou, uma.</p><p>O quarto ano de operações científicas de Webb proporcionou mais ciência e descobertas inovadoras em lugares de todo o Universo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. These images mark four years of better-than-anticipated performance and successful science operations for the most powerful space telescope in history. Centaurus A (also known as NGC 5128) is 11 million light-years away from Earth, relatively close in cosmic terms.</p><p>Visible light observations from the NASA/ESA Hubble Space Telescope could not reveal the central region where dust blocked the view, while NASA’s retired Spitzer Space Telescope. Each star revealed helps to reconstruct when different events happened: when older stars first formed, when activity slowed down, a burst of star formation during the collision.</p><p>The fourth year of Webb’s science operations has delivered further groundbreaking science and discoveries from places across the Universe. New evidence for a planet orbiting Alpha Centauri, just four light-years away from our Sun.</p><p>In the early Universe, Webb revealed a black hole that formed before its galaxy did, providing new evidence for how supermassive black holes originated, and identified a supernova. Researchers presented the strongest evidence yet that some of the “little red dots” discovered by Webb in 2022 are rapidly growing black holes enveloped in dense gas cocoons.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Webb also took a fresh look at the Hubble Ultra Deep Field, resulting in a new view that reveals thousands of distant galaxies dating back to the earliest periods of cosmic. Webb and Hubble also joined forces to share the most comprehensive view of Saturn to date, showing layers and storms in its atmosphere.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar.",
-      "Dado-chave: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar.",
-      "Dado-chave: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into.",
-      "Key detail: In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "06 jul 2026",
-    "date_pt": "06 jul 2026",
-    "date_en": "06 Jul 2026",
-    "time": "16h00",
-    "time_pt": "16h00",
-    "time_en": "16:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-06T16:00:00+00:00",
-    "lastModifiedIso": "2026-07-06T16:00:00+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www.esa.int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Webb revela milhões de estrelas em galáxia próxima"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Webb revela milhões de estrelas em galáxia próxima"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Webb reveals millions of stars in nearby galaxy"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-reveals-millions-of-stars-in-nearby-galaxy",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-reveals-millions-of-stars-in-nearby-galaxy",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-reveals-millions-of-stars-in-nearby-galaxy&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 26,
     "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3327,7 +3126,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 26,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3460,6 +3259,139 @@ window.postsData = [
       "relevance": 88,
       "accessibility": 60,
       "novelty": 46
+    }
+  },
+  {
+    "id": 27,
+    "slug": "nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/sciadv.aea2105-f2_HillsboroughClasts.jpg?w=3000&h=1792&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/S1.jpg?w=533&h=390&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Mapa de satélite da área de Hillsborough, Nova Jersey, com a trajetória de voo projetada do meteorito mostrada como uma linha diagonal verde que se estende de sudoeste a nordeste. As detecções de radar coloridas ao longo e abaixo da trajetória de voo indicam onde.",
+        "caption_pt": "Mapa de satélite da área de Hillsborough, Nova Jersey, com a trajetória de voo projetada do meteorito mostrada como uma linha diagonal verde que se estende de sudoeste a nordeste. As detecções de radar coloridas ao longo e abaixo da trajetória de voo indicam onde.",
+        "caption_en": "Satellite map of the Hillsborough, New Jersey, area with the meteorite's projected flight path shown as a green diagonal line extending from southwest to northeast. Colored radar detections along and below the flight path indicate where.",
+        "alt": "Mapa de satélite da área de Hillsborough, Nova Jersey, com a trajetória de voo projetada do meteorito mostrada como uma linha diagonal verde que se estende de sudoeste a nordeste. As detecções de radar coloridas ao longo e abaixo da trajetória de voo indicam onde.",
+        "alt_pt": "Mapa de satélite da área de Hillsborough, Nova Jersey, com a trajetória de voo projetada do meteorito mostrada como uma linha diagonal verde que se estende de sudoeste a nordeste. As detecções de radar coloridas ao longo e abaixo da trajetória de voo indicam onde.",
+        "alt_en": "Satellite map of the Hillsborough, New Jersey, area with the meteorite's projected flight path shown as a green diagonal line extending from southwest to northeast. Colored radar detections along and below the flight path indicate where."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/07/STScI-01KX448CEBRHBBJW579AG64G0H.jpg?w=3840&h=2160&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-1.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos",
+    "title_pt": "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos",
+    "title_en": "NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids",
+    "sub": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a.",
+    "sub_pt": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a.",
+    "sub_en": "A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive.",
+    "excerpt": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química de asteróides primitivos e os ingredientes que podem ter ajudado a.",
+    "excerpt_pt": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química de asteróides primitivos e os ingredientes que podem ter ajudado a.",
+    "excerpt_en": "A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive asteroids, and the ingredients that may have helped make life.",
+    "body": "<p>Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química de asteróides primitivos e os ingredientes que podem ter ajudado a formar a vida. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 6 min de leitura Estudo da NASA sobre meteorito primitivo acrescenta à história de antigos asteróides Clastos C1 em Hillsborough: À esquerda está uma imagem de elétrons. Os cientistas também foram capazes de detectar sais frágeis de carbonato de sódio que normalmente reagem com a umidade na atmosfera da Terra antes de poderem ser estudados.</p><p>Sais semelhantes foram identificados em amostras trazidas dos asteroides Bennu e Ryugu pela missão OSIRIS-REx da NASA e pela missão Hayabusa2 da JAXA (Agência de Exploração. “Os fragmentos dos pedaços mais ricos em sal deste meteorito são bastante comparáveis ​​às amostras retornadas pelas missões Hayabusa2 e OSIRIS-REx”, disse Mike Zolensky.</p><p>“É apenas mais uma prova de que os blocos químicos de construção da vida poderiam ter sido entregues, e ainda estão a ser entregues, à Terra hoje por estes fragmentos de. Os astrônomos reconstruíram a jornada do meteorito pelo espaço, encontrando evidências de que ele pode ter se originado da família de asteroides Erigone no cinturão de asteroides.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química de asteróides primitivos e os ingredientes que podem ter ajudado a formar a vida. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 6 min de leitura Estudo da NASA sobre meteorito primitivo acrescenta à história de antigos asteróides Clastos C1 em Hillsborough: À esquerda está uma imagem de elétrons. Os cientistas também foram capazes de detectar sais frágeis de carbonato de sódio que normalmente reagem com a umidade na atmosfera da Terra antes de poderem ser estudados.</p><p>Sais semelhantes foram identificados em amostras trazidas dos asteroides Bennu e Ryugu pela missão OSIRIS-REx da NASA e pela missão Hayabusa2 da JAXA (Agência de Exploração. “Os fragmentos dos pedaços mais ricos em sal deste meteorito são bastante comparáveis ​​às amostras retornadas pelas missões Hayabusa2 e OSIRIS-REx”, disse Mike Zolensky.</p><p>“É apenas mais uma prova de que os blocos químicos de construção da vida poderiam ter sido entregues, e ainda estão a ser entregues, à Terra hoje por estes fragmentos de. Os astrônomos reconstruíram a jornada do meteorito pelo espaço, encontrando evidências de que ele pode ter se originado da família de asteroides Erigone no cinturão de asteroides.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive asteroids, and the ingredients that may have helped make life. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. 6 min read NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids C1 clasts in Hillsborough: On the left is a back-scattered electron image with two C1 748 clasts. Scientists were also able to detect fragile sodium-carbonate salts that normally react with moisture in Earth’s atmosphere before they can be studied.</p><p>Similar salts were identified in samples returned from the asteroids Bennu and Ryugu by NASA’s OSIRIS-REx mission and JAXA’s (Japan Aerospace Exploration Agency) Hayabusa2 mission. “The chips of the most salt-rich bits of this meteorite are quite comparable to the samples returned by the Hayabusa2 and OSIRIS-REx missions,” said Mike Zolensky, a meteorite.</p><p>“It’s just more proof that the chemical building blocks of life could have been delivered, and are still being delivered, to Earth today by these carbonaceous asteroid fragments,”. Astronomers reconstructed the meteorite’s journey through space, finding evidence that it may have originated from the Erigone asteroid family in the inner asteroid belt, home to.</p><p>NASA/SETI A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of. Scientists were also able to detect fragile sodium-carbonate salts that normally react with moisture in Earth&#x27;s atmosphere before they can be studied.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Similar salts were identified in samples returned from the asteroids Bennu and Ryugu by NASA&#x27;s OSIRIS-REx mission and JAXA&#x27;s (Japan Aerospace Exploration Agency) Hayabusa2 mission. The chips of the most salt-rich bits of this meteorite are quite comparable to the samples returned by the Hayabusa2 and OSIRIS-REx missions,&quot; said Mike Zolensky, a meteorite.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas.",
+      "Dado-chave: 6 min de leitura Estudo da NASA sobre meteorito primitivo acrescenta à história de antigos asteróides Clastos C1 em Hillsborough: À esquerda.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas.",
+      "Dado-chave: 6 min de leitura Estudo da NASA sobre meteorito primitivo acrescenta à história de antigos asteróides Clastos C1 em Hillsborough: À esquerda.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the.",
+      "Key detail: 6 min read NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids C1 clasts in Hillsborough: On the left is a back-scattered.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "15 jul 2026",
+    "date_pt": "15 jul 2026",
+    "date_en": "15 Jul 2026",
+    "time": "19h28",
+    "time_pt": "19h28",
+    "time_en": "19:28 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-15T19:28:53+00:00",
+    "lastModifiedIso": "2026-07-15T19:28:53+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Study of Pristine Meteorite Adds to History of Ancient Asteroids"
+    ],
+    "srcUrl": "https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 79,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 52
     }
   },
   {
@@ -3703,6 +3635,142 @@ window.postsData = [
   },
   {
     "id": 30,
+    "slug": "a-tide-fueled-trove-of-biodiversity-in-guinea-bissau",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/bijagosarchipelago_oli_20251128.jpg?w=1440&h=1200&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ontario-wildfire-smoke-drifts-east/ontariofires_virs3_20260714_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Uma imagem de satélite mostra fumaça marrom de incêndios florestais em Ontário, Canadá, fluindo para o leste através de partes do Canadá e dos EUA. Áreas de nuvens brancas estão misturadas à fumaça.",
+        "caption_pt": "Uma imagem de satélite mostra fumaça marrom de incêndios florestais em Ontário, Canadá, fluindo para o leste através de partes do Canadá e dos EUA. Áreas de nuvens brancas estão misturadas à fumaça.",
+        "caption_en": "A satellite image shows brown smoke from wildfires in Ontario, Canada, streaming east across parts of Canada and the U.S. Areas of white clouds are mixed in with the smoke.",
+        "alt": "Uma imagem de satélite mostra fumaça marrom de incêndios florestais em Ontário, Canadá, fluindo para o leste através de partes do Canadá e dos EUA. Áreas de nuvens brancas estão misturadas à fumaça.",
+        "alt_pt": "Uma imagem de satélite mostra fumaça marrom de incêndios florestais em Ontário, Canadá, fluindo para o leste através de partes do Canadá e dos EUA. Áreas de nuvens brancas estão misturadas à fumaça.",
+        "alt_en": "A satellite image shows brown smoke from wildfires in Ontario, Canada, streaming east across parts of Canada and the U.S. Areas of white clouds are mixed in with the smoke."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/bijagosarchipelago_oli_20251128_lrg.jpg?w=7236&h=6030&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Uma imagem de satélite mostra um aglomerado de ilhas verdes cercadas por planícies de areia bege e redes de canais cheios de água azul escura.",
+        "caption_pt": "Uma imagem de satélite mostra um aglomerado de ilhas verdes cercadas por planícies de areia bege e redes de canais cheios de água azul escura.",
+        "caption_en": "A satellite image shows a cluster of green islands surrounded by beige sand flats and networks of channels full of dark blue water.",
+        "alt": "Uma imagem de satélite mostra um aglomerado de ilhas verdes cercadas por planícies de areia bege e redes de canais cheios de água azul escura.",
+        "alt_pt": "Uma imagem de satélite mostra um aglomerado de ilhas verdes cercadas por planícies de areia bege e redes de canais cheios de água azul escura.",
+        "alt_en": "A satellite image shows a cluster of green islands surrounded by beige sand flats and networks of channels full of dark blue water."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pumice-rafts-encroach-on-admiralty-islands/bismarkpumicezm2_oli_20260604_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Um tesouro de biodiversidade alimentado pelas marés na Guiné-Bissau",
+    "title_pt": "Um tesouro de biodiversidade alimentado pelas marés na Guiné-Bissau",
+    "title_en": "A Tide-Fueled Trove of Biodiversity in Guinea-Bissau",
+    "sub": "Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande número de tartarugas marinhas.",
+    "sub_pt": "Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande número de tartarugas marinhas.",
+    "sub_en": "The expansive mudflats, sandy beaches, and mangrove forests of the Bijagós archipelago support an array of migratory shorebirds and large numbers of sea turtles.",
+    "excerpt": "Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande número de tartarugas marinhas.",
+    "excerpt_pt": "Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande número de tartarugas marinhas.",
+    "excerpt_en": "The expansive mudflats, sandy beaches, and mangrove forests of the Bijagós archipelago support an array of migratory shorebirds and large numbers of sea turtles.",
+    "body": "<p>Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande número de tartarugas marinhas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Observatório da Terra da NASA/Lauren Dauphin Duas vezes por dia, as marés vazam e fluem através de um labirinto de canais arenosos, lodaçais e florestas de mangais que flanqueiam. Uma análise das marés da região em 2025 explorou por que razão o arquipélago tem algumas das maiores amplitudes de marés da África Ocidental.</p><p>Jangadas de pedra-pomes invadem as Ilhas do Almirantado 4 min de leitura Fragmentos flutuantes de rocha vulcânica de uma erupção subaquática flutuaram pelo Mar de Bismarck e. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>Observatório da Terra da NASA/Lauren Dauphin Duas vezes por dia, as marés vazam e fluem através de um labirinto de canais arenosos, lodaçais e florestas de mangue que flanqueiam. Uma análise das marés da região em 2025 explorou por que o arquipélago tem algumas das maiores amplitudes de marés da África Ocidental.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande número de tartarugas marinhas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Observatório da Terra da NASA/Lauren Dauphin Duas vezes por dia, as marés vazam e fluem através de um labirinto de canais arenosos, lodaçais e florestas de mangais que flanqueiam. Uma análise das marés da região em 2025 explorou por que razão o arquipélago tem algumas das maiores amplitudes de marés da África Ocidental.</p><p>Jangadas de pedra-pomes invadem as Ilhas do Almirantado 4 min de leitura Fragmentos flutuantes de rocha vulcânica de uma erupção subaquática flutuaram pelo Mar de Bismarck e. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>Observatório da Terra da NASA/Lauren Dauphin Duas vezes por dia, as marés vazam e fluem através de um labirinto de canais arenosos, lodaçais e florestas de mangue que flanqueiam. Uma análise das marés da região em 2025 explorou por que o arquipélago tem algumas das maiores amplitudes de marés da África Ocidental.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The expansive mudflats, sandy beaches, and mangrove forests of the Bijagós archipelago support an array of migratory shorebirds and large numbers of sea turtles. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. NASA Earth Observatory/Lauren Dauphin Twice each day, tides ebb and flow through a maze of sandy channels, mudflats, and mangrove forests that flank the 88 islands and islets of. A 2025 analysis of the region’s tides explored why the archipelago has some of the largest tidal ranges in West Africa.</p><p>Pumice Rafts Encroach on Admiralty Islands 4 min read Buoyant volcanic rock fragments from an underwater eruption drifted across the Bismarck Sea and choked island coasts. Earth Observatory Image of the Day NASA’s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p><p>A 2025 analysis of the region&#x27;s tides explored why the archipelago has some of the largest tidal ranges in West Africa. The scientists used altimetry data from the NASA/CNES TOPEX/Poseidon, Jason-1, and Jason-2 satellites to help validate their findings.</p><p>Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet. Article Satellite Spots a Spawn 3 min read The activity of herring around Vancouver Island in British Columbia brightened coastal waters enough to be detectable from space.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Article 1 2 3 4 Next Keep Exploring Discover More from NASA Earth Science Subscribe to Earth Observatory Newsletters Subscribe to the Earth Observatory and get the Earth in your. NASA&#x27;s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande.",
+      "Dado-chave: Observatório da Terra da NASA/Lauren Dauphin Duas vezes por dia, as marés vazam e fluem através de um labirinto de canais arenosos, lodaçais e.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande.",
+      "Dado-chave: Observatório da Terra da NASA/Lauren Dauphin Duas vezes por dia, as marés vazam e fluem através de um labirinto de canais arenosos, lodaçais e.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The expansive mudflats, sandy beaches, and mangrove forests of the Bijagós archipelago support an array of migratory shorebirds and large numbers of.",
+      "Key detail: NASA Earth Observatory/Lauren Dauphin Twice each day, tides ebb and flow through a maze of sandy channels, mudflats, and mangrove forests that.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "17 jul 2026",
+    "date_pt": "17 jul 2026",
+    "date_en": "17 Jul 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04:01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-17T04:01:00+00:00",
+    "lastModifiedIso": "2026-07-17T04:01:00+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Um tesouro de biodiversidade alimentado pelas marés na Guiné",
+      "Bissau"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Um tesouro de biodiversidade alimentado pelas marés na Guiné",
+      "Bissau"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "A treasure trove of tide-fed biodiversity in Guinea",
+      "Bissau"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=a-tide-fueled-trove-of-biodiversity-in-guinea-bissau",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=a-tide-fueled-trove-of-biodiversity-in-guinea-bissau",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=a-tide-fueled-trove-of-biodiversity-in-guinea-bissau&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 31,
     "slug": "ontario-wildfire-smoke-moves-east",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3835,7 +3903,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "an-ancient-stellar-passage-altered-the-orbits-of-comets-we-see-today",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3981,7 +4049,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "are-we-missing-the-universe-s-noosignatures",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -4109,7 +4177,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "famous-system-has-a-third-planet-beta-pictoris-d",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4236,7 +4304,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "observers-beware-reflect-orbital-s-space-mirrors-approved-for-launch",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -4375,7 +4443,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "rogue-neptunes-are-detached-but-not-alone",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4420,8 +4488,8 @@ window.postsData = [
     "excerpt": "Mundos “desonestos” do tamanho de Netuno podem não percorrer a galáxia totalmente por conta própria, apenas muito longe de suas estrelas-mãe. O post \"Rogue\" Neptunes Are Detached But Not Alone apareceu pela primeira vez na Sky & Telescope.",
     "excerpt_pt": "Mundos “desonestos” do tamanho de Netuno podem não percorrer a galáxia totalmente por conta própria, apenas muito longe de suas estrelas-mãe. O post \"Rogue\" Neptunes Are Detached But Not Alone apareceu pela primeira vez na Sky & Telescope.",
     "excerpt_en": "\"Rogue\" Neptune-size worlds might not roam the galaxy totally on their own, just very far away from their parent stars. The post \"Rogue\" Neptunes Are Detached But Not Alone appeared first on Sky & Telescope.",
-    "body": "<p>Mundos “desonestos” do tamanho de Netuno podem não percorrer a galáxia totalmente por conta própria, apenas muito longe de suas estrelas-mãe. O post &quot;Rogue&quot; Neptunes Are Detached But Not Alone apareceu pela primeira vez na Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O post &quot;Rogue&quot; Neptunes Are Detached But Not Alone apareceu pela primeira vez em Sky &amp; Telescope. Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestes e as últimas notícias de astronomia Sim, gostaria de receber e-mails da Sky &amp;.</p><p>(Você pode cancelar a inscrição a qualquer momento) Mundos “desonestos” do tamanho de Netuno podem não vagar pela galáxia totalmente por conta própria, apenas muito longe de suas. Pesquisas de microlentes descobriram muitos exoplanetas regulares, mas, mais surpreendentemente, também descobriram muitos Netunos solitários, sem nenhuma estrela por perto.</p><p>No entanto, novas pesquisas sugerem que as primeiras impressões podem enganar e que pelo menos alguns destes planetas podem não estar tão sozinhos: apenas têm uma história. Ou pelo menos essa é a sensação atual que os astrônomos têm com pesquisas de microlentes gravitacionais, que procuram exoplanetas durante eventos de ampliação de curta duração.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/uncategorized/rogue-neptunes-are-detached-but-not-alone/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Mundos “desonestos” do tamanho de Netuno podem não percorrer a galáxia totalmente por conta própria, apenas muito longe de suas estrelas-mãe. O post &quot;Rogue&quot; Neptunes Are Detached But Not Alone apareceu pela primeira vez na Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O post &quot;Rogue&quot; Neptunes Are Detached But Not Alone apareceu pela primeira vez em Sky &amp; Telescope. Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestes e as últimas notícias de astronomia Sim, gostaria de receber e-mails da Sky &amp;.</p><p>(Você pode cancelar a inscrição a qualquer momento) Mundos “desonestos” do tamanho de Netuno podem não vagar pela galáxia totalmente por conta própria, apenas muito longe de suas. Pesquisas de microlentes descobriram muitos exoplanetas regulares, mas, mais surpreendentemente, também descobriram muitos Netunos solitários, sem nenhuma estrela por perto.</p><p>No entanto, novas pesquisas sugerem que as primeiras impressões podem enganar e que pelo menos alguns destes planetas podem não estar tão sozinhos: apenas têm uma história. Ou pelo menos essa é a sensação atual que os astrônomos têm com pesquisas de microlentes gravitacionais, que procuram exoplanetas durante eventos de ampliação de curta duração.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/uncategorized/rogue-neptunes-are-detached-but-not-alone/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body": "<p>Mundos “desonestos” do tamanho de Netuno podem não percorrer a galáxia totalmente por conta própria, apenas muito longe de suas estrelas-mãe. O post &quot;Rogue&quot; Neptunes Are Detached But Not Alone apareceu pela primeira vez na Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O post &quot;Rogue&quot; Neptunes Are Detached But Not Alone apareceu pela primeira vez em Sky &amp; Telescope. Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestes e as últimas notícias de astronomia Sim, gostaria de receber e-mails da Sky &amp;.</p><p>(Você pode cancelar a assinatura a qualquer momento) Mundos “desonestos” do tamanho de Netuno podem não vagar pela galáxia totalmente por conta própria, apenas muito longe de suas. Pesquisas de microlentes descobriram muitos exoplanetas regulares, mas, o que é mais surpreendente, também descobriram muitos Netunos solitários, sem nenhuma estrela por perto.</p><p>No entanto, novas pesquisas sugerem que as primeiras impressões podem enganar e que pelo menos alguns destes planetas podem não estar tão sozinhos: apenas têm uma história. Ou pelo menos essa é a sensação atual que os astrônomos têm com pesquisas de microlentes gravitacionais, que procuram exoplanetas durante eventos de ampliação de curta duração.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/uncategorized/rogue-neptunes-are-detached-but-not-alone/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Mundos “desonestos” do tamanho de Netuno podem não percorrer a galáxia totalmente por conta própria, apenas muito longe de suas estrelas-mãe. O post &quot;Rogue&quot; Neptunes Are Detached But Not Alone apareceu pela primeira vez na Sky &amp; Telescope. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O post &quot;Rogue&quot; Neptunes Are Detached But Not Alone apareceu pela primeira vez em Sky &amp; Telescope. Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestes e as últimas notícias de astronomia Sim, gostaria de receber e-mails da Sky &amp;.</p><p>(Você pode cancelar a assinatura a qualquer momento) Mundos “desonestos” do tamanho de Netuno podem não vagar pela galáxia totalmente por conta própria, apenas muito longe de suas. Pesquisas de microlentes descobriram muitos exoplanetas regulares, mas, o que é mais surpreendente, também descobriram muitos Netunos solitários, sem nenhuma estrela por perto.</p><p>No entanto, novas pesquisas sugerem que as primeiras impressões podem enganar e que pelo menos alguns destes planetas podem não estar tão sozinhos: apenas têm uma história. Ou pelo menos essa é a sensação atual que os astrônomos têm com pesquisas de microlentes gravitacionais, que procuram exoplanetas durante eventos de ampliação de curta duração.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/uncategorized/rogue-neptunes-are-detached-but-not-alone/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>&quot;Rogue&quot; Neptune-size worlds might not roam the galaxy totally on their own, just very far away from their parent stars. The post &quot;Rogue&quot; Neptunes Are Detached But Not Alone appeared first on Sky &amp; Telescope. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The post &quot;Rogue&quot; Neptunes Are Detached But Not Alone appeared first on Sky &amp; Telescope. Explore the universe with Sky &amp; Telescope, your ultimate source for stargazing, celestial events, and the latest astronomy news Yes, I would like to receive emails from Sky &amp;.</p><p>(You can unsubscribe anytime) “Rogue” Neptune-size worlds might not roam the galaxy totally on their own, just very far away from their parent stars. Microlensing surveys have discovered plenty of regular exoplanets, but more surprisingly, they’ve also turned up many solo Neptunes with no star nearby.</p><p>First impressions might be deceiving, however, and that at least some of these planets might not be so alone: they just have a complicated family. Or at least that’s the current feeling astronomers get from gravitational microlensing surveys, which look for exoplanets during short-lived magnification events caused by chance.</p><p>These surveys have now found about a dozen so-called “free-floating” planets, and while this doesn’t sound like that many, running the numbers reveals that this tiny sample. It’s possible that these objects simply formed disconnected from any planetary system, but it’s unclear how something so small could collapse from the interstellar clouds that.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>However, new research by Sam Hadden (Canadian Institute for Theoretical Astrophysics) and Yanqin Wu (University of Toronto) presents an alternative idea: what if at least some of. For an exoplanet orbiting a star, we should observe two of these pulses: one when the host star drifts in and out of alignment with a background star, and one when the nearby.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/uncategorized/rogue-neptunes-are-detached-but-not-alone/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Mundos “desonestos” do tamanho de Netuno podem não percorrer a galáxia totalmente por conta própria, apenas muito longe de suas estrelas-mãe. O post.",
@@ -4511,7 +4579,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "euclid-telescope-finds-quasars-within-700-million-years-of-the-big-bang",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4644,7 +4712,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "metallic-waves-on-ancient-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4777,12 +4845,40 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 39,
     "slug": "flex-and-sentinel-3c-arrive-at-europe-s-spaceport",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/flex_and_sentinel-3_head_to_launch_site/27379827-1-eng-GB/FLEX_and_Sentinel-3_head_to_launch_site_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/flex_and_sentinel-3_arrive_in_kourou/27379567-1-eng-GB/FLEX_and_Sentinel-3_arrive_in_Kourou_article.jpg",
+        "caption": "FLEX e Sentinel-3 chegam a Kourou",
+        "caption_pt": "FLEX e Sentinel-3 chegam a Kourou",
+        "caption_en": "FLEX and Sentinel-3 arrive in Kourou",
+        "alt": "FLEX e Sentinel-3 chegam a Kourou",
+        "alt_pt": "FLEX e Sentinel-3 chegam a Kourou",
+        "alt_en": "FLEX and Sentinel-3 arrive in Kourou"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/flex_and_sentinel-3c_offloaded_from_ship_in_french_guiana/27379780-1-eng-GB/FLEX_and_Sentinel-3C_offloaded_from_ship_in_French_Guiana_article.jpg",
+        "caption": "FLEX e Sentinel-3C descarregados de navio na Guiana Francesa",
+        "caption_pt": "FLEX e Sentinel-3C descarregados de navio na Guiana Francesa",
+        "caption_en": "FLEX and Sentinel-3C offloaded from ship in French Guiana",
+        "alt": "FLEX e Sentinel-3C descarregados de navio na Guiana Francesa",
+        "alt_pt": "FLEX e Sentinel-3C descarregados de navio na Guiana Francesa",
+        "alt_en": "FLEX and Sentinel-3C offloaded from ship in French Guiana"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/01/copernicus_sentinel-3/15758903-1-eng-GB/Copernicus_Sentinel-3_article.jpg",
+        "caption": "Copérnico Sentinela-3",
+        "caption_pt": "Copérnico Sentinela-3",
+        "caption_en": "Copernicus Sentinel-3",
+        "alt": "Copérnico Sentinela-3",
+        "alt_pt": "Copérnico Sentinela-3",
+        "alt_en": "Copernicus Sentinel-3"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "FLEX e Sentinel-3C chegam ao espaçoporto europeu",
@@ -4794,9 +4890,9 @@ window.postsData = [
     "excerpt": "Com a descolagem prevista para Setembro, a excitação aumenta no Porto Espacial Europeu, na Guiana Francesa, à medida que dois satélites de observação da Terra de última geração, FLEX e Copernicus Sentinel-3C, chegam para iniciar as suas campanhas de.",
     "excerpt_pt": "Com a descolagem prevista para Setembro, a excitação aumenta no Porto Espacial Europeu, na Guiana Francesa, à medida que dois satélites de observação da Terra de última geração, FLEX e Copernicus Sentinel-3C, chegam para iniciar as suas campanhas de.",
     "excerpt_en": "With liftoff scheduled for September, excitement is building at Europe’s Spaceport in French Guiana as two cutting-edge Earth observation satellites, FLEX and Copernicus Sentinel-3C, have arrived to begin their launch campaigns. Over the.",
-    "body": "<p>Com a descolagem prevista para Setembro, a excitação aumenta no Porto Espacial Europeu, na Guiana Francesa, à medida que dois satélites de observação da Terra de última geração, FLEX e Copernicus Sentinel-3C, chegam para iniciar as suas campanhas de lançamento. Acima do. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Nas próximas semanas, engenheiros e equipes de missão realizarão uma série de inspeções rigorosas e prepararão os satélites a serem instalados no foguete Vega-C para sua jornada.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_arrive_at_Europe_s_Spaceport\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Com a descolagem prevista para Setembro, a excitação aumenta no Porto Espacial Europeu, na Guiana Francesa, à medida que dois satélites de observação da Terra de última geração, FLEX e Copernicus Sentinel-3C, chegam para iniciar as suas campanhas de lançamento. Acima do. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Nas próximas semanas, engenheiros e equipes de missão realizarão uma série de inspeções rigorosas e prepararão os satélites a serem instalados no foguete Vega-C para sua jornada.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_arrive_at_Europe_s_Spaceport\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>With liftoff scheduled for September, excitement is building at Europe’s Spaceport in French Guiana as two cutting-edge Earth observation satellites, FLEX and Copernicus Sentinel-3C, have arrived to begin their launch campaigns. Over the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Over the coming weeks, engineers and mission teams will carry out a series of rigorous inspections and prepare the satellites to be installed atop their Vega-C rocket for their.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_arrive_at_Europe_s_Spaceport\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Com a descolagem prevista para Setembro, a excitação aumenta no Porto Espacial Europeu, na Guiana Francesa, à medida que dois satélites de observação da Terra de última geração, FLEX e Copernicus Sentinel-3C, chegam para iniciar as suas campanhas de lançamento. Acima do. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Os satélites acabaram de completar uma viagem marítima de duas semanas a partir de Nice, França, atravessando o Mar Mediterrâneo e o Oceano Atlântico antes de atracar em. Isso inclui verificações e testes abrangentes de saúde, abastecimento e preparativos finais para garantir que o FLEX e o Sentinel-3C estejam prontos para serem encapsulados na.</p><p>O Sentinel-3C será injetado primeiro em órbita para ser posicionado acima do satélite FLEX na carenagem. François Bausier, Gestor da Campanha de Lançamento do Sentinel-3C da ESA, disse: “Foi ótimo ver o Sentinel-3C chegar em segurança à Guiana Francesa após a sua longa viagem.</p><p>É um período ocupado para toda a equipa, mas ter o satélite aqui no Porto Espacial Europeu é o último passo antes do lançamento, um passo que saudamos e que surge após anos de.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_arrive_at_Europe_s_Spaceport\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Com a descolagem prevista para Setembro, a excitação aumenta no Porto Espacial Europeu, na Guiana Francesa, à medida que dois satélites de observação da Terra de última geração, FLEX e Copernicus Sentinel-3C, chegam para iniciar as suas campanhas de lançamento. Acima do. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Os satélites acabaram de completar uma viagem marítima de duas semanas a partir de Nice, França, atravessando o Mar Mediterrâneo e o Oceano Atlântico antes de atracar em. Isso inclui verificações e testes abrangentes de saúde, abastecimento e preparativos finais para garantir que o FLEX e o Sentinel-3C estejam prontos para serem encapsulados na.</p><p>O Sentinel-3C será injetado primeiro em órbita para ser posicionado acima do satélite FLEX na carenagem. François Bausier, Gestor da Campanha de Lançamento do Sentinel-3C da ESA, disse: “Foi ótimo ver o Sentinel-3C chegar em segurança à Guiana Francesa após a sua longa viagem.</p><p>É um período ocupado para toda a equipa, mas ter o satélite aqui no Porto Espacial Europeu é o último passo antes do lançamento, um passo que saudamos e que surge após anos de.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_arrive_at_Europe_s_Spaceport\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>With liftoff scheduled for September, excitement is building at Europe’s Spaceport in French Guiana as two cutting-edge Earth observation satellites, FLEX and Copernicus Sentinel-3C, have arrived to begin their launch campaigns. Over the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The satellites have just completed a two-week sea voyage from Nice, France, crossing the Mediterranean Sea and the Atlantic Ocean before docking at Pariacabo, the port of Kourou. This includes comprehensive health checks and testing, fuelling, and final preparations to ensure FLEX and Sentinel-3C are ready to be encapsulated within the Vega-C rocket.</p><p>Sentinel-3C will be injected into orbit first so it will be positioned above the FLEX satellite in the fairing. Francois Bausier, ESA’s Launch Campaign Manager for Sentinel-3C, said, “It was great to see Sentinel-3C arrive safely in French Guiana after its long journey.</p><p>It&#x27;s a busy period for the whole team, but having the satellite here at Europe’s Spaceport is the last step before launch, a step we welcome and one that comes after years of. ESA’s Launch Campaign Manager for FLEX, added, “Yes indeed, it&#x27;s fantastic to reach this milestone and to see both satellites beginning their launch campaigns side by side.</p><p>Although FLEX and Sentinel-3C have different scientific objectives, our teams will be working closely together as we prepare the satellites for their shared journey into orbit. There&#x27;s a real sense of excitement across everyone involved, and we&#x27;re looking forward to taking FLEX through these final stages before launch.” With both satellites now at.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>It can launch up to 3300 kg into space, ideal for carrying small scientific and Earth observation satellites into orbit. Sentinel-3C is the third satellite in the Copernicus Sentinel-3 series.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_arrive_at_Europe_s_Spaceport\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Com a descolagem prevista para Setembro, a excitação aumenta no Porto Espacial Europeu, na Guiana Francesa, à medida que dois satélites de observação.",
       "Dado-chave: Com a descolagem prevista para Setembro, a excitação aumenta no Porto Espacial Europeu, na Guiana Francesa, à medida que dois satélites de.",
@@ -4885,7 +4981,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 40,
     "slug": "where-venezuela-s-earthquakes-shifted-the-ground",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4998,152 +5094,6 @@ window.postsData = [
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=where-venezuela-s-earthquakes-shifted-the-ground",
     "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=where-venezuela-s-earthquakes-shifted-the-ground",
     "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=where-venezuela-s-earthquakes-shifted-the-ground&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 75,
-      "evidence": 88,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 40,
-    "slug": "viking-mission-resources",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia00/pia00381/PIA00381.jpg?w=1439&h=512&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia00/pia00563/PIA00563.tif?w=1024",
-        "caption": "Esta fotografia colorida de Marte foi tirada em 21 de julho de 1997, um dia após o Viking l da NASA pousar com sucesso no planeta vermelho.",
-        "caption_pt": "Esta fotografia colorida de Marte foi tirada em 21 de julho de 1997, um dia após o Viking l da NASA pousar com sucesso no planeta vermelho.",
-        "caption_en": "This color picture of Mars was taken July 21, 1997, the day following NASA's Viking l successfully landed on the red planet.",
-        "alt": "Esta fotografia colorida de Marte foi tirada em 21 de julho de 1997, um dia após o Viking l da NASA pousar com sucesso no planeta vermelho.",
-        "alt_pt": "Esta fotografia colorida de Marte foi tirada em 21 de julho de 1997, um dia após o Viking l da NASA pousar com sucesso no planeta vermelho.",
-        "alt_en": "This color picture of Mars was taken July 21, 1997, the day following NASA's Viking l successfully landed on the red planet."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia00/pia00396/PIA00396.jpg?w=1614&h=512&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "A primeira foto do Viking 2 da NASA na superfície de Marte foi tirada poucos minutos depois que a espaçonave pousou em 3 de setembro de 1976. A cena revela uma grande variedade de rochas espalhadas por uma superfície de depósitos de granulação fina.",
-        "caption_pt": "A primeira foto do Viking 2 da NASA na superfície de Marte foi tirada poucos minutos depois que a espaçonave pousou em 3 de setembro de 1976. A cena revela uma grande variedade de rochas espalhadas por uma superfície de depósitos de granulação fina.",
-        "caption_en": "NASA's Viking 2's first picture on the surface of Mars was taken within minutes after the spacecraft touched down on Sept. 3, 1976. The scene reveals a wide variety of rocks littering a surface of fine-grained deposit.",
-        "alt": "A primeira foto do Viking 2 da NASA na superfície de Marte foi tirada poucos minutos depois que a espaçonave pousou em 3 de setembro de 1976. A cena revela uma grande variedade de rochas espalhadas por uma superfície de depósitos de granulação fina.",
-        "alt_pt": "A primeira foto do Viking 2 da NASA na superfície de Marte foi tirada poucos minutos depois que a espaçonave pousou em 3 de setembro de 1976. A cena revela uma grande variedade de rochas espalhadas por uma superfície de depósitos de granulação fina.",
-        "alt_en": "NASA's Viking 2's first picture on the surface of Mars was taken within minutes after the spacecraft touched down on Sept. 3, 1976. The scene reveals a wide variety of rocks littering a surface of fine-grained deposit."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia00/pia00383/PIA00383.jpg?w=2497&h=512&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Primeira vista panorâmica da superfície de Marte feita pelo Viking 1 da NASA, tirada em 1976. Na borda direita há uma série de material liso e de granulação fina que mostra algum indício de estrutura ondulada e pode ser o início de um grande campo de dunas.",
-        "caption_pt": "Primeira vista panorâmica da superfície de Marte feita pelo Viking 1 da NASA, tirada em 1976. Na borda direita há uma série de material liso e de granulação fina que mostra algum indício de estrutura ondulada e pode ser o início de um grande campo de dunas.",
-        "caption_en": "First panoramic view by NASA's Viking 1 from the surface of Mars taken in 1976. Toward the right edge is an array of smooth fine-grained material which shows some hint of ripple structure and may be the beginning of a large dune field.",
-        "alt": "Primeira vista panorâmica da superfície de Marte feita pelo Viking 1 da NASA, tirada em 1976. Na borda direita há uma série de material liso e de granulação fina que mostra algum indício de estrutura ondulada e pode ser o início de um grande campo de dunas.",
-        "alt_pt": "Primeira vista panorâmica da superfície de Marte feita pelo Viking 1 da NASA, tirada em 1976. Na borda direita há uma série de material liso e de granulação fina que mostra algum indício de estrutura ondulada e pode ser o início de um grande campo de dunas.",
-        "alt_en": "First panoramic view by NASA's Viking 1 from the surface of Mars taken in 1976. Toward the right edge is an array of smooth fine-grained material which shows some hint of ripple structure and may be the beginning of a large dune field."
-      }
-    ],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://science.nasa.gov/wp-content/uploads/2024/07/jpl-19760131-vikings-0001-src001968-viking-mission-to-mars-trimmed.mp4",
-      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2008/02/382-viking-lander-pia09703.jpg?w=1116&h=900&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "Recursos da Missão Viking - Ciência da NASA",
-      "title_pt": "Recursos da Missão Viking - Ciência da NASA",
-      "title_en": "Viking Mission Resources - NASA Science",
-      "caption": "Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte.",
-      "caption_pt": "Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte.",
-      "caption_en": "A collection of images, videos, activities, and other downloadable resources about NASA's Viking 1 and 2 missions to Mars.",
-      "sourcePage": "https://science.nasa.gov/mars/resources/viking-mission-resources/"
-    },
-    "audio": null,
-    "title": "Recursos da Missão Viking",
-    "title_pt": "Recursos da Missão Viking",
-    "title_en": "Viking Mission Resources",
-    "sub": "Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão Viking apareceu pela primeira.",
-    "sub_pt": "Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão Viking apareceu pela primeira.",
-    "sub_en": "A collection of images, videos, activities, and other downloadable resources about NASA's Viking 1 and 2 missions to Mars. The post Viking Mission Resources appeared first on NASA.",
-    "excerpt": "Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão Viking apareceu pela primeira vez na NASA Science.",
-    "excerpt_pt": "Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão Viking apareceu pela primeira vez na NASA Science.",
-    "excerpt_en": "A collection of images, videos, activities, and other downloadable resources about NASA's Viking 1 and 2 missions to Mars. The post Viking Mission Resources appeared first on NASA Science.",
-    "body": "<p>Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão Viking apareceu pela primeira vez na NASA Science. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Veja mais Primeira imagem colorida Esta foto colorida de Marte foi tirada em 21 de julho de 1976, um dia após o pouso bem-sucedido da Viking 1 no planeta. Veja mais Primeira imagem do Viking 2 A primeira foto do Viking 2 na superfície de Marte depois que a espaçonave pousou em setembro.</p><p>Veja mais Primeiro Panorama A sonda Viking 1 produziu a primeira imagem panorâmica da superfície de Marte. Veja mais Amostragem da superfície Operação do amostrador de superfície na obtenção de solo marciano para o experimento de análise molecular Viking 2 da NASA.</p><p>Veja mais vídeo em destaque Missão Viking a Marte O vídeo em estilo retrô apresenta animação de uma das espaçonaves Viking da NASA a caminho de Marte e pousando lá em 1976. Veja mais Preparando o Aeroshell Técnicos preparando a cobertura do aeroshell que protegerá o módulo de pouso Viking 1 enquanto ele atravessa a atmosfera de Marte.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA Earth Observatory, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/mars/resources/viking-mission-resources/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão Viking apareceu pela primeira vez na NASA Science. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Veja mais Primeira imagem colorida Esta foto colorida de Marte foi tirada em 21 de julho de 1976, um dia após o pouso bem-sucedido da Viking 1 no planeta. Veja mais Primeira imagem do Viking 2 A primeira foto do Viking 2 na superfície de Marte depois que a espaçonave pousou em setembro.</p><p>Veja mais Primeiro Panorama A sonda Viking 1 produziu a primeira imagem panorâmica da superfície de Marte. Veja mais Amostragem da superfície Operação do amostrador de superfície na obtenção de solo marciano para o experimento de análise molecular Viking 2 da NASA.</p><p>Veja mais vídeo em destaque Missão Viking a Marte O vídeo em estilo retrô apresenta animação de uma das espaçonaves Viking da NASA a caminho de Marte e pousando lá em 1976. Veja mais Preparando o Aeroshell Técnicos preparando a cobertura do aeroshell que protegerá o módulo de pouso Viking 1 enquanto ele atravessa a atmosfera de Marte.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA Earth Observatory, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/mars/resources/viking-mission-resources/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A collection of images, videos, activities, and other downloadable resources about NASA&#x27;s Viking 1 and 2 missions to Mars. The post Viking Mission Resources appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. See More First Color Image This color picture of Mars was taken July 21, 1976, the day following Viking 1’s successful landing on the planet. See More Viking 2’s First Image Viking 2’s first picture on the surface of Mars after the spacecraft touched down on Sept.</p><p>See More First Panorama Viking 1 lander produced the first panorama image from Mars’s surface. See More Sampling the Surface Operation of the surface sampler in obtaining Martian soil for NASA’s Viking 2 molecular analysis experiment.</p><p>See More Featured Video Viking Mission to Mars Retro-style video features animation of one of NASA’s Viking spacecraft en route to Mars and landing there in 1976. See More Preparing the Aeroshell Technicians preparing the aeroshell cover that will protect the Viking 1 lander as it traverses Mars’s atmosphere.</p><p>Read More and Download To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video Viking and Mars Downloadables Scroll through. Retro Viking Download Mars Superstar Download Lander Silhouette Download First Soil Sample on Another Planet Download American Flag Download Orbiter and Lander Download Spirit of.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Future Download 40th Anniversary Medallion Download Keep Exploring Discover More Topics From NASA Viking Project Mars Orbiters &amp; Landers Viking 1 Viking 1 made the first truly. The Soviet Mars 3 lander claimed a technical first, but. Viking Spacecraft and Science Mars Exploration Mars is the only planet we know of inhabited entirely by robots.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/mars/resources/viking-mission-resources/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão.",
-      "Dado-chave: Veja mais Primeira imagem colorida Esta foto colorida de Marte foi tirada em 21 de julho de 1976, um dia após o pouso bem-sucedido da Viking 1.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Uma coleção de imagens, vídeos, atividades e outros recursos para download sobre as missões Viking 1 e 2 da NASA a Marte. O posto Recursos da Missão.",
-      "Dado-chave: Veja mais Primeira imagem colorida Esta foto colorida de Marte foi tirada em 21 de julho de 1976, um dia após o pouso bem-sucedido da Viking 1.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A collection of images, videos, activities, and other downloadable resources about NASA's Viking 1 and 2 missions to Mars. The post Viking Mission.",
-      "Key detail: See More First Color Image This color picture of Mars was taken July 21, 1976, the day following Viking 1’s successful landing on the planet.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "29 jun 2026",
-    "date_pt": "29 jun 2026",
-    "date_en": "29 Jun 2026",
-    "time": "23h30",
-    "time_pt": "23h30",
-    "time_en": "23:30 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-29T23:30:45+00:00",
-    "lastModifiedIso": "2026-06-29T23:30:45+00:00",
-    "source": "NASA Earth Observatory",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Recursos da Missão Viking"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Recursos da Missão Viking"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Viking Quest Features"
-    ],
-    "srcUrl": "https://science.nasa.gov/mars/resources/viking-mission-resources/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=viking-mission-resources",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=viking-mission-resources",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=viking-mission-resources&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",

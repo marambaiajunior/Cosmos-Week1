@@ -40,14 +40,14 @@ window.postsData = [
     "date": "18 jul 2026",
     "date_pt": "18 jul 2026",
     "date_en": "18 Jul 2026",
-    "time": "21h01",
-    "time_pt": "21h01",
-    "time_en": "21:01 UTC",
+    "time": "22h00",
+    "time_pt": "22h00",
+    "time_en": "22:00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-18T21:01:58.724421+00:00",
-    "lastModifiedIso": "2026-07-18T21:01:58.724421+00:00",
+    "publishedIso": "2026-07-18T22:00:37.882977+00:00",
+    "lastModifiedIso": "2026-07-18T22:00:37.882977+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -148,14 +148,14 @@ window.postsData = [
     "date": "18 jul 2026",
     "date_pt": "18 jul 2026",
     "date_en": "18 Jul 2026",
-    "time": "21h01",
-    "time_pt": "21h01",
-    "time_en": "21:01 UTC",
+    "time": "22h00",
+    "time_pt": "22h00",
+    "time_en": "22:00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-18T21:01:58.724377+00:00",
-    "lastModifiedIso": "2026-07-18T21:01:58.724377+00:00",
+    "publishedIso": "2026-07-18T22:00:37.882929+00:00",
+    "lastModifiedIso": "2026-07-18T22:00:37.882929+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -253,14 +253,14 @@ window.postsData = [
     "date": "18 jul 2026",
     "date_pt": "18 jul 2026",
     "date_en": "18 Jul 2026",
-    "time": "21h01",
-    "time_pt": "21h01",
-    "time_en": "21:01 UTC",
+    "time": "22h00",
+    "time_pt": "22h00",
+    "time_en": "22:00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-18T21:01:58.724328+00:00",
-    "lastModifiedIso": "2026-07-18T21:01:58.724328+00:00",
+    "publishedIso": "2026-07-18T22:00:37.882878+00:00",
+    "lastModifiedIso": "2026-07-18T22:00:37.882878+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -358,14 +358,14 @@ window.postsData = [
     "date": "18 jul 2026",
     "date_pt": "18 jul 2026",
     "date_en": "18 Jul 2026",
-    "time": "21h01",
-    "time_pt": "21h01",
-    "time_en": "21:01 UTC",
+    "time": "22h00",
+    "time_pt": "22h00",
+    "time_en": "22:00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-18T21:01:58.724287+00:00",
-    "lastModifiedIso": "2026-07-18T21:01:58.724287+00:00",
+    "publishedIso": "2026-07-18T22:00:37.882834+00:00",
+    "lastModifiedIso": "2026-07-18T22:00:37.882834+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -463,14 +463,14 @@ window.postsData = [
     "date": "18 jul 2026",
     "date_pt": "18 jul 2026",
     "date_en": "18 Jul 2026",
-    "time": "21h01",
-    "time_pt": "21h01",
-    "time_en": "21:01 UTC",
+    "time": "22h00",
+    "time_pt": "22h00",
+    "time_en": "22:00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-18T21:01:58.724242+00:00",
-    "lastModifiedIso": "2026-07-18T21:01:58.724242+00:00",
+    "publishedIso": "2026-07-18T22:00:37.882784+00:00",
+    "lastModifiedIso": "2026-07-18T22:00:37.882784+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -531,6 +531,139 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "submillimeter-array-catches-a-gamma-ray-burst-thanks-to-new-fast-response-system",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://www.universetoday.com/article_images/SupernovaKeating_20260715_233703.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/Xrt_image_crop_20250726_120755.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/1280px-Rubin_Observatory_and_Its_Target_20250825_213134.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Matriz submilimétrica detecta uma explosão de raios gama graças ao novo sistema de resposta rápida",
+    "title_pt": "Matriz submilimétrica detecta uma explosão de raios gama graças ao novo sistema de resposta rápida",
+    "title_en": "Submillimeter Array Catches a Gamma-Ray Burst Thanks to new Fast-Response System",
+    "sub": "O novo sistema de alerta semiautomático do Submillimeter Array demonstra como o interferômetro de rádio responde rapidamente às descobertas de telescópios espaciais.",
+    "sub_pt": "O novo sistema de alerta semiautomático do Submillimeter Array demonstra como o interferômetro de rádio responde rapidamente às descobertas de telescópios espaciais.",
+    "sub_en": "The Submillimeter Array's new semi-automated alert system demonstrates how the radio interferometer quickly responds to discoveries from space-based telescopes.",
+    "excerpt": "O novo sistema de alerta semiautomático do Submillimeter Array demonstra como o interferômetro de rádio responde rapidamente às descobertas de telescópios espaciais.",
+    "excerpt_pt": "O novo sistema de alerta semiautomático do Submillimeter Array demonstra como o interferômetro de rádio responde rapidamente às descobertas de telescópios espaciais.",
+    "excerpt_en": "The Submillimeter Array's new semi-automated alert system demonstrates how the radio interferometer quickly responds to discoveries from space-based telescopes.",
+    "body": "<p>O novo sistema de alerta semiautomático do Submillimeter Array demonstra como o interferômetro de rádio responde rapidamente às descobertas de telescópios espaciais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. O novo sistema de alerta semiautomático do Submillimeter Array (SMA) demonstra como o interferômetro de rádio responde rapidamente às descobertas de telescópios espaciais. O Submillimeter Array (SMA), um interferômetro de rádio de 8 telescópios localizado perto do cume de Maunakea, no Havaí, atingiu um marco importante no início deste ano.</p><p>Em 26 de janeiro de 2026, cientistas do Harvard &amp; Smithsonian Center for Astrophysics (CfA) demonstraram a capacidade deste novo sistema de alerta de responder rapidamente a. Isto seguiu-se a um alerta automatizado do Observatório Neil Gehrels Swift da NASA, que detectou um flash de raios gama de uma fonte localizada a cerca de 1,8 mil milhões de.</p><p>Dentro de 90 segundos após a detecção, o sistema alertou o operador de plantão. Em 13 minutos, os telescópios atingiram o alvo enquanto uma análise automatizada separada gerava imagens da explosão quase em tempo real.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/submillimeter-array-catches-a-gamma-ray-burst-thanks-to-new-fast-response-system\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O novo sistema de alerta semiautomático do Submillimeter Array demonstra como o interferômetro de rádio responde rapidamente às descobertas de telescópios espaciais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. O novo sistema de alerta semiautomático do Submillimeter Array (SMA) demonstra como o interferômetro de rádio responde rapidamente às descobertas de telescópios espaciais. O Submillimeter Array (SMA), um interferômetro de rádio de 8 telescópios localizado perto do cume de Maunakea, no Havaí, atingiu um marco importante no início deste ano.</p><p>Em 26 de janeiro de 2026, cientistas do Harvard &amp; Smithsonian Center for Astrophysics (CfA) demonstraram a capacidade deste novo sistema de alerta de responder rapidamente a. Isto seguiu-se a um alerta automatizado do Observatório Neil Gehrels Swift da NASA, que detectou um flash de raios gama de uma fonte localizada a cerca de 1,8 mil milhões de.</p><p>Dentro de 90 segundos após a detecção, o sistema alertou o operador de plantão. Em 13 minutos, os telescópios atingiram o alvo enquanto uma análise automatizada separada gerava imagens da explosão quase em tempo real.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/submillimeter-array-catches-a-gamma-ray-burst-thanks-to-new-fast-response-system\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The Submillimeter Array&#x27;s new semi-automated alert system demonstrates how the radio interferometer quickly responds to discoveries from space-based telescopes. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. The Submillimeter Array&#x27;s (SMA) new semi-automated alert system demonstrates how the radio interferometer quickly responds to discoveries from space-based telescopes. The Submillimeter Array (SMA), an 8-telescope radio interferometer located near the summit of Maunakea in Hawaii, reached an important milestone early this year.</p><p>On January 26th, 2026, scientists from the Harvard &amp; Smithsonian Center for Astrophysics (CfA) demonstrated this new alert system&#x27;s ability to rapidly respond to astronomical. This followed an automated alert from NASA&#x27;s Neil Gehrels Swift Observatory, which detected a flash of gamma rays from a source located about 1.8 billion light-years from Earth.</p><p>Within 90 seconds of detection, the system alerted the on-duty operator. Within 13 minutes, the telescopes were on target while a separate automated analysis generated images of the explosion in near real time.</p><p>Swift captured the afterglow of GRB 221009A, the brightest gamma-ray burst ever recorded, detected on October 9th, 2022. Addressing this is of great importance to astronomers, since it would yield valuable data on what accompanies GRBs.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Rubin Observatory and the Milky Way Galaxy (Credit: Rubin Observatory/NSF/AURA/B. Rubin Observatory and the Nancy Roman Space Telescope, begin sending numerous alerts, the wSMA will help radio astronomers be ready to capture such events.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/submillimeter-array-catches-a-gamma-ray-burst-thanks-to-new-fast-response-system\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O novo sistema de alerta semiautomático do Submillimeter Array demonstra como o interferômetro de rádio responde rapidamente às descobertas de.",
+      "Dado-chave: O novo sistema de alerta semiautomático do Submillimeter Array (SMA) demonstra como o interferômetro de rádio responde rapidamente às.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O novo sistema de alerta semiautomático do Submillimeter Array demonstra como o interferômetro de rádio responde rapidamente às descobertas de.",
+      "Dado-chave: O novo sistema de alerta semiautomático do Submillimeter Array (SMA) demonstra como o interferômetro de rádio responde rapidamente às.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The Submillimeter Array's new semi-automated alert system demonstrates how the radio interferometer quickly responds to discoveries from space-based.",
+      "Key detail: The Submillimeter Array's (SMA) new semi-automated alert system demonstrates how the radio interferometer quickly responds to discoveries from.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "18 jul 2026",
+    "date_pt": "18 jul 2026",
+    "date_en": "18 Jul 2026",
+    "time": "20h41",
+    "time_pt": "20h41",
+    "time_en": "20:41 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-18T20:41:09+00:00",
+    "lastModifiedIso": "2026-07-18T20:41:09+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "Matriz submilimétrica detecta uma explosão de raios gama graças ao novo sistema de resposta rápida"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "Matriz submilimétrica detecta uma explosão de raios gama graças ao novo sistema de resposta rápida"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "Universe Today",
+      "Cosmos Week",
+      "Matriz submilimétrica detecta uma explosão de raios gama graças ao novo sistema de resposta rápida"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/submillimeter-array-catches-a-gamma-ray-burst-thanks-to-new-fast-response-system",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=submillimeter-array-catches-a-gamma-ray-burst-thanks-to-new-fast-response-system",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=submillimeter-array-catches-a-gamma-ray-burst-thanks-to-new-fast-response-system",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=submillimeter-array-catches-a-gamma-ray-burst-thanks-to-new-fast-response-system&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "on-the-hunt-for-earth-s-first-complex-life",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -653,7 +786,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -667,7 +800,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "india-successfully-launches-first-private-orbital-rocket",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -791,7 +924,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "far-above-the-earth-nasa-s-apollo-lunar-lander-put-astronauts-on-the-moon",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -918,7 +1051,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "fcc-approves-first-launch-for-space-reflector-constellation",
     "cat": "Física",
     "catCls": "fisica",
@@ -1060,139 +1193,6 @@ window.postsData = [
       "evidence": 82,
       "relevance": 50,
       "accessibility": 52,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 10,
-    "slug": "nasa-pushes-new-wing-design-to-find-structural-limits",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/07/afrc2025-0136-2115-copy.jpeg?w=1536",
-    "inline_images": [
-      {
-        "src": "https://images-assets.nasa.gov/image/AFRC2025-0136-0691/AFRC2025-0136-0691~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Um grupo de pessoas trabalha em conjunto numa grande oficina, manuseando e inspecionando uma longa estrutura metálica colocada sobre mesas acolchoadas. Ferramentas, materiais e equipamentos de proteção estão espalhados pelo espaço de trabalho.",
-        "caption_pt": "Um grupo de pessoas trabalha em conjunto numa grande oficina, manuseando e inspecionando uma longa estrutura metálica colocada sobre mesas acolchoadas. Ferramentas, materiais e equipamentos de proteção estão espalhados pelo espaço de trabalho.",
-        "caption_en": "A group of people work together in a large workshop, handling and inspecting a long metallic structure laid across padded tables. Tools, materials, and protective equipment are spread across the workspace.",
-        "alt": "Um grupo de pessoas trabalha em conjunto numa grande oficina, manuseando e inspecionando uma longa estrutura metálica colocada sobre mesas acolchoadas. Ferramentas, materiais e equipamentos de proteção estão espalhados pelo espaço de trabalho.",
-        "alt_pt": "Um grupo de pessoas trabalha em conjunto numa grande oficina, manuseando e inspecionando uma longa estrutura metálica colocada sobre mesas acolchoadas. Ferramentas, materiais e equipamentos de proteção estão espalhados pelo espaço de trabalho.",
-        "alt_en": "A group of people work together in a large workshop, handling and inspecting a long metallic structure laid across padded tables. Tools, materials, and protective equipment are spread across the workspace."
-      },
-      {
-        "src": "https://images-assets.nasa.gov/image/AFRC2025-0136-1392/AFRC2025-0136-1392~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Uma longa viga é suspensa em um laboratório enquanto o pessoal observa e orienta sua colocação. Equipamentos de suporte aéreo, cabos e infraestrutura de laboratório circundam a área de teste.",
-        "caption_pt": "Uma longa viga é suspensa em um laboratório enquanto o pessoal observa e orienta sua colocação. Equipamentos de suporte aéreo, cabos e infraestrutura de laboratório circundam a área de teste.",
-        "caption_en": "A long beam is suspended in a laboratory while personnel observe and guide its placement. Overhead support equipment, cables, and lab infrastructure surround the test area.",
-        "alt": "Uma longa viga é suspensa em um laboratório enquanto o pessoal observa e orienta sua colocação. Equipamentos de suporte aéreo, cabos e infraestrutura de laboratório circundam a área de teste.",
-        "alt_pt": "Uma longa viga é suspensa em um laboratório enquanto o pessoal observa e orienta sua colocação. Equipamentos de suporte aéreo, cabos e infraestrutura de laboratório circundam a área de teste.",
-        "alt_en": "A long beam is suspended in a laboratory while personnel observe and guide its placement. Overhead support equipment, cables, and lab infrastructure surround the test area."
-      },
-      {
-        "src": "https://images-assets.nasa.gov/image/AFRC2025-0136-1632/AFRC2025-0136-1632~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Um homem usando proteção auricular trabalha em estreita colaboração com diversas unidades hidráulicas e de instrumentação conectadas a uma grande viga montada em uma estrutura de teste. Vários cabos, mangueiras e dispositivos de medição se estendem desde a configuração.",
-        "caption_pt": "Um homem usando proteção auricular trabalha em estreita colaboração com diversas unidades hidráulicas e de instrumentação conectadas a uma grande viga montada em uma estrutura de teste. Vários cabos, mangueiras e dispositivos de medição se estendem desde a configuração.",
-        "caption_en": "A man wearing ear protection works closely with multiple hydraulic and instrumentation units connected to a large beam mounted on a test structure. Numerous cables, hoses, and measurement devices extend from the setup.",
-        "alt": "Um homem usando proteção auricular trabalha em estreita colaboração com diversas unidades hidráulicas e de instrumentação conectadas a uma grande viga montada em uma estrutura de teste. Vários cabos, mangueiras e dispositivos de medição se estendem desde a configuração.",
-        "alt_pt": "Um homem usando proteção auricular trabalha em estreita colaboração com diversas unidades hidráulicas e de instrumentação conectadas a uma grande viga montada em uma estrutura de teste. Vários cabos, mangueiras e dispositivos de medição se estendem desde a configuração.",
-        "alt_en": "A man wearing ear protection works closely with multiple hydraulic and instrumentation units connected to a large beam mounted on a test structure. Numerous cables, hoses, and measurement devices extend from the setup."
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "NASA impulsiona novo design de asa para encontrar limites estruturais",
-    "title_pt": "NASA impulsiona novo design de asa para encontrar limites estruturais",
-    "title_en": "NASA Pushes New Wing Design to Find Structural Limits",
-    "sub": "Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série de testes exaustivos para encontrar.",
-    "sub_pt": "Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série de testes exaustivos para encontrar.",
-    "sub_en": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits.",
-    "excerpt": "Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série de testes exaustivos para encontrar seus limites estruturais. O que eles descobriram os deixou encorajados em.",
-    "excerpt_pt": "Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série de testes exaustivos para encontrar seus limites estruturais. O que eles descobriram os deixou encorajados em.",
-    "excerpt_en": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about the wing’s.",
-    "body": "<p>Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série de testes exaustivos para encontrar seus limites estruturais. O que eles descobriram os deixou encorajados em relação à ala. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. 3 minutos de leitura NASA empurra novo design de asa para encontrar limites estruturais O artigo de teste de experimento de asa estrutural de 15 pés avaliando treliças está. NASA/Carla Escamilla Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série de testes.</p><p>Os técnicos de laboratório Phil Tofts, Chris McLain e Jeff Howell e os engenheiros da NASA Erin Anderson e Richard Larson preparam o experimento de asa estrutural de 15 pés. NASA/Christopher LC Clark O projeto do SWEET-15 originou-se da combinação de cinco diferentes tecnologias avançadas de fabricação e montagem de compósitos que possibilitaram o.</p><p>Os técnicos de laboratório Jeff Howell, à esquerda, e Chris Mount instalam o modelo de avaliação de experimento de asa estrutural de 15 pés no Flight Loads Lab no Armstrong Flight.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série de testes exaustivos para encontrar seus limites estruturais. O que eles descobriram os deixou encorajados em relação à ala. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. 3 minutos de leitura NASA empurra novo design de asa para encontrar limites estruturais O artigo de teste de experimento de asa estrutural de 15 pés avaliando treliças está. NASA/Carla Escamilla Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série de testes.</p><p>Os técnicos de laboratório Phil Tofts, Chris McLain e Jeff Howell e os engenheiros da NASA Erin Anderson e Richard Larson preparam o experimento de asa estrutural de 15 pés. NASA/Christopher LC Clark O projeto do SWEET-15 originou-se da combinação de cinco diferentes tecnologias avançadas de fabricação e montagem de compósitos que possibilitaram o.</p><p>Os técnicos de laboratório Jeff Howell, à esquerda, e Chris Mount instalam o modelo de avaliação de experimento de asa estrutural de 15 pés no Flight Loads Lab no Armstrong Flight.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about the wing’s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. 3 Min Read NASA Pushes New Wing Design to Find Structural Limits The 15-foot Structural Wing Experiment Evaluating Truss-bracing test article is fully installed in the Flight. NASA/Carla Escamilla NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its.</p><p>Lab technicians Phil Tofts, Chris McLain, and Jeff Howell and NASA engineers Erin Anderson and Richard Larson prepare the 15-foot Structural Wing Experiment Evaluating. NASA/Christopher LC Clark The SWEET-15 design originated with combining five different advanced composite manufacturing and assembly technologies that enabled the novel structural.</p><p>Lab technicians Jeff Howell, left and Chris Mount install the 15-foot Structural Wing Experiment Evaluating Truss-bracing model in the Flight Loads Lab at NASA’s Armstrong Flight. NASA research engineer Walter Hargis regulates the 15-foot Structural Wing Experiment Evaluating Truss-bracing model in the Flight Loads Laboratory at NASA’s Armstrong Flight.</p><p>Https: //www. nasa. gov/aeronautics/ Share Details Last Updated Jul 17. NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its Article NASA.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>The 15-foot Structural Wing Experiment Evaluating Truss-bracing (SWEET-15) test article is part of NASA’s research to develop future ultra-efficient aircraft. The research team is working to understand whether SWEET-15’s design and its new lightweight structural designs could help commercial airliners save fuel.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série de.",
-      "Dado-chave: Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série de.",
-      "Dado-chave: Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to.",
-      "Key detail: NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 jul 2026",
-    "date_pt": "17 jul 2026",
-    "date_en": "17 Jul 2026",
-    "time": "23h08",
-    "time_pt": "23h08",
-    "time_en": "23:08 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-17T23:08:33+00:00",
-    "lastModifiedIso": "2026-07-17T23:08:33+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Cosmologia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA impulsiona novo design de asa para encontrar limites estruturais"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA impulsiona novo design de asa para encontrar limites estruturais"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA Pushes New Wing Design to Find Structural Limits"
-    ],
-    "srcUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-pushes-new-wing-design-to-find-structural-limits",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-pushes-new-wing-design-to-find-structural-limits",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-pushes-new-wing-design-to-find-structural-limits&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 82,
-      "relevance": 70,
-      "accessibility": 60,
       "novelty": 52
     }
   },
@@ -1696,6 +1696,139 @@ window.postsData = [
   },
   {
     "id": 15,
+    "slug": "giant-planets-could-act-as-dark-matter-detectors",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/giant-planets-could-ac-1.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/giant-planets-could-ac-1.jpg",
+        "caption": "Planetas gigantes poderiam atuar como detectores de matéria escura",
+        "caption_pt": "Planetas gigantes poderiam atuar como detectores de matéria escura",
+        "caption_en": "Giant planets could act as dark matter detectors",
+        "alt": "Planetas gigantes poderiam atuar como detectores de matéria escura",
+        "alt_pt": "Planetas gigantes poderiam atuar como detectores de matéria escura",
+        "alt_en": "Giant planets could act as dark matter detectors"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/061a4647609b9c09.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/4b5d8e1e5856f832.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Planetas gigantes poderiam atuar como detectores de matéria escura",
+    "title_pt": "Planetas gigantes poderiam atuar como detectores de matéria escura",
+    "title_en": "Giant planets could act as dark matter detectors",
+    "sub": "Pesquisadores nos EUA realizaram os testes mais rigorosos até o momento sobre a ideia de que um brilho ultravioleta nas atmosferas de planetas gigantes poderia surgir parcialmente.",
+    "sub_pt": "Pesquisadores nos EUA realizaram os testes mais rigorosos até o momento sobre a ideia de que um brilho ultravioleta nas atmosferas de planetas gigantes poderia surgir parcialmente.",
+    "sub_en": "Researchers in the U. S. have carried out the most stringent tests to date of the idea that an ultraviolet glow in the atmospheres of giant planets could partly arise through the.",
+    "excerpt": "Pesquisadores nos EUA realizaram os testes mais rigorosos até o momento sobre a ideia de que um brilho ultravioleta nas atmosferas de planetas gigantes poderia surgir parcialmente através da interação indireta entre a matéria escura e a matéria comum.",
+    "excerpt_pt": "Pesquisadores nos EUA realizaram os testes mais rigorosos até o momento sobre a ideia de que um brilho ultravioleta nas atmosferas de planetas gigantes poderia surgir parcialmente através da interação indireta entre a matéria escura e a matéria comum.",
+    "excerpt_en": "Researchers in the U. S. have carried out the most stringent tests to date of the idea that an ultraviolet glow in the atmospheres of giant planets could partly arise through the indirect interaction between dark matter and ordinary.",
+    "body": "<p>Pesquisadores nos EUA realizaram os testes mais rigorosos até o momento sobre a ideia de que um brilho ultravioleta nas atmosferas de planetas gigantes poderia surgir parcialmente através da interação indireta entre a matéria escura e a matéria comum. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida O Airglow torna-se visível do espaço na.</p><p>Pesquisadores do Centro Espacial Johnson da NASA nos EUA. Quando visto através da atmosfera da Terra, o céu noturno nunca é verdadeiramente escuro.</p><p>Chamado de “airglow”, esse fenômeno foi descrito pela primeira vez há mais de 2.000 anos. Em 2024, no entanto, Blanco e a sua colega Rebecca Leane, do SLAC National Accelerator Laboratory, propuseram que um brilho atmosférico diferente poderia surgir quando hipotéticas.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-giant-planets-dark-detectors.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Pesquisadores nos EUA realizaram os testes mais rigorosos até o momento sobre a ideia de que um brilho ultravioleta nas atmosferas de planetas gigantes poderia surgir parcialmente através da interação indireta entre a matéria escura e a matéria comum. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida O Airglow torna-se visível do espaço na.</p><p>Pesquisadores do Centro Espacial Johnson da NASA nos EUA. Quando visto através da atmosfera da Terra, o céu noturno nunca é verdadeiramente escuro.</p><p>Chamado de “airglow”, esse fenômeno foi descrito pela primeira vez há mais de 2.000 anos. Em 2024, no entanto, Blanco e a sua colega Rebecca Leane, do SLAC National Accelerator Laboratory, propuseram que um brilho atmosférico diferente poderia surgir quando hipotéticas.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-giant-planets-dark-detectors.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Researchers in the U. S. have carried out the most stringent tests to date of the idea that an ultraviolet glow in the atmospheres of giant planets could partly arise through the indirect interaction between dark matter and ordinary. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Airglow becomes visible from space in Earth&#x27;s night-time.</p><p>NASA Johnson Space Center Researchers in the U. S. When viewed through Earth&#x27;s atmosphere, the night sky is never truly dark.</p><p>Named &quot;airglow,&quot; this phenomenon was first described more than 2,000 years ago. In 2024, however, Blanco and his colleague Rebecca Leane at the SLAC National Accelerator Laboratory proposed that a different atmospheric glow could emerge when hypothetical dark.</p><p>By comparing predictions of this infrared emission with observations of Jupiter&#x27;s upper atmosphere, Blanco and Leane placed some of the first reliable constraints on whether dark. To date, these have been provided by Voyager 1, Voyager 2 and New Horizons during encounters with Jupiter, Saturn, Uranus and Neptune.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. The researchers hope many of these questions can be addressed by future missions, including ESA&#x27;s JUICE spacecraft, which is due to enter Jupiter&#x27;s orbit in 2031.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-giant-planets-dark-detectors.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Pesquisadores nos EUA realizaram os testes mais rigorosos até o momento sobre a ideia de que um brilho ultravioleta nas atmosferas de planetas.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Pesquisadores nos EUA realizaram os testes mais rigorosos até o momento sobre a ideia de que um brilho ultravioleta nas atmosferas de planetas.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Researchers in the U. S. have carried out the most stringent tests to date of the idea that an ultraviolet glow in the atmospheres of giant planets.",
+      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "17 jul 2026",
+    "date_pt": "17 jul 2026",
+    "date_en": "17 Jul 2026",
+    "time": "14h20",
+    "time_pt": "14h20",
+    "time_en": "14:20 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-17T14:20:06+00:00",
+    "lastModifiedIso": "2026-07-17T14:20:06+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Planetas gigantes poderiam atuar como detectores de matéria escura"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Planetas gigantes poderiam atuar como detectores de matéria escura"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Giant planets could act as dark matter detectors"
+    ],
+    "srcUrl": "https://phys.org/news/2026-07-giant-planets-dark-detectors.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=giant-planets-could-act-as-dark-matter-detectors",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=giant-planets-could-act-as-dark-matter-detectors",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=giant-planets-could-act-as-dark-matter-detectors&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 16,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1831,7 +1964,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "x-ray-eyes-reveal-the-magnetic-secrets-of-the-lighthouse-pulsar-s-cosmic-wake",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1962,164 +2095,12 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
-    "slug": "a-relativistic-jet-could-be-an-indication-of-the-missing-link-for-black-holes",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://www.universetoday.com/article_images/PIG366-blackhole_2E_lrg-1170x600_20260714_232644.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/VLA_Moonset_NIK_0991_20260714_233135.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.universetoday.com/article_images/sn-blackholeh_0_20251016_004340_20260714_233313.webp",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Um jato relativístico pode ser uma indicação do ‘elo perdido’ dos buracos negros",
-    "title_pt": "Um jato relativístico pode ser uma indicação do ‘elo perdido’ dos buracos negros",
-    "title_en": "A Relativistic Jet Could be an Indication of the 'Missing-Link' for Black Holes",
-    "sub": "Astrônomos, usando o Very Large Array da Fundação Nacional de Ciência dos EUA, detectaram uma explosão extraordinária de luz de rádio de um evento cósmico raro no qual um buraco.",
-    "sub_pt": "Astrônomos, usando o Very Large Array da Fundação Nacional de Ciência dos EUA, detectaram uma explosão extraordinária de luz de rádio de um evento cósmico raro no qual um buraco.",
-    "sub_en": "Astronomers using the U. S. National Science Foundation Very Large Array have detected an extraordinary burst of radio light from a rare cosmic event in which an intermediate-mass.",
-    "excerpt": "Astrônomos, usando o Very Large Array da Fundação Nacional de Ciência dos EUA, detectaram uma explosão extraordinária de luz de rádio de um evento cósmico raro no qual um buraco negro de massa intermediária destrói uma estrela, revelando o que parece ser.",
-    "excerpt_pt": "Astrônomos, usando o Very Large Array da Fundação Nacional de Ciência dos EUA, detectaram uma explosão extraordinária de luz de rádio de um evento cósmico raro no qual um buraco negro de massa intermediária destrói uma estrela, revelando o que parece ser.",
-    "excerpt_en": "Astronomers using the U. S. National Science Foundation Very Large Array have detected an extraordinary burst of radio light from a rare cosmic event in which an intermediate-mass black hole tears apart a star, revealing what appears to be.",
-    "body": "<p>Astrônomos, usando o Very Large Array da Fundação Nacional de Ciência dos EUA, detectaram uma explosão extraordinária de luz de rádio de um evento cósmico raro no qual um buraco negro de massa intermediária destrói uma estrela, revelando o que parece ser. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. O Very Large Array da National Science Foundation (NSF VLA) detectou uma explosão extraordinária de luz de rádio de um evento cósmico raro no qual um buraco negro de massa. Uma equipe de astrônomos chineses usando o Very Large Array (NSF VLA) detectou recentemente um raro evento transitório ocorrendo em uma galáxia anã a 3,4 bilhões de anos-luz da.</p><p>A equipa concluiu que isto se deveu a um evento de perturbação das marés envolvendo um buraco negro de peso médio (aqueles com 100 a 100.000 massas solares) e uma estrela que caiu. Isto se refere a buracos negros que ficam entre buracos negros de massa estelar, que normalmente variam de 5 a 100 massas solares, e buracos negros supermassivos (SMBHs), que.</p><p>NRAO/NSF* A equipe combinou dados de pesquisa óptica com observações de rádio do NSF VLA, incluindo o Very Large Array Sky Survey (VLASS), uma das maiores observações de rádio de. A ampla cobertura que isso permitiu permitiu aos pesquisadores rastrear como o sinal do AT2019ijn mudou ao longo do tempo.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/a-relativistic-jet-could-be-an-indication-of-the-missing-link-for-black-holes\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Astrônomos, usando o Very Large Array da Fundação Nacional de Ciência dos EUA, detectaram uma explosão extraordinária de luz de rádio de um evento cósmico raro no qual um buraco negro de massa intermediária destrói uma estrela, revelando o que parece ser. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. O Very Large Array da National Science Foundation (NSF VLA) detectou uma explosão extraordinária de luz de rádio de um evento cósmico raro no qual um buraco negro de massa. Uma equipe de astrônomos chineses usando o Very Large Array (NSF VLA) detectou recentemente um raro evento transitório ocorrendo em uma galáxia anã a 3,4 bilhões de anos-luz da.</p><p>A equipa concluiu que isto se deveu a um evento de perturbação das marés envolvendo um buraco negro de peso médio (aqueles com 100 a 100.000 massas solares) e uma estrela que caiu. Isto se refere a buracos negros que ficam entre buracos negros de massa estelar, que normalmente variam de 5 a 100 massas solares, e buracos negros supermassivos (SMBHs), que.</p><p>NRAO/NSF* A equipe combinou dados de pesquisa óptica com observações de rádio do NSF VLA, incluindo o Very Large Array Sky Survey (VLASS), uma das maiores observações de rádio de. A ampla cobertura que isso permitiu permitiu aos pesquisadores rastrear como o sinal do AT2019ijn mudou ao longo do tempo.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/a-relativistic-jet-could-be-an-indication-of-the-missing-link-for-black-holes\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Astronomers using the U. S. National Science Foundation Very Large Array have detected an extraordinary burst of radio light from a rare cosmic event in which an intermediate-mass black hole tears apart a star, revealing what appears to be. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. National Science Foundation Very Large Array (NSF VLA) have detected an extraordinary burst of radio light from a rare cosmic event in which an intermediate-mass black hole tears. A team of Chinese astronomers using the Very Large Array (NSF VLA) recently detected a rare transient event taking place in a dwarf galaxy 3.4 billion light-years from Earth.</p><p>The team concluded that this was due to a tidal disruption event involving a middleweight black hole (those with 100 to 100,000 Solar masses) and a star that fell into its gravity. This refers to black holes that fall between stellar-mass black holes, which typically range from 5 to 100 Solar masses, and supermassive black holes (SMBHs), which range from.</p><p>NRAO/NSF* The team combined optical survey data with radio observations from the NSF VLA, including the Very Large Array Sky Survey (VLASS), one of the largest all-sky radio. The broad coverage this enabled allowed the researchers to track how AT2019ijn&#x27;s signal changed over time.</p><p>These results are consistent with a new population of transient events that astronomers have noted in recent years, thanks to the development of high-cadence wide-field optical. AT2019ijn presents one such path, wherein an intermediate-mass black hole launches a jet that is not aimed directly at Earth.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>NASA/JPL-Caltech* What is particularly significant about this discovery is how it offers a new method for searching for hidden black holes and the extreme jets they launch. Astronomers anticipate that new surveys that combine optical light and radio waves will find more events similar to AT2019ijn.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/a-relativistic-jet-could-be-an-indication-of-the-missing-link-for-black-holes\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Astrônomos, usando o Very Large Array da Fundação Nacional de Ciência dos EUA, detectaram uma explosão extraordinária de luz de rádio de um evento.",
-      "Dado-chave: O Very Large Array da National Science Foundation (NSF VLA) detectou uma explosão extraordinária de luz de rádio de um evento cósmico raro no.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Astrônomos, usando o Very Large Array da Fundação Nacional de Ciência dos EUA, detectaram uma explosão extraordinária de luz de rádio de um evento.",
-      "Dado-chave: O Very Large Array da National Science Foundation (NSF VLA) detectou uma explosão extraordinária de luz de rádio de um evento cósmico raro no.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Astronomers using the U. S. National Science Foundation Very Large Array have detected an extraordinary burst of radio light from a rare cosmic event.",
-      "Key detail: National Science Foundation Very Large Array (NSF VLA) have detected an extraordinary burst of radio light from a rare cosmic event in which an.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "14 jul 2026",
-    "date_pt": "14 jul 2026",
-    "date_en": "14 Jul 2026",
-    "time": "23h39",
-    "time_pt": "23h39",
-    "time_en": "23:39 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-14T23:39:41+00:00",
-    "lastModifiedIso": "2026-07-14T23:39:41+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "Universe Today",
-      "Cosmos Week",
-      "Um jato relativístico pode ser uma indicação do ‘elo perdido’ dos buracos negros"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "Universe Today",
-      "Cosmos Week",
-      "Um jato relativístico pode ser uma indicação do ‘elo perdido’ dos buracos negros"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "Universe Today",
-      "Cosmos Week",
-      "A relativistic jet could be an indication of the 'missing link' of black holes"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/a-relativistic-jet-could-be-an-indication-of-the-missing-link-for-black-holes",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=a-relativistic-jet-could-be-an-indication-of-the-missing-link-for-black-holes",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=a-relativistic-jet-could-be-an-indication-of-the-missing-link-for-black-holes",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=a-relativistic-jet-could-be-an-indication-of-the-missing-link-for-black-holes&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 76,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
     "id": 18,
     "slug": "webb-studies-how-a-planet-survived-the-death-of-its-star",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/exoplanet_wd_1856_b_artist_s_concept/27358511-2-eng-GB/Exoplanet_WD_1856_b_artist_s_concept_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/exoplanet_wd_1856_b_artist_s_concept/27358511-2-eng-GB/Exoplanet_WD_1856_b_artist_s_concept_article.jpg",
-        "caption": "Exoplaneta WD 1856 b (conceito artístico)",
-        "caption_pt": "Exoplaneta WD 1856 b (conceito artístico)",
-        "caption_en": "Exoplanet WD 1856 b (artist’s concept)",
-        "alt": "Exoplaneta WD 1856 b (conceito artístico)",
-        "alt_pt": "Exoplaneta WD 1856 b (conceito artístico)",
-        "alt_en": "Exoplanet WD 1856 b (artist’s concept)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/exoplanet_wd_1856_b_nirspec_transmission_spectrum/27358558-1-eng-GB/Exoplanet_WD_1856_b_NIRSpec_transmission_spectrum_article.jpg",
-        "caption": "Espectro de transmissão do Exoplaneta WD 1856 b NIRSpec",
-        "caption_pt": "Espectro de transmissão do Exoplaneta WD 1856 b NIRSpec",
-        "caption_en": "Exoplanet WD 1856 b NIRSpec transmission spectrum",
-        "alt": "Espectro de transmissão do Exoplaneta WD 1856 b NIRSpec",
-        "alt_pt": "Espectro de transmissão do Exoplaneta WD 1856 b NIRSpec",
-        "alt_en": "Exoplanet WD 1856 b NIRSpec transmission spectrum"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Webb estuda como um planeta sobreviveu à morte de sua estrela",
@@ -2131,22 +2112,22 @@ window.postsData = [
     "excerpt": "Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando.",
     "excerpt_pt": "Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando.",
     "excerpt_en": "An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet’s mass and temperature and even detecting its atmosphere.",
-    "body": "<p>Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando a sua atmosfera. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os resultados foram publicados em 1º de julho de 2026 na revista Nature. WD 1856 b foi descoberto em 2020 por cientistas usando o Transiting Exoplanet Survey Satellite (TESS) da NASA e o Telescópio Espacial Spitzer, orbitando a anã branca chamada WD.</p><p>O planeta tem aproximadamente o tamanho de Júpiter, mas a anã branca que orbita é do tamanho da Terra, por isso o planeta é sete vezes maior que a sua estrela,&quot; disse o principal. WD 1856 b orbita extremamente perto de sua estrela hospedeira, a uma distância 50 vezes mais próxima do que a Terra orbita o Sol.</p><p>Os dados indicaram que o planeta tem uma temperatura de cerca de 126 °C, significativamente mais quente do que seria se a sua única fonte de calor fosse a luz da anã branca.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando a sua atmosfera. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os resultados foram publicados em 1º de julho de 2026 na revista Nature. WD 1856 b foi descoberto em 2020 por cientistas usando o Transiting Exoplanet Survey Satellite (TESS) da NASA e o Telescópio Espacial Spitzer, orbitando a anã branca chamada WD.</p><p>O planeta tem aproximadamente o tamanho de Júpiter, mas a anã branca que orbita é do tamanho da Terra, por isso o planeta é sete vezes maior que a sua estrela,&quot; disse o principal. WD 1856 b orbita extremamente perto de sua estrela hospedeira, a uma distância 50 vezes mais próxima do que a Terra orbita o Sol.</p><p>Os dados indicaram que o planeta tem uma temperatura de cerca de 126 °C, significativamente mais quente do que seria se a sua única fonte de calor fosse a luz da anã branca.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet’s mass and temperature and even detecting its atmosphere. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. The results were published on 1 July 2026 in the journal Nature. WD 1856 b was discovered in 2020 by scientists using NASA&#x27;s Transiting Exoplanet Survey Satellite (TESS) and the Spitzer Space Telescope, orbiting the white dwarf named WD.</p><p>The planet is about the size of Jupiter, but the white dwarf it orbits is the size of Earth, so the planet is seven times larger than its star,&quot; said lead author Ryan MacDonald of. WD 1856 b orbits extremely close to its host star, at a distance 50 times closer than Earth orbits the Sun.</p><p>The data indicated that the planet has a temperature of about 126 °C, significantly hotter than it would be if its only source of heat was the light from the white dwarf. The white dwarf is part of a triple star system, and the outer companion stars could have influenced WD 1856 b’s orbit.&quot; The researchers realised that there was no source of.</p><p>Using models of how sub-stellar objects like WD 1856 b cool down over time, coupled with the new data from Webb about the planet’s mass and its current temperature, the team was. Light from the star passing through the planet’s atmosphere also picked up information about its chemical composition.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>We recently observed four more transits of WD 1856 b with Webb to take a deeper look into its atmospheric chemistry and can’t wait to see the results.&quot; In approximately five. It&#x27;s like using a time machine to peer into the distant future of our Solar System.&quot; A transit occurs when a planet passes in front of the star it is orbiting from our point of.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando a sua atmosfera. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os resultados são a nossa primeira janela para o futuro dos planetas. Eles descobriram que o planeta é significativamente mais quente do que o esperado e determinaram como provavelmente atingiu a sua órbita muito estreita em torno da estrela, uma.</p><p>Os resultados são a nossa primeira janela para o futuro de planetas como Júpiter após a morte do Sol, daqui a milhares de milhões de anos.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de Júpiter, a transitar pela sua estrela hospedeira, medindo a massa e a temperatura do planeta e até detectando a sua atmosfera. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os resultados são a nossa primeira janela para o futuro dos planetas. Eles descobriram que o planeta é significativamente mais quente do que o esperado e determinaram como provavelmente atingiu a sua órbita muito estreita em torno da estrela, uma.</p><p>Os resultados são a nossa primeira janela para o futuro de planetas como Júpiter após a morte do Sol, daqui a milhares de milhões de anos.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet’s mass and temperature and even detecting its atmosphere. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. The results are our first window into the future of planets. They found that the planet is significantly warmer than expected and determined how it most likely reached its very tight orbit around the star, a white dwarf.</p><p>The results are our first window into the future of planets like Jupiter after the death of the Sun, billions of years into the future.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de.",
-      "Dado-chave: Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do.",
+      "Dado-chave: Os resultados são a nossa primeira janela para o futuro dos planetas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do tamanho de.",
-      "Dado-chave: Uma equipa internacional de astrónomos utilizou o Telescópio Espacial James Webb da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, do.",
+      "Dado-chave: Os resultados são a nossa primeira janela para o futuro dos planetas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its.",
-      "Key detail: An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit.",
+      "Key detail: The results are our first window into the future of planets.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "01 jul 2026",
@@ -2626,81 +2607,66 @@ window.postsData = [
   },
   {
     "id": 22,
-    "slug": "a-source-of-extremely-high-energy-particles-in-the-milky-way-identified",
+    "slug": "efficiency-meets-environmental-responsibility-commissioning-cern-s-primary-co-cooling-circuit",
     "cat": "Física",
     "catCls": "fisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/-a-source-of-extremely.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-a-source-of-extremely.jpg",
-        "caption": "A observação pelo Telescópio Espacial de Raios Gama Fermi da NASA identificou o excesso de raios gama GeV em direção a LHAASO J1912-1014u e confirmou que é um próton PeVatron através de observações e modelagem de múltiplos comprimentos de onda. A fonte é marcada por um sólido.",
-        "caption_pt": "A observação pelo Telescópio Espacial de Raios Gama Fermi da NASA identificou o excesso de raios gama GeV em direção a LHAASO J1912-1014u e confirmou que é um próton PeVatron através de observações e modelagem de múltiplos comprimentos de onda. A fonte é marcada por um sólido.",
-        "caption_en": "Observation by NASA’s Fermi Gamma-ray Space Telescope identified GeV gamma-ray excess toward LHAASO J1912-1014u and confirm it to be a proton PeVatron through multiwavelength observations and modeling. The source is marked by a solid.",
-        "alt": "Identificada fonte de partículas de energia extremamente alta na Via Láctea",
-        "alt_pt": "Identificada fonte de partículas de energia extremamente alta na Via Láctea",
-        "alt_en": "A source of extremely high-energy particles in the Milky Way identified"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/4b5d8e1e5856f832.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/8b33bc1b4d9f6b4c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
+    "img": "https://home.cern/efficiency-meets-environmental-responsibility-commissioning-cerns-primary-co%e2%82%82-cooling-circuit/context.post.image",
+    "inline_images": [],
+    "video": {
+      "kind": "file",
+      "platform": "html5",
+      "embedUrl": "",
+      "fileUrl": "https://home.cern/wp-content/uploads/2026/07/OPEN-VIDEO-2026-211-001-720p.mp4",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://home.cern/efficiency-meets-environmental-responsibility-commissioning-cerns-primary-co%e2%82%82-cooling-circuit/"
+    },
     "audio": null,
-    "title": "Identificada fonte de partículas de energia extremamente alta na Via Láctea",
-    "title_pt": "Identificada fonte de partículas de energia extremamente alta na Via Láctea",
-    "title_en": "A source of extremely high-energy particles in the Milky Way identified",
-    "sub": "Os raios cósmicos são feitos principalmente de prótons com alguns elétrons espalhados e podem atingir energias ainda mais altas do que as que os aceleradores feitos pelo homem.",
-    "sub_pt": "Os raios cósmicos são feitos principalmente de prótons com alguns elétrons espalhados e podem atingir energias ainda mais altas do que as que os aceleradores feitos pelo homem.",
-    "sub_en": "Cosmic rays are made primarily of protons with a few electrons sprinkled in, and they can reach energies even higher than what human-made accelerators can produce. Considering.",
-    "excerpt": "Os raios cósmicos são feitos principalmente de prótons com alguns elétrons espalhados e podem atingir energias ainda mais altas do que as que os aceleradores feitos pelo homem podem produzir. Considerando aceleradores feitos pelo homem, como o Large Hadron.",
-    "excerpt_pt": "Os raios cósmicos são feitos principalmente de prótons com alguns elétrons espalhados e podem atingir energias ainda mais altas do que as que os aceleradores feitos pelo homem podem produzir. Considerando aceleradores feitos pelo homem, como o Large Hadron.",
-    "excerpt_en": "Cosmic rays are made primarily of protons with a few electrons sprinkled in, and they can reach energies even higher than what human-made accelerators can produce. Considering human-made accelerators, such as the Large Hadron Collider on.",
-    "body": "<p>Os raios cósmicos são feitos principalmente de prótons com alguns elétrons espalhados e podem atingir energias ainda mais altas do que as que os aceleradores feitos pelo homem podem produzir. Considerando aceleradores feitos pelo homem, como o Large Hadron Collider. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. 16 de julho de 2026&quot;&gt; A observação do Telescópio Espacial de Raios Gama Fermi da NASA identificou o excesso de raios gama GeV em direção a LHAASO J1912-1014u e confirmou que é um. A fonte é marcada por um círculo sólido e é amplamente estendida, com diâmetro superior a 1 grau.</p><p>16 de julho de 2026 Os raios cósmicos são feitos principalmente de prótons com alguns elétrons espalhados e podem atingir energias ainda mais altas do que as que os aceleradores. Um acelerador dos prótons de raios cósmicos de maior energia em nossa galáxia foi identificado de forma conclusiva, graças a uma equipe internacional de pesquisadores liderada.</p><p>Esta imensa energia torna os raios cósmicos importantes na astronomia e na astrofísica&quot;, disse o primeiro e autor correspondente do estudo, Tsunefumi Mizuno, professor associado. Ele explicou que essas energias são medidas em elétron-volts, a energia que um elétron ganha quando sai de um estado de repouso e aumenta seu potencial elétrico em um volt.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-source-extremely-high-energy-particles.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os raios cósmicos são feitos principalmente de prótons com alguns elétrons espalhados e podem atingir energias ainda mais altas do que as que os aceleradores feitos pelo homem podem produzir. Considerando aceleradores feitos pelo homem, como o Large Hadron Collider. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. 16 de julho de 2026&quot;&gt; A observação do Telescópio Espacial de Raios Gama Fermi da NASA identificou o excesso de raios gama GeV em direção a LHAASO J1912-1014u e confirmou que é um. A fonte é marcada por um círculo sólido e é amplamente estendida, com diâmetro superior a 1 grau.</p><p>16 de julho de 2026 Os raios cósmicos são feitos principalmente de prótons com alguns elétrons espalhados e podem atingir energias ainda mais altas do que as que os aceleradores. Um acelerador dos prótons de raios cósmicos de maior energia em nossa galáxia foi identificado de forma conclusiva, graças a uma equipe internacional de pesquisadores liderada.</p><p>Esta imensa energia torna os raios cósmicos importantes na astronomia e na astrofísica&quot;, disse o primeiro e autor correspondente do estudo, Tsunefumi Mizuno, professor associado. Ele explicou que essas energias são medidas em elétron-volts, a energia que um elétron ganha quando sai de um estado de repouso e aumenta seu potencial elétrico em um volt.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-source-extremely-high-energy-particles.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Cosmic rays are made primarily of protons with a few electrons sprinkled in, and they can reach energies even higher than what human-made accelerators can produce. Considering human-made accelerators, such as the Large Hadron Collider on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. July 16, 2026&quot;&gt; Observation by NASA’s Fermi Gamma-ray Space Telescope identified GeV gamma-ray excess toward LHAASO J1912-1014u and confirm it to be a proton PeVatron through. The source is marked by a solid circle and is largely extended, with a diameter of more than 1 degree.</p><p>July 16, 2026 Cosmic rays are made primarily of protons with a few electrons sprinkled in, and they can reach energies even higher than what human-made accelerators can produce. An accelerator of the highest-energy cosmic-ray protons in our galaxy has been identified conclusively, thanks to a Hiroshima University-led international team of researchers.</p><p>This immense energy makes cosmic rays important in astronomy and astrophysics,&quot; said first and corresponding author of the study, Tsunefumi Mizuno, associate professor at. He explained that these energies are measured in electron volts, the energy an electron gains when it moves from a resting state and increases its electrical potential by one volt.</p><p>But data had been collected by other experiments: Fermi Large Area Telescope (Fermi-LAT), led by NASA and to which Hiroshima University contributed to the instrumentation. The FOREST Unbiased Galactic plane Imaging survey with the Nobeyama 45-m telescope (FUGIN), led by Japan.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>It was originally considered a supernova remnant, until emissions above 100 TeV were detected. With data from multiple experiments, we have studied LHAASO J1912+1014u in detail,&quot; Mizuno said.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-source-extremely-high-energy-particles.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "A eficiência encontra a responsabilidade ambiental: comissionamento do circuito primário de resfriamento de CO₂ do CERN",
+    "title_pt": "A eficiência encontra a responsabilidade ambiental: comissionamento do circuito primário de resfriamento de CO₂ do CERN",
+    "title_en": "Efficiency meets environmental responsibility: commissioning CERN’s primary CO₂ cooling circuit",
+    "sub": "Os detectores ATLAS e CMS requerem temperaturas ultrabaixas e estáveis ​​para proteger seus componentes eletrônicos sensíveis. Os sistemas de refrigeração tradicionais dependem de.",
+    "sub_pt": "Os detectores ATLAS e CMS requerem temperaturas ultrabaixas e estáveis ​​para proteger seus componentes eletrônicos sensíveis. Os sistemas de refrigeração tradicionais dependem de.",
+    "sub_en": "The ATLAS and CMS detectors require ultra-low, stable temperatures to protect their sensitive electronics. Traditional cooling systems rely on synthetic refrigerants like.",
+    "excerpt": "Os detectores ATLAS e CMS requerem temperaturas ultrabaixas e estáveis ​​para proteger seus componentes eletrônicos sensíveis. Os sistemas de refrigeração tradicionais dependem de refrigerantes sintéticos como os hidrofluorocarbonetos, que, embora eficazes.",
+    "excerpt_pt": "Os detectores ATLAS e CMS requerem temperaturas ultrabaixas e estáveis ​​para proteger seus componentes eletrônicos sensíveis. Os sistemas de refrigeração tradicionais dependem de refrigerantes sintéticos como os hidrofluorocarbonetos, que, embora eficazes.",
+    "excerpt_en": "The ATLAS and CMS detectors require ultra-low, stable temperatures to protect their sensitive electronics. Traditional cooling systems rely on synthetic refrigerants like hydrofluorocarbons, which, while effective, have a global warming.",
+    "body": "<p>Os detectores ATLAS e CMS requerem temperaturas ultrabaixas e estáveis ​​para proteger seus componentes eletrônicos sensíveis. Os sistemas de refrigeração tradicionais dependem de refrigerantes sintéticos como os hidrofluorocarbonetos, que, embora eficazes, provocam o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Procurando uma alternativa sustentável, o CERN recorreu ao próprio CO₂, um refrigerante natural com uma grande. A eficiência da engenharia encontra a responsabilidade ambiental: comissionamento do circuito de resfriamento primário de CO₂ do CERN O primeiro sistema de resfriamento primário.</p><p>Ele fornecerá unidades de resfriamento subterrâneas do ATLAS e do CMS a partir da superfície, formando uma cadeia de resfriamento totalmente integrada ao CO 2 Escrito por: Anna. ATLAS CERN e o meio ambiente Comunidade CERN CMS Criogenia Ambiente HiLumi LHC inovação Long Shutdown 3 Notícias Artigos relacionados Ver todas as notícias Nenhuma postagem foi.</p><p>Procurando uma alternativa sustentável, o CERN recorreu ao próprio CO₂, um refrigerante natural com um impacto ambiental muito menor. A jornada do CERN com o resfriamento por CO₂ abrange quase duas décadas.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/efficiency-meets-environmental-responsibility-commissioning-cerns-primary-co%e2%82%82-cooling-circuit/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os detectores ATLAS e CMS requerem temperaturas ultrabaixas e estáveis ​​para proteger seus componentes eletrônicos sensíveis. Os sistemas de refrigeração tradicionais dependem de refrigerantes sintéticos como os hidrofluorocarbonetos, que, embora eficazes, provocam o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Procurando uma alternativa sustentável, o CERN recorreu ao próprio CO₂, um refrigerante natural com uma grande. A eficiência da engenharia encontra a responsabilidade ambiental: comissionamento do circuito de resfriamento primário de CO₂ do CERN O primeiro sistema de resfriamento primário.</p><p>Ele fornecerá unidades de resfriamento subterrâneas do ATLAS e do CMS a partir da superfície, formando uma cadeia de resfriamento totalmente integrada ao CO 2 Escrito por: Anna. ATLAS CERN e o meio ambiente Comunidade CERN CMS Criogenia Ambiente HiLumi LHC inovação Long Shutdown 3 Notícias Artigos relacionados Ver todas as notícias Nenhuma postagem foi.</p><p>Procurando uma alternativa sustentável, o CERN recorreu ao próprio CO₂, um refrigerante natural com um impacto ambiental muito menor. A jornada do CERN com o resfriamento por CO₂ abrange quase duas décadas.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/efficiency-meets-environmental-responsibility-commissioning-cerns-primary-co%e2%82%82-cooling-circuit/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The ATLAS and CMS detectors require ultra-low, stable temperatures to protect their sensitive electronics. Traditional cooling systems rely on synthetic refrigerants like hydrofluorocarbons, which, while effective, have a global warming. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Seeking a sustainable alternative, CERN has turned to CO₂ itself, a natural refrigerant with a far. Engineering Efficiency meets environmental responsibility: commissioning CERN’s primary CO₂ cooling circuit CERN’s first primary CO 2 cooling system was commissioned in May.</p><p>It will supply ATLAS and CMS’s underground cooling units from the surface, forming a fully CO 2 ‑integrated cooling chain Written by: Anna Cook, 09 July, 2026 The ATLAS and CMS. ATLAS CERN and the environment CERN community CMS Cryogenics Environment HiLumi LHC innovation Long Shutdown 3 News Related Articles View all news No posts were found.</p><p>Seeking a sustainable alternative, CERN has turned to CO₂ itself, a natural refrigerant with a far lower environmental impact. CERN’s journey with CO₂ cooling spans nearly two decades.</p><p>It began in 2008 at LHCb with the first Two-Phase Accumulator Controlled Loop (2PACL) CO₂ system, a technology originally designed by Nikhef that circulates liquid CO₂ to maintain. From 2010, CERN’s Detector Technology Group (EP-DT) took over, further developing and deploying upgraded 2PACL CO₂ systems for ATLAS and CMS.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>The primary system works alongside CERN’s 2PACL units, which circulate liquid CO₂ through the innermost layers of the ATLAS and CMS detectors, maintaining the precise thermal. The primary system supplies those units with cooling from the surface, forming a fully CO 2 ‑integrated cooling chain.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/efficiency-meets-environmental-responsibility-commissioning-cerns-primary-co%e2%82%82-cooling-circuit/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Os raios cósmicos são feitos principalmente de prótons com alguns elétrons espalhados e podem atingir energias ainda mais altas do que as que os.",
-      "Dado-chave: 16 de julho de 2026\"> A observação do Telescópio Espacial de Raios Gama Fermi da NASA identificou o excesso de raios gama GeV em direção a.",
+      "Ponto central: Os detectores ATLAS e CMS requerem temperaturas ultrabaixas e estáveis ​​para proteger seus componentes eletrônicos sensíveis. Os sistemas de.",
+      "Dado-chave: Procurando uma alternativa sustentável, o CERN recorreu ao próprio CO₂, um refrigerante natural com uma grande [.]",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Os raios cósmicos são feitos principalmente de prótons com alguns elétrons espalhados e podem atingir energias ainda mais altas do que as que os.",
-      "Dado-chave: 16 de julho de 2026\"> A observação do Telescópio Espacial de Raios Gama Fermi da NASA identificou o excesso de raios gama GeV em direção a.",
+      "Ponto central: Os detectores ATLAS e CMS requerem temperaturas ultrabaixas e estáveis ​​para proteger seus componentes eletrônicos sensíveis. Os sistemas de.",
+      "Dado-chave: Procurando uma alternativa sustentável, o CERN recorreu ao próprio CO₂, um refrigerante natural com uma grande [.]",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: Cosmic rays are made primarily of protons with a few electrons sprinkled in, and they can reach energies even higher than what human-made.",
-      "Key detail: July 16, 2026\"> Observation by NASA’s Fermi Gamma-ray Space Telescope identified GeV gamma-ray excess toward LHAASO J1912-1014u and confirm it.",
+      "Core point: The ATLAS and CMS detectors require ultra-low, stable temperatures to protect their sensitive electronics. Traditional cooling systems rely on.",
+      "Key detail: Seeking a sustainable alternative, CERN has turned to CO₂ itself, a natural refrigerant with a far [.]",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "17 jul 2026",
-    "date_pt": "17 jul 2026",
-    "date_en": "17 Jul 2026",
-    "time": "15h00",
-    "time_pt": "15h00",
-    "time_en": "15:00 UTC",
+    "date": "09 jul 2026",
+    "date_pt": "09 jul 2026",
+    "date_en": "09 Jul 2026",
+    "time": "12h49",
+    "time_pt": "12h49",
+    "time_en": "12:49 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-17T15:00:02+00:00",
-    "lastModifiedIso": "2026-07-17T15:00:02+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
+    "publishedIso": "2026-07-09T12:49:34+00:00",
+    "lastModifiedIso": "2026-07-09T12:49:34+00:00",
+    "source": "CERN News",
+    "sourceDomain": "home.cern",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -2718,26 +2684,29 @@ window.postsData = [
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
       "Física",
-      "Phys.org Space",
+      "CERN News",
       "Cosmos Week",
-      "Identificada fonte de partículas de energia extremamente alta na Via Láctea"
+      "A eficiência encontra a responsabilidade ambiental",
+      "comissionamento do circuito primário de resfriamento de CO₂ do CERN"
     ],
     "keywords_pt": [
       "Física",
-      "Phys.org Space",
+      "CERN News",
       "Cosmos Week",
-      "Identificada fonte de partículas de energia extremamente alta na Via Láctea"
+      "A eficiência encontra a responsabilidade ambiental",
+      "comissionamento do circuito primário de resfriamento de CO₂ do CERN"
     ],
     "keywords_en": [
       "Physical",
-      "Phys.org Space",
+      "CERN News",
       "Cosmos Week",
-      "Source of extremely high-energy particles identified in the Milky Way"
+      "Efficiency meets environmental responsibility",
+      "commissioning of CERN's primary CO₂ cooling circuit"
     ],
-    "srcUrl": "https://phys.org/news/2026-07-source-extremely-high-energy-particles.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=a-source-of-extremely-high-energy-particles-in-the-milky-way-identified",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=a-source-of-extremely-high-energy-particles-in-the-milky-way-identified",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=a-source-of-extremely-high-energy-particles-in-the-milky-way-identified&lang=en",
+    "srcUrl": "https://home.cern/efficiency-meets-environmental-responsibility-commissioning-cerns-primary-co%e2%82%82-cooling-circuit/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=efficiency-meets-environmental-responsibility-commissioning-cern-s-primary-co-cooling-circuit",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=efficiency-meets-environmental-responsibility-commissioning-cern-s-primary-co-cooling-circuit",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=efficiency-meets-environmental-responsibility-commissioning-cern-s-primary-co-cooling-circuit&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -2748,13 +2717,13 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 74,
+    "score": 71,
     "scoreBreakdown": {
-      "source": 76,
+      "source": 86,
       "evidence": 82,
-      "relevance": 82,
-      "accessibility": 60,
-      "novelty": 52
+      "relevance": 68,
+      "accessibility": 52,
+      "novelty": 46
     }
   },
   {
@@ -3694,6 +3663,139 @@ window.postsData = [
   },
   {
     "id": 30,
+    "slug": "nasa-pushes-new-wing-design-to-find-structural-limits",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/07/afrc2025-0136-2115-copy.jpeg?w=1536",
+    "inline_images": [
+      {
+        "src": "https://images-assets.nasa.gov/image/AFRC2025-0136-0691/AFRC2025-0136-0691~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Um grupo de pessoas trabalha em conjunto numa grande oficina, manuseando e inspecionando uma longa estrutura metálica colocada sobre mesas acolchoadas. Ferramentas, materiais e equipamentos de proteção estão espalhados pelo espaço de trabalho.",
+        "caption_pt": "Um grupo de pessoas trabalha em conjunto numa grande oficina, manuseando e inspecionando uma longa estrutura metálica colocada sobre mesas acolchoadas. Ferramentas, materiais e equipamentos de proteção estão espalhados pelo espaço de trabalho.",
+        "caption_en": "A group of people work together in a large workshop, handling and inspecting a long metallic structure laid across padded tables. Tools, materials, and protective equipment are spread across the workspace.",
+        "alt": "Um grupo de pessoas trabalha em conjunto numa grande oficina, manuseando e inspecionando uma longa estrutura metálica colocada sobre mesas acolchoadas. Ferramentas, materiais e equipamentos de proteção estão espalhados pelo espaço de trabalho.",
+        "alt_pt": "Um grupo de pessoas trabalha em conjunto numa grande oficina, manuseando e inspecionando uma longa estrutura metálica colocada sobre mesas acolchoadas. Ferramentas, materiais e equipamentos de proteção estão espalhados pelo espaço de trabalho.",
+        "alt_en": "A group of people work together in a large workshop, handling and inspecting a long metallic structure laid across padded tables. Tools, materials, and protective equipment are spread across the workspace."
+      },
+      {
+        "src": "https://images-assets.nasa.gov/image/AFRC2025-0136-1392/AFRC2025-0136-1392~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Uma longa viga é suspensa em um laboratório enquanto o pessoal observa e orienta sua colocação. Equipamentos de suporte aéreo, cabos e infraestrutura de laboratório circundam a área de teste.",
+        "caption_pt": "Uma longa viga é suspensa em um laboratório enquanto o pessoal observa e orienta sua colocação. Equipamentos de suporte aéreo, cabos e infraestrutura de laboratório circundam a área de teste.",
+        "caption_en": "A long beam is suspended in a laboratory while personnel observe and guide its placement. Overhead support equipment, cables, and lab infrastructure surround the test area.",
+        "alt": "Uma longa viga é suspensa em um laboratório enquanto o pessoal observa e orienta sua colocação. Equipamentos de suporte aéreo, cabos e infraestrutura de laboratório circundam a área de teste.",
+        "alt_pt": "Uma longa viga é suspensa em um laboratório enquanto o pessoal observa e orienta sua colocação. Equipamentos de suporte aéreo, cabos e infraestrutura de laboratório circundam a área de teste.",
+        "alt_en": "A long beam is suspended in a laboratory while personnel observe and guide its placement. Overhead support equipment, cables, and lab infrastructure surround the test area."
+      },
+      {
+        "src": "https://images-assets.nasa.gov/image/AFRC2025-0136-1632/AFRC2025-0136-1632~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Um homem usando proteção auricular trabalha em estreita colaboração com diversas unidades hidráulicas e de instrumentação conectadas a uma grande viga montada em uma estrutura de teste. Vários cabos, mangueiras e dispositivos de medição se estendem desde a configuração.",
+        "caption_pt": "Um homem usando proteção auricular trabalha em estreita colaboração com diversas unidades hidráulicas e de instrumentação conectadas a uma grande viga montada em uma estrutura de teste. Vários cabos, mangueiras e dispositivos de medição se estendem desde a configuração.",
+        "caption_en": "A man wearing ear protection works closely with multiple hydraulic and instrumentation units connected to a large beam mounted on a test structure. Numerous cables, hoses, and measurement devices extend from the setup.",
+        "alt": "Um homem usando proteção auricular trabalha em estreita colaboração com diversas unidades hidráulicas e de instrumentação conectadas a uma grande viga montada em uma estrutura de teste. Vários cabos, mangueiras e dispositivos de medição se estendem desde a configuração.",
+        "alt_pt": "Um homem usando proteção auricular trabalha em estreita colaboração com diversas unidades hidráulicas e de instrumentação conectadas a uma grande viga montada em uma estrutura de teste. Vários cabos, mangueiras e dispositivos de medição se estendem desde a configuração.",
+        "alt_en": "A man wearing ear protection works closely with multiple hydraulic and instrumentation units connected to a large beam mounted on a test structure. Numerous cables, hoses, and measurement devices extend from the setup."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "NASA impulsiona novo design de asa para encontrar limites estruturais",
+    "title_pt": "NASA impulsiona novo design de asa para encontrar limites estruturais",
+    "title_en": "NASA Pushes New Wing Design to Find Structural Limits",
+    "sub": "Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série de testes exaustivos para encontrar.",
+    "sub_pt": "Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série de testes exaustivos para encontrar.",
+    "sub_en": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits.",
+    "excerpt": "Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série de testes exaustivos para encontrar seus limites estruturais. O que eles descobriram os deixou encorajados em.",
+    "excerpt_pt": "Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série de testes exaustivos para encontrar seus limites estruturais. O que eles descobriram os deixou encorajados em.",
+    "excerpt_en": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about the wing’s.",
+    "body": "<p>Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série de testes exaustivos para encontrar seus limites estruturais. O que eles descobriram os deixou encorajados em relação à ala. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. 3 minutos de leitura NASA empurra novo design de asa para encontrar limites estruturais O artigo de teste de experimento de asa estrutural de 15 pés avaliando treliças está. NASA/Carla Escamilla Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série de testes.</p><p>Os técnicos de laboratório Phil Tofts, Chris McLain e Jeff Howell e os engenheiros da NASA Erin Anderson e Richard Larson preparam o experimento de asa estrutural de 15 pés. NASA/Christopher LC Clark O projeto do SWEET-15 originou-se da combinação de cinco diferentes tecnologias avançadas de fabricação e montagem de compósitos que possibilitaram o.</p><p>Os técnicos de laboratório Jeff Howell, à esquerda, e Chris Mount instalam o modelo de avaliação de experimento de asa estrutural de 15 pés no Flight Loads Lab no Armstrong Flight.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série de testes exaustivos para encontrar seus limites estruturais. O que eles descobriram os deixou encorajados em relação à ala. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. 3 minutos de leitura NASA empurra novo design de asa para encontrar limites estruturais O artigo de teste de experimento de asa estrutural de 15 pés avaliando treliças está. NASA/Carla Escamilla Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série de testes.</p><p>Os técnicos de laboratório Phil Tofts, Chris McLain e Jeff Howell e os engenheiros da NASA Erin Anderson e Richard Larson preparam o experimento de asa estrutural de 15 pés. NASA/Christopher LC Clark O projeto do SWEET-15 originou-se da combinação de cinco diferentes tecnologias avançadas de fabricação e montagem de compósitos que possibilitaram o.</p><p>Os técnicos de laboratório Jeff Howell, à esquerda, e Chris Mount instalam o modelo de avaliação de experimento de asa estrutural de 15 pés no Flight Loads Lab no Armstrong Flight.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about the wing’s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. 3 Min Read NASA Pushes New Wing Design to Find Structural Limits The 15-foot Structural Wing Experiment Evaluating Truss-bracing test article is fully installed in the Flight. NASA/Carla Escamilla NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its.</p><p>Lab technicians Phil Tofts, Chris McLain, and Jeff Howell and NASA engineers Erin Anderson and Richard Larson prepare the 15-foot Structural Wing Experiment Evaluating. NASA/Christopher LC Clark The SWEET-15 design originated with combining five different advanced composite manufacturing and assembly technologies that enabled the novel structural.</p><p>Lab technicians Jeff Howell, left and Chris Mount install the 15-foot Structural Wing Experiment Evaluating Truss-bracing model in the Flight Loads Lab at NASA’s Armstrong Flight. NASA research engineer Walter Hargis regulates the 15-foot Structural Wing Experiment Evaluating Truss-bracing model in the Flight Loads Laboratory at NASA’s Armstrong Flight.</p><p>Https: //www. nasa. gov/aeronautics/ Share Details Last Updated Jul 17. NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its Article NASA.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>The 15-foot Structural Wing Experiment Evaluating Truss-bracing (SWEET-15) test article is part of NASA’s research to develop future ultra-efficient aircraft. The research team is working to understand whether SWEET-15’s design and its new lightweight structural designs could help commercial airliners save fuel.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série de.",
+      "Dado-chave: Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série de.",
+      "Dado-chave: Pesquisadores da NASA recentemente submeteram um novo design de asa, parecendo longo e fino com um design estrutural leve, através de uma série.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to.",
+      "Key detail: NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "17 jul 2026",
+    "date_pt": "17 jul 2026",
+    "date_en": "17 Jul 2026",
+    "time": "23h08",
+    "time_pt": "23h08",
+    "time_en": "23:08 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-17T23:08:33+00:00",
+    "lastModifiedIso": "2026-07-17T23:08:33+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Cosmologia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA impulsiona novo design de asa para encontrar limites estruturais"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA impulsiona novo design de asa para encontrar limites estruturais"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Pushes New Wing Design to Find Structural Limits"
+    ],
+    "srcUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-pushes-new-wing-design-to-find-structural-limits",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-pushes-new-wing-design-to-find-structural-limits",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-pushes-new-wing-design-to-find-structural-limits&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 82,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 31,
     "slug": "la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3798,7 +3900,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "metallic-waves-on-ancient-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3931,7 +4033,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "10-000-black-holes-are-missing-but-we-ve-finally-found-1",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4049,7 +4151,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "rogue-neptunes-are-detached-but-not-alone",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4185,7 +4287,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "euclid-telescope-finds-quasars-within-700-million-years-of-the-big-bang",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4318,7 +4420,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "this-week-s-sky-at-a-glance-july-10-19",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4454,7 +4556,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "flex-and-sentinel-3c-arrive-at-europe-s-spaceport",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4590,7 +4692,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "where-venezuela-s-earthquakes-shifted-the-ground",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4723,7 +4825,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 39,
     "slug": "coathanger-cluster-this-star-pattern-looks-like-its-name",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4841,7 +4943,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 40,
     "slug": "hidden-planet-found-around-nearby-star-beta-pictoris",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4936,124 +5038,6 @@ window.postsData = [
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=hidden-planet-found-around-nearby-star-beta-pictoris",
     "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=hidden-planet-found-around-nearby-star-beta-pictoris",
     "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=hidden-planet-found-around-nearby-star-beta-pictoris&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 72,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
-    "id": 40,
-    "slug": "shoemaker-levy-9-impact-on-jupiter-32-years-ago",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2013/04/Jupiter-impact-site.jpg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Impacto de Shoemaker-Levy 9 em Júpiter há 32 anos",
-    "title_pt": "Impacto de Shoemaker-Levy 9 em Júpiter há 32 anos",
-    "title_en": "Shoemaker-Levy 9 impact on Jupiter 32 years ago",
-    "sub": "O cometa Shoemaker-Levy 9 atingiu Júpiter em 1994, há 32 anos, deixando cicatrizes na superfície do planeta e deixando para trás água que permaneceu na atmosfera durante décadas.",
-    "sub_pt": "O cometa Shoemaker-Levy 9 atingiu Júpiter em 1994, há 32 anos, deixando cicatrizes na superfície do planeta e deixando para trás água que permaneceu na atmosfera durante décadas.",
-    "sub_en": "Comet Shoemaker-Levy 9 hit Jupiter in 1994, 32 years ago, scarring the planet's surface and leaving behind water that remained in the atmosphere for decades. The post.",
-    "excerpt": "O cometa Shoemaker-Levy 9 atingiu Júpiter em 1994, há 32 anos, deixando cicatrizes na superfície do planeta e deixando para trás água que permaneceu na atmosfera durante décadas. O post Impacto do Shoemaker-Levy 9 em Júpiter, 32 anos atrás, apareceu pela.",
-    "excerpt_pt": "O cometa Shoemaker-Levy 9 atingiu Júpiter em 1994, há 32 anos, deixando cicatrizes na superfície do planeta e deixando para trás água que permaneceu na atmosfera durante décadas. O post Impacto do Shoemaker-Levy 9 em Júpiter, 32 anos atrás, apareceu pela.",
-    "excerpt_en": "Comet Shoemaker-Levy 9 hit Jupiter in 1994, 32 years ago, scarring the planet's surface and leaving behind water that remained in the atmosphere for decades. The post Shoemaker-Levy 9 impact on Jupiter 32 years ago first appeared on.",
-    "body": "<p>O cometa Shoemaker-Levy 9 atingiu Júpiter em 1994, há 32 anos, deixando cicatrizes na superfície do planeta e deixando para trás água que permaneceu na atmosfera durante décadas. O post Impacto do Shoemaker-Levy 9 em Júpiter, 32 anos atrás, apareceu pela primeira vez em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. | A visão do Telescópio Espacial Hubble de contusões do tamanho da Terra em Júpiter, causadas pelos espetaculares múltiplos impactos do cometa Shoemaker-Levy 9 com o planeta. As cicatrizes escuras da Shoemaker-Levy 9 permaneceram visíveis durante cerca de 5 meses, até que os ventos na atmosfera exterior de Júpiter as separaram.</p><p>Segundo a NASA, a água ainda foi detectada em 2019. | Imagem composta do Telescópio Espacial Hubble de Júpiter e do minúsculo Shoemaker-Levy 9, enquanto o pequeno cometa se dirigia para o impacto com o planeta gigante em 1994.</p><p>Água de Shoemaker-Levy 9 Os astrónomos observaram o impacto do SL9 e as suas subsequentes cicatrizes em Júpiter durante semanas.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/shoemaker-levy-9-impact-jupiter-july-1994/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O cometa Shoemaker-Levy 9 atingiu Júpiter em 1994, há 32 anos, deixando cicatrizes na superfície do planeta e deixando para trás água que permaneceu na atmosfera durante décadas. O post Impacto do Shoemaker-Levy 9 em Júpiter, 32 anos atrás, apareceu pela primeira vez em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. | A visão do Telescópio Espacial Hubble de contusões do tamanho da Terra em Júpiter, causadas pelos espetaculares múltiplos impactos do cometa Shoemaker-Levy 9 com o planeta. As cicatrizes escuras da Shoemaker-Levy 9 permaneceram visíveis durante cerca de 5 meses, até que os ventos na atmosfera exterior de Júpiter as separaram.</p><p>Segundo a NASA, a água ainda foi detectada em 2019. | Imagem composta do Telescópio Espacial Hubble de Júpiter e do minúsculo Shoemaker-Levy 9, enquanto o pequeno cometa se dirigia para o impacto com o planeta gigante em 1994.</p><p>Água de Shoemaker-Levy 9 Os astrónomos observaram o impacto do SL9 e as suas subsequentes cicatrizes em Júpiter durante semanas.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/shoemaker-levy-9-impact-jupiter-july-1994/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Comet Shoemaker-Levy 9 hit Jupiter in 1994, 32 years ago, scarring the planet&#x27;s surface and leaving behind water that remained in the atmosphere for decades. The post Shoemaker-Levy 9 impact on Jupiter 32 years ago first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Comet Shoemaker-Levy 9 hit Jupiter in 1994, 32 years ago, scarring the planet&#x27;s surface and leaving behind water that remained in the atmosphere for decades. | The Hubble Space Telescope’s view of Earth-sized bruises on Jupiter, caused by Comet Shoemaker-Levy 9’s spectacular multiple impacts with the giant planet in 1994.</p><p>The dark scars from Shoemaker-Levy 9 remained visible for about 5 months, until winds in Jupiter’s outer atmosphere pulled them apart. According to NASA, the water was still detected in 2019.</p><p>| Hubble Space Telescope composite image of Jupiter and tiny Shoemaker-Levy 9, as the little comet headed for impact with the giant planet in 1994. Water from Shoemaker-Levy 9 Astronomers observed the SL9 impact and its subsequent scars on Jupiter for weeks.</p><p>And scientists observed emission from water vapor during the fireball phase of the SL9 impacts. Later, in 1997, the ESA Infrared Space Observatory detected water vapor in the stratosphere of Jupiter.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>But there were other possible sources of the observed water: for example, interplanetary dust particles produced by cometary activity and asteroid collisions, icy rings or one of. Then, in 2013, Thibault Cavalié and his colleagues observed Jupiter with the ESA Herschel Space Observatory, which is sensitive enough to map the abundance of water versus.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/shoemaker-levy-9-impact-jupiter-july-1994/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O cometa Shoemaker-Levy 9 atingiu Júpiter em 1994, há 32 anos, deixando cicatrizes na superfície do planeta e deixando para trás água que permaneceu.",
-      "Dado-chave: O cometa Shoemaker-Levy 9 atingiu Júpiter em 1994, há 32 anos, deixando cicatrizes na superfície do planeta e deixando para trás água que.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O cometa Shoemaker-Levy 9 atingiu Júpiter em 1994, há 32 anos, deixando cicatrizes na superfície do planeta e deixando para trás água que permaneceu.",
-      "Dado-chave: O cometa Shoemaker-Levy 9 atingiu Júpiter em 1994, há 32 anos, deixando cicatrizes na superfície do planeta e deixando para trás água que.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Comet Shoemaker-Levy 9 hit Jupiter in 1994, 32 years ago, scarring the planet's surface and leaving behind water that remained in the atmosphere for.",
-      "Key detail: Comet Shoemaker-Levy 9 hit Jupiter in 1994, 32 years ago, scarring the planet's surface and leaving behind water that remained in the atmosphere.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "16 jul 2026",
-    "date_pt": "16 jul 2026",
-    "date_en": "16 Jul 2026",
-    "time": "10h56",
-    "time_pt": "10h56",
-    "time_en": "10:56 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-16T10:56:53+00:00",
-    "lastModifiedIso": "2026-07-16T10:56:53+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Impacto de Shoemaker",
-      "Levy 9 em Júpiter há 32 anos"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Impacto de Shoemaker",
-      "Levy 9 em Júpiter há 32 anos"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "Shoemaker Impact",
-      "Levy 9 on Jupiter 32 years ago"
-    ],
-    "srcUrl": "https://earthsky.org/space/shoemaker-levy-9-impact-jupiter-july-1994/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=shoemaker-levy-9-impact-on-jupiter-32-years-ago",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=shoemaker-levy-9-impact-on-jupiter-32-years-ago",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=shoemaker-levy-9-impact-on-jupiter-32-years-ago&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",

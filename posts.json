@@ -38,14 +38,14 @@
     "date": "19 jul 2026",
     "date_pt": "19 jul 2026",
     "date_en": "19 Jul 2026",
-    "time": "22h04",
-    "time_pt": "22h04",
-    "time_en": "22:04 UTC",
+    "time": "23h05",
+    "time_pt": "23h05",
+    "time_en": "23:05 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-19T22:04:17.368134+00:00",
-    "lastModifiedIso": "2026-07-19T22:04:17.368134+00:00",
+    "publishedIso": "2026-07-19T23:05:38.459513+00:00",
+    "lastModifiedIso": "2026-07-19T23:05:38.459513+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -146,14 +146,14 @@
     "date": "19 jul 2026",
     "date_pt": "19 jul 2026",
     "date_en": "19 Jul 2026",
-    "time": "22h04",
-    "time_pt": "22h04",
-    "time_en": "22:04 UTC",
+    "time": "23h05",
+    "time_pt": "23h05",
+    "time_en": "23:05 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-19T22:04:17.368093+00:00",
-    "lastModifiedIso": "2026-07-19T22:04:17.368093+00:00",
+    "publishedIso": "2026-07-19T23:05:38.459464+00:00",
+    "lastModifiedIso": "2026-07-19T23:05:38.459464+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -251,14 +251,14 @@
     "date": "19 jul 2026",
     "date_pt": "19 jul 2026",
     "date_en": "19 Jul 2026",
-    "time": "22h04",
-    "time_pt": "22h04",
-    "time_en": "22:04 UTC",
+    "time": "23h05",
+    "time_pt": "23h05",
+    "time_en": "23:05 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-19T22:04:17.368047+00:00",
-    "lastModifiedIso": "2026-07-19T22:04:17.368047+00:00",
+    "publishedIso": "2026-07-19T23:05:38.459411+00:00",
+    "lastModifiedIso": "2026-07-19T23:05:38.459411+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -356,14 +356,14 @@
     "date": "19 jul 2026",
     "date_pt": "19 jul 2026",
     "date_en": "19 Jul 2026",
-    "time": "22h04",
-    "time_pt": "22h04",
-    "time_en": "22:04 UTC",
+    "time": "23h05",
+    "time_pt": "23h05",
+    "time_en": "23:05 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-19T22:04:17.367994+00:00",
-    "lastModifiedIso": "2026-07-19T22:04:17.367994+00:00",
+    "publishedIso": "2026-07-19T23:05:38.459366+00:00",
+    "lastModifiedIso": "2026-07-19T23:05:38.459366+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -461,14 +461,14 @@
     "date": "19 jul 2026",
     "date_pt": "19 jul 2026",
     "date_en": "19 Jul 2026",
-    "time": "22h04",
-    "time_pt": "22h04",
-    "time_en": "22:04 UTC",
+    "time": "23h05",
+    "time_pt": "23h05",
+    "time_en": "23:05 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-19T22:04:17.367946+00:00",
-    "lastModifiedIso": "2026-07-19T22:04:17.367946+00:00",
+    "publishedIso": "2026-07-19T23:05:38.459316+00:00",
+    "lastModifiedIso": "2026-07-19T23:05:38.459316+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -529,6 +529,139 @@
   },
   {
     "id": 6,
+    "slug": "how-the-sun-goes-to-sleep-could-reveal-future-space-weather-when-it-wakes",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-sun-goes-to-sl.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-the-sun-goes-to-sl.jpg",
+        "caption": "Como o Sol vai ‘dormir’ pode revelar o clima espacial futuro quando ele acordar",
+        "caption_pt": "Como o Sol vai ‘dormir’ pode revelar o clima espacial futuro quando ele acordar",
+        "caption_en": "How the Sun goes to 'sleep' could reveal future space weather when it wakes",
+        "alt": "Como o Sol vai ‘dormir’ pode revelar o clima espacial futuro quando ele acordar",
+        "alt_pt": "Como o Sol vai ‘dormir’ pode revelar o clima espacial futuro quando ele acordar",
+        "alt_en": "How the Sun goes to 'sleep' could reveal future space weather when it wakes"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-the-sun-goes-to-sl-1.jpg",
+        "caption": "O 'relógio de sol' mapeia o ciclo irregular de atividade do Sol em um relógio padrão. Os raios pretos mostram eventos climáticos espaciais extremos registrados na Terra. A nova pesquisa identifica um ponto de “desligamento” distinto, após o qual o mais grave.",
+        "caption_pt": "O 'relógio de sol' mapeia o ciclo irregular de atividade do Sol em um relógio padrão. Os raios pretos mostram eventos climáticos espaciais extremos registrados na Terra. A nova pesquisa identifica um ponto de “desligamento” distinto, após o qual o mais grave.",
+        "caption_en": "The 'sunclock' maps the Sun's irregular activity cycle onto a standard clock. The black spokes show extreme space weather events recorded at Earth. The new research identifies a distinct 'switch-off' point, after which the most severe.",
+        "alt": "Como o Sol vai ‘dormir’ pode revelar o clima espacial futuro quando ele acordar",
+        "alt_pt": "Como o Sol vai ‘dormir’ pode revelar o clima espacial futuro quando ele acordar",
+        "alt_en": "How the Sun goes to 'sleep' could reveal future space weather when it wakes"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-the-sun-goes-to-sl-2.jpg",
+        "caption": "O relógio de sol (centro) ao lado das mudanças de latitude da atividade das manchas solares (laranja). O novo estudo mostra que o número de manchas solares no ponto de “desligamento”, quando as regiões ativas migraram para perto do equador solar, pode ser utilizado.",
+        "caption_pt": "O relógio de sol (centro) ao lado das mudanças de latitude da atividade das manchas solares (laranja). O novo estudo mostra que o número de manchas solares no ponto de “desligamento”, quando as regiões ativas migraram para perto do equador solar, pode ser utilizado.",
+        "caption_en": "The sunclock (center) alongside the changing latitudes of sunspot activity (orange). The new study shows that the number of sunspots at the 'switch-off' point, when active regions have migrated close to the solar equator, can be used to.",
+        "alt": "Como o sol vai ‘dormir’ pode revelar o clima espacial futuro quando ele acordar",
+        "alt_pt": "Como o sol vai ‘dormir’ pode revelar o clima espacial futuro quando ele acordar",
+        "alt_en": "How the sun goes to 'sleep' could reveal future space weather when it wakes"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Como o sol vai ‘dormir’ pode revelar o clima espacial futuro quando ele acordar",
+    "title_pt": "Como o sol vai ‘dormir’ pode revelar o clima espacial futuro quando ele acordar",
+    "title_en": "How the sun goes to 'sleep' could reveal future space weather when it wakes",
+    "sub": "Os cientistas desenvolveram uma nova maneira de prever a força do próximo ciclo de atividade do Sol até sete anos antes de atingir o seu pico.",
+    "sub_pt": "Os cientistas desenvolveram uma nova maneira de prever a força do próximo ciclo de atividade do Sol até sete anos antes de atingir o seu pico.",
+    "sub_en": "Scientists have developed a new way to predict the strength of the sun's next activity cycle up to seven years before it reaches its peak.",
+    "excerpt": "Os cientistas desenvolveram uma nova maneira de prever a força do próximo ciclo de atividade do Sol até sete anos antes de atingir o seu pico.",
+    "excerpt_pt": "Os cientistas desenvolveram uma nova maneira de prever a força do próximo ciclo de atividade do Sol até sete anos antes de atingir o seu pico.",
+    "excerpt_en": "Scientists have developed a new way to predict the strength of the sun's next activity cycle up to seven years before it reaches its peak.",
+    "body": "<p>Os cientistas desenvolveram uma nova maneira de prever a força do próximo ciclo de atividade do Sol até sete anos antes de atingir o seu pico. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. NASA/SDO Cientistas desenvolveram uma nova maneira de prever a força do próximo ciclo de atividade do Sol até sete anos antes de atingir seu pico. Usando esta abordagem, os investigadores fizeram uma previsão inicial para a força do Ciclo Solar 26.</p><p>Uma previsão muito precoce mostra um Ciclo 26 moderado com um número de manchas solares em torno de 100-120, semelhante ou mais fraco que o atual Ciclo 25. Ao identificar esse ponto, encontrámos uma nova forma de prever quão ativo será provavelmente o próximo ciclo solar.&quot; Chapman espera refinar a previsão em cerca de dois anos.</p><p>As manchas solares são regiões de intensa atividade magnética que podem produzir poderosas erupções solares e ejeções de massa coronal, criando um clima espacial que pode afetar. “Estamos a cerca de dois anos do ponto de desligamento do atual Ciclo Solar 25.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-sun-reveal-future-space-weather.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os cientistas desenvolveram uma nova maneira de prever a força do próximo ciclo de atividade do Sol até sete anos antes de atingir o seu pico. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. NASA/SDO Cientistas desenvolveram uma nova maneira de prever a força do próximo ciclo de atividade do Sol até sete anos antes de atingir seu pico. Usando esta abordagem, os investigadores fizeram uma previsão inicial para a força do Ciclo Solar 26.</p><p>Uma previsão muito precoce mostra um Ciclo 26 moderado com um número de manchas solares em torno de 100-120, semelhante ou mais fraco que o atual Ciclo 25. Ao identificar esse ponto, encontrámos uma nova forma de prever quão ativo será provavelmente o próximo ciclo solar.&quot; Chapman espera refinar a previsão em cerca de dois anos.</p><p>As manchas solares são regiões de intensa atividade magnética que podem produzir poderosas erupções solares e ejeções de massa coronal, criando um clima espacial que pode afetar. “Estamos a cerca de dois anos do ponto de desligamento do atual Ciclo Solar 25.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-sun-reveal-future-space-weather.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Developed a new way to predict the strength of the sun&#x27;s next activity cycle up to seven years before it reaches its peak. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. NASA/SDO Scientists have developed a new way to predict the strength of the sun&#x27;s next activity cycle up to seven years before it reaches its peak. Using this approach, researchers have made an early prediction for the strength of Solar Cycle 26.</p><p>A very early prediction shows a moderate Cycle 26 with a sunspot number of around 100, 120, similar to or weaker than the current Cycle 25. By identifying that point, we&#x27;ve found a new way to predict how active the next solar cycle is likely to be.&quot; Chapman expects to refine the prediction in around two years, once.</p><p>Sunspots are regions of intense magnetic activity that can produce powerful solar flares and coronal mass ejections, creating space weather that can affect satellites. Chapman said, &quot;We&#x27;re about two years away from the switch-off point for the current Solar Cycle 25.</p><p>At the moment, we have to estimate where that point will be, but once we reach it we can use observations alone to make a much more precise prediction for Solar Cycle 26. That will still give us around seven years&#x27; warning of how strong the cycle is likely to be.&quot; Discover the latest in science, tech, and space with over 100,000 subscribers who.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The method successfully predicted that Solar Cycle 25 would be stronger than many previous forecasts suggested, resulting in stunning auroral displays in recent years. The UK experienced several historic solar storms in 2024 as Cycle 25 reached its &quot;solar maximum,&quot; most notably a series of extreme geomagnetic events from May 10, 13.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-sun-reveal-future-space-weather.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os cientistas desenvolveram uma nova maneira de prever a força do próximo ciclo de atividade do Sol até sete anos antes de atingir o seu pico.",
+      "Dado-chave: NASA/SDO Cientistas desenvolveram uma nova maneira de prever a força do próximo ciclo de atividade do Sol até sete anos antes de atingir seu.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os cientistas desenvolveram uma nova maneira de prever a força do próximo ciclo de atividade do Sol até sete anos antes de atingir o seu pico.",
+      "Dado-chave: NASA/SDO Cientistas desenvolveram uma nova maneira de prever a força do próximo ciclo de atividade do Sol até sete anos antes de atingir seu.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Scientists have developed a new way to predict the strength of the sun's next activity cycle up to seven years before it reaches its peak.",
+      "Key detail: NASA/SDO Scientists have developed a new way to predict the strength of the sun's next activity cycle up to seven years before it reaches its.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "19 jul 2026",
+    "date_pt": "19 jul 2026",
+    "date_en": "19 Jul 2026",
+    "time": "23h00",
+    "time_pt": "23h00",
+    "time_en": "23:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-19T23:00:03+00:00",
+    "lastModifiedIso": "2026-07-19T23:00:03+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Como o sol vai ‘dormir’ pode revelar o clima espacial futuro quando ele acordar"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Como o sol vai ‘dormir’ pode revelar o clima espacial futuro quando ele acordar"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "Phys.org Space",
+      "Cosmos Week",
+      "How the sun goes to ‘sleep’ could reveal future space weather when it wakes up"
+    ],
+    "srcUrl": "https://phys.org/news/2026-07-sun-reveal-future-space-weather.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=how-the-sun-goes-to-sleep-could-reveal-future-space-weather-when-it-wakes",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=how-the-sun-goes-to-sleep-could-reveal-future-space-weather-when-it-wakes",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=how-the-sun-goes-to-sleep-could-reveal-future-space-weather-when-it-wakes&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 69,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 62,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "nasa-s-perseverance-rover-uncovers-evidence-of-4-billion-year-old-impacts",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -647,7 +780,7 @@
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -661,7 +794,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "samples-reveal-how-earth-slows-solar-wind-striking-moon-s-near-side",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -794,7 +927,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "a-century-old-stellar-mystery-may-finally-have-an-explanation",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -927,7 +1060,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "meteorite-strike-of-new-jersey-home-reveals-life-clues",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1038,139 +1171,6 @@
       "evidence": 82,
       "relevance": 80,
       "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "observations-investigate-the-nature-of-a-peculiar-supernova",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/observations-investiga-5.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/observations-investiga-5.jpg",
-        "caption": "Observações investigam a natureza de uma supernova peculiar",
-        "caption_pt": "Observações investigam a natureza de uma supernova peculiar",
-        "caption_en": "Observations investigate the nature of a peculiar supernova",
-        "alt": "Observações investigam a natureza de uma supernova peculiar",
-        "alt_pt": "Observações investigam a natureza de uma supernova peculiar",
-        "alt_en": "Observations investigate the nature of a peculiar supernova"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/6479ba614c2b9111.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f6b420961b46f94b.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Observações investigam a natureza de uma supernova peculiar",
-    "title_pt": "Observações investigam a natureza de uma supernova peculiar",
-    "title_en": "Observations investigate the nature of a peculiar supernova",
-    "sub": "Uma equipe internacional de astrônomos realizou observações de acompanhamento de uma supernova peculiar do Tipo Ia designada SN 2023vjh. Os resultados da campanha observacional.",
-    "sub_pt": "Uma equipe internacional de astrônomos realizou observações de acompanhamento de uma supernova peculiar do Tipo Ia designada SN 2023vjh. Os resultados da campanha observacional.",
-    "sub_en": "An international team of astronomers has performed follow-up observations of a peculiar Type Ia supernova designated SN 2023vjh. Results of the observational campaign, published.",
-    "excerpt": "Uma equipe internacional de astrônomos realizou observações de acompanhamento de uma supernova peculiar do Tipo Ia designada SN 2023vjh. Os resultados da campanha observacional, publicada em 9 de julho no servidor de pré-impressão arXiv, são importantes.",
-    "excerpt_pt": "Uma equipe internacional de astrônomos realizou observações de acompanhamento de uma supernova peculiar do Tipo Ia designada SN 2023vjh. Os resultados da campanha observacional, publicada em 9 de julho no servidor de pré-impressão arXiv, são importantes.",
-    "excerpt_en": "An international team of astronomers has performed follow-up observations of a peculiar Type Ia supernova designated SN 2023vjh. Results of the observational campaign, published July 9 on the preprint server arXiv, deliver important.",
-    "body": "<p>Uma equipe internacional de astrônomos realizou observações de acompanhamento de uma supernova peculiar do Tipo Ia designada SN 2023vjh. Os resultados da campanha observacional, publicada em 9 de julho no servidor de pré-impressão arXiv, são importantes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Os resultados da campanha de observação, publicados em 9 de julho no servidor de pré-impressão arXiv, fornecem informações importantes sobre a natureza desta explosão. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial arXiv (2026).</p><p>&quot;&gt; O campo do SN 2023vjh e sua galáxia hospedeira MCG+04- 10-013. A imagem é retirada do levantamento ATLAS RC2 (campo m17), recuperada através da interface do servidor de dados DS9.</p><p>Uma equipe internacional de astrônomos realizou observações de acompanhamento de uma supernova peculiar do Tipo Ia designada SN 2023vjh.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-nature-peculiar-supernova.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Uma equipe internacional de astrônomos realizou observações de acompanhamento de uma supernova peculiar do Tipo Ia designada SN 2023vjh. Os resultados da campanha observacional, publicada em 9 de julho no servidor de pré-impressão arXiv, são importantes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Os resultados da campanha de observação, publicados em 9 de julho no servidor de pré-impressão arXiv, fornecem informações importantes sobre a natureza desta explosão. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial arXiv (2026).</p><p>&quot;&gt; O campo do SN 2023vjh e sua galáxia hospedeira MCG+04- 10-013. A imagem é retirada do levantamento ATLAS RC2 (campo m17), recuperada através da interface do servidor de dados DS9.</p><p>Uma equipe internacional de astrônomos realizou observações de acompanhamento de uma supernova peculiar do Tipo Ia designada SN 2023vjh.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-nature-peculiar-supernova.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>An international team of astronomers has performed follow-up observations of a peculiar Type Ia supernova designated SN 2023vjh. Results of the observational campaign, published July 9 on the preprint server arXiv, deliver important. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. Results of the observational campaign, published July 9 on the preprint server arXiv, deliver important insights into the nature of this explosion. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source arXiv (2026).</p><p>&quot;&gt; The field of the SN 2023vjh and its host galaxy MCG+04- 10-013. The image is taken from the ATLAS RC2 survey (m17 field), retrieved through the DS9 data server interface.</p><p>An international team of astronomers has performed follow-up observations of a peculiar Type Ia supernova designated SN 2023vjh. The supernova is possibly associated with MCG+04-10-013, an elliptical galaxy at a distance of some 271 million light-years from Earth.</p><p>According to the new findings, SN 2023vjh had a rise time of 11.6 days. The optical spectra of the supernova, spanning −8.6 to +47.3 days relative to its maximum brightness in the B band, show the typical 91bg-like features, pointing to a cool.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Furthermore, measured expansion velocities and pseudo-equivalent widths confirm that SN 2023vjh is an extremely cool event. These results show that SN 2023vjh is an unusually faint, fast-declining 91bg-like supernova.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-nature-peculiar-supernova.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Uma equipe internacional de astrônomos realizou observações de acompanhamento de uma supernova peculiar do Tipo Ia designada SN 2023vjh. Os.",
-      "Dado-chave: Os resultados da campanha de observação, publicados em 9 de julho no servidor de pré-impressão arXiv, fornecem informações importantes sobre a.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Uma equipe internacional de astrônomos realizou observações de acompanhamento de uma supernova peculiar do Tipo Ia designada SN 2023vjh. Os.",
-      "Dado-chave: Os resultados da campanha de observação, publicados em 9 de julho no servidor de pré-impressão arXiv, fornecem informações importantes sobre a.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: An international team of astronomers has performed follow-up observations of a peculiar Type Ia supernova designated SN 2023vjh. Results of the.",
-      "Key detail: Results of the observational campaign, published July 9 on the preprint server arXiv, deliver important insights into the nature of this.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "19 jul 2026",
-    "date_pt": "19 jul 2026",
-    "date_en": "19 Jul 2026",
-    "time": "11h00",
-    "time_pt": "11h00",
-    "time_en": "11:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-19T11:00:01+00:00",
-    "lastModifiedIso": "2026-07-19T11:00:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Cosmologia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Observações investigam a natureza de uma supernova peculiar"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Observações investigam a natureza de uma supernova peculiar"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Observations probe the nature of a peculiar supernova"
-    ],
-    "srcUrl": "https://phys.org/news/2026-07-nature-peculiar-supernova.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=observations-investigate-the-nature-of-a-peculiar-supernova",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=observations-investigate-the-nature-of-a-peculiar-supernova",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=observations-investigate-the-nature-of-a-peculiar-supernova&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 72,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
-      "relevance": 74,
-      "accessibility": 52,
       "novelty": 55
     }
   },
@@ -1661,6 +1661,139 @@
   },
   {
     "id": 15,
+    "slug": "giant-planets-could-act-as-dark-matter-detectors",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/giant-planets-could-ac-1.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/giant-planets-could-ac-1.jpg",
+        "caption": "Planetas gigantes poderiam atuar como detectores de matéria escura",
+        "caption_pt": "Planetas gigantes poderiam atuar como detectores de matéria escura",
+        "caption_en": "Giant planets could act as dark matter detectors",
+        "alt": "Planetas gigantes poderiam atuar como detectores de matéria escura",
+        "alt_pt": "Planetas gigantes poderiam atuar como detectores de matéria escura",
+        "alt_en": "Giant planets could act as dark matter detectors"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/061a4647609b9c09.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/4b5d8e1e5856f832.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Planetas gigantes poderiam atuar como detectores de matéria escura",
+    "title_pt": "Planetas gigantes poderiam atuar como detectores de matéria escura",
+    "title_en": "Giant planets could act as dark matter detectors",
+    "sub": "Pesquisadores nos EUA realizaram os testes mais rigorosos até o momento sobre a ideia de que um brilho ultravioleta nas atmosferas de planetas gigantes poderia surgir parcialmente.",
+    "sub_pt": "Pesquisadores nos EUA realizaram os testes mais rigorosos até o momento sobre a ideia de que um brilho ultravioleta nas atmosferas de planetas gigantes poderia surgir parcialmente.",
+    "sub_en": "Researchers in the U. S. have carried out the most stringent tests to date of the idea that an ultraviolet glow in the atmospheres of giant planets could partly arise through the.",
+    "excerpt": "Pesquisadores nos EUA realizaram os testes mais rigorosos até o momento sobre a ideia de que um brilho ultravioleta nas atmosferas de planetas gigantes poderia surgir parcialmente através da interação indireta entre a matéria escura e a matéria comum.",
+    "excerpt_pt": "Pesquisadores nos EUA realizaram os testes mais rigorosos até o momento sobre a ideia de que um brilho ultravioleta nas atmosferas de planetas gigantes poderia surgir parcialmente através da interação indireta entre a matéria escura e a matéria comum.",
+    "excerpt_en": "Researchers in the U. S. have carried out the most stringent tests to date of the idea that an ultraviolet glow in the atmospheres of giant planets could partly arise through the indirect interaction between dark matter and ordinary.",
+    "body": "<p>Pesquisadores nos EUA realizaram os testes mais rigorosos até o momento sobre a ideia de que um brilho ultravioleta nas atmosferas de planetas gigantes poderia surgir parcialmente através da interação indireta entre a matéria escura e a matéria comum. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida O Airglow torna-se visível do espaço na.</p><p>Pesquisadores do Centro Espacial Johnson da NASA nos EUA. Quando visto através da atmosfera da Terra, o céu noturno nunca é verdadeiramente escuro.</p><p>Chamado de “airglow”, esse fenômeno foi descrito pela primeira vez há mais de 2.000 anos. Em 2024, no entanto, Blanco e a sua colega Rebecca Leane, do SLAC National Accelerator Laboratory, propuseram que um brilho atmosférico diferente poderia surgir quando hipotéticas.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-giant-planets-dark-detectors.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Pesquisadores nos EUA realizaram os testes mais rigorosos até o momento sobre a ideia de que um brilho ultravioleta nas atmosferas de planetas gigantes poderia surgir parcialmente através da interação indireta entre a matéria escura e a matéria comum. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida O Airglow torna-se visível do espaço na.</p><p>Pesquisadores do Centro Espacial Johnson da NASA nos EUA. Quando visto através da atmosfera da Terra, o céu noturno nunca é verdadeiramente escuro.</p><p>Chamado de “airglow”, esse fenômeno foi descrito pela primeira vez há mais de 2.000 anos. Em 2024, no entanto, Blanco e a sua colega Rebecca Leane, do SLAC National Accelerator Laboratory, propuseram que um brilho atmosférico diferente poderia surgir quando hipotéticas.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-giant-planets-dark-detectors.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Researchers in the U. S. have carried out the most stringent tests to date of the idea that an ultraviolet glow in the atmospheres of giant planets could partly arise through the indirect interaction between dark matter and ordinary. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Airglow becomes visible from space in Earth&#x27;s night-time.</p><p>NASA Johnson Space Center Researchers in the U. S. When viewed through Earth&#x27;s atmosphere, the night sky is never truly dark.</p><p>Named &quot;airglow,&quot; this phenomenon was first described more than 2,000 years ago. In 2024, however, Blanco and his colleague Rebecca Leane at the SLAC National Accelerator Laboratory proposed that a different atmospheric glow could emerge when hypothetical dark.</p><p>By comparing predictions of this infrared emission with observations of Jupiter&#x27;s upper atmosphere, Blanco and Leane placed some of the first reliable constraints on whether dark. To date, these have been provided by Voyager 1, Voyager 2 and New Horizons during encounters with Jupiter, Saturn, Uranus and Neptune.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. The researchers hope many of these questions can be addressed by future missions, including ESA&#x27;s JUICE spacecraft, which is due to enter Jupiter&#x27;s orbit in 2031.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-giant-planets-dark-detectors.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Pesquisadores nos EUA realizaram os testes mais rigorosos até o momento sobre a ideia de que um brilho ultravioleta nas atmosferas de planetas.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Pesquisadores nos EUA realizaram os testes mais rigorosos até o momento sobre a ideia de que um brilho ultravioleta nas atmosferas de planetas.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Researchers in the U. S. have carried out the most stringent tests to date of the idea that an ultraviolet glow in the atmospheres of giant planets.",
+      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "17 jul 2026",
+    "date_pt": "17 jul 2026",
+    "date_en": "17 Jul 2026",
+    "time": "14h20",
+    "time_pt": "14h20",
+    "time_en": "14:20 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-17T14:20:06+00:00",
+    "lastModifiedIso": "2026-07-17T14:20:06+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Planetas gigantes poderiam atuar como detectores de matéria escura"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Planetas gigantes poderiam atuar como detectores de matéria escura"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Giant planets could act as dark matter detectors"
+    ],
+    "srcUrl": "https://phys.org/news/2026-07-giant-planets-dark-detectors.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=giant-planets-could-act-as-dark-matter-detectors",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=giant-planets-could-act-as-dark-matter-detectors",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=giant-planets-could-act-as-dark-matter-detectors&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 49
+    }
+  },
+  {
+    "id": 16,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1796,7 +1929,7 @@
     }
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "x-ray-eyes-reveal-the-magnetic-secrets-of-the-lighthouse-pulsar-s-cosmic-wake",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1927,7 +2060,7 @@
     }
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "submillimeter-array-catches-a-gamma-ray-burst-thanks-to-new-fast-response-system",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2060,7 +2193,7 @@
     }
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "webb-studies-how-a-planet-survived-the-death-of-its-star",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2165,7 +2298,7 @@
     }
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "this-exoplanet-hid-for-10-years-before-astronomers-finally-found-it",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2311,7 +2444,7 @@
     }
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "nearby-rocky-planet-may-be-replenishing-helium-from-atmosphere-study-finds",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2447,7 +2580,7 @@
     }
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "update-on-ocean-observatories-initiative",
     "cat": "Física",
     "catCls": "fisica",
@@ -2568,139 +2701,6 @@
       "relevance": 82,
       "accessibility": 60,
       "novelty": 46
-    }
-  },
-  {
-    "id": 22,
-    "slug": "a-source-of-extremely-high-energy-particles-in-the-milky-way-identified",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/-a-source-of-extremely.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-a-source-of-extremely.jpg",
-        "caption": "A observação pelo Telescópio Espacial de Raios Gama Fermi da NASA identificou o excesso de raios gama GeV em direção a LHAASO J1912-1014u e confirmou que se trata de um próton PeVatron por meio de observações e modelagem de vários comprimentos de onda. A fonte é marcada por um sólido.",
-        "caption_pt": "A observação pelo Telescópio Espacial de Raios Gama Fermi da NASA identificou o excesso de raios gama GeV em direção a LHAASO J1912-1014u e confirmou que se trata de um próton PeVatron por meio de observações e modelagem de vários comprimentos de onda. A fonte é marcada por um sólido.",
-        "caption_en": "Observation by NASA’s Fermi Gamma-ray Space Telescope identified GeV gamma-ray excess toward LHAASO J1912-1014u and confirm it to be a proton PeVatron through multiwavelength observations and modeling. The source is marked by a solid.",
-        "alt": "Identificada fonte de partículas de energia extremamente alta na Via Láctea",
-        "alt_pt": "Identificada fonte de partículas de energia extremamente alta na Via Láctea",
-        "alt_en": "A source of extremely high-energy particles in the Milky Way identified"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/4b5d8e1e5856f832.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/8b33bc1b4d9f6b4c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Identificada fonte de partículas de energia extremamente alta na Via Láctea",
-    "title_pt": "Identificada fonte de partículas de energia extremamente alta na Via Láctea",
-    "title_en": "A source of extremely high-energy particles in the Milky Way identified",
-    "sub": "Os raios cósmicos são feitos principalmente de prótons com alguns elétrons espalhados e podem atingir energias ainda mais altas do que as que os aceleradores feitos pelo homem.",
-    "sub_pt": "Os raios cósmicos são feitos principalmente de prótons com alguns elétrons espalhados e podem atingir energias ainda mais altas do que as que os aceleradores feitos pelo homem.",
-    "sub_en": "Cosmic rays are made primarily of protons with a few electrons sprinkled in, and they can reach energies even higher than what human-made accelerators can produce. Considering.",
-    "excerpt": "Os raios cósmicos são feitos principalmente de prótons com alguns elétrons espalhados e podem atingir energias ainda mais altas do que as que os aceleradores feitos pelo homem podem produzir. Considerando aceleradores feitos pelo homem, como o Large Hadron.",
-    "excerpt_pt": "Os raios cósmicos são feitos principalmente de prótons com alguns elétrons espalhados e podem atingir energias ainda mais altas do que as que os aceleradores feitos pelo homem podem produzir. Considerando aceleradores feitos pelo homem, como o Large Hadron.",
-    "excerpt_en": "Cosmic rays are made primarily of protons with a few electrons sprinkled in, and they can reach energies even higher than what human-made accelerators can produce. Considering human-made accelerators, such as the Large Hadron Collider on.",
-    "body": "<p>Os raios cósmicos são feitos principalmente de prótons com alguns elétrons espalhados e podem atingir energias ainda mais altas do que as que os aceleradores feitos pelo homem podem produzir. Considerando aceleradores feitos pelo homem, como o Large Hadron Collider. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. 16 de julho de 2026&quot;&gt; A observação do Telescópio Espacial de Raios Gama Fermi da NASA identificou o excesso de raios gama GeV em direção a LHAASO J1912-1014u e confirmou que é um. A fonte é marcada por um círculo sólido e é amplamente estendida, com diâmetro superior a 1 grau.</p><p>16 de julho de 2026 Os raios cósmicos são feitos principalmente de prótons com alguns elétrons espalhados e podem atingir energias ainda mais altas do que as que os aceleradores. Um acelerador dos prótons de raios cósmicos de maior energia em nossa galáxia foi identificado de forma conclusiva, graças a uma equipe internacional de pesquisadores liderada.</p><p>Esta imensa energia torna os raios cósmicos importantes na astronomia e na astrofísica&quot;, disse o primeiro e autor correspondente do estudo, Tsunefumi Mizuno, professor associado. Ele explicou que essas energias são medidas em elétron-volts, a energia que um elétron ganha quando sai de um estado de repouso e aumenta seu potencial elétrico em um volt.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-source-extremely-high-energy-particles.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os raios cósmicos são feitos principalmente de prótons com alguns elétrons espalhados e podem atingir energias ainda mais altas do que as que os aceleradores feitos pelo homem podem produzir. Considerando aceleradores feitos pelo homem, como o Large Hadron Collider. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. 16 de julho de 2026&quot;&gt; A observação do Telescópio Espacial de Raios Gama Fermi da NASA identificou o excesso de raios gama GeV em direção a LHAASO J1912-1014u e confirmou que é um. A fonte é marcada por um círculo sólido e é amplamente estendida, com diâmetro superior a 1 grau.</p><p>16 de julho de 2026 Os raios cósmicos são feitos principalmente de prótons com alguns elétrons espalhados e podem atingir energias ainda mais altas do que as que os aceleradores. Um acelerador dos prótons de raios cósmicos de maior energia em nossa galáxia foi identificado de forma conclusiva, graças a uma equipe internacional de pesquisadores liderada.</p><p>Esta imensa energia torna os raios cósmicos importantes na astronomia e na astrofísica&quot;, disse o primeiro e autor correspondente do estudo, Tsunefumi Mizuno, professor associado. Ele explicou que essas energias são medidas em elétron-volts, a energia que um elétron ganha quando sai de um estado de repouso e aumenta seu potencial elétrico em um volt.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-source-extremely-high-energy-particles.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Cosmic rays are made primarily of protons with a few electrons sprinkled in, and they can reach energies even higher than what human-made accelerators can produce. Considering human-made accelerators, such as the Large Hadron Collider on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. July 16, 2026&quot;&gt; Observation by NASA’s Fermi Gamma-ray Space Telescope identified GeV gamma-ray excess toward LHAASO J1912-1014u and confirm it to be a proton PeVatron through. The source is marked by a solid circle and is largely extended, with a diameter of more than 1 degree.</p><p>July 16, 2026 Cosmic rays are made primarily of protons with a few electrons sprinkled in, and they can reach energies even higher than what human-made accelerators can produce. An accelerator of the highest-energy cosmic-ray protons in our galaxy has been identified conclusively, thanks to a Hiroshima University-led international team of researchers.</p><p>This immense energy makes cosmic rays important in astronomy and astrophysics,&quot; said first and corresponding author of the study, Tsunefumi Mizuno, associate professor at. He explained that these energies are measured in electron volts, the energy an electron gains when it moves from a resting state and increases its electrical potential by one volt.</p><p>But data had been collected by other experiments: Fermi Large Area Telescope (Fermi-LAT), led by NASA and to which Hiroshima University contributed to the instrumentation. The FOREST Unbiased Galactic plane Imaging survey with the Nobeyama 45-m telescope (FUGIN), led by Japan.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>It was originally considered a supernova remnant, until emissions above 100 TeV were detected. With data from multiple experiments, we have studied LHAASO J1912+1014u in detail,&quot; Mizuno said.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-source-extremely-high-energy-particles.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os raios cósmicos são feitos principalmente de prótons com alguns elétrons espalhados e podem atingir energias ainda mais altas do que as que os.",
-      "Dado-chave: 16 de julho de 2026\"> A observação do Telescópio Espacial de Raios Gama Fermi da NASA identificou o excesso de raios gama GeV em direção a.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os raios cósmicos são feitos principalmente de prótons com alguns elétrons espalhados e podem atingir energias ainda mais altas do que as que os.",
-      "Dado-chave: 16 de julho de 2026\"> A observação do Telescópio Espacial de Raios Gama Fermi da NASA identificou o excesso de raios gama GeV em direção a.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Cosmic rays are made primarily of protons with a few electrons sprinkled in, and they can reach energies even higher than what human-made.",
-      "Key detail: July 16, 2026\"> Observation by NASA’s Fermi Gamma-ray Space Telescope identified GeV gamma-ray excess toward LHAASO J1912-1014u and confirm it.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 jul 2026",
-    "date_pt": "17 jul 2026",
-    "date_en": "17 Jul 2026",
-    "time": "15h00",
-    "time_pt": "15h00",
-    "time_en": "15:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-17T15:00:02+00:00",
-    "lastModifiedIso": "2026-07-17T15:00:02+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Física",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Identificada fonte de partículas de energia extremamente alta na Via Láctea"
-    ],
-    "keywords_pt": [
-      "Física",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Identificada fonte de partículas de energia extremamente alta na Via Láctea"
-    ],
-    "keywords_en": [
-      "Physical",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Source of extremely high-energy particles identified in the Milky Way"
-    ],
-    "srcUrl": "https://phys.org/news/2026-07-source-extremely-high-energy-particles.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=a-source-of-extremely-high-energy-particles-in-the-milky-way-identified",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=a-source-of-extremely-high-energy-particles-in-the-milky-way-identified",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=a-source-of-extremely-high-energy-particles-in-the-milky-way-identified&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 82,
-      "accessibility": 60,
-      "novelty": 49
     }
   },
   {
@@ -2851,6 +2851,127 @@
   },
   {
     "id": 24,
+    "slug": "efficiency-meets-environmental-responsibility-commissioning-cern-s-primary-co-cooling-circuit",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://home.cern/efficiency-meets-environmental-responsibility-commissioning-cerns-primary-co%e2%82%82-cooling-circuit/context.post.image",
+    "inline_images": [],
+    "video": {
+      "kind": "file",
+      "platform": "html5",
+      "embedUrl": "",
+      "fileUrl": "https://home.cern/wp-content/uploads/2026/07/OPEN-VIDEO-2026-211-001-720p.mp4",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://home.cern/efficiency-meets-environmental-responsibility-commissioning-cerns-primary-co%e2%82%82-cooling-circuit/"
+    },
+    "audio": null,
+    "title": "A eficiência encontra a responsabilidade ambiental: comissionamento do circuito primário de resfriamento de CO₂ do CERN",
+    "title_pt": "A eficiência encontra a responsabilidade ambiental: comissionamento do circuito primário de resfriamento de CO₂ do CERN",
+    "title_en": "Efficiency meets environmental responsibility: commissioning CERN’s primary CO₂ cooling circuit",
+    "sub": "Os detectores ATLAS e CMS requerem temperaturas ultrabaixas e estáveis ​​para proteger seus componentes eletrônicos sensíveis. Os sistemas de refrigeração tradicionais dependem de.",
+    "sub_pt": "Os detectores ATLAS e CMS requerem temperaturas ultrabaixas e estáveis ​​para proteger seus componentes eletrônicos sensíveis. Os sistemas de refrigeração tradicionais dependem de.",
+    "sub_en": "The ATLAS and CMS detectors require ultra-low, stable temperatures to protect their sensitive electronics. Traditional cooling systems rely on synthetic refrigerants like.",
+    "excerpt": "Os detectores ATLAS e CMS requerem temperaturas ultrabaixas e estáveis ​​para proteger seus componentes eletrônicos sensíveis. Os sistemas de refrigeração tradicionais dependem de refrigerantes sintéticos como os hidrofluorocarbonetos, que, embora eficazes.",
+    "excerpt_pt": "Os detectores ATLAS e CMS requerem temperaturas ultrabaixas e estáveis ​​para proteger seus componentes eletrônicos sensíveis. Os sistemas de refrigeração tradicionais dependem de refrigerantes sintéticos como os hidrofluorocarbonetos, que, embora eficazes.",
+    "excerpt_en": "The ATLAS and CMS detectors require ultra-low, stable temperatures to protect their sensitive electronics. Traditional cooling systems rely on synthetic refrigerants like hydrofluorocarbons, which, while effective, have a global warming.",
+    "body": "<p>Os detectores ATLAS e CMS requerem temperaturas ultrabaixas e estáveis ​​para proteger seus componentes eletrônicos sensíveis. Os sistemas de refrigeração tradicionais dependem de refrigerantes sintéticos como os hidrofluorocarbonetos, que, embora eficazes, provocam o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Procurando uma alternativa sustentável, o CERN recorreu ao próprio CO₂, um refrigerante natural com uma grande. A eficiência da engenharia encontra a responsabilidade ambiental: comissionamento do circuito de resfriamento primário de CO₂ do CERN O primeiro sistema de resfriamento primário.</p><p>Ele fornecerá unidades de resfriamento subterrâneas do ATLAS e do CMS a partir da superfície, formando uma cadeia de resfriamento totalmente integrada ao CO 2 Escrito por: Anna. ATLAS CERN e o meio ambiente Comunidade CERN CMS Criogenia Ambiente HiLumi LHC inovação Long Shutdown 3 Notícias Artigos relacionados Ver todas as notícias Nenhuma postagem foi.</p><p>Procurando uma alternativa sustentável, o CERN recorreu ao próprio CO₂, um refrigerante natural com um impacto ambiental muito menor. A jornada do CERN com o resfriamento por CO₂ abrange quase duas décadas.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/efficiency-meets-environmental-responsibility-commissioning-cerns-primary-co%e2%82%82-cooling-circuit/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os detectores ATLAS e CMS requerem temperaturas ultrabaixas e estáveis ​​para proteger seus componentes eletrônicos sensíveis. Os sistemas de refrigeração tradicionais dependem de refrigerantes sintéticos como os hidrofluorocarbonetos, que, embora eficazes, provocam o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Procurando uma alternativa sustentável, o CERN recorreu ao próprio CO₂, um refrigerante natural com uma grande. A eficiência da engenharia encontra a responsabilidade ambiental: comissionamento do circuito de resfriamento primário de CO₂ do CERN O primeiro sistema de resfriamento primário.</p><p>Ele fornecerá unidades de resfriamento subterrâneas do ATLAS e do CMS a partir da superfície, formando uma cadeia de resfriamento totalmente integrada ao CO 2 Escrito por: Anna. ATLAS CERN e o meio ambiente Comunidade CERN CMS Criogenia Ambiente HiLumi LHC inovação Long Shutdown 3 Notícias Artigos relacionados Ver todas as notícias Nenhuma postagem foi.</p><p>Procurando uma alternativa sustentável, o CERN recorreu ao próprio CO₂, um refrigerante natural com um impacto ambiental muito menor. A jornada do CERN com o resfriamento por CO₂ abrange quase duas décadas.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/efficiency-meets-environmental-responsibility-commissioning-cerns-primary-co%e2%82%82-cooling-circuit/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The ATLAS and CMS detectors require ultra-low, stable temperatures to protect their sensitive electronics. Traditional cooling systems rely on synthetic refrigerants like hydrofluorocarbons, which, while effective, have a global warming. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Seeking a sustainable alternative, CERN has turned to CO₂ itself, a natural refrigerant with a far. Engineering Efficiency meets environmental responsibility: commissioning CERN’s primary CO₂ cooling circuit CERN’s first primary CO 2 cooling system was commissioned in May.</p><p>It will supply ATLAS and CMS’s underground cooling units from the surface, forming a fully CO 2 ‑integrated cooling chain Written by: Anna Cook, 09 July, 2026 The ATLAS and CMS. ATLAS CERN and the environment CERN community CMS Cryogenics Environment HiLumi LHC innovation Long Shutdown 3 News Related Articles View all news No posts were found.</p><p>Seeking a sustainable alternative, CERN has turned to CO₂ itself, a natural refrigerant with a far lower environmental impact. CERN’s journey with CO₂ cooling spans nearly two decades.</p><p>It began in 2008 at LHCb with the first Two-Phase Accumulator Controlled Loop (2PACL) CO₂ system, a technology originally designed by Nikhef that circulates liquid CO₂ to maintain. From 2010, CERN’s Detector Technology Group (EP-DT) took over, further developing and deploying upgraded 2PACL CO₂ systems for ATLAS and CMS.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>The primary system works alongside CERN’s 2PACL units, which circulate liquid CO₂ through the innermost layers of the ATLAS and CMS detectors, maintaining the precise thermal. The primary system supplies those units with cooling from the surface, forming a fully CO 2 ‑integrated cooling chain.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/efficiency-meets-environmental-responsibility-commissioning-cerns-primary-co%e2%82%82-cooling-circuit/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os detectores ATLAS e CMS requerem temperaturas ultrabaixas e estáveis ​​para proteger seus componentes eletrônicos sensíveis. Os sistemas de.",
+      "Dado-chave: Procurando uma alternativa sustentável, o CERN recorreu ao próprio CO₂, um refrigerante natural com uma grande [.]",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os detectores ATLAS e CMS requerem temperaturas ultrabaixas e estáveis ​​para proteger seus componentes eletrônicos sensíveis. Os sistemas de.",
+      "Dado-chave: Procurando uma alternativa sustentável, o CERN recorreu ao próprio CO₂, um refrigerante natural com uma grande [.]",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The ATLAS and CMS detectors require ultra-low, stable temperatures to protect their sensitive electronics. Traditional cooling systems rely on.",
+      "Key detail: Seeking a sustainable alternative, CERN has turned to CO₂ itself, a natural refrigerant with a far [.]",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "09 jul 2026",
+    "date_pt": "09 jul 2026",
+    "date_en": "09 Jul 2026",
+    "time": "12h49",
+    "time_pt": "12h49",
+    "time_en": "12:49 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-09T12:49:34+00:00",
+    "lastModifiedIso": "2026-07-09T12:49:34+00:00",
+    "source": "CERN News",
+    "sourceDomain": "home.cern",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "CERN News",
+      "Cosmos Week",
+      "A eficiência encontra a responsabilidade ambiental",
+      "comissionamento do circuito primário de resfriamento de CO₂ do CERN"
+    ],
+    "keywords_pt": [
+      "Física",
+      "CERN News",
+      "Cosmos Week",
+      "A eficiência encontra a responsabilidade ambiental",
+      "comissionamento do circuito primário de resfriamento de CO₂ do CERN"
+    ],
+    "keywords_en": [
+      "Physical",
+      "CERN News",
+      "Cosmos Week",
+      "Efficiency meets environmental responsibility",
+      "commissioning of CERN's primary CO₂ cooling circuit"
+    ],
+    "srcUrl": "https://home.cern/efficiency-meets-environmental-responsibility-commissioning-cerns-primary-co%e2%82%82-cooling-circuit/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=efficiency-meets-environmental-responsibility-commissioning-cern-s-primary-co-cooling-circuit",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=efficiency-meets-environmental-responsibility-commissioning-cern-s-primary-co-cooling-circuit",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=efficiency-meets-environmental-responsibility-commissioning-cern-s-primary-co-cooling-circuit&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 71,
+    "scoreBreakdown": {
+      "source": 86,
+      "evidence": 82,
+      "relevance": 68,
+      "accessibility": 52,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 25,
     "slug": "nasa-invites-media-to-roman-space-telescope-crew-13-launches",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2968,7 +3089,7 @@
     }
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3104,7 +3225,7 @@
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3240,7 +3361,7 @@
     }
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "a-tide-fueled-trove-of-biodiversity-in-guinea-bissau",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3376,7 +3497,7 @@
     }
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "nasa-pushes-new-wing-design-to-find-structural-limits",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -3509,7 +3630,7 @@
     }
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3614,12 +3735,40 @@
     }
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "metallic-waves-on-ancient-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mars_express_spies_metallic_waves_in_mars_s_ancient_highlands/27378598-1-eng-GB/Mars_Express_spies_metallic_waves_in_Mars_s_ancient_highlands_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mars_express_spies_metallic_waves_in_mars_s_ancient_highlands/27378598-1-eng-GB/Mars_Express_spies_metallic_waves_in_Mars_s_ancient_highlands_article.jpg",
+        "caption": "Mars Express visita a cratera Kaiser em Marte. Clique na imagem para ampliar e explorar.",
+        "caption_pt": "Mars Express visita a cratera Kaiser em Marte. Clique na imagem para ampliar e explorar.",
+        "caption_en": "Mars Express visits Kaiser Crater on Mars. Click on the image to zoom in and explore.",
+        "alt": "Mars Express visita a cratera Kaiser em Marte. Clique na imagem para ampliar e explorar.",
+        "alt_pt": "Mars Express visita a cratera Kaiser em Marte. Clique na imagem para ampliar e explorar.",
+        "alt_en": "Mars Express visits Kaiser Crater on Mars. Click on the image to zoom in and explore."
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/topographic_map_of_kaiser_crater_on_mars/27378833-1-eng-GB/Topographic_map_of_Kaiser_Crater_on_Mars_article.jpg",
+        "caption": "Mapa topográfico da cratera Kaiser em Marte",
+        "caption_pt": "Mapa topográfico da cratera Kaiser em Marte",
+        "caption_en": "Topographic map of Kaiser Crater on Mars",
+        "alt": "Mapa topográfico da cratera Kaiser em Marte",
+        "alt_pt": "Mapa topográfico da cratera Kaiser em Marte",
+        "alt_en": "Topographic map of Kaiser Crater on Mars"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/where_on_mars_is_kaiser_crater/27378880-1-eng-GB/Where_on_Mars_is_Kaiser_Crater_article.png",
+        "caption": "Onde em Marte fica a cratera Kaiser?",
+        "caption_pt": "Onde em Marte fica a cratera Kaiser?",
+        "caption_en": "Where on Mars is Kaiser Crater?",
+        "alt": "Onde em Marte fica a cratera Kaiser?",
+        "alt_pt": "Onde em Marte fica a cratera Kaiser?",
+        "alt_en": "Where on Mars is Kaiser Crater?"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Ondas metálicas no antigo Marte",
@@ -3631,9 +3780,9 @@
     "excerpt": "A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande cratera Kaiser de Marte, um campo de dunas antigo e sobrenatural esculpido pelo vento.",
     "excerpt_pt": "A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande cratera Kaiser de Marte, um campo de dunas antigo e sobrenatural esculpido pelo vento.",
     "excerpt_en": "The European Space Agency’s Mars Express has spotted a swathe of metallic-looking waves filling Mars’s large Kaiser Crater, an ancient and otherworldly dune field sculpted by wind.",
-    "body": "<p>A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande cratera Kaiser de Marte, um campo de dunas antigo e sobrenatural esculpido pelo vento. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Metallic_waves_on_ancient_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande cratera Kaiser de Marte, um campo de dunas antigo e sobrenatural esculpido pelo vento. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Metallic_waves_on_ancient_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency’s Mars Express has spotted a swathe of metallic-looking waves filling Mars’s large Kaiser Crater, an ancient and otherworldly dune field sculpted by wind. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Metallic_waves_on_ancient_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande cratera Kaiser de Marte, um campo de dunas antigo e sobrenatural esculpido pelo vento. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A fotografia de Marte deste mês, tirada pela Câmara Estéreo de Alta Resolução (HRSC) a bordo da sonda orbital de Marte da ESA, capta uma das partes mais antigas do Planeta. Situada nas antigas terras altas do sul de Marte, Noachis Terra foi fortemente bombardeada com rochas vindas do espaço ao longo dos últimos quatro mil milhões de anos, e as.</p><p>A metade direita da imagem é dominada por parte do fundo da gigante Cratera Kaiser, uma grande bacia que mede cerca de 180 km de diâmetro e alguns quilómetros de profundidade. Todas estas crateras foram o foco de lançamentos anteriores da Mars Express, e a última tem o nome de Gerhard Neukum: um dos cientistas planetários que fundou a própria missão.</p><p>Estas cristas são dunas de areia que foram moldadas pelos ventos marcianos, podem elevar-se mais de 100 m acima da superfície circundante.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Metallic_waves_on_ancient_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande cratera Kaiser de Marte, um campo de dunas antigo e sobrenatural esculpido pelo vento. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A fotografia de Marte deste mês, tirada pela Câmara Estéreo de Alta Resolução (HRSC) a bordo da sonda orbital de Marte da ESA, capta uma das partes mais antigas do Planeta. Situada nas antigas terras altas do sul de Marte, Noachis Terra foi fortemente bombardeada com rochas vindas do espaço ao longo dos últimos quatro mil milhões de anos, e as.</p><p>A metade direita da imagem é dominada por parte do fundo da gigante Cratera Kaiser, uma grande bacia que mede cerca de 180 km de diâmetro e alguns quilómetros de profundidade. Todas estas crateras foram o foco de lançamentos anteriores da Mars Express, e a última tem o nome de Gerhard Neukum: um dos cientistas planetários que fundou a própria missão.</p><p>Estas cristas são dunas de areia que foram moldadas pelos ventos marcianos, podem elevar-se mais de 100 m acima da superfície circundante.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Metallic_waves_on_ancient_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency’s Mars Express has spotted a swathe of metallic-looking waves filling Mars’s large Kaiser Crater, an ancient and otherworldly dune field sculpted by wind. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. This month’s snapshot of Mars, taken by the High Resolution Stereo Camera (HRSC) aboard ESA’s Mars orbiter, captures one of the oldest parts of the Red Planet: Noachis Terra. Situated in Mars’s ancient southern highlands, Noachis Terra has been heavily bombarded with rocks from space over the past four billion years, and the scars from these collisions.</p><p>The right half of the image is dominated by part of the floor of the giant Kaiser Crater, a large basin that measures about 180 km across and a couple of kilometres deep. All of these craters have been the focus of previous Mars Express releases, and the last is named after Gerhard Neukum: one of the planetary scientists that founded the Mars.</p><p>These ridges are sand dunes that have been moulded by martian winds, they can tower more than 100 m above the surrounding surface. They are the most common type of dune found on Mars and also prevalent in Earth’s deserts (such as Africa’s Sahara and Namib deserts).</p><p>The winds in this part of Mars blow predominantly from the west (top), pushing and moving sand around to form these distinctive wave crests. The sand itself is fine and basaltic in nature, meaning that it’s rich in minerals such as pyroxene and olivine, which are formed by volcanoes, and is constantly in motion.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>This image comes courtesy of the HRSC camera, one of eight instruments aboard Mars Express. Mars Express has been capturing and exploring Mars’s many landscapes since it launched in 2003.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Metallic_waves_on_ancient_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande cratera Kaiser de Marte, um campo de.",
       "Dado-chave: A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande cratera Kaiser de Marte, um campo.",
@@ -3719,7 +3868,7 @@
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "10-000-black-holes-are-missing-but-we-ve-finally-found-1",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -3837,7 +3986,7 @@
     }
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "famous-system-has-a-third-planet-beta-pictoris-d",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3964,7 +4113,7 @@
     }
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "observers-beware-reflect-orbital-s-space-mirrors-approved-for-launch",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -4103,7 +4252,7 @@
     }
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "rogue-neptunes-are-detached-but-not-alone",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4239,7 +4388,7 @@
     }
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "euclid-telescope-finds-quasars-within-700-million-years-of-the-big-bang",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4372,7 +4521,7 @@
     }
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "this-week-s-sky-at-a-glance-july-10-19",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4508,7 +4657,7 @@
     }
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "flex-and-sentinel-3c-arrive-at-europe-s-spaceport",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4644,7 +4793,7 @@
     }
   },
   {
-    "id": 38,
+    "id": 39,
     "slug": "where-venezuela-s-earthquakes-shifted-the-ground",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4777,7 +4926,7 @@
     }
   },
   {
-    "id": 39,
+    "id": 40,
     "slug": "the-northern-cross-find-the-backbone-of-the-milky-way",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4892,124 +5041,6 @@
       "relevance": 80,
       "accessibility": 60,
       "novelty": 55
-    }
-  },
-  {
-    "id": 40,
-    "slug": "coathanger-cluster-this-star-pattern-looks-like-its-name",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2017/07/coathanger-star-cluster-e1562178054418.jpg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Aglomerado de cabide: este padrão de estrela se parece com seu nome",
-    "title_pt": "Aglomerado de cabide: este padrão de estrela se parece com seu nome",
-    "title_en": "Coathanger cluster: This star pattern looks like its name",
-    "sub": "O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do Verão, como sinalização. O aglomerado.",
-    "sub_pt": "O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do Verão, como sinalização. O aglomerado.",
-    "sub_en": "The Coathanger cluster resembles its namesake and is easy to spot with binoculars, using the star Albireo, part of the Summer Triangle, as a signpost. The post Coathanger cluster.",
-    "excerpt": "O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do Verão, como sinalização. O aglomerado pós Coathanger: Este padrão de estrela se parece com o nome que apareceu pela.",
-    "excerpt_pt": "O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do Verão, como sinalização. O aglomerado pós Coathanger: Este padrão de estrela se parece com o nome que apareceu pela.",
-    "excerpt_en": "The Coathanger cluster resembles its namesake and is easy to spot with binoculars, using the star Albireo, part of the Summer Triangle, as a signpost. The post Coathanger cluster: This star pattern looks like its name first appeared on.",
-    "body": "<p>O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do Verão, como sinalização. O aglomerado pós Coathanger: Este padrão de estrela se parece com o nome que apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do Verão, como sinalização. Este padrão de estrela parece ter seu nome apareceu pela primeira vez no EarthSky.</p><p>Em qualquer noite de julho a novembro, se o céu estiver escuro, você pode procurar dentro do famoso Triângulo do Verão um pequeno mas reconhecível aglomerado de estrelas. Dois outros nomes são aglomerado de Brocchi e Collinder 399.</p><p>| Steven Bellavia capturou esta imagem de Nova York em 1º de setembro de 2024 e escreveu: “A Via Láctea, o Triângulo do Verão e uma estrela cadente”. Obrigado, Steven. Albireo pode ajudá-lo a encontrar o Cabide Para encontrar o Cabide, primeiro você precisa encontrar uma estrela um pouco mais fraca: o amado Albireo.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/favorite-star-patterns/coathanger-cluster-brocchis-cluster-collinder-399/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do Verão, como sinalização. O aglomerado pós Coathanger: Este padrão de estrela se parece com o nome que apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do Verão, como sinalização. Este padrão de estrela parece ter seu nome apareceu pela primeira vez no EarthSky.</p><p>Em qualquer noite de julho a novembro, se o céu estiver escuro, você pode procurar dentro do famoso Triângulo do Verão um pequeno mas reconhecível aglomerado de estrelas. Dois outros nomes são aglomerado de Brocchi e Collinder 399.</p><p>| Steven Bellavia capturou esta imagem de Nova York em 1º de setembro de 2024 e escreveu: “A Via Láctea, o Triângulo do Verão e uma estrela cadente”. Obrigado, Steven. Albireo pode ajudá-lo a encontrar o Cabide Para encontrar o Cabide, primeiro você precisa encontrar uma estrela um pouco mais fraca: o amado Albireo.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/favorite-star-patterns/coathanger-cluster-brocchis-cluster-collinder-399/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The Coathanger cluster resembles its namesake and is easy to spot with binoculars, using the star Albireo, part of the Summer Triangle, as a signpost. The post Coathanger cluster: This star pattern looks like its name first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The Coathanger cluster resembles its namesake and is easy to spot with binoculars, using the star Albireo, part of the Summer Triangle, as a signpost. This star pattern looks like its name first appeared on EarthSky.</p><p>On any evening from July until about November, if you have a dark sky, you can look within the famous Summer Triangle for a tiny but recognizable cluster of stars. Two other names are Brocchi’s cluster and Collinder 399.</p><p>| Steven Bellavia captured this image from New York on September 1, 2024, and wrote: “The Milky Way, the Summer Triangle and a shooting star.” Thank you, Steven. Albireo can help you find the Coathanger To find the Coathanger, you first need to find a slightly fainter star: beloved Albireo.</p><p>Our sky chart above shows the stars as they appear from the Northern Hemisphere in middle July around midnight (1 a. m. Because the stars return to the same place in the sky some two hours earlier with each passing month, this sky chart also shows star positions for about 10 p. m.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Daylight time) in mid-August, 8 p. m. Daylight time) in mid-September and 6 p. m (7 p. m daylight time) in mid-October.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/favorite-star-patterns/coathanger-cluster-brocchis-cluster-collinder-399/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do Verão.",
-      "Dado-chave: O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do Verão.",
-      "Dado-chave: O aglomerado Coathanger se assemelha ao seu homônimo e é fácil de localizar com binóculos, usando a estrela Albireo, parte do Triângulo do.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The Coathanger cluster resembles its namesake and is easy to spot with binoculars, using the star Albireo, part of the Summer Triangle, as a.",
-      "Key detail: The Coathanger cluster resembles its namesake and is easy to spot with binoculars, using the star Albireo, part of the Summer Triangle, as a.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 jul 2026",
-    "date_pt": "17 jul 2026",
-    "date_en": "17 Jul 2026",
-    "time": "08h00",
-    "time_pt": "08h00",
-    "time_en": "08:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-17T08:00:56+00:00",
-    "lastModifiedIso": "2026-07-17T08:00:56+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Aglomerado de cabide",
-      "este padrão de estrela se parece com seu nome"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Aglomerado de cabide",
-      "este padrão de estrela se parece com seu nome"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "Hanger chipboard",
-      "this star pattern looks like its name"
-    ],
-    "srcUrl": "https://earthsky.org/favorite-star-patterns/coathanger-cluster-brocchis-cluster-collinder-399/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=coathanger-cluster-this-star-pattern-looks-like-its-name",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=coathanger-cluster-this-star-pattern-looks-like-its-name",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=coathanger-cluster-this-star-pattern-looks-like-its-name&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 72,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 49
     }
   }
 ]

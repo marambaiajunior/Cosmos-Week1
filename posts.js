@@ -40,14 +40,14 @@ window.postsData = [
     "date": "22 jul 2026",
     "date_pt": "22 jul 2026",
     "date_en": "22 Jul 2026",
-    "time": "11h59",
-    "time_pt": "11h59",
-    "time_en": "11:59 UTC",
+    "time": "14h17",
+    "time_pt": "14h17",
+    "time_en": "14:17 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-22T11:59:55.700958+00:00",
-    "lastModifiedIso": "2026-07-22T11:59:55.700958+00:00",
+    "publishedIso": "2026-07-22T14:17:56.211442+00:00",
+    "lastModifiedIso": "2026-07-22T14:17:56.211442+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -148,14 +148,14 @@ window.postsData = [
     "date": "22 jul 2026",
     "date_pt": "22 jul 2026",
     "date_en": "22 Jul 2026",
-    "time": "11h59",
-    "time_pt": "11h59",
-    "time_en": "11:59 UTC",
+    "time": "14h17",
+    "time_pt": "14h17",
+    "time_en": "14:17 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-22T11:59:55.700899+00:00",
-    "lastModifiedIso": "2026-07-22T11:59:55.700899+00:00",
+    "publishedIso": "2026-07-22T14:17:56.211398+00:00",
+    "lastModifiedIso": "2026-07-22T14:17:56.211398+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -253,14 +253,14 @@ window.postsData = [
     "date": "22 jul 2026",
     "date_pt": "22 jul 2026",
     "date_en": "22 Jul 2026",
-    "time": "11h59",
-    "time_pt": "11h59",
-    "time_en": "11:59 UTC",
+    "time": "14h17",
+    "time_pt": "14h17",
+    "time_en": "14:17 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-22T11:59:55.700848+00:00",
-    "lastModifiedIso": "2026-07-22T11:59:55.700848+00:00",
+    "publishedIso": "2026-07-22T14:17:56.211346+00:00",
+    "lastModifiedIso": "2026-07-22T14:17:56.211346+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -358,14 +358,14 @@ window.postsData = [
     "date": "22 jul 2026",
     "date_pt": "22 jul 2026",
     "date_en": "22 Jul 2026",
-    "time": "11h59",
-    "time_pt": "11h59",
-    "time_en": "11:59 UTC",
+    "time": "14h17",
+    "time_pt": "14h17",
+    "time_en": "14:17 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-22T11:59:55.700805+00:00",
-    "lastModifiedIso": "2026-07-22T11:59:55.700805+00:00",
+    "publishedIso": "2026-07-22T14:17:56.211303+00:00",
+    "lastModifiedIso": "2026-07-22T14:17:56.211303+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -463,14 +463,14 @@ window.postsData = [
     "date": "22 jul 2026",
     "date_pt": "22 jul 2026",
     "date_en": "22 Jul 2026",
-    "time": "11h59",
-    "time_pt": "11h59",
-    "time_en": "11:59 UTC",
+    "time": "14h17",
+    "time_pt": "14h17",
+    "time_en": "14:17 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-22T11:59:55.700758+00:00",
-    "lastModifiedIso": "2026-07-22T11:59:55.700758+00:00",
+    "publishedIso": "2026-07-22T14:17:56.211258+00:00",
+    "lastModifiedIso": "2026-07-22T14:17:56.211258+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -551,22 +551,22 @@ window.postsData = [
     "title": "Nossa galáxia virou após uma colisão, dizem os astrônomos",
     "title_pt": "Nossa galáxia virou após uma colisão, dizem os astrônomos",
     "title_en": "Our galaxy flipped after a collision, say astronomers",
-    "sub": "Our galaxy flipped after a collision with a dwarf galaxy 10 billion years ago, changing the Milky Way's evolution, new simulations suggest. The post Our galaxy flipped after a.",
-    "sub_pt": "Our galaxy flipped after a collision with a dwarf galaxy 10 billion years ago, changing the Milky Way's evolution, new simulations suggest. The post Our galaxy flipped after a.",
+    "sub": "A nossa galáxia virou após uma colisão com uma galáxia anã há 10 mil milhões de anos, mudando a evolução da Via Láctea, sugerem novas simulações. A postagem Nossa galáxia virou.",
+    "sub_pt": "A nossa galáxia virou após uma colisão com uma galáxia anã há 10 mil milhões de anos, mudando a evolução da Via Láctea, sugerem novas simulações. A postagem Nossa galáxia virou.",
     "sub_en": "Our galaxy flipped after a collision with a dwarf galaxy 10 billion years ago, changing the Milky Way's evolution, new simulations suggest. The post Our galaxy flipped after a.",
-    "excerpt": "Our galaxy flipped after a collision with a dwarf galaxy 10 billion years ago, changing the Milky Way's evolution, new simulations suggest. The post Our galaxy flipped after a collision, say astronomers first appeared on EarthSky.",
-    "excerpt_pt": "Our galaxy flipped after a collision with a dwarf galaxy 10 billion years ago, changing the Milky Way's evolution, new simulations suggest. The post Our galaxy flipped after a collision, say astronomers first appeared on EarthSky.",
+    "excerpt": "A nossa galáxia virou após uma colisão com uma galáxia anã há 10 mil milhões de anos, mudando a evolução da Via Láctea, sugerem novas simulações. A postagem Nossa galáxia virou após uma colisão, dizem que os astrônomos apareceram pela primeira vez no EarthSky.",
+    "excerpt_pt": "A nossa galáxia virou após uma colisão com uma galáxia anã há 10 mil milhões de anos, mudando a evolução da Via Láctea, sugerem novas simulações. A postagem Nossa galáxia virou após uma colisão, dizem que os astrônomos apareceram pela primeira vez no EarthSky.",
     "excerpt_en": "Our galaxy flipped after a collision with a dwarf galaxy 10 billion years ago, changing the Milky Way's evolution, new simulations suggest. The post Our galaxy flipped after a collision, say astronomers first appeared on EarthSky.",
-    "body": "<p>Our galaxy flipped after a collision with a dwarf galaxy 10 billion years ago, changing the Milky Way&#x27;s evolution, new simulations suggest. The post Our galaxy flipped after a collision, say astronomers first appeared on EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A nossa galáxia virou após uma colisão com uma galáxia anã há 10 mil milhões de anos, mudando a evolução da Via Láctea, sugerem novas simulações. Https: //earthsky. org/upl/2026/07/galaxycollisionflipRASAurigaProjectandThomasTomlinson-540px. mp4 Assista a esta simulação de uma galáxia virada de lado a lado após uma colisão.</p><p>Os astrónomos disseram em 21 de julho de 2026 que este cenário provavelmente aconteceu na nossa própria galáxia, a Via Láctea, há cerca de 10 mil milhões de anos. A nossa galáxia virou após uma colisão, dizem os astrónomos Os astrónomos pensam que há cerca de 10 mil milhões de anos, a nossa galáxia, a Via Láctea, colidiu com outra galáxia.</p><p>E em 21 de julho de 2026, uma equipe de astrônomos no Encontro Nacional de Astronomia da Royal Astronomical Society disse que esta colisão virou o disco da nossa galáxia. A equipa de astrónomos da Universidade de Durham, no Reino Unido, utilizou simulações de supercomputadores para estudar como 25 galáxias como a nossa teriam evoluído ao longo de.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/milky-way-galaxy-flipped-disk-collision-gaia-sausage/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Our galaxy flipped after a collision with a dwarf galaxy 10 billion years ago, changing the Milky Way&#x27;s evolution, new simulations suggest. The post Our galaxy flipped after a collision, say astronomers first appeared on EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A nossa galáxia virou após uma colisão com uma galáxia anã há 10 mil milhões de anos, mudando a evolução da Via Láctea, sugerem novas simulações. Https: //earthsky. org/upl/2026/07/galaxycollisionflipRASAurigaProjectandThomasTomlinson-540px. mp4 Assista a esta simulação de uma galáxia virada de lado a lado após uma colisão.</p><p>Os astrónomos disseram em 21 de julho de 2026 que este cenário provavelmente aconteceu na nossa própria galáxia, a Via Láctea, há cerca de 10 mil milhões de anos. A nossa galáxia virou após uma colisão, dizem os astrónomos Os astrónomos pensam que há cerca de 10 mil milhões de anos, a nossa galáxia, a Via Láctea, colidiu com outra galáxia.</p><p>E em 21 de julho de 2026, uma equipe de astrônomos no Encontro Nacional de Astronomia da Royal Astronomical Society disse que esta colisão virou o disco da nossa galáxia. A equipa de astrónomos da Universidade de Durham, no Reino Unido, utilizou simulações de supercomputadores para estudar como 25 galáxias como a nossa teriam evoluído ao longo de.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/milky-way-galaxy-flipped-disk-collision-gaia-sausage/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body": "<p>A nossa galáxia virou após uma colisão com uma galáxia anã há 10 mil milhões de anos, mudando a evolução da Via Láctea, sugerem novas simulações. A postagem Nossa galáxia virou após uma colisão, dizem que os astrônomos apareceram pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A nossa galáxia virou após uma colisão com uma galáxia anã há 10 mil milhões de anos, mudando a evolução da Via Láctea, sugerem novas simulações. Https: //earthsky. org/upl/2026/07/galaxycollisionflipRASAurigaProjectandThomasTomlinson-540px. mp4 Assista a esta simulação de uma galáxia virada de lado a lado após uma colisão.</p><p>Os astrónomos disseram em 21 de julho de 2026 que este cenário provavelmente aconteceu na nossa própria galáxia, a Via Láctea, há cerca de 10 mil milhões de anos. A nossa galáxia virou após uma colisão, dizem os astrónomos Os astrónomos pensam que há cerca de 10 mil milhões de anos, a nossa galáxia, a Via Láctea, colidiu com outra galáxia.</p><p>E em 21 de julho de 2026, uma equipe de astrônomos no Encontro Nacional de Astronomia da Royal Astronomical Society disse que esta colisão virou o disco da nossa galáxia. A equipa de astrónomos da Universidade de Durham, no Reino Unido, utilizou simulações de supercomputadores para estudar como 25 galáxias como a nossa teriam evoluído ao longo de.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/milky-way-galaxy-flipped-disk-collision-gaia-sausage/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A nossa galáxia virou após uma colisão com uma galáxia anã há 10 mil milhões de anos, mudando a evolução da Via Láctea, sugerem novas simulações. A postagem Nossa galáxia virou após uma colisão, dizem que os astrônomos apareceram pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A nossa galáxia virou após uma colisão com uma galáxia anã há 10 mil milhões de anos, mudando a evolução da Via Láctea, sugerem novas simulações. Https: //earthsky. org/upl/2026/07/galaxycollisionflipRASAurigaProjectandThomasTomlinson-540px. mp4 Assista a esta simulação de uma galáxia virada de lado a lado após uma colisão.</p><p>Os astrónomos disseram em 21 de julho de 2026 que este cenário provavelmente aconteceu na nossa própria galáxia, a Via Láctea, há cerca de 10 mil milhões de anos. A nossa galáxia virou após uma colisão, dizem os astrónomos Os astrónomos pensam que há cerca de 10 mil milhões de anos, a nossa galáxia, a Via Láctea, colidiu com outra galáxia.</p><p>E em 21 de julho de 2026, uma equipe de astrônomos no Encontro Nacional de Astronomia da Royal Astronomical Society disse que esta colisão virou o disco da nossa galáxia. A equipa de astrónomos da Universidade de Durham, no Reino Unido, utilizou simulações de supercomputadores para estudar como 25 galáxias como a nossa teriam evoluído ao longo de.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/milky-way-galaxy-flipped-disk-collision-gaia-sausage/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>Our galaxy flipped after a collision with a dwarf galaxy 10 billion years ago, changing the Milky Way&#x27;s evolution, new simulations suggest. The post Our galaxy flipped after a collision, say astronomers first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Our galaxy flipped after a collision with a dwarf galaxy 10 billion years ago, changing the Milky Way&#x27;s evolution, new simulations suggest. Https: //earthsky. org/upl/2026/07/galaxycollisionflipRASAurigaProjectandThomasTomlinson-540px. mp4 Watch this simulation of a galaxy flipped from edge-on to face-on after a.</p><p>Astronomers said on July 21, 2026, that this scenario likely happened to our own Milky Way galaxy some 10 billion years ago. Our galaxy flipped after a collision, say astronomers Astronomers think that some 10 billion years ago, our Milky Way galaxy collided with another galaxy, which they’ve dubbed the.</p><p>And on July 21, 2026, a team of astronomers at the Royal Astronomical Society’s National Astronomy Meeting said that this collision flipped the disk of our galaxy. The team of astronomers, from Durham University in the U. K, used supercomputer simulations to study how 25 galaxies like our own would have evolved over billions of years.</p><p>The simulations helped explain how the collision and aftermath resulted in our galaxy’s disk flipping by more than 90 degrees. First, these simulated galaxies experienced a major head-on merger with another galaxy during their evolution.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Well, after the collision some 10 to 11 billion years ago, our galaxy absorbed the stars of the Gaia Sausage. Image via ESA (artist’s impression and composition)/ Koppelman, Villalobos and Helmi (simulation)/ NASA/ESA/Hubble (galaxy image)/ RAS.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/milky-way-galaxy-flipped-disk-collision-gaia-sausage/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Our galaxy flipped after a collision with a dwarf galaxy 10 billion years ago, changing the Milky Way's evolution, new simulations suggest. The post.",
+      "Ponto central: A nossa galáxia virou após uma colisão com uma galáxia anã há 10 mil milhões de anos, mudando a evolução da Via Láctea, sugerem novas simulações. A.",
       "Dado-chave: A nossa galáxia virou após uma colisão com uma galáxia anã há 10 mil milhões de anos, mudando a evolução da Via Láctea, sugerem novas simulações.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Our galaxy flipped after a collision with a dwarf galaxy 10 billion years ago, changing the Milky Way's evolution, new simulations suggest. The post.",
+      "Ponto central: A nossa galáxia virou após uma colisão com uma galáxia anã há 10 mil milhões de anos, mudando a evolução da Via Láctea, sugerem novas simulações. A.",
       "Dado-chave: A nossa galáxia virou após uma colisão com uma galáxia anã há 10 mil milhões de anos, mudando a evolução da Via Láctea, sugerem novas simulações.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
@@ -618,7 +618,7 @@ window.postsData = [
       "dizem os astrônomos"
     ],
     "keywords_en": [
-      "Ciências da Terra",
+      "Earth Sciences",
       "EarthSky",
       "Cosmos Week",
       "Our galaxy flipped over after a collision",
@@ -649,10 +649,10 @@ window.postsData = [
   },
   {
     "id": 7,
-    "slug": "find-m4-an-easy-to-spot-globular-cluster-near-antares",
+    "slug": "a-rocket-will-hit-the-moon-on-august-5-newest-updates-here",
     "cat": "Ciências da Terra",
     "catCls": "terra",
-    "img": "https://earthsky.org/upl/2021/07/Scorpius-M4-Antares-Shuala-Lesath-e1625522820175.jpeg",
+    "img": "https://earthsky.org/upl/2026/04/Falcon-9-impact-with-moon-Aug-5-2026-Bill-Gray.png",
     "inline_images": [
       {
         "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
@@ -666,44 +666,44 @@ window.postsData = [
     ],
     "video": null,
     "audio": null,
-    "title": "Encontre M4: um aglomerado globular fácil de detectar perto de Antares",
-    "title_pt": "Encontre M4: um aglomerado globular fácil de detectar perto de Antares",
-    "title_en": "Find M4: An easy to spot globular cluster near Antares",
-    "sub": "Encontre M4, um dos aglomerados estelares globulares mais fáceis de detectar. Ele está localizado próximo à Antares avermelhada, a estrela mais brilhante de Escorpião, o.",
-    "sub_pt": "Encontre M4, um dos aglomerados estelares globulares mais fáceis de detectar. Ele está localizado próximo à Antares avermelhada, a estrela mais brilhante de Escorpião, o.",
-    "sub_en": "Find M4, one of the easiest globular star clusters to spot. It's located just next to reddish Antares, the brightest star in Scorpius the Scorpion. The post Find M4: An easy to.",
-    "excerpt": "Encontre M4, um dos aglomerados estelares globulares mais fáceis de detectar. Ele está localizado próximo à Antares avermelhada, a estrela mais brilhante de Escorpião, o Escorpião. O post Encontre M4: Um aglomerado globular fácil de localizar perto de Antares.",
-    "excerpt_pt": "Encontre M4, um dos aglomerados estelares globulares mais fáceis de detectar. Ele está localizado próximo à Antares avermelhada, a estrela mais brilhante de Escorpião, o Escorpião. O post Encontre M4: Um aglomerado globular fácil de localizar perto de Antares.",
-    "excerpt_en": "Find M4, one of the easiest globular star clusters to spot. It's located just next to reddish Antares, the brightest star in Scorpius the Scorpion. The post Find M4: An easy to spot globular cluster near Antares first appeared on EarthSky.",
-    "body": "<p>Encontre M4, um dos aglomerados estelares globulares mais fáceis de detectar. Ele está localizado próximo à Antares avermelhada, a estrela mais brilhante de Escorpião, o Escorpião. O post Encontre M4: Um aglomerado globular fácil de localizar perto de Antares apareceu pela. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Um aglomerado globular fácil de localizar perto de Antares apareceu pela primeira vez no EarthSky. M4 brilha com magnitude +5,9, então pode ser visível a olho nu como uma mancha tênue no céu sob céus muito escuros.</p><p>O astrônomo e fotógrafo Fred Espenak capturou esta imagem de Messier 4, com Antares à sua esquerda, usando um pequeno telescópio. Encontre primeiro o M4 com binóculos Se você nunca encontrou um objeto do céu profundo antes, o M4 é um ótimo lugar para começar.</p><p>As noites de verão do Hemisfério Norte, ou as noites de inverno do Hemisfério Sul, são sua melhor aposta para capturar o M4. Antares and M4 fit inside the same binocular field of view, with M4 appearing a bit more than 1 degree to the west of Antares.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/clusters-nebulae-galaxies/find-m4-a-globular-cluster-by-the-scorpions-heart/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Encontre M4, um dos aglomerados estelares globulares mais fáceis de detectar. Ele está localizado próximo à Antares avermelhada, a estrela mais brilhante de Escorpião, o Escorpião. O post Encontre M4: Um aglomerado globular fácil de localizar perto de Antares apareceu pela. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Um aglomerado globular fácil de localizar perto de Antares apareceu pela primeira vez no EarthSky. M4 brilha com magnitude +5,9, então pode ser visível a olho nu como uma mancha tênue no céu sob céus muito escuros.</p><p>O astrônomo e fotógrafo Fred Espenak capturou esta imagem de Messier 4, com Antares à sua esquerda, usando um pequeno telescópio. Encontre primeiro o M4 com binóculos Se você nunca encontrou um objeto do céu profundo antes, o M4 é um ótimo lugar para começar.</p><p>As noites de verão do Hemisfério Norte, ou as noites de inverno do Hemisfério Sul, são sua melhor aposta para capturar o M4. Antares and M4 fit inside the same binocular field of view, with M4 appearing a bit more than 1 degree to the west of Antares.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/clusters-nebulae-galaxies/find-m4-a-globular-cluster-by-the-scorpions-heart/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Find M4, one of the easiest globular star clusters to spot. It&#x27;s located just next to reddish Antares, the brightest star in Scorpius the Scorpion. The post Find M4: An easy to spot globular cluster near Antares first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. An easy to spot globular cluster near Antares first appeared on EarthSky. M4 shines at magnitude +5.9, so it might just be visible to the unaided eye as a faint smudge on the sky under very dark skies.</p><p>Astronomer and photographer Fred Espenak captured this image of Messier 4, with Antares to its left, using a small telescope. Find M4 in binoculars first If you’ve never found a deep-sky object on your own before, M4 is a great place to start.</p><p>Northern Hemisphere summer evenings, or Southern Hemisphere winter evenings, are your best bet for catching M4. Antares and M4 fit inside the same binocular field of view, with M4 appearing a bit more than 1 degree to the west of Antares.</p><p>Charles Messier (1730-1817), a French astronomer, compiled the Messier catalog of deep sky objects. The science of M4 Today, we know that M4 is a globular star cluster.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>At about 5,500 light-years from Earth, M4 is the closest globular cluster to us. Unlike open star clusters, such as the Pleiades and the Hyades, the Milky Way galaxy’s 150 or so known globular star clusters are not part of the galactic disk.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/clusters-nebulae-galaxies/find-m4-a-globular-cluster-by-the-scorpions-heart/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Um foguete atingirá a lua em 5 de agosto: atualizações mais recentes aqui!",
+    "title_pt": "Um foguete atingirá a lua em 5 de agosto: atualizações mais recentes aqui!",
+    "title_en": "A rocket will hit the moon on August 5: Newest updates here!",
+    "sub": "Um foguete Falcon 9 atingirá a Lua às 1h35. m. CDT em 5 de agosto de 2026. Quem pode ver? E o que você pode ver? Respostas aqui. O post Um foguete atingirá a lua em 5 de agosto.",
+    "sub_pt": "Um foguete Falcon 9 atingirá a Lua às 1h35. m. CDT em 5 de agosto de 2026. Quem pode ver? E o que você pode ver? Respostas aqui. O post Um foguete atingirá a lua em 5 de agosto.",
+    "sub_en": "A Falcon 9 rocket will hit the moon at 1: 35 a. m. CDT on August 5, 2026. Who can see it? And what might you see? Answers here. The post A rocket will hit the moon on August 5.",
+    "excerpt": "Um foguete Falcon 9 atingirá a Lua às 1h35. m. CDT em 5 de agosto de 2026. Quem pode ver? E o que você pode ver? Respostas aqui. O post Um foguete atingirá a lua em 5 de agosto: atualizações mais recentes aqui! apareceu pela primeira vez no EarthSky.",
+    "excerpt_pt": "Um foguete Falcon 9 atingirá a Lua às 1h35. m. CDT em 5 de agosto de 2026. Quem pode ver? E o que você pode ver? Respostas aqui. O post Um foguete atingirá a lua em 5 de agosto: atualizações mais recentes aqui! apareceu pela primeira vez no EarthSky.",
+    "excerpt_en": "A Falcon 9 rocket will hit the moon at 1: 35 a. m. CDT on August 5, 2026. Who can see it? And what might you see? Answers here. The post A rocket will hit the moon on August 5: Newest updates here! first appeared on EarthSky.",
+    "body": "<p>Um foguete Falcon 9 atingirá a Lua às 1h35. m. CDT em 5 de agosto de 2026. Quem pode ver? E o que você pode ver? Respostas aqui. O post Um foguete atingirá a lua em 5 de agosto: atualizações mais recentes aqui! apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Um foguete atingirá a lua em 5 de agosto: atualizações mais recentes aqui. O local onde o corpo do foguete do estágio superior Falcon 9 colidirá com a lua em 5 de agosto de 2026.</p><p>Foguete Falcon atingirá a Lua em 5 de agosto. Em janeiro de 2025, um foguete Falcon 9 lançou duas missões em direção à Lua: Blue Ghost e Hakuto-R. Mas agora, diz Bill Gray, um prolífico rastreador de objetos próximos à Terra, o Falcon 9 está em rota de colisão com a Lua.</p><p>As estimativas atuais são de que o estágio superior atingirá a Lua à 1h35. E agora, em 17 de julho de 2026, foi publicado um novo artigo com detalhes sobre o planejamento de observações para a próxima colisão.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/falcon-rocket-will-hit-the-moon-august-5/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Um foguete Falcon 9 atingirá a Lua às 1h35. m. CDT em 5 de agosto de 2026. Quem pode ver? E o que você pode ver? Respostas aqui. O post Um foguete atingirá a lua em 5 de agosto: atualizações mais recentes aqui! apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Um foguete atingirá a lua em 5 de agosto: atualizações mais recentes aqui. O local onde o corpo do foguete do estágio superior Falcon 9 colidirá com a lua em 5 de agosto de 2026.</p><p>Foguete Falcon atingirá a Lua em 5 de agosto. Em janeiro de 2025, um foguete Falcon 9 lançou duas missões em direção à Lua: Blue Ghost e Hakuto-R. Mas agora, diz Bill Gray, um prolífico rastreador de objetos próximos à Terra, o Falcon 9 está em rota de colisão com a Lua.</p><p>As estimativas atuais são de que o estágio superior atingirá a Lua à 1h35. E agora, em 17 de julho de 2026, foi publicado um novo artigo com detalhes sobre o planejamento de observações para a próxima colisão.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/falcon-rocket-will-hit-the-moon-august-5/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A Falcon 9 rocket will hit the moon at 1: 35 a. m. CDT on August 5, 2026. Who can see it? And what might you see? Answers here. The post A rocket will hit the moon on August 5: Newest updates here! first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The post A rocket will hit the moon on August 5: Newest updates here. The spot where a Falcon 9 upper stage rocket body will collide with the moon on August 5, 2026.</p><p>Falcon rocket will hit the moon on August 5 In January 2025, a Falcon 9 rocket launched two missions toward the moon: Blue Ghost and Hakuto-R. But now, says Bill Gray, a prolific tracker of near-Earth objects, the Falcon 9 is on a collision course with the moon.</p><p>Current estimates are that the upper stage will hit the moon at 1: 35 a. m. And now, on July 17, 2026, a new paper has come out with details on planning observations for the upcoming collision.</p><p>Back in 2022, Bill Gray also predicted a rocket impact with the moon. There was a little confusion about where the rocket came from, but the space junk did indeed hit the moon on March 4, 2022.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>A rocket body struck the moon on March 4, 2022, near Hertzsprung crater. A speeding object Gray estimates the space junk will hit the moon at about 1.51 miles (2.43 kilometers) a second.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/falcon-rocket-will-hit-the-moon-august-5/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Encontre M4, um dos aglomerados estelares globulares mais fáceis de detectar. Ele está localizado próximo à Antares avermelhada, a estrela mais.",
-      "Dado-chave: Um aglomerado globular fácil de localizar perto de Antares apareceu pela primeira vez no EarthSky.",
+      "Ponto central: Um foguete Falcon 9 atingirá a Lua às 1h35. m. CDT em 5 de agosto de 2026. Quem pode ver? E o que você pode ver? Respostas aqui. O post Um foguete.",
+      "Dado-chave: O post Um foguete atingirá a lua em 5 de agosto: atualizações mais recentes aqui!",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Encontre M4, um dos aglomerados estelares globulares mais fáceis de detectar. Ele está localizado próximo à Antares avermelhada, a estrela mais.",
-      "Dado-chave: Um aglomerado globular fácil de localizar perto de Antares apareceu pela primeira vez no EarthSky.",
+      "Ponto central: Um foguete Falcon 9 atingirá a Lua às 1h35. m. CDT em 5 de agosto de 2026. Quem pode ver? E o que você pode ver? Respostas aqui. O post Um foguete.",
+      "Dado-chave: O post Um foguete atingirá a lua em 5 de agosto: atualizações mais recentes aqui!",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: Find M4, one of the easiest globular star clusters to spot. It's located just next to reddish Antares, the brightest star in Scorpius the Scorpion.",
-      "Key detail: An easy to spot globular cluster near Antares first appeared on EarthSky.",
+      "Core point: A Falcon 9 rocket will hit the moon at 1: 35 a. m. CDT on August 5, 2026. Who can see it? And what might you see? Answers here. The post A rocket.",
+      "Key detail: The post A rocket will hit the moon on August 5: Newest updates here!",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "22 jul 2026",
     "date_pt": "22 jul 2026",
     "date_en": "22 Jul 2026",
-    "time": "10h07",
-    "time_pt": "10h07",
-    "time_en": "10:07 UTC",
+    "time": "11h45",
+    "time_pt": "11h45",
+    "time_en": "11:45 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-22T10:07:00+00:00",
-    "lastModifiedIso": "2026-07-22T10:07:00+00:00",
+    "publishedIso": "2026-07-22T11:45:56+00:00",
+    "lastModifiedIso": "2026-07-22T11:45:56+00:00",
     "source": "EarthSky",
     "sourceDomain": "earthsky.org",
     "sourceType": "agency",
@@ -725,27 +725,27 @@ window.postsData = [
       "Ciências da Terra",
       "EarthSky",
       "Cosmos Week",
-      "Encontre M4",
-      "um aglomerado globular fácil de detectar perto de Antares"
+      "Um foguete atingirá a lua em 5 de agosto",
+      "atualizações mais recentes aqui!"
     ],
     "keywords_pt": [
       "Ciências da Terra",
       "EarthSky",
       "Cosmos Week",
-      "Encontre M4",
-      "um aglomerado globular fácil de detectar perto de Antares"
+      "Um foguete atingirá a lua em 5 de agosto",
+      "atualizações mais recentes aqui!"
     ],
     "keywords_en": [
-      "Ciências da Terra",
+      "Earth Sciences",
       "EarthSky",
       "Cosmos Week",
-      "Find M4",
-      "an easy-to-spot globular cluster near Antares"
+      "A rocket will hit the moon on August 5",
+      "Latest updates here!"
     ],
-    "srcUrl": "https://earthsky.org/clusters-nebulae-galaxies/find-m4-a-globular-cluster-by-the-scorpions-heart/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=find-m4-an-easy-to-spot-globular-cluster-near-antares",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=find-m4-an-easy-to-spot-globular-cluster-near-antares",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=find-m4-an-easy-to-spot-globular-cluster-near-antares&lang=en",
+    "srcUrl": "https://earthsky.org/space/falcon-rocket-will-hit-the-moon-august-5/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=a-rocket-will-hit-the-moon-on-august-5-newest-updates-here",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=a-rocket-will-hit-the-moon-on-august-5-newest-updates-here",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=a-rocket-will-hit-the-moon-on-august-5-newest-updates-here&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -756,11 +756,11 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 73,
+    "score": 68,
     "scoreBreakdown": {
       "source": 72,
       "evidence": 82,
-      "relevance": 80,
+      "relevance": 62,
       "accessibility": 60,
       "novelty": 55
     }
@@ -793,9 +793,9 @@ window.postsData = [
     "excerpt": "A região da central elétrica AR4493 disparou 23 dos 24 sinalizadores do dia, incluindo dois sinalizadores M. Com complexidade máxima, provavelmente tem mais coisas reservadas! As notícias pós-Sol: 23 erupções da nova região poderosa de manchas solares!.",
     "excerpt_pt": "A região da central elétrica AR4493 disparou 23 dos 24 sinalizadores do dia, incluindo dois sinalizadores M. Com complexidade máxima, provavelmente tem mais coisas reservadas! As notícias pós-Sol: 23 erupções da nova região poderosa de manchas solares!.",
     "excerpt_en": "Powerhouse region AR4493 fired 23 of the day's 24 flares, including two M flares. With max complexity, it likely has more in store! The post Sun news: 23 flares from new powerhouse sunspot region! first appeared on EarthSky.",
-    "body": "<p>A região da central elétrica AR4493 disparou 23 dos 24 sinalizadores do dia, incluindo dois sinalizadores M. Com complexidade máxima, provavelmente tem mais coisas reservadas! As notícias pós-Sol: 23 erupções da nova região poderosa de manchas solares! apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 23 erupções da nova região poderosa de manchas solares. 23 explosões da nova região poderosa de manchas solares.</p><p>No último dia, forneceu quase toda a atividade de explosão observada no disco solar observado na Terra. O lado do nosso sol visto pela Terra mostra 4 regiões ativas numeradas hoje.</p><p>Os observadores não detectaram ejeções de massa coronal (CMEs) direcionadas à Terra nas imagens coronográficas disponíveis no último dia. O campo magnético da Terra permaneceu calmo a ativo durante este período, com valores de Kp de apenas 2, 4.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A região da central elétrica AR4493 disparou 23 dos 24 sinalizadores do dia, incluindo dois sinalizadores M. Com complexidade máxima, provavelmente tem mais coisas reservadas! As notícias pós-Sol: 23 erupções da nova região poderosa de manchas solares! apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 23 erupções da nova região poderosa de manchas solares. 23 explosões da nova região poderosa de manchas solares.</p><p>No último dia, forneceu quase toda a atividade de explosão observada no disco solar observado na Terra. O lado do nosso sol visto pela Terra mostra 4 regiões ativas numeradas hoje.</p><p>Os observadores não detectaram ejeções de massa coronal (CMEs) direcionadas à Terra nas imagens coronográficas disponíveis no último dia. O campo magnético da Terra permaneceu calmo a ativo durante este período, com valores de Kp de apenas 2, 4.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Powerhouse region AR4493 fired 23 of the day&#x27;s 24 flares, including two M flares. With max complexity, it likely has more in store! The post Sun news: 23 flares from new powerhouse sunspot region! first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. 23 flares from new powerhouse sunspot region. Over the past day, it provided nearly all the flare activity observed from the Earth-viewed solar disk.</p><p>The Earth-viewed side of our sun shows 4 numbered active regions today. Observers detected no Earth-directed coronal mass ejections ( CMEs ) in available coronagraph imagery over the past day.</p><p>Earth’s magnetic field stayed quiet-to-active during this period, with Kp values of just 2, 4. New sunspot region arrives with a bang A lull on the sun has been shattered by a volley of 3 M flares from new sunspot region AR4493.</p><p>Past 24 hours on the sun (11 UTC July 20, 11 UTC July 21) Flare activity: Solar activity increased from low to moderate levels over the past day thanks to three M flares. Currently, the sun shows 4 numbered active regions on the side we see from Earth.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Earth’s magnetic field stayed quiet-to-unsettled during this period, with Kp values of just 1, 3. These four panels show the fiery debut of new active region AR4493.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A região da central elétrica AR4493 disparou 23 dos 24 sinalizadores do dia, incluindo dois sinalizadores M. Com complexidade máxima, provavelmente tem mais coisas reservadas! As notícias pós-Sol: 23 erupções da nova região poderosa de manchas solares! apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 23 erupções da nova região poderosa de manchas solares. 23 explosões da nova região poderosa de manchas solares.</p><p>No último dia, forneceu quase toda a atividade de explosão observada no disco solar observado na Terra. Os observadores não detectaram ejeções de massa coronal (CMEs) direcionadas à Terra nas imagens coronográficas disponíveis no último dia.</p><p>O campo magnético da Terra permaneceu calmo ou ativo durante este período, com valores de Kp de apenas 2, 4. Previsão Sol-Terra Previsão de atividade de flare: Os meteorologistas esperam níveis baixos a moderados, com maiores chances de atividade de flare de classe M (moderada).</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A região da central elétrica AR4493 disparou 23 dos 24 sinalizadores do dia, incluindo dois sinalizadores M. Com complexidade máxima, provavelmente tem mais coisas reservadas! As notícias pós-Sol: 23 erupções da nova região poderosa de manchas solares! apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 23 erupções da nova região poderosa de manchas solares. 23 explosões da nova região poderosa de manchas solares.</p><p>No último dia, forneceu quase toda a atividade de explosão observada no disco solar observado na Terra. Os observadores não detectaram ejeções de massa coronal (CMEs) direcionadas à Terra nas imagens coronográficas disponíveis no último dia.</p><p>O campo magnético da Terra permaneceu calmo ou ativo durante este período, com valores de Kp de apenas 2, 4. Previsão Sol-Terra Previsão de atividade de flare: Os meteorologistas esperam níveis baixos a moderados, com maiores chances de atividade de flare de classe M (moderada).</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Powerhouse region AR4493 fired 23 of the day&#x27;s 24 flares, including two M flares. With max complexity, it likely has more in store! The post Sun news: 23 flares from new powerhouse sunspot region! first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. 23 flares from new powerhouse sunspot region. Over the past day, it provided nearly all the flare activity observed from the Earth-viewed solar disk.</p><p>Observers detected no Earth-directed coronal mass ejections ( CMEs ) in available coronagraph imagery over the past day. Earth’s magnetic field stayed quiet to active during this period, with Kp values of just 2, 4.</p><p>Sun, Earth forecast Flare activity forecast: Forecasters expect low-to-moderate levels, with increased chances of M-class (moderate) flare activity. New sunspot region arrives with a bang A lull on the sun has been shattered by a volley of 3 M flares from new sunspot region AR4493.</p><p>Past 24 hours on the sun (11 UTC July 20, 11 UTC July 21) Flare activity: Solar activity increased from low to moderate levels over the past day thanks to three M flares. Currently, the sun shows 4 numbered active regions on the side we see from Earth.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Earth’s magnetic field stayed quiet-to-unsettled during this period, with Kp values of just 1, 3. These four panels show the fiery debut of new active region AR4493.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A região da central elétrica AR4493 disparou 23 dos 24 sinalizadores do dia, incluindo dois sinalizadores M. Com complexidade máxima, provavelmente.",
       "Dado-chave: 23 erupções da nova região poderosa de manchas solares!",
@@ -854,11 +854,11 @@ window.postsData = [
       "23 explosões da nova região poderosa de manchas solares!"
     ],
     "keywords_en": [
-      "Ciências da Terra",
+      "Earth Sciences",
       "EarthSky",
       "Cosmos Week",
       "Sun News",
-      "23 explosões da nova região poderosa de manchas solares!"
+      "23 explosions from the powerful new sunspot region!"
     ],
     "srcUrl": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-23-flares-from-new-powerhouse-sunspot-region",
@@ -929,8 +929,8 @@ window.postsData = [
     "excerpt": "Um robô espacial de dois braços decolou em uma operação de salvamento privada na terça-feira para colocar jetpacks que prolongam a vida em satélites antigos com pouco combustível a milhares de quilômetros de altura.",
     "excerpt_pt": "Um robô espacial de dois braços decolou em uma operação de salvamento privada na terça-feira para colocar jetpacks que prolongam a vida em satélites antigos com pouco combustível a milhares de quilômetros de altura.",
     "excerpt_en": "A two-armed space robot blasted off on a private salvage operation Tuesday to slap life-extending jetpacks on old satellites running low on fuel thousands of miles up.",
-    "body": "<p>Um robô espacial de dois braços decolou em uma operação de salvamento privada na terça-feira para colocar jetpacks que prolongam a vida em satélites antigos com pouco combustível a milhares de quilômetros de altura. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Esta imagem do vídeo fornecido pela SpaceX.</p><p>É a segunda missão de poupança de satélites a ser lançada este mês, tudo parte de um esforço crescente e de poupança de dinheiro para manter a nave espacial a funcionar o maior. Another company&#x27;s three-armed spacecraft rocketed into orbit on July 3 to boost NASA&#x27;s Swift Observatory so it doesn&#x27;t crash to Earth this fall.</p><p>Launched by SpaceX, Northrop Grumman&#x27;s mission robotic vehicle, dubbed MRV, and its jetpacks will spend the next year angling into the proper orbit 22,300 miles (36,000. Hundreds of satellites orbit at this so-called geosynchronous orbit, where they match the speed of Earth&#x27;s rotation and keep to the same part of the sky for continuous coverage.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-private-mission-life-gas-communication.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Um robô espacial de dois braços decolou em uma operação de salvamento privada na terça-feira para colocar jetpacks que prolongam a vida em satélites antigos com pouco combustível a milhares de quilômetros de altura. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Esta imagem do vídeo fornecido pela SpaceX.</p><p>É a segunda missão de poupança de satélites a ser lançada este mês, tudo parte de um esforço crescente e de poupança de dinheiro para manter a nave espacial a funcionar o maior. Another company&#x27;s three-armed spacecraft rocketed into orbit on July 3 to boost NASA&#x27;s Swift Observatory so it doesn&#x27;t crash to Earth this fall.</p><p>Launched by SpaceX, Northrop Grumman&#x27;s mission robotic vehicle, dubbed MRV, and its jetpacks will spend the next year angling into the proper orbit 22,300 miles (36,000. Hundreds of satellites orbit at this so-called geosynchronous orbit, where they match the speed of Earth&#x27;s rotation and keep to the same part of the sky for continuous coverage.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-private-mission-life-gas-communication.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body": "<p>Um robô espacial de dois braços decolou em uma operação de salvamento privada na terça-feira para colocar jetpacks que prolongam a vida em satélites antigos com pouco combustível a milhares de quilômetros de altura. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Esta imagem do vídeo fornecido pela SpaceX.</p><p>É a segunda missão de poupança de satélites a ser lançada este mês, tudo parte de um esforço crescente e de poupança de dinheiro para manter a nave espacial a funcionar o maior. A espaçonave de três braços de outra empresa entrou em órbita em 3 de julho para impulsionar o Observatório Swift da NASA, para que não caia na Terra neste outono.</p><p>Lançado pela SpaceX, o veículo robótico de missão da Northrop Grumman, apelidado de MRV, e seus jetpacks passarão o próximo ano entrando na órbita adequada, 22.300 milhas (36.000. Centenas de satélites orbitam nesta chamada órbita geossíncrona, onde coincidem com a velocidade de rotação da Terra e se mantêm na mesma parte do céu para uma cobertura contínua.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-private-mission-life-gas-communication.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Um robô espacial de dois braços decolou em uma operação de salvamento privada na terça-feira para colocar jetpacks que prolongam a vida em satélites antigos com pouco combustível a milhares de quilômetros de altura. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Esta imagem do vídeo fornecido pela SpaceX.</p><p>É a segunda missão de poupança de satélites a ser lançada este mês, tudo parte de um esforço crescente e de poupança de dinheiro para manter a nave espacial a funcionar o maior. A espaçonave de três braços de outra empresa entrou em órbita em 3 de julho para impulsionar o Observatório Swift da NASA, para que não caia na Terra neste outono.</p><p>Lançado pela SpaceX, o veículo robótico de missão da Northrop Grumman, apelidado de MRV, e seus jetpacks passarão o próximo ano entrando na órbita adequada, 22.300 milhas (36.000. Centenas de satélites orbitam nesta chamada órbita geossíncrona, onde coincidem com a velocidade de rotação da Terra e se mantêm na mesma parte do céu para uma cobertura contínua.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-private-mission-life-gas-communication.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>A two-armed space robot blasted off on a private salvage operation Tuesday to slap life-extending jetpacks on old satellites running low on fuel thousands of miles up. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source This image from video provided by SpaceX shows a Falcon 9.</p><p>It&#x27;s the second satellite-saving mission to launch this month, all part of a growing, money-saving effort to keep spacecraft running as long as possible. Another company&#x27;s three-armed spacecraft rocketed into orbit on July 3 to boost NASA&#x27;s Swift Observatory so it doesn&#x27;t crash to Earth this fall.</p><p>Launched by SpaceX, Northrop Grumman&#x27;s mission robotic vehicle, dubbed MRV, and its jetpacks will spend the next year angling into the proper orbit 22,300 miles (36,000. Hundreds of satellites orbit at this so-called geosynchronous orbit, where they match the speed of Earth&#x27;s rotation and keep to the same part of the sky for continuous coverage.</p><p>Once in place by mid-2027, the minivan-sized spacecraft will use its 10-foot (9-meter) arms to attach a jetpack to an aging communication satellite. In 2019 and again in 2020, the company launched a pair of spacecraft that latched onto faltering communication satellites and steered them, providing extra years of life.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>Northrop Grumman designed its new robotic helpers to be even more resourceful. Launched in 2004, NASA&#x27;s Swift telescope has been sinking faster than usual because of all the recent solar activity.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-private-mission-life-gas-communication.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Um robô espacial de dois braços decolou em uma operação de salvamento privada na terça-feira para colocar jetpacks que prolongam a vida em satélites.",
@@ -991,7 +991,7 @@ window.postsData = [
       "Biology",
       "Phys.org Space",
       "Cosmos Week",
-      "Missão privada é lançada para prolongar a vida útil de satélites de comunicação sem gás"
+      "Private mission launched to extend the life of gas-free communications satellites"
     ],
     "srcUrl": "https://phys.org/news/2026-07-private-mission-life-gas-communication.html",
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=private-mission-launches-to-extend-life-of-out-of-gas-communication-satellites",
@@ -1018,31 +1018,13 @@ window.postsData = [
   },
   {
     "id": 10,
-    "slug": "the-milky-way-s-most-powerful-particle-accelerator",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://www.universetoday.com/article_images/English_Release_Lead_Image_500x375_0_20260722_042255.png",
+    "slug": "find-m4-an-easy-to-spot-globular-cluster-near-antares",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2021/07/Scorpius-M4-Antares-Shuala-Lesath-e1625522820175.jpeg",
     "inline_images": [
       {
-        "src": "https://www.universetoday.com/article_images/tycho_1024_20260722_042511.jpg",
-        "caption": "\"Faixas\" de raios X na onda de choque de Tycho",
-        "caption_pt": "\"Faixas\" de raios X na onda de choque de Tycho",
-        "caption_en": "X-ray \"stripes\" in the blast wave of Tycho",
-        "alt": "\"Faixas\" de raios X na onda de choque de Tycho",
-        "alt_pt": "\"Faixas\" de raios X na onda de choque de Tycho",
-        "alt_en": "X-ray \"stripes\" in the blast wave of Tycho"
-      },
-      {
-        "src": "https://www.universetoday.com/article_images/Screenshot_2026-07-22_at_07.28.24_20260722_043125.png",
-        "caption": "Altair, a estrela mais brilhante de Aquila e ponto de ancoragem do Triângulo de Verão - LHAASO J1912 + 1014u fica próximo, no mesmo pedaço do céu (Crédito: Torsten Brongerderivative)",
-        "caption_pt": "Altair, a estrela mais brilhante de Aquila e ponto de ancoragem do Triângulo de Verão - LHAASO J1912 + 1014u fica próximo, no mesmo pedaço do céu (Crédito: Torsten Brongerderivative)",
-        "caption_en": "Altair, the brightest star in Aquila and anchor point of the Summer Triangle — LHAASO J1912+1014u sits nearby in the same patch of sky (Credit : Torsten Brongerderivative)",
-        "alt": "Altair, a estrela mais brilhante de Aquila e ponto de ancoragem do Triângulo de Verão - LHAASO J1912 + 1014u fica próximo, no mesmo pedaço do céu (Crédito: Torsten Brongerderivative)",
-        "alt_pt": "Altair, a estrela mais brilhante de Aquila e ponto de ancoragem do Triângulo de Verão - LHAASO J1912 + 1014u fica próximo, no mesmo pedaço do céu (Crédito: Torsten Brongerderivative)",
-        "alt_en": "Altair, the brightest star in Aquila and anchor point of the Summer Triangle — LHAASO J1912+1014u sits nearby in the same patch of sky (Credit : Torsten Brongerderivative)"
-      },
-      {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
         "caption": "",
         "caption_pt": "",
         "caption_en": "",
@@ -1053,46 +1035,46 @@ window.postsData = [
     ],
     "video": null,
     "audio": null,
-    "title": "The Milky Way's Most Powerful Particle Accelerator",
-    "title_pt": "The Milky Way's Most Powerful Particle Accelerator",
-    "title_en": "The Milky Way's Most Powerful Particle Accelerator",
-    "sub": "Astronomers have conclusively identified a source of the highest energy cosmic ray protons in the Milky Way, solving a long standing puzzle near the star Altair. By combining.",
-    "sub_pt": "Astronomers have conclusively identified a source of the highest energy cosmic ray protons in the Milky Way, solving a long standing puzzle near the star Altair. By combining.",
-    "sub_en": "Astronomers have conclusively identified a source of the highest energy cosmic ray protons in the Milky Way, solving a long standing puzzle near the star Altair. By combining.",
-    "excerpt": "Astronomers have conclusively identified a source of the highest energy cosmic ray protons in the Milky Way, solving a long standing puzzle near the star Altair. By combining gamma ray, radio, and X-ray data from three separate.",
-    "excerpt_pt": "Astronomers have conclusively identified a source of the highest energy cosmic ray protons in the Milky Way, solving a long standing puzzle near the star Altair. By combining gamma ray, radio, and X-ray data from three separate.",
-    "excerpt_en": "Astronomers have conclusively identified a source of the highest energy cosmic ray protons in the Milky Way, solving a long standing puzzle near the star Altair. By combining gamma ray, radio, and X-ray data from three separate.",
-    "body": "<p>Conclusively identified a source of the highest energy cosmic ray protons in the Milky Way, solving a long standing puzzle near the star Altair. By combining gamma ray, radio, and X-ray data from three separate. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Ao combinar dados de raios gama, rádio e raios X de três observatórios separados, uma equipa liderada pela Universidade de Hiroshima descartou explicações concorrentes e confirmou. Em algum lugar perto da estrela Altair, uma das estrelas mais brilhantes no céu de verão do norte, está um objeto que tem ejetado silenciosamente prótons através da Galáxia a.</p><p>Em algum lugar da Galáxia, a natureza está fazendo algo que ainda não podemos replicar, e os astrônomos passaram anos tentando descobrir exatamente onde. Esta foi uma das primeiras evidências diretas de que as ondas de choque de supernovas podem acelerar partículas para energias de raios cósmicos (Crédito: NASA/CXC/Rutgers/K.</p><p>Eriksen et al.) O objeto em questão, chamado LHAASO J1912+1014u, foi sinalizado pela primeira vez em 2024 por observatórios terrestres no Tibete e na China, que detectaram raios. LHAASO J1912+1014u pode ter sido um próton PeVatron genuíno, ou pode ter sido algo mais mundano, como os restos de uma estrela que explodiu, fazendo algo que só parecia semelhante.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-milky-ways-most-powerful-particle-accelerator\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Conclusively identified a source of the highest energy cosmic ray protons in the Milky Way, solving a long standing puzzle near the star Altair. By combining gamma ray, radio, and X-ray data from three separate. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Ao combinar dados de raios gama, rádio e raios X de três observatórios separados, uma equipa liderada pela Universidade de Hiroshima descartou explicações concorrentes e confirmou. Em algum lugar perto da estrela Altair, uma das estrelas mais brilhantes no céu de verão do norte, está um objeto que tem ejetado silenciosamente prótons através da Galáxia a.</p><p>Em algum lugar da Galáxia, a natureza está fazendo algo que ainda não podemos replicar, e os astrônomos passaram anos tentando descobrir exatamente onde. Esta foi uma das primeiras evidências diretas de que as ondas de choque de supernovas podem acelerar partículas para energias de raios cósmicos (Crédito: NASA/CXC/Rutgers/K.</p><p>Eriksen et al.) O objeto em questão, chamado LHAASO J1912+1014u, foi sinalizado pela primeira vez em 2024 por observatórios terrestres no Tibete e na China, que detectaram raios. LHAASO J1912+1014u pode ter sido um próton PeVatron genuíno, ou pode ter sido algo mais mundano, como os restos de uma estrela que explodiu, fazendo algo que só parecia semelhante.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-milky-ways-most-powerful-particle-accelerator\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Conclusively identified a source of the highest energy cosmic ray protons in the Milky Way, solving a long standing puzzle near the star Altair. By combining gamma ray, radio, and X-ray data from three separate. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. By combining gamma ray, radio, and X-ray data from three separate observatories, a Hiroshima University led team ruled out competing explanations and confirmed the object as a. Somewhere near the star Altair, one of the brighter stars in the northern summer sky, sits an object that has been quietly ejecting protons across the Galaxy at speeds and.</p><p>Somewhere out there in the Galaxy, nature is doing something we can&#x27;t yet replicate, and astronomers have spent years trying to work out exactly where. This was among the first direct evidence that supernova shock waves can accelerate particles to cosmic-ray energies (Credit: NASA/CXC/Rutgers/K.</p><p>Eriksen et al.) The object in question, catchily named LHAASO J1912+1014u, was first flagged in 2024 by ground based observatories in Tibet and China, which spotted gamma rays. LHAASO J1912+1014u might have been a genuine proton PeVatron, or it might have been something more mundane, like the leftover debris of an exploded star, doing something that only.</p><p>Rather than relying on one observatory, they pulled together data from three entirely different instruments, each sensitive to a different part of the electromagnetic spectrum. NASA&#x27;s Fermi telescope supplied gamma ray data, Japan&#x27;s FUGIN survey offered radio observations tracing the interstellar gas nearby, and NASA&#x27;s Chandra Observatory added X-ray.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Altair, the brightest star in Aquila and anchor point of the Summer Triangle, LHAASO J1912+1014u sits nearby in the same patch of sky The combined picture was compelling. A source of extremely high-energy particles in the Milky Way identified Science broadcaster and author.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-milky-ways-most-powerful-particle-accelerator\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Encontre M4: um aglomerado globular fácil de detectar perto de Antares",
+    "title_pt": "Encontre M4: um aglomerado globular fácil de detectar perto de Antares",
+    "title_en": "Find M4: An easy to spot globular cluster near Antares",
+    "sub": "Encontre M4, um dos aglomerados estelares globulares mais fáceis de detectar. Ele está localizado próximo à Antares avermelhada, a estrela mais brilhante de Escorpião, o.",
+    "sub_pt": "Encontre M4, um dos aglomerados estelares globulares mais fáceis de detectar. Ele está localizado próximo à Antares avermelhada, a estrela mais brilhante de Escorpião, o.",
+    "sub_en": "Find M4, one of the easiest globular star clusters to spot. It's located just next to reddish Antares, the brightest star in Scorpius the Scorpion. The post Find M4: An easy to.",
+    "excerpt": "Encontre M4, um dos aglomerados estelares globulares mais fáceis de detectar. Ele está localizado próximo à Antares avermelhada, a estrela mais brilhante de Escorpião, o Escorpião. O post Encontre M4: Um aglomerado globular fácil de localizar perto de Antares.",
+    "excerpt_pt": "Encontre M4, um dos aglomerados estelares globulares mais fáceis de detectar. Ele está localizado próximo à Antares avermelhada, a estrela mais brilhante de Escorpião, o Escorpião. O post Encontre M4: Um aglomerado globular fácil de localizar perto de Antares.",
+    "excerpt_en": "Find M4, one of the easiest globular star clusters to spot. It's located just next to reddish Antares, the brightest star in Scorpius the Scorpion. The post Find M4: An easy to spot globular cluster near Antares first appeared on EarthSky.",
+    "body": "<p>Encontre M4, um dos aglomerados estelares globulares mais fáceis de detectar. Ele está localizado próximo à Antares avermelhada, a estrela mais brilhante de Escorpião, o Escorpião. O post Encontre M4: Um aglomerado globular fácil de localizar perto de Antares apareceu pela. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Um aglomerado globular fácil de localizar perto de Antares apareceu pela primeira vez no EarthSky. M4 brilha com magnitude +5,9, então pode ser visível a olho nu como uma mancha tênue no céu sob céus muito escuros.</p><p>O astrônomo e fotógrafo Fred Espenak capturou esta imagem do objeto Messier M4, com Antares à sua esquerda, usando um pequeno telescópio. Encontre primeiro o M4 com binóculos Se você nunca encontrou um objeto do céu profundo antes, o M4 é um ótimo lugar para começar.</p><p>As noites de verão do Hemisfério Norte, ou as noites de inverno do Hemisfério Sul, são sua melhor aposta para capturar o M4. Antares e M4 cabem dentro do mesmo campo de visão binocular, com M4 aparecendo um pouco mais de 1 grau a oeste de Antares.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/clusters-nebulae-galaxies/find-m4-a-globular-cluster-by-the-scorpions-heart/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Encontre M4, um dos aglomerados estelares globulares mais fáceis de detectar. Ele está localizado próximo à Antares avermelhada, a estrela mais brilhante de Escorpião, o Escorpião. O post Encontre M4: Um aglomerado globular fácil de localizar perto de Antares apareceu pela. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Um aglomerado globular fácil de localizar perto de Antares apareceu pela primeira vez no EarthSky. M4 brilha com magnitude +5,9, então pode ser visível a olho nu como uma mancha tênue no céu sob céus muito escuros.</p><p>O astrônomo e fotógrafo Fred Espenak capturou esta imagem do objeto Messier M4, com Antares à sua esquerda, usando um pequeno telescópio. Encontre primeiro o M4 com binóculos Se você nunca encontrou um objeto do céu profundo antes, o M4 é um ótimo lugar para começar.</p><p>As noites de verão do Hemisfério Norte, ou as noites de inverno do Hemisfério Sul, são sua melhor aposta para capturar o M4. Antares e M4 cabem dentro do mesmo campo de visão binocular, com M4 aparecendo um pouco mais de 1 grau a oeste de Antares.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/clusters-nebulae-galaxies/find-m4-a-globular-cluster-by-the-scorpions-heart/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Find M4, one of the easiest globular star clusters to spot. It&#x27;s located just next to reddish Antares, the brightest star in Scorpius the Scorpion. The post Find M4: An easy to spot globular cluster near Antares first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. An easy to spot globular cluster near Antares first appeared on EarthSky. M4 shines at magnitude +5.9, so it might just be visible to the unaided eye as a faint smudge on the sky under very dark skies.</p><p>Astronomer and photographer Fred Espenak captured this image of Messier object M4, with Antares to its left, using a small telescope. Find M4 in binoculars first If you’ve never found a deep-sky object on your own before, M4 is a great place to start.</p><p>Northern Hemisphere summer evenings, or Southern Hemisphere winter evenings, are your best bet for catching M4. Antares and M4 fit inside the same binocular field of view, with M4 appearing a bit more than 1 degree to the west of Antares.</p><p>Charles Messier (1730-1817), a French astronomer, compiled the Messier catalog of deep sky objects. The science of M4 Today, we know that M4 is a globular star cluster.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>At about 5,500 light-years from Earth, M4 is the closest globular cluster to us. Unlike open star clusters, such as the Pleiades and the Hyades, the Milky Way galaxy’s 150 or so known globular star clusters are not part of the galactic disk.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/clusters-nebulae-galaxies/find-m4-a-globular-cluster-by-the-scorpions-heart/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Astronomers have conclusively identified a source of the highest energy cosmic ray protons in the Milky Way, solving a long standing puzzle near the.",
-      "Dado-chave: Ao combinar dados de raios gama, rádio e raios X de três observatórios separados, uma equipa liderada pela Universidade de Hiroshima descartou.",
+      "Ponto central: Encontre M4, um dos aglomerados estelares globulares mais fáceis de detectar. Ele está localizado próximo à Antares avermelhada, a estrela mais.",
+      "Dado-chave: Um aglomerado globular fácil de localizar perto de Antares apareceu pela primeira vez no EarthSky.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Astronomers have conclusively identified a source of the highest energy cosmic ray protons in the Milky Way, solving a long standing puzzle near the.",
-      "Dado-chave: Ao combinar dados de raios gama, rádio e raios X de três observatórios separados, uma equipa liderada pela Universidade de Hiroshima descartou.",
+      "Ponto central: Encontre M4, um dos aglomerados estelares globulares mais fáceis de detectar. Ele está localizado próximo à Antares avermelhada, a estrela mais.",
+      "Dado-chave: Um aglomerado globular fácil de localizar perto de Antares apareceu pela primeira vez no EarthSky.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: Astronomers have conclusively identified a source of the highest energy cosmic ray protons in the Milky Way, solving a long standing puzzle near the.",
-      "Key detail: By combining gamma ray, radio, and X-ray data from three separate observatories, a Hiroshima University led team ruled out competing.",
+      "Core point: Find M4, one of the easiest globular star clusters to spot. It's located just next to reddish Antares, the brightest star in Scorpius the Scorpion.",
+      "Key detail: An easy to spot globular cluster near Antares first appeared on EarthSky.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "22 jul 2026",
     "date_pt": "22 jul 2026",
     "date_en": "22 Jul 2026",
-    "time": "04h32",
-    "time_pt": "04h32",
-    "time_en": "04:32 UTC",
+    "time": "08h00",
+    "time_pt": "08h00",
+    "time_en": "08:00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-22T04:32:02+00:00",
-    "lastModifiedIso": "2026-07-22T04:32:02+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
+    "publishedIso": "2026-07-22T08:00:00+00:00",
+    "lastModifiedIso": "2026-07-22T08:00:00+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -1109,27 +1091,30 @@ window.postsData = [
     "editorialBandLabel_pt": "Prioridade editorial",
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
-      "Física",
-      "Universe Today",
+      "Ciências da Terra",
+      "EarthSky",
       "Cosmos Week",
-      "The Milky Way's Most Powerful Particle Accelerator"
+      "Encontre M4",
+      "um aglomerado globular fácil de detectar perto de Antares"
     ],
     "keywords_pt": [
-      "Física",
-      "Universe Today",
+      "Ciências da Terra",
+      "EarthSky",
       "Cosmos Week",
-      "The Milky Way's Most Powerful Particle Accelerator"
+      "Encontre M4",
+      "um aglomerado globular fácil de detectar perto de Antares"
     ],
     "keywords_en": [
-      "Physical",
-      "Universe Today",
+      "Earth Sciences",
+      "EarthSky",
       "Cosmos Week",
-      "The Milky Way's Most Powerful Particle Accelerator"
+      "Find M4",
+      "an easy-to-spot globular cluster near Antares"
     ],
-    "srcUrl": "https://www.universetoday.com/articles/the-milky-ways-most-powerful-particle-accelerator",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-milky-way-s-most-powerful-particle-accelerator",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-milky-way-s-most-powerful-particle-accelerator",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-milky-way-s-most-powerful-particle-accelerator&lang=en",
+    "srcUrl": "https://earthsky.org/clusters-nebulae-galaxies/find-m4-a-globular-cluster-by-the-scorpions-heart/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=find-m4-an-easy-to-spot-globular-cluster-near-antares",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=find-m4-an-easy-to-spot-globular-cluster-near-antares",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=find-m4-an-easy-to-spot-globular-cluster-near-antares&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -1140,11 +1125,11 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 74,
+    "score": 73,
     "scoreBreakdown": {
-      "source": 73,
+      "source": 72,
       "evidence": 82,
-      "relevance": 82,
+      "relevance": 80,
       "accessibility": 60,
       "novelty": 55
     }
@@ -1254,7 +1239,7 @@ window.postsData = [
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -2635,22 +2620,22 @@ window.postsData = [
     "img": "https://www.nsf.gov/themes/custom/nsf_theme/plugins/uswds/dist/img/us_flag_small.png",
     "inline_images": [
       {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/NSF_Project_Triad_Hero_1200x468.png?itok=-FJ5m0oE",
-        "caption": "Colagem mostrando três esferas, um homem trabalhando em um campo de petróleo, um submarino e tubos de ensaio.",
-        "caption_pt": "Colagem mostrando três esferas, um homem trabalhando em um campo de petróleo, um submarino e tubos de ensaio.",
-        "caption_en": "A collage showing three spheres, a man working at an oil field, a submarine and test tubes.",
-        "alt": "Colagem mostrando três esferas, um homem trabalhando em um campo de petróleo, um submarino e tubos de ensaio.",
-        "alt_pt": "Colagem mostrando três esferas, um homem trabalhando em um campo de petróleo, um submarino e tubos de ensaio.",
-        "alt_en": "A collage showing three spheres, a man working at an oil field, a submarine and test tubes."
+        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/AI-Enabled_Discovery_hero.png?itok=qTxZziVJ",
+        "caption": "IA; Inteligência artificial; Descoberta; Científico; Impacto da NSF",
+        "caption_pt": "IA; Inteligência artificial; Descoberta; Científico; Impacto da NSF",
+        "caption_en": "AI; Artificial Intelligence; Discovery; Scientific; NSF impact",
+        "alt": "IA; Inteligência artificial; Descoberta; Científico; Impacto da NSF",
+        "alt_pt": "IA; Inteligência artificial; Descoberta; Científico; Impacto da NSF",
+        "alt_en": "AI; Artificial Intelligence; Discovery; Scientific; NSF impact"
       },
       {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/view-of-us-national-science-foundation-discovering-our-universe_55364908340_o.jpg?itok=NPDER_PN",
-        "caption": "Uma sala de exposições escura com estrelas projetadas no alto e uma grande imagem laranja em um círculo no meio.",
-        "caption_pt": "Uma sala de exposições escura com estrelas projetadas no alto e uma grande imagem laranja em um círculo no meio.",
-        "caption_en": "A darkened exhibit hall with stars projected overhead and a large orange image in a circle in the middle.",
-        "alt": "Uma sala de exposições escura com estrelas projetadas no alto e uma grande imagem laranja em um círculo no meio.",
-        "alt_pt": "Uma sala de exposições escura com estrelas projetadas no alto e uma grande imagem laranja em um círculo no meio.",
-        "alt_en": "A darkened exhibit hall with stars projected overhead and a large orange image in a circle in the middle."
+        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/IDSS%20Announcement%20Graphic.jpg?itok=eYH0Qt3D",
+        "caption": "Anúncio do IDSS Colagem gráfica incluindo duas mulheres usando capacetes, paisagem verde e grandes computadores",
+        "caption_pt": "Anúncio do IDSS Colagem gráfica incluindo duas mulheres usando capacetes, paisagem verde e grandes computadores",
+        "caption_en": "IDSS Announcement Graphic collage including two women wearing hard hats, green landscape, and large computers",
+        "alt": "Anúncio do IDSS Colagem gráfica incluindo duas mulheres usando capacetes, paisagem verde e grandes computadores",
+        "alt_pt": "Anúncio do IDSS Colagem gráfica incluindo duas mulheres usando capacetes, paisagem verde e grandes computadores",
+        "alt_en": "IDSS Announcement Graphic collage including two women wearing hard hats, green landscape, and large computers"
       }
     ],
     "video": null,
@@ -2753,6 +2738,139 @@ window.postsData = [
   },
   {
     "id": 24,
+    "slug": "the-milky-way-s-most-powerful-particle-accelerator",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://www.universetoday.com/article_images/English_Release_Lead_Image_500x375_0_20260722_042255.png",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/tycho_1024_20260722_042511.jpg",
+        "caption": "\"Faixas\" de raios X na onda de choque de Tycho",
+        "caption_pt": "\"Faixas\" de raios X na onda de choque de Tycho",
+        "caption_en": "X-ray \"stripes\" in the blast wave of Tycho",
+        "alt": "\"Faixas\" de raios X na onda de choque de Tycho",
+        "alt_pt": "\"Faixas\" de raios X na onda de choque de Tycho",
+        "alt_en": "X-ray \"stripes\" in the blast wave of Tycho"
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/Screenshot_2026-07-22_at_07.28.24_20260722_043125.png",
+        "caption": "Altair, a estrela mais brilhante de Aquila e ponto de ancoragem do Triângulo de Verão - LHAASO J1912 + 1014u fica próximo, no mesmo pedaço do céu (Crédito: Torsten Brongerderivative)",
+        "caption_pt": "Altair, a estrela mais brilhante de Aquila e ponto de ancoragem do Triângulo de Verão - LHAASO J1912 + 1014u fica próximo, no mesmo pedaço do céu (Crédito: Torsten Brongerderivative)",
+        "caption_en": "Altair, the brightest star in Aquila and anchor point of the Summer Triangle — LHAASO J1912+1014u sits nearby in the same patch of sky (Credit : Torsten Brongerderivative)",
+        "alt": "Altair, a estrela mais brilhante de Aquila e ponto de ancoragem do Triângulo de Verão - LHAASO J1912 + 1014u fica próximo, no mesmo pedaço do céu (Crédito: Torsten Brongerderivative)",
+        "alt_pt": "Altair, a estrela mais brilhante de Aquila e ponto de ancoragem do Triângulo de Verão - LHAASO J1912 + 1014u fica próximo, no mesmo pedaço do céu (Crédito: Torsten Brongerderivative)",
+        "alt_en": "Altair, the brightest star in Aquila and anchor point of the Summer Triangle — LHAASO J1912+1014u sits nearby in the same patch of sky (Credit : Torsten Brongerderivative)"
+      },
+      {
+        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "O acelerador de partículas mais poderoso da Via Láctea",
+    "title_pt": "O acelerador de partículas mais poderoso da Via Láctea",
+    "title_en": "The Milky Way's Most Powerful Particle Accelerator",
+    "sub": "Os astrónomos identificaram conclusivamente uma fonte de protões de raios cósmicos de maior energia na Via Láctea, resolvendo um antigo enigma perto da estrela Altair. Combinando.",
+    "sub_pt": "Os astrónomos identificaram conclusivamente uma fonte de protões de raios cósmicos de maior energia na Via Láctea, resolvendo um antigo enigma perto da estrela Altair. Combinando.",
+    "sub_en": "Astronomers have conclusively identified a source of the highest energy cosmic ray protons in the Milky Way, solving a long standing puzzle near the star Altair. By combining.",
+    "excerpt": "Os astrónomos identificaram conclusivamente uma fonte de protões de raios cósmicos de maior energia na Via Láctea, resolvendo um antigo enigma perto da estrela Altair. Combinando dados de raios gama, rádio e raios X de três separados.",
+    "excerpt_pt": "Os astrónomos identificaram conclusivamente uma fonte de protões de raios cósmicos de maior energia na Via Láctea, resolvendo um antigo enigma perto da estrela Altair. Combinando dados de raios gama, rádio e raios X de três separados.",
+    "excerpt_en": "Astronomers have conclusively identified a source of the highest energy cosmic ray protons in the Milky Way, solving a long standing puzzle near the star Altair. By combining gamma ray, radio, and X-ray data from three separate.",
+    "body": "<p>Os astrónomos identificaram conclusivamente uma fonte de protões de raios cósmicos de maior energia na Via Láctea, resolvendo um antigo enigma perto da estrela Altair. Combinando dados de raios gama, rádio e raios X de três separados. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Ao combinar dados de raios gama, rádio e raios X de três observatórios separados, uma equipa liderada pela Universidade de Hiroshima descartou explicações concorrentes e confirmou. Em algum lugar perto da estrela Altair, uma das estrelas mais brilhantes no céu de verão do norte, está um objeto que tem ejetado silenciosamente prótons através da Galáxia a.</p><p>Em algum lugar da Galáxia, a natureza está fazendo algo que ainda não podemos replicar, e os astrônomos passaram anos tentando descobrir exatamente onde. Esta foi uma das primeiras evidências diretas de que as ondas de choque de supernovas podem acelerar partículas para energias de raios cósmicos (Crédito: NASA/CXC/Rutgers/K.</p><p>Eriksen et al.) O objeto em questão, chamado LHAASO J1912+1014u, foi sinalizado pela primeira vez em 2024 por observatórios terrestres no Tibete e na China, que detectaram raios. LHAASO J1912+1014u pode ter sido um próton PeVatron genuíno, ou pode ter sido algo mais mundano, como os restos de uma estrela que explodiu, fazendo algo que só parecia semelhante.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-milky-ways-most-powerful-particle-accelerator\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os astrónomos identificaram conclusivamente uma fonte de protões de raios cósmicos de maior energia na Via Láctea, resolvendo um antigo enigma perto da estrela Altair. Combinando dados de raios gama, rádio e raios X de três separados. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Ao combinar dados de raios gama, rádio e raios X de três observatórios separados, uma equipa liderada pela Universidade de Hiroshima descartou explicações concorrentes e confirmou. Em algum lugar perto da estrela Altair, uma das estrelas mais brilhantes no céu de verão do norte, está um objeto que tem ejetado silenciosamente prótons através da Galáxia a.</p><p>Em algum lugar da Galáxia, a natureza está fazendo algo que ainda não podemos replicar, e os astrônomos passaram anos tentando descobrir exatamente onde. Esta foi uma das primeiras evidências diretas de que as ondas de choque de supernovas podem acelerar partículas para energias de raios cósmicos (Crédito: NASA/CXC/Rutgers/K.</p><p>Eriksen et al.) O objeto em questão, chamado LHAASO J1912+1014u, foi sinalizado pela primeira vez em 2024 por observatórios terrestres no Tibete e na China, que detectaram raios. LHAASO J1912+1014u pode ter sido um próton PeVatron genuíno, ou pode ter sido algo mais mundano, como os restos de uma estrela que explodiu, fazendo algo que só parecia semelhante.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-milky-ways-most-powerful-particle-accelerator\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Conclusively identified a source of the highest energy cosmic ray protons in the Milky Way, solving a long standing puzzle near the star Altair. By combining gamma ray, radio, and X-ray data from three separate. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. By combining gamma ray, radio, and X-ray data from three separate observatories, a Hiroshima University led team ruled out competing explanations and confirmed the object as a. Somewhere near the star Altair, one of the brighter stars in the northern summer sky, sits an object that has been quietly ejecting protons across the Galaxy at speeds and.</p><p>Somewhere out there in the Galaxy, nature is doing something we can&#x27;t yet replicate, and astronomers have spent years trying to work out exactly where. This was among the first direct evidence that supernova shock waves can accelerate particles to cosmic-ray energies (Credit: NASA/CXC/Rutgers/K.</p><p>Eriksen et al.) The object in question, catchily named LHAASO J1912+1014u, was first flagged in 2024 by ground based observatories in Tibet and China, which spotted gamma rays. LHAASO J1912+1014u might have been a genuine proton PeVatron, or it might have been something more mundane, like the leftover debris of an exploded star, doing something that only.</p><p>Rather than relying on one observatory, they pulled together data from three entirely different instruments, each sensitive to a different part of the electromagnetic spectrum. NASA&#x27;s Fermi telescope supplied gamma ray data, Japan&#x27;s FUGIN survey offered radio observations tracing the interstellar gas nearby, and NASA&#x27;s Chandra Observatory added X-ray.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Altair, the brightest star in Aquila and anchor point of the Summer Triangle, LHAASO J1912+1014u sits nearby in the same patch of sky The combined picture was compelling. A source of extremely high-energy particles in the Milky Way identified Science broadcaster and author.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-milky-ways-most-powerful-particle-accelerator\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os astrónomos identificaram conclusivamente uma fonte de protões de raios cósmicos de maior energia na Via Láctea, resolvendo um antigo enigma perto.",
+      "Dado-chave: Ao combinar dados de raios gama, rádio e raios X de três observatórios separados, uma equipa liderada pela Universidade de Hiroshima descartou.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os astrónomos identificaram conclusivamente uma fonte de protões de raios cósmicos de maior energia na Via Láctea, resolvendo um antigo enigma perto.",
+      "Dado-chave: Ao combinar dados de raios gama, rádio e raios X de três observatórios separados, uma equipa liderada pela Universidade de Hiroshima descartou.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Astronomers have conclusively identified a source of the highest energy cosmic ray protons in the Milky Way, solving a long standing puzzle near the.",
+      "Key detail: By combining gamma ray, radio, and X-ray data from three separate observatories, a Hiroshima University led team ruled out competing.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "22 jul 2026",
+    "date_pt": "22 jul 2026",
+    "date_en": "22 Jul 2026",
+    "time": "04h32",
+    "time_pt": "04h32",
+    "time_en": "04:32 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-22T04:32:02+00:00",
+    "lastModifiedIso": "2026-07-22T04:32:02+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "Universe Today",
+      "Cosmos Week",
+      "O acelerador de partículas mais poderoso da Via Láctea"
+    ],
+    "keywords_pt": [
+      "Física",
+      "Universe Today",
+      "Cosmos Week",
+      "O acelerador de partículas mais poderoso da Via Láctea"
+    ],
+    "keywords_en": [
+      "Physical",
+      "Universe Today",
+      "Cosmos Week",
+      "The most powerful particle accelerator in the Milky Way"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/the-milky-ways-most-powerful-particle-accelerator",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-milky-way-s-most-powerful-particle-accelerator",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-milky-way-s-most-powerful-particle-accelerator",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-milky-way-s-most-powerful-particle-accelerator&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 82,
+      "relevance": 82,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 25,
     "slug": "a-new-compact-instrument-enables-high-fidelity-measurements-of-energetic-particles-on-cubesats",
     "cat": "Física",
     "catCls": "fisica",
@@ -2885,7 +3003,7 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "interworld-slingshot-resource-surveys",
     "cat": "Química",
     "catCls": "quimica",
@@ -2990,7 +3108,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3126,7 +3244,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3234,7 +3352,7 @@ window.postsData = [
       "flor’ na Antártica"
     ],
     "keywords_en": [
-      "Ciências da Terra",
+      "Earth Sciences",
       "NASA News Releases",
       "Cosmos Week",
       "USA satellite",
@@ -3261,11 +3379,11 @@ window.postsData = [
       "evidence": 82,
       "relevance": 80,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "black-hole-jet-may-be-stirring-gas-cloud-containing-early-red-potato-galaxy",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -3398,7 +3516,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "astronomers-catch-a-dark-comet-red-handed",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3516,17 +3634,17 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 77,
+    "score": 76,
     "scoreBreakdown": {
       "source": 73,
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "gamma-ray-bursts-size-up-the-milky-way-s-spiral-arms",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -3659,7 +3777,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "astronomers-are-still-trying-to-understand-how-a-galaxy-s-spiral-arms-form",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3788,11 +3906,11 @@ window.postsData = [
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "astrophotography-picturing-galaxies",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3818,8 +3936,8 @@ window.postsData = [
       },
       {
         "src": "https://dq0hsqwjhea1.cloudfront.net/image-26.png",
-        "caption": "ACHATADO Nestes dois exemplos de M31, a imagem à esquerda suprime o brilho do núcleo da galáxia para melhor visualizar as suas faixas de poeira internas, removendo um aspecto chave da galáxia. A imagem à direita preserva isso importante.",
-        "caption_pt": "ACHATADO Nestes dois exemplos de M31, a imagem à esquerda suprime o brilho do núcleo da galáxia para melhor visualizar as suas faixas de poeira internas, removendo um aspecto chave da galáxia. A imagem à direita preserva isso importante.",
+        "caption": "ACHATADO Nestes dois exemplos de M31, a imagem à esquerda suprime o brilho do núcleo da galáxia para melhor visualizar as suas faixas de poeira interiores, removendo um aspecto-chave da galáxia. A imagem à direita preserva isso importante.",
+        "caption_pt": "ACHATADO Nestes dois exemplos de M31, a imagem à esquerda suprime o brilho do núcleo da galáxia para melhor visualizar as suas faixas de poeira interiores, removendo um aspecto-chave da galáxia. A imagem à direita preserva isso importante.",
         "caption_en": "FLATTENED In these two examples of M31, the image at left suppresses the brightness of the galaxy’s core in order to better display its inner dust lanes, removing a key aspect of the galaxy. The image at right preserves this important.",
         "alt": "M31 Astrofotografia com brilho suprimido vs. brilho não suprimido | Céu e telescópio",
         "alt_pt": "M31 Astrofotografia com brilho suprimido vs. brilho não suprimido | Céu e telescópio",
@@ -3928,7 +4046,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "catch-comet-10p-tempel-while-you-can",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4061,7 +4179,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "metallic-waves-on-ancient-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4194,7 +4312,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "1st-atmosphere-detected-on-earth-like-habitable-zone-world",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -4309,7 +4427,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "famous-system-has-a-third-planet-beta-pictoris-d",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4436,7 +4554,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "observers-beware-reflect-orbital-s-space-mirrors-approved-for-launch",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -4575,7 +4693,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 39,
     "slug": "rogue-neptunes-are-detached-but-not-alone",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4711,7 +4829,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 40,
     "slug": "flex-and-sentinel-3c-arrive-at-europe-s-spaceport",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4817,7 +4935,7 @@ window.postsData = [
       "3C chegam ao espaçoporto europeu"
     ],
     "keywords_en": [
-      "Ciências da Terra",
+      "Earth Sciences",
       "ESA Space News",
       "Cosmos Week",
       "FLEX e Sentinel",
@@ -4841,139 +4959,6 @@ window.postsData = [
     "scoreBreakdown": {
       "source": 80,
       "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 40,
-    "slug": "where-venezuela-s-earthquakes-shifted-the-ground",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/where-venezuela’s-earthquakes-shifted-the-ground/venezuela_nisar_20260630.jpg?w=1440&h=1090&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/super-typhoon-bavi/typhoonbavi_vir_20260705_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "A parede ocular de um supertufão é parcialmente iluminada pela luz da lua em uma imagem noturna de satélite.",
-        "caption_pt": "A parede ocular de um supertufão é parcialmente iluminada pela luz da lua em uma imagem noturna de satélite.",
-        "caption_en": "The eyewall of a super typhoon is partially illuminated by moonlight in a nighttime satellite image.",
-        "alt": "A parede ocular de um supertufão é parcialmente iluminada pela luz da lua em uma imagem noturna de satélite.",
-        "alt_pt": "A parede ocular de um supertufão é parcialmente iluminada pela luz da lua em uma imagem noturna de satélite.",
-        "alt_en": "The eyewall of a super typhoon is partially illuminated by moonlight in a nighttime satellite image."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/wild,-scenic,-and-increasingly-rusty/alaska_rustyrivers_20240520_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Um mapa do Alasca mostra locais de rios enferrujados, com cores vermelhas indicando maior densidade. A maioria foi observada na cordilheira Brooks, que se estende de leste a oeste através do norte do Alasca.",
-        "caption_pt": "Um mapa do Alasca mostra locais de rios enferrujados, com cores vermelhas indicando maior densidade. A maioria foi observada na cordilheira Brooks, que se estende de leste a oeste através do norte do Alasca.",
-        "caption_en": "A map of Alaska shows rusting river locations, with red colors indicating higher density. Most have been observed in the Brooks Range, stretching east-west across northern Alaska.",
-        "alt": "Um mapa do Alasca mostra locais de rios enferrujados, com cores vermelhas indicando maior densidade. A maioria foi observada na cordilheira Brooks, que se estende de leste a oeste através do norte do Alasca.",
-        "alt_pt": "Um mapa do Alasca mostra locais de rios enferrujados, com cores vermelhas indicando maior densidade. A maioria foi observada na cordilheira Brooks, que se estende de leste a oeste através do norte do Alasca.",
-        "alt_en": "A map of Alaska shows rusting river locations, with red colors indicating higher density. Most have been observed in the Brooks Range, stretching east-west across northern Alaska."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/where-venezuela’s-earthquakes-shifted-the-ground/venezuela_nisar_20260630_lrg.jpg?w=3338&h=2225&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Um mapa derivado de satélite da costa norte da Venezuela mostra vermelho onde o solo se deslocou para leste e azul onde se deslocou para oeste. Uma fina linha branca marca onde a falha rompeu abaixo do solo.",
-        "caption_pt": "Um mapa derivado de satélite da costa norte da Venezuela mostra vermelho onde o solo se deslocou para leste e azul onde se deslocou para oeste. Uma fina linha branca marca onde a falha rompeu abaixo do solo.",
-        "caption_en": "A satellite-derived map of northern Venezuela’s coast displays red where ground shifted eastward and blue where it shifted westward. A thin white line marks where the fault ruptured below ground.",
-        "alt": "Um mapa derivado de satélite da costa norte da Venezuela mostra vermelho onde o solo se deslocou para leste e azul onde se deslocou para oeste. Uma fina linha branca marca onde a falha rompeu abaixo do solo.",
-        "alt_pt": "Um mapa derivado de satélite da costa norte da Venezuela mostra vermelho onde o solo se deslocou para leste e azul onde se deslocou para oeste. Uma fina linha branca marca onde a falha rompeu abaixo do solo.",
-        "alt_en": "A satellite-derived map of northern Venezuela’s coast displays red where ground shifted eastward and blue where it shifted westward. A thin white line marks where the fault ruptured below ground."
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Onde os terremotos da Venezuela mudaram o terreno",
-    "title_pt": "Onde os terremotos da Venezuela mudaram o terreno",
-    "title_en": "Where Venezuela’s Earthquakes Shifted the Ground",
-    "sub": "Dados de radar do satélite NISAR mostram que La Guaira e áreas próximas sofreram deslocamentos significativos do solo devido aos tremores de junho de 2026. A postagem Onde os.",
-    "sub_pt": "Dados de radar do satélite NISAR mostram que La Guaira e áreas próximas sofreram deslocamentos significativos do solo devido aos tremores de junho de 2026. A postagem Onde os.",
-    "sub_en": "Radar data from the NISAR satellite show that La Guaira and nearby areas experienced significant ground displacement from the June 2026 temblors. The post Where Venezuela’s.",
-    "excerpt": "Dados de radar do satélite NISAR mostram que La Guaira e áreas próximas sofreram deslocamentos significativos do solo devido aos tremores de junho de 2026. A postagem Onde os terremotos da Venezuela mudaram o terreno apareceu pela primeira vez na NASA Science.",
-    "excerpt_pt": "Dados de radar do satélite NISAR mostram que La Guaira e áreas próximas sofreram deslocamentos significativos do solo devido aos tremores de junho de 2026. A postagem Onde os terremotos da Venezuela mudaram o terreno apareceu pela primeira vez na NASA Science.",
-    "excerpt_en": "Radar data from the NISAR satellite show that La Guaira and nearby areas experienced significant ground displacement from the June 2026 temblors. The post Where Venezuela’s Earthquakes Shifted the Ground appeared first on NASA Science.",
-    "body": "<p>Dados de radar do satélite NISAR mostram que La Guaira e áreas próximas sofreram deslocamentos significativos do solo devido aos tremores de junho de 2026. A postagem Onde os terremotos da Venezuela mudaram o terreno apareceu pela primeira vez na NASA Science. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Downloads 25 e 30 de junho de 2026 JPEG (3,51 MB) Referências e recursos NASA (2025, 23 de julho) Interferometria. Uma Terra Enluarada vista de Artemis II 4 min de leitura A foto de um astronauta, tirada a caminho da Lua, revela nosso planeta e seu lugar no espaço em um romance. Artigo.</p><p>Artigo Veja mais Imagens do dia: 9 de julho de 2026 13 de julho de 2026 Instrumentos: NISAR Tópicos: Visualização e mapeamento de terremotos na superfície e no interior da Terra O. O mapa foi derivado de dados NISAR (NASA-ISRO Synthetic Aperture Radar) adquiridos em 25 e 30 de junho (após os terremotos) e 13 e 18 de junho (antes dos terremotos).</p><p>Observatório da Terra da NASA/Lauren Dauphin Em 24 de junho de 2026, um terremoto de magnitude 7,2 atingiu o norte da Venezuela, seguido menos de um minuto depois por um choque. O NISAR vê a Terra em um ângulo de cerca de 40 graus diretamente para baixo, permitindo capturar uma mistura de deslocamento horizontal e vertical.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA Earth Observatory, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Dados de radar do satélite NISAR mostram que La Guaira e áreas próximas sofreram deslocamentos significativos do solo devido aos tremores de junho de 2026. A postagem Onde os terremotos da Venezuela mudaram o terreno apareceu pela primeira vez na NASA Science. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Downloads 25 e 30 de junho de 2026 JPEG (3,51 MB) Referências e recursos NASA (2025, 23 de julho) Interferometria. Uma Terra Enluarada vista de Artemis II 4 min de leitura A foto de um astronauta, tirada a caminho da Lua, revela nosso planeta e seu lugar no espaço em um romance. Artigo.</p><p>Artigo Veja mais Imagens do dia: 9 de julho de 2026 13 de julho de 2026 Instrumentos: NISAR Tópicos: Visualização e mapeamento de terremotos na superfície e no interior da Terra O. O mapa foi derivado de dados NISAR (NASA-ISRO Synthetic Aperture Radar) adquiridos em 25 e 30 de junho (após os terremotos) e 13 e 18 de junho (antes dos terremotos).</p><p>Observatório da Terra da NASA/Lauren Dauphin Em 24 de junho de 2026, um terremoto de magnitude 7,2 atingiu o norte da Venezuela, seguido menos de um minuto depois por um choque. O NISAR vê a Terra em um ângulo de cerca de 40 graus diretamente para baixo, permitindo capturar uma mistura de deslocamento horizontal e vertical.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA Earth Observatory, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Radar data from the NISAR satellite show that La Guaira and nearby areas experienced significant ground displacement from the June 2026 temblors. The post Where Venezuela’s Earthquakes Shifted the Ground appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Downloads June 25 &amp; June 30, 2026 JPEG (3.51 MB) References &amp; Resources NASA (2025, July 23) Interferometry. A Moonlit Earth as Seen From Artemis II 4 min read An astronaut’s photo, taken en route to the Moon, reveals our planet and its place in space in a novel. Article Megaberg Ends.</p><p>Article View more Images of the Day: Jul 9, 2026 Jul 13, 2026 Instruments: NISAR Topics: Earth&#x27;s Surface and Interior Earthquakes Visualization and Mapping Ground displacement was. The map was derived from NISAR (NASA-ISRO Synthetic Aperture Radar) data acquired on June 25 and June 30 (after the earthquakes) and June 13 and June 18 (before the earthquakes).</p><p>NASA Earth Observatory/Lauren Dauphin On June 24, 2026, a magnitude 7.2 earthquake struck northern Venezuela, followed under a minute later by a magnitude 7.5 mainshock. NISAR views Earth at an angle, about 40 degrees from straight down, allowing it to capture a mix of horizontal and vertical displacement.</p><p>The displacement maps for this event were provided through NISAR’s Urgent Response (UR) system, a fast-track process that can deliver data within 12 to 24 hours to support. References &amp; Resources NASA (2025, July 23) Interferometry.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>An astronaut’s photo, taken en route to the Moon, reveals our planet and its place in space in a novel. Article Megaberg Ends Its Long Odyssey at Sea 5 min read Antarctic Iceberg. Article The World Cup From 250 Miles Up 4 min read Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Dados de radar do satélite NISAR mostram que La Guaira e áreas próximas sofreram deslocamentos significativos do solo devido aos tremores de junho de.",
-      "Dado-chave: Downloads 25 e 30 de junho de 2026 JPEG (3,51 MB) Referências e recursos NASA (2025, 23 de julho) Interferometria.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Dados de radar do satélite NISAR mostram que La Guaira e áreas próximas sofreram deslocamentos significativos do solo devido aos tremores de junho de.",
-      "Dado-chave: Downloads 25 e 30 de junho de 2026 JPEG (3,51 MB) Referências e recursos NASA (2025, 23 de julho) Interferometria.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Radar data from the NISAR satellite show that La Guaira and nearby areas experienced significant ground displacement from the June 2026 temblors. The.",
-      "Key detail: Downloads June 25 & June 30, 2026 JPEG (3.51 MB) References & Resources NASA (2025, July 23) Interferometry.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "10 jul 2026",
-    "date_pt": "10 jul 2026",
-    "date_en": "10 Jul 2026",
-    "time": "04h00",
-    "time_pt": "04h00",
-    "time_en": "04:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-10T04:00:00+00:00",
-    "lastModifiedIso": "2026-07-10T04:00:00+00:00",
-    "source": "NASA Earth Observatory",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Onde os terremotos da Venezuela mudaram o terreno"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Onde os terremotos da Venezuela mudaram o terreno"
-    ],
-    "keywords_en": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Where Venezuela's earthquakes changed the terrain"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=where-venezuela-s-earthquakes-shifted-the-ground",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=where-venezuela-s-earthquakes-shifted-the-ground",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=where-venezuela-s-earthquakes-shifted-the-ground&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 75,
-      "evidence": 88,
       "relevance": 80,
       "accessibility": 60,
       "novelty": 46

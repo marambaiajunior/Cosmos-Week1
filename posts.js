@@ -40,14 +40,14 @@ window.postsData = [
     "date": "27 jul 2026",
     "date_pt": "27 jul 2026",
     "date_en": "27 Jul 2026",
-    "time": "01h16",
-    "time_pt": "01h16",
-    "time_en": "01:16 UTC",
+    "time": "05h28",
+    "time_pt": "05h28",
+    "time_en": "05:28 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-27T01:16:25.470060+00:00",
-    "lastModifiedIso": "2026-07-27T01:16:25.470060+00:00",
+    "publishedIso": "2026-07-27T05:28:20.287115+00:00",
+    "lastModifiedIso": "2026-07-27T05:28:20.287115+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "27 jul 2026",
     "date_pt": "27 jul 2026",
     "date_en": "27 Jul 2026",
-    "time": "01h16",
-    "time_pt": "01h16",
-    "time_en": "01:16 UTC",
+    "time": "05h28",
+    "time_pt": "05h28",
+    "time_en": "05:28 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-27T01:16:25.470013+00:00",
-    "lastModifiedIso": "2026-07-27T01:16:25.470013+00:00",
+    "publishedIso": "2026-07-27T05:28:20.287070+00:00",
+    "lastModifiedIso": "2026-07-27T05:28:20.287070+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,14 +250,14 @@ window.postsData = [
     "date": "27 jul 2026",
     "date_pt": "27 jul 2026",
     "date_en": "27 Jul 2026",
-    "time": "01h16",
-    "time_pt": "01h16",
-    "time_en": "01:16 UTC",
+    "time": "05h28",
+    "time_pt": "05h28",
+    "time_en": "05:28 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-27T01:16:25.469964+00:00",
-    "lastModifiedIso": "2026-07-27T01:16:25.469964+00:00",
+    "publishedIso": "2026-07-27T05:28:20.287019+00:00",
+    "lastModifiedIso": "2026-07-27T05:28:20.287019+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -355,14 +355,14 @@ window.postsData = [
     "date": "27 jul 2026",
     "date_pt": "27 jul 2026",
     "date_en": "27 Jul 2026",
-    "time": "01h16",
-    "time_pt": "01h16",
-    "time_en": "01:16 UTC",
+    "time": "05h28",
+    "time_pt": "05h28",
+    "time_en": "05:28 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-27T01:16:25.469915+00:00",
-    "lastModifiedIso": "2026-07-27T01:16:25.469915+00:00",
+    "publishedIso": "2026-07-27T05:28:20.286967+00:00",
+    "lastModifiedIso": "2026-07-27T05:28:20.286967+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -460,14 +460,14 @@ window.postsData = [
     "date": "27 jul 2026",
     "date_pt": "27 jul 2026",
     "date_en": "27 Jul 2026",
-    "time": "01h16",
-    "time_pt": "01h16",
-    "time_en": "01:16 UTC",
+    "time": "05h28",
+    "time_pt": "05h28",
+    "time_en": "05:28 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-27T01:16:25.469866+00:00",
-    "lastModifiedIso": "2026-07-27T01:16:25.469866+00:00",
+    "publishedIso": "2026-07-27T05:28:20.286913+00:00",
+    "lastModifiedIso": "2026-07-27T05:28:20.286913+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -534,6 +534,130 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "black-hole-collisions-tell-a-tale-of-repeating-mergers",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://www.universetoday.com/article_images/MIT-LIGO-Anniversary-01-press_0_20260727_014441.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/MIT-BlackHoleHierarchy-01-press_0_20260727_015527.jpg",
+        "caption": "Alguns buracos negros em fusão podem ser buracos negros de segunda geração que se formaram a partir da fusão anterior de dois buracos negros menores, de acordo com um novo estudo. Aqui",
+        "caption_pt": "Alguns buracos negros em fusão podem ser buracos negros de segunda geração que se formaram a partir da fusão anterior de dois buracos negros menores, de acordo com um novo estudo. Aqui",
+        "caption_en": "Some merging black holes may be second-generation black holes that formed from the previous merging of two smaller black holes, according to a new study. Here",
+        "alt": "Alguns buracos negros em fusão podem ser buracos negros de segunda geração que se formaram a partir da fusão anterior de dois buracos negros menores, de acordo com um novo estudo. Aqui",
+        "alt_pt": "Alguns buracos negros em fusão podem ser buracos negros de segunda geração que se formaram a partir da fusão anterior de dois buracos negros menores, de acordo com um novo estudo. Aqui",
+        "alt_en": "Some merging black holes may be second-generation black holes that formed from the previous merging of two smaller black holes, according to a new study. Here"
+      },
+      {
+        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Colisões de buracos negros contam uma história de fusões repetidas",
+    "title_pt": "Colisões de buracos negros contam uma história de fusões repetidas",
+    "title_en": "Black Hole Collisions Tell a Tale of Repeating Mergers",
+    "sub": "A fusão de um buraco negro é um dos eventos mais energéticos e massivos do Universo. Durante essa colisão, dois buracos negros orbitam cada vez mais perto até colidirem e se.",
+    "sub_pt": "A fusão de um buraco negro é um dos eventos mais energéticos e massivos do Universo. Durante essa colisão, dois buracos negros orbitam cada vez mais perto até colidirem e se.",
+    "sub_en": "A black hole merger is one of the Universe's most energetic and massive events. During such a collision, two black holes orbit closer and closer until they collide and become a.",
+    "excerpt": "A fusão de um buraco negro é um dos eventos mais energéticos e massivos do Universo. Durante essa colisão, dois buracos negros orbitam cada vez mais perto até colidirem e se tornarem um buraco negro muito mais massivo. O evento também dá certo.",
+    "excerpt_pt": "A fusão de um buraco negro é um dos eventos mais energéticos e massivos do Universo. Durante essa colisão, dois buracos negros orbitam cada vez mais perto até colidirem e se tornarem um buraco negro muito mais massivo. O evento também dá certo.",
+    "excerpt_en": "A black hole merger is one of the Universe's most energetic and massive events. During such a collision, two black holes orbit closer and closer until they collide and become a much more massive black hole. The event also gives off.",
+    "body": "<p>A fusão de um buraco negro é um dos eventos mais energéticos e massivos do Universo. Durante essa colisão, dois buracos negros orbitam cada vez mais perto até colidirem e se tornarem um buraco negro muito mais massivo. O evento também dá certo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Um buraco negro “primeiro” criado em um evento de supernova cria um buraco negro com pouca ou nenhuma rotação. “Eles estariam girando muito rápido, a cerca de 70% do giro máximo possível”, disse Vitale.</p><p>Essa rotação revela a linhagem do novo buraco negro, a partir de dois menores. Alguns buracos negros em fusão podem ser buracos negros de segunda geração que se formaram a partir da fusão anterior de dois buracos negros menores, de acordo com um novo estudo.</p><p>“Este processo pode repetir-se potencialmente ad infinitum, devido ao facto de haver uma tonelada de estrelas e buracos negros neste ambiente realmente denso.” Para encontrar. Extrapole isso para fusões em todo o Universo e parece que cerca de 14% dos buracos negros em fusão passaram pela mesma estrada de colisão pelo menos duas vezes.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/black-hole-collisions-tell-a-tale-of-repeating-mergers\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A fusão de um buraco negro é um dos eventos mais energéticos e massivos do Universo. Durante essa colisão, dois buracos negros orbitam cada vez mais perto até colidirem e se tornarem um buraco negro muito mais massivo. O evento também dá certo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Um buraco negro “primeiro” criado em um evento de supernova cria um buraco negro com pouca ou nenhuma rotação. “Eles estariam girando muito rápido, a cerca de 70% do giro máximo possível”, disse Vitale.</p><p>Essa rotação revela a linhagem do novo buraco negro, a partir de dois menores. Alguns buracos negros em fusão podem ser buracos negros de segunda geração que se formaram a partir da fusão anterior de dois buracos negros menores, de acordo com um novo estudo.</p><p>“Este processo pode repetir-se potencialmente ad infinitum, devido ao facto de haver uma tonelada de estrelas e buracos negros neste ambiente realmente denso.” Para encontrar. Extrapole isso para fusões em todo o Universo e parece que cerca de 14% dos buracos negros em fusão passaram pela mesma estrada de colisão pelo menos duas vezes.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/black-hole-collisions-tell-a-tale-of-repeating-mergers\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A black hole merger is one of the Universe&#x27;s most energetic and massive events. During such a collision, two black holes orbit closer and closer until they collide and become a much more massive black hole. The event also gives off. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. A &quot;first-time&quot; black hole created in a supernova event creates a black hole with little to no spin. “They would be spinning very fast, at about 70 percent their maximum possible spin,” Vitale said.</p><p>That spin reveals the new black hole&#x27;s lineage, from two smaller ones. Some merging black holes may be second-generation black holes that formed from the previous merging of two smaller black holes, according to a new study.</p><p>“This process can repeat potentially ad infinitum, by virtue of the fact that you have a ton of stars and black holes in this really dense environment.” To find evidence of. Extrapolate that out to mergers throughout the Universe, and it looks like about 14 percent of merging black holes have been down the same collision road at least twice.</p><p>It turns out that black holes that have masses about 10 and 30 times that of the Sun were probably stellar-mass black holes created in supernova explosions. Interestingly, those of 20 and 40 solar masses (and above) were most likely to be second-generation black holes made from collisions of previous black holes.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>“One of the reasons why the 40-and-above regime is interesting is, stellar evolution theory predicts you shouldn’t be able to form black holes in that mass range at all from just. “We think supernovae from really massive stars end up being so violent that they leave no black holes at all above roughly 45 solar masses.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/black-hole-collisions-tell-a-tale-of-repeating-mergers\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A fusão de um buraco negro é um dos eventos mais energéticos e massivos do Universo. Durante essa colisão, dois buracos negros orbitam cada vez mais.",
+      "Dado-chave: Um buraco negro “primeiro” criado em um evento de supernova cria um buraco negro com pouca ou nenhuma rotação.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A fusão de um buraco negro é um dos eventos mais energéticos e massivos do Universo. Durante essa colisão, dois buracos negros orbitam cada vez mais.",
+      "Dado-chave: Um buraco negro “primeiro” criado em um evento de supernova cria um buraco negro com pouca ou nenhuma rotação.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: A black hole merger is one of the Universe's most energetic and massive events. During such a collision, two black holes orbit closer and closer.",
+      "Key detail: A \"first-time\" black hole created in a supernova event creates a black hole with little to no spin.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "27 jul 2026",
+    "date_pt": "27 jul 2026",
+    "date_en": "27 Jul 2026",
+    "time": "01h57",
+    "time_pt": "01h57",
+    "time_en": "01:57 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-27T01:57:57+00:00",
+    "lastModifiedIso": "2026-07-27T01:57:57+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "Colisões de buracos negros contam uma história de fusões repetidas"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "Colisões de buracos negros contam uma história de fusões repetidas"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "Universe Today",
+      "Cosmos Week",
+      "Black hole collisions tell a story of repeated mergers"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/black-hole-collisions-tell-a-tale-of-repeating-mergers",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=black-hole-collisions-tell-a-tale-of-repeating-mergers",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=black-hole-collisions-tell-a-tale-of-repeating-mergers",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=black-hole-collisions-tell-a-tale-of-repeating-mergers&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "new-research-shows-how-clouds-shape-the-interiors-of-sub-neptunes",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -655,7 +779,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -669,7 +793,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "gamma-ray-pulsations-reveal-extreme-3-2-millisecond-pulsar-3-900-light-years-away",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -808,7 +932,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "ucf-researchers-are-developing-tools-to-help-find-habitable-planets",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -945,7 +1069,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "are-aliens-harvesting-the-spin-of-stars",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -1073,121 +1197,6 @@ window.postsData = [
     }
   },
   {
-    "id": 10,
-    "slug": "are-we-listening-for-alien-intelligence-the-wrong-way",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2026/07/ALMA-Atacama-desert-radio-telescopes-Alex-Perez-CC-BY-4.0-e1784900049269.png",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Estamos ouvindo a inteligência alienígena da maneira errada?",
-    "title_pt": "Estamos ouvindo a inteligência alienígena da maneira errada?",
-    "title_en": "Are we listening for alien intelligence the wrong way?",
-    "sub": "Alguns astrónomos acreditam que deveríamos procurar inteligência alienígena em frequências de rádio mais altas do que as tradicionalmente utilizadas no SETI. E eles já começaram.",
-    "sub_pt": "Alguns astrónomos acreditam que deveríamos procurar inteligência alienígena em frequências de rádio mais altas do que as tradicionalmente utilizadas no SETI. E eles já começaram.",
-    "sub_en": "Some astronomers believe we should search for alien intelligence at higher radio frequencies than those traditionally used in SETI. And they've already begun. The post Are we.",
-    "excerpt": "Alguns astrónomos acreditam que deveríamos procurar inteligência alienígena em frequências de rádio mais altas do que as tradicionalmente utilizadas no SETI. E eles já começaram. A postagem Estamos ouvindo a inteligência alienígena da maneira errada? apareceu.",
-    "excerpt_pt": "Alguns astrónomos acreditam que deveríamos procurar inteligência alienígena em frequências de rádio mais altas do que as tradicionalmente utilizadas no SETI. E eles já começaram. A postagem Estamos ouvindo a inteligência alienígena da maneira errada? apareceu.",
-    "excerpt_en": "Some astronomers believe we should search for alien intelligence at higher radio frequencies than those traditionally used in SETI. And they've already begun. The post Are we listening for alien intelligence the wrong way? first appeared.",
-    "body": "<p>Alguns astrónomos acreditam que deveríamos procurar inteligência alienígena em frequências de rádio mais altas do que as tradicionalmente utilizadas no SETI. E eles já começaram. A postagem Estamos ouvindo a inteligência alienígena da maneira errada? apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Aqui, observamos o céu numa noite em que a lua (não retratada) ilumina a escuridão. Agora, pela primeira vez, uma equipa de astrónomos utilizou o ALMA para ouvir sinais de inteligência alienígena.</p><p>Participe hoje da nossa Campanha de Doação 2026. Os astrônomos do SETI procuram sinais de rádio, principalmente de uma banda específica do espectro de rádio: as frequências entre 1,42 e 1,66 GHz.</p><p>E, em 24 de julho de 2026, Louisa Mason, da Universidade de Manchester, no Reino Unido. Os astrônomos escolheram originalmente as frequências entre 1,42 e 1,66 GHz, que eles chamam de buraco d&#x27;água, devido à sua localização entre o hidrogênio (H) e a hidroxila (OH).</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/listening-alien-intelligence-wrong-channel-high-frequency/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Alguns astrónomos acreditam que deveríamos procurar inteligência alienígena em frequências de rádio mais altas do que as tradicionalmente utilizadas no SETI. E eles já começaram. A postagem Estamos ouvindo a inteligência alienígena da maneira errada? apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Aqui, observamos o céu numa noite em que a lua (não retratada) ilumina a escuridão. Agora, pela primeira vez, uma equipa de astrónomos utilizou o ALMA para ouvir sinais de inteligência alienígena.</p><p>Participe hoje da nossa Campanha de Doação 2026. Os astrônomos do SETI procuram sinais de rádio, principalmente de uma banda específica do espectro de rádio: as frequências entre 1,42 e 1,66 GHz.</p><p>E, em 24 de julho de 2026, Louisa Mason, da Universidade de Manchester, no Reino Unido. Os astrônomos escolheram originalmente as frequências entre 1,42 e 1,66 GHz, que eles chamam de buraco d&#x27;água, devido à sua localização entre o hidrogênio (H) e a hidroxila (OH).</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/listening-alien-intelligence-wrong-channel-high-frequency/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Some astronomers believe we should search for alien intelligence at higher radio frequencies than those traditionally used in SETI. And they&#x27;ve already begun. The post Are we listening for alien intelligence the wrong way? first appeared. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Here, it’s observing the sky on a night when the moon (not pictured) brightens the darkness. Now, for the first time, a team of astronomers has used ALMA to listen for signals from alien intelligence.</p><p>Join our 2026 Donation Campaign today. SETI astronomers search for radio signals, mostly from a specific band of the radio spectrum: the frequencies between 1.42 and 1.66 GHz.</p><p>And, on July 24, 2026, Louisa Mason of the University of Manchester in the U. K. Astronomers originally chose the frequencies between 1.42 and 1.66 GHz, which they call the water hole, because of its location between hydrogen (H) and hydroxyl (OH).</p><p>It was the first-ever search for extraterrestrial intelligence using the powerful ALMA telescope. The search for aliens using ALMA Mason said: For decades, SETI searches have concentrated on a relatively small part of the radio spectrum.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The millimeter and submillimeter radio bands remain almost completely unexplored for SETI, so this is really about opening up a new area of parameter space to search. But their first attempt did reveal a hidden opportunity within every radio observation.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/listening-alien-intelligence-wrong-channel-high-frequency/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Alguns astrónomos acreditam que deveríamos procurar inteligência alienígena em frequências de rádio mais altas do que as tradicionalmente utilizadas.",
-      "Dado-chave: Aqui, observamos o céu numa noite em que a lua (não retratada) ilumina a escuridão.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Alguns astrónomos acreditam que deveríamos procurar inteligência alienígena em frequências de rádio mais altas do que as tradicionalmente utilizadas.",
-      "Dado-chave: Aqui, observamos o céu numa noite em que a lua (não retratada) ilumina a escuridão.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Some astronomers believe we should search for alien intelligence at higher radio frequencies than those traditionally used in SETI. And they've.",
-      "Key detail: Here, it’s observing the sky on a night when the moon (not pictured) brightens the darkness.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "26 jul 2026",
-    "date_pt": "26 jul 2026",
-    "date_en": "26 Jul 2026",
-    "time": "12h00",
-    "time_pt": "12h00",
-    "time_en": "12:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-26T12:00:43+00:00",
-    "lastModifiedIso": "2026-07-26T12:00:43+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Estamos ouvindo a inteligência alienígena da maneira errada?"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Estamos ouvindo a inteligência alienígena da maneira errada?"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "Are we listening to alien intelligence the wrong way?"
-    ],
-    "srcUrl": "https://earthsky.org/space/listening-alien-intelligence-wrong-channel-high-frequency/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=are-we-listening-for-alien-intelligence-the-wrong-way",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=are-we-listening-for-alien-intelligence-the-wrong-way",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=are-we-listening-for-alien-intelligence-the-wrong-way&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 68,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 62,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
     "id": 11,
     "slug": "look-for-nasa-now-streaming-on-amazon-fire-tv",
     "cat": "Astronomia",
@@ -1298,35 +1307,7 @@ window.postsData = [
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/solar_eclipse_artist_impression/27150246-1-eng-GB/Solar_eclipse_artist_impression_card_full.png",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/total_solar_eclipse_12_august_2026_global_map/27246043-1-eng-GB/Total_solar_eclipse_12_August_2026_Global_map_article.png",
-        "caption": "Eclipse solar total 12 de agosto de 2026 – Mapa global",
-        "caption_pt": "Eclipse solar total 12 de agosto de 2026 – Mapa global",
-        "caption_en": "Total solar eclipse 12 August 2026 – Global map",
-        "alt": "Eclipse solar total 12 de agosto de 2026 – Mapa global",
-        "alt_pt": "Eclipse solar total 12 de agosto de 2026 – Mapa global",
-        "alt_en": "Total solar eclipse 12 August 2026 – Global map"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/total_solar_eclipse_12_august_2026_map_of_totality_in_spain/27245996-1-eng-GB/Total_solar_eclipse_12_August_2026_Map_of_totality_in_Spain_article.png",
-        "caption": "Eclipse solar total 12 de agosto de 2026 – Mapa da totalidade na Espanha",
-        "caption_pt": "Eclipse solar total 12 de agosto de 2026 – Mapa da totalidade na Espanha",
-        "caption_en": "Total solar eclipse 12 August 2026 – Map of totality in Spain",
-        "alt": "Eclipse solar total 12 de agosto de 2026 – Mapa da totalidade na Espanha",
-        "alt_pt": "Eclipse solar total 12 de agosto de 2026 – Mapa da totalidade na Espanha",
-        "alt_en": "Total solar eclipse 12 August 2026 – Map of totality in Spain"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/total_solar_eclipse_2026_leon_event_daytime_workshop_programme/27388350-2-eng-GB/Total_solar_eclipse_2026_Leon_event_daytime_workshop_programme_article.jpg",
-        "caption": "Eclipse solar total 2026: uma manhã de ciência para toda a família",
-        "caption_pt": "Eclipse solar total 2026: uma manhã de ciência para toda a família",
-        "caption_en": "Total solar eclipse 2026: a morning of science for the whole family",
-        "alt": "Eclipse solar total 2026: uma manhã de ciência para toda a família",
-        "alt_pt": "Eclipse solar total 2026: uma manhã de ciência para toda a família",
-        "alt_en": "Total solar eclipse 2026: a morning of science for the whole family"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Assista ao eclipse solar total com a ESA em León",
@@ -1338,9 +1319,9 @@ window.postsData = [
     "excerpt": "Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia, a cidade de León e a Universidade de León.",
     "excerpt_pt": "Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia, a cidade de León e a Universidade de León.",
     "excerpt_en": "Discover the science behind one of nature's most extraordinary phenomena and experience a total solar eclipse with the European Space Agency, the City of León and the University of León.",
-    "body": "<p>Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia, a cidade de León e a Universidade de León. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia (ESA), a cidade de León e a. No dia 12 de Agosto, milhões de pessoas em toda a Europa olharão para o céu para testemunhar um dos fenómenos mais espectaculares da natureza: um eclipse solar total.</p><p>O norte da Espanha será um dos melhores lugares do mundo para vivenciar a totalidade, quando a Lua cobrir completamente o Sol. Para assinalar esta ocasião extraordinária, a ESA, juntamente com a Cidade de Leão e a Universidade de Leão, está a organizar um evento público gratuito no Palácio de Exposições e.</p><p>O evento reunirá cientistas, engenheiros e especialistas em astronomia, que guiarão os visitantes pela ciência por trás do eclipse com atividades interativas, palestras e. Das 10h00 às 14h00 CEST, os visitantes podem explorar uma ampla variedade de workshops práticos, experimentos e atividades interativas projetadas para todas as idades.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia, a cidade de León e a Universidade de León. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia (ESA), a cidade de León e a. No dia 12 de Agosto, milhões de pessoas em toda a Europa olharão para o céu para testemunhar um dos fenómenos mais espectaculares da natureza: um eclipse solar total.</p><p>O norte da Espanha será um dos melhores lugares do mundo para vivenciar a totalidade, quando a Lua cobrir completamente o Sol. Para assinalar esta ocasião extraordinária, a ESA, juntamente com a Cidade de Leão e a Universidade de Leão, está a organizar um evento público gratuito no Palácio de Exposições e.</p><p>O evento reunirá cientistas, engenheiros e especialistas em astronomia, que guiarão os visitantes pela ciência por trás do eclipse com atividades interativas, palestras e. Das 10h00 às 14h00 CEST, os visitantes podem explorar uma ampla variedade de workshops práticos, experimentos e atividades interativas projetadas para todas as idades.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Discover the science behind one of nature&#x27;s most extraordinary phenomena and experience a total solar eclipse with the European Space Agency, the City of León and the University of León. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Discover the science behind one of nature&#x27;s most extraordinary phenomena and experience a total solar eclipse with the European Space Agency (ESA), the City of León and the. On 12 August, millions of people across Europe will look to the sky to witness one of nature&#x27;s most spectacular phenomena: a total solar eclipse.</p><p>Northern Spain will be one of the best places in the world to experience totality, when the Moon completely covers the Sun. To mark this extraordinary occasion, ESA, together with the City of León and the University of León, is organising a free public event at the Palacio de Exposiciones y Congresos.</p><p>The event will bring together scientists, engineers and astronomy experts, who will guide visitors through the science behind the eclipse with interactive activities, talks and. 00, 14: 00 CEST, visitors can explore a wide range of hands-on workshops, experiments and interactive activities designed for all ages.</p><p>From the science of the Sun and eclipses to Europe&#x27;s space missions, aerospace engineering and the history of astronomy, the daytime programme offers something for families, space. 30 CEST, giving visitors plenty of time to find a place before the main stage programme begins at 18: 30 CEST.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The evening programme combines science talks and expert commentary to guide visitors through every stage of the eclipse, explaining what is happening in the sky and why the 12. From family workshops and interactive demonstrations in the daytime to an evening of science and eclipse observation, here is what visitors can expect throughout the day: A DAY OF.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia, a cidade de León e a Universidade de León. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia (ESA), a cidade de León e a.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia, a cidade de León e a Universidade de León. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia (ESA), a cidade de León e a.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Discover the science behind one of nature&#x27;s most extraordinary phenomena and experience a total solar eclipse with the European Space Agency, the City of León and the University of León. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Discover the science behind one of nature&#x27;s most extraordinary phenomena and experience a total solar eclipse with the European Space Agency (ESA), the City of León and the.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial.",
       "Dado-chave: Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial.",
@@ -2076,143 +2057,6 @@ window.postsData = [
   },
   {
     "id": 18,
-    "slug": "new-images-reveal-the-stunning-properties-of-the-black-hole-at-the-center-of-m87",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://www.universetoday.com/article_images/m87_lo_april11_polarimetric_average_image_ml_deband-cc-8bit-srgb_20260724_225052.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/Screenshot_2026-01-19_at_12-44-52_Anatomy_-_NASA_Science_20260119_233540.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/n97-28mhers",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.universetoday.com/articles/new-images-reveal-the-stunning-properties-of-the-black-hole-at-the-center-of-m87"
-    },
-    "audio": null,
-    "title": "Novas imagens revelam as impressionantes propriedades do buraco negro no centro de M87",
-    "title_pt": "Novas imagens revelam as impressionantes propriedades do buraco negro no centro de M87",
-    "title_en": "New Images Reveal the Stunning Properties of the Black Hole at the Center of M87",
-    "sub": "Pesquisadores do Observatório Astronômico de Xangai da Academia Chinesa de Ciências, juntamente com colaboradores internacionais, realizaram o primeiro estudo espectral de dupla.",
-    "sub_pt": "Pesquisadores do Observatório Astronômico de Xangai da Academia Chinesa de Ciências, juntamente com colaboradores internacionais, realizaram o primeiro estudo espectral de dupla.",
-    "sub_en": "Researchers from the Shanghai Astronomical Observatory of the Chinese Academy of Sciences, together with international collaborators, carried out the first spatially resolved.",
-    "excerpt": "Pesquisadores do Observatório Astronômico de Xangai da Academia Chinesa de Ciências, juntamente com colaboradores internacionais, realizaram o primeiro estudo espectral de dupla frequência espacialmente resolvido do buraco negro M87.",
-    "excerpt_pt": "Pesquisadores do Observatório Astronômico de Xangai da Academia Chinesa de Ciências, juntamente com colaboradores internacionais, realizaram o primeiro estudo espectral de dupla frequência espacialmente resolvido do buraco negro M87.",
-    "excerpt_en": "Researchers from the Shanghai Astronomical Observatory of the Chinese Academy of Sciences, together with international collaborators, carried out the first spatially resolved dual-frequency spectral study of the M87 black hole using.",
-    "body": "<p>Pesquisadores do Observatório Astronômico de Xangai da Academia Chinesa de Ciências, juntamente com colaboradores internacionais, realizaram o primeiro estudo espectral de dupla frequência espacialmente resolvido do buraco negro M87. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Em 2019, cientistas do Event Horizon Telescope (EHT) divulgaram a primeira imagem de um buraco negro. Depois de anos coletando dados de observatórios em todo o mundo, o mundo teve um vislumbre do buraco negro supermassivo (SMBH) no centro da galáxia M87, uma galáxia elíptica.</p><p>Recentemente, uma equipe internacional liderada por pesquisadores do Observatório Astronômico de Xangai (SAO) realizou o primeiro estudo espectral de dupla frequência. Ao combinar imagens à escala do horizonte de vários observatórios, produziram o primeiro mapa espacialmente resolvido que revela como a assinatura espectral do buraco negro M87.</p><p>Os seus resultados são apresentados num artigo publicado ontem (20 de julho) no The Astrophysical Journal Letters.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/new-images-reveal-the-stunning-properties-of-the-black-hole-at-the-center-of-m87\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Pesquisadores do Observatório Astronômico de Xangai da Academia Chinesa de Ciências, juntamente com colaboradores internacionais, realizaram o primeiro estudo espectral de dupla frequência espacialmente resolvido do buraco negro M87. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Em 2019, cientistas do Event Horizon Telescope (EHT) divulgaram a primeira imagem de um buraco negro. Depois de anos coletando dados de observatórios em todo o mundo, o mundo teve um vislumbre do buraco negro supermassivo (SMBH) no centro da galáxia M87, uma galáxia elíptica.</p><p>Recentemente, uma equipe internacional liderada por pesquisadores do Observatório Astronômico de Xangai (SAO) realizou o primeiro estudo espectral de dupla frequência. Ao combinar imagens à escala do horizonte de vários observatórios, produziram o primeiro mapa espacialmente resolvido que revela como a assinatura espectral do buraco negro M87.</p><p>Os seus resultados são apresentados num artigo publicado ontem (20 de julho) no The Astrophysical Journal Letters.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/new-images-reveal-the-stunning-properties-of-the-black-hole-at-the-center-of-m87\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Researchers from the Shanghai Astronomical Observatory of the Chinese Academy of Sciences, together with international collaborators, carried out the first spatially resolved dual-frequency spectral study of the M87 black hole using. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. In 2019, scientists with the Event Horizon Telescope (EHT) released the first-ever image of a black hole. After years of gathering data from observatories worldwide, the world got a glimpse of the supermassive black hole (SMBH) at the center of the M87 galaxy, a super-giant elliptical.</p><p>Recently, an international team led by researchers from the Shanghai Astronomical Observatory (SAO) carried out the first spatially resolved dual-frequency spectral study of the. By combining horizon-scale images from multiple observatories, they produced the first spatially resolved map that reveals how the M87 black hole&#x27;s spectral signature changes with.</p><p>Their results are presented in a paper published yesterday (July 20th) in The Astrophysical Journal Letters. The team&#x27;s survey was based on observations obtained in 2018 by the EHT and the Global Millimeter VLBI Array (GMVA).</p><p>By combining horizon-scale images in the Extremely High Frequency (EHF) range of radio waves and the high-frequency edge of microwaves (1.3 and 3.5 mm). This transition occurs at a distance of about 30 microarcseconds (μas) from the black hole, consistent with the ring-like structure observed with the GMVA.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>This suggests that the ring-like structure revealed by the EHT in 2019 is closely connected to the physical state of plasma near the event horizon and not merely a morphological. Shan-Shan Zhao, an assistant researcher at the SAO at the Chinese Academy of Sciences (CAS) and the first author of the paper: By obtaining the first spatially resolved.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/new-images-reveal-the-stunning-properties-of-the-black-hole-at-the-center-of-m87\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Pesquisadores do Observatório Astronômico de Xangai da Academia Chinesa de Ciências, juntamente com colaboradores internacionais, realizaram o.",
-      "Dado-chave: Pesquisadores do Observatório Astronômico de Xangai da Academia Chinesa de Ciências, juntamente com colaboradores internacionais, realizaram o.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Pesquisadores do Observatório Astronômico de Xangai da Academia Chinesa de Ciências, juntamente com colaboradores internacionais, realizaram o.",
-      "Dado-chave: Pesquisadores do Observatório Astronômico de Xangai da Academia Chinesa de Ciências, juntamente com colaboradores internacionais, realizaram o.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Researchers from the Shanghai Astronomical Observatory of the Chinese Academy of Sciences, together with international collaborators, carried out the.",
-      "Key detail: Researchers from the Shanghai Astronomical Observatory of the Chinese Academy of Sciences, together with international collaborators, carried.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "24 jul 2026",
-    "date_pt": "24 jul 2026",
-    "date_en": "24 Jul 2026",
-    "time": "22h55",
-    "time_pt": "22h55",
-    "time_en": "22:55 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-24T22:55:57+00:00",
-    "lastModifiedIso": "2026-07-24T22:55:57+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "Universe Today",
-      "Cosmos Week",
-      "Novas imagens revelam as impressionantes propriedades do buraco negro no centro de M87"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "Universe Today",
-      "Cosmos Week",
-      "Novas imagens revelam as impressionantes propriedades do buraco negro no centro de M87"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "Universe Today",
-      "Cosmos Week",
-      "New images reveal the stunning properties of the black hole at the center of M87"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/new-images-reveal-the-stunning-properties-of-the-black-hole-at-the-center-of-m87",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=new-images-reveal-the-stunning-properties-of-the-black-hole-at-the-center-of-m87",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=new-images-reveal-the-stunning-properties-of-the-black-hole-at-the-center-of-m87",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=new-images-reveal-the-stunning-properties-of-the-black-hole-at-the-center-of-m87&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 76,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
-    "id": 19,
     "slug": "jwst-may-be-missing-water-hidden-deep-within-mini-neptune-worlds",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2343,7 +2187,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 19,
     "slug": "update-on-ocean-observatories-initiative",
     "cat": "Física",
     "catCls": "fisica",
@@ -2467,7 +2311,7 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
+    "id": 20,
     "slug": "io-s-volcanic-output-offers-a-40-day-forecast-of-plasma-density-in-jupiter-s-magnetosphere",
     "cat": "Física",
     "catCls": "fisica",
@@ -2613,7 +2457,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 21,
     "slug": "curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present",
     "cat": "Física",
     "catCls": "fisica",
@@ -2752,7 +2596,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 22,
     "slug": "nasa-astronaut-chris-williams-crewmates-return-from-space-station",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2853,11 +2697,11 @@ window.postsData = [
       "evidence": 88,
       "relevance": 80,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 24,
+    "id": 23,
     "slug": "improved-reporting-needed-on-forest-carbon-emissions",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2959,6 +2803,121 @@ window.postsData = [
       "relevance": 80,
       "accessibility": 60,
       "novelty": 46
+    }
+  },
+  {
+    "id": 24,
+    "slug": "walking-shark-discovered-in-papua-new-guinea",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2026/07/Dudgeons-walking-shark_Mark-V-Erdmann_thumbnail-e1784911676783.png",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Tubarão ambulante descoberto em Papua Nova Guiné",
+    "title_pt": "Tubarão ambulante descoberto em Papua Nova Guiné",
+    "title_en": "Walking shark discovered in Papua New Guinea",
+    "sub": "A Semana do Tubarão começa com uma descoberta notável: os cientistas identificaram um novo tubarão ambulante, provando que o oceano ainda guarda segredos que vale a pena proteger.",
+    "sub_pt": "A Semana do Tubarão começa com uma descoberta notável: os cientistas identificaram um novo tubarão ambulante, provando que o oceano ainda guarda segredos que vale a pena proteger.",
+    "sub_en": "Shark Week begins with a remarkable discovery: scientists have identified a new walking shark, proving the ocean still holds secrets worth protecting. The post Walking shark.",
+    "excerpt": "A Semana do Tubarão começa com uma descoberta notável: os cientistas identificaram um novo tubarão ambulante, provando que o oceano ainda guarda segredos que vale a pena proteger. O post Tubarão ambulante descoberto em Papua Nova Guiné apareceu pela primeira.",
+    "excerpt_pt": "A Semana do Tubarão começa com uma descoberta notável: os cientistas identificaram um novo tubarão ambulante, provando que o oceano ainda guarda segredos que vale a pena proteger. O post Tubarão ambulante descoberto em Papua Nova Guiné apareceu pela primeira.",
+    "excerpt_en": "Shark Week begins with a remarkable discovery: scientists have identified a new walking shark, proving the ocean still holds secrets worth protecting. The post Walking shark discovered in Papua New Guinea first appeared on EarthSky.",
+    "body": "<p>A Semana do Tubarão começa com uma descoberta notável: os cientistas identificaram um novo tubarão ambulante, provando que o oceano ainda guarda segredos que vale a pena proteger. O post Tubarão ambulante descoberto em Papua Nova Guiné apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Uma equipe de cientistas descobriu uma nova espécie de tubarão ambulante, bem a tempo para a Shark Week 2026. Pesquisadores da Universidade de Sunshine Coast (UniSC), na Austrália, identificaram um tubarão ambulante em Papua Nova Guiné.</p><p>Eles publicaram suas descobertas no Journal of the Ocean Science Foundation, revisado por pares, em 15 de junho de 2026. O anúncio surge num momento em que a investigação sobre tubarões nunca foi tão importante: mais de 1/3 das espécies de tubarões e raias em todo o mundo estão ameaçadas de.</p><p>Nas duas noites seguintes, encontraram outros 11 indivíduos com o mesmo padrão distinto, reforçando a possibilidade de terem descoberto uma espécie até então desconhecida.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/scientists-discover-a-walking-shark-species/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Semana do Tubarão começa com uma descoberta notável: os cientistas identificaram um novo tubarão ambulante, provando que o oceano ainda guarda segredos que vale a pena proteger. O post Tubarão ambulante descoberto em Papua Nova Guiné apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Uma equipe de cientistas descobriu uma nova espécie de tubarão ambulante, bem a tempo para a Shark Week 2026. Pesquisadores da Universidade de Sunshine Coast (UniSC), na Austrália, identificaram um tubarão ambulante em Papua Nova Guiné.</p><p>Eles publicaram suas descobertas no Journal of the Ocean Science Foundation, revisado por pares, em 15 de junho de 2026. O anúncio surge num momento em que a investigação sobre tubarões nunca foi tão importante: mais de 1/3 das espécies de tubarões e raias em todo o mundo estão ameaçadas de.</p><p>Nas duas noites seguintes, encontraram outros 11 indivíduos com o mesmo padrão distinto, reforçando a possibilidade de terem descoberto uma espécie até então desconhecida.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/scientists-discover-a-walking-shark-species/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Shark Week begins with a remarkable discovery: scientists have identified a new walking shark, proving the ocean still holds secrets worth protecting. The post Walking shark discovered in Papua New Guinea first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Shark Week begins with a remarkable discovery: scientists have identified a new walking shark, proving the ocean still holds secrets worth protecting. A team of scientists has discovered a new species of walking shark, just in time for Shark Week 2026.</p><p>Researchers from the University of the Sunshine Coast (UniSC) in Australia have identified a walking shark in Papua New Guinea. They published their findings in the peer-reviewed Journal of the Ocean Science Foundation on June 15, 2026.</p><p>The announcement comes at a time when shark research has never been more important: more than 1/3 of shark and ray species worldwide are threatened with extinction, according to. Over the following two nights, they found another 11 individuals with the same distinctive pattern, strengthening the possibility that they had discovered a previously unknown.</p><p>We hope to collect more data on our next research trip in October to help the International Union for Conservation of Nature (IUCN) Red List assess the species as vulnerable or. Why discoveries like this still matter The discovery of Dudgeon’s walking shark highlights an important reality: scientists continue to find new shark species even in the 21st.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Some unfold quietly on remote reefs, where species can remain hidden from science for decades. The discovery of a completely new shark species in 2026 serves as a powerful reminder that the ocean remains one of Earth’s least explored frontiers.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/scientists-discover-a-walking-shark-species/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A Semana do Tubarão começa com uma descoberta notável: os cientistas identificaram um novo tubarão ambulante, provando que o oceano ainda guarda.",
+      "Dado-chave: A Semana do Tubarão começa com uma descoberta notável: os cientistas identificaram um novo tubarão ambulante, provando que o oceano ainda guarda.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A Semana do Tubarão começa com uma descoberta notável: os cientistas identificaram um novo tubarão ambulante, provando que o oceano ainda guarda.",
+      "Dado-chave: A Semana do Tubarão começa com uma descoberta notável: os cientistas identificaram um novo tubarão ambulante, provando que o oceano ainda guarda.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Shark Week begins with a remarkable discovery: scientists have identified a new walking shark, proving the ocean still holds secrets worth.",
+      "Key detail: Shark Week begins with a remarkable discovery: scientists have identified a new walking shark, proving the ocean still holds secrets worth.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "26 jul 2026",
+    "date_pt": "26 jul 2026",
+    "date_en": "26 Jul 2026",
+    "time": "12h00",
+    "time_pt": "12h00",
+    "time_en": "12:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-26T12:00:08+00:00",
+    "lastModifiedIso": "2026-07-26T12:00:08+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Tubarão ambulante descoberto em Papua Nova Guiné"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Tubarão ambulante descoberto em Papua Nova Guiné"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "Walking shark discovered in Papua New Guinea"
+    ],
+    "srcUrl": "https://earthsky.org/earth/scientists-discover-a-walking-shark-species/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=walking-shark-discovered-in-papua-new-guinea",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=walking-shark-discovered-in-papua-new-guinea",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=walking-shark-discovered-in-papua-new-guinea&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 73,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 55
     }
   },
   {
@@ -3649,6 +3608,15 @@ window.postsData = [
         "alt_en": "The Olympic Peninsula, viewed at an angle from above, features snow-capped mountains surrounded by deep, forested river valleys. Islands in Puget Sound and developed areas including Seattle and Tacoma appear across the top of the photo."
       },
       {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/reading-penguin-diets-in-shades-of-guano/dangerislands_drone_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Dois grupos escuros e circulares de pinguins se reúnem em uma costa rochosa, com uma faixa de gelo marinho branco margeando a costa.",
+        "caption_pt": "Dois grupos escuros e circulares de pinguins se reúnem em uma costa rochosa, com uma faixa de gelo marinho branco margeando a costa.",
+        "caption_en": "Two dark, circular clusters of penguins gather on a rocky shoreline, with a strip of white sea ice fringing the coast.",
+        "alt": "Dois grupos escuros e circulares de pinguins se reúnem em uma costa rochosa, com uma faixa de gelo marinho branco margeando a costa.",
+        "alt_pt": "Dois grupos escuros e circulares de pinguins se reúnem em uma costa rochosa, com uma faixa de gelo marinho branco margeando a costa.",
+        "alt_en": "Two dark, circular clusters of penguins gather on a rocky shoreline, with a strip of white sea ice fringing the coast."
+      },
+      {
         "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-million-panel-project/solarutah_oli_20240616.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint",
         "caption": "Um vale seco e de cor castanha contendo alguns campos circulares irrigados corre aproximadamente de norte a sul através da imagem.",
         "caption_pt": "Um vale seco e de cor castanha contendo alguns campos circulares irrigados corre aproximadamente de norte a sul através da imagem.",
@@ -3656,15 +3624,6 @@ window.postsData = [
         "alt": "Um vale seco e de cor castanha contendo alguns campos circulares irrigados corre aproximadamente de norte a sul através da imagem.",
         "alt_pt": "Um vale seco e de cor castanha contendo alguns campos circulares irrigados corre aproximadamente de norte a sul através da imagem.",
         "alt_en": "A dry, tan-colored valley containing a few circular irrigated fields runs roughly north-south through the image."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-million-panel-project/solarutah_oli_20260606.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Conjuntos de painéis solares em forma de grade cobrem partes do fundo de um vale em uma área marrom e de aparência seca de Utah.",
-        "caption_pt": "Conjuntos de painéis solares em forma de grade cobrem partes do fundo de um vale em uma área marrom e de aparência seca de Utah.",
-        "caption_en": "Grid-like arrays of solar panels cover parts of a valley floor in a brown, dry-looking area of Utah.",
-        "alt": "Conjuntos de painéis solares em forma de grade cobrem partes do fundo de um vale em uma área marrom e de aparência seca de Utah.",
-        "alt_pt": "Conjuntos de painéis solares em forma de grade cobrem partes do fundo de um vale em uma área marrom e de aparência seca de Utah.",
-        "alt_en": "Grid-like arrays of solar panels cover parts of a valley floor in a brown, dry-looking area of Utah."
       }
     ],
     "video": null,
@@ -4518,121 +4477,6 @@ window.postsData = [
   },
   {
     "id": 37,
-    "slug": "walking-shark-discovered-in-papua-new-guinea",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2026/07/Dudgeons-walking-shark_Mark-V-Erdmann_thumbnail-e1784911676783.png",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Tubarão ambulante descoberto em Papua Nova Guiné",
-    "title_pt": "Tubarão ambulante descoberto em Papua Nova Guiné",
-    "title_en": "Walking shark discovered in Papua New Guinea",
-    "sub": "A Semana do Tubarão começa com uma descoberta notável: os cientistas identificaram um novo tubarão ambulante, provando que o oceano ainda guarda segredos que vale a pena proteger.",
-    "sub_pt": "A Semana do Tubarão começa com uma descoberta notável: os cientistas identificaram um novo tubarão ambulante, provando que o oceano ainda guarda segredos que vale a pena proteger.",
-    "sub_en": "Shark Week begins with a remarkable discovery: scientists have identified a new walking shark, proving the ocean still holds secrets worth protecting. The post Walking shark.",
-    "excerpt": "A Semana do Tubarão começa com uma descoberta notável: os cientistas identificaram um novo tubarão ambulante, provando que o oceano ainda guarda segredos que vale a pena proteger. O post Tubarão ambulante descoberto em Papua Nova Guiné apareceu pela primeira.",
-    "excerpt_pt": "A Semana do Tubarão começa com uma descoberta notável: os cientistas identificaram um novo tubarão ambulante, provando que o oceano ainda guarda segredos que vale a pena proteger. O post Tubarão ambulante descoberto em Papua Nova Guiné apareceu pela primeira.",
-    "excerpt_en": "Shark Week begins with a remarkable discovery: scientists have identified a new walking shark, proving the ocean still holds secrets worth protecting. The post Walking shark discovered in Papua New Guinea first appeared on EarthSky.",
-    "body": "<p>A Semana do Tubarão começa com uma descoberta notável: os cientistas identificaram um novo tubarão ambulante, provando que o oceano ainda guarda segredos que vale a pena proteger. O post Tubarão ambulante descoberto em Papua Nova Guiné apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Uma equipe de cientistas descobriu uma nova espécie de tubarão ambulante, bem a tempo para a Shark Week 2026. Pesquisadores da Universidade de Sunshine Coast (UniSC), na Austrália, identificaram um tubarão ambulante em Papua Nova Guiné.</p><p>Eles publicaram suas descobertas no Journal of the Ocean Science Foundation, revisado por pares, em 15 de junho de 2026. O anúncio surge num momento em que a investigação sobre tubarões nunca foi tão importante: mais de 1/3 das espécies de tubarões e raias em todo o mundo estão ameaçadas de.</p><p>Nas duas noites seguintes, encontraram outros 11 indivíduos com o mesmo padrão distinto, reforçando a possibilidade de terem descoberto uma espécie até então desconhecida.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/scientists-discover-a-walking-shark-species/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A Semana do Tubarão começa com uma descoberta notável: os cientistas identificaram um novo tubarão ambulante, provando que o oceano ainda guarda segredos que vale a pena proteger. O post Tubarão ambulante descoberto em Papua Nova Guiné apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Uma equipe de cientistas descobriu uma nova espécie de tubarão ambulante, bem a tempo para a Shark Week 2026. Pesquisadores da Universidade de Sunshine Coast (UniSC), na Austrália, identificaram um tubarão ambulante em Papua Nova Guiné.</p><p>Eles publicaram suas descobertas no Journal of the Ocean Science Foundation, revisado por pares, em 15 de junho de 2026. O anúncio surge num momento em que a investigação sobre tubarões nunca foi tão importante: mais de 1/3 das espécies de tubarões e raias em todo o mundo estão ameaçadas de.</p><p>Nas duas noites seguintes, encontraram outros 11 indivíduos com o mesmo padrão distinto, reforçando a possibilidade de terem descoberto uma espécie até então desconhecida.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/scientists-discover-a-walking-shark-species/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Shark Week begins with a remarkable discovery: scientists have identified a new walking shark, proving the ocean still holds secrets worth protecting. The post Walking shark discovered in Papua New Guinea first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Shark Week begins with a remarkable discovery: scientists have identified a new walking shark, proving the ocean still holds secrets worth protecting. A team of scientists has discovered a new species of walking shark, just in time for Shark Week 2026.</p><p>Researchers from the University of the Sunshine Coast (UniSC) in Australia have identified a walking shark in Papua New Guinea. They published their findings in the peer-reviewed Journal of the Ocean Science Foundation on June 15, 2026.</p><p>The announcement comes at a time when shark research has never been more important: more than 1/3 of shark and ray species worldwide are threatened with extinction, according to. Over the following two nights, they found another 11 individuals with the same distinctive pattern, strengthening the possibility that they had discovered a previously unknown.</p><p>We hope to collect more data on our next research trip in October to help the International Union for Conservation of Nature (IUCN) Red List assess the species as vulnerable or. Why discoveries like this still matter The discovery of Dudgeon’s walking shark highlights an important reality: scientists continue to find new shark species even in the 21st.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Some unfold quietly on remote reefs, where species can remain hidden from science for decades. The discovery of a completely new shark species in 2026 serves as a powerful reminder that the ocean remains one of Earth’s least explored frontiers.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/scientists-discover-a-walking-shark-species/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A Semana do Tubarão começa com uma descoberta notável: os cientistas identificaram um novo tubarão ambulante, provando que o oceano ainda guarda.",
-      "Dado-chave: A Semana do Tubarão começa com uma descoberta notável: os cientistas identificaram um novo tubarão ambulante, provando que o oceano ainda guarda.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A Semana do Tubarão começa com uma descoberta notável: os cientistas identificaram um novo tubarão ambulante, provando que o oceano ainda guarda.",
-      "Dado-chave: A Semana do Tubarão começa com uma descoberta notável: os cientistas identificaram um novo tubarão ambulante, provando que o oceano ainda guarda.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Shark Week begins with a remarkable discovery: scientists have identified a new walking shark, proving the ocean still holds secrets worth.",
-      "Key detail: Shark Week begins with a remarkable discovery: scientists have identified a new walking shark, proving the ocean still holds secrets worth.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "26 jul 2026",
-    "date_pt": "26 jul 2026",
-    "date_en": "26 Jul 2026",
-    "time": "12h00",
-    "time_pt": "12h00",
-    "time_en": "12:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-26T12:00:08+00:00",
-    "lastModifiedIso": "2026-07-26T12:00:08+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Tubarão ambulante descoberto em Papua Nova Guiné"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Tubarão ambulante descoberto em Papua Nova Guiné"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "Walking shark discovered in Papua New Guinea"
-    ],
-    "srcUrl": "https://earthsky.org/earth/scientists-discover-a-walking-shark-species/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=walking-shark-discovered-in-papua-new-guinea",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=walking-shark-discovered-in-papua-new-guinea",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=walking-shark-discovered-in-papua-new-guinea&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 73,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 38,
     "slug": "visible-planets-and-night-sky-guide-for-july-and-august",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4747,7 +4591,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 38,
     "slug": "what-is-the-milky-way-it-s-our-home-galaxy",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4862,6 +4706,121 @@ window.postsData = [
     }
   },
   {
+    "id": 39,
+    "slug": "oldest-mars-meteorite-reveals-mars-lost-its-water-early",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2026/07/Teghaza-001-Mars-meteorite-Sahara-Desert-September-2022.png",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Meteorito mais antigo de Marte revela que Marte perdeu água cedo",
+    "title_pt": "Meteorito mais antigo de Marte revela que Marte perdeu água cedo",
+    "title_en": "Oldest Mars meteorite reveals Mars lost its water early",
+    "sub": "Uma nova análise do meteorito marciano mais antigo conhecido, Teghaza 001, revela evidências de uma crosta semelhante a granito e do início da perda de água no início de Marte. A.",
+    "sub_pt": "Uma nova análise do meteorito marciano mais antigo conhecido, Teghaza 001, revela evidências de uma crosta semelhante a granito e do início da perda de água no início de Marte. A.",
+    "sub_en": "A new analysis of the the oldest known Mars meteorite, Teghaza 001, reveals evidence for a granite-like crust and the start of the loss of water on early Mars. The post Oldest.",
+    "excerpt": "Uma nova análise do meteorito marciano mais antigo conhecido, Teghaza 001, revela evidências de uma crosta semelhante a granito e do início da perda de água no início de Marte. A postagem O meteorito mais antigo de Marte revela que Marte perdeu sua água.",
+    "excerpt_pt": "Uma nova análise do meteorito marciano mais antigo conhecido, Teghaza 001, revela evidências de uma crosta semelhante a granito e do início da perda de água no início de Marte. A postagem O meteorito mais antigo de Marte revela que Marte perdeu sua água.",
+    "excerpt_en": "A new analysis of the the oldest known Mars meteorite, Teghaza 001, reveals evidence for a granite-like crust and the start of the loss of water on early Mars. The post Oldest Mars meteorite reveals Mars lost its water early first appeared.",
+    "body": "<p>Uma nova análise do meteorito marciano mais antigo conhecido, Teghaza 001, revela evidências de uma crosta semelhante a granito e do início da perda de água no início de Marte. A postagem O meteorito mais antigo de Marte revela que Marte perdeu sua água apareceu pela primeira. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Uma nova análise do meteorito marciano mais antigo conhecido, Teghaza 001, revela evidências de uma crosta semelhante a granito e do início da perda de água no início de Marte. | Close do meteorito Teghaza 001 de Marte.</p><p>Uma nova análise deste antigo pedaço do planeta vermelho revela que ele estava começando a perder água há mais de 4 bilhões de anos. Teghaza 001 é um meteorito que veio de Marte.</p><p>Além disso, revela que Marte tinha uma crosta semelhante ao granito, o que é surpreendente, dado que o planeta carece de placas tectónicas. Teghaza 001, o meteorito mais antigo de Marte conhecido Muitos pedaços de material marciano foram ejetados do planeta vermelho e chegaram à Terra como meteoritos.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/mars-meteorite-teghaza-001-granite-water/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma nova análise do meteorito marciano mais antigo conhecido, Teghaza 001, revela evidências de uma crosta semelhante a granito e do início da perda de água no início de Marte. A postagem O meteorito mais antigo de Marte revela que Marte perdeu sua água apareceu pela primeira. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Uma nova análise do meteorito marciano mais antigo conhecido, Teghaza 001, revela evidências de uma crosta semelhante a granito e do início da perda de água no início de Marte. | Close do meteorito Teghaza 001 de Marte.</p><p>Uma nova análise deste antigo pedaço do planeta vermelho revela que ele estava começando a perder água há mais de 4 bilhões de anos. Teghaza 001 é um meteorito que veio de Marte.</p><p>Além disso, revela que Marte tinha uma crosta semelhante ao granito, o que é surpreendente, dado que o planeta carece de placas tectónicas. Teghaza 001, o meteorito mais antigo de Marte conhecido Muitos pedaços de material marciano foram ejetados do planeta vermelho e chegaram à Terra como meteoritos.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/mars-meteorite-teghaza-001-granite-water/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A new analysis of the the oldest known Mars meteorite, Teghaza 001, reveals evidence for a granite-like crust and the start of the loss of water on early Mars. The post Oldest Mars meteorite reveals Mars lost its water early first appeared. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. A new analysis of the the oldest known Mars meteorite, Teghaza 001, reveals evidence for a granite-like crust and the start of the loss of water on early Mars. | Closeup of the Teghaza 001 Mars meteorite.</p><p>A new analysis of this ancient piece of the red planet reveals it was starting to lose its water over 4 billion years ago. Teghaza 001 is a meteorite that came from Mars.</p><p>Plus, it reveals Mars had a crust similar to granite, which is surprising given the planet lacks plate tectonics. Teghaza 001, the oldest known Mars meteorite Many pieces of Martian material have been ejected from the red planet and reached Earth as meteorites.</p><p>And researchers have identified the piece of Mars’ crust as being over 4.1 billion years old. This meteorite, called Teghaza 001, “will revolutionize the way that we think about early Mars.”Learn more: https: //scim. ag/4yDBSYK, Science Magazine (@science. org).</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Yang liu at Caltech is the lead author of the new study about the Teghaza 001 meteorite from Mars. But they also indicate that Mars began to lose its water early on, as the planet’s magnetic field disappeared and the atmosphere thinned and became much colder.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/mars-meteorite-teghaza-001-granite-water/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Uma nova análise do meteorito marciano mais antigo conhecido, Teghaza 001, revela evidências de uma crosta semelhante a granito e do início da perda.",
+      "Dado-chave: Uma nova análise do meteorito marciano mais antigo conhecido, Teghaza 001, revela evidências de uma crosta semelhante a granito e do início da.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Uma nova análise do meteorito marciano mais antigo conhecido, Teghaza 001, revela evidências de uma crosta semelhante a granito e do início da perda.",
+      "Dado-chave: Uma nova análise do meteorito marciano mais antigo conhecido, Teghaza 001, revela evidências de uma crosta semelhante a granito e do início da.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: A new analysis of the the oldest known Mars meteorite, Teghaza 001, reveals evidence for a granite-like crust and the start of the loss of water on.",
+      "Key detail: A new analysis of the the oldest known Mars meteorite, Teghaza 001, reveals evidence for a granite-like crust and the start of the loss of water.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "24 jul 2026",
+    "date_pt": "24 jul 2026",
+    "date_en": "24 Jul 2026",
+    "time": "11h37",
+    "time_pt": "11h37",
+    "time_en": "11:37 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-24T11:37:51+00:00",
+    "lastModifiedIso": "2026-07-24T11:37:51+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Meteorito mais antigo de Marte revela que Marte perdeu água cedo"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Meteorito mais antigo de Marte revela que Marte perdeu água cedo"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "Mars' oldest meteorite reveals Mars lost water early"
+    ],
+    "srcUrl": "https://earthsky.org/space/mars-meteorite-teghaza-001-granite-water/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=oldest-mars-meteorite-reveals-mars-lost-its-water-early",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=oldest-mars-meteorite-reveals-mars-lost-its-water-early",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=oldest-mars-meteorite-reveals-mars-lost-its-water-early&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 73,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 88,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 49
+    }
+  },
+  {
     "id": 40,
     "slug": "meet-delta-scorpii-aka-dschubba-it-s-a-variable-star",
     "cat": "Ciências da Terra",
@@ -4970,13 +4929,13 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 73,
+    "score": 72,
     "scoreBreakdown": {
       "source": 72,
       "evidence": 82,
       "relevance": 80,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   }
 ];

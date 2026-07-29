@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Jul 2026 09:25:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 11:49:18 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>A pesquisa do NIH estabelece uma nova estrutura para o papel da senescência no envelhecimento</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-research-establishes-new-framework-for-the-role-of-senescence-in-aging</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-research-establishes-new-framework-for-the-role-of-senescence-in-aging</guid>
-              <pubDate>Wed, 29 Jul 2026 09:24:21 +0000</pubDate>
+              <pubDate>Wed, 29 Jul 2026 11:47:35 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O primeiro atlas em grande escala de células senescentes poderia ajudar a informar futuras terapias para doenças relacionadas à idade.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A pesquisa do NIH estabelece uma nova estrutura para o papel da senescência no envelhecimento</category>
@@ -21,7 +21,7 @@
               <title>Dr. Raymond Jacobson selecionado como diretor do NIH Center for Scientific Review</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=dr-raymond-jacobson-selected-as-director-of-the-nih-center-for-scientific-review</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=dr-raymond-jacobson-selected-as-director-of-the-nih-center-for-scientific-review</guid>
-              <pubDate>Wed, 29 Jul 2026 09:24:21 +0000</pubDate>
+              <pubDate>Wed, 29 Jul 2026 11:47:35 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O Centro garante que os pedidos de subsídios do NIH recebam análises justas, independentes, especializadas e oportunas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Dr. Raymond Jacobson selecionado como diretor do NIH Center for Scientific Review</category>
@@ -31,7 +31,7 @@
               <title>NIH lança novo escritório para promover pesquisas baseadas em humanos e reduzir o uso de animais</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-office-to-advance-human-based-research-and-reduce-animal-use</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-office-to-advance-human-based-research-and-reduce-animal-use</guid>
-              <pubDate>Wed, 29 Jul 2026 09:24:21 +0000</pubDate>
+              <pubDate>Wed, 29 Jul 2026 11:47:35 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O novo escritório coordenará esforços para desenvolver, validar e dimensionar modelos de pesquisa sem animais.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>NIH lança novo escritório para promover pesquisas baseadas em humanos e reduzir o uso de animais</category>
@@ -41,7 +41,7 @@
               <title>Para adultos com pré-diabetes, a intervenção no estilo de vida reduziu o risco de desenvolver múltiplas condições crónicas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=for-adults-with-prediabetes-lifestyle-intervention-lowered-risk-of-developing-multiple-chronic-c</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=for-adults-with-prediabetes-lifestyle-intervention-lowered-risk-of-developing-multiple-chronic-c</guid>
-              <pubDate>Wed, 29 Jul 2026 09:24:21 +0000</pubDate>
+              <pubDate>Wed, 29 Jul 2026 11:47:35 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ensaio clínico de longo prazo apoiado pelo NIH não encontrou diferença entre metformina e placebo.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Para adultos com pré</category>
@@ -51,12 +51,52 @@
               <title>Pesquisadores descobrem atividade cerebral unicelular subjacente à fala humana</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=researchers-discover-single-cell-brain-activity-that-underlies-human-speech</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=researchers-discover-single-cell-brain-activity-that-underlies-human-speech</guid>
-              <pubDate>Wed, 29 Jul 2026 09:24:21 +0000</pubDate>
+              <pubDate>Wed, 29 Jul 2026 11:47:35 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Com dados neuronais, os modelos de IA previram a gramática, o significado e o contexto das frases faladas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Pesquisadores descobrem atividade cerebral unicelular subjacente à fala humana</category>
               <source url="https://www.nih.gov/news-events/news-releases/researchers-discover-single-cell-brain-activity-underlies-human-speech">NIH News Releases</source>
               <content:encoded>Com dados neuronais, os modelos de IA previram a gramática, o significado e o contexto das frases faladas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Ao aplicar modelos de aprendizagem automática a gravações cereb</content:encoded>
+            </item><item>
+              <title>Juno mede a temperatura subterrânea do ardente Io pela primeira vez</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=juno-measures-fiery-io-s-subsurface-temperature-for-1st-time</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=juno-measures-fiery-io-s-subsurface-temperature-for-1st-time</guid>
+              <pubDate>Wed, 29 Jul 2026 11:45:13 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>A espaçonave Juno da NASA mediu a temperatura subterrânea da lua de Júpiter, Io, pela primeira vez, fornecendo novas pistas sobre o mundo vulcânico aquecido pelas marés. O post Juno mede a temperatura subterrânea do ardente Io pela primeira vez.</description>
+              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>Juno mede a temperatura subterrânea do ardente Io pela primeira vez</category>
+              <source url="https://earthsky.org/space/ios-subsurface-temperature-io-jupiter-juno/">EarthSky</source>
+              <content:encoded>A espaçonave Juno da NASA mediu a temperatura subterrânea da lua de Júpiter, Io, pela primeira vez, fornecendo novas pistas sobre o mundo vulcânico aquecido pelas marés. O post Juno mede a temperatura subterrânea do ardente Io pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem </content:encoded>
+            </item><item>
+              <title>Meteotsunami atinge Lago Winnebago após tornado em Wisconsin</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=meteotsunami-hits-lake-winnebago-after-wisconsin-tornado</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=meteotsunami-hits-lake-winnebago-after-wisconsin-tornado</guid>
+              <pubDate>Wed, 29 Jul 2026 10:44:23 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Um meteotsunami ocorre quando um sistema climático faz com que todo o corpo de água oscile, criando mudanças repentinas no nível da água ao longo da costa. O post Meteotsunami atinge o Lago Winnebago depois que o tornado de Wisconsin apareceu pela primeira.</description>
+              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>Meteotsunami atinge Lago Winnebago após tornado em Wisconsin</category>
+              <source url="https://earthsky.org/earth/what-is-a-meteotsunami/">EarthSky</source>
+              <content:encoded>Um meteotsunami ocorre quando um sistema climático faz com que todo o corpo de água oscile, criando mudanças repentinas no nível da água ao longo da costa. O post Meteotsunami atinge o Lago Winnebago depois que o tornado de Wisconsin apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espac</content:encoded>
+            </item><item>
+              <title>Jimothy, o guaxinim, é um sobrevivente! Aqui está o porquê</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=jimothy-the-raccoon-is-a-survivor-here-s-why</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=jimothy-the-raccoon-is-a-survivor-here-s-why</guid>
+              <pubDate>Wed, 29 Jul 2026 10:17:14 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>O guaxinim Jimothy tem uma história inspiradora, mostrando como um animal pode se adaptar, principalmente com a ajuda de sua mãe, para superar desafios extraordinários. O post Jimothy, o guaxinim, é um sobrevivente! Veja por que apareceu pela primeira vez no.</description>
+              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>Jimothy</category>
+              <source url="https://earthsky.org/earth/jimothy-the-raccoon-is-a-survivor/">EarthSky</source>
+              <content:encoded>O guaxinim Jimothy tem uma história inspiradora, mostrando como um animal pode se adaptar, principalmente com a ajuda de sua mãe, para superar desafios extraordinários. O post Jimothy, o guaxinim, é um sobrevivente! Veja por que apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial m</content:encoded>
+            </item><item>
+              <title>Notícias do Sol: Sol passando por uma calmaria</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-sun-going-through-a-lull</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-sun-going-through-a-lull</guid>
+              <pubDate>Wed, 29 Jul 2026 09:00:53 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>O sol se acalmou, com AR4498 como o único produtor de flare. Mas a chegada de CMEs e um buraco coronal podem agitar as coisas até 30 de julho. As notícias pós-Sol: Sol passando por uma calmaria apareceram pela primeira vez no EarthSky.</description>
+              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>Notícias do Sol</category>
+              <source url="https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/">EarthSky</source>
+              <content:encoded>O sol se acalmou, com AR4498 como o único produtor de flare. Mas a chegada de CMEs e um buraco coronal podem agitar as coisas até 30 de julho. As notícias pós-Sol: Sol passando por uma calmaria apareceram pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar va</content:encoded>
             </item><item>
               <title>EUA vão afrouxar salvaguardas ambientais na indústria espacial</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=us-to-loosen-environmental-safeguards-on-space-industry</link>
@@ -68,45 +108,35 @@
               <source url="https://phys.org/news/2026-07-loosen-environmental-safeguards-space-industry.html">Phys.org Space</source>
               <content:encoded>Os Estados Unidos anunciaram na terça-feira que planeiam isentar o seu setor espacial privado de inúmeras regulamentações ambientais para acelerar o ritmo dos lançamentos espaciais e aumentar a concorrência com a China. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natu</content:encoded>
             </item><item>
-              <title>Missão privada para resgatar o antigo telescópio da NASA enfrenta seus próprios problemas</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=private-mission-to-rescue-nasa-s-aging-telescope-runs-into-its-own-trouble</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=private-mission-to-rescue-nasa-s-aging-telescope-runs-into-its-own-trouble</guid>
-              <pubDate>Wed, 29 Jul 2026 08:16:38 +0000</pubDate>
+              <title>Hubble da NASA mostra formação de estrelas na galáxia de Andrômeda diminuindo</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-hubble-shows-star-formation-in-andromeda-galaxy-winding-down</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-hubble-shows-star-formation-in-andromeda-galaxy-winding-down</guid>
+              <pubDate>Mon, 27 Jul 2026 14:00:14 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A espaçonave que corre para resgatar um telescópio da NASA envelhecido e afundado enfrentou seu próprio problema.</description>
-              <category>Astronomia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Missão privada para resgatar o antigo telescópio da NASA enfrenta seus próprios problemas</category>
-              <source url="https://phys.org/news/2026-07-private-mission-nasa-aging-telescope.html">Phys.org Space</source>
-              <content:encoded>A espaçonave que corre para resgatar um telescópio da NASA envelhecido e afundado enfrentou seu próprio problema. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e a</content:encoded>
+              <description>O Hubble da NASA descobriu que a formação de estrelas na galáxia de Andrômeda sofreu um declínio de 500 milhões de anos.</description>
+              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Hubble da NASA mostra formação de estrelas na galáxia de Andrômeda diminuindo</category>
+              <source url="https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/">NASA News Releases</source>
+              <content:encoded>O Hubble da NASA descobriu que a formação de estrelas na galáxia de Andrômeda sofreu um declínio de 500 milhões de anos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Joseph DePasquale (STScI) Um novo estudo usando dados do</content:encoded>
             </item><item>
-              <title>Dimensionando o Cinturão dos Sargaços</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=sizing-up-the-sargassum-belt</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=sizing-up-the-sargassum-belt</guid>
-              <pubDate>Wed, 29 Jul 2026 04:00:00 +0000</pubDate>
+              <title>O astronauta da NASA Chris Williams discutirá a missão da estação espacial</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-astronaut-chris-williams-to-discuss-space-station-mission</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-astronaut-chris-williams-to-discuss-space-station-mission</guid>
+              <pubDate>Mon, 27 Jul 2026 18:49:20 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>As algas marinhas que compõem o Grande Cinturão Atlântico de Sargaços atingiram níveis quase recordes em junho de 2026, com o Mar do Caribe e o Golfo da América atingindo níveis máximos históricos.</description>
-              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Dimensionando o Cinturão dos Sargaços</category>
-              <source url="https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/">NASA News Releases</source>
-              <content:encoded>As algas marinhas que compõem o Grande Cinturão Atlântico de Sargaços atingiram níveis quase recordes em junho de 2026, com o Mar do Caribe e o Golfo da América atingindo níveis máximos históricos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-l</content:encoded>
+              <description>O astronauta da NASA, Chris Williams, recapitulará sua recente missão de oito meses a bordo da Estação Espacial Internacional durante uma entrevista coletiva às 14h45. m. EDT terça-feira, 4 de agosto, do Johnson Space Center da agência em Houston. A NASA irá.</description>
+              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>O astronauta da NASA Chris Williams discutirá a missão da estação espacial</category>
+              <source url="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/">NASA News Releases</source>
+              <content:encoded>O astronauta da NASA, Chris Williams, recapitulará sua recente missão de oito meses a bordo da Estação Espacial Internacional durante uma entrevista coletiva às 14h45. m. EDT terça-feira, 4 de agosto, do Johnson Space Center da agência em Houston. A NASA irá transmitir. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que</content:encoded>
             </item><item>
-              <title>Um buraco negro errante encontra uma estrela errante</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-wandering-black-hole-meets-a-wandering-star</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=a-wandering-black-hole-meets-a-wandering-star</guid>
-              <pubDate>Wed, 29 Jul 2026 01:13:25 +0000</pubDate>
+              <title>NASA cobrirá três caminhadas espaciais nos EUA e apresentará conferência de notícias prévia</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-to-cover-three-us-spacewalks-host-preview-news-conference</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-to-cover-three-us-spacewalks-host-preview-news-conference</guid>
+              <pubDate>Mon, 27 Jul 2026 14:35:11 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>O que acontece quando um buraco negro e uma estrela se encontram no meio do nada de uma galáxia? Parece que poderia ser um cenário dramático de ficção científica, com alguma nave estelar infeliz apanhada no meio da crise. Na verdade, esses encontros na vida.</description>
-              <category>Astrofísica</category><category>Universe Today</category><category>Cosmos Week</category><category>Um buraco negro errante encontra uma estrela errante</category>
-              <source url="https://www.universetoday.com/articles/a-wandering-black-hole-meets-a-wandering-star">Universe Today</source>
-              <content:encoded>O que acontece quando um buraco negro e uma estrela se encontram no meio do nada de uma galáxia? Parece que poderia ser um cenário dramático de ficção científica, com alguma nave estelar infeliz apanhada no meio da crise. Na verdade, esses encontros na vida real. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encai</content:encoded>
-            </item><item>
-              <title>Amostras de rocha lunar estão levando os cientistas a repensar a história da Lua</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=samples-of-lunar-rock-are-leading-scientists-to-rethink-the-moon-s-history</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=samples-of-lunar-rock-are-leading-scientists-to-rethink-the-moon-s-history</guid>
-              <pubDate>Tue, 28 Jul 2026 23:44:14 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Com base numa nova análise das amostras lunares da Chang'e-6, os cientistas estão novamente a questionar o momento e a intensidade do período do Bombardeamento Pesado Tardio.</description>
-              <category>Astronomia</category><category>Universe Today</category><category>Cosmos Week</category><category>Amostras de rocha lunar estão levando os cientistas a repensar a história da Lua</category>
-              <source url="https://www.universetoday.com/articles/samples-of-lunar-rock-are-leading-scientists-to-rethink-the-moons-history">Universe Today</source>
-              <content:encoded>Com base numa nova análise das amostras lunares da Chang'e-6, os cientistas estão novamente a questionar o momento e a intensidade do período do Bombardeamento Pesado Tardio. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. E </content:encoded>
+              <description>Este comunicado à mídia foi atualizado em 27 de julho de 2026 para refletir um horário de início atualizado para a caminhada espacial na quinta-feira, 6 de agosto. A NASA fornecerá cobertura enquanto os astronautas se aventuram fora da Estação Espacial.</description>
+              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>NASA cobrirá três caminhadas espaciais nos EUA e apresentará conferência de notícias prévia</category>
+              <source url="https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/">NASA News Releases</source>
+              <content:encoded>Este comunicado à mídia foi atualizado em 27 de julho de 2026 para refletir um horário de início atualizado para a caminhada espacial na quinta-feira, 6 de agosto. A NASA fornecerá cobertura enquanto os astronautas se aventuram fora da Estação Espacial Internacional durante três. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual</content:encoded>
             </item><item>
               <title>Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</link>
@@ -158,6 +188,16 @@
               <source url="https://esahubble.org/news/heic2610/">ESA Hubble News</source>
               <content:encoded>O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas. Deveria estar preenchido com buracos negros deixados pela explosão de estrelas, mas as evidências deles são escassas. Agora, os astrônomos usam dados de arquivo do. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quan</content:encoded>
             </item><item>
+              <title>Um buraco negro errante encontra uma estrela errante</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-wandering-black-hole-meets-a-wandering-star</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=a-wandering-black-hole-meets-a-wandering-star</guid>
+              <pubDate>Wed, 29 Jul 2026 01:13:25 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>O que acontece quando um buraco negro e uma estrela se encontram no meio do nada de uma galáxia? Parece que poderia ser um cenário dramático de ficção científica, com alguma nave estelar infeliz apanhada no meio da crise. Na verdade, esses encontros na vida.</description>
+              <category>Astrofísica</category><category>Universe Today</category><category>Cosmos Week</category><category>Um buraco negro errante encontra uma estrela errante</category>
+              <source url="https://www.universetoday.com/articles/a-wandering-black-hole-meets-a-wandering-star">Universe Today</source>
+              <content:encoded>O que acontece quando um buraco negro e uma estrela se encontram no meio do nada de uma galáxia? Parece que poderia ser um cenário dramático de ficção científica, com alguma nave estelar infeliz apanhada no meio da crise. Na verdade, esses encontros na vida real. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encai</content:encoded>
+            </item><item>
               <title>A estrela de Tabby pode ser orbitada por uma companheira de massa planetária</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=tabby-s-star-may-be-orbited-by-a-planetary-mass-companion</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=tabby-s-star-may-be-orbited-by-a-planetary-mass-companion</guid>
@@ -167,46 +207,6 @@
               <category>Exoplanetas</category><category>Phys.org Space</category><category>Cosmos Week</category><category>A estrela de Tabby pode ser orbitada por uma companheira de massa planetária</category>
               <source url="https://phys.org/news/2026-07-tabby-star-orbited-planetary-mass.html">Phys.org Space</source>
               <content:encoded>Ao analisar dados do Transiting Exoplanet Survey Satellite da NASA e ao realizar novas medições de velocidade radial, astrónomos do Reino Unido e da França encontraram evidências de que a misteriosa estrela de Tabby pode ser orbitada por um objeto com cerca de nove estrelas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restring</content:encoded>
-            </item><item>
-              <title>Como a NASA planeja construir o Observatório de Mundos Habitáveis</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=how-nasa-plans-to-build-the-habitable-worlds-observatory</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=how-nasa-plans-to-build-the-habitable-worlds-observatory</guid>
-              <pubDate>Mon, 27 Jul 2026 22:20:01 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Já faz algum tempo que cobrimos a jornada do Observatório de Mundos Habitáveis. Ao longo dos últimos anos, passou de uma proposta para um plano relativamente elaborado sobre como e o que o próximo Grande Observatório deveria fazer, neste caso.</description>
-              <category>Exoplanetas</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Como a NASA planeja construir o Observatório de Mundos Habitáveis</category>
-              <source url="https://phys.org/news/2026-07-nasa-habitable-worlds-observatory.html">Phys.org Space</source>
-              <content:encoded>Já faz algum tempo que cobrimos a jornada do Observatório de Mundos Habitáveis. Ao longo dos últimos anos, passou de uma proposta para um plano relativamente elaborado sobre como e o que o próximo Grande Observatório deveria fazer, neste caso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos</content:encoded>
-            </item><item>
-              <title>Nova pesquisa mostra como as nuvens moldam o interior de sub-Netuno</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=new-research-shows-how-clouds-shape-the-interiors-of-sub-neptunes</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=new-research-shows-how-clouds-shape-the-interiors-of-sub-neptunes</guid>
-              <pubDate>Sun, 26 Jul 2026 23:12:32 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Cientistas da Escola de Exploração da Terra e do Espaço da ASU demonstraram como as nuvens na atmosfera de um sub-Netuno moldam a estrutura interior do planeta.</description>
-              <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>Nova pesquisa mostra como as nuvens moldam o interior de sub</category>
-              <source url="https://www.universetoday.com/articles/new-research-shows-how-clouds-shape-the-interiors-of-sub-neptunes">Universe Today</source>
-              <content:encoded>Cientistas da Escola de Exploração da Terra e do Espaço da ASU demonstraram como as nuvens na atmosfera de um sub-Netuno moldam a estrutura interior do planeta. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Até o momento, os astrônomos confirmaram </content:encoded>
-            </item><item>
-              <title>NSF lança Projeto Triad para avançar a tecnologia quântica para aplicações do mundo real</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications</guid>
-              <pubDate>Tue, 07 Jul 2026 18:00:07 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar detecção quântica, rede quântica e computação quântica em um único sistema operacional.</description>
-              <category>Física</category><category>NSF News</category><category>Cosmos Week</category><category>NSF lança Projeto Triad para avançar a tecnologia quântica para aplicações do mundo real</category>
-              <source url="https://www.nsf.gov/news/nsf-launches-project-triad-advance-quantum-technology-real">NSF News</source>
-              <content:encoded>A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar detecção quântica, rede quântica e computação quântica em um único sistema operacional. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre </content:encoded>
-            </item><item>
-              <title>HGCAL mantém a calma em um importante marco de testes</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=hgcal-keeps-its-cool-in-major-testing-milestone</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=hgcal-keeps-its-cool-in-major-testing-milestone</guid>
-              <pubDate>Tue, 28 Jul 2026 13:20:19 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Atualizações contínuas no caminho para HiLumi HGCAL mantêm a calma no principal marco de testes 28 de julho de 2026 Uma das maiores estruturas do futuro Calorímetro de Alta Granularidade da CMS concluiu com sucesso uma exigente série de testes, marcação.</description>
-              <category>Física</category><category>CERN News</category><category>Cosmos Week</category><category>HGCAL mantém a calma em um importante marco de testes</category>
-              <source url="https://home.cern/hgcal-keeps-its-cool-in-major-testing-milestone/">CERN News</source>
-              <content:encoded>Atualizações contínuas no caminho para HiLumi HGCAL mantêm a calma no principal marco de testes 28 de julho de 2026 Uma das maiores estruturas do futuro Calorímetro de Alta Granularidade da CMS concluiu com sucesso uma exigente série de testes, marcação. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inic</content:encoded>
             </item>
   </channel>
 </rss>

@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Jul 2026 18:37:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 19:57:24 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>A pesquisa do NIH estabelece uma nova estrutura para o papel da senescência no envelhecimento</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-research-establishes-new-framework-for-the-role-of-senescence-in-aging</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-research-establishes-new-framework-for-the-role-of-senescence-in-aging</guid>
-              <pubDate>Wed, 29 Jul 2026 18:34:50 +0000</pubDate>
+              <pubDate>Wed, 29 Jul 2026 19:56:08 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O primeiro atlas em grande escala de células senescentes poderia ajudar a informar futuras terapias para doenças relacionadas à idade.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A pesquisa do NIH estabelece uma nova estrutura para o papel da senescência no envelhecimento</category>
@@ -21,7 +21,7 @@
               <title>Dr. Raymond Jacobson selecionado como diretor do NIH Center for Scientific Review</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=dr-raymond-jacobson-selected-as-director-of-the-nih-center-for-scientific-review</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=dr-raymond-jacobson-selected-as-director-of-the-nih-center-for-scientific-review</guid>
-              <pubDate>Wed, 29 Jul 2026 18:34:50 +0000</pubDate>
+              <pubDate>Wed, 29 Jul 2026 19:56:08 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O Centro garante que os pedidos de subsídios do NIH recebam análises justas, independentes, especializadas e oportunas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Dr. Raymond Jacobson selecionado como diretor do NIH Center for Scientific Review</category>
@@ -31,7 +31,7 @@
               <title>NIH lança novo escritório para promover pesquisas baseadas em humanos e reduzir o uso de animais</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-office-to-advance-human-based-research-and-reduce-animal-use</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-office-to-advance-human-based-research-and-reduce-animal-use</guid>
-              <pubDate>Wed, 29 Jul 2026 18:34:50 +0000</pubDate>
+              <pubDate>Wed, 29 Jul 2026 19:56:08 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O novo escritório coordenará esforços para desenvolver, validar e dimensionar modelos de pesquisa sem animais.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>NIH lança novo escritório para promover pesquisas baseadas em humanos e reduzir o uso de animais</category>
@@ -41,7 +41,7 @@
               <title>Para adultos com pré-diabetes, a intervenção no estilo de vida reduziu o risco de desenvolver múltiplas condições crónicas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=for-adults-with-prediabetes-lifestyle-intervention-lowered-risk-of-developing-multiple-chronic-c</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=for-adults-with-prediabetes-lifestyle-intervention-lowered-risk-of-developing-multiple-chronic-c</guid>
-              <pubDate>Wed, 29 Jul 2026 18:34:50 +0000</pubDate>
+              <pubDate>Wed, 29 Jul 2026 19:56:08 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ensaio clínico de longo prazo apoiado pelo NIH não encontrou diferença entre metformina e placebo.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Para adultos com pré</category>
@@ -51,12 +51,32 @@
               <title>Pesquisadores descobrem atividade cerebral unicelular subjacente à fala humana</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=researchers-discover-single-cell-brain-activity-that-underlies-human-speech</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=researchers-discover-single-cell-brain-activity-that-underlies-human-speech</guid>
-              <pubDate>Wed, 29 Jul 2026 18:34:50 +0000</pubDate>
+              <pubDate>Wed, 29 Jul 2026 19:56:08 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Com dados neuronais, os modelos de IA previram a gramática, o significado e o contexto das frases faladas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Pesquisadores descobrem atividade cerebral unicelular subjacente à fala humana</category>
               <source url="https://www.nih.gov/news-events/news-releases/researchers-discover-single-cell-brain-activity-underlies-human-speech">NIH News Releases</source>
               <content:encoded>Com dados neuronais, os modelos de IA previram a gramática, o significado e o contexto das frases faladas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Ao aplicar modelos de aprendizagem automática a gravações cereb</content:encoded>
+            </item><item>
+              <title>Pequenos pontos vermelhos podem marcar a fase temporária do buraco negro</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=little-red-dots-may-mark-temporary-black-hole-phase</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=little-red-dots-may-mark-temporary-black-hole-phase</guid>
+              <pubDate>Wed, 29 Jul 2026 19:10:01 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para os astrónomos. Compreender a natureza destas fontes vermelhas compactas e extremamente distantes tem sido um enigma.</description>
+              <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Pequenos pontos vermelhos podem marcar a fase temporária do buraco negro</category>
+              <source url="https://phys.org/news/2026-07-red-dots-temporary-black-hole.html">Phys.org Space</source>
+              <content:encoded>Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para os astrónomos. Compreender a natureza destas fontes vermelhas compactas e extremamente distantes tem sido um enigma. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa q</content:encoded>
+            </item><item>
+              <title>As anãs brancas comem mais detritos planetários do que se pensava, mas os campos magnéticos escondem isso</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=white-dwarfs-eat-more-planetary-debris-than-thought-but-magnetic-fields-hide-it</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=white-dwarfs-eat-more-planetary-debris-than-thought-but-magnetic-fields-hide-it</guid>
+              <pubDate>Wed, 29 Jul 2026 18:57:27 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Os discos de detritos planetários em torno das anãs brancas parecem ser mais abundantes do que se pensava. Isso ocorre porque algumas anãs brancas são magnéticas, e esses campos magnéticos criam manchas de detritos metálicos perto dos pólos das estrelas, onde.</description>
+              <category>Ciências da Terra</category><category>Universe Today</category><category>Cosmos Week</category><category>As anãs brancas comem mais detritos planetários do que se pensava</category>
+              <source url="https://www.universetoday.com/articles/white-dwarfs-eat-more-planetary-debris-than-thought-but-magnetic-fields-hide-it">Universe Today</source>
+              <content:encoded>Os discos de detritos planetários em torno das anãs brancas parecem ser mais abundantes do que se pensava. Isso ocorre porque algumas anãs brancas são magnéticas, e esses campos magnéticos criam manchas de detritos metálicos perto dos pólos das estrelas, onde há mais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial m</content:encoded>
             </item><item>
               <title>Curiosity Mars Rover descobre campo de texturas de favo de mel</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=curiosity-mars-rover-discovers-field-of-honeycomb-textures</link>
@@ -88,16 +108,6 @@
               <source url="https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/">NASA News Releases</source>
               <content:encoded>Na quarta-feira, 12 de agosto, um eclipse solar total será visível em partes da Groenlândia, Islândia, norte da Rússia, Oceano Atlântico, Espanha e um pequeno canto de Portugal. A NASA transmitirá o eclipse ao vivo com vistas do caminho e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separa</content:encoded>
             </item><item>
-              <title>Chuva de meteoros Rara Total Solar Eclipse-Perseidas Dupla Cabeçalha 12 de agosto</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=rare-total-solar-eclipse-perseid-meteor-shower-double-header-august-12th</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=rare-total-solar-eclipse-perseid-meteor-shower-double-header-august-12th</guid>
-              <pubDate>Wed, 29 Jul 2026 16:40:28 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>O único eclipse solar total do ano coincide com a chuva de meteoros Perseidas. Aqui está o que você precisa saber para assistir ao eclipse. A postagem Chuva de meteoros Rara Total Solar Eclipse-Perseid Double-Header em 12 de agosto apareceu pela primeira vez.</description>
-              <category>Astronomia</category><category>Sky &amp; Telescope</category><category>Cosmos Week</category><category>Chuva de meteoros Rara Total Solar Eclipse</category>
-              <source url="https://skyandtelescope.org/astronomy-news/rare-total-solar-eclipse-perseid-meteor-shower-double-header-on-august-12th/">Sky &amp; Telescope</source>
-              <content:encoded>O único eclipse solar total do ano coincide com a chuva de meteoros Perseidas. Aqui está o que você precisa saber para assistir ao eclipse. A postagem Chuva de meteoros Rara Total Solar Eclipse-Perseid Double-Header em 12 de agosto apareceu pela primeira vez em Sky &amp;. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que u</content:encoded>
-            </item><item>
               <title>Curiosity Mars Rover da NASA descobre campo de texturas de favo de mel</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures</guid>
@@ -107,6 +117,16 @@
               <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Curiosity Mars Rover da NASA descobre campo de texturas de favo de mel</category>
               <source url="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/">NASA News Releases</source>
               <content:encoded>Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares aos cientistas da missão: texturas semelhantes a favos de mel chamadas fracturas poligonais, cada uma com cerca de 1,5 a. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um </content:encoded>
+            </item><item>
+              <title>Assista ao eclipse solar total com a ESA em León</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=watch-the-total-solar-eclipse-with-esa-in-leon</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=watch-the-total-solar-eclipse-with-esa-in-leon</guid>
+              <pubDate>Thu, 23 Jul 2026 10:00:00 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia, a cidade de León e a Universidade de León.</description>
+              <category>Astronomia</category><category>ESA Space Science</category><category>Cosmos Week</category><category>Assista ao eclipse solar total com a ESA em León</category>
+              <source url="https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon">ESA Space Science</source>
+              <content:encoded>Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia, a cidade de León e a Universidade de León. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo co</content:encoded>
             </item><item>
               <title>Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</link>
@@ -158,16 +178,6 @@
               <source url="https://esahubble.org/news/heic2610/">ESA Hubble News</source>
               <content:encoded>O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas. Deveria estar preenchido com buracos negros deixados pela explosão de estrelas, mas as evidências deles são escassas. Agora, os astrônomos usam dados de arquivo do. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quan</content:encoded>
             </item><item>
-              <title>Um buraco negro errante encontra uma estrela errante</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-wandering-black-hole-meets-a-wandering-star</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=a-wandering-black-hole-meets-a-wandering-star</guid>
-              <pubDate>Wed, 29 Jul 2026 01:13:25 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>O que acontece quando um buraco negro e uma estrela se encontram no meio do nada de uma galáxia? Parece que poderia ser um cenário dramático de ficção científica, com alguma nave estelar infeliz apanhada no meio da crise. Na verdade, esses encontros na vida.</description>
-              <category>Astrofísica</category><category>Universe Today</category><category>Cosmos Week</category><category>Um buraco negro errante encontra uma estrela errante</category>
-              <source url="https://www.universetoday.com/articles/a-wandering-black-hole-meets-a-wandering-star">Universe Today</source>
-              <content:encoded>O que acontece quando um buraco negro e uma estrela se encontram no meio do nada de uma galáxia? Parece que poderia ser um cenário dramático de ficção científica, com alguma nave estelar infeliz apanhada no meio da crise. Na verdade, esses encontros na vida real. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encai</content:encoded>
-            </item><item>
               <title>A estrela de Tabby pode ser orbitada por uma companheira de massa planetária</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=tabby-s-star-may-be-orbited-by-a-planetary-mass-companion</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=tabby-s-star-may-be-orbited-by-a-planetary-mass-companion</guid>
@@ -197,16 +207,6 @@
               <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>Nova pesquisa mostra como as nuvens moldam o interior de sub</category>
               <source url="https://www.universetoday.com/articles/new-research-shows-how-clouds-shape-the-interiors-of-sub-neptunes">Universe Today</source>
               <content:encoded>Cientistas da Escola de Exploração da Terra e do Espaço da ASU demonstraram como as nuvens na atmosfera de um sub-Netuno moldam a estrutura interior do planeta. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Até o momento, os astrônomos confirmaram </content:encoded>
-            </item><item>
-              <title>NSF lança Projeto Triad para avançar a tecnologia quântica para aplicações do mundo real</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications</guid>
-              <pubDate>Tue, 07 Jul 2026 18:00:07 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e computação quântica em um único sistema operacional.</description>
-              <category>Física</category><category>NSF News</category><category>Cosmos Week</category><category>NSF lança Projeto Triad para avançar a tecnologia quântica para aplicações do mundo real</category>
-              <source url="https://www.nsf.gov/news/nsf-launches-project-triad-advance-quantum-technology-real">NSF News</source>
-              <content:encoded>A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e computação quântica em um único sistema operacional. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase se</content:encoded>
             </item>
   </channel>
 </rss>

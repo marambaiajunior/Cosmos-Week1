@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Jul 2026 21:47:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 23:16:48 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>A pesquisa do NIH estabelece uma nova estrutura para o papel da senescência no envelhecimento</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-research-establishes-new-framework-for-the-role-of-senescence-in-aging</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-research-establishes-new-framework-for-the-role-of-senescence-in-aging</guid>
-              <pubDate>Thu, 30 Jul 2026 21:45:31 +0000</pubDate>
+              <pubDate>Thu, 30 Jul 2026 23:15:45 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O primeiro atlas em grande escala de células senescentes poderia ajudar a informar futuras terapias para doenças relacionadas à idade.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A pesquisa do NIH estabelece uma nova estrutura para o papel da senescência no envelhecimento</category>
@@ -21,7 +21,7 @@
               <title>Dr. Raymond Jacobson selecionado como diretor do NIH Center for Scientific Review</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=dr-raymond-jacobson-selected-as-director-of-the-nih-center-for-scientific-review</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=dr-raymond-jacobson-selected-as-director-of-the-nih-center-for-scientific-review</guid>
-              <pubDate>Thu, 30 Jul 2026 21:45:31 +0000</pubDate>
+              <pubDate>Thu, 30 Jul 2026 23:15:45 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O Centro garante que os pedidos de subsídios do NIH recebam análises justas, independentes, especializadas e oportunas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Dr. Raymond Jacobson selecionado como diretor do NIH Center for Scientific Review</category>
@@ -31,7 +31,7 @@
               <title>NIH lança novo escritório para promover pesquisas baseadas em humanos e reduzir o uso de animais</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-office-to-advance-human-based-research-and-reduce-animal-use</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-office-to-advance-human-based-research-and-reduce-animal-use</guid>
-              <pubDate>Thu, 30 Jul 2026 21:45:31 +0000</pubDate>
+              <pubDate>Thu, 30 Jul 2026 23:15:45 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O novo escritório coordenará esforços para desenvolver, validar e dimensionar modelos de pesquisa sem animais.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>NIH lança novo escritório para promover pesquisas baseadas em humanos e reduzir o uso de animais</category>
@@ -41,7 +41,7 @@
               <title>Para adultos com pré-diabetes, a intervenção no estilo de vida reduziu o risco de desenvolver múltiplas condições crónicas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=for-adults-with-prediabetes-lifestyle-intervention-lowered-risk-of-developing-multiple-chronic-c</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=for-adults-with-prediabetes-lifestyle-intervention-lowered-risk-of-developing-multiple-chronic-c</guid>
-              <pubDate>Thu, 30 Jul 2026 21:45:31 +0000</pubDate>
+              <pubDate>Thu, 30 Jul 2026 23:15:45 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ensaio clínico de longo prazo apoiado pelo NIH não encontrou diferença entre metformina e placebo.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Para adultos com pré</category>
@@ -51,12 +51,32 @@
               <title>Pesquisadores descobrem atividade cerebral unicelular subjacente à fala humana</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=researchers-discover-single-cell-brain-activity-that-underlies-human-speech</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=researchers-discover-single-cell-brain-activity-that-underlies-human-speech</guid>
-              <pubDate>Thu, 30 Jul 2026 21:45:31 +0000</pubDate>
+              <pubDate>Thu, 30 Jul 2026 23:15:45 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Com dados neuronais, os modelos de IA previram a gramática, o significado e o contexto das frases faladas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Pesquisadores descobrem atividade cerebral unicelular subjacente à fala humana</category>
               <source url="https://www.nih.gov/news-events/news-releases/researchers-discover-single-cell-brain-activity-underlies-human-speech">NIH News Releases</source>
               <content:encoded>Com dados neuronais, os modelos de IA previram a gramática, o significado e o contexto das frases faladas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Ao aplicar modelos de aprendizagem automática a gravações cereb</content:encoded>
+            </item><item>
+              <title>O que matou galáxias no universo primitivo?</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=what-killed-galaxies-in-the-early-universe</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=what-killed-galaxies-in-the-early-universe</guid>
+              <pubDate>Thu, 30 Jul 2026 22:00:00 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>As galáxias na infância do Universo são os blocos de construção das galáxias mais modernas. Eles começaram como pequenos “fragmentos” de material que se fundiram com o tempo para formar pedaços maiores. É por isso que os astrônomos usam observatórios como o.</description>
+              <category>Astronomia</category><category>Universe Today</category><category>Cosmos Week</category><category>O que matou galáxias no universo primitivo?</category>
+              <source url="https://www.universetoday.com/articles/what-killed-galaxies-in-the-early-universe">Universe Today</source>
+              <content:encoded>As galáxias na infância do Universo são os blocos de construção das galáxias mais modernas. Eles começaram como pequenos “fragmentos” de material que se fundiram com o tempo para formar pedaços maiores. É por isso que os astrônomos usam observatórios como o James Webb. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que </content:encoded>
+            </item><item>
+              <title>Alunos realizam pesquisas de campo aerotransportadas com a NASA</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=students-take-on-airborne-field-research-with-nasa</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=students-take-on-airborne-field-research-with-nasa</guid>
+              <pubDate>Thu, 30 Jul 2026 20:36:56 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>O vento forte não tornou fácil segurar um balão tão grande. O balão, um instrumento científico chamado sonda de ozônio, estava prestes a ser lançado na atmosfera acima da costa do Golfo do Texas por estudantes do SARP da NASA, que.</description>
+              <category>Ciências da Terra</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Alunos realizam pesquisas de campo aerotransportadas com a NASA</category>
+              <source url="https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/">NASA News Releases</source>
+              <content:encoded>O vento forte não tornou fácil segurar um balão tão grande. O balão, um instrumento científico chamado sonda de ozônio, estava prestes a ser lançado na atmosfera acima da costa do Golfo do Texas por estudantes do SARP da NASA, que. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variab</content:encoded>
             </item><item>
               <title>Novas imagens confirmam: Betelgeuse tem companheira</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=new-images-confirm-betelgeuse-has-a-companion</link>
@@ -88,35 +108,15 @@
               <source url="https://www.universetoday.com/articles/primordial-black-holes-can-trigger-type-ia-supernovae-and-astronomers-should-be-able-to-find-them">Universe Today</source>
               <content:encoded>Os buracos negros primordiais permanecem hipotéticos, mas isso não impede os astrofísicos de descobrir como eles poderiam interagir com outros objetos estelares. Uma nova pesquisa mostra como os PBHs se formaram no Universo primitivo a partir do colapso de bolsões de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se </content:encoded>
             </item><item>
-              <title>Radio Array detecta luz polarizada de um GRB</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=radio-array-detects-polarized-light-from-a-grb</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=radio-array-detects-polarized-light-from-a-grb</guid>
-              <pubDate>Thu, 30 Jul 2026 18:57:50 +0000</pubDate>
+              <title>NASA designa o astronauta Deniz Burnham para a primeira missão na estação espacial</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission</guid>
+              <pubDate>Thu, 30 Jul 2026 16:11:41 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Em 10 de março de 2026, a equipe de explosão de raios gama do telescópio Fermi relatou a detecção de uma explosão de raios gama de longa duração que ocorreu quando uma estrela explodiu dentro de uma nuvem densa e altamente magnetizada de gás hidrogênio. Essa.</description>
-              <category>Astrofísica</category><category>Universe Today</category><category>Cosmos Week</category><category>Radio Array detecta luz polarizada de um GRB</category>
-              <source url="https://www.universetoday.com/articles/radio-array-detects-polarized-light-from-a-grb">Universe Today</source>
-              <content:encoded>Em 10 de março de 2026, a equipe de explosão de raios gama do telescópio Fermi relatou a detecção de uma explosão de raios gama de longa duração que ocorreu quando uma estrela explodiu dentro de uma nuvem densa e altamente magnetizada de gás hidrogênio. Essa região HII é uma. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o s</content:encoded>
-            </item><item>
-              <title>Os antigos grãos de poeira estelar foram sementes dos primeiros sólidos do sistema solar</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=ancient-stardust-grains-were-seeds-for-the-earliest-solids-in-the-solar-system</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=ancient-stardust-grains-were-seeds-for-the-earliest-solids-in-the-solar-system</guid>
-              <pubDate>Thu, 30 Jul 2026 18:40:01 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Como é que os primeiros sólidos que formaram os planetas, luas e asteróides se formaram a partir da “sopa quente” que caracterizou os primeiros anos do nosso sistema solar? Uma nova pesquisa da Caltech analisando pedaços de um meteorito descobriu isso, assim.</description>
-              <category>Astronomia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Os antigos grãos de poeira estelar foram sementes dos primeiros sólidos do sistema solar</category>
-              <source url="https://phys.org/news/2026-07-ancient-stardust-grains-seeds-earliest.html">Phys.org Space</source>
-              <content:encoded>Como é que os primeiros sólidos que formaram os planetas, luas e asteróides se formaram a partir da “sopa quente” que caracterizou os primeiros anos do nosso sistema solar? Uma nova pesquisa da Caltech analisando pedaços de um meteorito descobriu isso, assim como os flocos de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual ex</content:encoded>
-            </item><item>
-              <title>Curiosity Mars Rover da NASA descobre campo de texturas de favo de mel</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures</guid>
-              <pubDate>Wed, 29 Jul 2026 15:30:00 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares aos cientistas da missão: texturas semelhantes a favos de mel chamadas fracturas poligonais, cada uma com cerca de.</description>
-              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Curiosity Mars Rover da NASA descobre campo de texturas de favo de mel</category>
-              <source url="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/">NASA News Releases</source>
-              <content:encoded>Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares aos cientistas da missão: texturas semelhantes a favos de mel chamadas fracturas poligonais, cada uma com cerca de 1,5 a. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um </content:encoded>
+              <description>A astronauta da NASA Deniz Burnham embarcará em sua primeira missão à Estação Espacial Internacional, servindo como engenheira de vôo da Expedição 76. Burnham será lançado a bordo da espaçonave Roscosmos Soyuz MS-30 com os cosmonautas Dmitri Petelin.</description>
+              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>NASA designa o astronauta Deniz Burnham para a primeira missão na estação espacial</category>
+              <source url="https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/">NASA News Releases</source>
+              <content:encoded>A astronauta da NASA Deniz Burnham embarcará em sua primeira missão à Estação Espacial Internacional, servindo como engenheira de vôo da Expedição 76. Burnham será lançado a bordo da espaçonave Roscosmos Soyuz MS-30 com os cosmonautas Dmitri Petelin. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobrev</content:encoded>
             </item><item>
               <title>Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</link>
@@ -147,6 +147,16 @@
               <category>Cosmologia</category><category>Universe Today</category><category>Cosmos Week</category><category>Um truque de câmera térmica pode permitir que o LIGO veja o dobro da distância</category>
               <source url="https://www.universetoday.com/articles/a-thermal-camera-trick-could-let-ligo-see-twice-as-far">Universe Today</source>
               <content:encoded>Uma equipe de pesquisadores descobriu uma maneira surpreendentemente simples de aumentar a sensibilidade de detectores de ondas gravitacionais como o LIGO. É surpreendentemente simples: basta apontar uma câmera termográfica comum para os próprios espelhos. O. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sis</content:encoded>
+            </item><item>
+              <title>Lançamento científico: Hubble descobre o primeiro buraco negro desaparecido do aglomerado de estrelas</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes</guid>
+              <pubDate>Mon, 13 Jul 2026 14:00:00 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas. Deveria estar preenchido com buracos negros deixados pela explosão de estrelas, mas as evidências deles são escassas. Agora, os astrônomos usam dados de arquivo do.</description>
+              <category>Astrofísica</category><category>ESA Hubble News</category><category>Cosmos Week</category><category>Lançamento científico</category>
+              <source url="https://esahubble.org/news/heic2610/">ESA Hubble News</source>
+              <content:encoded>O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas. Deveria estar preenchido com buracos negros deixados pela explosão de estrelas, mas as evidências deles são escassas. Agora, os astrônomos usam dados de arquivo do. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quan</content:encoded>
             </item><item>
               <title>O espectrógrafo do ELT pode detectar bioassinaturas em outros mundos</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=the-elt-s-spectrograph-could-sniff-out-biosignatures-on-other-worlds</link>
@@ -197,16 +207,6 @@
               <category>Física</category><category>Universe Today</category><category>Cosmos Week</category><category>Sondando estrelas binárias na Pequena Nuvem de Magalhães com o JWST</category>
               <source url="https://www.universetoday.com/articles/probing-binary-stars-in-the-small-magellanic-cloud-with-the-jwst">Universe Today</source>
               <content:encoded>Os astrônomos querem saber quão universal é a fração de massa inicial das galáxias. Para fazer isso, eles precisam discernir estrelas binárias em outras galáxias, uma tarefa difícil. Os pesquisadores usaram o JWST para estudar a Pequena Nuvem de Magalhães e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas </content:encoded>
-            </item><item>
-              <title>A edição de julho/agosto de 2026 do CERN Courier foi lançada</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=the-july-august-2026-issue-of-the-cern-courier-is-out</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=the-july-august-2026-issue-of-the-cern-courier-is-out</guid>
-              <pubDate>Wed, 29 Jul 2026 14:35:33 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Quando o colisor de grandes elétrons e pósitrons foi ativado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes, colidiu elétrons e pósitrons até a virada do século, marcando duas décadas.</description>
-              <category>Física</category><category>CERN News</category><category>Cosmos Week</category><category>A edição de julho/agosto de 2026 do CERN Courier foi lançada</category>
-              <source url="https://home.cern/the-july-august-2026-issue-of-the-cern-courier-is-out/">CERN News</source>
-              <content:encoded>Quando o colisor de grandes elétrons e pósitrons foi ativado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes, colidiu elétrons e pósitrons até a virada do século, marcando duas décadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A d</content:encoded>
             </item>
   </channel>
 </rss>

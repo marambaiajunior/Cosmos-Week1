@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Jul 2026 11:34:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 13:13:10 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>A pesquisa do NIH estabelece uma nova estrutura para o papel da senescência no envelhecimento</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-research-establishes-new-framework-for-the-role-of-senescence-in-aging</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-research-establishes-new-framework-for-the-role-of-senescence-in-aging</guid>
-              <pubDate>Thu, 30 Jul 2026 11:30:47 +0000</pubDate>
+              <pubDate>Thu, 30 Jul 2026 13:11:07 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O primeiro atlas em grande escala de células senescentes poderia ajudar a informar futuras terapias para doenças relacionadas à idade.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A pesquisa do NIH estabelece uma nova estrutura para o papel da senescência no envelhecimento</category>
@@ -21,7 +21,7 @@
               <title>Dr. Raymond Jacobson selecionado como diretor do NIH Center for Scientific Review</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=dr-raymond-jacobson-selected-as-director-of-the-nih-center-for-scientific-review</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=dr-raymond-jacobson-selected-as-director-of-the-nih-center-for-scientific-review</guid>
-              <pubDate>Thu, 30 Jul 2026 11:30:47 +0000</pubDate>
+              <pubDate>Thu, 30 Jul 2026 13:11:07 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O Centro garante que os pedidos de subsídios do NIH recebam análises justas, independentes, especializadas e oportunas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Dr. Raymond Jacobson selecionado como diretor do NIH Center for Scientific Review</category>
@@ -31,7 +31,7 @@
               <title>NIH lança novo escritório para promover pesquisas baseadas em humanos e reduzir o uso de animais</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-office-to-advance-human-based-research-and-reduce-animal-use</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-office-to-advance-human-based-research-and-reduce-animal-use</guid>
-              <pubDate>Thu, 30 Jul 2026 11:30:47 +0000</pubDate>
+              <pubDate>Thu, 30 Jul 2026 13:11:07 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O novo escritório coordenará esforços para desenvolver, validar e dimensionar modelos de pesquisa sem animais.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>NIH lança novo escritório para promover pesquisas baseadas em humanos e reduzir o uso de animais</category>
@@ -41,7 +41,7 @@
               <title>Para adultos com pré-diabetes, a intervenção no estilo de vida reduziu o risco de desenvolver múltiplas condições crónicas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=for-adults-with-prediabetes-lifestyle-intervention-lowered-risk-of-developing-multiple-chronic-c</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=for-adults-with-prediabetes-lifestyle-intervention-lowered-risk-of-developing-multiple-chronic-c</guid>
-              <pubDate>Thu, 30 Jul 2026 11:30:47 +0000</pubDate>
+              <pubDate>Thu, 30 Jul 2026 13:11:07 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ensaio clínico de longo prazo apoiado pelo NIH não encontrou diferença entre metformina e placebo.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Para adultos com pré</category>
@@ -51,12 +51,42 @@
               <title>Pesquisadores descobrem atividade cerebral unicelular subjacente à fala humana</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=researchers-discover-single-cell-brain-activity-that-underlies-human-speech</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=researchers-discover-single-cell-brain-activity-that-underlies-human-speech</guid>
-              <pubDate>Thu, 30 Jul 2026 11:30:47 +0000</pubDate>
+              <pubDate>Thu, 30 Jul 2026 13:11:07 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Com dados neuronais, os modelos de IA previram a gramática, o significado e o contexto das frases faladas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Pesquisadores descobrem atividade cerebral unicelular subjacente à fala humana</category>
               <source url="https://www.nih.gov/news-events/news-releases/researchers-discover-single-cell-brain-activity-underlies-human-speech">NIH News Releases</source>
               <content:encoded>Com dados neuronais, os modelos de IA previram a gramática, o significado e o contexto das frases faladas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Ao aplicar modelos de aprendizagem automática a gravações cereb</content:encoded>
+            </item><item>
+              <title>Buraco negro supermassivo errante encontrado na borda de sua galáxia</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=wandering-supermassive-black-hole-found-at-the-edge-of-its-galaxy</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=wandering-supermassive-black-hole-found-at-the-edge-of-its-galaxy</guid>
+              <pubDate>Thu, 30 Jul 2026 12:00:00 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Os astrónomos há muito que pensavam que buracos negros supermassivos podiam escapar das suas galáxias natais, mas agora encontraram um a vaguear pelos arredores galácticos do seu hospedeiro. O post Buraco negro supermassivo errante encontrado no limite de sua.</description>
+              <category>Astrofísica</category><category>Sky &amp; Telescope</category><category>Cosmos Week</category><category>Buraco negro supermassivo errante encontrado na borda de sua galáxia</category>
+              <source url="https://skyandtelescope.org/astronomy-news/wandering-supermassive-black-hole-found-at-the-edge-of-its-galaxy/">Sky &amp; Telescope</source>
+              <content:encoded>Os astrónomos há muito que pensavam que buracos negros supermassivos podiam escapar das suas galáxias natais, mas agora encontraram um a vaguear pelos arredores galácticos do seu hospedeiro. O post Buraco negro supermassivo errante encontrado no limite de sua galáxia apareceu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o </content:encoded>
+            </item><item>
+              <title>Além do LHC: os feixes do CERN mantêm a ciência em movimento</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=beyond-the-lhc-cern-s-beams-keep-science-moving</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=beyond-the-lhc-cern-s-beams-keep-science-moving</guid>
+              <pubDate>Thu, 30 Jul 2026 11:58:02 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>O Grande Colisor de Hádrons pode ter entrado no Long Shutdown 3, mas no restante das operações do complexo acelerador do CERN permanecem tão ocupadas como sempre. A cadeia de injetores do LHC continua a fornecer feixes de prótons para uma ampla gama de.</description>
+              <category>Física</category><category>CERN News</category><category>Cosmos Week</category><category>Além do LHC</category>
+              <source url="https://home.cern/beyond-the-lhc-cerns-beams-keep-science-moving/">CERN News</source>
+              <content:encoded>O Grande Colisor de Hádrons pode ter entrado no Long Shutdown 3, mas no restante das operações do complexo acelerador do CERN permanecem tão ocupadas como sempre. A cadeia de injetores do LHC continua a fornecer feixes de prótons para uma ampla gama de usuários, inclusive. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descob</content:encoded>
+            </item><item>
+              <title>A física quântica poderia nos ajudar a encontrar a Terra 2.0?</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=could-quantum-physics-help-us-find-earth-2-0</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=could-quantum-physics-help-us-find-earth-2-0</guid>
+              <pubDate>Thu, 30 Jul 2026 11:40:01 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Quando os astrônomos falam sobre a imagem direta de um exoplaneta orbitando uma estrela distante, a analogia que eles mais comumente usam é tentar localizar um vaga-lume próximo a um enorme holofote. Um exoplaneta semelhante à Terra é incrivelmente escuro.</description>
+              <category>Exoplanetas</category><category>Phys.org Space</category><category>Cosmos Week</category><category>A física quântica poderia nos ajudar a encontrar a Terra 2.0?</category>
+              <source url="https://phys.org/news/2026-07-quantum-physics-earth.html">Phys.org Space</source>
+              <content:encoded>Quando os astrônomos falam sobre a imagem direta de um exoplaneta orbitando uma estrela distante, a analogia que eles mais comumente usam é tentar localizar um vaga-lume próximo a um enorme holofote. Um exoplaneta semelhante à Terra é incrivelmente escuro, geralmente entre 100. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restr</content:encoded>
             </item><item>
               <title>Um truque de câmera térmica pode permitir que o LIGO veja o dobro da distância</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-thermal-camera-trick-could-let-ligo-see-twice-as-far</link>
@@ -77,36 +107,6 @@
               <category>Astrofísica</category><category>EarthSky</category><category>Cosmos Week</category><category>Buraco negro errante é visto destruindo uma estrela</category>
               <source url="https://earthsky.org/space/wandering-black-hole-shredding-a-star-outskirts-galaxy/">EarthSky</source>
               <content:encoded>Os astrônomos avistaram um buraco negro errante destruindo uma estrela. Este buraco negro supermassivo não está no centro de uma galáxia. Está vagando pela periferia. O post Buraco negro errante avistado destruindo uma estrela apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se en</content:encoded>
-            </item><item>
-              <title>Problema da Tempestade Dupla em Marte</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=mars-double-storm-problem</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=mars-double-storm-problem</guid>
-              <pubDate>Thu, 30 Jul 2026 11:03:00 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Um novo estudo apresentado no Encontro Nacional de Astronomia da Royal Astronomical Society sugere que as tempestades solares podem aquecer a baixa atmosfera marciana, mas apenas quando ocorrem durante uma grande tempestade de poeira marciana. A descoberta.</description>
-              <category>Ciências da Terra</category><category>Universe Today</category><category>Cosmos Week</category><category>Problema da Tempestade Dupla em Marte</category>
-              <source url="https://www.universetoday.com/articles/mars-double-storm-problem">Universe Today</source>
-              <content:encoded>Um novo estudo apresentado no Encontro Nacional de Astronomia da Royal Astronomical Society sugere que as tempestades solares podem aquecer a baixa atmosfera marciana, mas apenas quando ocorrem durante uma grande tempestade de poeira marciana. A descoberta foi. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais amp</content:encoded>
-            </item><item>
-              <title>Um foguete atingirá a Lua em 5 de agosto: Nova animação aqui!</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-rocket-will-hit-the-moon-on-august-5-new-animation-here</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=a-rocket-will-hit-the-moon-on-august-5-new-animation-here</guid>
-              <pubDate>Thu, 30 Jul 2026 10:50:56 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Um foguete Falcon 9 atingirá a Lua às 1h35. m. CDT em 5 de agosto de 2026. Quem pode ver? E o que você pode ver? Respostas aqui. O post Um foguete atingirá a lua em 5 de agosto: Nova animação aqui! apareceu pela primeira vez no EarthSky.</description>
-              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>Um foguete atingirá a Lua em 5 de agosto</category>
-              <source url="https://earthsky.org/space/falcon-rocket-will-hit-the-moon-august-5/">EarthSky</source>
-              <content:encoded>Um foguete Falcon 9 atingirá a Lua às 1h35. m. CDT em 5 de agosto de 2026. Quem pode ver? E o que você pode ver? Respostas aqui. O post Um foguete atingirá a lua em 5 de agosto: Nova animação aqui! apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar </content:encoded>
-            </item><item>
-              <title>O que são rastros de estrelas e como fotografá-los?</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=what-are-star-trails-and-how-do-i-photograph-them</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=what-are-star-trails-and-how-do-i-photograph-them</guid>
-              <pubDate>Thu, 30 Jul 2026 09:33:42 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Trilhas estelares são fotografias de estrelas de longa exposição tiradas enquanto a Terra gira, resultando em faixas de luz no céu. Veja como fotografar trilhas de estrelas. O post O que são trilhas de estrelas e como fotografá-las? apareceu pela primeira vez.</description>
-              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>O que são rastros de estrelas e como fotografá</category>
-              <source url="https://earthsky.org/astronomy-essentials/what-are-star-trails/">EarthSky</source>
-              <content:encoded>Trilhas estelares são fotografias de estrelas de longa exposição tiradas enquanto a Terra gira, resultando em faixas de luz no céu. Veja como fotografar trilhas de estrelas. O post O que são trilhas de estrelas e como fotografá-las? apareceu pela primeira vez em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais a</content:encoded>
             </item><item>
               <title>Curiosity Mars Rover da NASA descobre campo de texturas de favo de mel</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures</link>
@@ -168,16 +168,6 @@
               <source url="https://esahubble.org/news/heic2610/">ESA Hubble News</source>
               <content:encoded>O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas. Deveria estar preenchido com buracos negros deixados pela explosão de estrelas, mas as evidências deles são escassas. Agora, os astrônomos usam dados de arquivo do. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quan</content:encoded>
             </item><item>
-              <title>Pequenos pontos vermelhos podem marcar a fase temporária do buraco negro</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=little-red-dots-may-mark-temporary-black-hole-phase</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=little-red-dots-may-mark-temporary-black-hole-phase</guid>
-              <pubDate>Wed, 29 Jul 2026 19:10:01 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para os astrónomos. Compreender a natureza destas fontes vermelhas compactas e extremamente distantes tem sido um enigma.</description>
-              <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Pequenos pontos vermelhos podem marcar a fase temporária do buraco negro</category>
-              <source url="https://phys.org/news/2026-07-red-dots-temporary-black-hole.html">Phys.org Space</source>
-              <content:encoded>Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para os astrónomos. Compreender a natureza destas fontes vermelhas compactas e extremamente distantes tem sido um enigma. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa q</content:encoded>
-            </item><item>
               <title>A estrela de Tabby pode ser orbitada por uma companheira de massa planetária</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=tabby-s-star-may-be-orbited-by-a-planetary-mass-companion</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=tabby-s-star-may-be-orbited-by-a-planetary-mass-companion</guid>
@@ -198,15 +188,25 @@
               <source url="https://www.universetoday.com/articles/quantum-physics-could-help-us-find-earth-20">Universe Today</source>
               <content:encoded>Quando os astrônomos falam sobre a imagem direta de um exoplaneta que orbita uma estrela distante, a analogia que eles mais comumente usam é tentar localizar um foguete próximo a uma luz de busca massiva. Um exoplaneta semelhante à Terra é incrivelmente escuro. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses qu</content:encoded>
             </item><item>
-              <title>Como a NASA planeja construir o Observatório de Mundos Habitáveis</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=how-nasa-plans-to-build-the-habitable-worlds-observatory</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=how-nasa-plans-to-build-the-habitable-worlds-observatory</guid>
-              <pubDate>Mon, 27 Jul 2026 22:20:01 +0000</pubDate>
+              <title>Sondando estrelas binárias na Pequena Nuvem de Magalhães com o JWST</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=probing-binary-stars-in-the-small-magellanic-cloud-with-the-jwst</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=probing-binary-stars-in-the-small-magellanic-cloud-with-the-jwst</guid>
+              <pubDate>Wed, 29 Jul 2026 17:22:47 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Já faz algum tempo que cobrimos a jornada do Observatório de Mundos Habitáveis. Ao longo dos últimos anos, passou de uma proposta para um plano relativamente elaborado sobre como e o que o próximo Grande Observatório deveria fazer, neste caso.</description>
-              <category>Exoplanetas</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Como a NASA planeja construir o Observatório de Mundos Habitáveis</category>
-              <source url="https://phys.org/news/2026-07-nasa-habitable-worlds-observatory.html">Phys.org Space</source>
-              <content:encoded>Já faz algum tempo que cobrimos a jornada do Observatório de Mundos Habitáveis. Ao longo dos últimos anos, passou de uma proposta para um plano relativamente elaborado sobre como e o que o próximo Grande Observatório deveria fazer, neste caso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos</content:encoded>
+              <description>Os astrônomos querem saber quão universal é a fração de massa inicial das galáxias. Para fazer isso, eles precisam discernir estrelas binárias em outras galáxias, uma tarefa difícil. Os pesquisadores usaram o JWST para estudar a Pequena Nuvem de Magalhães e.</description>
+              <category>Física</category><category>Universe Today</category><category>Cosmos Week</category><category>Sondando estrelas binárias na Pequena Nuvem de Magalhães com o JWST</category>
+              <source url="https://www.universetoday.com/articles/probing-binary-stars-in-the-small-magellanic-cloud-with-the-jwst">Universe Today</source>
+              <content:encoded>Os astrônomos querem saber quão universal é a fração de massa inicial das galáxias. Para fazer isso, eles precisam discernir estrelas binárias em outras galáxias, uma tarefa difícil. Os pesquisadores usaram o JWST para estudar a Pequena Nuvem de Magalhães e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas </content:encoded>
+            </item><item>
+              <title>A edição de julho/agosto de 2026 do CERN Courier foi lançada</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=the-july-august-2026-issue-of-the-cern-courier-is-out</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=the-july-august-2026-issue-of-the-cern-courier-is-out</guid>
+              <pubDate>Wed, 29 Jul 2026 14:35:33 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Quando o colisor de grandes elétrons e pósitrons foi ativado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes, colidiu elétrons e pósitrons até a virada do século, marcando duas décadas.</description>
+              <category>Física</category><category>CERN News</category><category>Cosmos Week</category><category>A edição de julho/agosto de 2026 do CERN Courier foi lançada</category>
+              <source url="https://home.cern/the-july-august-2026-issue-of-the-cern-courier-is-out/">CERN News</source>
+              <content:encoded>Quando o colisor de grandes elétrons e pósitrons foi ativado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes, colidiu elétrons e pósitrons até a virada do século, marcando duas décadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A d</content:encoded>
             </item>
   </channel>
 </rss>

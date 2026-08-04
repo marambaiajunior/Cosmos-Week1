@@ -40,14 +40,14 @@ window.postsData = [
     "date": "04 ago 2026",
     "date_pt": "04 ago 2026",
     "date_en": "04 Aug 2026",
-    "time": "06h13",
-    "time_pt": "06h13",
-    "time_en": "06:13 UTC",
+    "time": "09h23",
+    "time_pt": "09h23",
+    "time_en": "09:23 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-04T06:13:06.218037+00:00",
-    "lastModifiedIso": "2026-08-04T06:13:06.218037+00:00",
+    "publishedIso": "2026-08-04T09:23:34.295792+00:00",
+    "lastModifiedIso": "2026-08-04T09:23:34.295792+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "04 ago 2026",
     "date_pt": "04 ago 2026",
     "date_en": "04 Aug 2026",
-    "time": "06h13",
-    "time_pt": "06h13",
-    "time_en": "06:13 UTC",
+    "time": "09h23",
+    "time_pt": "09h23",
+    "time_en": "09:23 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-04T06:13:06.217991+00:00",
-    "lastModifiedIso": "2026-08-04T06:13:06.217991+00:00",
+    "publishedIso": "2026-08-04T09:23:34.295757+00:00",
+    "lastModifiedIso": "2026-08-04T09:23:34.295757+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,14 +250,14 @@ window.postsData = [
     "date": "04 ago 2026",
     "date_pt": "04 ago 2026",
     "date_en": "04 Aug 2026",
-    "time": "06h13",
-    "time_pt": "06h13",
-    "time_en": "06:13 UTC",
+    "time": "09h23",
+    "time_pt": "09h23",
+    "time_en": "09:23 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-04T06:13:06.217943+00:00",
-    "lastModifiedIso": "2026-08-04T06:13:06.217943+00:00",
+    "publishedIso": "2026-08-04T09:23:34.295722+00:00",
+    "lastModifiedIso": "2026-08-04T09:23:34.295722+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -361,14 +361,14 @@ window.postsData = [
     "date": "04 ago 2026",
     "date_pt": "04 ago 2026",
     "date_en": "04 Aug 2026",
-    "time": "06h13",
-    "time_pt": "06h13",
-    "time_en": "06:13 UTC",
+    "time": "09h23",
+    "time_pt": "09h23",
+    "time_en": "09:23 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-04T06:13:06.217898+00:00",
-    "lastModifiedIso": "2026-08-04T06:13:06.217898+00:00",
+    "publishedIso": "2026-08-04T09:23:34.295686+00:00",
+    "lastModifiedIso": "2026-08-04T09:23:34.295686+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -466,14 +466,14 @@ window.postsData = [
     "date": "04 ago 2026",
     "date_pt": "04 ago 2026",
     "date_en": "04 Aug 2026",
-    "time": "06h13",
-    "time_pt": "06h13",
-    "time_en": "06:13 UTC",
+    "time": "09h23",
+    "time_pt": "09h23",
+    "time_en": "09:23 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-04T06:13:06.217837+00:00",
-    "lastModifiedIso": "2026-08-04T06:13:06.217837+00:00",
+    "publishedIso": "2026-08-04T09:23:34.295650+00:00",
+    "lastModifiedIso": "2026-08-04T09:23:34.295650+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -534,6 +534,242 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "esa-and-pokemon-team-up-to-celebrate-world-space-week",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/pokemon_x_esa_collaboration/27401892-8-eng-GB/Pokemon_x_ESA_collaboration_card_full.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/pokemon_x_esa_collaboration_key_art/27401939-1-eng-GB/Pokemon_x_ESA_collaboration_key_art_article.jpg",
+        "caption": "Arte principal da colaboração Pokémon x ESA",
+        "caption_pt": "Arte principal da colaboração Pokémon x ESA",
+        "caption_en": "Pokémon x ESA collaboration key art",
+        "alt": "Arte principal da colaboração Pokémon x ESA",
+        "alt_pt": "Arte principal da colaboração Pokémon x ESA",
+        "alt_en": "Pokémon x ESA collaboration key art"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "ESA e Pokémon unem-se para celebrar a Semana Espacial Mundial",
+    "title_pt": "ESA e Pokémon unem-se para celebrar a Semana Espacial Mundial",
+    "title_en": "ESA and Pokémon team up to celebrate World Space Week",
+    "sub": "A Agência Espacial Europeia e a The Pokémon Company International estão se unindo para celebrar a Semana Espacial Mundial a partir de 4 e 10 de outubro de 2026. Esta colaboração.",
+    "sub_pt": "A Agência Espacial Europeia e a The Pokémon Company International estão se unindo para celebrar a Semana Espacial Mundial a partir de 4 e 10 de outubro de 2026. Esta colaboração.",
+    "sub_en": "The European Space Agency and The Pokémon Company International are teaming up to celebrate World Space Week from 4, 10 October 2026. This unique, limited-time collaboration.",
+    "excerpt": "A Agência Espacial Europeia e a The Pokémon Company International estão se unindo para celebrar a Semana Espacial Mundial a partir de 4 e 10 de outubro de 2026. Esta colaboração única e por tempo limitado reúne dois mundos unidos pela curiosidade, exploração.",
+    "excerpt_pt": "A Agência Espacial Europeia e a The Pokémon Company International estão se unindo para celebrar a Semana Espacial Mundial a partir de 4 e 10 de outubro de 2026. Esta colaboração única e por tempo limitado reúne dois mundos unidos pela curiosidade, exploração.",
+    "excerpt_en": "The European Space Agency and The Pokémon Company International are teaming up to celebrate World Space Week from 4, 10 October 2026. This unique, limited-time collaboration brings together two worlds united by curiosity, exploration and.",
+    "body": "<p>A Agência Espacial Europeia e a The Pokémon Company International estão se unindo para celebrar a Semana Espacial Mundial a partir de 4 e 10 de outubro de 2026. Esta colaboração única e por tempo limitado reúne dois mundos unidos pela curiosidade, exploração e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A Agência Espacial Europeia (ESA) e a The Pokémon Company International (TPCi) estão a unir-se para celebrar a Semana Espacial Mundial, de 4 a 10 de outubro de 2026. “Trabalhar com Pokémon, uma marca com um mundo tão rico e imaginativo, representa uma oportunidade única para a ESA ligar públicos amplos ao espaço através de narrativas.</p><p>“Enraizada em valores partilhados de curiosidade e imaginação, esta colaboração apoia a ambição da ESA, tal como estabelecida na Estratégia 2040, de inspirar a Europa. A ESA transformou esse sentimento de admiração em exploração, descobrindo mais sobre o Universo e partilhando esta viagem de descoberta com as pessoas na Terra.</p><p>A ESA e a Pokémon partilham uma ambição comum: inspirar as novas gerações a sonhar grande, explorar e experimentar. Seja através da ciência ou da imaginação, a descoberta começa com a curiosidade.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Agência Espacial Europeia e a The Pokémon Company International estão se unindo para celebrar a Semana Espacial Mundial a partir de 4 e 10 de outubro de 2026. Esta colaboração única e por tempo limitado reúne dois mundos unidos pela curiosidade, exploração e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A Agência Espacial Europeia (ESA) e a The Pokémon Company International (TPCi) estão a unir-se para celebrar a Semana Espacial Mundial, de 4 a 10 de outubro de 2026. “Trabalhar com Pokémon, uma marca com um mundo tão rico e imaginativo, representa uma oportunidade única para a ESA ligar públicos amplos ao espaço através de narrativas.</p><p>“Enraizada em valores partilhados de curiosidade e imaginação, esta colaboração apoia a ambição da ESA, tal como estabelecida na Estratégia 2040, de inspirar a Europa. A ESA transformou esse sentimento de admiração em exploração, descobrindo mais sobre o Universo e partilhando esta viagem de descoberta com as pessoas na Terra.</p><p>A ESA e a Pokémon partilham uma ambição comum: inspirar as novas gerações a sonhar grande, explorar e experimentar. Seja através da ciência ou da imaginação, a descoberta começa com a curiosidade.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency and The Pokémon Company International are teaming up to celebrate World Space Week from 4, 10 October 2026. This unique, limited-time collaboration brings together two worlds united by curiosity, exploration and. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The European Space Agency (ESA) and The Pokémon Company International (TPCi) are teaming up to celebrate World Space Week from 4, 10 October 2026. “Working with Pokémon, a brand with such a rich and imaginative world, represents a unique opportunity for ESA to connect broad audiences with space through creative.</p><p>“Rooted in shared values of curiosity and imagination, this collaboration supports ESA’s ambition, as set out in Strategy 2040, to inspire Europe, especially young people and. ESA has turned that sense of wonder into exploration, uncovering more about the Universe and sharing this journey of discovery with people on Earth.</p><p>ESA and Pokémon share a common ambition: to inspire new generations to dream big, explore and experiment. Whether through science or imagination, discovery begins with curiosity.</p><p>This collaboration reflects a shared desire to build bridges between space, science and storytelling, and to spark excitement among young audiences and fans around the world. ESA is an intergovernmental organisation, created in 1975, with the mission to shape the development of Europe’s space capability and ensure that investment in space delivers.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Austria, Belgium, the Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Luxembourg, the Netherlands, Norway, Poland, Portugal, Romania. ESA has established formal cooperation with three Member States of the EU.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A Agência Espacial Europeia e a The Pokémon Company International estão se unindo para celebrar a Semana Espacial Mundial a partir de 4 e 10 de.",
+      "Dado-chave: A Agência Espacial Europeia (ESA) e a The Pokémon Company International (TPCi) estão a unir-se para celebrar a Semana Espacial Mundial, de 4 a.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A Agência Espacial Europeia e a The Pokémon Company International estão se unindo para celebrar a Semana Espacial Mundial a partir de 4 e 10 de.",
+      "Dado-chave: A Agência Espacial Europeia (ESA) e a The Pokémon Company International (TPCi) estão a unir-se para celebrar a Semana Espacial Mundial, de 4 a.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The European Space Agency and The Pokémon Company International are teaming up to celebrate World Space Week from 4, 10 October 2026. This unique.",
+      "Key detail: The European Space Agency (ESA) and The Pokémon Company International (TPCi) are teaming up to celebrate World Space Week from 4, 10 October.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "04 ago 2026",
+    "date_pt": "04 ago 2026",
+    "date_en": "04 Aug 2026",
+    "time": "08h00",
+    "time_pt": "08h00",
+    "time_en": "08:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-04T08:00:00+00:00",
+    "lastModifiedIso": "2026-08-04T08:00:00+00:00",
+    "source": "ESA Space News",
+    "sourceDomain": "www.esa.int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Space News",
+      "Cosmos Week",
+      "ESA e Pokémon unem",
+      "se para celebrar a Semana Espacial Mundial"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Space News",
+      "Cosmos Week",
+      "ESA e Pokémon unem",
+      "se para celebrar a Semana Espacial Mundial"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Space News",
+      "Cosmos Week",
+      "ESA and Pokémon unite",
+      "to celebrate World Space Week"
+    ],
+    "srcUrl": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-and-pokemon-team-up-to-celebrate-world-space-week",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-and-pokemon-team-up-to-celebrate-world-space-week",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=esa-and-pokemon-team-up-to-celebrate-world-space-week&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 72,
+    "scoreBreakdown": {
+      "source": 80,
+      "evidence": 82,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
+    "slug": "perseid-meteor-shower-2026-all-you-need-to-know",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2021/08/perseid-meteor-shower-radiant-point-1500px-e1628630279557.jpeg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Chuva de meteoros Perseidas 2026: tudo o que você precisa saber",
+    "title_pt": "Chuva de meteoros Perseidas 2026: tudo o que você precisa saber",
+    "title_en": "Perseid meteor shower 2026: All you need to know",
+    "sub": "A chuva de meteoros Perseidas atingirá o pico nas manhãs de 13 de agosto de 2026. E você terá um céu sem lua para melhorar a visualização da chuva de meteoros. O post Chuva de.",
+    "sub_pt": "A chuva de meteoros Perseidas atingirá o pico nas manhãs de 13 de agosto de 2026. E você terá um céu sem lua para melhorar a visualização da chuva de meteoros. O post Chuva de.",
+    "sub_en": "The Perseid meteor shower will peak around the mornings of August 13 in 2026 And you'll have a moonless sky to enhance your meteor shower viewing. The post Perseid meteor shower.",
+    "excerpt": "A chuva de meteoros Perseidas atingirá o pico nas manhãs de 13 de agosto de 2026. E você terá um céu sem lua para melhorar a visualização da chuva de meteoros. O post Chuva de meteoros Perseidas 2026: tudo o que você precisa saber apareceu pela primeira vez.",
+    "excerpt_pt": "A chuva de meteoros Perseidas atingirá o pico nas manhãs de 13 de agosto de 2026. E você terá um céu sem lua para melhorar a visualização da chuva de meteoros. O post Chuva de meteoros Perseidas 2026: tudo o que você precisa saber apareceu pela primeira vez.",
+    "excerpt_en": "The Perseid meteor shower will peak around the mornings of August 13 in 2026 And you'll have a moonless sky to enhance your meteor shower viewing. The post Perseid meteor shower 2026: All you need to know first appeared on EarthSky.",
+    "body": "<p>A chuva de meteoros Perseidas atingirá o pico nas manhãs de 13 de agosto de 2026. E você terá um céu sem lua para melhorar a visualização da chuva de meteoros. O post Chuva de meteoros Perseidas 2026: tudo o que você precisa saber apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Chuva de meteoros Perseidas 2026: Tudo o que você precisa saber apareceu pela primeira vez no EarthSky. A lua será uma lua nova durante o pico da chuva de meteoros Perseidas em 2026.</p><p>37 UTC de 12 de agosto. Meteoros esperados no pico, sob condições ideais: Sob um céu escuro sem lua, os observadores do céu frequentemente relatam 90 meteoros por hora, ou mais.</p><p>Diagrama da chuva de meteoros Perseidas de 2026 vista de cima da superfície da Terra, olhando para baixo. As estrelas em Perseu estão a muitos anos-luz de distância, enquanto estes meteoros queimam cerca de 100 km acima da superfície da Terra.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/everything-you-need-to-know-perseid-meteor-shower/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A chuva de meteoros Perseidas atingirá o pico nas manhãs de 13 de agosto de 2026. E você terá um céu sem lua para melhorar a visualização da chuva de meteoros. O post Chuva de meteoros Perseidas 2026: tudo o que você precisa saber apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Chuva de meteoros Perseidas 2026: Tudo o que você precisa saber apareceu pela primeira vez no EarthSky. A lua será uma lua nova durante o pico da chuva de meteoros Perseidas em 2026.</p><p>37 UTC de 12 de agosto. Meteoros esperados no pico, sob condições ideais: Sob um céu escuro sem lua, os observadores do céu frequentemente relatam 90 meteoros por hora, ou mais.</p><p>Diagrama da chuva de meteoros Perseidas de 2026 vista de cima da superfície da Terra, olhando para baixo. As estrelas em Perseu estão a muitos anos-luz de distância, enquanto estes meteoros queimam cerca de 100 km acima da superfície da Terra.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/everything-you-need-to-know-perseid-meteor-shower/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The Perseid meteor shower will peak around the mornings of August 13 in 2026 And you&#x27;ll have a moonless sky to enhance your meteor shower viewing. The post Perseid meteor shower 2026: All you need to know first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The post Perseid meteor shower 2026: All you need to know first appeared on EarthSky. The moon will be a new moon during 2026’s peak of the Perseid meteor shower.</p><p>37 UTC on August 12. Expected meteors at peak, under ideal conditions: Under a dark sky with no moon, skywatchers frequently report 90 meteors per hour, or more.</p><p>Diagram of the 2026 Perseid meteor shower as seen from above the Earth’s surface, looking down. The stars in Perseus are many light-years distant, while these meteors burn up about 60 miles (100 km) above the Earth’s surface.</p><p>Lewis Swift of Marathon, New York, visually discovered it on July 16, 1862, using an 11-centimeter (4.3-inch) refractor lens telescope. It was back to the drawing board, and this time, the appearance of a comet observed in 1737 was considered a possible early appearance of the comet.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Brian Marsden published new orbital elements and an ephemeris as to where to find it for its 1992 return. Knowing where to look, I observed this comet 16 hours later and made a brightness estimate 5 times brighter than the original report.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/everything-you-need-to-know-perseid-meteor-shower/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A chuva de meteoros Perseidas atingirá o pico nas manhãs de 13 de agosto de 2026. E você terá um céu sem lua para melhorar a visualização da chuva de.",
+      "Dado-chave: O post Chuva de meteoros Perseidas 2026: Tudo o que você precisa saber apareceu pela primeira vez no EarthSky.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A chuva de meteoros Perseidas atingirá o pico nas manhãs de 13 de agosto de 2026. E você terá um céu sem lua para melhorar a visualização da chuva de.",
+      "Dado-chave: O post Chuva de meteoros Perseidas 2026: Tudo o que você precisa saber apareceu pela primeira vez no EarthSky.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The Perseid meteor shower will peak around the mornings of August 13 in 2026 And you'll have a moonless sky to enhance your meteor shower viewing.",
+      "Key detail: The post Perseid meteor shower 2026: All you need to know first appeared on EarthSky.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "04 ago 2026",
+    "date_pt": "04 ago 2026",
+    "date_en": "04 Aug 2026",
+    "time": "06h50",
+    "time_pt": "06h50",
+    "time_en": "06:50 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-04T06:50:01+00:00",
+    "lastModifiedIso": "2026-08-04T06:50:01+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Chuva de meteoros Perseidas 2026",
+      "tudo o que você precisa saber"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Chuva de meteoros Perseidas 2026",
+      "tudo o que você precisa saber"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "Perseid meteor shower 2026",
+      "everything you need to know"
+    ],
+    "srcUrl": "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-perseid-meteor-shower/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=perseid-meteor-shower-2026-all-you-need-to-know",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=perseid-meteor-shower-2026-all-you-need-to-know",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=perseid-meteor-shower-2026-all-you-need-to-know&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 68,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 62,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 8,
     "slug": "smoke-streams-across-eastern-washington",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -652,7 +888,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -666,7 +902,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 9,
     "slug": "interstellar-travel-the-birth-of-fusion-drives",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -806,7 +1042,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 10,
     "slug": "how-to-keep-the-earth-habitable-when-the-sun-dies",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -939,140 +1175,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
-    "slug": "zodiacal-dust-in-exoplanetary-systems-could-hinder-our-search-for-life-on-other-worlds",
-    "cat": "Exoplanetas",
-    "catCls": "exoplanetas",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/zodiacal-dust-in-exopl-1.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/zodiacal-dust-in-exopl-1.jpg",
-        "caption": "A poeira zodiacal em sistemas exoplanetários pode dificultar a nossa busca por vida em outros mundos",
-        "caption_pt": "A poeira zodiacal em sistemas exoplanetários pode dificultar a nossa busca por vida em outros mundos",
-        "caption_en": "Zodiacal dust in exoplanetary systems could hinder our search for life on other worlds",
-        "alt": "A poeira zodiacal em sistemas exoplanetários pode dificultar a nossa busca por vida em outros mundos",
-        "alt_pt": "A poeira zodiacal em sistemas exoplanetários pode dificultar a nossa busca por vida em outros mundos",
-        "alt_en": "Zodiacal dust in exoplanetary systems could hinder our search for life on other worlds"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f6b420961b46f94b.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "A poeira zodiacal em sistemas exoplanetários pode dificultar a nossa busca por vida em outros mundos",
-    "title_pt": "A poeira zodiacal em sistemas exoplanetários pode dificultar a nossa busca por vida em outros mundos",
-    "title_en": "Zodiacal dust in exoplanetary systems could hinder our search for life on other worlds",
-    "sub": "Se você já esteve sob um céu escuro de manhã cedo, antes do amanhecer, pode ter visto um brilho fraco, quase como uma coluna de luz subindo do leste. Às vezes é conhecido como.",
-    "sub_pt": "Se você já esteve sob um céu escuro de manhã cedo, antes do amanhecer, pode ter visto um brilho fraco, quase como uma coluna de luz subindo do leste. Às vezes é conhecido como.",
-    "sub_en": "If you've ever been under a dark sky in the early morning before dawn, you may have seen a faint glow, almost like a column of light rising from the east. It's sometimes known as.",
-    "excerpt": "Se você já esteve sob um céu escuro de manhã cedo, antes do amanhecer, pode ter visto um brilho fraco, quase como uma coluna de luz subindo do leste. Às vezes é conhecido como falso amanhecer porque aparece antes do verdadeiro amanhecer. Pode.",
-    "excerpt_pt": "Se você já esteve sob um céu escuro de manhã cedo, antes do amanhecer, pode ter visto um brilho fraco, quase como uma coluna de luz subindo do leste. Às vezes é conhecido como falso amanhecer porque aparece antes do verdadeiro amanhecer. Pode.",
-    "excerpt_en": "If you've ever been under a dark sky in the early morning before dawn, you may have seen a faint glow, almost like a column of light rising from the east. It's sometimes known as the false dawn because it appears before true dawn. It can.",
-    "body": "<p>Se você já esteve sob um céu escuro de manhã cedo, antes do amanhecer, pode ter visto um brilho fraco, quase como uma coluna de luz subindo do leste. Às vezes é conhecido como falso amanhecer porque aparece antes do verdadeiro amanhecer. Pode. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Beletsky/Wikimedia Commons, CC BY Se você já esteve sob um céu escuro no início da manhã, antes do amanhecer, pode ter visto um brilho fraco, quase como uma coluna de luz subindo.</p><p>Mas como esta poeira reflete a luz das estrelas, também pode dificultar a nossa busca por exo-vida, como mostra um novo estudo publicado no servidor de pré-impressão arXiv. O estudo começa examinando uma exo-Terra simulada dentro de um sistema que possui poeira zodiacal semelhante à do nosso sistema solar.</p><p>À medida que um planeta passa em frente da sua estrela, a atmosfera absorve certos comprimentos de onda de luz, dependendo da sua composição molecular. Observando os espectros de absorção, podemos identificar moléculas que sugerem a presença de vida.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-zodiacal-exoplanetary-hinder-life-worlds.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Se você já esteve sob um céu escuro de manhã cedo, antes do amanhecer, pode ter visto um brilho fraco, quase como uma coluna de luz subindo do leste. Às vezes é conhecido como falso amanhecer porque aparece antes do verdadeiro amanhecer. Pode. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Beletsky/Wikimedia Commons, CC BY Se você já esteve sob um céu escuro no início da manhã, antes do amanhecer, pode ter visto um brilho fraco, quase como uma coluna de luz subindo.</p><p>Mas como esta poeira reflete a luz das estrelas, também pode dificultar a nossa busca por exo-vida, como mostra um novo estudo publicado no servidor de pré-impressão arXiv. O estudo começa examinando uma exo-Terra simulada dentro de um sistema que possui poeira zodiacal semelhante à do nosso sistema solar.</p><p>À medida que um planeta passa em frente da sua estrela, a atmosfera absorve certos comprimentos de onda de luz, dependendo da sua composição molecular. Observando os espectros de absorção, podemos identificar moléculas que sugerem a presença de vida.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-zodiacal-exoplanetary-hinder-life-worlds.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>If you&#x27;ve ever been under a dark sky in the early morning before dawn, you may have seen a faint glow, almost like a column of light rising from the east. It&#x27;s sometimes known as the false dawn because it appears before true dawn. It can. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. This article has been reviewed according to Science X&#x27;s editorial process and policies. Beletsky/Wikimedia Commons, CC BY If you&#x27;ve ever been under a dark sky in the early morning before dawn, you may have seen a faint glow, almost like a column of light rising from.</p><p>But because this dust reflects starlight, it could also hamper our search for exo-life, as a new study posted to the arXiv preprint server shows. The study begins by examining a simulated exo-Earth within a system that has zodiacal dust similar to that of our solar system.</p><p>As a planet passes in front of its star, the atmosphere absorbs certain wavelengths of light depending on its molecular composition. By looking at the absorption spectra, we can identify molecules that suggest the presence of life.</p><p>The authors note that zodiacal dust can scatter much of that light, weakening the absorption spectra by up to 50%. A survey of nearby stars finds that the zodiacal dust in most systems is three times that of ours.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>This means that, to study the atmospheric spectra of potentially habitable planets, astronomers will first need to determine the scattering and absorption effects of the system&#x27;s. It will just take more careful observations and data analysis.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-zodiacal-exoplanetary-hinder-life-worlds.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Se você já esteve sob um céu escuro de manhã cedo, antes do amanhecer, pode ter visto um brilho fraco, quase como uma coluna de luz subindo do leste.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Se você já esteve sob um céu escuro de manhã cedo, antes do amanhecer, pode ter visto um brilho fraco, quase como uma coluna de luz subindo do leste.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: If you've ever been under a dark sky in the early morning before dawn, you may have seen a faint glow, almost like a column of light rising from the.",
-      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "03 ago 2026",
-    "date_pt": "03 ago 2026",
-    "date_en": "03 Aug 2026",
-    "time": "20h40",
-    "time_pt": "20h40",
-    "time_en": "20:40 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-03T20:40:02+00:00",
-    "lastModifiedIso": "2026-08-03T20:40:02+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Exoplanetas",
-      "Phys.org Space",
-      "Cosmos Week",
-      "A poeira zodiacal em sistemas exoplanetários pode dificultar a nossa busca por vida em outros mundos"
-    ],
-    "keywords_pt": [
-      "Exoplanetas",
-      "Phys.org Space",
-      "Cosmos Week",
-      "A poeira zodiacal em sistemas exoplanetários pode dificultar a nossa busca por vida em outros mundos"
-    ],
-    "keywords_en": [
-      "Exoplanets",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Zodiacal dust in exoplanetary systems could hamper our search for life on other worlds"
-    ],
-    "srcUrl": "https://phys.org/news/2026-08-zodiacal-exoplanetary-hinder-life-worlds.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=zodiacal-dust-in-exoplanetary-systems-could-hinder-our-search-for-life-on-other-worlds",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=zodiacal-dust-in-exoplanetary-systems-could-hinder-our-search-for-life-on-other-worlds",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=zodiacal-dust-in-exoplanetary-systems-could-hinder-our-search-for-life-on-other-worlds&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 76,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
+    "id": 11,
     "slug": "louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1196,40 +1299,12 @@ window.postsData = [
     }
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "watch-the-total-solar-eclipse-with-esa-in-leon",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/solar_eclipse_artist_impression/27150246-1-eng-GB/Solar_eclipse_artist_impression_card_full.png",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/total_solar_eclipse_12_august_2026_global_map/27246043-1-eng-GB/Total_solar_eclipse_12_August_2026_Global_map_article.png",
-        "caption": "Eclipse solar total 12 de agosto de 2026 – Mapa global",
-        "caption_pt": "Eclipse solar total 12 de agosto de 2026 – Mapa global",
-        "caption_en": "Total solar eclipse 12 August 2026 – Global map",
-        "alt": "Eclipse solar total 12 de agosto de 2026 – Mapa global",
-        "alt_pt": "Eclipse solar total 12 de agosto de 2026 – Mapa global",
-        "alt_en": "Total solar eclipse 12 August 2026 – Global map"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/total_solar_eclipse_12_august_2026_map_of_totality_in_spain/27245996-1-eng-GB/Total_solar_eclipse_12_August_2026_Map_of_totality_in_Spain_article.png",
-        "caption": "Eclipse solar total 12 de agosto de 2026 – Mapa da totalidade na Espanha",
-        "caption_pt": "Eclipse solar total 12 de agosto de 2026 – Mapa da totalidade na Espanha",
-        "caption_en": "Total solar eclipse 12 August 2026 – Map of totality in Spain",
-        "alt": "Eclipse solar total 12 de agosto de 2026 – Mapa da totalidade na Espanha",
-        "alt_pt": "Eclipse solar total 12 de agosto de 2026 – Mapa da totalidade na Espanha",
-        "alt_en": "Total solar eclipse 12 August 2026 – Map of totality in Spain"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/total_solar_eclipse_2026_leon_event_daytime_workshop_programme/27388350-2-eng-GB/Total_solar_eclipse_2026_Leon_event_daytime_workshop_programme_article.jpg",
-        "caption": "Eclipse solar total 2026: uma manhã de ciência para toda a família",
-        "caption_pt": "Eclipse solar total 2026: uma manhã de ciência para toda a família",
-        "caption_en": "Total solar eclipse 2026: a morning of science for the whole family",
-        "alt": "Eclipse solar total 2026: uma manhã de ciência para toda a família",
-        "alt_pt": "Eclipse solar total 2026: uma manhã de ciência para toda a família",
-        "alt_en": "Total solar eclipse 2026: a morning of science for the whole family"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Assista ao eclipse solar total com a ESA em León",
@@ -1241,9 +1316,9 @@ window.postsData = [
     "excerpt": "Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia, a cidade de León e a Universidade de León.",
     "excerpt_pt": "Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia, a cidade de León e a Universidade de León.",
     "excerpt_en": "Discover the science behind one of nature's most extraordinary phenomena and experience a total solar eclipse with the European Space Agency, the City of León and the University of León.",
-    "body": "<p>Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia, a cidade de León e a Universidade de León. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia (ESA), a cidade de León e a. No dia 12 de Agosto, milhões de pessoas em toda a Europa olharão para o céu para testemunhar um dos fenómenos mais espectaculares da natureza: um eclipse solar total.</p><p>Para assinalar esta ocasião extraordinária, a ESA, juntamente com a Cidade de Leão e a Universidade de Leão, está a organizar um evento público gratuito no Palácio de Exposições e. O evento reunirá cientistas, engenheiros e especialistas em astronomia, que guiarão os visitantes pela ciência por trás do eclipse com atividades interativas, palestras e.</p><p>Das 10h00 às 14h00 CEST, os visitantes podem explorar uma ampla variedade de workshops práticos, experimentos e atividades interativas projetadas para todas as idades. Da ciência do Sol e dos eclipses às missões espaciais da Europa, à engenharia aeroespacial e à história da astronomia, o programa diurno oferece algo para famílias, entusiastas do.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia, a cidade de León e a Universidade de León. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia (ESA), a cidade de León e a. No dia 12 de Agosto, milhões de pessoas em toda a Europa olharão para o céu para testemunhar um dos fenómenos mais espectaculares da natureza: um eclipse solar total.</p><p>Para assinalar esta ocasião extraordinária, a ESA, juntamente com a Cidade de Leão e a Universidade de Leão, está a organizar um evento público gratuito no Palácio de Exposições e. O evento reunirá cientistas, engenheiros e especialistas em astronomia, que guiarão os visitantes pela ciência por trás do eclipse com atividades interativas, palestras e.</p><p>Das 10h00 às 14h00 CEST, os visitantes podem explorar uma ampla variedade de workshops práticos, experimentos e atividades interativas projetadas para todas as idades. Da ciência do Sol e dos eclipses às missões espaciais da Europa, à engenharia aeroespacial e à história da astronomia, o programa diurno oferece algo para famílias, entusiastas do.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Discover the science behind one of nature&#x27;s most extraordinary phenomena and experience a total solar eclipse with the European Space Agency, the City of León and the University of León. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Discover the science behind one of nature&#x27;s most extraordinary phenomena and experience a total solar eclipse with the European Space Agency (ESA), the City of León and the. On 12 August, millions of people across Europe will look to the sky to witness one of nature&#x27;s most spectacular phenomena: a total solar eclipse.</p><p>To mark this extraordinary occasion, ESA, together with the City of León and the University of León, is organising a free public event at the Palacio de Exposiciones y Congresos. The event will bring together scientists, engineers and astronomy experts, who will guide visitors through the science behind the eclipse with interactive activities, talks and.</p><p>00, 14: 00 CEST, visitors can explore a wide range of hands-on workshops, experiments and interactive activities designed for all ages. From the science of the Sun and eclipses to Europe&#x27;s space missions, aerospace engineering and the history of astronomy, the daytime programme offers something for families, space.</p><p>30 CEST, giving visitors plenty of time to find a place before the main stage programme begins at 18: 30 CEST. The evening programme combines science talks and expert commentary to guide visitors through every stage of the eclipse, explaining what is happening in the sky and why the 12.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>From family workshops and interactive demonstrations in the daytime to an evening of science and eclipse observation, here is what visitors can expect throughout the day: A DAY OF. Discover the science of the Sun and eclipses, explore space through play and experimentation, and learn how to observe the eclipse safely.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia, a cidade de León e a Universidade de León. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia (ESA), a cidade de León e a.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia, a cidade de León e a Universidade de León. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia (ESA), a cidade de León e a.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Discover the science behind one of nature&#x27;s most extraordinary phenomena and experience a total solar eclipse with the European Space Agency, the City of León and the University of León. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Discover the science behind one of nature&#x27;s most extraordinary phenomena and experience a total solar eclipse with the European Space Agency (ESA), the City of León and the.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial.",
       "Dado-chave: Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial.",
@@ -1309,111 +1384,6 @@ window.postsData = [
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=watch-the-total-solar-eclipse-with-esa-in-leon",
     "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=watch-the-total-solar-eclipse-with-esa-in-leon",
     "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=watch-the-total-solar-eclipse-with-esa-in-leon&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 12,
-    "slug": "webb-reveals-millions-of-stars-in-nearby-galaxy",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_miri_image/27358464-1-eng-GB/Centaurus_A_MIRI_image_card_full.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Webb revela milhões de estrelas em galáxia próxima",
-    "title_pt": "Webb revela milhões de estrelas em galáxia próxima",
-    "title_en": "Webb reveals millions of stars in nearby galaxy",
-    "sub": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e.",
-    "sub_pt": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e.",
-    "sub_en": "In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more.",
-    "excerpt": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes.",
-    "excerpt_pt": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes.",
-    "excerpt_en": "In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented.",
-    "body": "<p>Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A sensibilidade sem precedentes de Webb nos comprimentos de onda do infravermelho próximo e médio corta as espessas faixas de poeira que obscurecem o centro de Centaurus A na luz. Estas imagens marcam quatro anos de desempenho melhor do que o esperado e operações científicas bem-sucedidas para o telescópio espacial mais poderoso da história.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A sensibilidade sem precedentes de Webb nos comprimentos de onda do infravermelho próximo e médio corta as espessas faixas de poeira que obscurecem o centro de Centaurus A na luz. Estas imagens marcam quatro anos de desempenho melhor do que o esperado e operações científicas bem-sucedidas para o telescópio espacial mais poderoso da história.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A’s centre in visible light, showing a. These images mark four years of better-than-anticipated performance and successful science operations for the most powerful space telescope in history.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar.",
-      "Dado-chave: A sensibilidade sem precedentes de Webb nos comprimentos de onda do infravermelho próximo e médio corta as espessas faixas de poeira que.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar.",
-      "Dado-chave: A sensibilidade sem precedentes de Webb nos comprimentos de onda do infravermelho próximo e médio corta as espessas faixas de poeira que.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into.",
-      "Key detail: Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A’s.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "06 jul 2026",
-    "date_pt": "06 jul 2026",
-    "date_en": "06 Jul 2026",
-    "time": "16h00",
-    "time_pt": "16h00",
-    "time_en": "16:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-06T16:00:00+00:00",
-    "lastModifiedIso": "2026-07-06T16:00:00+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www.esa.int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Webb revela milhões de estrelas em galáxia próxima"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Webb revela milhões de estrelas em galáxia próxima"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Webb reveals millions of stars in nearby galaxy"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-reveals-millions-of-stars-in-nearby-galaxy",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-reveals-millions-of-stars-in-nearby-galaxy",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-reveals-millions-of-stars-in-nearby-galaxy&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -1860,7 +1830,35 @@ window.postsData = [
     "cat": "Astrofísica",
     "catCls": "astrofisica",
     "img": "https://cdn.esahubble.org/archives/images/screen/heic2610a.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2610a.jpg",
+        "caption": "Imagem de contexto do Omega Centauri",
+        "caption_pt": "Imagem de contexto do Omega Centauri",
+        "caption_en": "Omega Centauri context image",
+        "alt": "Imagem de contexto do Omega Centauri",
+        "alt_pt": "Imagem de contexto do Omega Centauri",
+        "alt_en": "Omega Centauri context image"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2610a.jpg",
+        "caption": "Imagem de contexto do Omega Centauri",
+        "caption_pt": "Imagem de contexto do Omega Centauri",
+        "caption_en": "Omega Centauri context image",
+        "alt": "Imagem de contexto do Omega Centauri",
+        "alt_pt": "Imagem de contexto do Omega Centauri",
+        "alt_en": "Omega Centauri context image"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2409a.jpg",
+        "caption": "Ômega Centauro",
+        "caption_pt": "Ômega Centauro",
+        "caption_en": "Omega Centauri",
+        "alt": "Ômega Centauro",
+        "alt_pt": "Ômega Centauro",
+        "alt_en": "Omega Centauri"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Lançamento científico: Hubble descobre o primeiro buraco negro desaparecido do aglomerado de estrelas",
@@ -1872,22 +1870,22 @@ window.postsData = [
     "excerpt": "O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas. Deveria estar preenchido com buracos negros deixados pela explosão de estrelas, mas as evidências deles são escassas. Agora, os astrônomos usam dados de arquivo do.",
     "excerpt_pt": "O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas. Deveria estar preenchido com buracos negros deixados pela explosão de estrelas, mas as evidências deles são escassas. Agora, os astrônomos usam dados de arquivo do.",
     "excerpt_en": "The massive globular star cluster Omega Centauri has puzzled astronomers for decades. It should be filled with black holes left behind by exploding stars, yet evidence for them is scarce. Now, astronomers using archival data from the.",
-    "body": "<p>O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas. Deveria estar preenchido com buracos negros deixados pela explosão de estrelas, mas as evidências deles são escassas. Agora, os astrônomos usam dados de arquivo do. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Descobrindo o primeiro dessa falta. O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas.</p><p>Deveria estar preenchido com buracos negros deixados pela explosão de estrelas, mas as evidências deles são escassas. Agora, os astrónomos, usando dados de arquivo do Telescópio Espacial Hubble da NASA/ESA e observações de apoio do Telescópio Espacial James Webb da NASA/ESA/CSA, finalmente.</p><p>A descoberta da primeira população desaparecida de buracos negros ajudará a refinar as teorias atuais sobre a formação de buracos negros em ambientes como Omega Centauri.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2610/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas. Deveria estar preenchido com buracos negros deixados pela explosão de estrelas, mas as evidências deles são escassas. Agora, os astrônomos usam dados de arquivo do. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Descobrindo o primeiro dessa falta. O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas.</p><p>Deveria estar preenchido com buracos negros deixados pela explosão de estrelas, mas as evidências deles são escassas. Agora, os astrónomos, usando dados de arquivo do Telescópio Espacial Hubble da NASA/ESA e observações de apoio do Telescópio Espacial James Webb da NASA/ESA/CSA, finalmente.</p><p>A descoberta da primeira população desaparecida de buracos negros ajudará a refinar as teorias atuais sobre a formação de buracos negros em ambientes como Omega Centauri.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2610/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The massive globular star cluster Omega Centauri has puzzled astronomers for decades. It should be filled with black holes left behind by exploding stars, yet evidence for them is scarce. Now, astronomers using archival data from the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. Discovering the first of this missing. The massive globular star cluster Omega Centauri has puzzled astronomers for decades.</p><p>It should be filled with black holes left behind by exploding stars, yet evidence for them is scarce. Now, astronomers using archival data from the NASA/ESA Hubble Space Telescope and supportive observations from the NASA/ESA/CSA James Webb Space Telescope have finally located.</p><p>Discovering the first of this missing black hole population will help refine current theories on black hole formation within environments such as Omega Centauri.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2610/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas. Deveria estar preenchido com buracos negros deixados pela explosão de estrelas, mas as evidências deles são escassas. Agora, os astrônomos usam dados de arquivo do. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Agora, os astrónomos, usando dados de arquivo do Telescópio Espacial Hubble da NASA/ESA e observações de apoio do Telescópio Espacial James Webb da NASA/ESA/CSA, finalmente. Embora a comunidade astronómica já tenha encontrado evidências com o Hubble de que um buraco negro de massa intermédia se esconde no seu centro, os modelos sugerem que este enxame.</p><p>Esta notável população de buracos negros escapou à detecção em estudos anteriores, que utilizaram o método da velocidade radial ou procuraram emissões de rádio e raios X. Uma nova descoberta apresenta uma abordagem diferente, conhecida como astrometria, para medir os movimentos muito pequenos das estrelas ao longo do tempo.</p><p>Ao examinar mais de 20 anos de dados de arquivo do Hubble e extrair dados recentes do Webb para refinar ainda mais as medições astrométricas, a equipe localizou uma estrela. Apelidado de oMEGACat BH-2, é o primeiro buraco negro de massa estelar detectado em Omega Centauri e possui algumas qualidades surpreendentes.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2610/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas. Deveria estar preenchido com buracos negros deixados pela explosão de estrelas, mas as evidências deles são escassas. Agora, os astrônomos usam dados de arquivo do. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Agora, os astrónomos, usando dados de arquivo do Telescópio Espacial Hubble da NASA/ESA e observações de apoio do Telescópio Espacial James Webb da NASA/ESA/CSA, finalmente. Embora a comunidade astronómica já tenha encontrado evidências com o Hubble de que um buraco negro de massa intermédia se esconde no seu centro, os modelos sugerem que este enxame.</p><p>Esta notável população de buracos negros escapou à detecção em estudos anteriores, que utilizaram o método da velocidade radial ou procuraram emissões de rádio e raios X. Uma nova descoberta apresenta uma abordagem diferente, conhecida como astrometria, para medir os movimentos muito pequenos das estrelas ao longo do tempo.</p><p>Ao examinar mais de 20 anos de dados de arquivo do Hubble e extrair dados recentes do Webb para refinar ainda mais as medições astrométricas, a equipe localizou uma estrela. Apelidado de oMEGACat BH-2, é o primeiro buraco negro de massa estelar detectado em Omega Centauri e possui algumas qualidades surpreendentes.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2610/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The massive globular star cluster Omega Centauri has puzzled astronomers for decades. It should be filled with black holes left behind by exploding stars, yet evidence for them is scarce. Now, astronomers using archival data from the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. Now, astronomers using archival data from the NASA/ESA Hubble Space Telescope and supportive observations from the NASA/ESA/CSA James Webb Space Telescope have finally located. Though the astronomy community has previously found evidence with Hubble that an intermediate-mass black hole lurks at its centre, models suggest that this star cluster should.</p><p>This notable population of black holes has evaded detection in previous studies, which used the radial velocity method or looked for radio and X-ray emission from material falling. A new discovery features a different approach, known as astrometry, to measure the very small movements of stars over time.</p><p>By sifting through more than 20 years of Hubble archival data and pulling in recent Webb data to further refine the astrometric measurements, the team located a star orbiting an. Dubbed oMEGACat BH-2, it is the first stellar-mass black hole detected within Omega Centauri, and it has some surprising qualities.</p><p>OMEGACat BH-2 has a lower-than-expected mass and, with its visible star companion, the black hole-star duo has the longest orbital period of any black hole binary system known to. “With the Hubble and Webb data, we were able to see the motion of the visible main sequence star that is part of this binary, which is about 18,000 light-years away in the dense.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>By expanding the Hubble data analyzed so that it included astrometric measurements from 2002 to 2023, and pulling in Webb near-infrared data to improve precision, the University. This detection is providing some data to those who do that kind of modeling.” Long time coming Based on the precise data from Hubble and Webb, the team could chart the star’s path.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2610/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas. Deveria estar preenchido com buracos negros deixados pela.",
-      "Dado-chave: Descobrindo o primeiro dessa falta.",
+      "Dado-chave: Agora, os astrónomos, usando dados de arquivo do Telescópio Espacial Hubble da NASA/ESA e observações de apoio do Telescópio Espacial James Webb.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas. Deveria estar preenchido com buracos negros deixados pela.",
-      "Dado-chave: Descobrindo o primeiro dessa falta.",
+      "Dado-chave: Agora, os astrónomos, usando dados de arquivo do Telescópio Espacial Hubble da NASA/ESA e observações de apoio do Telescópio Espacial James Webb.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: The massive globular star cluster Omega Centauri has puzzled astronomers for decades. It should be filled with black holes left behind by exploding.",
-      "Key detail: Discovering the first of this missing.",
+      "Key detail: Now, astronomers using archival data from the NASA/ESA Hubble Space Telescope and supportive observations from the NASA/ESA/CSA James Webb Space.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "13 jul 2026",
@@ -1971,11 +1969,11 @@ window.postsData = [
     "inline_images": [
       {
         "src": "https://scx1.b-cdn.net/csz/news/800a/2026/simulations-hint-at-a.jpg",
-        "caption": "Simulações sugerem uma população oculta de buracos negros sem companheiros",
-        "caption_pt": "Simulações sugerem uma população oculta de buracos negros sem companheiros",
+        "caption": "Simulações sugerem uma população oculta de buracos negros sem companhia",
+        "caption_pt": "Simulações sugerem uma população oculta de buracos negros sem companhia",
         "caption_en": "Simulations hint at a hidden population of companionless black holes",
-        "alt": "Simulações sugerem uma população oculta de buracos negros sem companheiros",
-        "alt_pt": "Simulações sugerem uma população oculta de buracos negros sem companheiros",
+        "alt": "Simulações sugerem uma população oculta de buracos negros sem companhia",
+        "alt_pt": "Simulações sugerem uma população oculta de buracos negros sem companhia",
         "alt_en": "Simulations hint at a hidden population of companionless black holes"
       },
       {
@@ -1999,8 +1997,8 @@ window.postsData = [
     ],
     "video": null,
     "audio": null,
-    "title": "Simulações sugerem uma população oculta de buracos negros sem companheiros",
-    "title_pt": "Simulações sugerem uma população oculta de buracos negros sem companheiros",
+    "title": "Simulações sugerem uma população oculta de buracos negros sem companhia",
+    "title_pt": "Simulações sugerem uma população oculta de buracos negros sem companhia",
     "title_en": "Simulations hint at a hidden population of companionless black holes",
     "sub": "Até agora, quase todos os buracos negros de massa estelar detectados pelos astrónomos foram encontrados em sistemas binários. No entanto, os astrónomos suspeitam há muito tempo.",
     "sub_pt": "Até agora, quase todos os buracos negros de massa estelar detectados pelos astrónomos foram encontrados em sistemas binários. No entanto, os astrónomos suspeitam há muito tempo.",
@@ -2058,19 +2056,19 @@ window.postsData = [
       "Astrofísica",
       "Phys.org Space",
       "Cosmos Week",
-      "Simulações sugerem uma população oculta de buracos negros sem companheiros"
+      "Simulações sugerem uma população oculta de buracos negros sem companhia"
     ],
     "keywords_pt": [
       "Astrofísica",
       "Phys.org Space",
       "Cosmos Week",
-      "Simulações sugerem uma população oculta de buracos negros sem companheiros"
+      "Simulações sugerem uma população oculta de buracos negros sem companhia"
     ],
     "keywords_en": [
       "Astrophysics",
       "Phys.org Space",
       "Cosmos Week",
-      "Simulations suggest a hidden population of companionless black holes"
+      "Simulations Suggest a Hidden Population of Unaccompanied Black Holes"
     ],
     "srcUrl": "https://phys.org/news/2026-08-simulations-hint-hidden-population-companionless.html",
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=simulations-hint-at-a-hidden-population-of-companionless-black-holes",
@@ -2230,10 +2228,10 @@ window.postsData = [
   },
   {
     "id": 19,
-    "slug": "the-elt-s-spectrograph-could-sniff-out-biosignatures-on-other-worlds",
+    "slug": "zodiacal-dust-in-exoplanetary-systems-could-hinder-our-search-for-life-on-other-worlds",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
-    "img": "https://www.universetoday.com/article_images/The_European_Extremely_Large_Telescope_20260730_154020.jpg",
+    "img": "https://www.universetoday.com/article_images/zodiacal_20260731_162252.jpg",
     "inline_images": [
       {
         "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
@@ -2245,59 +2243,46 @@ window.postsData = [
         "alt_en": ""
       }
     ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/q2ykvwduunq",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.universetoday.com/articles/the-elts-spectrograph-could-sniff-out-biosignatures-on-other-worlds"
-    },
+    "video": null,
     "audio": null,
-    "title": "O espectrógrafo do ELT pode detectar bioassinaturas em outros mundos",
-    "title_pt": "O espectrógrafo do ELT pode detectar bioassinaturas em outros mundos",
-    "title_en": "The ELT's Spectrograph Could Sniff Out Biosignatures on Other Worlds",
-    "sub": "Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns resultados para o.",
-    "sub_pt": "Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns resultados para o.",
-    "sub_en": "Before any major telescope commissioning, there are dozens of papers that attempt to define what we can expect from it. We’re starting to see some come through for the Extremely.",
-    "excerpt": "Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns resultados para o Extremely Large Telescope, que esperamos que se tornem mais imaginativos.",
-    "excerpt_pt": "Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns resultados para o Extremely Large Telescope, que esperamos que se tornem mais imaginativos.",
-    "excerpt_en": "Before any major telescope commissioning, there are dozens of papers that attempt to define what we can expect from it. We’re starting to see some come through for the Extremely Large Telescope, which hopefully will get a more imaginative.",
-    "body": "<p>Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns resultados para o Extremely Large Telescope, que esperamos que se tornem mais imaginativos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Um novo artigo de Evann Kurzawa-Ferrandez e seus coautores do Laboratório de Propulsão a Jato da NASA, disponível em pré-impressão no arXiv. Estamos começando a ver alguns avanços para o Extremely Large Telescope (ELT), que esperamos receber um nome mais imaginativo quando o gigante de 39 metros for oficialmente.</p><p>Um novo artigo de Evann Kurzawa-Ferrandez e seus coautores do Laboratório de Propulsão a Jato da NASA, e disponível em pré-impressão no arXiv, mostra que tipo de gases. Estes incluem vários do famoso sistema TRAPPIST-1, que hospeda vários candidatos interessantes para potenciais bioassinaturas.</p><p>O ruído é sempre um problema quando se tenta recolher dados num planeta distante, e ainda mais para telescópios terrestres que têm de lidar com a atmosfera da Terra. Para os planetas TRAPPIST-1, seriam necessários entre 10 e 19 trânsitos para provar estatisticamente se a água estava ou não na atmosfera de um planeta.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-elts-spectrograph-could-sniff-out-biosignatures-on-other-worlds\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns resultados para o Extremely Large Telescope, que esperamos que se tornem mais imaginativos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Um novo artigo de Evann Kurzawa-Ferrandez e seus coautores do Laboratório de Propulsão a Jato da NASA, disponível em pré-impressão no arXiv. Estamos começando a ver alguns avanços para o Extremely Large Telescope (ELT), que esperamos receber um nome mais imaginativo quando o gigante de 39 metros for oficialmente.</p><p>Um novo artigo de Evann Kurzawa-Ferrandez e seus coautores do Laboratório de Propulsão a Jato da NASA, e disponível em pré-impressão no arXiv, mostra que tipo de gases. Estes incluem vários do famoso sistema TRAPPIST-1, que hospeda vários candidatos interessantes para potenciais bioassinaturas.</p><p>O ruído é sempre um problema quando se tenta recolher dados num planeta distante, e ainda mais para telescópios terrestres que têm de lidar com a atmosfera da Terra. Para os planetas TRAPPIST-1, seriam necessários entre 10 e 19 trânsitos para provar estatisticamente se a água estava ou não na atmosfera de um planeta.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-elts-spectrograph-could-sniff-out-biosignatures-on-other-worlds\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Before any major telescope commissioning, there are dozens of papers that attempt to define what we can expect from it. We’re starting to see some come through for the Extremely Large Telescope, which hopefully will get a more imaginative. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. A new paper from Evann Kurzawa-Ferrandez and his co-authors at NASA’s Jet Propulsion Laboratory, and available in pre-print on arXiv. We’re starting to see some come through for the Extremely Large Telescope (ELT), which hopefully will get a more imaginative name when the 39m behemoth is officially commissioned.</p><p>A new paper from Evann Kurzawa-Ferrandez and his co-authors at NASA’s Jet Propulsion Laboratory, and available in pre-print on arXiv, showcases what kind of biologically relevant. These include several from the famous TRAPPIST-1 system, which hosts several interesting candidates for potential biosignatures.</p><p>Noise is always an issue when attempting to collect data on a far-away planet, and even more so for telescopes that are ground-based and have to deal with Earth’s atmosphere. For the TRAPPIST-1 planets, it would take between 10 and 19 transits to statistically prove whether water was in a planet’s atmosphere or not.</p><p>That is actually a relatively short time in terms of the overall amount of time, 19 transits of the outermost planet would only be equivalent to 380 days, or a little longer than. But for the easiest planet, TRAPPIST-1d, that still only took around 36 transits, and ANDES was able to detect all of the gases on that planet.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>However, only 8 of the 18 planets could yield a decisive detection of at least one of the gases within a 100 transit limit. In a simulation, the authors can easily subtract out the interference from the Earth’s atmosphere, but in reality, reaching the “photon-noise limit” as they did in simulation.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-elts-spectrograph-could-sniff-out-biosignatures-on-other-worlds\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Poeira zodiacal em sistemas exoplanetários pode dificultar nossa busca por vida em outros mundos",
+    "title_pt": "Poeira zodiacal em sistemas exoplanetários pode dificultar nossa busca por vida em outros mundos",
+    "title_en": "Zodiacal Dust in Exoplanetary Systems Could Hinder Our Search For Life On Other Worlds",
+    "sub": "A maioria dos sistemas exoplanetários tem um plano de poeira semelhante à poeira zodiacal do nosso sistema solar. Essa poeira absorve parte da luz que usamos para encontrar.",
+    "sub_pt": "A maioria dos sistemas exoplanetários tem um plano de poeira semelhante à poeira zodiacal do nosso sistema solar. Essa poeira absorve parte da luz que usamos para encontrar.",
+    "sub_en": "Most exoplanetary systems have a plane of dust similar to the zodiacal dust of our solar system. This dust absorbs some of the very light we use to find biosignatures in exoplanet.",
+    "excerpt": "A maioria dos sistemas exoplanetários tem um plano de poeira semelhante à poeira zodiacal do nosso sistema solar. Essa poeira absorve parte da luz que usamos para encontrar bioassinaturas em atmosferas de exoplanetas e pode aumentar nossa busca por vida.",
+    "excerpt_pt": "A maioria dos sistemas exoplanetários tem um plano de poeira semelhante à poeira zodiacal do nosso sistema solar. Essa poeira absorve parte da luz que usamos para encontrar bioassinaturas em atmosferas de exoplanetas e pode aumentar nossa busca por vida.",
+    "excerpt_en": "Most exoplanetary systems have a plane of dust similar to the zodiacal dust of our solar system. This dust absorbs some of the very light we use to find biosignatures in exoplanet atmospheres, and could make our search for life more.",
+    "body": "<p>A maioria dos sistemas exoplanetários tem um plano de poeira semelhante à poeira zodiacal do nosso sistema solar. Essa poeira absorve parte da luz que usamos para encontrar bioassinaturas em atmosferas de exoplanetas e pode aumentar nossa busca por vida. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Se você já esteve sob um céu escuro de manhã cedo, antes do amanhecer, pode ter visto um brilho fraco, quase como uma coluna de luz subindo do leste. A maioria dos sistemas exoplanetários provavelmente tem um plano semelhante de poeira zodiacal, particularmente sistemas com mundos rochosos potencialmente habitáveis.</p><p>Mas como esta poeira reflete a luz das estrelas, também pode dificultar a nossa busca por exovida, como mostra um novo estudo. O artigo começa examinando uma exo-Terra simulada dentro de um sistema que possui poeira zodiacal semelhante ao nosso sistema solar.</p><p>À medida que o planeta passa em frente da sua estrela, a atmosfera absorve certos comprimentos de onda de luz, dependendo da sua composição molecular. Observando os espectros de absorção, podemos identificar moléculas que sugerem a presença de vida.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/zodiacal-dust-in-exoplanetary-systems-could-hinder-our-search-for-life-on-other-worlds\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A maioria dos sistemas exoplanetários tem um plano de poeira semelhante à poeira zodiacal do nosso sistema solar. Essa poeira absorve parte da luz que usamos para encontrar bioassinaturas em atmosferas de exoplanetas e pode aumentar nossa busca por vida. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Se você já esteve sob um céu escuro de manhã cedo, antes do amanhecer, pode ter visto um brilho fraco, quase como uma coluna de luz subindo do leste. A maioria dos sistemas exoplanetários provavelmente tem um plano semelhante de poeira zodiacal, particularmente sistemas com mundos rochosos potencialmente habitáveis.</p><p>Mas como esta poeira reflete a luz das estrelas, também pode dificultar a nossa busca por exovida, como mostra um novo estudo. O artigo começa examinando uma exo-Terra simulada dentro de um sistema que possui poeira zodiacal semelhante ao nosso sistema solar.</p><p>À medida que o planeta passa em frente da sua estrela, a atmosfera absorve certos comprimentos de onda de luz, dependendo da sua composição molecular. Observando os espectros de absorção, podemos identificar moléculas que sugerem a presença de vida.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/zodiacal-dust-in-exoplanetary-systems-could-hinder-our-search-for-life-on-other-worlds\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Most exoplanetary systems have a plane of dust similar to the zodiacal dust of our solar system. This dust absorbs some of the very light we use to find biosignatures in exoplanet atmospheres, and could make our search for life more. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. If you&#x27;ve ever been under a dark sky in the early morning before dawn, you may have seen a faint glow, almost like a column of light rising from the east. Most exoplanetary systems likely have a similar plane of zodiacal dust, particularly systems with rocky, potentially habitable worlds.</p><p>But since this dust reflects starlight, it could also hamper our search for exo-life, as a new study shows. The article starts by looking at a simulated exo-Earth within a system that has similar zodiacal dust to our solar system.</p><p>As the planet passes in front of its star, the atmosphere absorbs certain wavelengths of light depending on its molecular composition. By looking at the absorption spectra, we can identify molecules that suggest the presence of life.</p><p>The authors note that zodiacal dust can scatter much of that light, weakening the absorption spectra by up to 50%. A survey of nearby stars finds that the zodiacal dust of most systems is three times that of ours.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>This means that to study the atmospheric spectra of potentially habitable planets, astronomers will first need to determine the scattering and absorption effects of the system&#x27;s. Fortunately, with higher resolution spectral observations and longer observation times, most of the effects of exozodiacal dust can be mitigated.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/zodiacal-dust-in-exoplanetary-systems-could-hinder-our-search-for-life-on-other-worlds\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a.",
-      "Dado-chave: Um novo artigo de Evann Kurzawa-Ferrandez e seus coautores do Laboratório de Propulsão a Jato da NASA, disponível em pré-impressão no arXiv.",
+      "Ponto central: A maioria dos sistemas exoplanetários tem um plano de poeira semelhante à poeira zodiacal do nosso sistema solar. Essa poeira absorve parte da luz.",
+      "Dado-chave: Se você já esteve sob um céu escuro de manhã cedo, antes do amanhecer, pode ter visto um brilho fraco, quase como uma coluna de luz subindo do.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a.",
-      "Dado-chave: Um novo artigo de Evann Kurzawa-Ferrandez e seus coautores do Laboratório de Propulsão a Jato da NASA, disponível em pré-impressão no arXiv.",
+      "Ponto central: A maioria dos sistemas exoplanetários tem um plano de poeira semelhante à poeira zodiacal do nosso sistema solar. Essa poeira absorve parte da luz.",
+      "Dado-chave: Se você já esteve sob um céu escuro de manhã cedo, antes do amanhecer, pode ter visto um brilho fraco, quase como uma coluna de luz subindo do.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: Before any major telescope commissioning, there are dozens of papers that attempt to define what we can expect from it. We’re starting to see some.",
-      "Key detail: A new paper from Evann Kurzawa-Ferrandez and his co-authors at NASA’s Jet Propulsion Laboratory, and available in pre-print on arXiv.",
+      "Core point: Most exoplanetary systems have a plane of dust similar to the zodiacal dust of our solar system. This dust absorbs some of the very light we use to.",
+      "Key detail: If you've ever been under a dark sky in the early morning before dawn, you may have seen a faint glow, almost like a column of light rising from.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "30 jul 2026",
-    "date_pt": "30 jul 2026",
-    "date_en": "30 Jul 2026",
-    "time": "15h40",
-    "time_pt": "15h40",
-    "time_en": "15:40 UTC",
+    "date": "03 ago 2026",
+    "date_pt": "03 ago 2026",
+    "date_en": "03 Aug 2026",
+    "time": "15h55",
+    "time_pt": "15h55",
+    "time_en": "15:55 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-30T15:40:33+00:00",
-    "lastModifiedIso": "2026-07-30T15:40:33+00:00",
+    "publishedIso": "2026-08-03T15:55:47+00:00",
+    "lastModifiedIso": "2026-08-03T15:55:47+00:00",
     "source": "Universe Today",
     "sourceDomain": "www.universetoday.com",
     "sourceType": "agency",
@@ -2319,24 +2304,24 @@ window.postsData = [
       "Exoplanetas",
       "Universe Today",
       "Cosmos Week",
-      "O espectrógrafo do ELT pode detectar bioassinaturas em outros mundos"
+      "Poeira zodiacal em sistemas exoplanetários pode dificultar nossa busca por vida em outros mundos"
     ],
     "keywords_pt": [
       "Exoplanetas",
       "Universe Today",
       "Cosmos Week",
-      "O espectrógrafo do ELT pode detectar bioassinaturas em outros mundos"
+      "Poeira zodiacal em sistemas exoplanetários pode dificultar nossa busca por vida em outros mundos"
     ],
     "keywords_en": [
       "Exoplanets",
       "Universe Today",
       "Cosmos Week",
-      "ELT spectrograph can detect biosignatures on other worlds"
+      "Zodiacal dust in exoplanetary systems could hamper our search for life on other worlds"
     ],
-    "srcUrl": "https://www.universetoday.com/articles/the-elts-spectrograph-could-sniff-out-biosignatures-on-other-worlds",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-elt-s-spectrograph-could-sniff-out-biosignatures-on-other-worlds",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-elt-s-spectrograph-could-sniff-out-biosignatures-on-other-worlds",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-elt-s-spectrograph-could-sniff-out-biosignatures-on-other-worlds&lang=en",
+    "srcUrl": "https://www.universetoday.com/articles/zodiacal-dust-in-exoplanetary-systems-could-hinder-our-search-for-life-on-other-worlds",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=zodiacal-dust-in-exoplanetary-systems-could-hinder-our-search-for-life-on-other-worlds",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=zodiacal-dust-in-exoplanetary-systems-could-hinder-our-search-for-life-on-other-worlds",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=zodiacal-dust-in-exoplanetary-systems-could-hinder-our-search-for-life-on-other-worlds&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -2347,17 +2332,163 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 75,
+    "score": 77,
     "scoreBreakdown": {
       "source": 73,
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 46
+      "novelty": 55
     }
   },
   {
     "id": 20,
+    "slug": "elt-s-spectrograph-could-sniff-out-biosignatures-on-other-worlds",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-elts-spectrograph.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/the-elts-spectrograph.jpg",
+        "caption": "O espectrógrafo do ELT pode detectar bioassinaturas em outros mundos",
+        "caption_pt": "O espectrógrafo do ELT pode detectar bioassinaturas em outros mundos",
+        "caption_en": "The ELT's Spectrograph Could Sniff Out Biosignatures on Other Worlds",
+        "alt": "O espectrógrafo do ELT pode detectar bioassinaturas em outros mundos",
+        "alt_pt": "O espectrógrafo do ELT pode detectar bioassinaturas em outros mundos",
+        "alt_en": "The ELT's Spectrograph Could Sniff Out Biosignatures on Other Worlds"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/4b5d8e1e5856f832.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/q2ykvwduunq",
+      "fileUrl": "",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://phys.org/news/2026-07-elt-spectrograph-biosignatures-worlds.html"
+    },
+    "audio": null,
+    "title": "O espectrógrafo do ELT poderia ‘farejar’ bioassinaturas em outros mundos",
+    "title_pt": "O espectrógrafo do ELT poderia ‘farejar’ bioassinaturas em outros mundos",
+    "title_en": "ELT's spectrograph could 'sniff out' biosignatures on other worlds",
+    "sub": "Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns resultados para o.",
+    "sub_pt": "Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns resultados para o.",
+    "sub_en": "Before any major telescope commissioning, there are dozens of papers that attempt to define what we can expect from it. We're starting to see some come through for the Extremely.",
+    "excerpt": "Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns resultados para o Extremely Large Telescope, que esperamos que se tornem mais imaginativos.",
+    "excerpt_pt": "Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns resultados para o Extremely Large Telescope, que esperamos que se tornem mais imaginativos.",
+    "excerpt_en": "Before any major telescope commissioning, there are dozens of papers that attempt to define what we can expect from it. We're starting to see some come through for the Extremely Large Telescope, which hopefully will get a more imaginative.",
+    "body": "<p>Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns resultados para o Extremely Large Telescope, que esperamos que se tornem mais imaginativos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. ESO Antes de qualquer grande comissionamento de um telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns avanços para o Extremely Large Telescope (ELT), que esperamos receber um nome mais imaginativo quando o gigante de 39 m (128 pés) for oficialmente.</p><p>Um novo artigo de Evann Kurzawa-Ferrandez e seus coautores do Laboratório de Propulsão a Jato da NASA, disponível como pré-impressão no arXiv, mostra que tipos de gases. Eles escolheram 18 planetas rochosos conhecidos e potencialmente habitáveis ​​que passam na frente de suas estrelas hospedeiras.</p><p>Estes incluem vários do famoso sistema TRAPPIST-1, que hospeda vários candidatos interessantes para potenciais bioassinaturas. O ruído é sempre um problema quando se tenta recolher dados num planeta distante, e ainda mais para telescópios terrestres que têm de lidar com a atmosfera da Terra.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-elt-spectrograph-biosignatures-worlds.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns resultados para o Extremely Large Telescope, que esperamos que se tornem mais imaginativos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. ESO Antes de qualquer grande comissionamento de um telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns avanços para o Extremely Large Telescope (ELT), que esperamos receber um nome mais imaginativo quando o gigante de 39 m (128 pés) for oficialmente.</p><p>Um novo artigo de Evann Kurzawa-Ferrandez e seus coautores do Laboratório de Propulsão a Jato da NASA, disponível como pré-impressão no arXiv, mostra que tipos de gases. Eles escolheram 18 planetas rochosos conhecidos e potencialmente habitáveis ​​que passam na frente de suas estrelas hospedeiras.</p><p>Estes incluem vários do famoso sistema TRAPPIST-1, que hospeda vários candidatos interessantes para potenciais bioassinaturas. O ruído é sempre um problema quando se tenta recolher dados num planeta distante, e ainda mais para telescópios terrestres que têm de lidar com a atmosfera da Terra.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-elt-spectrograph-biosignatures-worlds.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Before any major telescope commissioning, there are dozens of papers that attempt to define what we can expect from it. We&#x27;re starting to see some come through for the Extremely Large Telescope, which hopefully will get a more imaginative. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. ESO Before any major telescope commissioning, there are dozens of papers that attempt to define what we can expect from it. We&#x27;re starting to see some come through for the Extremely Large Telescope (ELT), which hopefully will get a more imaginative name when the 39 m (128-foot) behemoth is officially.</p><p>A new paper from Evann Kurzawa-Ferrandez and his co-authors at NASA&#x27;s Jet Propulsion Laboratory, available as a preprint on arXiv, showcases what kinds of biologically relevant. They decided on 18 known, potentially habitable rocky planets that pass in front of their host stars.</p><p>These include several from the famous TRAPPIST-1 system, which hosts several interesting candidates for potential biosignatures. Noise is always an issue when attempting to collect data on a faraway planet, and even more so for telescopes that are ground-based and have to deal with Earth&#x27;s atmosphere.</p><p>For the TRAPPIST-1 planets, it would take between 10 and 19 transits to statistically determine whether water was in a planet&#x27;s atmosphere. That is actually a relatively short time in terms of the overall amount of time, 19 transits of the outermost planet would be equivalent to only 380 days, or a little longer than.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>But for the easiest planet, TRAPPIST-1d, it would still take around 36 transits, and ANDES was able to detect all of the gases on that planet. However, only eight of the 18 planets could yield a decisive detection of at least one of the gases within a 100-transit limit.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-07-elt-spectrograph-biosignatures-worlds.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a.",
+      "Dado-chave: ESO Antes de qualquer grande comissionamento de um telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a.",
+      "Dado-chave: ESO Antes de qualquer grande comissionamento de um telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Before any major telescope commissioning, there are dozens of papers that attempt to define what we can expect from it. We're starting to see some.",
+      "Key detail: ESO Before any major telescope commissioning, there are dozens of papers that attempt to define what we can expect from it.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "31 jul 2026",
+    "date_pt": "31 jul 2026",
+    "date_en": "31 Jul 2026",
+    "time": "20h00",
+    "time_pt": "20h00",
+    "time_en": "20:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-31T20:00:03+00:00",
+    "lastModifiedIso": "2026-07-31T20:00:03+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Exoplanetas",
+      "Phys.org Space",
+      "Cosmos Week",
+      "O espectrógrafo do ELT poderia ‘farejar’ bioassinaturas em outros mundos"
+    ],
+    "keywords_pt": [
+      "Exoplanetas",
+      "Phys.org Space",
+      "Cosmos Week",
+      "O espectrógrafo do ELT poderia ‘farejar’ bioassinaturas em outros mundos"
+    ],
+    "keywords_en": [
+      "Exoplanets",
+      "Phys.org Space",
+      "Cosmos Week",
+      "The ELT's spectrograph could 'sniff out' biosignatures on other worlds"
+    ],
+    "srcUrl": "https://phys.org/news/2026-07-elt-spectrograph-biosignatures-worlds.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=elt-s-spectrograph-could-sniff-out-biosignatures-on-other-worlds",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=elt-s-spectrograph-could-sniff-out-biosignatures-on-other-worlds",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=elt-s-spectrograph-could-sniff-out-biosignatures-on-other-worlds&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 49
+    }
+  },
+  {
+    "id": 21,
     "slug": "the-july-august-2026-issue-of-the-cern-courier-is-out",
     "cat": "Física",
     "catCls": "fisica",
@@ -2472,7 +2603,7 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications",
     "cat": "Física",
     "catCls": "fisica",
@@ -2605,7 +2736,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "nsf-stands-up-2-materials-innovation-platforms-with-50m-investment",
     "cat": "Física",
     "catCls": "fisica",
@@ -2734,11 +2865,11 @@ window.postsData = [
       "evidence": 88,
       "relevance": 68,
       "accessibility": 42,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "nasa-brings-space-exploration-to-the-fifa-world-cup",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2867,68 +2998,86 @@ window.postsData = [
       "evidence": 82,
       "relevance": 80,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 24,
-    "slug": "does-asteroid-nysa-have-3-lobes-and-a-moon",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2026/08/44-Nysa-asteroid-spin-moon-LowellObservatory.webp",
+    "id": 25,
+    "slug": "webb-reveals-millions-of-stars-in-nearby-galaxy",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_miri_image/27358464-1-eng-GB/Centaurus_A_MIRI_image_card_full.jpg",
     "inline_images": [
       {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_miri_image/27358464-1-eng-GB/Centaurus_A_MIRI_image_article.jpg",
+        "caption": "Centauro A (imagem MIRI)",
+        "caption_pt": "Centauro A (imagem MIRI)",
+        "caption_en": "Centaurus A (MIRI image)",
+        "alt": "Centauro A (imagem MIRI)",
+        "alt_pt": "Centauro A (imagem MIRI)",
+        "alt_en": "Centaurus A (MIRI image)"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_miri_and_nircam_image/27358605-1-eng-GB/Centaurus_A_MIRI_and_NIRCam_image_article.jpg",
+        "caption": "Centaurus A (imagem MIRI e NIRCam)",
+        "caption_pt": "Centaurus A (imagem MIRI e NIRCam)",
+        "caption_en": "Centaurus A (MIRI and NIRCam image)",
+        "alt": "Centaurus A (imagem MIRI e NIRCam)",
+        "alt_pt": "Centaurus A (imagem MIRI e NIRCam)",
+        "alt_en": "Centaurus A (MIRI and NIRCam image)"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_ground-based_context/27359451-1-eng-GB/Centaurus_A_ground-based_context_article.jpg",
+        "caption": "Centaurus A: contexto terrestre",
+        "caption_pt": "Centaurus A: contexto terrestre",
+        "caption_en": "Centaurus A: ground-based context",
+        "alt": "Centaurus A: contexto terrestre",
+        "alt_pt": "Centaurus A: contexto terrestre",
+        "alt_en": "Centaurus A: ground-based context"
       }
     ],
     "video": null,
     "audio": null,
-    "title": "O asteróide Nysa tem 3 lóbulos e uma lua?",
-    "title_pt": "O asteróide Nysa tem 3 lóbulos e uma lua?",
-    "title_en": "Does asteroid Nysa have 3 lobes and a moon?",
-    "sub": "O asteróide Nysa pode ser o primeiro corpo trilobado conhecido. E as novas observações também revelam uma pequena lua orbitando o asteróide. O post O asteróide Nysa tem 3 lóbulos.",
-    "sub_pt": "O asteróide Nysa pode ser o primeiro corpo trilobado conhecido. E as novas observações também revelam uma pequena lua orbitando o asteróide. O post O asteróide Nysa tem 3 lóbulos.",
-    "sub_en": "The asteroid Nysa might be the first-known 3-lobed body. And the new observations also reveal a tiny moon orbiting the asteroid. The post Does asteroid Nysa have 3 lobes and a.",
-    "excerpt": "O asteróide Nysa pode ser o primeiro corpo trilobado conhecido. E as novas observações também revelam uma pequena lua orbitando o asteróide. O post O asteróide Nysa tem 3 lóbulos e uma lua? apareceu pela primeira vez no EarthSky.",
-    "excerpt_pt": "O asteróide Nysa pode ser o primeiro corpo trilobado conhecido. E as novas observações também revelam uma pequena lua orbitando o asteróide. O post O asteróide Nysa tem 3 lóbulos e uma lua? apareceu pela primeira vez no EarthSky.",
-    "excerpt_en": "The asteroid Nysa might be the first-known 3-lobed body. And the new observations also reveal a tiny moon orbiting the asteroid. The post Does asteroid Nysa have 3 lobes and a moon? first appeared on EarthSky.",
-    "body": "<p>O asteróide Nysa pode ser o primeiro corpo trilobado conhecido. E as novas observações também revelam uma pequena lua orbitando o asteróide. O post O asteróide Nysa tem 3 lóbulos e uma lua? apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O asteróide Nysa pode ser o primeiro corpo trilobado conhecido. O post O asteróide Nysa tem 3 lóbulos e uma lua.</p><p>Vimos muitos asteróides feitos de 2 corpos unidos, mas o asteróide Nysa pode ser o primeiro asteróide trinário conhecido. 3 lóbulos e uma lua para o asteróide Nysa.</p><p>Agora, quase 170 anos depois, ainda estamos a descobrir a verdadeira natureza deste mundo rochoso na cintura de asteróides. Em 29 de julho de 2026, o Observatório Lowell disse que astrônomos que usaram o Grande Telescópio Binocular no Arizona e o Very Large Telescope no Chile descobriram que este mundo.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/asteroid-nysa-3-lobes-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O asteróide Nysa pode ser o primeiro corpo trilobado conhecido. E as novas observações também revelam uma pequena lua orbitando o asteróide. O post O asteróide Nysa tem 3 lóbulos e uma lua? apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O asteróide Nysa pode ser o primeiro corpo trilobado conhecido. O post O asteróide Nysa tem 3 lóbulos e uma lua.</p><p>Vimos muitos asteróides feitos de 2 corpos unidos, mas o asteróide Nysa pode ser o primeiro asteróide trinário conhecido. 3 lóbulos e uma lua para o asteróide Nysa.</p><p>Agora, quase 170 anos depois, ainda estamos a descobrir a verdadeira natureza deste mundo rochoso na cintura de asteróides. Em 29 de julho de 2026, o Observatório Lowell disse que astrônomos que usaram o Grande Telescópio Binocular no Arizona e o Very Large Telescope no Chile descobriram que este mundo.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/asteroid-nysa-3-lobes-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The asteroid Nysa might be the first-known 3-lobed body. And the new observations also reveal a tiny moon orbiting the asteroid. The post Does asteroid Nysa have 3 lobes and a moon? first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The asteroid Nysa might be the first-known 3-lobed body. The post Does asteroid Nysa have 3 lobes and a moon.</p><p>We’ve seen many asteroids that are made from 2 bodies stuck together, but asteroid Nysa might be the first known trinary asteroid. 3 lobes and a moon for asteroid Nysa.</p><p>Now, nearly 170 years later, we are still discovering the true nature of this rocky world in the asteroid belt. On July 29, 2026, Lowell Observatory said astronomers using the Large Binocular Telescope in Arizona and the Very Large Telescope in Chile have discovered that this world is.</p><p>But Nysa, named after the mythical mountainous land of Nysa from Greek mythology, would be the first known trinary asteroid. The researchers published their peer-reviewed paper on arXiv on July 28, 2026.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Asteroid 44 Nysa The new images of Nysa appear to show two depressions that wrap around the asteroid. A mini moon for Nysa The new imagery also shows a pretty clear moon orbiting the asteroid.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/asteroid-nysa-3-lobes-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Webb revela milhões de estrelas em galáxia próxima",
+    "title_pt": "Webb revela milhões de estrelas em galáxia próxima",
+    "title_en": "Webb reveals millions of stars in nearby galaxy",
+    "sub": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e.",
+    "sub_pt": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e.",
+    "sub_en": "In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more.",
+    "excerpt": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes.",
+    "excerpt_pt": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes.",
+    "excerpt_en": "In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented.",
+    "body": "<p>Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Estas imagens marcam quatro anos de desempenho melhor do que o esperado e operações científicas bem-sucedidas para o telescópio espacial mais poderoso da história. Centaurus A (também conhecido como NGC 5128) está a 11 milhões de anos-luz de distância da Terra, relativamente próximo em termos cósmicos.</p><p>As observações de luz visível do Telescópio Espacial Hubble da NASA/ESA não conseguiram revelar a região central onde a poeira bloqueava a visão, enquanto o Telescópio Espacial. Cada estrela revelada ajuda a reconstruir quando diferentes eventos aconteceram: quando as estrelas mais velhas se formaram pela primeira vez, quando a atividade abrandou, uma.</p><p>O quarto ano de operações científicas de Webb proporcionou mais ciência e descobertas inovadoras em lugares de todo o Universo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes. Webb é sem precedentes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Estas imagens marcam quatro anos de desempenho melhor do que o esperado e operações científicas bem-sucedidas para o telescópio espacial mais poderoso da história. Centaurus A (também conhecido como NGC 5128) está a 11 milhões de anos-luz de distância da Terra, relativamente próximo em termos cósmicos.</p><p>As observações de luz visível do Telescópio Espacial Hubble da NASA/ESA não conseguiram revelar a região central onde a poeira bloqueava a visão, enquanto o Telescópio Espacial. Cada estrela revelada ajuda a reconstruir quando diferentes eventos aconteceram: quando as estrelas mais velhas se formaram pela primeira vez, quando a atividade abrandou, uma.</p><p>O quarto ano de operações científicas de Webb proporcionou mais ciência e descobertas inovadoras em lugares de todo o Universo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. These images mark four years of better-than-anticipated performance and successful science operations for the most powerful space telescope in history. Centaurus A (also known as NGC 5128) is 11 million light-years away from Earth, relatively close in cosmic terms.</p><p>Visible light observations from the NASA/ESA Hubble Space Telescope could not reveal the central region where dust blocked the view, while NASA’s retired Spitzer Space Telescope. Each star revealed helps to reconstruct when different events happened: when older stars first formed, when activity slowed down, a burst of star formation during the collision.</p><p>The fourth year of Webb’s science operations has delivered further groundbreaking science and discoveries from places across the Universe. New evidence for a planet orbiting Alpha Centauri, just four light-years away from our Sun.</p><p>In the early Universe, Webb revealed a black hole that formed before its galaxy did, providing new evidence for how supermassive black holes originated, and identified a supernova. Researchers presented the strongest evidence yet that some of the “little red dots” discovered by Webb in 2022 are rapidly growing black holes enveloped in dense gas cocoons.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Webb also took a fresh look at the Hubble Ultra Deep Field, resulting in a new view that reveals thousands of distant galaxies dating back to the earliest periods of cosmic. Webb and Hubble also joined forces to share the most comprehensive view of Saturn to date, showing layers and storms in its atmosphere.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: O asteróide Nysa pode ser o primeiro corpo trilobado conhecido. E as novas observações também revelam uma pequena lua orbitando o asteróide. O post O.",
-      "Dado-chave: O asteróide Nysa pode ser o primeiro corpo trilobado conhecido.",
+      "Ponto central: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar.",
+      "Dado-chave: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: O asteróide Nysa pode ser o primeiro corpo trilobado conhecido. E as novas observações também revelam uma pequena lua orbitando o asteróide. O post O.",
-      "Dado-chave: O asteróide Nysa pode ser o primeiro corpo trilobado conhecido.",
+      "Ponto central: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar.",
+      "Dado-chave: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: The asteroid Nysa might be the first-known 3-lobed body. And the new observations also reveal a tiny moon orbiting the asteroid. The post Does.",
-      "Key detail: The asteroid Nysa might be the first-known 3-lobed body.",
+      "Core point: In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into.",
+      "Key detail: In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "02 ago 2026",
-    "date_pt": "02 ago 2026",
-    "date_en": "02 Aug 2026",
-    "time": "11h45",
-    "time_pt": "11h45",
-    "time_en": "11:45 UTC",
+    "date": "06 jul 2026",
+    "date_pt": "06 jul 2026",
+    "date_en": "06 Jul 2026",
+    "time": "16h00",
+    "time_pt": "16h00",
+    "time_en": "16:00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-02T11:45:53+00:00",
-    "lastModifiedIso": "2026-08-02T11:45:53+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
+    "publishedIso": "2026-07-06T16:00:00+00:00",
+    "lastModifiedIso": "2026-07-06T16:00:00+00:00",
+    "source": "ESA Space Science",
+    "sourceDomain": "www.esa.int",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -2940,32 +3089,32 @@ window.postsData = [
     "evidenceLabel": "Atualização institucional",
     "evidenceLabel_pt": "Atualização institucional",
     "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
     "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
+      "Astronomia",
+      "ESA Space Science",
       "Cosmos Week",
-      "O asteróide Nysa tem 3 lóbulos e uma lua?"
+      "Webb revela milhões de estrelas em galáxia próxima"
     ],
     "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
+      "Astronomia",
+      "ESA Space Science",
       "Cosmos Week",
-      "O asteróide Nysa tem 3 lóbulos e uma lua?"
+      "Webb revela milhões de estrelas em galáxia próxima"
     ],
     "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
+      "Astronomy",
+      "ESA Space Science",
       "Cosmos Week",
-      "Does the asteroid Nysa have 3 lobes and a moon?"
+      "Webb reveals millions of stars in nearby galaxy"
     ],
-    "srcUrl": "https://earthsky.org/space/asteroid-nysa-3-lobes-moon/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=does-asteroid-nysa-have-3-lobes-and-a-moon",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=does-asteroid-nysa-have-3-lobes-and-a-moon",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=does-asteroid-nysa-have-3-lobes-and-a-moon&lang=en",
+    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-reveals-millions-of-stars-in-nearby-galaxy",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-reveals-millions-of-stars-in-nearby-galaxy",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-reveals-millions-of-stars-in-nearby-galaxy&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -2976,17 +3125,17 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 74,
+    "score": 80,
     "scoreBreakdown": {
-      "source": 72,
+      "source": 90,
       "evidence": 88,
-      "relevance": 80,
+      "relevance": 88,
       "accessibility": 60,
-      "novelty": 52
+      "novelty": 46
     }
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3122,7 +3271,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3258,7 +3407,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "new-images-confirm-betelgeuse-has-a-companion",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3394,7 +3543,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "what-s-up-august-2026-skywatching-tips-from-nasa",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3543,7 +3692,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "a-partial-eclipse-for-parts-of-north-america",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3676,7 +3825,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "a-perfect-year-for-the-perseid-meteor-shower",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3805,11 +3954,11 @@ window.postsData = [
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "meet-the-constellations-delphinus-the-dolphin",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3948,7 +4097,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "plan-for-next-year-s-total-solar-eclipse-august-2-2027",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4084,7 +4233,135 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 34,
+    "slug": "the-elt-s-spectrograph-could-sniff-out-biosignatures-on-other-worlds",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://www.universetoday.com/article_images/The_European_Extremely_Large_Telescope_20260730_154020.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/q2ykvwduunq",
+      "fileUrl": "",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://www.universetoday.com/articles/the-elts-spectrograph-could-sniff-out-biosignatures-on-other-worlds"
+    },
+    "audio": null,
+    "title": "O espectrógrafo do ELT pode detectar bioassinaturas em outros mundos",
+    "title_pt": "O espectrógrafo do ELT pode detectar bioassinaturas em outros mundos",
+    "title_en": "The ELT's Spectrograph Could Sniff Out Biosignatures on Other Worlds",
+    "sub": "Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns resultados para o.",
+    "sub_pt": "Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns resultados para o.",
+    "sub_en": "Before any major telescope commissioning, there are dozens of papers that attempt to define what we can expect from it. We’re starting to see some come through for the Extremely.",
+    "excerpt": "Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns resultados para o Extremely Large Telescope, que esperamos que se tornem mais imaginativos.",
+    "excerpt_pt": "Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns resultados para o Extremely Large Telescope, que esperamos que se tornem mais imaginativos.",
+    "excerpt_en": "Before any major telescope commissioning, there are dozens of papers that attempt to define what we can expect from it. We’re starting to see some come through for the Extremely Large Telescope, which hopefully will get a more imaginative.",
+    "body": "<p>Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns resultados para o Extremely Large Telescope, que esperamos que se tornem mais imaginativos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Um novo artigo de Evann Kurzawa-Ferrandez e seus coautores do Laboratório de Propulsão a Jato da NASA, disponível em pré-impressão no arXiv. Estamos começando a ver alguns avanços para o Extremely Large Telescope (ELT), que esperamos receber um nome mais imaginativo quando o gigante de 39 metros for oficialmente.</p><p>Um novo artigo de Evann Kurzawa-Ferrandez e seus coautores do Laboratório de Propulsão a Jato da NASA, e disponível em pré-impressão no arXiv, mostra que tipo de gases. Estes incluem vários do famoso sistema TRAPPIST-1, que hospeda vários candidatos interessantes para potenciais bioassinaturas.</p><p>O ruído é sempre um problema quando se tenta recolher dados num planeta distante, e ainda mais para telescópios terrestres que têm de lidar com a atmosfera da Terra. Para os planetas TRAPPIST-1, seriam necessários entre 10 e 19 trânsitos para provar estatisticamente se a água estava ou não na atmosfera de um planeta.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-elts-spectrograph-could-sniff-out-biosignatures-on-other-worlds\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns resultados para o Extremely Large Telescope, que esperamos que se tornem mais imaginativos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Um novo artigo de Evann Kurzawa-Ferrandez e seus coautores do Laboratório de Propulsão a Jato da NASA, disponível em pré-impressão no arXiv. Estamos começando a ver alguns avanços para o Extremely Large Telescope (ELT), que esperamos receber um nome mais imaginativo quando o gigante de 39 metros for oficialmente.</p><p>Um novo artigo de Evann Kurzawa-Ferrandez e seus coautores do Laboratório de Propulsão a Jato da NASA, e disponível em pré-impressão no arXiv, mostra que tipo de gases. Estes incluem vários do famoso sistema TRAPPIST-1, que hospeda vários candidatos interessantes para potenciais bioassinaturas.</p><p>O ruído é sempre um problema quando se tenta recolher dados num planeta distante, e ainda mais para telescópios terrestres que têm de lidar com a atmosfera da Terra. Para os planetas TRAPPIST-1, seriam necessários entre 10 e 19 trânsitos para provar estatisticamente se a água estava ou não na atmosfera de um planeta.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-elts-spectrograph-could-sniff-out-biosignatures-on-other-worlds\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Before any major telescope commissioning, there are dozens of papers that attempt to define what we can expect from it. We’re starting to see some come through for the Extremely Large Telescope, which hopefully will get a more imaginative. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. A new paper from Evann Kurzawa-Ferrandez and his co-authors at NASA’s Jet Propulsion Laboratory, and available in pre-print on arXiv. We’re starting to see some come through for the Extremely Large Telescope (ELT), which hopefully will get a more imaginative name when the 39m behemoth is officially commissioned.</p><p>A new paper from Evann Kurzawa-Ferrandez and his co-authors at NASA’s Jet Propulsion Laboratory, and available in pre-print on arXiv, showcases what kind of biologically relevant. These include several from the famous TRAPPIST-1 system, which hosts several interesting candidates for potential biosignatures.</p><p>Noise is always an issue when attempting to collect data on a far-away planet, and even more so for telescopes that are ground-based and have to deal with Earth’s atmosphere. For the TRAPPIST-1 planets, it would take between 10 and 19 transits to statistically prove whether water was in a planet’s atmosphere or not.</p><p>That is actually a relatively short time in terms of the overall amount of time, 19 transits of the outermost planet would only be equivalent to 380 days, or a little longer than. But for the easiest planet, TRAPPIST-1d, that still only took around 36 transits, and ANDES was able to detect all of the gases on that planet.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>However, only 8 of the 18 planets could yield a decisive detection of at least one of the gases within a 100 transit limit. In a simulation, the authors can easily subtract out the interference from the Earth’s atmosphere, but in reality, reaching the “photon-noise limit” as they did in simulation.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-elts-spectrograph-could-sniff-out-biosignatures-on-other-worlds\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a.",
+      "Dado-chave: Um novo artigo de Evann Kurzawa-Ferrandez e seus coautores do Laboratório de Propulsão a Jato da NASA, disponível em pré-impressão no arXiv.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a.",
+      "Dado-chave: Um novo artigo de Evann Kurzawa-Ferrandez e seus coautores do Laboratório de Propulsão a Jato da NASA, disponível em pré-impressão no arXiv.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Before any major telescope commissioning, there are dozens of papers that attempt to define what we can expect from it. We’re starting to see some.",
+      "Key detail: A new paper from Evann Kurzawa-Ferrandez and his co-authors at NASA’s Jet Propulsion Laboratory, and available in pre-print on arXiv.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "30 jul 2026",
+    "date_pt": "30 jul 2026",
+    "date_en": "30 Jul 2026",
+    "time": "15h40",
+    "time_pt": "15h40",
+    "time_en": "15:40 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-30T15:40:33+00:00",
+    "lastModifiedIso": "2026-07-30T15:40:33+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Exoplanetas",
+      "Universe Today",
+      "Cosmos Week",
+      "O espectrógrafo do ELT pode detectar bioassinaturas em outros mundos"
+    ],
+    "keywords_pt": [
+      "Exoplanetas",
+      "Universe Today",
+      "Cosmos Week",
+      "O espectrógrafo do ELT pode detectar bioassinaturas em outros mundos"
+    ],
+    "keywords_en": [
+      "Exoplanets",
+      "Universe Today",
+      "Cosmos Week",
+      "ELT spectrograph can detect biosignatures on other worlds"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/the-elts-spectrograph-could-sniff-out-biosignatures-on-other-worlds",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-elt-s-spectrograph-could-sniff-out-biosignatures-on-other-worlds",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-elt-s-spectrograph-could-sniff-out-biosignatures-on-other-worlds",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-elt-s-spectrograph-could-sniff-out-biosignatures-on-other-worlds&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 35,
     "slug": "nasa-delivers-navigation-system-for-commercial-lunar-relay",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -4198,11 +4475,11 @@ window.postsData = [
       "evidence": 82,
       "relevance": 70,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 34,
+    "id": 36,
     "slug": "ike-theriot-helps-prepare-astronauts-to-work-on-the-moon",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4331,11 +4608,11 @@ window.postsData = [
       "evidence": 82,
       "relevance": 70,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 35,
+    "id": 37,
     "slug": "metallic-waves-on-ancient-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4440,7 +4717,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 38,
     "slug": "interstellar-travel-the-space-age-and-nuclear-rockets",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4571,7 +4848,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 39,
     "slug": "astronomers-measure-the-long-reach-of-a-quasar",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4704,298 +4981,14 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
-    "slug": "the-star-that-exploded-without-hydrogen",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.universetoday.com/article_images/eso0943a_20260731_164540.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/type1a_alt_nolabel_20260731_164613.jpg",
-        "caption": "Ilustração do arranjo padrão de uma anã branca sugando gás de uma companheira até que a pilha detone. No V445 Puppis, o mesmo maquinário funciona com hélio em vez de hidrogênio (Crédito: NASA/CXC/M. Weiss)",
-        "caption_pt": "Ilustração do arranjo padrão de uma anã branca sugando gás de uma companheira até que a pilha detone. No V445 Puppis, o mesmo maquinário funciona com hélio em vez de hidrogênio (Crédito: NASA/CXC/M. Weiss)",
-        "caption_en": "Illustration of the standard arrangement of a white dwarf siphoning gas from a companion until the pile detonates. In V445 Puppis the same machinery is running on helium instead of hydrogen (Credit : NASA/CXC/M. Weiss)",
-        "alt": "Ilustração do arranjo padrão de uma anã branca sugando gás de uma companheira até que a pilha detone. No V445 Puppis, o mesmo maquinário funciona com hélio em vez de hidrogênio (Crédito: NASA/CXC/M. Weiss)",
-        "alt_pt": "Ilustração do arranjo padrão de uma anã branca sugando gás de uma companheira até que a pilha detone. No V445 Puppis, o mesmo maquinário funciona com hélio em vez de hidrogênio (Crédito: NASA/CXC/M. Weiss)",
-        "alt_en": "Illustration of the standard arrangement of a white dwarf siphoning gas from a companion until the pile detonates. In V445 Puppis the same machinery is running on helium instead of hydrogen (Credit : NASA/CXC/M. Weiss)"
-      },
-      {
-        "src": "https://www.universetoday.com/article_images/SN1994D-3_20260731_164706.jpg",
-        "caption": "Supernova 1994D, canto inferior esquerdo, ofuscando brevemente as estrelas combinadas de sua galáxia hospedeira. Explosões do tipo Ia como esta são o parâmetro que revelou a aceleração cósmica e o V445 Puppis pode estar nos mostrando como começar (Crédito.",
-        "caption_pt": "Supernova 1994D, canto inferior esquerdo, ofuscando brevemente as estrelas combinadas de sua galáxia hospedeira. Explosões do tipo Ia como esta são o parâmetro que revelou a aceleração cósmica e o V445 Puppis pode estar nos mostrando como começar (Crédito.",
-        "caption_en": "Supernova 1994D, lower left, briefly outshining the combined stars of its host galaxy. Type Ia explosions like this one are the yardstick that revealed cosmic acceleration and V445 Puppis may be showing us how one begins (Credit.",
-        "alt": "Supernova 1994D, canto inferior esquerdo, ofuscando brevemente as estrelas combinadas de sua galáxia hospedeira. Explosões do tipo Ia como esta são o parâmetro que revelou a aceleração cósmica e o V445 Puppis pode estar nos mostrando como começar (Crédito.",
-        "alt_pt": "Supernova 1994D, canto inferior esquerdo, ofuscando brevemente as estrelas combinadas de sua galáxia hospedeira. Explosões do tipo Ia como esta são o parâmetro que revelou a aceleração cósmica e o V445 Puppis pode estar nos mostrando como começar (Crédito.",
-        "alt_en": "Supernova 1994D, lower left, briefly outshining the combined stars of its host galaxy. Type Ia explosions like this one are the yardstick that revealed cosmic acceleration and V445 Puppis may be showing us how one begins (Credit."
-      },
-      {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "A estrela que explodiu sem hidrogênio",
-    "title_pt": "A estrela que explodiu sem hidrogênio",
-    "title_en": "The Star That Exploded Without Hydrogen",
-    "sub": "Há vinte e cinco anos, uma estrela da constelação de Puppis explodiu e depois desapareceu atrás de uma cortina de fuligem. Os astrônomos sabiam apenas que a explosão não continha.",
-    "sub_pt": "Há vinte e cinco anos, uma estrela da constelação de Puppis explodiu e depois desapareceu atrás de uma cortina de fuligem. Os astrônomos sabiam apenas que a explosão não continha.",
-    "sub_en": "Twenty five years ago a star in the constellation Puppis blew itself apart and then vanished behind a curtain of its own soot. Astronomers knew only that the explosion contained.",
-    "excerpt": "Há vinte e cinco anos, uma estrela da constelação de Puppis explodiu e depois desapareceu atrás de uma cortina de fuligem. Os astrônomos sabiam apenas que a explosão não continha nenhum hidrogênio, que é o elemento mais abundante.",
-    "excerpt_pt": "Há vinte e cinco anos, uma estrela da constelação de Puppis explodiu e depois desapareceu atrás de uma cortina de fuligem. Os astrônomos sabiam apenas que a explosão não continha nenhum hidrogênio, que é o elemento mais abundante.",
-    "excerpt_en": "Twenty five years ago a star in the constellation Puppis blew itself apart and then vanished behind a curtain of its own soot. Astronomers knew only that the explosion contained no hydrogen at all, which for the most abundant element in.",
-    "body": "<p>Há vinte e cinco anos, uma estrela da constelação de Puppis explodiu e depois desapareceu atrás de uma cortina de fuligem. Os astrônomos sabiam apenas que a explosão não continha nenhum hidrogênio, que é o elemento mais abundante. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Esse tem sido o problema com o V445 Puppis. Quando entrou em erupção no final de 2000, anunciou-se como algo genuinamente peculiar, uma nova sem hidrogénio.</p><p>No V445 Puppis, o mesmo maquinário funciona com hélio em vez de hidrogênio (Crédito: NASA/CXC/M. Weiss) V445 Puppis fez isso sem deixar vestígios.</p><p>Desde então, os detritos começaram a desaparecer e John Mills, investigador da Universidade de Warwick, combinou dados infravermelhos do Very Large Telescope, imagens do Hubble. A dupla circula a cada 3,7 dias, aproximadamente o dobro do tempo que se presumia, e o roubo já começou novamente.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-star-that-exploded-without-hydrogen\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Há vinte e cinco anos, uma estrela da constelação de Puppis explodiu e depois desapareceu atrás de uma cortina de fuligem. Os astrônomos sabiam apenas que a explosão não continha nenhum hidrogênio, que é o elemento mais abundante. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Esse tem sido o problema com o V445 Puppis. Quando entrou em erupção no final de 2000, anunciou-se como algo genuinamente peculiar, uma nova sem hidrogénio.</p><p>No V445 Puppis, o mesmo maquinário funciona com hélio em vez de hidrogênio (Crédito: NASA/CXC/M. Weiss) V445 Puppis fez isso sem deixar vestígios.</p><p>Desde então, os detritos começaram a desaparecer e John Mills, investigador da Universidade de Warwick, combinou dados infravermelhos do Very Large Telescope, imagens do Hubble. A dupla circula a cada 3,7 dias, aproximadamente o dobro do tempo que se presumia, e o roubo já começou novamente.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-star-that-exploded-without-hydrogen\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Twenty five years ago a star in the constellation Puppis blew itself apart and then vanished behind a curtain of its own soot. Astronomers knew only that the explosion contained no hydrogen at all, which for the most abundant element in. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. That’s been the problem with V445 Puppis. When it erupted in late 2000 it announced itself as something genuinely peculiar, a nova with no hydrogen in it.</p><p>In V445 Puppis the same machinery is running on helium instead of hydrogen (Credit: NASA/CXC/M. Weiss) V445 Puppis did it without a trace of the stuff.</p><p>The debris has since started to clear and John Mills, a researcher at the University of Warwick, has combined infrared data from the Very Large Telescope, Hubble imaging, two. The pair circle each other every 3.7 days, roughly twice as long as anyone had assumed, and the theft has already started up again.</p><p>Supernova 1994D, lower left, briefly outshining the combined stars of its host galaxy. Type Ia explosions like this one are the yardstick that revealed cosmic acceleration and V445 Puppis may be showing us how one begins Why should we care about a single star which.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Astronomers discover super-bright quasar lenses Science broadcaster and author. Mark is known for his tireless enthusiasm for making science accessible, through numerous tv, radio, podcast and theatre appearances, and books.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-star-that-exploded-without-hydrogen\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Há vinte e cinco anos, uma estrela da constelação de Puppis explodiu e depois desapareceu atrás de uma cortina de fuligem. Os astrônomos sabiam.",
-      "Dado-chave: Esse tem sido o problema com o V445 Puppis.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Há vinte e cinco anos, uma estrela da constelação de Puppis explodiu e depois desapareceu atrás de uma cortina de fuligem. Os astrônomos sabiam.",
-      "Dado-chave: Esse tem sido o problema com o V445 Puppis.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Twenty five years ago a star in the constellation Puppis blew itself apart and then vanished behind a curtain of its own soot. Astronomers knew only.",
-      "Key detail: That’s been the problem with V445 Puppis.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "31 jul 2026",
-    "date_pt": "31 jul 2026",
-    "date_en": "31 Jul 2026",
-    "time": "16h47",
-    "time_pt": "16h47",
-    "time_en": "16:47 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-31T16:47:42+00:00",
-    "lastModifiedIso": "2026-07-31T16:47:42+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Universe Today",
-      "Cosmos Week",
-      "A estrela que explodiu sem hidrogênio"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Universe Today",
-      "Cosmos Week",
-      "A estrela que explodiu sem hidrogênio"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Universe Today",
-      "Cosmos Week",
-      "The star that exploded without hydrogen"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/the-star-that-exploded-without-hydrogen",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-star-that-exploded-without-hydrogen",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-star-that-exploded-without-hydrogen",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-star-that-exploded-without-hydrogen&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
-    "id": 39,
-    "slug": "hydrognss-data-open-for-new-insights-into-earth-s-water",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/surface_water_over_south_america_from_hydrognss/27400202-1-eng-GB/Surface_water_over_South_America_from_HydroGNSS_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/hydrognss_scouting_for_water/26912191-1-eng-GB/HydroGNSS_Scouting_for_water_article.jpg",
-        "caption": "HydroGNSS: Exploração de água",
-        "caption_pt": "HydroGNSS: Exploração de água",
-        "caption_en": "HydroGNSS: Scouting for water",
-        "alt": "HydroGNSS: Exploração de água",
-        "alt_pt": "HydroGNSS: Exploração de água",
-        "alt_en": "HydroGNSS: Scouting for water"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/surface_water_over_south_america_from_hydrognss/27400202-1-eng-GB/Surface_water_over_South_America_from_HydroGNSS_article.jpg",
-        "caption": "Águas superficiais sobre a América do Sul a partir do HydroGNSS Open Image",
-        "caption_pt": "Águas superficiais sobre a América do Sul a partir do HydroGNSS Open Image",
-        "caption_en": "Surface water over South America from HydroGNSS Open Image",
-        "alt": "Águas superficiais sobre a América do Sul a partir do HydroGNSS Open Image",
-        "alt_pt": "Águas superficiais sobre a América do Sul a partir do HydroGNSS Open Image",
-        "alt_en": "Surface water over South America from HydroGNSS Open Image"
-      },
-      {
-        "src": "https://www.esa.int/extension/pillars/design/pillars/images/play-button.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Dados HydroGNSS abertos para novos insights sobre a água da Terra",
-    "title_pt": "Dados HydroGNSS abertos para novos insights sobre a água da Terra",
-    "title_en": "HydroGNSS data open for new insights into Earth’s water",
-    "sub": "A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica. Após extensos testes e validação dos.",
-    "sub_pt": "A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica. Após extensos testes e validação dos.",
-    "sub_en": "The European Space Agency's two-satellite HydroGNSS Scout mission has completed commissioning and is now in full scientific operations. Following extensive testing and validation.",
-    "excerpt": "A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica. Após extensos testes e validação dos satélites, instrumentos e segmento terrestre, o HydroGNSS.",
-    "excerpt_pt": "A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica. Após extensos testes e validação dos satélites, instrumentos e segmento terrestre, o HydroGNSS.",
-    "excerpt_en": "The European Space Agency's two-satellite HydroGNSS Scout mission has completed commissioning and is now in full scientific operations. Following extensive testing and validation of the satellites, instruments and ground segment, HydroGNSS.",
-    "body": "<p>A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica. Após extensos testes e validação dos satélites, instrumentos e segmento terrestre, o HydroGNSS. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Após extensos testes e validação dos satélites, instrumentos e segmento terrestre, os dados HydroGNSS estão agora disponíveis gratuitamente para utilizadores em todo o mundo. Lançados em novembro de 2025, os satélites HydroGNSS usam a Reflectometria do Sistema Global de Navegação por Satélite (GNSS-R) para observar as principais variáveis.</p><p>A missão captura sinais de banda L transmitidos por satélites de navegação como GPS e Galileo depois de serem refletidos na superfície da Terra. Sendo a primeira missão Scout da ESA, desenvolvida no âmbito do programa Earth Observation FutureEO, o HydroGNSS exemplifica a abordagem do Novo Espaço.</p><p>Utilizando esta abordagem, a missão foi desenvolvida para a ESA pela Surrey Satellite Technology Ltd (SSTL), que projetou, construiu e agora opera os dois satélites. Com base na tecnologia GNSS-R demonstrada anteriormente no TechDemoSat-1 e na missão CYGNSS, o SSTL desenvolveu um instrumento avançado capaz de explorar múltiplas constelações.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica. Após extensos testes e validação dos satélites, instrumentos e segmento terrestre, o HydroGNSS. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Após extensos testes e validação dos satélites, instrumentos e segmento terrestre, os dados HydroGNSS estão agora disponíveis gratuitamente para utilizadores em todo o mundo. Lançados em novembro de 2025, os satélites HydroGNSS usam a Reflectometria do Sistema Global de Navegação por Satélite (GNSS-R) para observar as principais variáveis.</p><p>A missão captura sinais de banda L transmitidos por satélites de navegação como GPS e Galileo depois de serem refletidos na superfície da Terra. Sendo a primeira missão Scout da ESA, desenvolvida no âmbito do programa Earth Observation FutureEO, o HydroGNSS exemplifica a abordagem do Novo Espaço.</p><p>Utilizando esta abordagem, a missão foi desenvolvida para a ESA pela Surrey Satellite Technology Ltd (SSTL), que projetou, construiu e agora opera os dois satélites. Com base na tecnologia GNSS-R demonstrada anteriormente no TechDemoSat-1 e na missão CYGNSS, o SSTL desenvolveu um instrumento avançado capaz de explorar múltiplas constelações.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency&#x27;s two-satellite HydroGNSS Scout mission has completed commissioning and is now in full scientific operations. Following extensive testing and validation of the satellites, instruments and ground segment, HydroGNSS. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Following extensive testing and validation of the satellites, instruments and ground segment, HydroGNSS data are now freely available to users worldwide, opening new opportunities. Launched in November 2025, the HydroGNSS satellites use Global Navigation Satellite System Reflectometry (GNSS-R) to observe key hydrological variables from space.</p><p>The mission captures L-band signals transmitted by navigation satellites such as GPS and Galileo after they have reflected off Earth&#x27;s surface. As ESA&#x27;s first Scout mission, developed under the Earth Observation FutureEO programme, HydroGNSS exemplifies the New Space approach.</p><p>Using this approach, the mission was developed for ESA by Surrey Satellite Technology Ltd (SSTL), which designed, built and now operates the two satellites. Building on GNSS-R technology previously demonstrated on TechDemoSat-1 and the CYGNSS mission, SSTL developed an advanced instrument capable of exploiting multiple GNSS.</p><p>Working with an international team of scientific partners, SSTL processes these measurements into data products that provide new information on soil moisture, flooding and. ESA’s Scout Project Manager, Jean-Pascal Lejault, said, “This is a real milestone, not only for the HydroGNSS mission, but also for the Scout component of ESA’s Earth Observation.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>“Reaching full scientific operations demonstrates the success of this innovative approach to developing agile, low-cost Earth observation missions. We would like to thank everyone involved in making this achievement possible, from the engineering and science teams to our industrial and institutional partners.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica. Após.",
-      "Dado-chave: Após extensos testes e validação dos satélites, instrumentos e segmento terrestre, os dados HydroGNSS estão agora disponíveis gratuitamente para.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica. Após.",
-      "Dado-chave: Após extensos testes e validação dos satélites, instrumentos e segmento terrestre, os dados HydroGNSS estão agora disponíveis gratuitamente para.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The European Space Agency's two-satellite HydroGNSS Scout mission has completed commissioning and is now in full scientific operations. Following.",
-      "Key detail: Following extensive testing and validation of the satellites, instruments and ground segment, HydroGNSS data are now freely available to users.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "31 jul 2026",
-    "date_pt": "31 jul 2026",
-    "date_en": "31 Jul 2026",
-    "time": "09h36",
-    "time_pt": "09h36",
-    "time_en": "09:36 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-31T09:36:00+00:00",
-    "lastModifiedIso": "2026-07-31T09:36:00+00:00",
-    "source": "ESA Space News",
-    "sourceDomain": "www.esa.int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "Dados HydroGNSS abertos para novos insights sobre a água da Terra"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "Dados HydroGNSS abertos para novos insights sobre a água da Terra"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "ESA Space News",
-      "Cosmos Week",
-      "Open HydroGNSS data for new insights into Earth's water"
-    ],
-    "srcUrl": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=hydrognss-data-open-for-new-insights-into-earth-s-water",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=hydrognss-data-open-for-new-insights-into-earth-s-water",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=hydrognss-data-open-for-new-insights-into-earth-s-water&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 80,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
     "id": 40,
-    "slug": "smos-salinity-could-offer-early-indicator-of-el-nino",
+    "slug": "does-asteroid-nysa-have-3-lobes-and-a-moon",
     "cat": "Ciências da Terra",
     "catCls": "terra",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/pacific_ocean_salinity_june_2026/27397989-1-eng-GB/Pacific_Ocean_salinity_June_2026_card_full.jpg",
+    "img": "https://earthsky.org/upl/2026/08/44-Nysa-asteroid-spin-moon-LowellObservatory.webp",
     "inline_images": [
       {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/freshwater_pool_of_the_2026_el_nino/27397093-1-eng-GB/Freshwater_pool_of_the_2026_El_Nino_article.jpg",
-        "caption": "Piscina de água doce do El Niño de 2026",
-        "caption_pt": "Piscina de água doce do El Niño de 2026",
-        "caption_en": "Freshwater pool of the 2026 El Niño",
-        "alt": "Piscina de água doce do El Niño de 2026",
-        "alt_pt": "Piscina de água doce do El Niño de 2026",
-        "alt_en": "Freshwater pool of the 2026 El Niño"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/pacific_ocean_salinity_june_2026/27397989-1-eng-GB/Pacific_Ocean_salinity_June_2026_article.jpg",
-        "caption": "Salinidade do Oceano Pacífico, junho de 2026",
-        "caption_pt": "Salinidade do Oceano Pacífico, junho de 2026",
-        "caption_en": "Pacific Ocean salinity June 2026",
-        "alt": "Salinidade do Oceano Pacífico, junho de 2026",
-        "alt_pt": "Salinidade do Oceano Pacífico, junho de 2026",
-        "alt_en": "Pacific Ocean salinity June 2026"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2009/09/smos/10241463-3-eng-GB/SMOS_article.jpg",
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
         "caption": "",
         "caption_pt": "",
         "caption_en": "",
@@ -5006,46 +4999,46 @@ window.postsData = [
     ],
     "video": null,
     "audio": null,
-    "title": "A salinidade do SMOS pode oferecer um indicador precoce do El Niño",
-    "title_pt": "A salinidade do SMOS pode oferecer um indicador precoce do El Niño",
-    "title_en": "SMOS salinity could offer early indicator of El Niño",
-    "sub": "À medida que o Oceano Pacífico entra numa fase de El Niño, os cientistas monitorizam as alterações na temperatura da superfície do mar, mas também a salinidade da superfície do.",
-    "sub_pt": "À medida que o Oceano Pacífico entra numa fase de El Niño, os cientistas monitorizam as alterações na temperatura da superfície do mar, mas também a salinidade da superfície do.",
-    "sub_en": "As the Pacific Ocean moves into an El Niño phase, scientists are monitoring changes in sea-surface temperature, but also sea-surface salinity, which is another key indicator of.",
-    "excerpt": "À medida que o Oceano Pacífico entra numa fase de El Niño, os cientistas monitorizam as alterações na temperatura da superfície do mar, mas também a salinidade da superfície do mar, que é outro indicador-chave deste fenómeno. Medições de satélites como o.",
-    "excerpt_pt": "À medida que o Oceano Pacífico entra numa fase de El Niño, os cientistas monitorizam as alterações na temperatura da superfície do mar, mas também a salinidade da superfície do mar, que é outro indicador-chave deste fenómeno. Medições de satélites como o.",
-    "excerpt_en": "As the Pacific Ocean moves into an El Niño phase, scientists are monitoring changes in sea-surface temperature, but also sea-surface salinity, which is another key indicator of this phenomenon. Measurements from satellites such as the.",
-    "body": "<p>À medida que o Oceano Pacífico entra numa fase de El Niño, os cientistas monitorizam as alterações na temperatura da superfície do mar, mas também a salinidade da superfície do mar, que é outro indicador-chave deste fenómeno. Medições de satélites como o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. As medições efectuadas por satélites como a missão SMOS da Agência Espacial Europeia estão a revelar como os padrões da água doce e do sal mudam no Pacífico à medida que o El Niño. Juntamente com a temperatura, a salinidade controla a densidade da água do mar, desencadeando correntes oceânicas que redistribuem o calor por todo o planeta.</p><p>A observação de ambas as variáveis ​​dá aos cientistas uma imagem muito mais completa de como o sistema acoplado oceano-atmosfera se comporta durante o El Niño, a fase quente do. Durante o atual El Niño emergente, os satélites detectaram mudanças notáveis ​​no Pacífico tropical.</p><p>Com base em dados das missões SMOS da ESA e SMAP da NASA e outras fontes de dados, a animação acima ilustra o movimento da piscina de água doce durante os eventos El Niño e La. Aqui, a borda oriental da bacia de água doce do Pacífico ocidental desloca-se para leste, juntamente com o cinturão associado de convecção atmosférica profunda e chuvas fortes.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/SMOS/SMOS_salinity_could_offer_early_indicator_of_El_Nino\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>À medida que o Oceano Pacífico entra numa fase de El Niño, os cientistas monitorizam as alterações na temperatura da superfície do mar, mas também a salinidade da superfície do mar, que é outro indicador-chave deste fenómeno. Medições de satélites como o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. As medições efectuadas por satélites como a missão SMOS da Agência Espacial Europeia estão a revelar como os padrões da água doce e do sal mudam no Pacífico à medida que o El Niño. Juntamente com a temperatura, a salinidade controla a densidade da água do mar, desencadeando correntes oceânicas que redistribuem o calor por todo o planeta.</p><p>A observação de ambas as variáveis ​​dá aos cientistas uma imagem muito mais completa de como o sistema acoplado oceano-atmosfera se comporta durante o El Niño, a fase quente do. Durante o atual El Niño emergente, os satélites detectaram mudanças notáveis ​​no Pacífico tropical.</p><p>Com base em dados das missões SMOS da ESA e SMAP da NASA e outras fontes de dados, a animação acima ilustra o movimento da piscina de água doce durante os eventos El Niño e La. Aqui, a borda oriental da bacia de água doce do Pacífico ocidental desloca-se para leste, juntamente com o cinturão associado de convecção atmosférica profunda e chuvas fortes.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/SMOS/SMOS_salinity_could_offer_early_indicator_of_El_Nino\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>As the Pacific Ocean moves into an El Niño phase, scientists are monitoring changes in sea-surface temperature, but also sea-surface salinity, which is another key indicator of this phenomenon. Measurements from satellites such as the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Measurements from satellites such as the European Space Agency&#x27;s SMOS mission are revealing how freshwater and salt patterns shift across the Pacific as this year’s El Niño. Together with temperature, salinity controls the density of seawater, triggering ocean currents that redistribute heat around the planet.</p><p>Observing both variables gives scientists a much more complete picture of how the coupled ocean, atmosphere system behaves during El Niño, the warm phase of the El Niño, Southern. During the current emerging El Niño, satellites have detected notable changes in the tropical Pacific.</p><p>Drawing on data from ESA’s SMOS and NASA’s SMAP missions and other data sources, the animation above illustrates the movement of the freshwater pool during the 2023 El Niño and La. Here, the eastern edge of the western Pacific freshwater pool shifts eastwards, together with the associated belt of deep atmospheric convection and heavy rainfall.</p><p>Areas experiencing more rainfall become fresher than normal, while regions with less precipitation and greater evaporation become more saline. ESA’s SMOS Mission Manager, Klaus Scipal, said, “Salinity acts as a fingerprint of the water cycle.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>“Where temperatures tell us how much heat the ocean contains, salinity gives us a first approximation where freshwater is entering or leaving the ocean. The aim is to determine whether spatial patterns of sea-surface salinity can improve forecasts of the timing and intensity of ENSO events by providing an earlier signal than.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/SMOS/SMOS_salinity_could_offer_early_indicator_of_El_Nino\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "O asteróide Nysa tem 3 lóbulos e uma lua?",
+    "title_pt": "O asteróide Nysa tem 3 lóbulos e uma lua?",
+    "title_en": "Does asteroid Nysa have 3 lobes and a moon?",
+    "sub": "O asteróide Nysa pode ser o primeiro corpo trilobado conhecido. E as novas observações também revelam uma pequena lua orbitando o asteroide. O post O asteróide Nysa tem 3 lóbulos.",
+    "sub_pt": "O asteróide Nysa pode ser o primeiro corpo trilobado conhecido. E as novas observações também revelam uma pequena lua orbitando o asteroide. O post O asteróide Nysa tem 3 lóbulos.",
+    "sub_en": "The asteroid Nysa might be the first-known 3-lobed body. And the new observations also reveal a tiny moon orbiting the asteroid. The post Does asteroid Nysa have 3 lobes and a.",
+    "excerpt": "O asteróide Nysa pode ser o primeiro corpo trilobado conhecido. E as novas observações também revelam uma pequena lua orbitando o asteroide. O post O asteróide Nysa tem 3 lóbulos e uma lua? apareceu pela primeira vez no EarthSky.",
+    "excerpt_pt": "O asteróide Nysa pode ser o primeiro corpo trilobado conhecido. E as novas observações também revelam uma pequena lua orbitando o asteroide. O post O asteróide Nysa tem 3 lóbulos e uma lua? apareceu pela primeira vez no EarthSky.",
+    "excerpt_en": "The asteroid Nysa might be the first-known 3-lobed body. And the new observations also reveal a tiny moon orbiting the asteroid. The post Does asteroid Nysa have 3 lobes and a moon? first appeared on EarthSky.",
+    "body": "<p>O asteróide Nysa pode ser o primeiro corpo trilobado conhecido. E as novas observações também revelam uma pequena lua orbitando o asteroide. O post O asteróide Nysa tem 3 lóbulos e uma lua? apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O asteróide Nysa pode ser o primeiro corpo trilobado conhecido. O post O asteróide Nysa tem 3 lóbulos e uma lua.</p><p>Vimos muitos asteróides feitos de 2 corpos unidos, mas o asteróide Nysa pode ser o primeiro asteróide trinário conhecido. 3 lóbulos e uma lua para o asteroide Nysa.</p><p>Agora, quase 170 anos depois, ainda estamos a descobrir a verdadeira natureza deste mundo rochoso na cintura de asteróides. Em 29 de julho de 2026, o Observatório Lowell disse que astrônomos que usaram o Grande Telescópio Binocular no Arizona e o Very Large Telescope no Chile descobriram que este mundo.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/asteroid-nysa-3-lobes-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O asteróide Nysa pode ser o primeiro corpo trilobado conhecido. E as novas observações também revelam uma pequena lua orbitando o asteroide. O post O asteróide Nysa tem 3 lóbulos e uma lua? apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O asteróide Nysa pode ser o primeiro corpo trilobado conhecido. O post O asteróide Nysa tem 3 lóbulos e uma lua.</p><p>Vimos muitos asteróides feitos de 2 corpos unidos, mas o asteróide Nysa pode ser o primeiro asteróide trinário conhecido. 3 lóbulos e uma lua para o asteroide Nysa.</p><p>Agora, quase 170 anos depois, ainda estamos a descobrir a verdadeira natureza deste mundo rochoso na cintura de asteróides. Em 29 de julho de 2026, o Observatório Lowell disse que astrônomos que usaram o Grande Telescópio Binocular no Arizona e o Very Large Telescope no Chile descobriram que este mundo.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/asteroid-nysa-3-lobes-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The asteroid Nysa might be the first-known 3-lobed body. And the new observations also reveal a tiny moon orbiting the asteroid. The post Does asteroid Nysa have 3 lobes and a moon? first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The asteroid Nysa might be the first-known 3-lobed body. The post Does asteroid Nysa have 3 lobes and a moon.</p><p>We’ve seen many asteroids that are made from 2 bodies stuck together, but asteroid Nysa might be the first known trinary asteroid. 3 lobes and a moon for asteroid Nysa.</p><p>Now, nearly 170 years later, we are still discovering the true nature of this rocky world in the asteroid belt. On July 29, 2026, Lowell Observatory said astronomers using the Large Binocular Telescope in Arizona and the Very Large Telescope in Chile have discovered that this world is.</p><p>But Nysa, named after the mythical mountainous land of Nysa from Greek mythology, would be the first known trinary asteroid. The researchers published their peer-reviewed paper on arXiv on July 28, 2026.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Asteroid 44 Nysa The new images of Nysa appear to show two depressions that wrap around the asteroid. A mini moon for Nysa The new imagery also shows a pretty clear moon orbiting the asteroid.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/asteroid-nysa-3-lobes-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: À medida que o Oceano Pacífico entra numa fase de El Niño, os cientistas monitorizam as alterações na temperatura da superfície do mar, mas também a.",
-      "Dado-chave: As medições efectuadas por satélites como a missão SMOS da Agência Espacial Europeia estão a revelar como os padrões da água doce e do sal mudam.",
+      "Ponto central: O asteróide Nysa pode ser o primeiro corpo trilobado conhecido. E as novas observações também revelam uma pequena lua orbitando o asteroide. O post O.",
+      "Dado-chave: O asteróide Nysa pode ser o primeiro corpo trilobado conhecido.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: À medida que o Oceano Pacífico entra numa fase de El Niño, os cientistas monitorizam as alterações na temperatura da superfície do mar, mas também a.",
-      "Dado-chave: As medições efectuadas por satélites como a missão SMOS da Agência Espacial Europeia estão a revelar como os padrões da água doce e do sal mudam.",
+      "Ponto central: O asteróide Nysa pode ser o primeiro corpo trilobado conhecido. E as novas observações também revelam uma pequena lua orbitando o asteroide. O post O.",
+      "Dado-chave: O asteróide Nysa pode ser o primeiro corpo trilobado conhecido.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: As the Pacific Ocean moves into an El Niño phase, scientists are monitoring changes in sea-surface temperature, but also sea-surface salinity, which.",
-      "Key detail: Measurements from satellites such as the European Space Agency's SMOS mission are revealing how freshwater and salt patterns shift across the.",
+      "Core point: The asteroid Nysa might be the first-known 3-lobed body. And the new observations also reveal a tiny moon orbiting the asteroid. The post Does.",
+      "Key detail: The asteroid Nysa might be the first-known 3-lobed body.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "30 jul 2026",
-    "date_pt": "30 jul 2026",
-    "date_en": "30 Jul 2026",
-    "time": "07h20",
-    "time_pt": "07h20",
-    "time_en": "07:20 UTC",
+    "date": "02 ago 2026",
+    "date_pt": "02 ago 2026",
+    "date_en": "02 Aug 2026",
+    "time": "11h45",
+    "time_pt": "11h45",
+    "time_en": "11:45 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-30T07:20:00+00:00",
-    "lastModifiedIso": "2026-07-30T07:20:00+00:00",
-    "source": "ESA Space News",
-    "sourceDomain": "www.esa.int",
+    "publishedIso": "2026-08-02T11:45:53+00:00",
+    "lastModifiedIso": "2026-08-02T11:45:53+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -5063,26 +5056,26 @@ window.postsData = [
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
       "Ciências da Terra",
-      "ESA Space News",
+      "EarthSky",
       "Cosmos Week",
-      "A salinidade do SMOS pode oferecer um indicador precoce do El Niño"
+      "O asteróide Nysa tem 3 lóbulos e uma lua?"
     ],
     "keywords_pt": [
       "Ciências da Terra",
-      "ESA Space News",
+      "EarthSky",
       "Cosmos Week",
-      "A salinidade do SMOS pode oferecer um indicador precoce do El Niño"
+      "O asteróide Nysa tem 3 lóbulos e uma lua?"
     ],
     "keywords_en": [
       "Earth Sciences",
-      "ESA Space News",
+      "EarthSky",
       "Cosmos Week",
-      "SMOS salinity may offer an early indicator of El Niño"
+      "Does the asteroid Nysa have 3 lobes and a moon?"
     ],
-    "srcUrl": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/SMOS/SMOS_salinity_could_offer_early_indicator_of_El_Nino",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=smos-salinity-could-offer-early-indicator-of-el-nino",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=smos-salinity-could-offer-early-indicator-of-el-nino",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=smos-salinity-could-offer-early-indicator-of-el-nino&lang=en",
+    "srcUrl": "https://earthsky.org/space/asteroid-nysa-3-lobes-moon/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=does-asteroid-nysa-have-3-lobes-and-a-moon",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=does-asteroid-nysa-have-3-lobes-and-a-moon",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=does-asteroid-nysa-have-3-lobes-and-a-moon&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -5095,11 +5088,11 @@ window.postsData = [
     "geminiModel": "gemini-2.0-flash",
     "score": 74,
     "scoreBreakdown": {
-      "source": 80,
-      "evidence": 82,
+      "source": 72,
+      "evidence": 88,
       "relevance": 80,
       "accessibility": 60,
-      "novelty": 46
+      "novelty": 52
     }
   }
 ];

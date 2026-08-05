@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 05 Aug 2026 21:54:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 23:16:28 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>NIH lança novo escritório para promover pesquisas baseadas em humanos e reduzir o uso de animais</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-office-to-advance-human-based-research-and-reduce-animal-use</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-office-to-advance-human-based-research-and-reduce-animal-use</guid>
-              <pubDate>Wed, 05 Aug 2026 21:52:51 +0000</pubDate>
+              <pubDate>Wed, 05 Aug 2026 23:13:33 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O novo escritório coordenará esforços para desenvolver, validar e dimensionar modelos de pesquisa sem animais.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>NIH lança novo escritório para promover pesquisas baseadas em humanos e reduzir o uso de animais</category>
@@ -21,7 +21,7 @@
               <title>Para adultos com pré-diabetes, a intervenção no estilo de vida reduziu o risco de desenvolver múltiplas condições crónicas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=for-adults-with-prediabetes-lifestyle-intervention-lowered-risk-of-developing-multiple-chronic-c</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=for-adults-with-prediabetes-lifestyle-intervention-lowered-risk-of-developing-multiple-chronic-c</guid>
-              <pubDate>Wed, 05 Aug 2026 21:52:51 +0000</pubDate>
+              <pubDate>Wed, 05 Aug 2026 23:13:33 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ensaio clínico de longo prazo apoiado pelo NIH não encontrou diferença entre metformina e placebo.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Para adultos com pré</category>
@@ -31,7 +31,7 @@
               <title>Pesquisadores descobrem atividade cerebral unicelular subjacente à fala humana</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=researchers-discover-single-cell-brain-activity-that-underlies-human-speech</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=researchers-discover-single-cell-brain-activity-that-underlies-human-speech</guid>
-              <pubDate>Wed, 05 Aug 2026 21:52:51 +0000</pubDate>
+              <pubDate>Wed, 05 Aug 2026 23:13:33 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Com dados neuronais, os modelos de IA previram a gramática, o significado e o contexto das frases faladas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Pesquisadores descobrem atividade cerebral unicelular subjacente à fala humana</category>
@@ -41,7 +41,7 @@
               <title>O Programa de Pesquisa All of Us do NIH é agora o maior banco de dados integrado de genômica e saúde do mundo</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-s-all-of-us-research-program-is-now-the-largest-integrated-genomics-and-health-database-in-t</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-s-all-of-us-research-program-is-now-the-largest-integrated-genomics-and-health-database-in-t</guid>
-              <pubDate>Wed, 05 Aug 2026 21:52:51 +0000</pubDate>
+              <pubDate>Wed, 05 Aug 2026 23:13:33 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Dados de mais de 747.000 participantes. é&amp;nbsp. agora disponível para&amp;nbsp. cientistas, impulsionando descobertas de próxima geração em medicina de precisão.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>O Programa de Pesquisa All of Us do NIH é agora o maior banco de dados integrado de genômica e saúde do mundo</category>
@@ -51,7 +51,7 @@
               <title>Novo exame de sangue para Alzheimer pode dizer quando os sintomas estão chegando</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=new-alzheimer-s-blood-test-may-tell-when-symptoms-are-around-the-corner</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=new-alzheimer-s-blood-test-may-tell-when-symptoms-are-around-the-corner</guid>
-              <pubDate>Wed, 05 Aug 2026 21:52:51 +0000</pubDate>
+              <pubDate>Wed, 05 Aug 2026 23:13:33 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Um novo biomarcador supera o principal exame de sangue para diagnóstico na previsão da progressão da doença.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Novo exame de sangue para Alzheimer pode dizer quando os sintomas estão chegando</category>
@@ -88,6 +88,16 @@
               <source url="https://phys.org/news/2026-08-runaway-supermassive-black-hole-rbh.html">Phys.org Space</source>
               <content:encoded>Os buracos negros são regiões fascinantes no espaço onde a gravidade é tão forte que nada, mesmo a luz, consegue escapar deles. Os maiores buracos negros conhecidos, chamados buracos negros supermassivos, contêm milhões a bilhões de vezes a massa do Sol. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quanti</content:encoded>
             </item><item>
+              <title>O IXPE da NASA pode ter comprovado a teoria de 90 anos</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-ixpe-may-have-proven-90-year-old-theory</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-ixpe-may-have-proven-90-year-old-theory</guid>
+              <pubDate>Wed, 05 Aug 2026 18:49:14 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Uma medição inédita de um magnetar pode ter capturado o espaço vazio comportando-se de uma forma que os físicos previram durante 90 anos, mas nunca observaram diretamente. Os resultados foram publicados quarta-feira na Nature. Fatos rápidos que os cientistas.</description>
+              <category>Astrofísica</category><category>NASA News Releases</category><category>Cosmos Week</category><category>O IXPE da NASA pode ter comprovado a teoria de 90 anos</category>
+              <source url="https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/">NASA News Releases</source>
+              <content:encoded>Uma medição inédita de um magnetar pode ter capturado o espaço vazio comportando-se de uma forma que os físicos previram durante 90 anos, mas nunca observaram diretamente. Os resultados foram publicados quarta-feira na Nature. Fatos rápidos que os cientistas usam. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se enca</content:encoded>
+            </item><item>
               <title>'Pequenos pontos vermelhos' podem ser estrelas monstruosas pulsantes que criaram buracos negros no início do universo</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=little-red-dots-may-be-pulsating-monster-stars-that-created-early-universe-black-holes</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=little-red-dots-may-be-pulsating-monster-stars-that-created-early-universe-black-holes</guid>
@@ -97,16 +107,6 @@
               <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>'Pequenos pontos vermelhos' podem ser estrelas monstruosas pulsantes que criaram buracos negros no início do universo</category>
               <source url="https://phys.org/news/2026-08-red-dots-pulsating-monster-stars.html">Phys.org Space</source>
               <content:encoded>Os astrónomos têm especulado sobre os misteriosos "pequenos pontos vermelhos" vistos através das imagens do Universo primitivo do Telescópio Espacial James Webb: podem ser galáxias, buracos negros, quase-estrelas, explosões estelares. ou algo totalmente diferente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se enca</content:encoded>
-            </item><item>
-              <title>Astrônomos capturam quasar ‘Hatchling’ saindo de seu casulo empoeirado</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-catch-hatchling-quasar-breaking-out-of-its-dusty-cocoon</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-catch-hatchling-quasar-breaking-out-of-its-dusty-cocoon</guid>
-              <pubDate>Wed, 05 Aug 2026 18:20:04 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Usando observações de vários telescópios poderosos, uma equipe de astrônomos estudou um quasar vermelho apelidado de “o Filhote” com desvio para o vermelho 3,7. Eles podem ter identificado um dos exemplos mais claros de um quasar capturado na transição entre.</description>
-              <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Astrônomos capturam quasar ‘Hatchling’ saindo de seu casulo empoeirado</category>
-              <source url="https://phys.org/news/2026-08-astronomers-hatchling-quasar-dusty-cocoon.html">Phys.org Space</source>
-              <content:encoded>Usando observações de vários telescópios poderosos, uma equipe de astrônomos estudou um quasar vermelho apelidado de “o Filhote” com desvio para o vermelho 3,7. Eles podem ter identificado um dos exemplos mais claros de um quasar capturado na transição entre eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se enca</content:encoded>
             </item><item>
               <title>Estrelas do mês da Ames Science – agosto de 2026</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=ames-science-stars-of-the-month-august-2026</link>
@@ -168,6 +168,16 @@
               <source url="https://www.universetoday.com/articles/zodiacal-dust-in-exoplanetary-systems-could-hinder-our-search-for-life-on-other-worlds">Universe Today</source>
               <content:encoded>A maioria dos sistemas exoplanetários tem um plano de poeira semelhante à poeira zodiacal do nosso sistema solar. Essa poeira absorve parte da luz que usamos para encontrar bioassinaturas em atmosferas de exoplanetas e pode aumentar nossa busca por vida. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros c</content:encoded>
             </item><item>
+              <title>Projetando chips centrados em memória para futuros telescópios espaciais</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=designing-memory-centric-chips-for-future-space-telescopes</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=designing-memory-centric-chips-for-future-space-telescopes</guid>
+              <pubDate>Tue, 04 Aug 2026 16:40:01 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Dois projetos de chips de computador propostos poderiam processar dados com eficiência em futuros telescópios espaciais enquanto procuram a Terra, como exoplanetas, de acordo com um estudo de engenharia da Universidade de Michigan que será apresentado no IEEE.</description>
+              <category>Exoplanetas</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Projetando chips centrados em memória para futuros telescópios espaciais</category>
+              <source url="https://phys.org/news/2026-08-memory-centric-chips-future-space.html">Phys.org Space</source>
+              <content:encoded>Dois projetos de chips de computador propostos poderiam processar dados com eficiência em futuros telescópios espaciais enquanto procuram a Terra, como exoplanetas, de acordo com um estudo de engenharia da Universidade de Michigan que será apresentado no IEEE Space. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a ess</content:encoded>
+            </item><item>
               <title>O espectrógrafo do ELT pode detectar bioassinaturas em outros mundos</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=the-elt-s-spectrograph-could-sniff-out-biosignatures-on-other-worlds</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=the-elt-s-spectrograph-could-sniff-out-biosignatures-on-other-worlds</guid>
@@ -177,16 +187,6 @@
               <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>O espectrógrafo do ELT pode detectar bioassinaturas em outros mundos</category>
               <source url="https://www.universetoday.com/articles/the-elts-spectrograph-could-sniff-out-biosignatures-on-other-worlds">Universe Today</source>
               <content:encoded>Antes de qualquer grande comissionamento de telescópio, existem dezenas de artigos que tentam definir o que podemos esperar dele. Estamos começando a ver alguns resultados para o Extremely Large Telescope, que esperamos que se tornem mais imaginativos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros com</content:encoded>
-            </item><item>
-              <title>Ventos pobres em hélio não requerem planetas pobres em hélio</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=helium-poor-winds-do-not-require-helium-poor-planets</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=helium-poor-winds-do-not-require-helium-poor-planets</guid>
-              <pubDate>Tue, 04 Aug 2026 17:45:33 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Observações do trigêmeo metaestável He,{\sc i},10830,Å revelaram atmosferas de exoplanetas escapando cujas abundâncias inferidas de hélio variam de composições quase nebulares a ventos fortemente depletados de hélio. Esse esgotamento é comum.</description>
-              <category>Exoplanetas</category><category>arXiv Astrophysics</category><category>Cosmos Week</category><category>Ventos pobres em hélio não requerem planetas pobres em hélio</category>
-              <source url="https://arxiv.org/abs/2608.03980v1">arXiv Astrophysics</source>
-              <content:encoded>Observações do trigêmeo metaestável He,{\sc i},10830,Å revelaram atmosferas de exoplanetas escapando cujas abundâncias inferidas de hélio variam de composições quase nebulares a ventos fortemente depletados de hélio. Esse esgotamento é comum. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada</content:encoded>
             </item><item>
               <title>Primeira grande estrutura do futuro rastreador CMS chega ao CERN</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=first-major-structure-of-the-future-cms-tracker-arrives-at-cern</link>

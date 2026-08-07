@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 07 Aug 2026 05:49:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:39:35 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>NIH lança novo escritório para promover pesquisas baseadas em humanos e reduzir o uso de animais</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-office-to-advance-human-based-research-and-reduce-animal-use</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-office-to-advance-human-based-research-and-reduce-animal-use</guid>
-              <pubDate>Fri, 07 Aug 2026 05:47:37 +0000</pubDate>
+              <pubDate>Fri, 07 Aug 2026 07:37:09 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O novo escritório coordenará esforços para desenvolver, validar e dimensionar modelos de pesquisa sem animais.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>NIH lança novo escritório para promover pesquisas baseadas em humanos e reduzir o uso de animais</category>
@@ -21,7 +21,7 @@
               <title>Para adultos com pré-diabetes, a intervenção no estilo de vida reduziu o risco de desenvolver múltiplas condições crónicas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=for-adults-with-prediabetes-lifestyle-intervention-lowered-risk-of-developing-multiple-chronic-c</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=for-adults-with-prediabetes-lifestyle-intervention-lowered-risk-of-developing-multiple-chronic-c</guid>
-              <pubDate>Fri, 07 Aug 2026 05:47:37 +0000</pubDate>
+              <pubDate>Fri, 07 Aug 2026 07:37:09 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ensaio clínico de longo prazo apoiado pelo NIH não encontrou diferença entre metformina e placebo.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Para adultos com pré</category>
@@ -31,7 +31,7 @@
               <title>Pesquisadores descobrem atividade cerebral unicelular subjacente à fala humana</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=researchers-discover-single-cell-brain-activity-that-underlies-human-speech</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=researchers-discover-single-cell-brain-activity-that-underlies-human-speech</guid>
-              <pubDate>Fri, 07 Aug 2026 05:47:37 +0000</pubDate>
+              <pubDate>Fri, 07 Aug 2026 07:37:09 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Com dados neuronais, os modelos de IA previram a gramática, o significado e o contexto das frases faladas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Pesquisadores descobrem atividade cerebral unicelular subjacente à fala humana</category>
@@ -41,7 +41,7 @@
               <title>O Programa de Pesquisa All of Us do NIH é agora o maior banco de dados integrado de genômica e saúde do mundo</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-s-all-of-us-research-program-is-now-the-largest-integrated-genomics-and-health-database-in-t</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-s-all-of-us-research-program-is-now-the-largest-integrated-genomics-and-health-database-in-t</guid>
-              <pubDate>Fri, 07 Aug 2026 05:47:37 +0000</pubDate>
+              <pubDate>Fri, 07 Aug 2026 07:37:09 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Dados de mais de 747.000 participantes. é&amp;nbsp. agora disponível para&amp;nbsp. cientistas, impulsionando descobertas de próxima geração em medicina de precisão.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>O Programa de Pesquisa All of Us do NIH é agora o maior banco de dados integrado de genômica e saúde do mundo</category>
@@ -51,12 +51,32 @@
               <title>Novo exame de sangue para Alzheimer pode dizer quando os sintomas estão chegando</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=new-alzheimer-s-blood-test-may-tell-when-symptoms-are-around-the-corner</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=new-alzheimer-s-blood-test-may-tell-when-symptoms-are-around-the-corner</guid>
-              <pubDate>Fri, 07 Aug 2026 05:47:37 +0000</pubDate>
+              <pubDate>Fri, 07 Aug 2026 07:37:09 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Um novo biomarcador supera o principal exame de sangue para diagnóstico na previsão da progressão da doença.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Novo exame de sangue para Alzheimer pode dizer quando os sintomas estão chegando</category>
               <source url="https://www.nih.gov/news-events/news-releases/new-alzheimers-blood-test-may-tell-when-symptoms-are-around-corner">NIH News Releases</source>
               <content:encoded>Um novo biomarcador supera o principal exame de sangue para diagnóstico na previsão da progressão da doença. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Num estudo financiado pelos Institutos Nacionais de Saúde (NI</content:encoded>
+            </item><item>
+              <title>Satélite sul-coreano captura imagens antes e depois da queda do foguete SpaceX na Lua</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=south-korean-satellite-captures-before-and-after-views-of-spacex-rocket-s-moon-crash</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=south-korean-satellite-captures-before-and-after-views-of-spacex-rocket-s-moon-crash</guid>
+              <pubDate>Fri, 07 Aug 2026 06:31:07 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Um satélite sul-coreano capturou as primeiras fotos da nova cena do acidente na Lua causada por um foguete SpaceX perdido.</description>
+              <category>Astronomia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Satélite sul</category>
+              <source url="https://phys.org/news/2026-08-south-korean-satellite-captures-views.html">Phys.org Space</source>
+              <content:encoded>Um satélite sul-coreano capturou as primeiras fotos da nova cena do acidente na Lua causada por um foguete SpaceX perdido. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo edit</content:encoded>
+            </item><item>
+              <title>Instalação de desenvolvimento e testes lunares da NASA prepara hardware Artemis para a Lua</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon</guid>
+              <pubDate>Fri, 07 Aug 2026 06:25:27 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que pode sobreviver ao implacável ambiente lunar. No Johnson Space Center da NASA em Houston, engenheiros da Lunar.</description>
+              <category>Ciências da Terra</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Instalação de desenvolvimento e testes lunares da NASA prepara hardware Artemis para a Lua</category>
+              <source url="https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/">NASA News Releases</source>
+              <content:encoded>Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que pode sobreviver ao implacável ambiente lunar. No Johnson Space Center da NASA em Houston, engenheiros da Lunar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla q</content:encoded>
             </item><item>
               <title>Cientistas observam como a atmosfera de um mundo distante encolhe e se afina</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=scientists-watch-as-a-distant-world-s-atmosphere-shrinks-and-thins</link>
@@ -87,36 +107,6 @@
               <category>Astronomia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Fluxo de gás de trilhões de milhas pode explicar a inclinação do anel externo de formação de planetas do sistema estelar triplo</category>
               <source url="https://phys.org/news/2026-08-trillion-mile-gas-streamer-tilt.html">Phys.org Space</source>
               <content:encoded>Uma equipa de astrónomos, utilizando o Atacama Large Millimeter/submillimeter Array, capturou um enorme fluxo de gás, com um bilião de milhas, ou 0,2 anos-luz, de comprimento, alimentando o jovem sistema estelar triplo GW Orionis. Estas novas observações. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado s</content:encoded>
-            </item><item>
-              <title>Simulação semelhante à Via Láctea revela como as estruturas galácticas centrais crescem juntas</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=milky-way-like-simulation-reveals-how-central-galactic-structures-grow-together</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=milky-way-like-simulation-reveals-how-central-galactic-structures-grow-together</guid>
-              <pubDate>Thu, 06 Aug 2026 20:40:01 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Compreender a formação e evolução dos centros das galáxias é um dos desafios mais intrigantes da astrofísica. O novo estudo visa desvendar os processos físicos que levaram à formação de duas características marcantes.</description>
-              <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Simulação semelhante à Via Láctea revela como as estruturas galácticas centrais crescem juntas</category>
-              <source url="https://phys.org/news/2026-08-milky-simulation-reveals-central-galactic.html">Phys.org Space</source>
-              <content:encoded>Compreender a formação e evolução dos centros das galáxias é um dos desafios mais intrigantes da astrofísica. O novo estudo visa desvendar os processos físicos que levaram à formação de duas características marcantes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físic</content:encoded>
-            </item><item>
-              <title>Duas décadas de observações do blazar e os mistérios continuam se acumulando</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=two-decades-of-blazar-observations-and-the-mysteries-keep-piling-up</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=two-decades-of-blazar-observations-and-the-mysteries-keep-piling-up</guid>
-              <pubDate>Thu, 06 Aug 2026 20:00:05 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Jatos estreitos de matéria luminosa podem ser emitidos em direção à Terra a partir de núcleos de galáxias ativas a bilhões de anos-luz de distância. A galáxia então aparece como uma fonte pontual e é chamada de blazar. Uma equipe de cientistas polaco-alemães.</description>
-              <category>Ciências da Terra</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Duas décadas de observações do blazar e os mistérios continuam se acumulando</category>
-              <source url="https://phys.org/news/2026-08-decades-blazar-mysteries-piling.html">Phys.org Space</source>
-              <content:encoded>Jatos estreitos de matéria luminosa podem ser emitidos em direção à Terra a partir de núcleos de galáxias ativas a bilhões de anos-luz de distância. A galáxia então aparece como uma fonte pontual e é chamada de blazar. Uma equipe de cientistas polaco-alemães tem, para o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacia</content:encoded>
-            </item><item>
-              <title>Educadores e adolescentes experimentam dados do TEMPO para ajudar a investigar a qualidade do ar local</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality</guid>
-              <pubDate>Thu, 06 Aug 2026 19:33:32 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026.</description>
-              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Educadores e adolescentes experimentam dados do TEMPO para ajudar a investigar a qualidade do ar local</category>
-              <source url="https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/">NASA News Releases</source>
-              <content:encoded>O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado </content:encoded>
             </item><item>
               <title>Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</link>
@@ -167,6 +157,16 @@
               <category>Astrofísica</category><category>ESA Hubble News</category><category>Cosmos Week</category><category>Lançamento científico</category>
               <source url="https://esahubble.org/news/heic2610/">ESA Hubble News</source>
               <content:encoded>O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas. Deveria estar preenchido com buracos negros deixados pela explosão de estrelas, mas as evidências deles são escassas. Agora, os astrônomos usam dados de arquivo do. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quan</content:encoded>
+            </item><item>
+              <title>Astrônomos capturam quasar ‘Hatchling’ saindo de seu casulo empoeirado</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-catch-hatchling-quasar-breaking-out-of-its-dusty-cocoon</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-catch-hatchling-quasar-breaking-out-of-its-dusty-cocoon</guid>
+              <pubDate>Wed, 05 Aug 2026 18:20:04 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Usando observações de vários telescópios poderosos, uma equipe de astrônomos estudou um quasar vermelho apelidado de “o Filhote” com desvio para o vermelho 3,7. Eles podem ter identificado um dos exemplos mais claros de um quasar capturado na transição entre.</description>
+              <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Astrônomos capturam quasar ‘Hatchling’ saindo de seu casulo empoeirado</category>
+              <source url="https://phys.org/news/2026-08-astronomers-hatchling-quasar-dusty-cocoon.html">Phys.org Space</source>
+              <content:encoded>Usando observações de vários telescópios poderosos, uma equipe de astrônomos estudou um quasar vermelho apelidado de “o Filhote” com desvio para o vermelho 3,7. Eles podem ter identificado um dos exemplos mais claros de um quasar capturado na transição entre eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se enca</content:encoded>
             </item><item>
               <title>Poeira zodiacal em sistemas exoplanetários pode dificultar nossa busca por vida em outros mundos</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=zodiacal-dust-in-exoplanetary-systems-could-hinder-our-search-for-life-on-other-worlds</link>

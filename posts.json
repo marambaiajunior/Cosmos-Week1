@@ -38,14 +38,14 @@
     "date": "07 ago 2026",
     "date_pt": "07 ago 2026",
     "date_en": "07 Aug 2026",
-    "time": "05h47",
-    "time_pt": "05h47",
-    "time_en": "05:47 UTC",
+    "time": "07h37",
+    "time_pt": "07h37",
+    "time_en": "07:37 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-07T05:47:37.979545+00:00",
-    "lastModifiedIso": "2026-08-07T05:47:37.979545+00:00",
+    "publishedIso": "2026-08-07T07:37:09.924565+00:00",
+    "lastModifiedIso": "2026-08-07T07:37:09.924565+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -143,14 +143,14 @@
     "date": "07 ago 2026",
     "date_pt": "07 ago 2026",
     "date_en": "07 Aug 2026",
-    "time": "05h47",
-    "time_pt": "05h47",
-    "time_en": "05:47 UTC",
+    "time": "07h37",
+    "time_pt": "07h37",
+    "time_en": "07:37 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-07T05:47:37.979497+00:00",
-    "lastModifiedIso": "2026-08-07T05:47:37.979497+00:00",
+    "publishedIso": "2026-08-07T07:37:09.924519+00:00",
+    "lastModifiedIso": "2026-08-07T07:37:09.924519+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -254,14 +254,14 @@
     "date": "07 ago 2026",
     "date_pt": "07 ago 2026",
     "date_en": "07 Aug 2026",
-    "time": "05h47",
-    "time_pt": "05h47",
-    "time_en": "05:47 UTC",
+    "time": "07h37",
+    "time_pt": "07h37",
+    "time_en": "07:37 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-07T05:47:37.979450+00:00",
-    "lastModifiedIso": "2026-08-07T05:47:37.979450+00:00",
+    "publishedIso": "2026-08-07T07:37:09.924474+00:00",
+    "lastModifiedIso": "2026-08-07T07:37:09.924474+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -359,14 +359,14 @@
     "date": "07 ago 2026",
     "date_pt": "07 ago 2026",
     "date_en": "07 Aug 2026",
-    "time": "05h47",
-    "time_pt": "05h47",
-    "time_en": "05:47 UTC",
+    "time": "07h37",
+    "time_pt": "07h37",
+    "time_en": "07:37 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-07T05:47:37.979401+00:00",
-    "lastModifiedIso": "2026-08-07T05:47:37.979401+00:00",
+    "publishedIso": "2026-08-07T07:37:09.924428+00:00",
+    "lastModifiedIso": "2026-08-07T07:37:09.924428+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -464,14 +464,14 @@
     "date": "07 ago 2026",
     "date_pt": "07 ago 2026",
     "date_en": "07 Aug 2026",
-    "time": "05h47",
-    "time_pt": "05h47",
-    "time_en": "05:47 UTC",
+    "time": "07h37",
+    "time_pt": "07h37",
+    "time_en": "07:37 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-07T05:47:37.979338+00:00",
-    "lastModifiedIso": "2026-08-07T05:47:37.979338+00:00",
+    "publishedIso": "2026-08-07T07:37:09.924356+00:00",
+    "lastModifiedIso": "2026-08-07T07:37:09.924356+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -532,6 +532,266 @@
   },
   {
     "id": 6,
+    "slug": "south-korean-satellite-captures-before-and-after-views-of-spacex-rocket-s-moon-crash",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/south-korean-satellite.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/south-korean-satellite.jpg",
+        "caption": "Esta combinação de imagens fornecidas pela NASA e pelo Instituto de Pesquisa Aeroespacial da Coreia mostra uma área da superfície da lua antes, à esquerda, 1º de outubro de 2015, e depois, à direita, quarta-feira, 5 de agosto de 2026, um segmento de foguete SpaceX colidiu com o.",
+        "caption_pt": "Esta combinação de imagens fornecidas pela NASA e pelo Instituto de Pesquisa Aeroespacial da Coreia mostra uma área da superfície da lua antes, à esquerda, 1º de outubro de 2015, e depois, à direita, quarta-feira, 5 de agosto de 2026, um segmento de foguete SpaceX colidiu com o.",
+        "caption_en": "This combination of images provided by NASA and the Korea Aerospace Research Institute shows an area of the moon's surface before, left, Oct. 1, 2015, and after, right, Wednesday, Aug. 5, 2026, a SpaceX rocket segment collided with the.",
+        "alt": "Satélite sul-coreano captura imagens antes e depois da queda do foguete SpaceX na Lua",
+        "alt_pt": "Satélite sul-coreano captura imagens antes e depois da queda do foguete SpaceX na Lua",
+        "alt_en": "South Korean satellite captures before and after views of SpaceX rocket's moon crash"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/550572b11d892f25.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Satélite sul-coreano captura imagens antes e depois da queda do foguete SpaceX na Lua",
+    "title_pt": "Satélite sul-coreano captura imagens antes e depois da queda do foguete SpaceX na Lua",
+    "title_en": "South Korean satellite captures before and after views of SpaceX rocket's moon crash",
+    "sub": "Um satélite sul-coreano capturou as primeiras fotos da nova cena do acidente na Lua causada por um foguete SpaceX perdido.",
+    "sub_pt": "Um satélite sul-coreano capturou as primeiras fotos da nova cena do acidente na Lua causada por um foguete SpaceX perdido.",
+    "sub_en": "A South Korean satellite has captured the first pictures of the moon's fresh crash scene caused by a stray SpaceX rocket.",
+    "excerpt": "Um satélite sul-coreano capturou as primeiras fotos da nova cena do acidente na Lua causada por um foguete SpaceX perdido.",
+    "excerpt_pt": "Um satélite sul-coreano capturou as primeiras fotos da nova cena do acidente na Lua causada por um foguete SpaceX perdido.",
+    "excerpt_en": "A South Korean satellite has captured the first pictures of the moon's fresh crash scene caused by a stray SpaceX rocket.",
+    "body": "<p>Um satélite sul-coreano capturou as primeiras fotos da nova cena do acidente na Lua causada por um foguete SpaceX perdido. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Esta combinação de imagens fornecidas pela.</p><p>1º de agosto de 2015 e depois, à direita, quarta-feira, agosto. Em 5 de janeiro de 2026, um segmento de foguete da SpaceX colidiu com a lua.</p><p>NASA, Instituto de Pesquisa Aeroespacial da Coreia via AP Um satélite sul-coreano capturou as primeiras fotos da nova cena do acidente na Lua causada por um foguete SpaceX perdido.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-south-korean-satellite-captures-views.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Um satélite sul-coreano capturou as primeiras fotos da nova cena do acidente na Lua causada por um foguete SpaceX perdido. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Esta combinação de imagens fornecidas pela.</p><p>1º de agosto de 2015 e depois, à direita, quarta-feira, agosto. Em 5 de janeiro de 2026, um segmento de foguete da SpaceX colidiu com a lua.</p><p>NASA, Instituto de Pesquisa Aeroespacial da Coreia via AP Um satélite sul-coreano capturou as primeiras fotos da nova cena do acidente na Lua causada por um foguete SpaceX perdido.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-south-korean-satellite-captures-views.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A South Korean satellite has captured the first pictures of the moon&#x27;s fresh crash scene caused by a stray SpaceX rocket. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source This combination of images provided by NASA and the Korea.</p><p>1, 2015, and after, right, Wednesday, Aug. 5, 2026, a SpaceX rocket segment collided with the moon.</p><p>NASA, Korea Aerospace Research Institute via AP A South Korean satellite has captured the first pictures of the moon&#x27;s fresh crash scene caused by a stray SpaceX rocket. The Korea Aerospace Research Institute&#x27;s Danuri spacecraft flew over the impact site soon after the Falcon 9 upper stage inadvertently plowed into the moon on Wednesday.</p><p>Danuri made multiple passes, snapping photos from lunar orbit that were released by the space agency Thursday. NASA expects its Lunar Reconnaissance Orbiter to fly over the crash site next week to view the aftermath.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Elon Musk&#x27;s SpaceX launched Danuri from Cape Canaveral in 2022. The company also sent a pair of private lunar landers to the moon last year.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-south-korean-satellite-captures-views.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Um satélite sul-coreano capturou as primeiras fotos da nova cena do acidente na Lua causada por um foguete SpaceX perdido.",
+      "Dado-chave: Um satélite sul-coreano capturou as primeiras fotos da nova cena do acidente na Lua causada por um foguete SpaceX perdido.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Um satélite sul-coreano capturou as primeiras fotos da nova cena do acidente na Lua causada por um foguete SpaceX perdido.",
+      "Dado-chave: Um satélite sul-coreano capturou as primeiras fotos da nova cena do acidente na Lua causada por um foguete SpaceX perdido.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: A South Korean satellite has captured the first pictures of the moon's fresh crash scene caused by a stray SpaceX rocket.",
+      "Key detail: A South Korean satellite has captured the first pictures of the moon's fresh crash scene caused by a stray SpaceX rocket.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "07 ago 2026",
+    "date_pt": "07 ago 2026",
+    "date_en": "07 Aug 2026",
+    "time": "06h31",
+    "time_pt": "06h31",
+    "time_en": "06:31 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-07T06:31:07+00:00",
+    "lastModifiedIso": "2026-08-07T06:31:07+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Satélite sul",
+      "coreano captura imagens antes e depois da queda do foguete SpaceX na Lua"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Satélite sul",
+      "coreano captura imagens antes e depois da queda do foguete SpaceX na Lua"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Phys.org Space",
+      "Cosmos Week",
+      "South satellite",
+      "Korean man captures images before and after the SpaceX rocket crash on the Moon"
+    ],
+    "srcUrl": "https://phys.org/news/2026-08-south-korean-satellite-captures-views.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=south-korean-satellite-captures-before-and-after-views-of-spacex-rocket-s-moon-crash",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=south-korean-satellite-captures-before-and-after-views-of-spacex-rocket-s-moon-crash",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=south-korean-satellite-captures-before-and-after-views-of-spacex-rocket-s-moon-crash&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 71,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
+    "slug": "nasa-s-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2024e072072.jpg?w=1536",
+    "inline_images": [
+      {
+        "src": "https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-1.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-2.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-3.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Instalação de desenvolvimento e testes lunares da NASA prepara hardware Artemis para a Lua",
+    "title_pt": "Instalação de desenvolvimento e testes lunares da NASA prepara hardware Artemis para a Lua",
+    "title_en": "NASA’s Lunar Development and Test Facility Prepares Artemis Hardware for Moon",
+    "sub": "Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que pode sobreviver ao implacável.",
+    "sub_pt": "Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que pode sobreviver ao implacável.",
+    "sub_en": "Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the unforgiving lunar environment. At.",
+    "excerpt": "Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que pode sobreviver ao implacável ambiente lunar. No Johnson Space Center da NASA em Houston, engenheiros da Lunar.",
+    "excerpt_pt": "Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que pode sobreviver ao implacável ambiente lunar. No Johnson Space Center da NASA em Houston, engenheiros da Lunar.",
+    "excerpt_en": "Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the unforgiving lunar environment. At NASA’s Johnson Space Center in Houston, engineers at the Lunar.",
+    "body": "<p>Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que pode sobreviver ao implacável ambiente lunar. No Johnson Space Center da NASA em Houston, engenheiros da Lunar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 3 minutos de leitura As instalações de desenvolvimento e testes lunares da NASA preparam o hardware Artemis para a Lua A ferramenta portátil de mitigação de poeira eletrostática. NASA/Josh Valcarcel Antes dos astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que pode sobreviver.</p><p>A ferramenta portátil de mitigação de poeira eletrostática lunar é testada dentro das instalações de desenvolvimento e teste lunar no Johnson Space Center da NASA em Houston. NASA/Josh Valcarcel Localizada na Área de Teste de Sistemas de Energia e gerenciada por engenheiros da NASA, a Instalação de Desenvolvimento e Teste Lunar apoia o desenvolvimento.</p><p>NASA/Josh Valcarcel Agora, qualquer pessoa pode entrar nas instalações de qualquer lugar.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que pode sobreviver ao implacável ambiente lunar. No Johnson Space Center da NASA em Houston, engenheiros da Lunar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 3 minutos de leitura As instalações de desenvolvimento e testes lunares da NASA preparam o hardware Artemis para a Lua A ferramenta portátil de mitigação de poeira eletrostática. NASA/Josh Valcarcel Antes dos astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que pode sobreviver.</p><p>A ferramenta portátil de mitigação de poeira eletrostática lunar é testada dentro das instalações de desenvolvimento e teste lunar no Johnson Space Center da NASA em Houston. NASA/Josh Valcarcel Localizada na Área de Teste de Sistemas de Energia e gerenciada por engenheiros da NASA, a Instalação de Desenvolvimento e Teste Lunar apoia o desenvolvimento.</p><p>NASA/Josh Valcarcel Agora, qualquer pessoa pode entrar nas instalações de qualquer lugar.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the unforgiving lunar environment. At NASA’s Johnson Space Center in Houston, engineers at the Lunar. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the unforgiving lunar environment. 3 Min Read NASA’s Lunar Development and Test Facility Prepares Artemis Hardware for Moon The Handheld Lunar Electrostatic Dust Mitigation (LEDM) tool is tested inside the Lunar.</p><p>NASA/Josh Valcarcel Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the unforgiving. The Handheld Lunar Electrostatic Dust Mitigation tool is tested inside the Lunar Development and Test Facility at NASA’s Johnson Space Center in Houston.</p><p>NASA/Josh Valcarcel Located within the Energy Systems Test Area and managed by NASA engineers, the Lunar Development and Test Facility supports the development and testing of. NASA/Josh Valcarcel Now, anyone can step inside the facility from anywhere.</p><p>Tech Demonstrations Article 3 days ago 5 min read Ike Theriot Helps Prepare Astronauts to Work on the Moon Article 4 days ago Keep Exploring Discover More Topics From NASA. Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the Article Before astronauts return to.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>At NASA’s Johnson Space Center in Houston, engineers at the Lunar Development and Test Facility are tackling one of exploration’s biggest challenges: Moon dust. Located within the Energy Systems Test Area and managed by NASA engineers, the Lunar Development and Test Facility supports the development and testing of hardware in simulated.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que.",
+      "Dado-chave: Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que.",
+      "Dado-chave: Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the.",
+      "Key detail: Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "07 ago 2026",
+    "date_pt": "07 ago 2026",
+    "date_en": "07 Aug 2026",
+    "time": "06h25",
+    "time_pt": "06h25",
+    "time_en": "06:25 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-07T06:25:27+00:00",
+    "lastModifiedIso": "2026-08-07T06:25:27+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Instalação de desenvolvimento e testes lunares da NASA prepara hardware Artemis para a Lua"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Instalação de desenvolvimento e testes lunares da NASA prepara hardware Artemis para a Lua"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Lunar Development and Testing Facility Prepares Artemis Hardware for the Moon"
+    ],
+    "srcUrl": "https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 73,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 82,
+      "relevance": 62,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 8,
     "slug": "scientists-watch-as-a-distant-world-s-atmosphere-shrinks-and-thins",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -650,7 +910,7 @@
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -664,7 +924,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 9,
     "slug": "charting-the-galaxy-milky-way-mapper-survey-releases-latest-all-sky-spectra",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -791,7 +1051,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 10,
     "slug": "trillion-mile-gas-streamer-may-explain-tilt-of-triple-star-system-s-outer-planet-forming-ring",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -924,406 +1184,7 @@
     }
   },
   {
-    "id": 9,
-    "slug": "milky-way-like-simulation-reveals-how-central-galactic-structures-grow-together",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-central-galactic-s.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-central-galactic-s.jpg",
-        "caption": "Como as estruturas galácticas centrais crescem juntas",
-        "caption_pt": "Como as estruturas galácticas centrais crescem juntas",
-        "caption_en": "How central galactic structures grow together",
-        "alt": "Como as estruturas galácticas centrais crescem juntas",
-        "alt_pt": "Como as estruturas galácticas centrais crescem juntas",
-        "alt_en": "How central galactic structures grow together"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f6b420961b46f94b.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Simulação semelhante à Via Láctea revela como as estruturas galácticas centrais crescem juntas",
-    "title_pt": "Simulação semelhante à Via Láctea revela como as estruturas galácticas centrais crescem juntas",
-    "title_en": "Milky Way-like simulation reveals how central galactic structures grow together",
-    "sub": "Compreender a formação e evolução dos centros das galáxias é um dos desafios mais intrigantes da astrofísica. O novo estudo visa desvendar os processos físicos que levaram à.",
-    "sub_pt": "Compreender a formação e evolução dos centros das galáxias é um dos desafios mais intrigantes da astrofísica. O novo estudo visa desvendar os processos físicos que levaram à.",
-    "sub_en": "Understanding the formation and evolution of the centers of galaxies is one of the most intriguing challenges in astrophysics. The new study aims to unveil the physical processes.",
-    "excerpt": "Compreender a formação e evolução dos centros das galáxias é um dos desafios mais intrigantes da astrofísica. O novo estudo visa desvendar os processos físicos que levaram à formação de duas características marcantes.",
-    "excerpt_pt": "Compreender a formação e evolução dos centros das galáxias é um dos desafios mais intrigantes da astrofísica. O novo estudo visa desvendar os processos físicos que levaram à formação de duas características marcantes.",
-    "excerpt_en": "Understanding the formation and evolution of the centers of galaxies is one of the most intriguing challenges in astrophysics. The new study aims to unveil the physical processes that led to the formation of two striking features.",
-    "body": "<p>Compreender a formação e evolução dos centros das galáxias é um dos desafios mais intrigantes da astrofísica. O novo estudo visa desvendar os processos físicos que levaram à formação de duas características marcantes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Por Janine Fohlmeister, Instituto Leibniz de Astrofísica Potsdam Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. O novo estudo pretende desvendar os processos físicos que levaram à formação de duas características marcantes que rodeiam os buracos negros nos centros da maioria das galáxias.</p><p>Este mistério de longa data é agora desafiado por uma nova simulação de galáxia do projeto SMUGGLE-Ring, oferecendo uma nova perspectiva e unindo teoria e observações. O artigo está disponível no servidor de pré-impressão arXiv.</p><p>À medida que o gás se acumula na região central, o feedback estelar das estrelas moribundas gera choques que desencadeiam repetidamente novos episódios de formação estelar. Os resultados também explicam porque é que as observações têm tido dificuldade em revelar uma ligação clara entre aglomerados de estrelas nucleares e discos estelares nucleares.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-milky-simulation-reveals-central-galactic.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Compreender a formação e evolução dos centros das galáxias é um dos desafios mais intrigantes da astrofísica. O novo estudo visa desvendar os processos físicos que levaram à formação de duas características marcantes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Por Janine Fohlmeister, Instituto Leibniz de Astrofísica Potsdam Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. O novo estudo pretende desvendar os processos físicos que levaram à formação de duas características marcantes que rodeiam os buracos negros nos centros da maioria das galáxias.</p><p>Este mistério de longa data é agora desafiado por uma nova simulação de galáxia do projeto SMUGGLE-Ring, oferecendo uma nova perspectiva e unindo teoria e observações. O artigo está disponível no servidor de pré-impressão arXiv.</p><p>À medida que o gás se acumula na região central, o feedback estelar das estrelas moribundas gera choques que desencadeiam repetidamente novos episódios de formação estelar. Os resultados também explicam porque é que as observações têm tido dificuldade em revelar uma ligação clara entre aglomerados de estrelas nucleares e discos estelares nucleares.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-milky-simulation-reveals-central-galactic.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Understanding the formation and evolution of the centers of galaxies is one of the most intriguing challenges in astrophysics. The new study aims to unveil the physical processes that led to the formation of two striking features. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. By Janine Fohlmeister, Leibniz Institute for Astrophysics Potsdam This article has been reviewed according to Science X&#x27;s editorial process and policies. The new study aims to unveil the physical processes that led to the formation of two striking features surrounding the black holes at the centers of most galaxies: nuclear star.</p><p>This long-standing mystery is now challenged by a new galaxy simulation from the SMUGGLE-Ring project, offering a fresh perspective and bridging theory and observations. The paper is available on the arXiv preprint server.</p><p>As gas accumulates in the central region, stellar feedback from dying stars generates shocks that repeatedly trigger new episodes of star formation. The results also explain why observations have struggled to reveal a clear connection between nuclear star clusters and nuclear stellar disks.</p><p>As a result, the nuclear star clusters and nuclear stellar disks of galaxies observed at different stages of their evolution can appear remarkably different, even if the. Furthermore, our model also exhibits a &#x27;dark gap&#x27; around the bar region, which is found in many observations and is known as evidence of the interaction between stars and dark.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>The picture becomes even more fascinating because, in the simulation, a particularly massive star cluster with roughly 30 million solar masses spirals into the galactic center and. Interestingly, recent observations have captured such massive star clusters inside the bar of NGC 1365, some of which are expected to spiral into its center and merge with the.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-milky-simulation-reveals-central-galactic.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Compreender a formação e evolução dos centros das galáxias é um dos desafios mais intrigantes da astrofísica. O novo estudo visa desvendar os.",
-      "Dado-chave: por Janine Fohlmeister, Instituto Leibniz de Astrofísica Potsdam Este artigo foi revisado de acordo com o processo editorial e as políticas da.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Compreender a formação e evolução dos centros das galáxias é um dos desafios mais intrigantes da astrofísica. O novo estudo visa desvendar os.",
-      "Dado-chave: por Janine Fohlmeister, Instituto Leibniz de Astrofísica Potsdam Este artigo foi revisado de acordo com o processo editorial e as políticas da.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Understanding the formation and evolution of the centers of galaxies is one of the most intriguing challenges in astrophysics. The new study aims to.",
-      "Key detail: by Janine Fohlmeister, Leibniz Institute for Astrophysics Potsdam This article has been reviewed according to Science X's editorial process and.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "06 ago 2026",
-    "date_pt": "06 ago 2026",
-    "date_en": "06 Aug 2026",
-    "time": "20h40",
-    "time_pt": "20h40",
-    "time_en": "20:40 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-06T20:40:01+00:00",
-    "lastModifiedIso": "2026-08-06T20:40:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Simulação semelhante à Via Láctea revela como as estruturas galácticas centrais crescem juntas"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Simulação semelhante à Via Láctea revela como as estruturas galácticas centrais crescem juntas"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Milky Way-like simulation reveals how central galactic structures grow together"
-    ],
-    "srcUrl": "https://phys.org/news/2026-08-milky-simulation-reveals-central-galactic.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=milky-way-like-simulation-reveals-how-central-galactic-structures-grow-together",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=milky-way-like-simulation-reveals-how-central-galactic-structures-grow-together",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=milky-way-like-simulation-reveals-how-central-galactic-structures-grow-together&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 76,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "two-decades-of-blazar-observations-and-the-mysteries-keep-piling-up",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-decades-of-blazar.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/two-decades-of-blazar.jpg",
-        "caption": "Duas décadas de observações do blazar e os mistérios continuam se acumulando",
-        "caption_pt": "Duas décadas de observações do blazar e os mistérios continuam se acumulando",
-        "caption_en": "Two decades of blazar observations, and the mysteries keep piling up",
-        "alt": "Duas décadas de observações do blazar e os mistérios continuam se acumulando",
-        "alt_pt": "Duas décadas de observações do blazar e os mistérios continuam se acumulando",
-        "alt_en": "Two decades of blazar observations, and the mysteries keep piling up"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Duas décadas de observações do blazar e os mistérios continuam se acumulando",
-    "title_pt": "Duas décadas de observações do blazar e os mistérios continuam se acumulando",
-    "title_en": "Two decades of blazar observations, and the mysteries keep piling up",
-    "sub": "Jatos estreitos de matéria luminosa podem ser emitidos em direção à Terra a partir de núcleos de galáxias ativas a bilhões de anos-luz de distância. A galáxia então aparece como.",
-    "sub_pt": "Jatos estreitos de matéria luminosa podem ser emitidos em direção à Terra a partir de núcleos de galáxias ativas a bilhões de anos-luz de distância. A galáxia então aparece como.",
-    "sub_en": "Narrow jets of luminous matter may be emitted toward Earth from the nuclei of active galaxies billions of light-years away. The galaxy then appears as a point source and is called.",
-    "excerpt": "Jatos estreitos de matéria luminosa podem ser emitidos em direção à Terra a partir de núcleos de galáxias ativas a bilhões de anos-luz de distância. A galáxia então aparece como uma fonte pontual e é chamada de blazar. Uma equipe de cientistas polaco-alemães.",
-    "excerpt_pt": "Jatos estreitos de matéria luminosa podem ser emitidos em direção à Terra a partir de núcleos de galáxias ativas a bilhões de anos-luz de distância. A galáxia então aparece como uma fonte pontual e é chamada de blazar. Uma equipe de cientistas polaco-alemães.",
-    "excerpt_en": "Narrow jets of luminous matter may be emitted toward Earth from the nuclei of active galaxies billions of light-years away. The galaxy then appears as a point source and is called a blazar. A Polish-German team of scientists has, for the.",
-    "body": "<p>Jatos estreitos de matéria luminosa podem ser emitidos em direção à Terra a partir de núcleos de galáxias ativas a bilhões de anos-luz de distância. A galáxia então aparece como uma fonte pontual e é chamada de blazar. Uma equipe de cientistas polaco-alemães tem, para o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Jatos estreitos de matéria luminosa podem ser emitidos em direção à Terra a partir de núcleos de galáxias ativas a bilhões de anos-luz de distância. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida a impressão artística de um blazar, uma.</p><p>NASA/JPL-Caltech Jatos estreitos de matéria luminosa podem ser emitidos em direção à Terra a partir de núcleos de galáxias ativas a bilhões de anos-luz de distância. Galáxias distantes e ativas que emitem jatos de matéria em pequenos ângulos em direção à Terra, conhecidas como blazares, apresentam aos astrônomos numerosos desafios.</p><p>Estão corretas as interpretações atuais da natureza destes objetos, baseadas em observações de curto prazo e bastante esporádicas. Os astrônomos referem-se às galáxias ativas com jatos apontando para a Terra como blazares.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-decades-blazar-mysteries-piling.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Jatos estreitos de matéria luminosa podem ser emitidos em direção à Terra a partir de núcleos de galáxias ativas a bilhões de anos-luz de distância. A galáxia então aparece como uma fonte pontual e é chamada de blazar. Uma equipe de cientistas polaco-alemães tem, para o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Jatos estreitos de matéria luminosa podem ser emitidos em direção à Terra a partir de núcleos de galáxias ativas a bilhões de anos-luz de distância. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida a impressão artística de um blazar, uma.</p><p>NASA/JPL-Caltech Jatos estreitos de matéria luminosa podem ser emitidos em direção à Terra a partir de núcleos de galáxias ativas a bilhões de anos-luz de distância. Galáxias distantes e ativas que emitem jatos de matéria em pequenos ângulos em direção à Terra, conhecidas como blazares, apresentam aos astrônomos numerosos desafios.</p><p>Estão corretas as interpretações atuais da natureza destes objetos, baseadas em observações de curto prazo e bastante esporádicas. Os astrônomos referem-se às galáxias ativas com jatos apontando para a Terra como blazares.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-decades-blazar-mysteries-piling.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Narrow jets of luminous matter may be emitted toward Earth from the nuclei of active galaxies billions of light-years away. The galaxy then appears as a point source and is called a blazar. A Polish-German team of scientists has, for the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Narrow jets of luminous matter may be emitted toward Earth from the nuclei of active galaxies billions of light-years away. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Artist&#x27;s impression of a blazar, an active galaxy emitting jets.</p><p>NASA/JPL-Caltech Narrow jets of luminous matter may be emitted toward Earth from the nuclei of active galaxies billions of light-years away. Distant, active galaxies that emit jets of matter at small angles toward Earth, known as blazars, present astronomers with numerous observational and interpretative challenges.</p><p>Are the current interpretations of the nature of these objects, based on short-term and rather sporadic observations, correct. Astronomers refer to active galaxies with jets pointing toward Earth as blazars.</p><p>Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Intuition suggests that if the source of emission in the optical and X-ray ranges were the same population of electrons, changes in one part of the spectrum should be correlated.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>In the case of PKS 2155-304, this behavior has not been observed over 20 years of monitoring. However, in the case of two observations from 2012, something particularly strange appeared in the spectrum of PKS 2155-304: an additional, statistically significant dip.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-decades-blazar-mysteries-piling.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Jatos estreitos de matéria luminosa podem ser emitidos em direção à Terra a partir de núcleos de galáxias ativas a bilhões de anos-luz de distância.",
-      "Dado-chave: Jatos estreitos de matéria luminosa podem ser emitidos em direção à Terra a partir de núcleos de galáxias ativas a bilhões de anos-luz de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Jatos estreitos de matéria luminosa podem ser emitidos em direção à Terra a partir de núcleos de galáxias ativas a bilhões de anos-luz de distância.",
-      "Dado-chave: Jatos estreitos de matéria luminosa podem ser emitidos em direção à Terra a partir de núcleos de galáxias ativas a bilhões de anos-luz de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Narrow jets of luminous matter may be emitted toward Earth from the nuclei of active galaxies billions of light-years away. The galaxy then appears.",
-      "Key detail: Narrow jets of luminous matter may be emitted toward Earth from the nuclei of active galaxies billions of light-years away.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "06 ago 2026",
-    "date_pt": "06 ago 2026",
-    "date_en": "06 Aug 2026",
-    "time": "20h00",
-    "time_pt": "20h00",
-    "time_en": "20:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-06T20:00:05+00:00",
-    "lastModifiedIso": "2026-08-06T20:00:05+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Duas décadas de observações do blazar e os mistérios continuam se acumulando"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Duas décadas de observações do blazar e os mistérios continuam se acumulando"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Two decades of blazar observations and the mysteries keep piling up"
-    ],
-    "srcUrl": "https://phys.org/news/2026-08-decades-blazar-mysteries-piling.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=two-decades-of-blazar-observations-and-the-mysteries-keep-piling-up",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=two-decades-of-blazar-observations-and-the-mysteries-keep-piling-up",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=two-decades-of-blazar-observations-and-the-mysteries-keep-piling-up&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
     "id": 11,
-    "slug": "educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/Educators_and_Teens_Get_Hands-On_With_TEMPO_Data_to_Help_Investigate_Local_Air_Quality.jpg?w=2000&h=1368&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-week-of-smoky-skies-across-north-america/nambrowncarbon_geos5_20260720_th.jpg?w=3209&h=2139&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/13299_Aerials.jpg?w=4096&h=2160&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ontario-wildfire-smoke-drifts-east/ontariofires_virs3_20260714_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Educadores e adolescentes experimentam dados do TEMPO para ajudar a investigar a qualidade do ar local",
-    "title_pt": "Educadores e adolescentes experimentam dados do TEMPO para ajudar a investigar a qualidade do ar local",
-    "title_en": "Educators & Teens Get Hands-On With TEMPO Data to Help Investigate Local Air Quality",
-    "sub": "O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar.",
-    "sub_pt": "O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar.",
-    "sub_en": "The NASA Science Activation Program’s Cosmic Storytelling with NASA Data project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into.",
-    "excerpt": "O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026.",
-    "excerpt_pt": "O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026.",
-    "excerpt_en": "The NASA Science Activation Program’s Cosmic Storytelling with NASA Data project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into the hands of educators and learners. From July 27, 29, 2026.",
-    "body": "<p>O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha. De 27 a 29 de julho de 2026, a equipe CosmicDS fez parceria com o projeto BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) do Smithsonian Institution para.</p><p>O TEMPO-Lab permite que os alunos explorem e analisem medições de qualidade do ar quase em tempo real coletadas pela missão TEMPO (Emissões Troposféricas: Monitoramento da. “O BEST AQI Leadership Institute reforçou o valor do TEMPO-Lab como uma ferramenta para capacitar os jovens a investigar questões locais de qualidade do ar usando dados autênticos.</p><p>No primeiro dia do Instituto, o investigador principal da CosmicDS Science, Pat Udomprasert, liderou uma sessão de imersão prática apresentando aos educadores o TEMPO-Lab, um. Visão geral Recursos Oportunidades Destaques da ciência cidadã Sobre a ativação científica 4 min de leitura do artigo Um educador explora os dados da missão TEMPO da NASA usando o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha. De 27 a 29 de julho de 2026, a equipe CosmicDS fez parceria com o projeto BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) do Smithsonian Institution para.</p><p>O TEMPO-Lab permite que os alunos explorem e analisem medições de qualidade do ar quase em tempo real coletadas pela missão TEMPO (Emissões Troposféricas: Monitoramento da. “O BEST AQI Leadership Institute reforçou o valor do TEMPO-Lab como uma ferramenta para capacitar os jovens a investigar questões locais de qualidade do ar usando dados autênticos.</p><p>No primeiro dia do Instituto, o investigador principal da CosmicDS Science, Pat Udomprasert, liderou uma sessão de imersão prática apresentando aos educadores o TEMPO-Lab, um. Visão geral Recursos Oportunidades Destaques da ciência cidadã Sobre a ativação científica 4 min de leitura do artigo Um educador explora os dados da missão TEMPO da NASA usando o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The NASA Science Activation Program’s Cosmic Storytelling with NASA Data project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into the hands of educators and learners. From July 27, 29, 2026. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The NASA Science Activation Program’s Cosmic Storytelling with NASA Data (CosmicDS) project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA. From July 27, 29, 2026, the CosmicDS team partnered with the Smithsonian Institution’s BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) project to.</p><p>TEMPO-Lab lets learners explore and analyze near-real-time air quality measurements collected by NASA’s TEMPO (Tropospheric Emissions: Monitoring of Pollution) mission, which. “The BEST AQI Leadership Institute reinforced the value of the TEMPO-Lab as a tool for empowering youth to investigate local air quality issues using authentic NASA data.</p><p>On Day 1 of the Institute, the CosmicDS Science Principal Investigator Pat Udomprasert led a hands-on immersion session introducing educators to TEMPO-Lab, a Science Science. Overview Resources Opportunities Citizen Science Highlights About Science Activation 4 min read Article An educator explores NASA&#x27;s TEMPO mission data using the CosmicDS TEMPO-Lab.</p><p>On Day 1 of the Institute, the CosmicDS Science Principal Investigator Pat Udomprasert led a hands-on immersion session introducing educators to TEMPO-Lab, a free online tool. TEMPO-Lab lets learners explore and analyze near-real-time air quality measurements collected by NASA&#x27;s TEMPO (Tropospheric Emissions: Monitoring of Pollution) mission, which.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>During Days 2 and 3 of the Institute, as educators worked together to co-develop BEST AQI curriculum and resources, they used TEMPO-Lab to build case studies covering a variety of. During a science briefing, TEMPO scientist Heesung Chong shared that a new beta-version ground-level ozone data product had recently become available.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge.",
-      "Dado-chave: O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge.",
-      "Dado-chave: O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The NASA Science Activation Program’s Cosmic Storytelling with NASA Data project, led by Harvard University in Cambridge, Massachusetts, works to.",
-      "Key detail: The NASA Science Activation Program’s Cosmic Storytelling with NASA Data (CosmicDS) project, led by Harvard University in Cambridge.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "06 ago 2026",
-    "date_pt": "06 ago 2026",
-    "date_en": "06 Aug 2026",
-    "time": "19h33",
-    "time_pt": "19h33",
-    "time_en": "19:33 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-06T19:33:32+00:00",
-    "lastModifiedIso": "2026-08-06T19:33:32+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Educadores e adolescentes experimentam dados do TEMPO para ajudar a investigar a qualidade do ar local"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Educadores e adolescentes experimentam dados do TEMPO para ajudar a investigar a qualidade do ar local"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Educators and teens experiment with TEMPO data to help investigate local air quality"
-    ],
-    "srcUrl": "https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 82,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 12,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1459,7 +1320,7 @@
     }
   },
   {
-    "id": 13,
+    "id": 12,
     "slug": "science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1598,7 +1459,7 @@
     }
   },
   {
-    "id": 14,
+    "id": 13,
     "slug": "space-kit-for-future-away-missions-tested-in-scotland",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1731,7 +1592,7 @@
     }
   },
   {
-    "id": 15,
+    "id": 14,
     "slug": "nasa-s-ixpe-may-have-proven-90-year-old-theory",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1864,7 +1725,7 @@
     }
   },
   {
-    "id": 16,
+    "id": 15,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1997,6 +1858,139 @@
       "relevance": 88,
       "accessibility": 60,
       "novelty": 46
+    }
+  },
+  {
+    "id": 16,
+    "slug": "astronomers-catch-hatchling-quasar-breaking-out-of-its-dusty-cocoon",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-catch-a-yo.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/astronomers-catch-a-yo.jpg",
+        "caption": "Ilustração esquemática da interpretação evolutiva proposta para o Filhote. Na fase enterrada, o quasar fica em grande parte oculto por gás denso e/ou poeira, produzindo um continuum vermelho através da atenuação da poeira, semelhante à térmica.",
+        "caption_pt": "Ilustração esquemática da interpretação evolutiva proposta para o Filhote. Na fase enterrada, o quasar fica em grande parte oculto por gás denso e/ou poeira, produzindo um continuum vermelho através da atenuação da poeira, semelhante à térmica.",
+        "caption_en": "Schematic illustration of the proposed evolutionary interpretation for the Hatchling. In the buried phase, the quasar is largely hidden by dense gas and/or dust, producing a red continuum through dust attenuation, thermal-like.",
+        "alt": "Astrônomos capturam um jovem quasar saindo de seu casulo empoeirado",
+        "alt_pt": "Astrônomos capturam um jovem quasar saindo de seu casulo empoeirado",
+        "alt_en": "Astronomers catch a young quasar breaking out of its dusty cocoon"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/05cc00b31f2c5b10.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Astrônomos capturam quasar ‘Hatchling’ saindo de seu casulo empoeirado",
+    "title_pt": "Astrônomos capturam quasar ‘Hatchling’ saindo de seu casulo empoeirado",
+    "title_en": "Astronomers catch 'Hatchling' quasar breaking out of its dusty cocoon",
+    "sub": "Usando observações de vários telescópios poderosos, uma equipe de astrônomos estudou um quasar vermelho apelidado de “o Filhote” com desvio para o vermelho 3,7. Eles podem ter.",
+    "sub_pt": "Usando observações de vários telescópios poderosos, uma equipe de astrônomos estudou um quasar vermelho apelidado de “o Filhote” com desvio para o vermelho 3,7. Eles podem ter.",
+    "sub_en": "Using observations from multiple powerful telescopes, a team of astronomers studied a red quasar nicknamed \"the Hatchling\" at redshift 3.7. They may have identified one of the.",
+    "excerpt": "Usando observações de vários telescópios poderosos, uma equipe de astrônomos estudou um quasar vermelho apelidado de “o Filhote” com desvio para o vermelho 3,7. Eles podem ter identificado um dos exemplos mais claros de um quasar capturado na transição entre.",
+    "excerpt_pt": "Usando observações de vários telescópios poderosos, uma equipe de astrônomos estudou um quasar vermelho apelidado de “o Filhote” com desvio para o vermelho 3,7. Eles podem ter identificado um dos exemplos mais claros de um quasar capturado na transição entre.",
+    "excerpt_en": "Using observations from multiple powerful telescopes, a team of astronomers studied a red quasar nicknamed \"the Hatchling\" at redshift 3.7. They may have identified one of the clearest examples yet of a quasar caught in transition between.",
+    "body": "<p>Usando observações de vários telescópios poderosos, uma equipe de astrônomos estudou um quasar vermelho apelidado de “o Filhote” com desvio para o vermelho 3,7. Eles podem ter identificado um dos exemplos mais claros de um quasar capturado na transição entre eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Usando observações de vários telescópios poderosos, uma equipe de astrônomos estudou um quasar vermelho apelidado de “o Filhote” com desvio para o vermelho 3,7. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Zheng Ma et al, arXiv (2026). Https: //doi. org/ Usando observações de vários telescópios poderosos, uma equipe de astrônomos estudou um quasar vermelho apelidado de &quot;o Filhote&quot; no redshift 3,7.</p><p>O artigo da equipa, carregado no servidor de pré-impressão arXiv em 25 de julho, apresenta evidências de que o seu buraco negro central já é visível, enquanto fluxos poderosos. Este quasar incomum foi estudado tal como apareceu quando o Universo tinha apenas 1,7 mil milhões de anos.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-astronomers-hatchling-quasar-dusty-cocoon.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Usando observações de vários telescópios poderosos, uma equipe de astrônomos estudou um quasar vermelho apelidado de “o Filhote” com desvio para o vermelho 3,7. Eles podem ter identificado um dos exemplos mais claros de um quasar capturado na transição entre eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Usando observações de vários telescópios poderosos, uma equipe de astrônomos estudou um quasar vermelho apelidado de “o Filhote” com desvio para o vermelho 3,7. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Zheng Ma et al, arXiv (2026). Https: //doi. org/ Usando observações de vários telescópios poderosos, uma equipe de astrônomos estudou um quasar vermelho apelidado de &quot;o Filhote&quot; no redshift 3,7.</p><p>O artigo da equipa, carregado no servidor de pré-impressão arXiv em 25 de julho, apresenta evidências de que o seu buraco negro central já é visível, enquanto fluxos poderosos. Este quasar incomum foi estudado tal como apareceu quando o Universo tinha apenas 1,7 mil milhões de anos.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-astronomers-hatchling-quasar-dusty-cocoon.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Using observations from multiple powerful telescopes, a team of astronomers studied a red quasar nicknamed &quot;the Hatchling&quot; at redshift 3.7. They may have identified one of the clearest examples yet of a quasar caught in transition between. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. Using observations from multiple powerful telescopes, a team of astronomers studied a red quasar nicknamed &quot;the Hatchling&quot; at redshift 3.7. This article has been reviewed according to Science X&#x27;s editorial process and policies.</p><p>Zheng Ma et al, arXiv (2026). Https: //doi. org/ Using observations from multiple powerful telescopes, a team of astronomers studied a red quasar nicknamed &quot;the Hatchling&quot; at redshift 3.7.</p><p>The team&#x27;s paper, uploaded to the arXiv preprint server on July 25, presents evidence that its central black hole is already visible while powerful outflows continue to clear away. This unusual quasar was studied as it appeared when the universe was only 1.7 billion years old.</p><p>This was possible because the Hatchling happens to fall in a patch of sky that has been observed by an unusually large number of telescopes, the James Webb Space Telescope in the. Three instruments), the Atacama Large Millimeter/submillimeter Array (ALMA) at millimeter wavelengths, X-ray observations from the Chandra X-ray Observatory, optical and.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>They also found an extended halo of disrupted gas reaching roughly 65,000 light-years outward from the core. To further understand how common this phase is among the red quasar population and to pin down its duration, the team calls for systematic searches for such objects along with.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-astronomers-hatchling-quasar-dusty-cocoon.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Usando observações de vários telescópios poderosos, uma equipe de astrônomos estudou um quasar vermelho apelidado de “o Filhote” com desvio para o.",
+      "Dado-chave: Usando observações de vários telescópios poderosos, uma equipe de astrônomos estudou um quasar vermelho apelidado de “o Filhote” com desvio para.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Usando observações de vários telescópios poderosos, uma equipe de astrônomos estudou um quasar vermelho apelidado de “o Filhote” com desvio para o.",
+      "Dado-chave: Usando observações de vários telescópios poderosos, uma equipe de astrônomos estudou um quasar vermelho apelidado de “o Filhote” com desvio para.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Using observations from multiple powerful telescopes, a team of astronomers studied a red quasar nicknamed \"the Hatchling\" at redshift 3.7. They may.",
+      "Key detail: Using observations from multiple powerful telescopes, a team of astronomers studied a red quasar nicknamed \"the Hatchling\" at redshift 3.7.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "05 ago 2026",
+    "date_pt": "05 ago 2026",
+    "date_en": "05 Aug 2026",
+    "time": "18h20",
+    "time_pt": "18h20",
+    "time_en": "18:20 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-05T18:20:04+00:00",
+    "lastModifiedIso": "2026-08-05T18:20:04+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Astrônomos capturam quasar ‘Hatchling’ saindo de seu casulo empoeirado"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Astrônomos capturam quasar ‘Hatchling’ saindo de seu casulo empoeirado"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Astronomers capture ‘Hatchling’ quasar emerging from its dusty cocoon"
+    ],
+    "srcUrl": "https://phys.org/news/2026-08-astronomers-hatchling-quasar-dusty-cocoon.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-catch-hatchling-quasar-breaking-out-of-its-dusty-cocoon",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-catch-hatchling-quasar-breaking-out-of-its-dusty-cocoon",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-catch-hatchling-quasar-breaking-out-of-its-dusty-cocoon&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
     }
   },
   {
@@ -2815,6 +2809,139 @@
   },
   {
     "id": 24,
+    "slug": "educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/Educators_and_Teens_Get_Hands-On_With_TEMPO_Data_to_Help_Investigate_Local_Air_Quality.jpg?w=2000&h=1368&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-week-of-smoky-skies-across-north-america/nambrowncarbon_geos5_20260720_th.jpg?w=3209&h=2139&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/13299_Aerials.jpg?w=4096&h=2160&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ontario-wildfire-smoke-drifts-east/ontariofires_virs3_20260714_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Educadores e adolescentes experimentam dados do TEMPO para ajudar a investigar a qualidade do ar local",
+    "title_pt": "Educadores e adolescentes experimentam dados do TEMPO para ajudar a investigar a qualidade do ar local",
+    "title_en": "Educators & Teens Get Hands-On With TEMPO Data to Help Investigate Local Air Quality",
+    "sub": "O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar.",
+    "sub_pt": "O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar.",
+    "sub_en": "The NASA Science Activation Program’s Cosmic Storytelling with NASA Data project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into.",
+    "excerpt": "O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026.",
+    "excerpt_pt": "O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026.",
+    "excerpt_en": "The NASA Science Activation Program’s Cosmic Storytelling with NASA Data project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into the hands of educators and learners. From July 27, 29, 2026.",
+    "body": "<p>O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha. De 27 a 29 de julho de 2026, a equipe CosmicDS fez parceria com o projeto BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) do Smithsonian Institution para.</p><p>O TEMPO-Lab permite que os alunos explorem e analisem medições de qualidade do ar quase em tempo real coletadas pela missão TEMPO (Emissões Troposféricas: Monitoramento da. “O BEST AQI Leadership Institute reforçou o valor do TEMPO-Lab como uma ferramenta para capacitar os jovens a investigar questões locais de qualidade do ar usando dados autênticos.</p><p>Artigo 2 semanas atrás 3 minutos de leitura A fumaça do incêndio florestal em Ontário se move Os incêndios florestais no leste do Canadá enviaram nuvens de fumaça sobre Ontário. No primeiro dia do Instituto, o investigador principal da CosmicDS Science, Pat Udomprasert, liderou uma sessão de imersão prática apresentando aos educadores o TEMPO-Lab, um.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha. De 27 a 29 de julho de 2026, a equipe CosmicDS fez parceria com o projeto BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) do Smithsonian Institution para.</p><p>O TEMPO-Lab permite que os alunos explorem e analisem medições de qualidade do ar quase em tempo real coletadas pela missão TEMPO (Emissões Troposféricas: Monitoramento da. “O BEST AQI Leadership Institute reforçou o valor do TEMPO-Lab como uma ferramenta para capacitar os jovens a investigar questões locais de qualidade do ar usando dados autênticos.</p><p>Artigo 2 semanas atrás 3 minutos de leitura A fumaça do incêndio florestal em Ontário se move Os incêndios florestais no leste do Canadá enviaram nuvens de fumaça sobre Ontário. No primeiro dia do Instituto, o investigador principal da CosmicDS Science, Pat Udomprasert, liderou uma sessão de imersão prática apresentando aos educadores o TEMPO-Lab, um.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The NASA Science Activation Program’s Cosmic Storytelling with NASA Data project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into the hands of educators and learners. From July 27, 29, 2026. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The NASA Science Activation Program’s Cosmic Storytelling with NASA Data (CosmicDS) project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA. From July 27, 29, 2026, the CosmicDS team partnered with the Smithsonian Institution’s BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) project to.</p><p>TEMPO-Lab lets learners explore and analyze near-real-time air quality measurements collected by NASA’s TEMPO (Tropospheric Emissions: Monitoring of Pollution) mission, which. “The BEST AQI Leadership Institute reinforced the value of the TEMPO-Lab as a tool for empowering youth to investigate local air quality issues using authentic NASA data.</p><p>Article 2 weeks ago 3 min read Ontario Wildfire Smoke Moves East Canadian wildfires sent plumes of smoke streaming over Ontario, Quebec, and parts of the U. S. Article 3 weeks ago. On Day 1 of the Institute, the CosmicDS Science Principal Investigator Pat Udomprasert led a hands-on immersion session introducing educators to TEMPO-Lab, a Science Science.</p><p>Overview Resources Opportunities Citizen Science Highlights About Science Activation 4 min read Article An educator explores NASA&#x27;s TEMPO mission data using the CosmicDS TEMPO-Lab. On Day 1 of the Institute, the CosmicDS Science Principal Investigator Pat Udomprasert led a hands-on immersion session introducing educators to TEMPO-Lab, a free online tool.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>TEMPO-Lab lets learners explore and analyze near-real-time air quality measurements collected by NASA&#x27;s TEMPO (Tropospheric Emissions: Monitoring of Pollution) mission, which. During a science briefing, TEMPO scientist Heesung Chong shared that a new beta-version ground-level ozone data product had recently become available.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge.",
+      "Dado-chave: O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge.",
+      "Dado-chave: O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The NASA Science Activation Program’s Cosmic Storytelling with NASA Data project, led by Harvard University in Cambridge, Massachusetts, works to.",
+      "Key detail: The NASA Science Activation Program’s Cosmic Storytelling with NASA Data (CosmicDS) project, led by Harvard University in Cambridge.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "06 ago 2026",
+    "date_pt": "06 ago 2026",
+    "date_en": "06 Aug 2026",
+    "time": "19h33",
+    "time_pt": "19h33",
+    "time_en": "19:33 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-06T19:33:32+00:00",
+    "lastModifiedIso": "2026-08-06T19:33:32+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Educadores e adolescentes experimentam dados do TEMPO para ajudar a investigar a qualidade do ar local"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Educadores e adolescentes experimentam dados do TEMPO para ajudar a investigar a qualidade do ar local"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Educators and teens experiment with TEMPO data to help investigate local air quality"
+    ],
+    "srcUrl": "https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 82,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 25,
     "slug": "webb-reveals-millions-of-stars-in-nearby-galaxy",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2919,7 +3046,7 @@
     }
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3055,7 +3182,7 @@
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3191,40 +3318,12 @@
     }
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "your-chance-to-run-software-in-deep-space-on-esa-s-asteroid-mission",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2019/06/hera_surveying_dimorphos/19433870-2-eng-GB/Hera_surveying_Dimorphos_card_full.png",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/overseeing_hera_from_esoc_s_interplanetary_control_room/27367931-1-eng-GB/Overseeing_Hera_from_ESOC_s_Interplanetary_Control_Room_article.jpg",
-        "caption": "Supervisionando Hera da Sala de Controle Interplanetário do ESOC",
-        "caption_pt": "Supervisionando Hera da Sala de Controle Interplanetário do ESOC",
-        "caption_en": "Overseeing Hera from ESOC's Interplanetary Control Room",
-        "alt": "Supervisionando Hera do ESOC",
-        "alt_pt": "Supervisionando Hera do ESOC",
-        "alt_en": "Overseeing Hera from ESOC"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/02/hera_approaches_dimorphos/25470208-3-eng-GB/Hera_approaches_Dimorphos_article.png",
-        "caption": "Hera se aproxima de Dimorphos",
-        "caption_pt": "Hera se aproxima de Dimorphos",
-        "caption_en": "Hera approaches Dimorphos",
-        "alt": "Hera se aproxima de Dimorphos",
-        "alt_pt": "Hera se aproxima de Dimorphos",
-        "alt_en": "Hera approaches Dimorphos"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/06/dimorphos_asteroid_seen_by_dart/24958158-1-eng-GB/Dimorphos_asteroid_seen_by_DART_article.png",
-        "caption": "Asteróide Dimorphos visto pelo DART",
-        "caption_pt": "Asteróide Dimorphos visto pelo DART",
-        "caption_en": "Dimorphos asteroid seen by DART",
-        "alt": "Asteróide Dimorphos visto pelo DART",
-        "alt_pt": "Asteróide Dimorphos visto pelo DART",
-        "alt_en": "Dimorphos asteroid seen by DART"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "A sua oportunidade de executar software no espaço profundo na missão de asteróide da ESA",
@@ -3236,9 +3335,9 @@
     "excerpt": "A Agência Espacial Europeia está a oferecer aos investigadores e às empresas europeias uma oportunidade rara e emocionante de executar o seu software inovador diretamente no espaço profundo, a bordo da missão Hera da ESA, a milhões de quilómetros de distância.",
     "excerpt_pt": "A Agência Espacial Europeia está a oferecer aos investigadores e às empresas europeias uma oportunidade rara e emocionante de executar o seu software inovador diretamente no espaço profundo, a bordo da missão Hera da ESA, a milhões de quilómetros de distância.",
     "excerpt_en": "The European Space Agency is offering European researchers and companies a rare and exciting opportunity to run their innovative software directly in deep space aboard ESA’s Hera mission, millions of kilometres away.",
-    "body": "<p>A Agência Espacial Europeia está a oferecer aos investigadores e às empresas europeias uma oportunidade rara e emocionante de executar o seu software inovador diretamente no espaço profundo, a bordo da missão Hera da ESA, a milhões de quilómetros de distância. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Em meados de 2027, a missão Hera da ESA deverá completar os seus principais objectivos de defesa planetária em torno dos asteróides Didymos e Dimorphos. A nave espacial assumirá então um novo papel, tornar-se-á um laboratório de software voador único, a 150 milhões de quilómetros da Terra.</p><p>Dietmar Pilz, Diretor de Tecnologia, Engenharia e Qualidade da ESA, comenta. Estas ideias ajudarão a ESA a amadurecer tecnologias que reduzem a dependência do controlo terrestre, aumentam a resiliência da missão e permitem missões de exploração futuras.</p><p>Se tiver uma ideia que irá ampliar ainda mais os limites da missão, envie as suas ideias através da Plataforma de Inovação em Espaço Aberto da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A Agência Espacial Europeia está a oferecer aos investigadores e às empresas europeias uma oportunidade rara e emocionante de executar o seu software inovador diretamente no espaço profundo, a bordo da missão Hera da ESA, a milhões de quilómetros de distância. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Em meados de 2027, a missão Hera da ESA deverá completar os seus principais objectivos de defesa planetária em torno dos asteróides Didymos e Dimorphos. A nave espacial assumirá então um novo papel, tornar-se-á um laboratório de software voador único, a 150 milhões de quilómetros da Terra.</p><p>Dietmar Pilz, Diretor de Tecnologia, Engenharia e Qualidade da ESA, comenta. Estas ideias ajudarão a ESA a amadurecer tecnologias que reduzem a dependência do controlo terrestre, aumentam a resiliência da missão e permitem missões de exploração futuras.</p><p>Se tiver uma ideia que irá ampliar ainda mais os limites da missão, envie as suas ideias através da Plataforma de Inovação em Espaço Aberto da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency is offering European researchers and companies a rare and exciting opportunity to run their innovative software directly in deep space aboard ESA’s Hera mission, millions of kilometres away. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. In mid-2027, ESA’s Hera mission is set to complete its primary planetary defence goals around the Didymos and Dimorphos asteroids. The spacecraft will then take on a new role, it will become a unique flying software laboratory 150 million km from Earth.</p><p>Dietmar Pilz, ESA’s Director of Technology, Engineering and Quality, comments. These ideas will help ESA mature technologies that reduce reliance on ground control, increase mission resilience, and enable more capable future exploration missions.” By opening.</p><p>If you have an idea that will push the boundaries of the mission even further, submit your ideas via ESA&#x27;s Open Space Innovation Platform. Launched in 2024, Hera is currently on course to reach its target this autumn: asteroid Dimorphos.</p><p>In 2022 NASA’s DART spacecraft deliberately impacted Dimorphos to shift its orbit around parent body Didymos. The submission will need to be submitted via an outline form, for an initial ESA evaluation.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>In mid-October 2026,ESA will select the winning ideas. The chosen teams will be invited to submit their implementation package and source code in full for detailed validation, with a deadline for submitting the full implementation on.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A Agência Espacial Europeia está a oferecer aos investigadores e às empresas europeias uma oportunidade rara e emocionante de executar o seu software inovador diretamente no espaço profundo, a bordo da missão Hera da ESA, a milhões de quilómetros de distância. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Agência Espacial Europeia está a oferecer aos investigadores e às empresas europeias uma oportunidade rara e emocionante de executar o seu software inovador diretamente no espaço profundo, a bordo da missão Hera da ESA, a milhões de quilómetros de distância. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency is offering European researchers and companies a rare and exciting opportunity to run their innovative software directly in deep space aboard ESA’s Hera mission, millions of kilometres away. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A Agência Espacial Europeia está a oferecer aos investigadores e às empresas europeias uma oportunidade rara e emocionante de executar o seu software.",
       "Dado-chave: A Agência Espacial Europeia está a oferecer aos investigadores e às empresas europeias uma oportunidade rara e emocionante de executar o seu.",
@@ -3324,7 +3423,7 @@
     }
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "a-new-way-to-map-the-universe-s-missing-matter",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3457,7 +3556,7 @@
     }
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "all-i-need-for-a-night-of-stargazing-is",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3568,11 +3667,11 @@
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "a-perfectly-timed-perseid-meteor-shower",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3705,7 +3804,7 @@
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "inouye-solar-telescope-sees-the-sun-closer-than-ever",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3838,7 +3937,7 @@
     }
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "a-partial-eclipse-for-parts-of-north-america",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3971,7 +4070,7 @@
     }
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "metallic-waves-on-ancient-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4076,7 +4175,7 @@
     }
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "scientist-constructs-big-picture-of-mars-water-from-rover-data",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4200,7 +4299,7 @@
     }
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "interstellar-travel-the-space-age-and-nuclear-rockets",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4321,7 +4420,7 @@
     }
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "astronomers-measure-the-long-reach-of-a-quasar",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4445,7 +4544,7 @@
     }
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "sun-news-multiple-bursts-of-sun-stuff-approaching-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4563,7 +4662,7 @@
     }
   },
   {
-    "id": 38,
+    "id": 39,
     "slug": "were-neptune-s-inner-moons-born-from-an-ancient-cataclysm",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4678,7 +4777,7 @@
     }
   },
   {
-    "id": 39,
+    "id": 40,
     "slug": "new-nsf-initiative-aims-to-unlock-dataset-value-for-ai-enabled-scientific-discovery",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4808,130 +4907,6 @@
       "relevance": 74,
       "accessibility": 52,
       "novelty": 46
-    }
-  },
-  {
-    "id": 40,
-    "slug": "europe-s-forests-losing-more-biomass-since-2018",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/europe_s_forests_losing_biomass_due_to_disturbances/27405448-2-eng-GB/Europe_s_forests_losing_biomass_due_to_disturbances_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/europe_s_forests_losing_biomass_due_to_disturbances/27405448-2-eng-GB/Europe_s_forests_losing_biomass_due_to_disturbances_article.jpg",
-        "caption": "A severidade absoluta mede a perda de biomassa acima do solo após uma perturbação, como vento, fogo ou danos causados ​​por insetos, ou após a colheita de árvores.",
-        "caption_pt": "A severidade absoluta mede a perda de biomassa acima do solo após uma perturbação, como vento, fogo ou danos causados ​​por insetos, ou após a colheita de árvores.",
-        "caption_en": "Absolute severity measures the loss of above-ground biomass after a disturbance, such as wind, fire or insect damage, or after tree harvesting.",
-        "alt": "A severidade absoluta mede a perda de biomassa acima do solo após uma perturbação, como vento, fogo ou danos causados ​​por insetos, ou após a colheita de árvores.",
-        "alt_pt": "A severidade absoluta mede a perda de biomassa acima do solo após uma perturbação, como vento, fogo ou danos causados ​​por insetos, ou após a colheita de árvores.",
-        "alt_en": "Absolute severity measures the loss of above-ground biomass after a disturbance, such as wind, fire or insect damage, or after tree harvesting."
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/relative_severity_of_biomass_loss_from_europe_s_forests/27405495-2-eng-GB/Relative_severity_of_biomass_loss_from_Europe_s_forests_article.jpg",
-        "caption": "A severidade relativa é uma perda percentual relativa à biomassa medida antes da perturbação ou da colheita.",
-        "caption_pt": "A severidade relativa é uma perda percentual relativa à biomassa medida antes da perturbação ou da colheita.",
-        "caption_en": "Relative severity is a percentage loss relative to the biomass measured before disturbance or harvest.",
-        "alt": "A severidade relativa é uma perda percentual relativa à biomassa medida antes da perturbação ou da colheita.",
-        "alt_pt": "A severidade relativa é uma perda percentual relativa à biomassa medida antes da perturbação ou da colheita.",
-        "alt_en": "Relative severity is a percentage loss relative to the biomass measured before disturbance or harvest."
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "As florestas da Europa estão a perder mais biomassa desde 2018",
-    "title_pt": "As florestas da Europa estão a perder mais biomassa desde 2018",
-    "title_en": "Europe’s forests losing more biomass since 2018",
-    "sub": "As florestas da Europa estão a perder mais biomassa do que se pensava anteriormente, com perturbações como secas e pragas a causar perdas cada vez maiores em algumas das florestas.",
-    "sub_pt": "As florestas da Europa estão a perder mais biomassa do que se pensava anteriormente, com perturbações como secas e pragas a causar perdas cada vez maiores em algumas das florestas.",
-    "sub_en": "Europe’s forests are losing more biomass than previously thought, with disturbances such as drought and pests causing increasingly large losses from some of the oldest forests in.",
-    "excerpt": "As florestas da Europa estão a perder mais biomassa do que se pensava anteriormente, com perturbações como secas e pragas a causar perdas cada vez maiores em algumas das florestas mais antigas da Europa. Esta situação deteriorou-se acentuadamente desde 2018.",
-    "excerpt_pt": "As florestas da Europa estão a perder mais biomassa do que se pensava anteriormente, com perturbações como secas e pragas a causar perdas cada vez maiores em algumas das florestas mais antigas da Europa. Esta situação deteriorou-se acentuadamente desde 2018.",
-    "excerpt_en": "Europe’s forests are losing more biomass than previously thought, with disturbances such as drought and pests causing increasingly large losses from some of the oldest forests in Europe. This situation has deteriorated markedly since 2018.",
-    "body": "<p>As florestas da Europa estão a perder mais biomassa do que se pensava anteriormente, com perturbações como secas e pragas a causar perdas cada vez maiores em algumas das florestas mais antigas da Europa. Esta situação deteriorou-se acentuadamente desde 2018. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Estas são as conclusões de um estudo publicado na Nature Geoscience. A investigação, que foi apoiada por uma iniciativa da Agência Espacial Europeia (ESA), concluiu que as perdas de biomassa aumentaram acentuadamente após 2018, à medida que secas.</p><p>O estudo foi apoiado pela Iniciativa para as Alterações Climáticas da ESA através do seu projecto RECCAP-2, um esforço internacional que utiliza conjuntos de dados climáticos. Pela primeira vez, os cientistas quantificaram a quantidade de biomassa perdida devido a perturbações florestais em toda a Europa, em vez de simplesmente medirem a área afetada.</p><p>As florestas da Europa cobrem cerca de 39% da sua área terrestre e armazenam 10,6 mil milhões de toneladas de carbono na biomassa acima do solo, por exemplo nas suas folhas, ramos. Este estudo é o primeiro a medir não só onde as florestas da Europa foram perdidas, mas também quanta biomassa desapareceu juntamente com elas, em todo o continente e ao longo de.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Europe_s_forests_losing_more_biomass_since_2018\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>As florestas da Europa estão a perder mais biomassa do que se pensava anteriormente, com perturbações como secas e pragas a causar perdas cada vez maiores em algumas das florestas mais antigas da Europa. Esta situação deteriorou-se acentuadamente desde 2018. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Estas são as conclusões de um estudo publicado na Nature Geoscience. A investigação, que foi apoiada por uma iniciativa da Agência Espacial Europeia (ESA), concluiu que as perdas de biomassa aumentaram acentuadamente após 2018, à medida que secas.</p><p>O estudo foi apoiado pela Iniciativa para as Alterações Climáticas da ESA através do seu projecto RECCAP-2, um esforço internacional que utiliza conjuntos de dados climáticos. Pela primeira vez, os cientistas quantificaram a quantidade de biomassa perdida devido a perturbações florestais em toda a Europa, em vez de simplesmente medirem a área afetada.</p><p>As florestas da Europa cobrem cerca de 39% da sua área terrestre e armazenam 10,6 mil milhões de toneladas de carbono na biomassa acima do solo, por exemplo nas suas folhas, ramos. Este estudo é o primeiro a medir não só onde as florestas da Europa foram perdidas, mas também quanta biomassa desapareceu juntamente com elas, em todo o continente e ao longo de.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Europe_s_forests_losing_more_biomass_since_2018\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Europe’s forests are losing more biomass than previously thought, with disturbances such as drought and pests causing increasingly large losses from some of the oldest forests in Europe. This situation has deteriorated markedly since 2018. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. These are the findings of a study published in Nature Geoscience. The research, which was supported by a European Space Agency (ESA) initiative, found that biomass losses increased sharply after 2018 as drought, windstorms and insect outbreaks.</p><p>The study was supported by the ESA Climate Change Initiative through its RECCAP-2 project, an international effort that uses satellite-based climate datasets to support the Paris. For the first time, scientists have quantified how much biomass is lost from forest disturbances across Europe, rather than simply measuring the area affected.</p><p>Europe’s forests cover about 39% of its land area and store 10.6 billion tonnes of carbon in above-ground biomass, for example in their leaves, branches and trunks. This study is the first to measure not just where Europe’s forests were lost, but how much biomass disappeared along with them, across the whole continent and over a period of.</p><p>Until now we&#x27;ve largely been flying blind on that difference,” said Katja Kowalski, lead author of the paper and a postdoctoral researcher in the Earth Observation for Ecosystem. The study combines two satellite records: annual maps of tree cover loss across Europe derived from the Landsat archive and a high-resolution biomass map for 2019, showing how.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The results reveal a clear break around 2018, when severe droughts affected countries across central Europe, notably Germany, the Czech Republic and Poland. While logging accounted for about 82% of biomass loss between 1985 and 2023, the remaining 18% loss caused by natural disturbances drove the sharp rise since 2018.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Europe_s_forests_losing_more_biomass_since_2018\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: As florestas da Europa estão a perder mais biomassa do que se pensava anteriormente, com perturbações como secas e pragas a causar perdas cada vez.",
-      "Dado-chave: Estas são as conclusões de um estudo publicado na Nature Geoscience.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: As florestas da Europa estão a perder mais biomassa do que se pensava anteriormente, com perturbações como secas e pragas a causar perdas cada vez.",
-      "Dado-chave: Estas são as conclusões de um estudo publicado na Nature Geoscience.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Europe’s forests are losing more biomass than previously thought, with disturbances such as drought and pests causing increasingly large losses from.",
-      "Key detail: These are the findings of a study published in Nature Geoscience.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "05 ago 2026",
-    "date_pt": "05 ago 2026",
-    "date_en": "05 Aug 2026",
-    "time": "09h30",
-    "time_pt": "09h30",
-    "time_en": "09:30 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-05T09:30:00+00:00",
-    "lastModifiedIso": "2026-08-05T09:30:00+00:00",
-    "source": "ESA Space News",
-    "sourceDomain": "www.esa.int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Space News",
-      "Cosmos Week",
-      "As florestas da Europa estão a perder mais biomassa desde 2018"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Space News",
-      "Cosmos Week",
-      "As florestas da Europa estão a perder mais biomassa desde 2018"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Space News",
-      "Cosmos Week",
-      "Europe's forests are losing more biomass since 2018"
-    ],
-    "srcUrl": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Europe_s_forests_losing_more_biomass_since_2018",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=europe-s-forests-losing-more-biomass-since-2018",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=europe-s-forests-losing-more-biomass-since-2018",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=europe-s-forests-losing-more-biomass-since-2018&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 72,
-    "scoreBreakdown": {
-      "source": 80,
-      "evidence": 82,
-      "relevance": 70,
-      "accessibility": 60,
-      "novelty": 52
     }
   }
 ]

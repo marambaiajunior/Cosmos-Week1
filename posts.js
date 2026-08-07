@@ -40,14 +40,14 @@ window.postsData = [
     "date": "07 ago 2026",
     "date_pt": "07 ago 2026",
     "date_en": "07 Aug 2026",
-    "time": "13h54",
-    "time_pt": "13h54",
-    "time_en": "13:54 UTC",
+    "time": "15h05",
+    "time_pt": "15h05",
+    "time_en": "15:05 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-07T13:54:03.495119+00:00",
-    "lastModifiedIso": "2026-08-07T13:54:03.495119+00:00",
+    "publishedIso": "2026-08-07T15:05:02.525831+00:00",
+    "lastModifiedIso": "2026-08-07T15:05:02.525831+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "07 ago 2026",
     "date_pt": "07 ago 2026",
     "date_en": "07 Aug 2026",
-    "time": "13h54",
-    "time_pt": "13h54",
-    "time_en": "13:54 UTC",
+    "time": "15h05",
+    "time_pt": "15h05",
+    "time_en": "15:05 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-07T13:54:03.495072+00:00",
-    "lastModifiedIso": "2026-08-07T13:54:03.495072+00:00",
+    "publishedIso": "2026-08-07T15:05:02.525781+00:00",
+    "lastModifiedIso": "2026-08-07T15:05:02.525781+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -256,14 +256,14 @@ window.postsData = [
     "date": "07 ago 2026",
     "date_pt": "07 ago 2026",
     "date_en": "07 Aug 2026",
-    "time": "13h54",
-    "time_pt": "13h54",
-    "time_en": "13:54 UTC",
+    "time": "15h05",
+    "time_pt": "15h05",
+    "time_en": "15:05 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-07T13:54:03.495025+00:00",
-    "lastModifiedIso": "2026-08-07T13:54:03.495025+00:00",
+    "publishedIso": "2026-08-07T15:05:02.525731+00:00",
+    "lastModifiedIso": "2026-08-07T15:05:02.525731+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -361,14 +361,14 @@ window.postsData = [
     "date": "07 ago 2026",
     "date_pt": "07 ago 2026",
     "date_en": "07 Aug 2026",
-    "time": "13h54",
-    "time_pt": "13h54",
-    "time_en": "13:54 UTC",
+    "time": "15h05",
+    "time_pt": "15h05",
+    "time_en": "15:05 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-07T13:54:03.494979+00:00",
-    "lastModifiedIso": "2026-08-07T13:54:03.494979+00:00",
+    "publishedIso": "2026-08-07T15:05:02.525682+00:00",
+    "lastModifiedIso": "2026-08-07T15:05:02.525682+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -466,14 +466,14 @@ window.postsData = [
     "date": "07 ago 2026",
     "date_pt": "07 ago 2026",
     "date_en": "07 Aug 2026",
-    "time": "13h54",
-    "time_pt": "13h54",
-    "time_en": "13:54 UTC",
+    "time": "15h05",
+    "time_pt": "15h05",
+    "time_en": "15:05 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-07T13:54:03.494922+00:00",
-    "lastModifiedIso": "2026-08-07T13:54:03.494922+00:00",
+    "publishedIso": "2026-08-07T15:05:02.525618+00:00",
+    "lastModifiedIso": "2026-08-07T15:05:02.525618+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -534,6 +534,142 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "this-week-s-sky-at-a-glance-august-7-16",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_Aug07_ev_LIGHT_FEATURED.jpg",
+    "inline_images": [
+      {
+        "src": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_Aug07_ev_LIGHT.jpg",
+        "caption": "Vênus baixo no crepúsculo com Spica indo em direção a ele, 7 de agosto de 2026",
+        "caption_pt": "Vênus baixo no crepúsculo com Spica indo em direção a ele, 7 de agosto de 2026",
+        "caption_en": "Venus low in twilight with Spica heading toward it, Aug. 7, 2026",
+        "alt": "Vênus baixo no crepúsculo com Spica indo em direção a ele, 7 de agosto de 2026",
+        "alt_pt": "Vênus baixo no crepúsculo com Spica indo em direção a ele, 7 de agosto de 2026",
+        "alt_en": "Venus low in twilight with Spica heading toward it, Aug. 7, 2026"
+      },
+      {
+        "src": "https://dq0hsqwjhea1.cloudfront.net/WEBVic_Aug11_mo_LIGHT.jpg",
+        "caption": "A Lua crescente minguante nasce à esquerda de Marte por volta das 2h da manhã de domingo, dia 9. Ao amanhecer, os dois estão chapados. Na manhã de segunda-feira, dia 10, a Lua adelgaçante fica à direita de Castor e Pólux. Nessas duas manhãs olhe cedo.",
+        "caption_pt": "A Lua crescente minguante nasce à esquerda de Marte por volta das 2h da manhã de domingo, dia 9. Ao amanhecer, os dois estão chapados. Na manhã de segunda-feira, dia 10, a Lua adelgaçante fica à direita de Castor e Pólux. Nessas duas manhãs olhe cedo.",
+        "caption_en": "The waning crescent Moon rises left of Mars around 2 a.m. Sunday morning the 9th. By dawn the two of them are high. On Monday morning the 10th the slimming Moon hangs to the right of Castor and Pollux. On those two mornings look early.",
+        "alt": "A Lua crescente minguante passando por Marte, Castor e Pólux, e depois por Mercúrio nas madrugadas de 9, 10 e 11 de agosto de 2026",
+        "alt_pt": "A Lua crescente minguante passando por Marte, Castor e Pólux, e depois por Mercúrio nas madrugadas de 9, 10 e 11 de agosto de 2026",
+        "alt_en": "The waning crescent Moon passing Mars, Castor and Pollux, and then Mercury in the dawns of August 9, 10, and 11, 2026"
+      },
+      {
+        "src": "https://dq0hsqwjhea1.cloudfront.net/Little-and-Big-Dippers-with-lines-and-some-labels.jpg",
+        "caption": "Os Dippers estão posicionados após o anoitecer nesta época do ano. Se você consegue ver toda a Ursa Menor, você tem um céu mais escuro do que a maioria de nós. Mas Polaris e Kochab de 2ª magnitude estão em uma visualização muito mais fácil, e Pherkad de 3ª magnitude não.",
+        "caption_pt": "Os Dippers estão posicionados após o anoitecer nesta época do ano. Se você consegue ver toda a Ursa Menor, você tem um céu mais escuro do que a maioria de nós. Mas Polaris e Kochab de 2ª magnitude estão em uma visualização muito mais fácil, e Pherkad de 3ª magnitude não.",
+        "caption_en": "The Dippers as they're positioned after dark at this time of year. If you can see the whole Little Dipper you have a darker sky than most of us. But 2nd-magnitude Polaris and Kochab are in much easier view, and 3rd-magnitude Pherkad is not.",
+        "alt": "The Big e Little Dippers nas noites de agosto.",
+        "alt_pt": "The Big e Little Dippers nas noites de agosto.",
+        "alt_en": "The Big and Little Dippers on August evenings."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Visão geral do céu desta semana, 7 a 16 de agosto",
+    "title_pt": "Visão geral do céu desta semana, 7 a 16 de agosto",
+    "title_en": "This Week's Sky at a Glance, August 7 – 16",
+    "sub": "No crepúsculo, observe a ousada Vênus e a pequena Spica se aproximarem para se encontrarem em 1º de setembro. E verifique se você conseguirá ver alguma coisa do eclipse solar de.",
+    "sub_pt": "No crepúsculo, observe a ousada Vênus e a pequena Spica se aproximarem para se encontrarem em 1º de setembro. E verifique se você conseguirá ver alguma coisa do eclipse solar de.",
+    "sub_en": "In twilight, watch bold Venus and tiny Spica approach each other to meet September 1st. And check whether you'll be able to see anything of Wednesday's solar eclipse! The post.",
+    "excerpt": "No crepúsculo, observe a ousada Vênus e a pequena Spica se aproximarem para se encontrarem em 1º de setembro. E verifique se você conseguirá ver alguma coisa do eclipse solar de quarta-feira! A postagem Visão geral do céu desta semana, 7 de agosto de 16.",
+    "excerpt_pt": "No crepúsculo, observe a ousada Vênus e a pequena Spica se aproximarem para se encontrarem em 1º de setembro. E verifique se você conseguirá ver alguma coisa do eclipse solar de quarta-feira! A postagem Visão geral do céu desta semana, 7 de agosto de 16.",
+    "excerpt_en": "In twilight, watch bold Venus and tiny Spica approach each other to meet September 1st. And check whether you'll be able to see anything of Wednesday's solar eclipse! The post This Week's Sky at a Glance, August 7, 16 appeared first on Sky.",
+    "body": "<p>No crepúsculo, observe a ousada Vênus e a pequena Spica se aproximarem para se encontrarem em 1º de setembro. E verifique se você conseguirá ver alguma coisa do eclipse solar de quarta-feira! A postagem Visão geral do céu desta semana, 7 de agosto de 16, apareceu pela primeira. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O post Visão geral do céu desta semana, 7 a 16 de agosto apareceu pela primeira vez em Sky &amp; Telescope. Em 1994, uma coleção de livros com seus procedimentos de observação e passeios telescópicos pelo céu foi publicada como Star Hopping for Backyard Astronomers.</p><p>Spica, de 1ª magnitude, mas com menos de 1% de brilho, mesmo assim, está se aproximando de Vênus no canto superior esquerdo. ■ Na manhã de domingo, dia 9, antes e durante o amanhecer, a Lua crescente minguante brilha perto de Marte.</p><p>■ À medida que o amanhecer clareia na manhã de terça-feira, você consegue ver a Lua superfina, a pouco mais de um dia da nova, a apenas alguns graus de Mercúrio. Embora o boneco do Lagarto seja feito apenas de estrelas de 4ª a 5ª magnitude, ele é rico em enxames de fundo da Via Láctea.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/this-weeks-sky-at-a-glance-august-7-16/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>No crepúsculo, observe a ousada Vênus e a pequena Spica se aproximarem para se encontrarem em 1º de setembro. E verifique se você conseguirá ver alguma coisa do eclipse solar de quarta-feira! A postagem Visão geral do céu desta semana, 7 de agosto de 16, apareceu pela primeira. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O post Visão geral do céu desta semana, 7 a 16 de agosto apareceu pela primeira vez em Sky &amp; Telescope. Em 1994, uma coleção de livros com seus procedimentos de observação e passeios telescópicos pelo céu foi publicada como Star Hopping for Backyard Astronomers.</p><p>Spica, de 1ª magnitude, mas com menos de 1% de brilho, mesmo assim, está se aproximando de Vênus no canto superior esquerdo. ■ Na manhã de domingo, dia 9, antes e durante o amanhecer, a Lua crescente minguante brilha perto de Marte.</p><p>■ À medida que o amanhecer clareia na manhã de terça-feira, você consegue ver a Lua superfina, a pouco mais de um dia da nova, a apenas alguns graus de Mercúrio. Embora o boneco do Lagarto seja feito apenas de estrelas de 4ª a 5ª magnitude, ele é rico em enxames de fundo da Via Láctea.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/this-weeks-sky-at-a-glance-august-7-16/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>In twilight, watch bold Venus and tiny Spica approach each other to meet September 1st. And check whether you&#x27;ll be able to see anything of Wednesday&#x27;s solar eclipse! The post This Week&#x27;s Sky at a Glance, August 7, 16 appeared first on Sky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The post This Week&#x27;s Sky at a Glance, August 7, 16 appeared first on Sky &amp; Telescope. In 1994 a book collection of his observing how-tos and telescopic sky tours was published as Star Hopping for Backyard Astronomers.</p><p>Spica, 1st magnitude but less than 1% as bright even so, is closing in on Venus from the upper left. ■ On Sunday morning the 9th before and during early dawn, the waning crescent Moon shines near Mars.</p><p>■ As dawn brightens on Tuesday morning, can you catch the super-thin Moon, hardly more than a day from new, just a couple degrees from Mercury. Although the Lizard&#x27;s stick figure is made of only 4th to 5th-magnttude stars, it&#x27;s rich with Milky Way background swarms.</p><p>With a total magnitude of 6.7, this cluster is within reach of largish binoculars on dark moonless nights like we have this week. The cluster is a pretty, mottled haze in my 10x50s,&quot; writes Matt Wedel in his Binocular Highlight column (with chart) in the August Sky &amp; Telescope, page 43.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>At 3,800 light-years it&#x27;s pretty far out there for an open cluster one might study with binoculars. ■ New Moon, and eclipse of the Sun.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/this-weeks-sky-at-a-glance-august-7-16/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: No crepúsculo, observe a ousada Vênus e a pequena Spica se aproximarem para se encontrarem em 1º de setembro. E verifique se você conseguirá ver.",
+      "Dado-chave: O post Visão geral do céu desta semana, 7 a 16 de agosto apareceu pela primeira vez em Sky & Telescope.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: No crepúsculo, observe a ousada Vênus e a pequena Spica se aproximarem para se encontrarem em 1º de setembro. E verifique se você conseguirá ver.",
+      "Dado-chave: O post Visão geral do céu desta semana, 7 a 16 de agosto apareceu pela primeira vez em Sky & Telescope.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: In twilight, watch bold Venus and tiny Spica approach each other to meet September 1st. And check whether you'll be able to see anything of.",
+      "Key detail: The post This Week's Sky at a Glance, August 7, 16 appeared first on Sky & Telescope.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "07 ago 2026",
+    "date_pt": "07 ago 2026",
+    "date_en": "07 Aug 2026",
+    "time": "14h17",
+    "time_pt": "14h17",
+    "time_en": "14:17 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-07T14:17:24+00:00",
+    "lastModifiedIso": "2026-08-07T14:17:24+00:00",
+    "source": "Sky & Telescope",
+    "sourceDomain": "skyandtelescope.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Sky & Telescope",
+      "Cosmos Week",
+      "Visão geral do céu desta semana",
+      "7 a 16 de agosto"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Sky & Telescope",
+      "Cosmos Week",
+      "Visão geral do céu desta semana",
+      "7 a 16 de agosto"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Sky & Telescope",
+      "Cosmos Week",
+      "This week's sky overview",
+      "August 7th to 16th"
+    ],
+    "srcUrl": "https://skyandtelescope.org/astronomy-news/this-weeks-sky-at-a-glance-august-7-16/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=this-week-s-sky-at-a-glance-august-7-16",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=this-week-s-sky-at-a-glance-august-7-16",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=this-week-s-sky-at-a-glance-august-7-16&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 74,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "physicists-trace-solar-outbursts-that-led-to-historic-mother-s-day-storms",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -665,7 +801,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -679,7 +815,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "preview-to-totality-a-resource-guide-to-august-12th-total-solar-eclipse",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -828,7 +964,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "an-ultramassive-white-dwarf-half-earth-s-size-may-hold-a-rare-oxygen-neon-core",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -964,7 +1100,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "science-campaigns-planned-for-the-august-12th-total-solar-eclipse",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1097,258 +1233,7 @@ window.postsData = [
     }
   },
   {
-    "id": 10,
-    "slug": "sun-news-sun-s-tiny-whirlpools-finally-revealed",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://earthsky.org/upl/2026/08/August-26-Sun-activity-Kelvin-Helmholtz-Instability.-ezgif.com-video-to-webp-converter.webp",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Notícias do Sol: os pequenos redemoinhos do Sol finalmente revelados",
-    "title_pt": "Notícias do Sol: os pequenos redemoinhos do Sol finalmente revelados",
-    "title_en": "Sun news: Sun’s tiny whirlpools finally revealed",
-    "sub": "O Telescópio Solar Inouye capturou as imagens mais nítidas da superfície do Sol, revelando ondas semelhantes às do oceano no plasma solar. A postagem Notícias do Sol: Os pequenos.",
-    "sub_pt": "O Telescópio Solar Inouye capturou as imagens mais nítidas da superfície do Sol, revelando ondas semelhantes às do oceano no plasma solar. A postagem Notícias do Sol: Os pequenos.",
-    "sub_en": "The Inouye Solar Telescope captured the sharpest views yet of the sun's surface, revealing ocean-like waves in the solar plasma. The post Sun news: Sun’s tiny whirlpools finally.",
-    "excerpt": "O Telescópio Solar Inouye capturou as imagens mais nítidas da superfície do Sol, revelando ondas semelhantes às do oceano no plasma solar. A postagem Notícias do Sol: Os pequenos redemoinhos do Sol finalmente revelados apareceram pela primeira vez no EarthSky.",
-    "excerpt_pt": "O Telescópio Solar Inouye capturou as imagens mais nítidas da superfície do Sol, revelando ondas semelhantes às do oceano no plasma solar. A postagem Notícias do Sol: Os pequenos redemoinhos do Sol finalmente revelados apareceram pela primeira vez no EarthSky.",
-    "excerpt_en": "The Inouye Solar Telescope captured the sharpest views yet of the sun's surface, revealing ocean-like waves in the solar plasma. The post Sun news: Sun’s tiny whirlpools finally revealed first appeared on EarthSky.",
-    "body": "<p>O Telescópio Solar Inouye capturou as imagens mais nítidas da superfície do Sol, revelando ondas semelhantes às do oceano no plasma solar. A postagem Notícias do Sol: Os pequenos redemoinhos do Sol finalmente revelados apareceram pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. A imagem mais próxima revela detalhes sobre uma área de cerca de 100 quilómetros (cerca de 60 milhas), revelando uma estrutura nunca observada antes. Esta região apresentou nova produção e consolidação de fluxo.</p><p>No entanto, as CMEs previstas que o Sol lançou no dia 3 de agosto podem começar a chegar à Terra no final do dia 7 de agosto. O campo geomagnético manteve-se em níveis muito baixos (Kp 0) durante este período.</p><p>Tudo isso deve mudar com a chegada de pedaços de material solar, que podem desferir golpes de raspão e trazer melhorias a partir de hoje, 7 de agosto. Previsão Sol-Terra Previsão de atividade de flare: Os meteorologistas esperam que níveis muito baixos de atividade solar continuem até 8 de agosto.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O Telescópio Solar Inouye capturou as imagens mais nítidas da superfície do Sol, revelando ondas semelhantes às do oceano no plasma solar. A postagem Notícias do Sol: Os pequenos redemoinhos do Sol finalmente revelados apareceram pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. A imagem mais próxima revela detalhes sobre uma área de cerca de 100 quilómetros (cerca de 60 milhas), revelando uma estrutura nunca observada antes. Esta região apresentou nova produção e consolidação de fluxo.</p><p>No entanto, as CMEs previstas que o Sol lançou no dia 3 de agosto podem começar a chegar à Terra no final do dia 7 de agosto. O campo geomagnético manteve-se em níveis muito baixos (Kp 0) durante este período.</p><p>Tudo isso deve mudar com a chegada de pedaços de material solar, que podem desferir golpes de raspão e trazer melhorias a partir de hoje, 7 de agosto. Previsão Sol-Terra Previsão de atividade de flare: Os meteorologistas esperam que níveis muito baixos de atividade solar continuem até 8 de agosto.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The Inouye Solar Telescope captured the sharpest views yet of the sun&#x27;s surface, revealing ocean-like waves in the solar plasma. The post Sun news: Sun’s tiny whirlpools finally revealed first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. The closest image resolves detail on an area of about 100 kilometers (about 60 miles), revealing structure never observed before. This region showed new flux production and consolidation.</p><p>However, the anticipated CMEs the sun hurled out on August 3 may start reaching Earth late on August 7. The geomagnetic field held at very low levels ( Kp 0 ) during this period.</p><p>All this should change with the arrival of chunks of solar material, which might deliver glancing blows and bring enhancements starting later today, August 7. Sun, Earth forecast Flare activity forecast: Forecasters expect very low levels of solar activity to continue through August 8.</p><p>Starting with an 80,000-kilometer view from NASA SDO’s Helioseismic and Magnetic Imager (HMI), it zooms down to individual convective granules, intergranular lanes, and fine. Confirmed, solar material approaching Earth It’s now confirmed.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>The first arrival should come on August 7. These are all the chunks of solar stuff we’ve been reporting after several filament eruptions during the week, from August 3 to yesterday.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O Telescópio Solar Inouye capturou as imagens mais nítidas da superfície do Sol, revelando ondas semelhantes às do oceano no plasma solar. A postagem.",
-      "Dado-chave: A imagem mais próxima revela detalhes sobre uma área de cerca de 100 quilómetros (cerca de 60 milhas), revelando uma estrutura nunca observada.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O Telescópio Solar Inouye capturou as imagens mais nítidas da superfície do Sol, revelando ondas semelhantes às do oceano no plasma solar. A postagem.",
-      "Dado-chave: A imagem mais próxima revela detalhes sobre uma área de cerca de 100 quilómetros (cerca de 60 milhas), revelando uma estrutura nunca observada.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The Inouye Solar Telescope captured the sharpest views yet of the sun's surface, revealing ocean-like waves in the solar plasma. The post Sun news.",
-      "Key detail: The closest image resolves detail on an area of about 100 kilometers (about 60 miles), revealing structure never observed before.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "07 ago 2026",
-    "date_pt": "07 ago 2026",
-    "date_en": "07 Aug 2026",
-    "time": "11h41",
-    "time_pt": "11h41",
-    "time_en": "11:41 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-07T11:41:53+00:00",
-    "lastModifiedIso": "2026-08-07T11:41:53+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Física",
-      "EarthSky",
-      "Cosmos Week",
-      "Notícias do Sol",
-      "os pequenos redemoinhos do Sol finalmente revelados"
-    ],
-    "keywords_pt": [
-      "Física",
-      "EarthSky",
-      "Cosmos Week",
-      "Notícias do Sol",
-      "os pequenos redemoinhos do Sol finalmente revelados"
-    ],
-    "keywords_en": [
-      "Physical",
-      "EarthSky",
-      "Cosmos Week",
-      "Sun News",
-      "the little swirls of the Sun finally revealed"
-    ],
-    "srcUrl": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-sun-s-tiny-whirlpools-finally-revealed",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-sun-s-tiny-whirlpools-finally-revealed",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-sun-s-tiny-whirlpools-finally-revealed&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 73,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 82,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
     "id": 11,
-    "slug": "educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/Educators_and_Teens_Get_Hands-On_With_TEMPO_Data_to_Help_Investigate_Local_Air_Quality.jpg?w=2000&h=1368&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-week-of-smoky-skies-across-north-america/nambrowncarbon_geos5_20260720_th.jpg?w=3209&h=2139&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/13299_Aerials.jpg?w=4096&h=2160&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ontario-wildfire-smoke-drifts-east/ontariofires_virs3_20260714_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Educadores e adolescentes experimentam dados do TEMPO para ajudar a investigar a qualidade do ar local",
-    "title_pt": "Educadores e adolescentes experimentam dados do TEMPO para ajudar a investigar a qualidade do ar local",
-    "title_en": "Educators & Teens Get Hands-On With TEMPO Data to Help Investigate Local Air Quality",
-    "sub": "O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar.",
-    "sub_pt": "O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar.",
-    "sub_en": "The NASA Science Activation Program’s Cosmic Storytelling with NASA Data project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into.",
-    "excerpt": "O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026.",
-    "excerpt_pt": "O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026.",
-    "excerpt_en": "The NASA Science Activation Program’s Cosmic Storytelling with NASA Data project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into the hands of educators and learners. From July 27, 29, 2026.",
-    "body": "<p>O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha. De 27 a 29 de julho de 2026, a equipe CosmicDS fez parceria com o projeto BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) do Smithsonian Institution para.</p><p>O TEMPO-Lab permite que os alunos explorem e analisem medições de qualidade do ar quase em tempo real coletadas pela missão TEMPO (Emissões Troposféricas: Monitoramento da. “O BEST AQI Leadership Institute reforçou o valor do TEMPO-Lab como uma ferramenta para capacitar os jovens a investigar questões locais de qualidade do ar usando dados autênticos.</p><p>No primeiro dia do Instituto, o investigador principal da CosmicDS Science, Pat Udomprasert, liderou uma sessão de imersão prática apresentando aos educadores o TEMPO-Lab, um. Visão geral Recursos Oportunidades Destaques da ciência cidadã Sobre a ativação científica 4 min de leitura do artigo Um educador explora os dados da missão TEMPO da NASA usando o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha. De 27 a 29 de julho de 2026, a equipe CosmicDS fez parceria com o projeto BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) do Smithsonian Institution para.</p><p>O TEMPO-Lab permite que os alunos explorem e analisem medições de qualidade do ar quase em tempo real coletadas pela missão TEMPO (Emissões Troposféricas: Monitoramento da. “O BEST AQI Leadership Institute reforçou o valor do TEMPO-Lab como uma ferramenta para capacitar os jovens a investigar questões locais de qualidade do ar usando dados autênticos.</p><p>No primeiro dia do Instituto, o investigador principal da CosmicDS Science, Pat Udomprasert, liderou uma sessão de imersão prática apresentando aos educadores o TEMPO-Lab, um. Visão geral Recursos Oportunidades Destaques da ciência cidadã Sobre a ativação científica 4 min de leitura do artigo Um educador explora os dados da missão TEMPO da NASA usando o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The NASA Science Activation Program’s Cosmic Storytelling with NASA Data project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into the hands of educators and learners. From July 27, 29, 2026. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The NASA Science Activation Program’s Cosmic Storytelling with NASA Data (CosmicDS) project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA. From July 27, 29, 2026, the CosmicDS team partnered with the Smithsonian Institution’s BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) project to.</p><p>TEMPO-Lab lets learners explore and analyze near-real-time air quality measurements collected by NASA’s TEMPO (Tropospheric Emissions: Monitoring of Pollution) mission, which. “The BEST AQI Leadership Institute reinforced the value of the TEMPO-Lab as a tool for empowering youth to investigate local air quality issues using authentic NASA data.</p><p>On Day 1 of the Institute, the CosmicDS Science Principal Investigator Pat Udomprasert led a hands-on immersion session introducing educators to TEMPO-Lab, a Science Science. Overview Resources Opportunities Citizen Science Highlights About Science Activation 4 min read Article An educator explores NASA&#x27;s TEMPO mission data using the CosmicDS TEMPO-Lab.</p><p>On Day 1 of the Institute, the CosmicDS Science Principal Investigator Pat Udomprasert led a hands-on immersion session introducing educators to TEMPO-Lab, a free online tool. TEMPO-Lab lets learners explore and analyze near-real-time air quality measurements collected by NASA&#x27;s TEMPO (Tropospheric Emissions: Monitoring of Pollution) mission, which.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>During Days 2 and 3 of the Institute, as educators worked together to co-develop BEST AQI curriculum and resources, they used TEMPO-Lab to build case studies covering a variety of. During a science briefing, TEMPO scientist Heesung Chong shared that a new beta-version ground-level ozone data product had recently become available.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge.",
-      "Dado-chave: O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge.",
-      "Dado-chave: O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The NASA Science Activation Program’s Cosmic Storytelling with NASA Data project, led by Harvard University in Cambridge, Massachusetts, works to.",
-      "Key detail: The NASA Science Activation Program’s Cosmic Storytelling with NASA Data (CosmicDS) project, led by Harvard University in Cambridge.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "06 ago 2026",
-    "date_pt": "06 ago 2026",
-    "date_en": "06 Aug 2026",
-    "time": "19h33",
-    "time_pt": "19h33",
-    "time_en": "19:33 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-06T19:33:32+00:00",
-    "lastModifiedIso": "2026-08-06T19:33:32+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Educadores e adolescentes experimentam dados do TEMPO para ajudar a investigar a qualidade do ar local"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Educadores e adolescentes experimentam dados do TEMPO para ajudar a investigar a qualidade do ar local"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Educators and teens experiment with TEMPO data to help investigate local air quality"
-    ],
-    "srcUrl": "https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 81,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 12,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1484,7 +1369,7 @@ window.postsData = [
     }
   },
   {
-    "id": 13,
+    "id": 12,
     "slug": "science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1623,7 +1508,7 @@ window.postsData = [
     }
   },
   {
-    "id": 14,
+    "id": 13,
     "slug": "space-kit-for-future-away-missions-tested-in-scotland",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1756,7 +1641,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 14,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1892,7 +1777,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 15,
     "slug": "astronomers-catch-hatchling-quasar-breaking-out-of-its-dusty-cocoon",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2025,7 +1910,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 16,
     "slug": "mapping-monsters-data-release-unveils-all-sky-views-of-supermassive-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2161,7 +2046,7 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 17,
     "slug": "zodiacal-dust-in-exoplanetary-systems-could-hinder-our-search-for-life-on-other-worlds",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2266,7 +2151,7 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
+    "id": 18,
     "slug": "veiled-in-starlight-impacts-of-stellar-contamination-on-retrievals-of-trappist-1f-s-atmospheric-",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2374,7 +2259,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 19,
     "slug": "exploration-of-exoplanet-atmospheres-with-the-james-webb-space-telescope",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2476,6 +2361,124 @@ window.postsData = [
       "relevance": 94,
       "accessibility": 60,
       "novelty": 52
+    }
+  },
+  {
+    "id": 20,
+    "slug": "sun-news-sun-s-tiny-whirlpools-finally-revealed",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://earthsky.org/upl/2026/08/August-26-Sun-activity-Kelvin-Helmholtz-Instability.-ezgif.com-video-to-webp-converter.webp",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Notícias do Sol: os pequenos redemoinhos do Sol finalmente revelados",
+    "title_pt": "Notícias do Sol: os pequenos redemoinhos do Sol finalmente revelados",
+    "title_en": "Sun news: Sun’s tiny whirlpools finally revealed",
+    "sub": "O Telescópio Solar Inouye capturou as imagens mais nítidas da superfície do Sol, revelando ondas semelhantes às do oceano no plasma solar. A postagem Notícias do Sol: Os pequenos.",
+    "sub_pt": "O Telescópio Solar Inouye capturou as imagens mais nítidas da superfície do Sol, revelando ondas semelhantes às do oceano no plasma solar. A postagem Notícias do Sol: Os pequenos.",
+    "sub_en": "The Inouye Solar Telescope captured the sharpest views yet of the sun's surface, revealing ocean-like waves in the solar plasma. The post Sun news: Sun’s tiny whirlpools finally.",
+    "excerpt": "O Telescópio Solar Inouye capturou as imagens mais nítidas da superfície do Sol, revelando ondas semelhantes às do oceano no plasma solar. A postagem Notícias do Sol: Os pequenos redemoinhos do Sol finalmente revelados apareceram pela primeira vez no EarthSky.",
+    "excerpt_pt": "O Telescópio Solar Inouye capturou as imagens mais nítidas da superfície do Sol, revelando ondas semelhantes às do oceano no plasma solar. A postagem Notícias do Sol: Os pequenos redemoinhos do Sol finalmente revelados apareceram pela primeira vez no EarthSky.",
+    "excerpt_en": "The Inouye Solar Telescope captured the sharpest views yet of the sun's surface, revealing ocean-like waves in the solar plasma. The post Sun news: Sun’s tiny whirlpools finally revealed first appeared on EarthSky.",
+    "body": "<p>O Telescópio Solar Inouye capturou as imagens mais nítidas da superfície do Sol, revelando ondas semelhantes às do oceano no plasma solar. A postagem Notícias do Sol: Os pequenos redemoinhos do Sol finalmente revelados apareceram pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. A imagem mais próxima revela detalhes sobre uma área de cerca de 100 quilómetros (cerca de 60 milhas), revelando uma estrutura nunca observada antes. Esta região apresentou nova produção e consolidação de fluxo.</p><p>No entanto, as CMEs previstas que o Sol lançou no dia 3 de agosto podem começar a chegar à Terra no final do dia 7 de agosto. O campo geomagnético manteve-se em níveis muito baixos (Kp 0) durante este período.</p><p>Tudo isso deve mudar com a chegada de pedaços de material solar, que podem desferir golpes de raspão e trazer melhorias a partir de hoje, 7 de agosto. Previsão Sol-Terra Previsão de atividade de flare: Os meteorologistas esperam que níveis muito baixos de atividade solar continuem até 8 de agosto.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O Telescópio Solar Inouye capturou as imagens mais nítidas da superfície do Sol, revelando ondas semelhantes às do oceano no plasma solar. A postagem Notícias do Sol: Os pequenos redemoinhos do Sol finalmente revelados apareceram pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. A imagem mais próxima revela detalhes sobre uma área de cerca de 100 quilómetros (cerca de 60 milhas), revelando uma estrutura nunca observada antes. Esta região apresentou nova produção e consolidação de fluxo.</p><p>No entanto, as CMEs previstas que o Sol lançou no dia 3 de agosto podem começar a chegar à Terra no final do dia 7 de agosto. O campo geomagnético manteve-se em níveis muito baixos (Kp 0) durante este período.</p><p>Tudo isso deve mudar com a chegada de pedaços de material solar, que podem desferir golpes de raspão e trazer melhorias a partir de hoje, 7 de agosto. Previsão Sol-Terra Previsão de atividade de flare: Os meteorologistas esperam que níveis muito baixos de atividade solar continuem até 8 de agosto.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The Inouye Solar Telescope captured the sharpest views yet of the sun&#x27;s surface, revealing ocean-like waves in the solar plasma. The post Sun news: Sun’s tiny whirlpools finally revealed first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. The closest image resolves detail on an area of about 100 kilometers (about 60 miles), revealing structure never observed before. This region showed new flux production and consolidation.</p><p>However, the anticipated CMEs the sun hurled out on August 3 may start reaching Earth late on August 7. The geomagnetic field held at very low levels ( Kp 0 ) during this period.</p><p>All this should change with the arrival of chunks of solar material, which might deliver glancing blows and bring enhancements starting later today, August 7. Sun, Earth forecast Flare activity forecast: Forecasters expect very low levels of solar activity to continue through August 8.</p><p>Starting with an 80,000-kilometer view from NASA SDO’s Helioseismic and Magnetic Imager (HMI), it zooms down to individual convective granules, intergranular lanes, and fine. Confirmed, solar material approaching Earth It’s now confirmed.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>The first arrival should come on August 7. These are all the chunks of solar stuff we’ve been reporting after several filament eruptions during the week, from August 3 to yesterday.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O Telescópio Solar Inouye capturou as imagens mais nítidas da superfície do Sol, revelando ondas semelhantes às do oceano no plasma solar. A postagem.",
+      "Dado-chave: A imagem mais próxima revela detalhes sobre uma área de cerca de 100 quilómetros (cerca de 60 milhas), revelando uma estrutura nunca observada.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O Telescópio Solar Inouye capturou as imagens mais nítidas da superfície do Sol, revelando ondas semelhantes às do oceano no plasma solar. A postagem.",
+      "Dado-chave: A imagem mais próxima revela detalhes sobre uma área de cerca de 100 quilómetros (cerca de 60 milhas), revelando uma estrutura nunca observada.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The Inouye Solar Telescope captured the sharpest views yet of the sun's surface, revealing ocean-like waves in the solar plasma. The post Sun news.",
+      "Key detail: The closest image resolves detail on an area of about 100 kilometers (about 60 miles), revealing structure never observed before.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "07 ago 2026",
+    "date_pt": "07 ago 2026",
+    "date_en": "07 Aug 2026",
+    "time": "11h41",
+    "time_pt": "11h41",
+    "time_en": "11:41 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-07T11:41:53+00:00",
+    "lastModifiedIso": "2026-08-07T11:41:53+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "EarthSky",
+      "Cosmos Week",
+      "Notícias do Sol",
+      "os pequenos redemoinhos do Sol finalmente revelados"
+    ],
+    "keywords_pt": [
+      "Física",
+      "EarthSky",
+      "Cosmos Week",
+      "Notícias do Sol",
+      "os pequenos redemoinhos do Sol finalmente revelados"
+    ],
+    "keywords_en": [
+      "Physical",
+      "EarthSky",
+      "Cosmos Week",
+      "Sun News",
+      "the little swirls of the Sun finally revealed"
+    ],
+    "srcUrl": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-sun-s-tiny-whirlpools-finally-revealed",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-sun-s-tiny-whirlpools-finally-revealed",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-sun-s-tiny-whirlpools-finally-revealed&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 73,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 82,
+      "accessibility": 60,
+      "novelty": 55
     }
   },
   {
@@ -2752,8 +2755,8 @@ window.postsData = [
       "title": "Sentindo o calor oculto dos poloneses - NASA Science",
       "title_pt": "Sentindo o calor oculto dos poloneses - NASA Science",
       "title_en": "Sensing the Poles’ Hidden Heat - NASA Science",
-      "caption": "Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártica.",
-      "caption_pt": "Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártica.",
+      "caption": "Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártida.",
+      "caption_pt": "Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártida.",
       "caption_en": "New animations from NASA's PREFIRE mission reveal two years of seasonal temperature swings at the Arctic and Antarctic.",
       "sourcePage": "https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/"
     },
@@ -2761,23 +2764,23 @@ window.postsData = [
     "title": "Sentindo o calor oculto dos poloneses",
     "title_pt": "Sentindo o calor oculto dos poloneses",
     "title_en": "Sensing the Poles’ Hidden Heat",
-    "sub": "Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártica.",
-    "sub_pt": "Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártica.",
+    "sub": "Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártida.",
+    "sub_pt": "Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártida.",
     "sub_en": "New animations from NASA’s PREFIRE mission reveal two years of seasonal temperature swings at the Arctic and Antarctic.",
-    "excerpt": "Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártica.",
-    "excerpt_pt": "Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártica.",
+    "excerpt": "Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártida.",
+    "excerpt_pt": "Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártida.",
     "excerpt_en": "New animations from NASA’s PREFIRE mission reveal two years of seasonal temperature swings at the Arctic and Antarctic.",
-    "body": "<p>Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártica. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>Os dados para a animação vêm dos satélites PREFIRE (Polar Radiant Energy in the Far-InfraRed Experiment) da NASA. Os CubeSats gêmeos da missão começaram a coletar dados científicos em julho de 2024 e agora capturaram dois ciclos sazonais completos em cada pólo.</p><p>A luz solar absorvida pela superfície é re-irradiada como calor infravermelho, que salta entre a superfície da Terra e a atmosfera antes de escapar para o espaço.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártica. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>Os dados para a animação vêm dos satélites PREFIRE (Polar Radiant Energy in the Far-InfraRed Experiment) da NASA. Os CubeSats gêmeos da missão começaram a coletar dados científicos em julho de 2024 e agora capturaram dois ciclos sazonais completos em cada pólo.</p><p>A luz solar absorvida pela superfície é re-irradiada como calor infravermelho, que salta entre a superfície da Terra e a atmosfera antes de escapar para o espaço.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body": "<p>Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártida. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>Os dados para a animação vêm dos satélites PREFIRE (Polar Radiant Energy in the Far-InfraRed Experiment) da NASA. Os CubeSats gêmeos da missão começaram a coletar dados científicos em julho de 2024 e agora capturaram dois ciclos sazonais completos em cada pólo.</p><p>A luz solar absorvida pela superfície é re-irradiada como calor infravermelho, que salta entre a superfície da Terra e a atmosfera antes de escapar para o espaço.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártida. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>Os dados para a animação vêm dos satélites PREFIRE (Polar Radiant Energy in the Far-InfraRed Experiment) da NASA. Os CubeSats gêmeos da missão começaram a coletar dados científicos em julho de 2024 e agora capturaram dois ciclos sazonais completos em cada pólo.</p><p>A luz solar absorvida pela superfície é re-irradiada como calor infravermelho, que salta entre a superfície da Terra e a atmosfera antes de escapar para o espaço.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>New animations from NASA’s PREFIRE mission reveal two years of seasonal temperature swings at the Arctic and Antarctic. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet. Earth Observatory Image of the Day NASA’s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p><p>Data for the animation come from NASA’s PREFIRE (Polar Radiant Energy in the Far-InfraRed Experiment) satellites. The mission’s twin CubeSats began collecting science data in July 2024 and have now captured two complete seasonal cycles at each pole.</p><p>Sunlight absorbed by the surface is re-radiated as infrared heat, which bounces between Earth’s surface and atmosphere before escaping to space. Long known that far-infrared radiation accounts for nearly 60 percent of the energy Earth loses to space, but that portion of the spectrum, invisible to human.</p><p>By directly tracking this invisible energy in near-real-time, the PREFIRE mission is helping scientists refine models and gain a better understanding of the Earth system. “Now that the invisible has been made visible, we can begin to improve weather and climate predictions that industries, our national defense, and Arctic communities rely on.” Maps.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Article 1 2 3 4 Next Keep Exploring Discover More from NASA Earth Science Subscribe to Earth Observatory Newsletters Subscribe to the Earth Observatory and get the Earth in your. NASA&#x27;s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártica.",
-      "Dado-chave: Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártica.",
+      "Ponto central: Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártida.",
+      "Dado-chave: Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártida.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártica.",
-      "Dado-chave: Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártica.",
+      "Ponto central: Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártida.",
+      "Dado-chave: Novas animações da missão PREFIRE da NASA revelam dois anos de oscilações sazonais de temperatura no Ártico e na Antártida.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
@@ -2856,6 +2859,139 @@ window.postsData = [
   },
   {
     "id": 24,
+    "slug": "educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/Educators_and_Teens_Get_Hands-On_With_TEMPO_Data_to_Help_Investigate_Local_Air_Quality.jpg?w=2000&h=1368&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-week-of-smoky-skies-across-north-america/nambrowncarbon_geos5_20260720_th.jpg?w=3209&h=2139&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/13299_Aerials.jpg?w=4096&h=2160&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ontario-wildfire-smoke-drifts-east/ontariofires_virs3_20260714_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Educadores e adolescentes experimentam dados do TEMPO para ajudar a investigar a qualidade do ar local",
+    "title_pt": "Educadores e adolescentes experimentam dados do TEMPO para ajudar a investigar a qualidade do ar local",
+    "title_en": "Educators & Teens Get Hands-On With TEMPO Data to Help Investigate Local Air Quality",
+    "sub": "O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar.",
+    "sub_pt": "O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar.",
+    "sub_en": "The NASA Science Activation Program’s Cosmic Storytelling with NASA Data project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into.",
+    "excerpt": "O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026.",
+    "excerpt_pt": "O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026.",
+    "excerpt_en": "The NASA Science Activation Program’s Cosmic Storytelling with NASA Data project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into the hands of educators and learners. From July 27, 29, 2026.",
+    "body": "<p>O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha. De 27 a 29 de julho de 2026, a equipe CosmicDS fez parceria com o projeto BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) do Smithsonian Institution para.</p><p>O TEMPO-Lab permite que os alunos explorem e analisem medições de qualidade do ar quase em tempo real coletadas pela missão TEMPO (Emissões Troposféricas: Monitoramento da. “O BEST AQI Leadership Institute reforçou o valor do TEMPO-Lab como uma ferramenta para capacitar os jovens a investigar questões locais de qualidade do ar usando dados autênticos.</p><p>No primeiro dia do Instituto, o investigador principal da CosmicDS Science, Pat Udomprasert, liderou uma sessão de imersão prática apresentando aos educadores o TEMPO-Lab, um. Visão geral Recursos Oportunidades Destaques da ciência cidadã Sobre a ativação científica 4 min de leitura do artigo Um educador explora os dados da missão TEMPO da NASA usando o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha. De 27 a 29 de julho de 2026, a equipe CosmicDS fez parceria com o projeto BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) do Smithsonian Institution para.</p><p>O TEMPO-Lab permite que os alunos explorem e analisem medições de qualidade do ar quase em tempo real coletadas pela missão TEMPO (Emissões Troposféricas: Monitoramento da. “O BEST AQI Leadership Institute reforçou o valor do TEMPO-Lab como uma ferramenta para capacitar os jovens a investigar questões locais de qualidade do ar usando dados autênticos.</p><p>No primeiro dia do Instituto, o investigador principal da CosmicDS Science, Pat Udomprasert, liderou uma sessão de imersão prática apresentando aos educadores o TEMPO-Lab, um. Visão geral Recursos Oportunidades Destaques da ciência cidadã Sobre a ativação científica 4 min de leitura do artigo Um educador explora os dados da missão TEMPO da NASA usando o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The NASA Science Activation Program’s Cosmic Storytelling with NASA Data project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into the hands of educators and learners. From July 27, 29, 2026. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The NASA Science Activation Program’s Cosmic Storytelling with NASA Data (CosmicDS) project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA. From July 27, 29, 2026, the CosmicDS team partnered with the Smithsonian Institution’s BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) project to.</p><p>TEMPO-Lab lets learners explore and analyze near-real-time air quality measurements collected by NASA’s TEMPO (Tropospheric Emissions: Monitoring of Pollution) mission, which. “The BEST AQI Leadership Institute reinforced the value of the TEMPO-Lab as a tool for empowering youth to investigate local air quality issues using authentic NASA data.</p><p>On Day 1 of the Institute, the CosmicDS Science Principal Investigator Pat Udomprasert led a hands-on immersion session introducing educators to TEMPO-Lab, a Science Science. Overview Resources Opportunities Citizen Science Highlights About Science Activation 4 min read Article An educator explores NASA&#x27;s TEMPO mission data using the CosmicDS TEMPO-Lab.</p><p>On Day 1 of the Institute, the CosmicDS Science Principal Investigator Pat Udomprasert led a hands-on immersion session introducing educators to TEMPO-Lab, a free online tool. TEMPO-Lab lets learners explore and analyze near-real-time air quality measurements collected by NASA&#x27;s TEMPO (Tropospheric Emissions: Monitoring of Pollution) mission, which.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>During Days 2 and 3 of the Institute, as educators worked together to co-develop BEST AQI curriculum and resources, they used TEMPO-Lab to build case studies covering a variety of. During a science briefing, TEMPO scientist Heesung Chong shared that a new beta-version ground-level ozone data product had recently become available.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge.",
+      "Dado-chave: O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge.",
+      "Dado-chave: O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The NASA Science Activation Program’s Cosmic Storytelling with NASA Data project, led by Harvard University in Cambridge, Massachusetts, works to.",
+      "Key detail: The NASA Science Activation Program’s Cosmic Storytelling with NASA Data (CosmicDS) project, led by Harvard University in Cambridge.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "06 ago 2026",
+    "date_pt": "06 ago 2026",
+    "date_en": "06 Aug 2026",
+    "time": "19h33",
+    "time_pt": "19h33",
+    "time_en": "19:33 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-06T19:33:32+00:00",
+    "lastModifiedIso": "2026-08-06T19:33:32+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Educadores e adolescentes experimentam dados do TEMPO para ajudar a investigar a qualidade do ar local"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Educadores e adolescentes experimentam dados do TEMPO para ajudar a investigar a qualidade do ar local"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Educators and teens experiment with TEMPO data to help investigate local air quality"
+    ],
+    "srcUrl": "https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 81,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 25,
     "slug": "webb-reveals-millions-of-stars-in-nearby-galaxy",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2960,7 +3096,7 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3096,7 +3232,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3232,7 +3368,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "your-chance-to-run-software-in-deep-space-on-esa-s-asteroid-mission",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3333,11 +3469,11 @@ window.postsData = [
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 52
+      "novelty": 49
     }
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "a-new-way-to-map-the-universe-s-missing-matter",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3470,7 +3606,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "all-i-need-for-a-night-of-stargazing-is",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3585,7 +3721,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "a-perfectly-timed-perseid-meteor-shower",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3714,140 +3850,7 @@ window.postsData = [
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 31,
-    "slug": "inouye-solar-telescope-sees-the-sun-closer-than-ever",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://dq0hsqwjhea1.cloudfront.net/kelvin-helmholtz-sun.webp",
-    "inline_images": [
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/theme/src/img/comment.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/Screenshot2026-08-02125624-ezgif.com-jpg-to-webp-converter.webp",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/Perseids-over-Switzerland-Orest-Shvadchak-S.webp",
-        "caption": "Perseidas 2018",
-        "caption_pt": "Perseidas 2018",
-        "caption_en": "Perseids 2018",
-        "alt": "Perseidas 2018",
-        "alt_pt": "Perseidas 2018",
-        "alt_en": "Perseids 2018"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Telescópio Solar Inouye vê o Sol mais perto do que nunca",
-    "title_pt": "Telescópio Solar Inouye vê o Sol mais perto do que nunca",
-    "title_en": "Inouye Solar Telescope Sees the Sun Closer Than Ever",
-    "sub": "Cientistas que observaram o Sol com o Telescópio Solar Daniel K. Inouye capturaram uma forma de onda que nunca foi vista na superfície visível do Sol. O post Telescópio Solar.",
-    "sub_pt": "Cientistas que observaram o Sol com o Telescópio Solar Daniel K. Inouye capturaram uma forma de onda que nunca foi vista na superfície visível do Sol. O post Telescópio Solar.",
-    "sub_en": "Scientists observing the Sun with the Daniel K. Inouye Solar Telescope have caught a wave-like shape that's never been seen on the Sun's visible surface. The post Inouye Solar.",
-    "excerpt": "Cientistas que observaram o Sol com o Telescópio Solar Daniel K. Inouye capturaram uma forma de onda que nunca foi vista na superfície visível do Sol. O post Telescópio Solar Inouye vê o Sol mais perto do que nunca apareceu pela primeira vez em Sky &.",
-    "excerpt_pt": "Cientistas que observaram o Sol com o Telescópio Solar Daniel K. Inouye capturaram uma forma de onda que nunca foi vista na superfície visível do Sol. O post Telescópio Solar Inouye vê o Sol mais perto do que nunca apareceu pela primeira vez em Sky &.",
-    "excerpt_en": "Scientists observing the Sun with the Daniel K. Inouye Solar Telescope have caught a wave-like shape that's never been seen on the Sun's visible surface. The post Inouye Solar Telescope Sees the Sun Closer Than Ever appeared first on Sky &.",
-    "body": "<p>Cientistas que observaram o Sol com o Telescópio Solar Daniel K. Inouye capturaram uma forma de onda que nunca foi vista na superfície visível do Sol. O post Telescópio Solar Inouye vê o Sol mais perto do que nunca apareceu pela primeira vez em Sky &amp;. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O post Telescópio Solar Inouye vê o Sol mais perto do que nunca apareceu pela primeira vez em Sky &amp; Telescope. Cientistas observando o Sol com o Daniel K.</p><p>Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestes e as últimas notícias de astronomia Sim, gostaria de receber e-mails da Sky &amp;. (Você pode cancelar a inscrição a qualquer momento) Cientistas observando o Sol com o Daniel K.</p><p>Eles são fascinantes de assistir, mas também são essenciais para o transporte de energia na atmosfera do Sol. Vemos estas formas onduladas em todo o sistema solar: vemos-nas nas nuvens da Terra e nos oceanos varridos pelo vento e entre as faixas na atmosfera superior de Saturno.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/inouye-solar-telescope-sees-the-sun-closer-than-ever/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Cientistas que observaram o Sol com o Telescópio Solar Daniel K. Inouye capturaram uma forma de onda que nunca foi vista na superfície visível do Sol. O post Telescópio Solar Inouye vê o Sol mais perto do que nunca apareceu pela primeira vez em Sky &amp;. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O post Telescópio Solar Inouye vê o Sol mais perto do que nunca apareceu pela primeira vez em Sky &amp; Telescope. Cientistas observando o Sol com o Daniel K.</p><p>Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestes e as últimas notícias de astronomia Sim, gostaria de receber e-mails da Sky &amp;. (Você pode cancelar a inscrição a qualquer momento) Cientistas observando o Sol com o Daniel K.</p><p>Eles são fascinantes de assistir, mas também são essenciais para o transporte de energia na atmosfera do Sol. Vemos estas formas onduladas em todo o sistema solar: vemos-nas nas nuvens da Terra e nos oceanos varridos pelo vento e entre as faixas na atmosfera superior de Saturno.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/inouye-solar-telescope-sees-the-sun-closer-than-ever/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Scientists observing the Sun with the Daniel K. Inouye Solar Telescope have caught a wave-like shape that&#x27;s never been seen on the Sun&#x27;s visible surface. The post Inouye Solar Telescope Sees the Sun Closer Than Ever appeared first on Sky &amp;. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The post Inouye Solar Telescope Sees the Sun Closer Than Ever appeared first on Sky &amp; Telescope. Scientists observing the Sun with the Daniel K.</p><p>Explore the universe with Sky &amp; Telescope, your ultimate source for stargazing, celestial events, and the latest astronomy news Yes, I would like to receive emails from Sky &amp;. (You can unsubscribe anytime) Scientists observing the Sun with the Daniel K.</p><p>They’re mesmerizing to watch, but they’re also key to the transportation of energy in the Sun’s atmosphere. We see these wave-like shapes throughout the solar system: We see them in Earth’s clouds and wind-swept ocean and between stripes in Saturn’s upper atmosphere.</p><p>Now, the National Science Foundation’s 4-meter Daniel K. Inouye Solar Telescope, near the summit of Maui’s Haleakalā, has given us a view fine enough to reveal such details, published August 5th in Nature.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Zooming into an active region near a sunspot, David Kuridze (National Solar Observatory) and colleagues watched the boiling motions of plasma on the Sun at a wavelength of 416. (Just like in sunspots, the edges of granules appear darker because the plasma there is cooler.) There, where the plasma flows converge, so, too, do the magnetic field lines that.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/inouye-solar-telescope-sees-the-sun-closer-than-ever/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Cientistas que observaram o Sol com o Telescópio Solar Daniel K. Inouye capturaram uma forma de onda que nunca foi vista na superfície visível do.",
-      "Dado-chave: O post Telescópio Solar Inouye vê o Sol mais perto do que nunca apareceu pela primeira vez em Sky & Telescope.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Cientistas que observaram o Sol com o Telescópio Solar Daniel K. Inouye capturaram uma forma de onda que nunca foi vista na superfície visível do.",
-      "Dado-chave: O post Telescópio Solar Inouye vê o Sol mais perto do que nunca apareceu pela primeira vez em Sky & Telescope.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Scientists observing the Sun with the Daniel K. Inouye Solar Telescope have caught a wave-like shape that's never been seen on the Sun's visible.",
-      "Key detail: The post Inouye Solar Telescope Sees the Sun Closer Than Ever appeared first on Sky & Telescope.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "05 ago 2026",
-    "date_pt": "05 ago 2026",
-    "date_en": "05 Aug 2026",
-    "time": "15h01",
-    "time_pt": "15h01",
-    "time_en": "15:01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-05T15:01:00+00:00",
-    "lastModifiedIso": "2026-08-05T15:01:00+00:00",
-    "source": "Sky & Telescope",
-    "sourceDomain": "skyandtelescope.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Telescópio Solar Inouye vê o Sol mais perto do que nunca"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Telescópio Solar Inouye vê o Sol mais perto do que nunca"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Inouye Solar Telescope sees the Sun closer than ever"
-    ],
-    "srcUrl": "https://skyandtelescope.org/astronomy-news/inouye-solar-telescope-sees-the-sun-closer-than-ever/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=inouye-solar-telescope-sees-the-sun-closer-than-ever",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=inouye-solar-telescope-sees-the-sun-closer-than-ever",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=inouye-solar-telescope-sees-the-sun-closer-than-ever&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 74,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
+      "novelty": 49
     }
   },
   {
@@ -3868,9 +3871,9 @@ window.postsData = [
     "excerpt": "Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a nova constelação de satélites emblemática da União Europeia. O acordo, entre outros.",
     "excerpt_pt": "Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a nova constelação de satélites emblemática da União Europeia. O acordo, entre outros.",
     "excerpt_en": "On 7 August, the European Commission and the SpaceRISE consortium concluded negotiations and signed an implementation agreement to roll out IRIS², the European Union’s new flagship satellite constellation. The agreement, among other.",
-    "body": "<p>Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a nova constelação de satélites emblemática da União Europeia. O acordo, entre outros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O acordo, entre outras coisas, acrescenta 66 satélites em órbita baixa da Terra ao programa, elevando a constelação principal para 348 satélites e passando-a do planeamento para a. A ESA desempenha um papel fundamental na implementação técnica do IRIS², supervisionando o desenvolvimento, qualificação e validação em órbita da constelação, e traduzindo as.</p><p>Em cooperação com a Comissão Europeia e a SpaceRISE, a ESA garantirá a entrega bem-sucedida de um sistema de conectividade seguro e resiliente para fortalecer ainda mais a. Os próximos passos concretos já estão em vigor para alcançar os primeiros lançamentos até 2029.</p><p>A Comissão, a ESA e a Agência da UE para o Programa Espacial, juntamente com o consórcio SpaceRISE e parceiros industriais europeus, definiram os próximos passos necessários para.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a nova constelação de satélites emblemática da União Europeia. O acordo, entre outros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O acordo, entre outras coisas, acrescenta 66 satélites em órbita baixa da Terra ao programa, elevando a constelação principal para 348 satélites e passando-a do planeamento para a. A ESA desempenha um papel fundamental na implementação técnica do IRIS², supervisionando o desenvolvimento, qualificação e validação em órbita da constelação, e traduzindo as.</p><p>Em cooperação com a Comissão Europeia e a SpaceRISE, a ESA garantirá a entrega bem-sucedida de um sistema de conectividade seguro e resiliente para fortalecer ainda mais a. Os próximos passos concretos já estão em vigor para alcançar os primeiros lançamentos até 2029.</p><p>A Comissão, a ESA e a Agência da UE para o Programa Espacial, juntamente com o consórcio SpaceRISE e parceiros industriais europeus, definiram os próximos passos necessários para.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>On 7 August, the European Commission and the SpaceRISE consortium concluded negotiations and signed an implementation agreement to roll out IRIS², the European Union’s new flagship satellite constellation. The agreement, among other. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The agreement, among other things, adds 66 satellites into low Earth orbit to the programme, bringing the main constellation to 348 satellites, and moving it from planning to. ESA plays a key role in the IRIS² technical implementation, overseeing the constellation’s development, qualification and in-orbit validation, and translating the programme’s.</p><p>In cooperation with the European Commission and SpaceRISE, ESA will ensure the successful delivery of a secure and resilient connectivity system to further strengthen Europe&#x27;s. Concrete next steps are now in place to achieve first launches by 2029.</p><p>The Commission, ESA and the EU Agency for the Space Programme, together with the SpaceRISE consortium and European industrial partners, have defined the next steps needed to. These include finalising the detailed design of the satellite constellation, preparing the construction of satellites and secure ground infrastructure, securing launch services.</p><p>The future constellation will comprise 348 satellites, consisting of 330 satellites in low Earth orbit and 18 satellites in medium Earth orbit, with additional optional elements. A dedicated layer of an additional 66 high-low Earth orbit satellites will strengthen capabilities for defence, security and emergency services further enhancing its architecture.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>IRIS² will be built through a strong Team Europe approach, combining the expertise of the European Commission, EU Member States, ESA, the European Union Agency for the Space. Funding will come from a combination of EU budget resources for 2028, 2034 and additional investments from EU Member States and other countries.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a nova constelação de satélites emblemática da União Europeia. O acordo, entre outros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O acordo, entre outras coisas, acrescenta 66 satélites em órbita baixa da Terra ao programa, elevando a constelação principal para 348 satélites e passando-a do planeamento para a.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a nova constelação de satélites emblemática da União Europeia. O acordo, entre outros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O acordo, entre outras coisas, acrescenta 66 satélites em órbita baixa da Terra ao programa, elevando a constelação principal para 348 satélites e passando-a do planeamento para a.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>On 7 August, the European Commission and the SpaceRISE consortium concluded negotiations and signed an implementation agreement to roll out IRIS², the European Union’s new flagship satellite constellation. The agreement, among other. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The agreement, among other things, adds 66 satellites into low Earth orbit to the programme, bringing the main constellation to 348 satellites, and moving it from planning to.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a.",
       "Dado-chave: Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o.",
@@ -4637,7 +4640,7 @@ window.postsData = [
       "Earth Sciences",
       "EarthSky",
       "Cosmos Week",
-      "2026 eclipse season 2 is underway"
+      "The 2nd eclipse season of 2026 is underway"
     ],
     "srcUrl": "https://earthsky.org/astronomy-essentials/definition-what-is-an-eclipse-season/",
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-2nd-eclipse-season-of-2026-is-underway",

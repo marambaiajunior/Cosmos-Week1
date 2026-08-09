@@ -40,14 +40,14 @@ window.postsData = [
     "date": "09 ago 2026",
     "date_pt": "09 ago 2026",
     "date_en": "09 Aug 2026",
-    "time": "15h41",
-    "time_pt": "15h41",
-    "time_en": "15:41 UTC",
+    "time": "16h48",
+    "time_pt": "16h48",
+    "time_en": "16:48 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-09T15:41:38.363709+00:00",
-    "lastModifiedIso": "2026-08-09T15:41:38.363709+00:00",
+    "publishedIso": "2026-08-09T16:48:13.056638+00:00",
+    "lastModifiedIso": "2026-08-09T16:48:13.056638+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -151,14 +151,14 @@ window.postsData = [
     "date": "09 ago 2026",
     "date_pt": "09 ago 2026",
     "date_en": "09 Aug 2026",
-    "time": "15h41",
-    "time_pt": "15h41",
-    "time_en": "15:41 UTC",
+    "time": "16h48",
+    "time_pt": "16h48",
+    "time_en": "16:48 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-09T15:41:38.363656+00:00",
-    "lastModifiedIso": "2026-08-09T15:41:38.363656+00:00",
+    "publishedIso": "2026-08-09T16:48:13.056608+00:00",
+    "lastModifiedIso": "2026-08-09T16:48:13.056608+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -256,14 +256,14 @@ window.postsData = [
     "date": "09 ago 2026",
     "date_pt": "09 ago 2026",
     "date_en": "09 Aug 2026",
-    "time": "15h41",
-    "time_pt": "15h41",
-    "time_en": "15:41 UTC",
+    "time": "16h48",
+    "time_pt": "16h48",
+    "time_en": "16:48 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-09T15:41:38.363603+00:00",
-    "lastModifiedIso": "2026-08-09T15:41:38.363603+00:00",
+    "publishedIso": "2026-08-09T16:48:13.056578+00:00",
+    "lastModifiedIso": "2026-08-09T16:48:13.056578+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -361,14 +361,14 @@ window.postsData = [
     "date": "09 ago 2026",
     "date_pt": "09 ago 2026",
     "date_en": "09 Aug 2026",
-    "time": "15h41",
-    "time_pt": "15h41",
-    "time_en": "15:41 UTC",
+    "time": "16h48",
+    "time_pt": "16h48",
+    "time_en": "16:48 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-09T15:41:38.363538+00:00",
-    "lastModifiedIso": "2026-08-09T15:41:38.363538+00:00",
+    "publishedIso": "2026-08-09T16:48:13.056540+00:00",
+    "lastModifiedIso": "2026-08-09T16:48:13.056540+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -466,14 +466,14 @@ window.postsData = [
     "date": "09 ago 2026",
     "date_pt": "09 ago 2026",
     "date_en": "09 Aug 2026",
-    "time": "15h41",
-    "time_pt": "15h41",
-    "time_en": "15:41 UTC",
+    "time": "16h48",
+    "time_pt": "16h48",
+    "time_en": "16:48 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-09T15:41:38.363485+00:00",
-    "lastModifiedIso": "2026-08-09T15:41:38.363485+00:00",
+    "publishedIso": "2026-08-09T16:48:13.056507+00:00",
+    "lastModifiedIso": "2026-08-09T16:48:13.056507+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -537,6 +537,139 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "cosmic-filaments-help-set-first-limits-on-dark-matter-s-decay-into-gravitons",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-limits-placed-on.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/first-limits-placed-on.jpg",
+        "caption": "Desenho esquemático de nossa estratégia de busca: uma partícula DM χ decai em grávitons nos primeiros tempos. Os grávitons se propagam através de filamentos cosmológicos magnetizados e podem oscilar em fótons ao longo da linha de visão em direção a um observador. Esse.",
+        "caption_pt": "Desenho esquemático de nossa estratégia de busca: uma partícula DM χ decai em grávitons nos primeiros tempos. Os grávitons se propagam através de filamentos cosmológicos magnetizados e podem oscilar em fótons ao longo da linha de visão em direção a um observador. Esse.",
+        "caption_en": "Schematic cartoon of our search strategy: a DM particle χ decays to gravitons at early times. The gravitons propagate through magnetized cosmological filaments and can oscillate into photons along the line-of-sight toward an observer. This.",
+        "alt": "Primeiros limites colocados na decadência da matéria escura em grávitons",
+        "alt_pt": "Primeiros limites colocados na decadência da matéria escura em grávitons",
+        "alt_en": "First limits placed on dark matter's decay into gravitons"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/061a4647609b9c09.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Filamentos cósmicos ajudam a estabelecer os primeiros limites para a decadência da matéria escura em grávitons",
+    "title_pt": "Filamentos cósmicos ajudam a estabelecer os primeiros limites para a decadência da matéria escura em grávitons",
+    "title_en": "Cosmic filaments help set first limits on dark matter's decay into gravitons",
+    "sub": "Compondo cerca de 85% da massa total do Universo, a matéria escura trai a sua presença apenas através da gravidade, ao contrário da matéria comum. No entanto, através de uma nova.",
+    "sub_pt": "Compondo cerca de 85% da massa total do Universo, a matéria escura trai a sua presença apenas através da gravidade, ao contrário da matéria comum. No entanto, através de uma nova.",
+    "sub_en": "Composing some 85% of the universe's total mass, dark matter betrays its presence only through gravity, unlike ordinary matter. Yet through new research published in Physical.",
+    "excerpt": "Compondo cerca de 85% da massa total do Universo, a matéria escura trai a sua presença apenas através da gravidade, ao contrário da matéria comum. No entanto, através de uma nova investigação publicada na Physical Review D, uma equipa liderada por David.",
+    "excerpt_pt": "Compondo cerca de 85% da massa total do Universo, a matéria escura trai a sua presença apenas através da gravidade, ao contrário da matéria comum. No entanto, através de uma nova investigação publicada na Physical Review D, uma equipa liderada por David.",
+    "excerpt_en": "Composing some 85% of the universe's total mass, dark matter betrays its presence only through gravity, unlike ordinary matter. Yet through new research published in Physical Review D, a team led by David Dunsky of New York University has.",
+    "body": "<p>Compondo cerca de 85% da massa total do Universo, a matéria escura trai a sua presença apenas através da gravidade, ao contrário da matéria comum. No entanto, através de uma nova investigação publicada na Physical Review D, uma equipa liderada por David Dunsky, da Universidade. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Compondo cerca de 85% da massa total do Universo, a matéria escura trai a sua presença apenas através da gravidade, ao contrário da matéria comum. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial Physical Review D (2026). &quot;&gt; Desenho esquemático de nossa estratégia de busca: uma partícula DM χ decai em grávitons nos primeiros tempos.</p><p>Compondo cerca de 85% da massa total do universo, a matéria escura revela sua presença apenas por meio da gravidade, ao contrário da matéria comum. Embora a sua verdadeira natureza tenha escapado aos físicos durante décadas, alguns investigadores sugerem que poderá ser ligeiramente instável, com as suas partículas.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-cosmic-filaments-limits-dark-decay.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Compondo cerca de 85% da massa total do Universo, a matéria escura trai a sua presença apenas através da gravidade, ao contrário da matéria comum. No entanto, através de uma nova investigação publicada na Physical Review D, uma equipa liderada por David Dunsky, da Universidade. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Compondo cerca de 85% da massa total do Universo, a matéria escura trai a sua presença apenas através da gravidade, ao contrário da matéria comum. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial Physical Review D (2026). &quot;&gt; Desenho esquemático de nossa estratégia de busca: uma partícula DM χ decai em grávitons nos primeiros tempos.</p><p>Compondo cerca de 85% da massa total do universo, a matéria escura revela sua presença apenas por meio da gravidade, ao contrário da matéria comum. Embora a sua verdadeira natureza tenha escapado aos físicos durante décadas, alguns investigadores sugerem que poderá ser ligeiramente instável, com as suas partículas.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-cosmic-filaments-limits-dark-decay.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Composing some 85% of the universe&#x27;s total mass, dark matter betrays its presence only through gravity, unlike ordinary matter. Yet through new research published in Physical Review D, a team led by David Dunsky of New York University has. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. Composing some 85% of the universe&#x27;s total mass, dark matter betrays its presence only through gravity, unlike ordinary matter. This article has been reviewed according to Science X&#x27;s editorial process and policies.</p><p>Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Physical Review D (2026). &quot;&gt; Schematic cartoon of our search strategy: a DM particle χ decays to gravitons at early times.</p><p>Although its true nature has eluded physicists for decades, some researchers suggest that it could be slightly unstable, with its constituent particles gradually decaying over. Notably, the signal would come mostly from distant intergalactic filaments, rather than the crowded center of our own galaxy, where most dark matter searches usually point their.</p><p>Looking ahead, Dunsky&#x27;s team hope that a proposed successor to Fermi, the Advanced Particle-astrophysics Telescope, could sharpen these constraints by a factor of 10. We rely on readers like you to keep independent science journalism alive.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Dunsky et al, Observing dark matter decays to gravitons via graviton-photon conversion, Physical Review D (2026). Science X contributing writer.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-cosmic-filaments-limits-dark-decay.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Compondo cerca de 85% da massa total do Universo, a matéria escura trai a sua presença apenas através da gravidade, ao contrário da matéria comum. No.",
+      "Dado-chave: Compondo cerca de 85% da massa total do Universo, a matéria escura trai a sua presença apenas através da gravidade, ao contrário da matéria.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Compondo cerca de 85% da massa total do Universo, a matéria escura trai a sua presença apenas através da gravidade, ao contrário da matéria comum. No.",
+      "Dado-chave: Compondo cerca de 85% da massa total do Universo, a matéria escura trai a sua presença apenas através da gravidade, ao contrário da matéria.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Composing some 85% of the universe's total mass, dark matter betrays its presence only through gravity, unlike ordinary matter. Yet through new.",
+      "Key detail: Composing some 85% of the universe's total mass, dark matter betrays its presence only through gravity, unlike ordinary matter.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "09 ago 2026",
+    "date_pt": "09 ago 2026",
+    "date_en": "09 Aug 2026",
+    "time": "16h00",
+    "time_pt": "16h00",
+    "time_en": "16:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-09T16:00:01+00:00",
+    "lastModifiedIso": "2026-08-09T16:00:01+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Filamentos cósmicos ajudam a estabelecer os primeiros limites para a decadência da matéria escura em grávitons"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Filamentos cósmicos ajudam a estabelecer os primeiros limites para a decadência da matéria escura em grávitons"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Cosmic filaments help establish the first limits on the decay of dark matter into gravitons"
+    ],
+    "srcUrl": "https://phys.org/news/2026-08-cosmic-filaments-limits-dark-decay.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=cosmic-filaments-help-set-first-limits-on-dark-matter-s-decay-into-gravitons",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=cosmic-filaments-help-set-first-limits-on-dark-matter-s-decay-into-gravitons",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=cosmic-filaments-help-set-first-limits-on-dark-matter-s-decay-into-gravitons&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "rare-mars-meteorite-preserves-1-27-billion-year-old-clues-to-planet-s-deep-interior",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -658,7 +791,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -672,7 +805,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "highest-resolution-images-of-the-sun-s-surface-here",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -787,7 +920,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "the-asteroid-that-may-be-three-worlds",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -920,7 +1053,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "sun-news-sun-blast-sweeps-earth-sparking-auroras",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1041,121 +1174,6 @@ window.postsData = [
     }
   },
   {
-    "id": 10,
-    "slug": "venus-greatest-distance-from-the-sun-august-14-15-2026",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2025/04/Venus-in-phases-December-to-March-2025-P-Govardhana-Siddartha-India.jpg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Maior distância de Vênus ao Sol de 14 a 15 de agosto de 2026",
-    "title_pt": "Maior distância de Vênus ao Sol de 14 a 15 de agosto de 2026",
-    "title_en": "Venus greatest distance from the sun August 14-15, 2026",
-    "sub": "Em 2026, procure Vênus após o pôr do sol! Está alto no céu noturno de agosto para todos verem. Será mais brilhante no céu noturno em 22 de setembro. A maior distância pós-Vênus do.",
-    "sub_pt": "Em 2026, procure Vênus após o pôr do sol! Está alto no céu noturno de agosto para todos verem. Será mais brilhante no céu noturno em 22 de setembro. A maior distância pós-Vênus do.",
-    "sub_en": "In 2026, look for Venus after sunset! It's high in August evening sky for all to see. It'll be brightest in the evening sky on September 22. The post Venus greatest distance from.",
-    "excerpt": "Em 2026, procure Vênus após o pôr do sol! Está alto no céu noturno de agosto para todos verem. Será mais brilhante no céu noturno em 22 de setembro. A maior distância pós-Vênus do sol de 14 a 15 de agosto de 2026 apareceu pela primeira vez no EarthSky.",
-    "excerpt_pt": "Em 2026, procure Vênus após o pôr do sol! Está alto no céu noturno de agosto para todos verem. Será mais brilhante no céu noturno em 22 de setembro. A maior distância pós-Vênus do sol de 14 a 15 de agosto de 2026 apareceu pela primeira vez no EarthSky.",
-    "excerpt_en": "In 2026, look for Venus after sunset! It's high in August evening sky for all to see. It'll be brightest in the evening sky on September 22. The post Venus greatest distance from the sun August 14-15, 2026 first appeared on EarthSky.",
-    "body": "<p>Em 2026, procure Vênus após o pôr do sol! Está alto no céu noturno de agosto para todos verem. Será mais brilhante no céu noturno em 22 de setembro. A maior distância pós-Vênus do sol de 14 a 15 de agosto de 2026 apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. É quando passa entre a Terra e o Sol, o que ocorreu pela última vez em março de 2025 e ocorrerá a seguir em 24 de outubro de 2026. Vênus após o pôr do sol em agosto de 2026 Em agosto de 2026, Vênus, o planeta vizinho mais brilhante da Terra, brilhará no crepúsculo ocidental após o pôr do sol.</p><p>A maior elongação, quando Vénus atingirá a sua maior distância do pôr do sol, ocorre às 6 UTC de 15 de agosto de 2026. Como o segundo planeta em órbita (afastando-se do Sol), Vênus está ligado ao Sol em nosso céu por uma corda invisível.</p><p>Vênus é o planeta mais brilhante visível da Terra e brilha intensamente todas as aparições matinais ou noturnas. Então, após a maior elongação, Vênus afundará em direção ao pôr do sol enquanto corre em direção à sua varredura entre a Terra e o Sol por volta de 24 de outubro de 2026.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/venus-after-sunset-greatest-elongation/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em 2026, procure Vênus após o pôr do sol! Está alto no céu noturno de agosto para todos verem. Será mais brilhante no céu noturno em 22 de setembro. A maior distância pós-Vênus do sol de 14 a 15 de agosto de 2026 apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. É quando passa entre a Terra e o Sol, o que ocorreu pela última vez em março de 2025 e ocorrerá a seguir em 24 de outubro de 2026. Vênus após o pôr do sol em agosto de 2026 Em agosto de 2026, Vênus, o planeta vizinho mais brilhante da Terra, brilhará no crepúsculo ocidental após o pôr do sol.</p><p>A maior elongação, quando Vénus atingirá a sua maior distância do pôr do sol, ocorre às 6 UTC de 15 de agosto de 2026. Como o segundo planeta em órbita (afastando-se do Sol), Vênus está ligado ao Sol em nosso céu por uma corda invisível.</p><p>Vênus é o planeta mais brilhante visível da Terra e brilha intensamente todas as aparições matinais ou noturnas. Então, após a maior elongação, Vênus afundará em direção ao pôr do sol enquanto corre em direção à sua varredura entre a Terra e o Sol por volta de 24 de outubro de 2026.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/venus-after-sunset-greatest-elongation/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>In 2026, look for Venus after sunset! It&#x27;s high in August evening sky for all to see. It&#x27;ll be brightest in the evening sky on September 22. The post Venus greatest distance from the sun August 14-15, 2026 first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. That’s when it passes between Earth and the sun which last occurred in March 2025 and will occur next on October 24, 2026. Venus after sunset in August 2026 In August 2026, Venus, Earth’s brightest neighboring planet, will be shining in the western twilight after sunset.</p><p>Greatest elongation, when Venus will reach its farthest distance from the sunset, is at 6 UTC on August 15, 2026. As the 2nd planet in orbit (going outward from the sun), Venus is bound by an invisible tether to the sun in our sky.</p><p>Venus is the brightest planet visible from Earth and shines brilliantly throughout every morning or evening apparition. Then, after greatest elongation, Venus will sink toward the sunset as it races toward its sweep between the Earth and sun around October 24, 2026.</p><p>Venus will appear 49% illuminated, near a first quarter phase, 24.48 arcseconds across. On the evening of July 15, the waxing crescent moon will be approaching brilliant Venus and Regulus, the brightest star in Leo the Lion.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>On the evenings of July 16 and 17, the waxing crescent moon will lie near brilliant Venus and Regulus, the brightest star in Leo the Lion. That’s because the farthest from the sun that Venus can ever appear on the sky’s dome is about 47.3 degrees.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/venus-after-sunset-greatest-elongation/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Em 2026, procure Vênus após o pôr do sol! Está alto no céu noturno de agosto para todos verem. Será mais brilhante no céu noturno em 22 de setembro.",
-      "Dado-chave: É quando passa entre a Terra e o Sol, o que ocorreu pela última vez em março de 2025 e ocorrerá a seguir em 24 de outubro de 2026.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Em 2026, procure Vênus após o pôr do sol! Está alto no céu noturno de agosto para todos verem. Será mais brilhante no céu noturno em 22 de setembro.",
-      "Dado-chave: É quando passa entre a Terra e o Sol, o que ocorreu pela última vez em março de 2025 e ocorrerá a seguir em 24 de outubro de 2026.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: In 2026, look for Venus after sunset! It's high in August evening sky for all to see. It'll be brightest in the evening sky on September 22. The post.",
-      "Key detail: That’s when it passes between Earth and the sun which last occurred in March 2025 and will occur next on October 24, 2026.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "09 ago 2026",
-    "date_pt": "09 ago 2026",
-    "date_en": "09 Aug 2026",
-    "time": "07h50",
-    "time_pt": "07h50",
-    "time_en": "07:50 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-09T07:50:11+00:00",
-    "lastModifiedIso": "2026-08-09T07:50:11+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Maior distância de Vênus ao Sol de 14 a 15 de agosto de 2026"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Maior distância de Vênus ao Sol de 14 a 15 de agosto de 2026"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "Farthest distance from Venus to the Sun on August 14-15, 2026"
-    ],
-    "srcUrl": "https://earthsky.org/astronomy-essentials/venus-after-sunset-greatest-elongation/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=venus-greatest-distance-from-the-sun-august-14-15-2026",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=venus-greatest-distance-from-the-sun-august-14-15-2026",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=venus-greatest-distance-from-the-sun-august-14-15-2026&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 68,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 62,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
     "id": 11,
     "slug": "educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality",
     "cat": "Astronomia",
@@ -1201,9 +1219,9 @@ window.postsData = [
     "excerpt": "O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026.",
     "excerpt_pt": "O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026.",
     "excerpt_en": "The NASA Science Activation Program’s Cosmic Storytelling with NASA Data project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into the hands of educators and learners. From July 27, 29, 2026.",
-    "body": "<p>O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha. De 27 a 29 de julho de 2026, a equipe CosmicDS fez parceria com o projeto BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) do Smithsonian Institution para.</p><p>O TEMPO-Lab permite que os alunos explorem e analisem medições de qualidade do ar quase em tempo real coletadas pela missão TEMPO (Emissões Troposféricas: Monitoramento da. “O BEST AQI Leadership Institute reforçou o valor do TEMPO-Lab como uma ferramenta para capacitar os jovens a investigar questões locais de qualidade do ar usando dados autênticos.</p><p>No primeiro dia do Instituto, o investigador principal da CosmicDS Science, Pat Udomprasert, liderou uma sessão de imersão prática apresentando aos educadores o TEMPO-Lab, um. Visão geral Recursos Oportunidades Destaques da ciência cidadã Sobre a ativação científica 4 min de leitura do artigo Um educador explora os dados da missão TEMPO da NASA usando o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha. De 27 a 29 de julho de 2026, a equipe CosmicDS fez parceria com o projeto BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) do Smithsonian Institution para.</p><p>O TEMPO-Lab permite que os alunos explorem e analisem medições de qualidade do ar quase em tempo real coletadas pela missão TEMPO (Emissões Troposféricas: Monitoramento da. “O BEST AQI Leadership Institute reforçou o valor do TEMPO-Lab como uma ferramenta para capacitar os jovens a investigar questões locais de qualidade do ar usando dados autênticos.</p><p>No primeiro dia do Instituto, o investigador principal da CosmicDS Science, Pat Udomprasert, liderou uma sessão de imersão prática apresentando aos educadores o TEMPO-Lab, um. Visão geral Recursos Oportunidades Destaques da ciência cidadã Sobre a ativação científica 4 min de leitura do artigo Um educador explora os dados da missão TEMPO da NASA usando o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The NASA Science Activation Program’s Cosmic Storytelling with NASA Data project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into the hands of educators and learners. From July 27, 29, 2026. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The NASA Science Activation Program’s Cosmic Storytelling with NASA Data (CosmicDS) project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA. From July 27, 29, 2026, the CosmicDS team partnered with the Smithsonian Institution’s BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) project to.</p><p>TEMPO-Lab lets learners explore and analyze near-real-time air quality measurements collected by NASA’s TEMPO (Tropospheric Emissions: Monitoring of Pollution) mission, which. “The BEST AQI Leadership Institute reinforced the value of the TEMPO-Lab as a tool for empowering youth to investigate local air quality issues using authentic NASA data.</p><p>On Day 1 of the Institute, the CosmicDS Science Principal Investigator Pat Udomprasert led a hands-on immersion session introducing educators to TEMPO-Lab, a Science Science. Overview Resources Opportunities Citizen Science Highlights About Science Activation 4 min read Article An educator explores NASA&#x27;s TEMPO mission data using the CosmicDS TEMPO-Lab.</p><p>On Day 1 of the Institute, the CosmicDS Science Principal Investigator Pat Udomprasert led a hands-on immersion session introducing educators to TEMPO-Lab, a free online tool. TEMPO-Lab lets learners explore and analyze near-real-time air quality measurements collected by NASA&#x27;s TEMPO (Tropospheric Emissions: Monitoring of Pollution) mission, which.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>During Days 2 and 3 of the Institute, as educators worked together to co-develop BEST AQI curriculum and resources, they used TEMPO-Lab to build case studies covering a variety of. During a science briefing, TEMPO scientist Heesung Chong shared that a new beta-version ground-level ozone data product had recently become available.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha. De 27 a 29 de julho de 2026, a equipe CosmicDS fez parceria com o projeto BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) do Smithsonian Institution para.</p><p>O TEMPO-Lab permite que os alunos explorem e analisem medições de qualidade do ar quase em tempo real coletadas pela missão TEMPO (Emissões Troposféricas: Monitoramento da. “O BEST AQI Leadership Institute reforçou o valor do TEMPO-Lab como uma ferramenta para capacitar os jovens a investigar questões locais de qualidade do ar usando dados autênticos.</p><p>Artigo 3 semanas atrás 3 min ler Fumaça de incêndio florestal em Ontário Os incêndios florestais no leste do Canadá enviaram nuvens de fumaça sobre Ontário, Quebec e partes dos. No primeiro dia do Instituto, o investigador principal da CosmicDS Science, Pat Udomprasert, liderou uma sessão de imersão prática apresentando aos educadores o TEMPO-Lab, um.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha para levar dados autênticos da NASA às mãos de educadores e alunos. De 27 de julho de 2026. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge, Massachusetts, trabalha. De 27 a 29 de julho de 2026, a equipe CosmicDS fez parceria com o projeto BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) do Smithsonian Institution para.</p><p>O TEMPO-Lab permite que os alunos explorem e analisem medições de qualidade do ar quase em tempo real coletadas pela missão TEMPO (Emissões Troposféricas: Monitoramento da. “O BEST AQI Leadership Institute reforçou o valor do TEMPO-Lab como uma ferramenta para capacitar os jovens a investigar questões locais de qualidade do ar usando dados autênticos.</p><p>Artigo 3 semanas atrás 3 min ler Fumaça de incêndio florestal em Ontário Os incêndios florestais no leste do Canadá enviaram nuvens de fumaça sobre Ontário, Quebec e partes dos. No primeiro dia do Instituto, o investigador principal da CosmicDS Science, Pat Udomprasert, liderou uma sessão de imersão prática apresentando aos educadores o TEMPO-Lab, um.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The NASA Science Activation Program’s Cosmic Storytelling with NASA Data project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into the hands of educators and learners. From July 27, 29, 2026. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The NASA Science Activation Program’s Cosmic Storytelling with NASA Data (CosmicDS) project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA. From July 27, 29, 2026, the CosmicDS team partnered with the Smithsonian Institution’s BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) project to.</p><p>TEMPO-Lab lets learners explore and analyze near-real-time air quality measurements collected by NASA’s TEMPO (Tropospheric Emissions: Monitoring of Pollution) mission, which. “The BEST AQI Leadership Institute reinforced the value of the TEMPO-Lab as a tool for empowering youth to investigate local air quality issues using authentic NASA data.</p><p>Article 3 weeks ago 3 min read Ontario Wildfire Smoke Moves East Canadian wildfires sent plumes of smoke streaming over Ontario, Quebec, and parts of the U. S. Article 3 weeks ago. On Day 1 of the Institute, the CosmicDS Science Principal Investigator Pat Udomprasert led a hands-on immersion session introducing educators to TEMPO-Lab, a Science Science.</p><p>Overview Resources Opportunities Citizen Science Highlights About Science Activation 4 min read Article An educator explores NASA&#x27;s TEMPO mission data using the CosmicDS TEMPO-Lab. On Day 1 of the Institute, the CosmicDS Science Principal Investigator Pat Udomprasert led a hands-on immersion session introducing educators to TEMPO-Lab, a free online tool.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>TEMPO-Lab lets learners explore and analyze near-real-time air quality measurements collected by NASA&#x27;s TEMPO (Tropospheric Emissions: Monitoring of Pollution) mission, which. During a science briefing, TEMPO scientist Heesung Chong shared that a new beta-version ground-level ozone data product had recently become available.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: O projeto Cosmic Storytelling with NASA Data do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em Cambridge.",
       "Dado-chave: O projeto Cosmic Storytelling with NASA Data (CosmicDS) do Programa de Ativação Científica da NASA, liderado pela Universidade de Harvard em.",
@@ -1565,139 +1583,6 @@ window.postsData = [
   },
   {
     "id": 14,
-    "slug": "space-kit-for-future-away-missions-tested-in-scotland",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/space-kit-for-future-a.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/space-kit-for-future-a.jpg",
-        "caption": "Kit espacial para futuras ‘missões distantes’ testado na Escócia",
-        "caption_pt": "Kit espacial para futuras ‘missões distantes’ testado na Escócia",
-        "caption_en": "Space kit for future 'away missions' tested in Scotland",
-        "alt": "Kit espacial para futuras ‘missões distantes’ testado na Escócia",
-        "alt_pt": "Kit espacial para futuras ‘missões distantes’ testado na Escócia",
-        "alt_en": "Space kit for future 'away missions' tested in Scotland"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/space-kit-for-future-a-1.jpg",
-        "caption": "Kit espacial para futuras ‘missões distantes’ testado na Escócia",
-        "caption_pt": "Kit espacial para futuras ‘missões distantes’ testado na Escócia",
-        "caption_en": "Space kit for future 'away missions' tested in Scotland",
-        "alt": "Kit espacial para futuras ‘missões distantes’ testado na Escócia",
-        "alt_pt": "Kit espacial para futuras ‘missões distantes’ testado na Escócia",
-        "alt_en": "Space kit for future 'away missions' tested in Scotland"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f6b420961b46f94b.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Kit espacial para futuras ‘missões distantes’ testado na Escócia",
-    "title_pt": "Kit espacial para futuras ‘missões distantes’ testado na Escócia",
-    "title_en": "Space kit for future 'away missions' tested in Scotland",
-    "sub": "Pesquisadores da Universidade de Leicester e da Universidade de Aberdeen realizaram uma série de demonstrações de campo em Portsoy para testar instrumentos analíticos portáteis de.",
-    "sub_pt": "Pesquisadores da Universidade de Leicester e da Universidade de Aberdeen realizaram uma série de demonstrações de campo em Portsoy para testar instrumentos analíticos portáteis de.",
-    "sub_en": "Researchers from the University of Leicester and the University of Aberdeen have carried out a series of field demonstrations in Portsoy to test cutting-edge handheld analytical.",
-    "excerpt": "Pesquisadores da Universidade de Leicester e da Universidade de Aberdeen realizaram uma série de demonstrações de campo em Portsoy para testar instrumentos analíticos portáteis de última geração. Projetado para uso por astronautas na lua e.",
-    "excerpt_pt": "Pesquisadores da Universidade de Leicester e da Universidade de Aberdeen realizaram uma série de demonstrações de campo em Portsoy para testar instrumentos analíticos portáteis de última geração. Projetado para uso por astronautas na lua e.",
-    "excerpt_en": "Researchers from the University of Leicester and the University of Aberdeen have carried out a series of field demonstrations in Portsoy to test cutting-edge handheld analytical instruments. Designed for use by astronauts on the moon and.",
-    "body": "<p>Pesquisadores da Universidade de Leicester e da Universidade de Aberdeen realizaram uma série de demonstrações de campo em Portsoy para testar instrumentos analíticos portáteis de última geração. Projetado para uso por astronautas na lua e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida o astronauta da ESA Matthias Maurer operando o.</p><p>Incerti, Equipe LAMB (ESA-EAC) Pesquisadores da Universidade de Leicester e da Universidade de Aberdeen realizaram uma série de demonstrações de campo em Portsoy para testar. Projetados para uso por astronautas na Lua e, eventualmente, em Marte, esses instrumentos apoiariam os astronautas que trabalham como cientistas de campo enquanto exploram esses.</p><p>A campanha centrou-se num espectrómetro portátil avançado desenvolvido pela equipa da Universidade de Leicester em colaboração com o INTA (Espanha), o Mission Control (Canadá) e a. Construídos tendo em mente a ergonomia dos trajes espaciais para os astronautas que trabalham nas superfícies lunares e marcianas, estes espectrómetros foram apoiados pela equipa.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-space-kit-future-missions-scotland.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Pesquisadores da Universidade de Leicester e da Universidade de Aberdeen realizaram uma série de demonstrações de campo em Portsoy para testar instrumentos analíticos portáteis de última geração. Projetado para uso por astronautas na lua e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida o astronauta da ESA Matthias Maurer operando o.</p><p>Incerti, Equipe LAMB (ESA-EAC) Pesquisadores da Universidade de Leicester e da Universidade de Aberdeen realizaram uma série de demonstrações de campo em Portsoy para testar. Projetados para uso por astronautas na Lua e, eventualmente, em Marte, esses instrumentos apoiariam os astronautas que trabalham como cientistas de campo enquanto exploram esses.</p><p>A campanha centrou-se num espectrómetro portátil avançado desenvolvido pela equipa da Universidade de Leicester em colaboração com o INTA (Espanha), o Mission Control (Canadá) e a. Construídos tendo em mente a ergonomia dos trajes espaciais para os astronautas que trabalham nas superfícies lunares e marcianas, estes espectrómetros foram apoiados pela equipa.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-space-kit-future-missions-scotland.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Researchers from the University of Leicester and the University of Aberdeen have carried out a series of field demonstrations in Portsoy to test cutting-edge handheld analytical instruments. Designed for use by astronauts on the moon and. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source ESA astronaut Matthias Maurer operating the PHOENIX BB2.</p><p>Incerti, LAMB Team (ESA-EAC) Researchers from the University of Leicester and the University of Aberdeen have carried out a series of field demonstrations in Portsoy to test. Designed for use by astronauts on the moon and, eventually, Mars, these instruments would support astronauts working as field scientists while exploring these worlds.</p><p>The campaign focused on an advanced portable spectrometer developed by the University of Leicester&#x27;s team in collaboration with INTA (Spain), Mission Control (Canada) and the. Built with spacesuit ergonomics in mind for astronauts working on the lunar and Martian surfaces, these spectrometers have been supported by ESA&#x27;s ExPeRT (Exploration Preparation.</p><p>While PANGAEA&#x27;s primary mission is to give astronauts the fundamental knowledge and training they need to act as field scientists on the moon and Mars, it also plays a key role in. The area contains a rare combination of rock types, mirroring those found on the moon and making it an ideal natural laboratory for validating space technologies.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Hannah Lerman from the University of Leicester School of Physics and Astronomy said, &quot;We are moving ever closer to astronauts setting foot on the moon again, and when they get. By taking our technology into real-world analog environments like Portsoy in Scotland, we can optimize the instrument&#x27;s performance, usability and scientific output in readiness.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-space-kit-future-missions-scotland.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Pesquisadores da Universidade de Leicester e da Universidade de Aberdeen realizaram uma série de demonstrações de campo em Portsoy para testar.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Pesquisadores da Universidade de Leicester e da Universidade de Aberdeen realizaram uma série de demonstrações de campo em Portsoy para testar.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Researchers from the University of Leicester and the University of Aberdeen have carried out a series of field demonstrations in Portsoy to test.",
-      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "06 ago 2026",
-    "date_pt": "06 ago 2026",
-    "date_en": "06 Aug 2026",
-    "time": "13h40",
-    "time_pt": "13h40",
-    "time_en": "13:40 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-06T13:40:01+00:00",
-    "lastModifiedIso": "2026-08-06T13:40:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Cosmologia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Kit espacial para futuras ‘missões distantes’ testado na Escócia"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Kit espacial para futuras ‘missões distantes’ testado na Escócia"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Space kit for future 'distant missions' tested in Scotland"
-    ],
-    "srcUrl": "https://phys.org/news/2026-08-space-kit-future-missions-scotland.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=space-kit-for-future-away-missions-tested-in-scotland",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=space-kit-for-future-away-missions-tested-in-scotland",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=space-kit-for-future-away-missions-tested-in-scotland&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
-    "id": 15,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1833,7 +1718,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 15,
     "slug": "astronomers-catch-hatchling-quasar-breaking-out-of-its-dusty-cocoon",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1966,7 +1851,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 16,
     "slug": "milky-way-like-simulation-reveals-how-central-galactic-structures-grow-together",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2099,7 +1984,7 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 17,
     "slug": "zodiacal-dust-in-exoplanetary-systems-could-hinder-our-search-for-life-on-other-worlds",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2204,7 +2089,7 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
+    "id": 18,
     "slug": "veiled-in-starlight-impacts-of-stellar-contamination-on-retrievals-of-trappist-1f-s-atmospheric-",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2312,7 +2197,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 19,
     "slug": "exploration-of-exoplanet-atmospheres-with-the-james-webb-space-telescope",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2417,7 +2302,7 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
+    "id": 20,
     "slug": "first-major-structure-of-the-future-cms-tracker-arrives-at-cern",
     "cat": "Física",
     "catCls": "fisica",
@@ -2532,7 +2417,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 21,
     "slug": "the-july-august-2026-issue-of-the-cern-courier-is-out",
     "cat": "Física",
     "catCls": "fisica",
@@ -2647,7 +2532,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 22,
     "slug": "nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications",
     "cat": "Física",
     "catCls": "fisica",
@@ -2777,6 +2662,111 @@ window.postsData = [
       "relevance": 68,
       "accessibility": 52,
       "novelty": 46
+    }
+  },
+  {
+    "id": 23,
+    "slug": "2026-igarss-hyperwall-schedule",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/content/dam/science/astro/programs/cosmic-origins/images/misc/NASA-Meatball-Feature5.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Cronograma do Hyperwall IGARSS 2026",
+    "title_pt": "Cronograma do Hyperwall IGARSS 2026",
+    "title_en": "2026 IGARSS Hyperwall Schedule",
+    "sub": "IGARSS 2026 Junte-se à NASA no Exhibit Hall for Hyperwall Storytelling por especialistas da NASA. Agenda completa do Hyperwall abaixo. SEGUNDA-FEIRA, 10 DE AGOSTO 15h Tecnologia.",
+    "sub_pt": "IGARSS 2026 Junte-se à NASA no Exhibit Hall for Hyperwall Storytelling por especialistas da NASA. Agenda completa do Hyperwall abaixo. SEGUNDA-FEIRA, 10 DE AGOSTO 15h Tecnologia.",
+    "sub_en": "IGARSS 2026 Join NASA in the Exhibit Hall for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, AUGUST 10 3: 00 PM Technology Enabling the Future of.",
+    "excerpt": "IGARSS 2026 Junte-se à NASA no Exhibit Hall for Hyperwall Storytelling por especialistas da NASA. Agenda completa do Hyperwall abaixo. SEGUNDA-FEIRA, 10 DE AGOSTO 15h Tecnologia que possibilita o futuro da ciência da TerraMike Seablom3: 15h Descoberta da.",
+    "excerpt_pt": "IGARSS 2026 Junte-se à NASA no Exhibit Hall for Hyperwall Storytelling por especialistas da NASA. Agenda completa do Hyperwall abaixo. SEGUNDA-FEIRA, 10 DE AGOSTO 15h Tecnologia que possibilita o futuro da ciência da TerraMike Seablom3: 15h Descoberta da.",
+    "excerpt_en": "IGARSS 2026 Join NASA in the Exhibit Hall for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, AUGUST 10 3: 00 PM Technology Enabling the Future of Earth ScienceMike Seablom3: 15 PM Discovery Earth: New Missions.",
+    "body": "<p>IGARSS 2026 Junte-se à NASA no Exhibit Hall for Hyperwall Storytelling por especialistas da NASA. Agenda completa do Hyperwall abaixo. SEGUNDA-FEIRA, 10 DE AGOSTO 15h Tecnologia que possibilita o futuro da ciência da TerraMike Seablom3: 15h Descoberta da Terra: novas missões. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. IGARSS 2026 Junte-se à NASA no Exhibit Hall (Estande #100) para contar histórias em Hyperwall por especialistas da NASA. SEGUNDA-FEIRA, 10 DE AGOSTO 15h Tecnologia que possibilita o futuro da ciência da TerraMike Seablom 15h15 Descoberta da Terra: novas missões e inovação técnica Avançando os.</p><p>Germain TERÇA-FEIRA, 11 DE AGOSTO 10: 00 AMSTELLA: Plataformas multisenor de código aberto para tempo real. Explore esta seção Earth Earth Observer Canto do editor Artigos de destaque Resumos de reuniões Notícias Ciência nas notícias In Memoriam Arquivos de anúncios IGARSS 2026 Junte-se.</p><p>SEGUNDA-FEIRA, 10 DE AGOSTO 15h Tecnologia que possibilita o futuro das ciências da Terra Mike Seablom 15h15 Descoberta da Terra: novas missões e inovação técnica Avançando os. Germain TERÇA-FEIRA, 11 DE AGOSTO 10h STELLA: Plataformas multisenor de código aberto para monitoramento ambiental em tempo real Mike Taylor 10h15 Satélites geoestacionários NOAA.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>IGARSS 2026 Junte-se à NASA no Exhibit Hall for Hyperwall Storytelling por especialistas da NASA. Agenda completa do Hyperwall abaixo. SEGUNDA-FEIRA, 10 DE AGOSTO 15h Tecnologia que possibilita o futuro da ciência da TerraMike Seablom3: 15h Descoberta da Terra: novas missões. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. IGARSS 2026 Junte-se à NASA no Exhibit Hall (Estande #100) para contar histórias em Hyperwall por especialistas da NASA. SEGUNDA-FEIRA, 10 DE AGOSTO 15h Tecnologia que possibilita o futuro da ciência da TerraMike Seablom 15h15 Descoberta da Terra: novas missões e inovação técnica Avançando os.</p><p>Germain TERÇA-FEIRA, 11 DE AGOSTO 10: 00 AMSTELLA: Plataformas multisenor de código aberto para tempo real. Explore esta seção Earth Earth Observer Canto do editor Artigos de destaque Resumos de reuniões Notícias Ciência nas notícias In Memoriam Arquivos de anúncios IGARSS 2026 Junte-se.</p><p>SEGUNDA-FEIRA, 10 DE AGOSTO 15h Tecnologia que possibilita o futuro das ciências da Terra Mike Seablom 15h15 Descoberta da Terra: novas missões e inovação técnica Avançando os. Germain TERÇA-FEIRA, 11 DE AGOSTO 10h STELLA: Plataformas multisenor de código aberto para monitoramento ambiental em tempo real Mike Taylor 10h15 Satélites geoestacionários NOAA.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>IGARSS 2026 Join NASA in the Exhibit Hall for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, AUGUST 10 3: 00 PM Technology Enabling the Future of Earth ScienceMike Seablom3: 15 PM Discovery Earth: New Missions. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts. 00 PM Technology Enabling the Future of Earth ScienceMike Seablom3: 15 PM Discovery Earth: New Missions &amp; Technical Innovation Advancing Earth System InsightsKaren St.</p><p>00 AMSTELLA: Open-Source Multisenor Platforms For Real-Time. Explore This Section Earth Earth Observer Editor’s Corner Feature Articles Meeting Summaries News Science in the News In Memoriam Announcements Archives IGARSS 2026 Join NASA in.</p><p>00 PM Technology Enabling the Future of Earth Science Mike Seablom 3: 15 PM Discovery Earth: New Missions &amp; Technical Innovation Advancing Earth System Insights Karen St. 00 AM STELLA: Open-Source Multisenor Platforms For Real-Time Environmental Monitoring Mike Taylor 10: 15 AM NOAA Geostationary Satellites: Valuable Data for both Research and.</p><p>15 PM The Importance of Satellite Ocean Observations at NOAA Paul Chang WEDNESDAY, AUGUST 12 10: 00 AM Enabling Earth Science Data to Serve Society Joel Scott 10: 15 AM. Earth Earth Observer Editor&#x27;s Corner Feature Articles Meeting Summaries News Science in the News In Memoriam Announcements Archives 1 min read Join NASA in the Exhibit Hall (Booth.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: IGARSS 2026 Junte-se à NASA no Exhibit Hall for Hyperwall Storytelling por especialistas da NASA. Agenda completa do Hyperwall abaixo. SEGUNDA-FEIRA.",
+      "Dado-chave: IGARSS 2026 Junte-se à NASA no Exhibit Hall (Estande #100) para contar histórias em Hyperwall por especialistas da NASA.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: IGARSS 2026 Junte-se à NASA no Exhibit Hall for Hyperwall Storytelling por especialistas da NASA. Agenda completa do Hyperwall abaixo. SEGUNDA-FEIRA.",
+      "Dado-chave: IGARSS 2026 Junte-se à NASA no Exhibit Hall (Estande #100) para contar histórias em Hyperwall por especialistas da NASA.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: IGARSS 2026 Join NASA in the Exhibit Hall for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, AUGUST 10 3: 00 PM.",
+      "Key detail: IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "07 ago 2026",
+    "date_pt": "07 ago 2026",
+    "date_en": "07 Aug 2026",
+    "time": "18h57",
+    "time_pt": "18h57",
+    "time_en": "18:57 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-07T18:57:34+00:00",
+    "lastModifiedIso": "2026-08-07T18:57:34+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Cronograma do Hyperwall IGARSS 2026"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Cronograma do Hyperwall IGARSS 2026"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "IGARSS 2026 Hyperwall Schedule"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=2026-igarss-hyperwall-schedule",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=2026-igarss-hyperwall-schedule",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=2026-igarss-hyperwall-schedule&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 79,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 52
     }
   },
   {
@@ -3158,111 +3148,6 @@ window.postsData = [
   },
   {
     "id": 27,
-    "slug": "2026-igarss-hyperwall-schedule",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/content/dam/science/astro/programs/cosmic-origins/images/misc/NASA-Meatball-Feature5.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Cronograma do Hyperwall IGARSS 2026",
-    "title_pt": "Cronograma do Hyperwall IGARSS 2026",
-    "title_en": "2026 IGARSS Hyperwall Schedule",
-    "sub": "IGARSS 2026 Junte-se à NASA no Exhibit Hall for Hyperwall Storytelling por especialistas da NASA. Agenda completa do Hyperwall abaixo. SEGUNDA-FEIRA, 10 DE AGOSTO 15h Tecnologia.",
-    "sub_pt": "IGARSS 2026 Junte-se à NASA no Exhibit Hall for Hyperwall Storytelling por especialistas da NASA. Agenda completa do Hyperwall abaixo. SEGUNDA-FEIRA, 10 DE AGOSTO 15h Tecnologia.",
-    "sub_en": "IGARSS 2026 Join NASA in the Exhibit Hall for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, AUGUST 10 3: 00 PM Technology Enabling the Future of.",
-    "excerpt": "IGARSS 2026 Junte-se à NASA no Exhibit Hall for Hyperwall Storytelling por especialistas da NASA. Agenda completa do Hyperwall abaixo. SEGUNDA-FEIRA, 10 DE AGOSTO 15h Tecnologia que possibilita o futuro da ciência da TerraMike Seablom3: 15h Descoberta da.",
-    "excerpt_pt": "IGARSS 2026 Junte-se à NASA no Exhibit Hall for Hyperwall Storytelling por especialistas da NASA. Agenda completa do Hyperwall abaixo. SEGUNDA-FEIRA, 10 DE AGOSTO 15h Tecnologia que possibilita o futuro da ciência da TerraMike Seablom3: 15h Descoberta da.",
-    "excerpt_en": "IGARSS 2026 Join NASA in the Exhibit Hall for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, AUGUST 10 3: 00 PM Technology Enabling the Future of Earth ScienceMike Seablom3: 15 PM Discovery Earth: New Missions.",
-    "body": "<p>IGARSS 2026 Junte-se à NASA no Exhibit Hall for Hyperwall Storytelling por especialistas da NASA. Agenda completa do Hyperwall abaixo. SEGUNDA-FEIRA, 10 DE AGOSTO 15h Tecnologia que possibilita o futuro da ciência da TerraMike Seablom3: 15h Descoberta da Terra: novas missões. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. IGARSS 2026 Junte-se à NASA no Exhibit Hall (Estande #100) para contar histórias em Hyperwall por especialistas da NASA. SEGUNDA-FEIRA, 10 DE AGOSTO 15h Tecnologia que possibilita o futuro da ciência da TerraMike Seablom 15h15 Descoberta da Terra: novas missões e inovação técnica Avançando os.</p><p>Germain TERÇA-FEIRA, 11 DE AGOSTO 10: 00 AMSTELLA: Plataformas multisenor de código aberto para tempo real. Explore esta seção Earth Earth Observer Canto do editor Artigos de destaque Resumos de reuniões Notícias Ciência nas notícias In Memoriam Arquivos de anúncios IGARSS 2026 Junte-se.</p><p>SEGUNDA-FEIRA, 10 DE AGOSTO 15h Tecnologia que possibilita o futuro das ciências da Terra Mike Seablom 15h15 Descoberta da Terra: novas missões e inovação técnica Avançando os. Germain TERÇA-FEIRA, 11 DE AGOSTO 10h STELLA: Plataformas multisenor de código aberto para monitoramento ambiental em tempo real Mike Taylor 10h15 Satélites geoestacionários NOAA.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>IGARSS 2026 Junte-se à NASA no Exhibit Hall for Hyperwall Storytelling por especialistas da NASA. Agenda completa do Hyperwall abaixo. SEGUNDA-FEIRA, 10 DE AGOSTO 15h Tecnologia que possibilita o futuro da ciência da TerraMike Seablom3: 15h Descoberta da Terra: novas missões. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. IGARSS 2026 Junte-se à NASA no Exhibit Hall (Estande #100) para contar histórias em Hyperwall por especialistas da NASA. SEGUNDA-FEIRA, 10 DE AGOSTO 15h Tecnologia que possibilita o futuro da ciência da TerraMike Seablom 15h15 Descoberta da Terra: novas missões e inovação técnica Avançando os.</p><p>Germain TERÇA-FEIRA, 11 DE AGOSTO 10: 00 AMSTELLA: Plataformas multisenor de código aberto para tempo real. Explore esta seção Earth Earth Observer Canto do editor Artigos de destaque Resumos de reuniões Notícias Ciência nas notícias In Memoriam Arquivos de anúncios IGARSS 2026 Junte-se.</p><p>SEGUNDA-FEIRA, 10 DE AGOSTO 15h Tecnologia que possibilita o futuro das ciências da Terra Mike Seablom 15h15 Descoberta da Terra: novas missões e inovação técnica Avançando os. Germain TERÇA-FEIRA, 11 DE AGOSTO 10h STELLA: Plataformas multisenor de código aberto para monitoramento ambiental em tempo real Mike Taylor 10h15 Satélites geoestacionários NOAA.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>IGARSS 2026 Join NASA in the Exhibit Hall for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, AUGUST 10 3: 00 PM Technology Enabling the Future of Earth ScienceMike Seablom3: 15 PM Discovery Earth: New Missions. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts. 00 PM Technology Enabling the Future of Earth ScienceMike Seablom3: 15 PM Discovery Earth: New Missions &amp; Technical Innovation Advancing Earth System InsightsKaren St.</p><p>00 AMSTELLA: Open-Source Multisenor Platforms For Real-Time. Explore This Section Earth Earth Observer Editor’s Corner Feature Articles Meeting Summaries News Science in the News In Memoriam Announcements Archives IGARSS 2026 Join NASA in.</p><p>00 PM Technology Enabling the Future of Earth Science Mike Seablom 3: 15 PM Discovery Earth: New Missions &amp; Technical Innovation Advancing Earth System Insights Karen St. 00 AM STELLA: Open-Source Multisenor Platforms For Real-Time Environmental Monitoring Mike Taylor 10: 15 AM NOAA Geostationary Satellites: Valuable Data for both Research and.</p><p>15 PM The Importance of Satellite Ocean Observations at NOAA Paul Chang WEDNESDAY, AUGUST 12 10: 00 AM Enabling Earth Science Data to Serve Society Joel Scott 10: 15 AM. Earth Earth Observer Editor&#x27;s Corner Feature Articles Meeting Summaries News Science in the News In Memoriam Announcements Archives 1 min read Join NASA in the Exhibit Hall (Booth.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: IGARSS 2026 Junte-se à NASA no Exhibit Hall for Hyperwall Storytelling por especialistas da NASA. Agenda completa do Hyperwall abaixo. SEGUNDA-FEIRA.",
-      "Dado-chave: IGARSS 2026 Junte-se à NASA no Exhibit Hall (Estande #100) para contar histórias em Hyperwall por especialistas da NASA.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: IGARSS 2026 Junte-se à NASA no Exhibit Hall for Hyperwall Storytelling por especialistas da NASA. Agenda completa do Hyperwall abaixo. SEGUNDA-FEIRA.",
-      "Dado-chave: IGARSS 2026 Junte-se à NASA no Exhibit Hall (Estande #100) para contar histórias em Hyperwall por especialistas da NASA.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: IGARSS 2026 Join NASA in the Exhibit Hall for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, AUGUST 10 3: 00 PM.",
-      "Key detail: IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "07 ago 2026",
-    "date_pt": "07 ago 2026",
-    "date_en": "07 Aug 2026",
-    "time": "18h57",
-    "time_pt": "18h57",
-    "time_en": "18:57 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-07T18:57:34+00:00",
-    "lastModifiedIso": "2026-08-07T18:57:34+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Cronograma do Hyperwall IGARSS 2026"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Cronograma do Hyperwall IGARSS 2026"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "IGARSS 2026 Hyperwall Schedule"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=2026-igarss-hyperwall-schedule",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=2026-igarss-hyperwall-schedule",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=2026-igarss-hyperwall-schedule&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 79,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 28,
     "slug": "sensing-the-poles-hidden-heat",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3408,7 +3293,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 28,
     "slug": "science-campaigns-planned-for-the-august-12th-total-solar-eclipse",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3541,12 +3426,40 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 29,
     "slug": "your-chance-to-run-software-in-deep-space-on-esa-s-asteroid-mission",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2019/06/hera_surveying_dimorphos/19433870-2-eng-GB/Hera_surveying_Dimorphos_card_full.png",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/overseeing_hera_from_esoc_s_interplanetary_control_room/27367931-1-eng-GB/Overseeing_Hera_from_ESOC_s_Interplanetary_Control_Room_article.jpg",
+        "caption": "Supervisionando Hera da Sala de Controle Interplanetário do ESOC",
+        "caption_pt": "Supervisionando Hera da Sala de Controle Interplanetário do ESOC",
+        "caption_en": "Overseeing Hera from ESOC's Interplanetary Control Room",
+        "alt": "Supervisionando Hera do ESOC",
+        "alt_pt": "Supervisionando Hera do ESOC",
+        "alt_en": "Overseeing Hera from ESOC"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/02/hera_approaches_dimorphos/25470208-3-eng-GB/Hera_approaches_Dimorphos_article.png",
+        "caption": "Hera se aproxima de Dimorphos",
+        "caption_pt": "Hera se aproxima de Dimorphos",
+        "caption_en": "Hera approaches Dimorphos",
+        "alt": "Hera se aproxima de Dimorphos",
+        "alt_pt": "Hera se aproxima de Dimorphos",
+        "alt_en": "Hera approaches Dimorphos"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/06/dimorphos_asteroid_seen_by_dart/24958158-1-eng-GB/Dimorphos_asteroid_seen_by_DART_article.png",
+        "caption": "Asteróide Dimorphos visto pelo DART",
+        "caption_pt": "Asteróide Dimorphos visto pelo DART",
+        "caption_en": "Dimorphos asteroid seen by DART",
+        "alt": "Asteróide Dimorphos visto pelo DART",
+        "alt_pt": "Asteróide Dimorphos visto pelo DART",
+        "alt_en": "Dimorphos asteroid seen by DART"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "A sua oportunidade de executar software no espaço profundo na missão de asteróide da ESA",
@@ -3558,9 +3471,9 @@ window.postsData = [
     "excerpt": "A Agência Espacial Europeia está a oferecer aos investigadores e às empresas europeias uma oportunidade rara e emocionante de executar o seu software inovador diretamente no espaço profundo, a bordo da missão Hera da ESA, a milhões de quilómetros de distância.",
     "excerpt_pt": "A Agência Espacial Europeia está a oferecer aos investigadores e às empresas europeias uma oportunidade rara e emocionante de executar o seu software inovador diretamente no espaço profundo, a bordo da missão Hera da ESA, a milhões de quilómetros de distância.",
     "excerpt_en": "The European Space Agency is offering European researchers and companies a rare and exciting opportunity to run their innovative software directly in deep space aboard ESA’s Hera mission, millions of kilometres away.",
-    "body": "<p>A Agência Espacial Europeia está a oferecer aos investigadores e às empresas europeias uma oportunidade rara e emocionante de executar o seu software inovador diretamente no espaço profundo, a bordo da missão Hera da ESA, a milhões de quilómetros de distância. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A Agência Espacial Europeia está a oferecer aos investigadores e às empresas europeias uma oportunidade rara e emocionante de executar o seu software inovador diretamente no espaço profundo, a bordo da missão Hera da ESA, a milhões de quilómetros de distância. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency is offering European researchers and companies a rare and exciting opportunity to run their innovative software directly in deep space aboard ESA’s Hera mission, millions of kilometres away. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A Agência Espacial Europeia está a oferecer aos investigadores e às empresas europeias uma oportunidade rara e emocionante de executar o seu software inovador diretamente no espaço profundo, a bordo da missão Hera da ESA, a milhões de quilómetros de distância. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Em meados de 2027, a missão Hera da ESA deverá completar os seus principais objectivos de defesa planetária em torno dos asteróides Didymos e Dimorphos. A nave espacial assumirá então um novo papel, tornar-se-á um laboratório de software voador único, a 150 milhões de quilómetros da Terra.</p><p>Dietmar Pilz, Diretor de Tecnologia, Engenharia e Qualidade da ESA, comenta. Estas ideias ajudarão a ESA a amadurecer tecnologias que reduzem a dependência do controlo terrestre, aumentam a resiliência da missão e permitem missões de exploração futuras.</p><p>Se tiver uma ideia que irá ampliar ainda mais os limites da missão, envie as suas ideias através da Plataforma de Inovação em Espaço Aberto da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Agência Espacial Europeia está a oferecer aos investigadores e às empresas europeias uma oportunidade rara e emocionante de executar o seu software inovador diretamente no espaço profundo, a bordo da missão Hera da ESA, a milhões de quilómetros de distância. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Em meados de 2027, a missão Hera da ESA deverá completar os seus principais objectivos de defesa planetária em torno dos asteróides Didymos e Dimorphos. A nave espacial assumirá então um novo papel, tornar-se-á um laboratório de software voador único, a 150 milhões de quilómetros da Terra.</p><p>Dietmar Pilz, Diretor de Tecnologia, Engenharia e Qualidade da ESA, comenta. Estas ideias ajudarão a ESA a amadurecer tecnologias que reduzem a dependência do controlo terrestre, aumentam a resiliência da missão e permitem missões de exploração futuras.</p><p>Se tiver uma ideia que irá ampliar ainda mais os limites da missão, envie as suas ideias através da Plataforma de Inovação em Espaço Aberto da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency is offering European researchers and companies a rare and exciting opportunity to run their innovative software directly in deep space aboard ESA’s Hera mission, millions of kilometres away. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. In mid-2027, ESA’s Hera mission is set to complete its primary planetary defence goals around the Didymos and Dimorphos asteroids. The spacecraft will then take on a new role, it will become a unique flying software laboratory 150 million km from Earth.</p><p>Dietmar Pilz, ESA’s Director of Technology, Engineering and Quality, comments. These ideas will help ESA mature technologies that reduce reliance on ground control, increase mission resilience, and enable more capable future exploration missions.” By opening.</p><p>If you have an idea that will push the boundaries of the mission even further, submit your ideas via ESA&#x27;s Open Space Innovation Platform. Launched in 2024, Hera is currently on course to reach its target this autumn: asteroid Dimorphos.</p><p>In 2022 NASA’s DART spacecraft deliberately impacted Dimorphos to shift its orbit around parent body Didymos. The submission will need to be submitted via an outline form, for an initial ESA evaluation.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>In mid-October 2026,ESA will select the winning ideas. The chosen teams will be invited to submit their implementation package and source code in full for detailed validation, with a deadline for submitting the full implementation on.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A Agência Espacial Europeia está a oferecer aos investigadores e às empresas europeias uma oportunidade rara e emocionante de executar o seu software.",
       "Dado-chave: A Agência Espacial Europeia está a oferecer aos investigadores e às empresas europeias uma oportunidade rara e emocionante de executar o seu.",
@@ -3646,7 +3559,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 30,
     "slug": "a-new-way-to-map-the-universe-s-missing-matter",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3779,7 +3692,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 31,
     "slug": "spacex-junk-hits-the-moon-not-a-good-sign",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3907,7 +3820,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 32,
     "slug": "astronomers-find-a-new-object-from-the-early-universe-using-webb-data",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4031,7 +3944,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 33,
     "slug": "this-week-s-sky-at-a-glance-august-7-16",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4167,7 +4080,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 34,
     "slug": "all-i-need-for-a-night-of-stargazing-is",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4282,7 +4195,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 35,
     "slug": "metallic-waves-on-ancient-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4387,7 +4300,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 36,
     "slug": "a-perfectly-timed-perseid-meteor-shower",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4520,7 +4433,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 37,
     "slug": "scientist-constructs-big-picture-of-mars-water-from-rover-data",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4644,7 +4557,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 38,
     "slug": "interstellar-travel-the-space-age-and-nuclear-rockets",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4765,7 +4678,7 @@ window.postsData = [
     }
   },
   {
-    "id": 40,
+    "id": 39,
     "slug": "iris-reinforced-and-accelerated-as-implementation-advances",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4865,6 +4778,139 @@ window.postsData = [
       "source": 80,
       "evidence": 82,
       "relevance": 80,
+      "accessibility": 60,
+      "novelty": 49
+    }
+  },
+  {
+    "id": 40,
+    "slug": "nasa-s-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2024e072072.jpg?w=1536",
+    "inline_images": [
+      {
+        "src": "https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-1.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-2.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-3.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Instalação de desenvolvimento e testes lunares da NASA prepara hardware Artemis para a Lua",
+    "title_pt": "Instalação de desenvolvimento e testes lunares da NASA prepara hardware Artemis para a Lua",
+    "title_en": "NASA’s Lunar Development and Test Facility Prepares Artemis Hardware for Moon",
+    "sub": "Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que pode sobreviver ao implacável.",
+    "sub_pt": "Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que pode sobreviver ao implacável.",
+    "sub_en": "Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the unforgiving lunar environment. At.",
+    "excerpt": "Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que pode sobreviver ao implacável ambiente lunar. No Johnson Space Center da NASA em Houston, engenheiros da Lunar.",
+    "excerpt_pt": "Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que pode sobreviver ao implacável ambiente lunar. No Johnson Space Center da NASA em Houston, engenheiros da Lunar.",
+    "excerpt_en": "Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the unforgiving lunar environment. At NASA’s Johnson Space Center in Houston, engineers at the Lunar.",
+    "body": "<p>Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que pode sobreviver ao implacável ambiente lunar. No Johnson Space Center da NASA em Houston, engenheiros da Lunar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 3 minutos de leitura As instalações de desenvolvimento e testes lunares da NASA preparam o hardware Artemis para a Lua A ferramenta portátil de mitigação de poeira eletrostática. NASA/Josh Valcarcel Antes dos astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que pode sobreviver.</p><p>A ferramenta portátil de mitigação de poeira eletrostática lunar é testada dentro das instalações de desenvolvimento e teste lunar no Johnson Space Center da NASA em Houston. NASA/Josh Valcarcel Localizada na Área de Teste de Sistemas de Energia e gerenciada por engenheiros da NASA, a Instalação de Desenvolvimento e Teste Lunar apoia o desenvolvimento.</p><p>NASA/Josh Valcarcel Agora, qualquer pessoa pode entrar nas instalações de qualquer lugar.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que pode sobreviver ao implacável ambiente lunar. No Johnson Space Center da NASA em Houston, engenheiros da Lunar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 3 minutos de leitura As instalações de desenvolvimento e testes lunares da NASA preparam o hardware Artemis para a Lua A ferramenta portátil de mitigação de poeira eletrostática. NASA/Josh Valcarcel Antes dos astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que pode sobreviver.</p><p>A ferramenta portátil de mitigação de poeira eletrostática lunar é testada dentro das instalações de desenvolvimento e teste lunar no Johnson Space Center da NASA em Houston. NASA/Josh Valcarcel Localizada na Área de Teste de Sistemas de Energia e gerenciada por engenheiros da NASA, a Instalação de Desenvolvimento e Teste Lunar apoia o desenvolvimento.</p><p>NASA/Josh Valcarcel Agora, qualquer pessoa pode entrar nas instalações de qualquer lugar.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the unforgiving lunar environment. At NASA’s Johnson Space Center in Houston, engineers at the Lunar. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the unforgiving lunar environment. 3 Min Read NASA’s Lunar Development and Test Facility Prepares Artemis Hardware for Moon The Handheld Lunar Electrostatic Dust Mitigation tool is tested inside the Lunar.</p><p>NASA/Josh Valcarcel Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the unforgiving. The Handheld Lunar Electrostatic Dust Mitigation tool is tested inside the Lunar Development and Test Facility at NASA’s Johnson Space Center in Houston.</p><p>NASA/Josh Valcarcel Located within the Energy Systems Test Area and managed by NASA engineers, the Lunar Development and Test Facility supports the development and testing of. NASA/Josh Valcarcel Now, anyone can step inside the facility from anywhere.</p><p>Tech Demonstrations Article 5 days ago 5 min read Ike Theriot Helps Prepare Astronauts to Work on the Moon Article 6 days ago Keep Exploring Discover More Topics From NASA. Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the Article Before astronauts return to.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>At NASA’s Johnson Space Center in Houston, engineers at the Lunar Development and Test Facility are tackling one of exploration’s biggest challenges: Moon dust. Located within the Energy Systems Test Area and managed by NASA engineers, the Lunar Development and Test Facility supports the development and testing of hardware in simulated.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que.",
+      "Dado-chave: Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar que.",
+      "Dado-chave: Antes de os astronautas regressarem à superfície da Lua através do programa Artemis da NASA, o hardware do qual dependem deve primeiro provar.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the.",
+      "Key detail: Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "07 ago 2026",
+    "date_pt": "07 ago 2026",
+    "date_en": "07 Aug 2026",
+    "time": "06h25",
+    "time_pt": "06h25",
+    "time_en": "06:25 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-07T06:25:27+00:00",
+    "lastModifiedIso": "2026-08-07T06:25:27+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Instalação de desenvolvimento e testes lunares da NASA prepara hardware Artemis para a Lua"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Instalação de desenvolvimento e testes lunares da NASA prepara hardware Artemis para a Lua"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Lunar Development and Testing Facility Prepares Artemis Hardware for the Moon"
+    ],
+    "srcUrl": "https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 73,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 82,
+      "relevance": 62,
       "accessibility": 60,
       "novelty": 49
     }

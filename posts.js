@@ -3,117 +3,6 @@
 window.postsData = [
   {
     "id": 1,
-    "slug": "for-adults-with-prediabetes-lifestyle-intervention-lowered-risk-of-developing-multiple-chronic-c",
-    "cat": "Biologia",
-    "catCls": "biologia",
-    "img": "https://www.nih.gov/sites/default/files/styles/max_650x650/public/2026-06/20260615-diabetes_0.jpeg?itok=PBSwhu1w",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Para adultos com pré-diabetes, a intervenção no estilo de vida reduziu o risco de desenvolver múltiplas condições crónicas",
-    "title_pt": "Para adultos com pré-diabetes, a intervenção no estilo de vida reduziu o risco de desenvolver múltiplas condições crónicas",
-    "title_en": "For adults with prediabetes, lifestyle intervention lowered risk of developing multiple chronic conditions",
-    "sub": "Ensaio clínico de longo prazo apoiado pelo NIH não encontrou diferença entre metformina e placebo.",
-    "sub_pt": "Ensaio clínico de longo prazo apoiado pelo NIH não encontrou diferença entre metformina e placebo.",
-    "sub_en": "NIH-supported, long-term clinical trial found no difference between metformin and placebo.",
-    "excerpt": "Ensaio clínico de longo prazo apoiado pelo NIH não encontrou diferença entre metformina e placebo.",
-    "excerpt_pt": "Ensaio clínico de longo prazo apoiado pelo NIH não encontrou diferença entre metformina e placebo.",
-    "excerpt_en": "NIH-supported, long-term clinical trial found no difference between metformin and placebo.",
-    "body": "<p>Ensaio clínico de longo prazo apoiado pelo NIH não encontrou diferença entre metformina e placebo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Um ensaio clínico apoiado pelos Institutos Nacionais de Saúde (NIH) descobriu que adultos com pré-diabetes submetidos a uma intervenção no estilo de vida tinham um risco. “A multimorbilidade é um problema comum e foram encontradas poucas intervenções para prevenir ou retardar o desenvolvimento de múltiplas condições crónicas”, disse Marcel Salive.</p><p>E acompanhou 1.173 participantes que apresentavam alto risco de diabetes, estavam inscritos no Medicare e consentiram com a vinculação de suas reivindicações aos Centers for. Na primeira parte do estudo, o Programa de Prevenção de Diabetes do NIH (DPP), de 1996 a 1999, os participantes foram aleatoriamente designados para uma intervenção intensiva no.</p><p>Na primeira parte do estudo, foram oferecidas aos participantes do estilo de vida 16 sessões individuais de intervenções, seguidas de sessões mensais durante aproximadamente dois. O programa de mudança de comportamento teve como objetivo a redução de calorias e gordura e pelo menos 150 minutos de atividade física por semana para atingir uma perda de peso.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/adults-prediabetes-lifestyle-intervention-lowered-risk-developing-multiple-chronic-conditions\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Ensaio clínico de longo prazo apoiado pelo NIH não encontrou diferença entre metformina e placebo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Um ensaio clínico apoiado pelos Institutos Nacionais de Saúde (NIH) descobriu que adultos com pré-diabetes submetidos a uma intervenção no estilo de vida tinham um risco. “A multimorbilidade é um problema comum e foram encontradas poucas intervenções para prevenir ou retardar o desenvolvimento de múltiplas condições crónicas”, disse Marcel Salive.</p><p>E acompanhou 1.173 participantes que apresentavam alto risco de diabetes, estavam inscritos no Medicare e consentiram com a vinculação de suas reivindicações aos Centers for. Na primeira parte do estudo, o Programa de Prevenção de Diabetes do NIH (DPP), de 1996 a 1999, os participantes foram aleatoriamente designados para uma intervenção intensiva no.</p><p>Na primeira parte do estudo, foram oferecidas aos participantes do estilo de vida 16 sessões individuais de intervenções, seguidas de sessões mensais durante aproximadamente dois. O programa de mudança de comportamento teve como objetivo a redução de calorias e gordura e pelo menos 150 minutos de atividade física por semana para atingir uma perda de peso.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/adults-prediabetes-lifestyle-intervention-lowered-risk-developing-multiple-chronic-conditions\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>NIH-supported, long-term clinical trial found no difference between metformin and placebo. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. A clinical trial supported by the National Institutes of Health (NIH) found that adults with prediabetes assigned to a lifestyle intervention had a significantly lower risk of. “Multimorbidity is a common issue, and few interventions have been found to prevent or delay developing multiple chronic conditions,” said Marcel Salive, M. D, first author of the.</p><p>And followed 1,173 participants who were at high risk of diabetes, were enrolled in Medicare, and consented to the linkage of their Centers for Medicare &amp; Medicaid (CMS) claims. In the first part of the study, the NIH Diabetes Prevention Program (DPP), from 1996 to 1999, participants were randomly assigned to an intensive lifestyle intervention, metformin.</p><p>In the first part of the study, lifestyle participants were offered 16 individual sessions of interventions followed by monthly sessions for approximately two years. The behavior change program targeted reduced calories and fat and at least 150 minutes of physical activity a week to achieve greater than or equal to 7% weight loss from baseline.</p><p>By the end of follow-up, the researchers found that 85% of the study participants experienced two or more chronic conditions, with 82%, 85%, and 87% experiencing multimorbidity. Compared with the placebo group, participants in the lifestyle intervention had 21% lower risk for two chronic conditions and 25% lower risk for three chronic conditions.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>The study examined 15 chronic conditions commonly tracked in Medicare data, including hypertension, heart disease, stroke, arthritis, chronic kidney disease, COPD, cancer. Https: //www. niddk. nih. gov About the National Institute on Aging (NIA): NIA seeks to understand the nature of aging and diseases associated with growing older, with the goal of.</p><p>Because the account originates with NIH News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/adults-prediabetes-lifestyle-intervention-lowered-risk-developing-multiple-chronic-conditions\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Ensaio clínico de longo prazo apoiado pelo NIH não encontrou diferença entre metformina e placebo.",
-      "Dado-chave: Um ensaio clínico apoiado pelos Institutos Nacionais de Saúde (NIH) descobriu que adultos com pré-diabetes submetidos a uma intervenção no.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Ensaio clínico de longo prazo apoiado pelo NIH não encontrou diferença entre metformina e placebo.",
-      "Dado-chave: Um ensaio clínico apoiado pelos Institutos Nacionais de Saúde (NIH) descobriu que adultos com pré-diabetes submetidos a uma intervenção no.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NIH-supported, long-term clinical trial found no difference between metformin and placebo.",
-      "Key detail: A clinical trial supported by the National Institutes of Health (NIH) found that adults with prediabetes assigned to a lifestyle intervention.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "11 ago 2026",
-    "date_pt": "11 ago 2026",
-    "date_en": "11 Aug 2026",
-    "time": "15h11",
-    "time_pt": "15h11",
-    "time_en": "15:11 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-11T15:11:06.692775+00:00",
-    "lastModifiedIso": "2026-08-11T15:11:06.692775+00:00",
-    "source": "NIH News Releases",
-    "sourceDomain": "www.nih.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Biologia",
-      "NIH News Releases",
-      "Cosmos Week",
-      "Para adultos com pré",
-      "diabetes",
-      "a intervenção no estilo de vida reduziu o risco de desenvolver múltiplas condições crónicas"
-    ],
-    "keywords_pt": [
-      "Biologia",
-      "NIH News Releases",
-      "Cosmos Week",
-      "Para adultos com pré",
-      "diabetes",
-      "a intervenção no estilo de vida reduziu o risco de desenvolver múltiplas condições crónicas"
-    ],
-    "keywords_en": [
-      "Biology",
-      "NIH News Releases",
-      "Cosmos Week",
-      "For adults with pre",
-      "diabetes",
-      "lifestyle intervention reduced the risk of developing multiple chronic conditions"
-    ],
-    "srcUrl": "https://www.nih.gov/news-events/news-releases/adults-prediabetes-lifestyle-intervention-lowered-risk-developing-multiple-chronic-conditions",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=for-adults-with-prediabetes-lifestyle-intervention-lowered-risk-of-developing-multiple-chronic-c",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=for-adults-with-prediabetes-lifestyle-intervention-lowered-risk-of-developing-multiple-chronic-c",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=for-adults-with-prediabetes-lifestyle-intervention-lowered-risk-of-developing-multiple-chronic-c&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 70,
-    "scoreBreakdown": {
-      "source": 79,
-      "evidence": 82,
-      "relevance": 62,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 2,
     "slug": "researchers-discover-single-cell-brain-activity-that-underlies-human-speech",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -151,14 +40,14 @@ window.postsData = [
     "date": "11 ago 2026",
     "date_pt": "11 ago 2026",
     "date_en": "11 Aug 2026",
-    "time": "15h11",
-    "time_pt": "15h11",
-    "time_en": "15:11 UTC",
+    "time": "16h28",
+    "time_pt": "16h28",
+    "time_en": "16:28 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-11T15:11:06.692730+00:00",
-    "lastModifiedIso": "2026-08-11T15:11:06.692730+00:00",
+    "publishedIso": "2026-08-11T16:28:34.732704+00:00",
+    "lastModifiedIso": "2026-08-11T16:28:34.732704+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -218,7 +107,7 @@ window.postsData = [
     }
   },
   {
-    "id": 3,
+    "id": 2,
     "slug": "nih-s-all-of-us-research-program-is-now-the-largest-integrated-genomics-and-health-database-in-t",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -256,14 +145,14 @@ window.postsData = [
     "date": "11 ago 2026",
     "date_pt": "11 ago 2026",
     "date_en": "11 Aug 2026",
-    "time": "15h11",
-    "time_pt": "15h11",
-    "time_en": "15:11 UTC",
+    "time": "16h28",
+    "time_pt": "16h28",
+    "time_en": "16:28 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-11T15:11:06.692685+00:00",
-    "lastModifiedIso": "2026-08-11T15:11:06.692685+00:00",
+    "publishedIso": "2026-08-11T16:28:34.732659+00:00",
+    "lastModifiedIso": "2026-08-11T16:28:34.732659+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -323,7 +212,7 @@ window.postsData = [
     }
   },
   {
-    "id": 4,
+    "id": 3,
     "slug": "new-alzheimer-s-blood-test-may-tell-when-symptoms-are-around-the-corner",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -361,14 +250,14 @@ window.postsData = [
     "date": "11 ago 2026",
     "date_pt": "11 ago 2026",
     "date_en": "11 Aug 2026",
-    "time": "15h11",
-    "time_pt": "15h11",
-    "time_en": "15:11 UTC",
+    "time": "16h28",
+    "time_pt": "16h28",
+    "time_en": "16:28 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-11T15:11:06.692629+00:00",
-    "lastModifiedIso": "2026-08-11T15:11:06.692629+00:00",
+    "publishedIso": "2026-08-11T16:28:34.732592+00:00",
+    "lastModifiedIso": "2026-08-11T16:28:34.732592+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -428,7 +317,7 @@ window.postsData = [
     }
   },
   {
-    "id": 5,
+    "id": 4,
     "slug": "brain-immunity-may-undergo-a-major-midlife-overhaul",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -466,14 +355,14 @@ window.postsData = [
     "date": "11 ago 2026",
     "date_pt": "11 ago 2026",
     "date_en": "11 Aug 2026",
-    "time": "15h11",
-    "time_pt": "15h11",
-    "time_en": "15:11 UTC",
+    "time": "16h28",
+    "time_pt": "16h28",
+    "time_en": "16:28 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-11T15:11:06.692582+00:00",
-    "lastModifiedIso": "2026-08-11T15:11:06.692582+00:00",
+    "publishedIso": "2026-08-11T16:28:34.732546+00:00",
+    "lastModifiedIso": "2026-08-11T16:28:34.732546+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -536,7 +425,245 @@ window.postsData = [
     }
   },
   {
+    "id": 5,
+    "slug": "nih-selects-dr-courtney-aklin-as-director-of-the-national-institute-of-nursing-research",
+    "cat": "Biologia",
+    "catCls": "biologia",
+    "img": "https://www.nih.gov/sites/default/files/styles/max_650x650/public/2026-07/20260724-CourtneyAklin_1.jpg?itok=qlkS75Sc",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "NIH seleciona Dra. Courtney Aklin como diretora do Instituto Nacional de Pesquisa em Enfermagem",
+    "title_pt": "NIH seleciona Dra. Courtney Aklin como diretora do Instituto Nacional de Pesquisa em Enfermagem",
+    "title_en": "NIH selects Dr. Courtney Aklin as director of the National Institute of Nursing Research",
+    "sub": "O Diretor do National Institutes of Health, Jay Bhattacharya, M. D, Ph. D, anunciou hoje a seleção de Courtney F.",
+    "sub_pt": "O Diretor do National Institutes of Health, Jay Bhattacharya, M. D, Ph. D, anunciou hoje a seleção de Courtney F.",
+    "sub_en": "National Institutes of Health Director Jay Bhattacharya, M. D, Ph. D, today announced the selection of Courtney F.",
+    "excerpt": "O Diretor do National Institutes of Health, Jay Bhattacharya, M. D, Ph. D, anunciou hoje a seleção de Courtney F.",
+    "excerpt_pt": "O Diretor do National Institutes of Health, Jay Bhattacharya, M. D, Ph. D, anunciou hoje a seleção de Courtney F.",
+    "excerpt_en": "National Institutes of Health Director Jay Bhattacharya, M. D, Ph. D, today announced the selection of Courtney F.",
+    "body": "<p>O Diretor do National Institutes of Health, Jay Bhattacharya, M. D, Ph. D, anunciou hoje a seleção de Courtney F. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. O diretor do National Institutes of Health (NIH), Jay Bhattacharya, M. D, Ph. D, anunciou hoje a seleção de Courtney F. Aklin é atualmente Diretora Interina e Diretora Científica Interina do NINR, cargos que ocupa desde abril de 2025.</p><p>Nessas funções, ela liderou a estratégia científica e organizacional do NINR, fortaleceu as colaborações em todo o NIH e avançou as prioridades de pesquisa que posicionam a. “A ciência da enfermagem desempenha um papel vital na melhoria dos resultados de saúde dos pacientes e familiares em todas as fases da vida”, disse o Dr.</p><p>Aklin passou mais de duas décadas no NIH e, por mais de um ano, liderou efetivamente o NINR como Diretor Interino. Aklin supervisionará o orçamento anual do NINR de quase US$ 200 milhões, a maioria dos quais apoia pesquisas extramuros em instituições nos Estados Unidos.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/nih-selects-dr-courtney-aklin-director-national-institute-nursing-research\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O Diretor do National Institutes of Health, Jay Bhattacharya, M. D, Ph. D, anunciou hoje a seleção de Courtney F. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. O diretor do National Institutes of Health (NIH), Jay Bhattacharya, M. D, Ph. D, anunciou hoje a seleção de Courtney F. Aklin é atualmente Diretora Interina e Diretora Científica Interina do NINR, cargos que ocupa desde abril de 2025.</p><p>Nessas funções, ela liderou a estratégia científica e organizacional do NINR, fortaleceu as colaborações em todo o NIH e avançou as prioridades de pesquisa que posicionam a. “A ciência da enfermagem desempenha um papel vital na melhoria dos resultados de saúde dos pacientes e familiares em todas as fases da vida”, disse o Dr.</p><p>Aklin passou mais de duas décadas no NIH e, por mais de um ano, liderou efetivamente o NINR como Diretor Interino. Aklin supervisionará o orçamento anual do NINR de quase US$ 200 milhões, a maioria dos quais apoia pesquisas extramuros em instituições nos Estados Unidos.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/nih-selects-dr-courtney-aklin-director-national-institute-nursing-research\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>National Institutes of Health Director Jay Bhattacharya, M. D, Ph. D, today announced the selection of Courtney F. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. National Institutes of Health (NIH) Director Jay Bhattacharya, M. D, Ph. D, today announced the selection of Courtney F. Aklin is currently the Acting Director and Acting Scientific Director at NINR, positions she has held since April 2025.</p><p>In these roles, she has led the NINR’s scientific and organizational strategy, strengthened NIH-wide collaborations and advanced research priorities that position nursing science. “Nursing science plays a vital role in improving health outcomes for patients and families at every stage of life,” said Dr.</p><p>Aklin has spent more than two decades at NIH, and for more than a year, has effectively led NINR as Acting Director. Aklin will oversee NINR’s annual budget of nearly $200 million, the majority of which supports extramural research at institutions across the United States.</p><p>NINR researchers and supported science teams conduct rigorous, solutions-oriented research to address pressing health challenges, improve care delivery, and inform practice. Aklin has more than 21 years of scientific, strategic, and executive leadership experience at NIH, with a career dedicated to advancing biomedical research, strengthening.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>She additionally served as Acting Associate Deputy Director of NIH from December 2021 to September 2023 and was also a senior advisor within the Immediate Office of the Director. She came to NIH in 2004 as an American Association for the Advancement of Sciences Science and Technology Policy Fellow to work on activities related to the Interagency Autism.</p><p>Because the account originates with NIH News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/nih-selects-dr-courtney-aklin-director-national-institute-nursing-research\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O Diretor do National Institutes of Health, Jay Bhattacharya, M. D, Ph. D, anunciou hoje a seleção de Courtney F.",
+      "Dado-chave: O diretor do National Institutes of Health (NIH), Jay Bhattacharya, M. D, Ph. D, anunciou hoje a seleção de Courtney F.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O Diretor do National Institutes of Health, Jay Bhattacharya, M. D, Ph. D, anunciou hoje a seleção de Courtney F.",
+      "Dado-chave: O diretor do National Institutes of Health (NIH), Jay Bhattacharya, M. D, Ph. D, anunciou hoje a seleção de Courtney F.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: National Institutes of Health Director Jay Bhattacharya, M. D, Ph. D, today announced the selection of Courtney F.",
+      "Key detail: National Institutes of Health (NIH) Director Jay Bhattacharya, M. D, Ph. D, today announced the selection of Courtney F.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "11 ago 2026",
+    "date_pt": "11 ago 2026",
+    "date_en": "11 Aug 2026",
+    "time": "16h28",
+    "time_pt": "16h28",
+    "time_en": "16:28 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-11T16:28:34.732497+00:00",
+    "lastModifiedIso": "2026-08-11T16:28:34.732497+00:00",
+    "source": "NIH News Releases",
+    "sourceDomain": "www.nih.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "watch",
+    "editorialBandLabel": "Leitura monitorada",
+    "editorialBandLabel_pt": "Leitura monitorada",
+    "editorialBandLabel_en": "Watchlist",
+    "keywords": [
+      "Biologia",
+      "NIH News Releases",
+      "Cosmos Week",
+      "NIH seleciona Dra. Courtney Aklin como diretora do Instituto Nacional de Pesquisa em Enfermagem"
+    ],
+    "keywords_pt": [
+      "Biologia",
+      "NIH News Releases",
+      "Cosmos Week",
+      "NIH seleciona Dra. Courtney Aklin como diretora do Instituto Nacional de Pesquisa em Enfermagem"
+    ],
+    "keywords_en": [
+      "Biology",
+      "NIH News Releases",
+      "Cosmos Week",
+      "NIH Selects Dr. Courtney Aklin as Director of the National Institute of Nursing Research"
+    ],
+    "srcUrl": "https://www.nih.gov/news-events/news-releases/nih-selects-dr-courtney-aklin-director-national-institute-nursing-research",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nih-selects-dr-courtney-aklin-as-director-of-the-national-institute-of-nursing-research",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nih-selects-dr-courtney-aklin-as-director-of-the-national-institute-of-nursing-research",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nih-selects-dr-courtney-aklin-as-director-of-the-national-institute-of-nursing-research&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 65,
+    "scoreBreakdown": {
+      "source": 79,
+      "evidence": 82,
+      "relevance": 48,
+      "accessibility": 52,
+      "novelty": 55
+    }
+  },
+  {
     "id": 6,
+    "slug": "the-escape-mission-will-study-the-evolution-of-exoplanet-atmospheres",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://www.universetoday.com/article_images/TRAPPIST-1b-artist-illustration-March-27-2023_20260810_203338.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/1280px-Candidate_targets_for_the_Rocky_Worlds_DDT_programme_sci25003b_20260810_194404.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/EUV_spectral_sim_mass_loss_3panel_20260810_195049.jpg",
+        "caption": "Esta figura mostra como os três modelos para estimar a perda de massa devido ao EUV estelar podem chegar a estimativas muito diferentes. \"Diferentes reconstruções mostram discrepâncias de fluxo de ordens de magnitude: dois modelos de medição de emissão diferencial em.",
+        "caption_pt": "Esta figura mostra como os três modelos para estimar a perda de massa devido ao EUV estelar podem chegar a estimativas muito diferentes. \"Diferentes reconstruções mostram discrepâncias de fluxo de ordens de magnitude: dois modelos de medição de emissão diferencial em.",
+        "caption_en": "This figure shows how the three models for estimating mass loss due to stellar EUV can arrive at very different estimates. \"Different reconstructions show orders-of-magnitude flux discrepancies: two differential emission measure models in.",
+        "alt": "Esta figura mostra como os três modelos para estimar a perda de massa devido ao EUV estelar podem chegar a estimativas muito diferentes. \"Diferentes reconstruções mostram discrepâncias de fluxo de ordens de magnitude: dois modelos de medição de emissão diferencial em.",
+        "alt_pt": "Esta figura mostra como os três modelos para estimar a perda de massa devido ao EUV estelar podem chegar a estimativas muito diferentes. \"Diferentes reconstruções mostram discrepâncias de fluxo de ordens de magnitude: dois modelos de medição de emissão diferencial em.",
+        "alt_en": "This figure shows how the three models for estimating mass loss due to stellar EUV can arrive at very different estimates. \"Different reconstructions show orders-of-magnitude flux discrepancies: two differential emission measure models in."
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/Figure_e1_sideCAD_20260810_200841.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "A missão ESCAPE estudará a evolução das atmosferas dos exoplanetas",
+    "title_pt": "A missão ESCAPE estudará a evolução das atmosferas dos exoplanetas",
+    "title_en": "The ESCAPE Mission Will Study the Evolution of Exoplanet Atmospheres",
+    "sub": "Os exoplanetas precisam ser habitáveis ​​por muito tempo para que a vida complexa se desenvolva. Para sustentar a habitabilidade, os exoplanetas precisam de manter as suas.",
+    "sub_pt": "Os exoplanetas precisam ser habitáveis ​​por muito tempo para que a vida complexa se desenvolva. Para sustentar a habitabilidade, os exoplanetas precisam de manter as suas.",
+    "sub_en": "Exoplanets need to be habitable for a long time for complex life to develop. To sustain habitability, exoplanets need to retain their atmospheres. But many exoplanets are exposed.",
+    "excerpt": "Os exoplanetas precisam ser habitáveis ​​por muito tempo para que a vida complexa se desenvolva. Para sustentar a habitabilidade, os exoplanetas precisam de manter as suas atmosferas. Mas muitos exoplanetas estão expostos a luz ultravioleta extrema e a.",
+    "excerpt_pt": "Os exoplanetas precisam ser habitáveis ​​por muito tempo para que a vida complexa se desenvolva. Para sustentar a habitabilidade, os exoplanetas precisam de manter as suas atmosferas. Mas muitos exoplanetas estão expostos a luz ultravioleta extrema e a.",
+    "excerpt_en": "Exoplanets need to be habitable for a long time for complex life to develop. To sustain habitability, exoplanets need to retain their atmospheres. But many exoplanets are exposed to extreme ultraviolet light and coronal mass ejections that.",
+    "body": "<p>Os exoplanetas precisam ser habitáveis ​​por muito tempo para que a vida complexa se desenvolva. Para sustentar a habitabilidade, os exoplanetas precisam de manter as suas atmosferas. Mas muitos exoplanetas estão expostos a luz ultravioleta extrema e a ejeções de massa coronal. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Uma nova missão proposta da NASA visa colmatar estas lacunas no nosso conhecimento. Os detalhes da proposta da missão estão em uma nova pesquisa intitulada “ESCAPE: uma pequena missão exploradora para estudar os impulsionadores estelares da evolução dos.</p><p>Para colmatar esta lacuna fundamental na nossa compreensão da retenção atmosférica, apresentamos a missão Extreme-ultraviolet Stellar Characterization for Atmospheric Physics and. Ao longo da sua missão de 2 anos, o ESCAPE utilizará o seu único instrumento para realizar duas pesquisas separadas.</p><p>SEEN é como um levantamento instantâneo que observará 276 estrelas anãs F, G, K e M por 12 quilossegundos (3 horas e 20 minutos) por estrela. SEEN abordará as questões científicas 1 e 2.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-escape-mission-will-study-the-evolution-of-exoplanet-atmospheres\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os exoplanetas precisam ser habitáveis ​​por muito tempo para que a vida complexa se desenvolva. Para sustentar a habitabilidade, os exoplanetas precisam de manter as suas atmosferas. Mas muitos exoplanetas estão expostos a luz ultravioleta extrema e a ejeções de massa coronal. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Uma nova missão proposta da NASA visa colmatar estas lacunas no nosso conhecimento. Os detalhes da proposta da missão estão em uma nova pesquisa intitulada “ESCAPE: uma pequena missão exploradora para estudar os impulsionadores estelares da evolução dos.</p><p>Para colmatar esta lacuna fundamental na nossa compreensão da retenção atmosférica, apresentamos a missão Extreme-ultraviolet Stellar Characterization for Atmospheric Physics and. Ao longo da sua missão de 2 anos, o ESCAPE utilizará o seu único instrumento para realizar duas pesquisas separadas.</p><p>SEEN é como um levantamento instantâneo que observará 276 estrelas anãs F, G, K e M por 12 quilossegundos (3 horas e 20 minutos) por estrela. SEEN abordará as questões científicas 1 e 2.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-escape-mission-will-study-the-evolution-of-exoplanet-atmospheres\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Exoplanets need to be habitable for a long time for complex life to develop. To sustain habitability, exoplanets need to retain their atmospheres. But many exoplanets are exposed to extreme ultraviolet light and coronal mass ejections that. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. A new proposed NASA mission is aimed at these gaps in our knowledge. The details of the mission proposal are in new research titled &quot; ESCAPE: a small explorer mission to study the stellar drivers of exoplanet evolution.&quot; The lead author is Allison.</p><p>To address this key gap in our understanding of atmospheric retention, we present the Extreme-ultraviolet Stellar Characterization for Atmospheric Physics and Evolution (ESCAPE). Over its 2-year mission, ESCAPE will use its single instrument to perform two separate surveys.</p><p>SEEN is like a snapshot survey that will observe 276 F, G, K, and M-dwarf stars for 12 kiloseconds (3 hours and 20 mintes) per star. SEEN will address science questions 1 and 2.</p><p>DEEP is a monitoring survey that will observe 24 F, G, K, and M-dwarfs for 1 Megasecond (278 hours) each. DEEP will address science questions 2 and 3.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>The ESCAPE mission has a predecessor, the Extreme Ultraviolet Explorer (EUVE), which ended 25 years ago. ESCAPE will more than 50x as sensitive as EUVE, and that will also let the spacecraft do science beyond its 2-year core mission.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-escape-mission-will-study-the-evolution-of-exoplanet-atmospheres\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os exoplanetas precisam ser habitáveis ​​por muito tempo para que a vida complexa se desenvolva. Para sustentar a habitabilidade, os exoplanetas.",
+      "Dado-chave: Uma nova missão proposta da NASA visa colmatar estas lacunas no nosso conhecimento.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os exoplanetas precisam ser habitáveis ​​por muito tempo para que a vida complexa se desenvolva. Para sustentar a habitabilidade, os exoplanetas.",
+      "Dado-chave: Uma nova missão proposta da NASA visa colmatar estas lacunas no nosso conhecimento.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Exoplanets need to be habitable for a long time for complex life to develop. To sustain habitability, exoplanets need to retain their atmospheres.",
+      "Key detail: A new proposed NASA mission is aimed at these gaps in our knowledge.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "11 ago 2026",
+    "date_pt": "11 ago 2026",
+    "date_en": "11 Aug 2026",
+    "time": "16h05",
+    "time_pt": "16h05",
+    "time_en": "16:05 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-11T16:05:20+00:00",
+    "lastModifiedIso": "2026-08-11T16:05:20+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Exoplanetas",
+      "Universe Today",
+      "Cosmos Week",
+      "A missão ESCAPE estudará a evolução das atmosferas dos exoplanetas"
+    ],
+    "keywords_pt": [
+      "Exoplanetas",
+      "Universe Today",
+      "Cosmos Week",
+      "A missão ESCAPE estudará a evolução das atmosferas dos exoplanetas"
+    ],
+    "keywords_en": [
+      "Exoplanets",
+      "Universe Today",
+      "Cosmos Week",
+      "The ESCAPE mission will study the evolution of exoplanet atmospheres"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/the-escape-mission-will-study-the-evolution-of-exoplanet-atmospheres",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-escape-mission-will-study-the-evolution-of-exoplanet-atmospheres",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-escape-mission-will-study-the-evolution-of-exoplanet-atmospheres",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-escape-mission-will-study-the-evolution-of-exoplanet-atmospheres&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "robots-could-build-massive-metamaterial-radars-in-orbit",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -640,7 +767,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -654,7 +781,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "the-telescope-that-points-itself",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -787,7 +914,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "building-the-moon-base-nasa-stories-at-the-ion",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -923,7 +1050,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "nasa-funds-interworld-slingshot-concept-to-map-solar-system-resources",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1041,7 +1168,7 @@ window.postsData = [
     }
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "nasa-shares-station-research-today-supporting-moon-mars-tomorrow",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1187,7 +1314,7 @@ window.postsData = [
     }
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "nasa-debuts-on-discovery-coming-soon-to-hbo-max",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1295,7 +1422,7 @@ window.postsData = [
     }
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1431,7 +1558,7 @@ window.postsData = [
     }
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "dust-and-water-spotted-close-to-giant-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1564,7 +1691,7 @@ window.postsData = [
     }
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1700,7 +1827,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "seven-needles-800-000-haystacks",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1827,7 +1954,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "we-might-soon-have-the-technology-to-reach-other-star-systems",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -1960,7 +2087,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "zodiacal-dust-in-exoplanetary-systems-could-hinder-our-search-for-life-on-other-worlds",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2060,142 +2187,6 @@ window.postsData = [
       "source": 73,
       "evidence": 88,
       "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 18,
-    "slug": "super-earths-may-be-solid-deep-inside-their-mantles",
-    "cat": "Exoplanetas",
-    "catCls": "exoplanetas",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/super-earths-may-be-so.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/super-earths-may-be-so.jpg",
-        "caption": "As super-terras podem ser sólidas nas profundezas de seus mantos",
-        "caption_pt": "As super-terras podem ser sólidas nas profundezas de seus mantos",
-        "caption_en": "Super-earths may be solid deep inside their mantles",
-        "alt": "As super-terras podem ser sólidas nas profundezas de seus mantos",
-        "alt_pt": "As super-terras podem ser sólidas nas profundezas de seus mantos",
-        "alt_en": "Super-earths may be solid deep inside their mantles"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Super-Terras podem ser sólidas nas profundezas de seus mantos",
-    "title_pt": "Super-Terras podem ser sólidas nas profundezas de seus mantos",
-    "title_en": "Super-Earths may be solid deep inside their mantles",
-    "sub": "Nas profundezas das super-Terras, planetas rochosos com massas entre 1 e 10 vezes a da Terra, a alta pressão pode fazer com que minerais familiares assumam formas raramente vistas.",
-    "sub_pt": "Nas profundezas das super-Terras, planetas rochosos com massas entre 1 e 10 vezes a da Terra, a alta pressão pode fazer com que minerais familiares assumam formas raramente vistas.",
-    "sub_en": "Deep inside super-Earths, rocky planets with masses between 1 and 10 times that of Earth, high pressure can cause familiar minerals to take forms rarely seen on Earth.",
-    "excerpt": "Nas profundezas das super-Terras, planetas rochosos com massas entre 1 e 10 vezes a da Terra, a alta pressão pode fazer com que minerais familiares assumam formas raramente vistas na Terra. Entendendo mais sobre as condições de temperatura e pressão em.",
-    "excerpt_pt": "Nas profundezas das super-Terras, planetas rochosos com massas entre 1 e 10 vezes a da Terra, a alta pressão pode fazer com que minerais familiares assumam formas raramente vistas na Terra. Entendendo mais sobre as condições de temperatura e pressão em.",
-    "excerpt_en": "Deep inside super-Earths, rocky planets with masses between 1 and 10 times that of Earth, high pressure can cause familiar minerals to take forms rarely seen on Earth. Understanding more about the temperature and pressure conditions in.",
-    "body": "<p>Nas profundezas das super-Terras, planetas rochosos com massas entre 1 e 10 vezes a da Terra, a alta pressão pode fazer com que minerais familiares assumam formas raramente vistas na Terra. Entendendo mais sobre as condições de temperatura e pressão em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Esta ilustração representa a super-Terra LP. NASA/JPL-Caltech Nas profundezas das super-Terras, planetas rochosos com massas entre 1 e 10 vezes a da Terra, a alta pressão pode fazer com que minerais familiares assumam formas.</p><p>Um desses minerais é o ortossilicato de magnésio, ou Mg 2 SiO 4, um dos principais blocos de construção dos planetas rochosos. Uma dessas formas de alta pressão é chamada de fase espinélio, encontrada no manto da Terra.</p><p>Em pressões ainda mais altas, esta fase se divide em dois minerais diferentes: bridgmanita, a fase mineral mais abundante na Terra, e ferropericlásio, um óxido rico em magnésio.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-super-earths-solid-deep-mantles.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Nas profundezas das super-Terras, planetas rochosos com massas entre 1 e 10 vezes a da Terra, a alta pressão pode fazer com que minerais familiares assumam formas raramente vistas na Terra. Entendendo mais sobre as condições de temperatura e pressão em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Esta ilustração representa a super-Terra LP. NASA/JPL-Caltech Nas profundezas das super-Terras, planetas rochosos com massas entre 1 e 10 vezes a da Terra, a alta pressão pode fazer com que minerais familiares assumam formas.</p><p>Um desses minerais é o ortossilicato de magnésio, ou Mg 2 SiO 4, um dos principais blocos de construção dos planetas rochosos. Uma dessas formas de alta pressão é chamada de fase espinélio, encontrada no manto da Terra.</p><p>Em pressões ainda mais altas, esta fase se divide em dois minerais diferentes: bridgmanita, a fase mineral mais abundante na Terra, e ferropericlásio, um óxido rico em magnésio.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-super-earths-solid-deep-mantles.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Deep inside super-Earths, rocky planets with masses between 1 and 10 times that of Earth, high pressure can cause familiar minerals to take forms rarely seen on Earth. Understanding more about the temperature and pressure conditions in. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source This illustration depicts super-Earth LP 890-9 c, which orbits. NASA/JPL-Caltech Deep inside super-Earths, rocky planets with masses between 1 and 10 times that of Earth, high pressure can cause familiar minerals to take forms rarely seen on.</p><p>One such mineral is magnesium orthosilicate, or Mg 2 SiO 4, one of the major building blocks of rocky planets. One of these high-pressure forms is called the spinel phase, which is found in Earth&#x27;s mantle.</p><p>At even higher pressures, this phase breaks down into two different minerals: bridgmanite, the most abundant mineral phase on Earth, and ferropericlase, a magnesium-rich oxide. However, under the far more extreme pressures expected inside massive rocky planets known as super-Earths, Mg 2 SiO 4 becomes stable again in an entirely new crystal structure.</p><p>Scientists predict that this ultrahigh-pressure phase of Mg 2 SiO 4 is one of the dominant minerals in the deep mantles of super-Earths, making its melting behavior important for. The team used a technique called thermodynamic integration to study the melting curve of post-post-spinel Mg 2 SiO 4 at pressures up to 1,300 gigapascals.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>They found that post-post-spinel Mg 2 SiO 4 is an exceptionally refractory mineral, meaning it can withstand extremely high temperatures before melting. Depending on the pressure, it melts between 9,780 K and 14,897 K, significantly hotter than related minerals, including bridgmanite and MgSiO 3 postperovskite, the high-pressure.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-super-earths-solid-deep-mantles.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Nas profundezas das super-Terras, planetas rochosos com massas entre 1 e 10 vezes a da Terra, a alta pressão pode fazer com que minerais familiares.",
-      "Dado-chave: Nas profundezas das super-Terras, planetas rochosos com massas entre 1 e 10 vezes a da Terra, a alta pressão pode fazer com que minerais.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Nas profundezas das super-Terras, planetas rochosos com massas entre 1 e 10 vezes a da Terra, a alta pressão pode fazer com que minerais familiares.",
-      "Dado-chave: Nas profundezas das super-Terras, planetas rochosos com massas entre 1 e 10 vezes a da Terra, a alta pressão pode fazer com que minerais.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Deep inside super-Earths, rocky planets with masses between 1 and 10 times that of Earth, high pressure can cause familiar minerals to take forms.",
-      "Key detail: Deep inside super-Earths, rocky planets with masses between 1 and 10 times that of Earth, high pressure can cause familiar minerals to take.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "06 ago 2026",
-    "date_pt": "06 ago 2026",
-    "date_en": "06 Aug 2026",
-    "time": "19h20",
-    "time_pt": "19h20",
-    "time_en": "19:20 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-06T19:20:03+00:00",
-    "lastModifiedIso": "2026-08-06T19:20:03+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Exoplanetas",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Super",
-      "Terras podem ser sólidas nas profundezas de seus mantos"
-    ],
-    "keywords_pt": [
-      "Exoplanetas",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Super",
-      "Terras podem ser sólidas nas profundezas de seus mantos"
-    ],
-    "keywords_en": [
-      "Exoplanets",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Super",
-      "Earths may be solid deep within their mantles"
-    ],
-    "srcUrl": "https://phys.org/news/2026-08-super-earths-solid-deep-mantles.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=super-earths-may-be-solid-deep-inside-their-mantles",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=super-earths-may-be-solid-deep-inside-their-mantles",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=super-earths-may-be-solid-deep-inside-their-mantles&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 70,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 70,
       "accessibility": 60,
       "novelty": 46
     }
@@ -2335,127 +2326,6 @@ window.postsData = [
   },
   {
     "id": 20,
-    "slug": "interstellar-travel-iii-antimatter-to-the-rescue",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://www.universetoday.com/article_images/VARIES_concept_20260810_215210.jpg",
-    "inline_images": [],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/b10vewciidy",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.universetoday.com/articles/interstellar-travel-iii-antimatter-to-the-rescue"
-    },
-    "audio": null,
-    "title": "Viagem Interestelar III: Antimatéria para o Resgate?",
-    "title_pt": "Viagem Interestelar III: Antimatéria para o Resgate?",
-    "title_en": "Interstellar Travel III: Antimatter to the Rescue?",
-    "sub": "Com o fim da Era Espacial e o fim da Guerra Fria, os cientistas voltaram novamente à questão do voo interestelar. Não tendo conseguido concretizar um conceito funcional que.",
-    "sub_pt": "Com o fim da Era Espacial e o fim da Guerra Fria, os cientistas voltaram novamente à questão do voo interestelar. Não tendo conseguido concretizar um conceito funcional que.",
-    "sub_en": "With the end of the Space Age and the winding down of the Cold War, scientists again returned to the question of interstellar flight. Having failed to realize a working concept.",
-    "excerpt": "Com o fim da Era Espacial e o fim da Guerra Fria, os cientistas voltaram novamente à questão do voo interestelar. Não tendo conseguido concretizar um conceito funcional que pudesse ser concretizado no curto prazo, ideias mais exóticas.",
-    "excerpt_pt": "Com o fim da Era Espacial e o fim da Guerra Fria, os cientistas voltaram novamente à questão do voo interestelar. Não tendo conseguido concretizar um conceito funcional que pudesse ser concretizado no curto prazo, ideias mais exóticas.",
-    "excerpt_en": "With the end of the Space Age and the winding down of the Cold War, scientists again returned to the question of interstellar flight. Having failed to realize a working concept that could be realized in the near term, more exotic ideas.",
-    "body": "<p>Com o fim da Era Espacial e o fim da Guerra Fria, os cientistas voltaram novamente à questão do voo interestelar. Não tendo conseguido concretizar um conceito funcional que pudesse ser concretizado no curto prazo, ideias mais exóticas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. O conceito de partículas negativas foi cogitado por cientistas durante o final do século 19 e acabaria sendo descoberto por meio de pesquisas no campo emergente da física quântica. Anderson provou a existência de pósitrons ao observá-los em raios cósmicos, passando-os por uma câmara de nuvens, pela qual ganhou o Prêmio Nobel de Física em 1936.</p><p>Em 1955, Emilio Segrè e Owen Chamberlain e seus colegas confirmaram a existência de antiprótons usando o acelerador Bevatron de alta energia no Laboratório de Radiação Lawrence. A partir da década de 1990, os investigadores da Organização Europeia para a Investigação Nuclear (CERN) começaram a criar e aprisionar átomos de anti-hidrogénio por períodos cada.</p><p>Com base nas muitas propostas feitas desde meados do século XX, a propulsão de antimatéria pode ser agrupada em três categorias. Em 1953, o físico alemão Eugene Sänger fez a primeira proposta registrada de um foguete de fótons onde raios gama energéticos da aniquilação elétron-pósitron seriam usados ​​para.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/interstellar-travel-iii-antimatter-to-the-rescue\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Com o fim da Era Espacial e o fim da Guerra Fria, os cientistas voltaram novamente à questão do voo interestelar. Não tendo conseguido concretizar um conceito funcional que pudesse ser concretizado no curto prazo, ideias mais exóticas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. O conceito de partículas negativas foi cogitado por cientistas durante o final do século 19 e acabaria sendo descoberto por meio de pesquisas no campo emergente da física quântica. Anderson provou a existência de pósitrons ao observá-los em raios cósmicos, passando-os por uma câmara de nuvens, pela qual ganhou o Prêmio Nobel de Física em 1936.</p><p>Em 1955, Emilio Segrè e Owen Chamberlain e seus colegas confirmaram a existência de antiprótons usando o acelerador Bevatron de alta energia no Laboratório de Radiação Lawrence. A partir da década de 1990, os investigadores da Organização Europeia para a Investigação Nuclear (CERN) começaram a criar e aprisionar átomos de anti-hidrogénio por períodos cada.</p><p>Com base nas muitas propostas feitas desde meados do século XX, a propulsão de antimatéria pode ser agrupada em três categorias. Em 1953, o físico alemão Eugene Sänger fez a primeira proposta registrada de um foguete de fótons onde raios gama energéticos da aniquilação elétron-pósitron seriam usados ​​para.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/interstellar-travel-iii-antimatter-to-the-rescue\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>With the end of the Space Age and the winding down of the Cold War, scientists again returned to the question of interstellar flight. Having failed to realize a working concept that could be realized in the near term, more exotic ideas. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. The concept of negative particles had been entertained by scientists during the late 19th century and would eventually be discovered through research into the emerging field of. Anderson proved the existence of positrons when he observed them in cosmic rays by passing them through a cloud chamber, for which he won the 1936 Nobel Prize in physics.</p><p>By 1955, Emilio Segrè and Owen Chamberlain and their colleagues confirmed the existence of antiprotons using the high-energy Bevatron accelerator at the Lawrence Berkeley. From the 1990s onward, researchers at the European Organization for Nuclear Research (CERN) began creating and trapping antihydrogen atoms for longer and longer periods (now in.</p><p>Based on the many proposals made since the mid-20th century, antimatter propulsion can be grouped into three categories. In 1953, German physicist Eugene Sänger made the first recorded proposal of a photon rocket where energetic gamma-rays from electron-positron annihilation would be used to.</p><p>The next major proposal came from the work of American physicist and SF author Robert Forward in 1985. Based on various simulations conducted in the 1980s, scientists estimate that velocities of about 0.33 to 0.58 the speed of light could be achieved.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Based on various proposals, a specific impulse of between 1020 and 7,140 seconds could be achieved, and velocities of 10 to 70 km/s (6.2 to 43.5 mps), or 36,000 to 252,000 km/h. Too slow for interstellar voyages, but capable of reaching Mars in just 9 days.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/interstellar-travel-iii-antimatter-to-the-rescue\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Com o fim da Era Espacial e o fim da Guerra Fria, os cientistas voltaram novamente à questão do voo interestelar. Não tendo conseguido concretizar um.",
-      "Dado-chave: O conceito de partículas negativas foi cogitado por cientistas durante o final do século 19 e acabaria sendo descoberto por meio de pesquisas no.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Com o fim da Era Espacial e o fim da Guerra Fria, os cientistas voltaram novamente à questão do voo interestelar. Não tendo conseguido concretizar um.",
-      "Dado-chave: O conceito de partículas negativas foi cogitado por cientistas durante o final do século 19 e acabaria sendo descoberto por meio de pesquisas no.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: With the end of the Space Age and the winding down of the Cold War, scientists again returned to the question of interstellar flight. Having failed.",
-      "Key detail: The concept of negative particles had been entertained by scientists during the late 19th century and would eventually be discovered through.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "10 ago 2026",
-    "date_pt": "10 ago 2026",
-    "date_en": "10 Aug 2026",
-    "time": "21h39",
-    "time_pt": "21h39",
-    "time_en": "21:39 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-10T21:39:00+00:00",
-    "lastModifiedIso": "2026-08-10T21:39:00+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Física",
-      "Universe Today",
-      "Cosmos Week",
-      "Viagem Interestelar III",
-      "Antimatéria para o Resgate?"
-    ],
-    "keywords_pt": [
-      "Física",
-      "Universe Today",
-      "Cosmos Week",
-      "Viagem Interestelar III",
-      "Antimatéria para o Resgate?"
-    ],
-    "keywords_en": [
-      "Physical",
-      "Universe Today",
-      "Cosmos Week",
-      "Interstellar Voyage III",
-      "Antimatter to the Rescue?"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/interstellar-travel-iii-antimatter-to-the-rescue",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=interstellar-travel-iii-antimatter-to-the-rescue",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=interstellar-travel-iii-antimatter-to-the-rescue",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=interstellar-travel-iii-antimatter-to-the-rescue&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 82,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 21,
     "slug": "plasma-gun-technology-could-transform-space-laundry-and-sanitation-for-future-missions",
     "cat": "Física",
     "catCls": "fisica",
@@ -2578,13 +2448,131 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 74,
+    "score": 73,
     "scoreBreakdown": {
       "source": 76,
       "evidence": 82,
       "relevance": 82,
       "accessibility": 60,
-      "novelty": 49
+      "novelty": 46
+    }
+  },
+  {
+    "id": 21,
+    "slug": "eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://home.cern/wp-content/uploads/2026/08/Poster-Protect-eyes-during-eclipse-scaled.png",
+    "inline_images": [
+      {
+        "src": "https://home.cern/eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august/context.post.image",
+        "caption": "contexto.post.título",
+        "caption_pt": "contexto.post.título",
+        "caption_en": "context.post.title",
+        "alt": "contexto.post.título",
+        "alt_pt": "contexto.post.título",
+        "alt_en": "context.post.title"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Olhos no céu: um raro eclipse solar será visível no CERN em 12 de agosto",
+    "title_pt": "Olhos no céu: um raro eclipse solar será visível no CERN em 12 de agosto",
+    "title_en": "Eyes on the sky: a rare solar eclipse will be visible from CERN on 12 August",
+    "sub": "Para observar o eclipse com segurança: Use apenas óculos para eclipses certificados pela norma ISO 12312-2.",
+    "sub_pt": "Para observar o eclipse com segurança: Use apenas óculos para eclipses certificados pela norma ISO 12312-2.",
+    "sub_en": "To observe the eclipse safely: Use only eclipse glasses certified to the ISO 12312-2 standard.",
+    "excerpt": "Para observar o eclipse com segurança: Use apenas óculos para eclipses certificados pela norma ISO 12312-2.",
+    "excerpt_pt": "Para observar o eclipse com segurança: Use apenas óculos para eclipses certificados pela norma ISO 12312-2.",
+    "excerpt_en": "To observe the eclipse safely: Use only eclipse glasses certified to the ISO 12312-2 standard.",
+    "body": "<p>Para observar o eclipse com segurança: Use apenas óculos para eclipses certificados pela norma ISO 12312-2. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Descubra como assistir ao eclipse de 2026 com segurança. Anúncio Segurança da comunidade CERN Artigos relacionados Ver todas as notícias Nenhuma postagem foi encontrada.</p><p>No dia 12 de agosto de 2026, a comunidade CERN terá a oportunidade de observar um dos eventos astronômicos mais espetaculares visíveis na nossa região em décadas. Embora um eclipse solar total atravesse partes da Espanha e do Atlântico Norte, os observadores em Genebra experimentarão um eclipse parcial profundo, com cerca de 93% do Sol.</p><p>Embora a maior parte do Sol fique obscurecida, olhar diretamente para ele sem a proteção adequada continua perigoso e pode causar danos permanentes à retina.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Para observar o eclipse com segurança: Use apenas óculos para eclipses certificados pela norma ISO 12312-2. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Descubra como assistir ao eclipse de 2026 com segurança. Anúncio Segurança da comunidade CERN Artigos relacionados Ver todas as notícias Nenhuma postagem foi encontrada.</p><p>No dia 12 de agosto de 2026, a comunidade CERN terá a oportunidade de observar um dos eventos astronômicos mais espetaculares visíveis na nossa região em décadas. Embora um eclipse solar total atravesse partes da Espanha e do Atlântico Norte, os observadores em Genebra experimentarão um eclipse parcial profundo, com cerca de 93% do Sol.</p><p>Embora a maior parte do Sol fique obscurecida, olhar diretamente para ele sem a proteção adequada continua perigoso e pode causar danos permanentes à retina.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Use only eclipse glasses certified to the ISO 12312-2 standard. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Find out how to watch the 2026 eclipse safely. Announcement CERN community safety Related Articles View all news No posts were found.</p><p>On 12 August 2026, the CERN community will have the opportunity to observe one of the most spectacular astronomical events visible from our region in decades. While a total solar eclipse will cross parts of Spain and the North Atlantic, observers in Geneva will experience a deep partial eclipse, with about 93% of the Sun covered by the.</p><p>Although most of the Sun will be obscured, looking directly at it without appropriate protection remains dangerous and may cause permanent retinal damage. The eclipse will begin at approximately 19: 26 CEST, reach its maximum around 20: 20 CEST, and end shortly before sunset.</p><p>Because the Sun will be very low in the western sky, a location with a clear horizon will provide the best view. If you experience blurred vision, dark spots or any change in your central vision after observing the eclipse, seek medical advice immediately.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Members of the CERN community may also contact the CERN Medical Service if they have any concerns. For further eclipse safety recommendations, consult the Swiss Federal Office of Public Health’s dedicated guidance page.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Para observar o eclipse com segurança: Use apenas óculos para eclipses certificados pela norma ISO 12312-2.",
+      "Dado-chave: Descubra como assistir ao eclipse de 2026 com segurança",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Para observar o eclipse com segurança: Use apenas óculos para eclipses certificados pela norma ISO 12312-2.",
+      "Dado-chave: Descubra como assistir ao eclipse de 2026 com segurança",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Use only eclipse glasses certified to the ISO 12312-2 standard.",
+      "Key detail: Find out how to watch the 2026 eclipse safely",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "10 ago 2026",
+    "date_pt": "10 ago 2026",
+    "date_en": "10 Aug 2026",
+    "time": "11h10",
+    "time_pt": "11h10",
+    "time_en": "11:10 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-10T11:10:14+00:00",
+    "lastModifiedIso": "2026-08-10T11:10:14+00:00",
+    "source": "CERN News",
+    "sourceDomain": "home.cern",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "CERN News",
+      "Cosmos Week",
+      "Olhos no céu",
+      "um raro eclipse solar será visível no CERN em 12 de agosto"
+    ],
+    "keywords_pt": [
+      "Física",
+      "CERN News",
+      "Cosmos Week",
+      "Olhos no céu",
+      "um raro eclipse solar será visível no CERN em 12 de agosto"
+    ],
+    "keywords_en": [
+      "Physical",
+      "CERN News",
+      "Cosmos Week",
+      "Eyes in the sky",
+      "a rare solar eclipse will be visible at CERN on August 12"
+    ],
+    "srcUrl": "https://home.cern/eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 72,
+    "scoreBreakdown": {
+      "source": 86,
+      "evidence": 82,
+      "relevance": 64,
+      "accessibility": 60,
+      "novelty": 52
     }
   },
   {
@@ -2593,35 +2581,7 @@ window.postsData = [
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/proba-3_mimics_the_2026_total_solar_eclipse/27410604-1-eng-GB/Proba-3_mimics_the_2026_total_solar_eclipse_card_full.png",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/proba-3_mimics_the_2026_total_solar_eclipse/27410604-1-eng-GB/Proba-3_mimics_the_2026_total_solar_eclipse_article.png",
-        "caption": "Eclipse solar artificial do Proba-3",
-        "caption_pt": "Eclipse solar artificial do Proba-3",
-        "caption_en": "Proba-3's artificial solar eclipse",
-        "alt": "Eclipse solar artificial do Proba-3",
-        "alt_pt": "Eclipse solar artificial do Proba-3",
-        "alt_en": "Proba-3's artificial solar eclipse"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/side_view_of_the_sun_s_surface_magnetism/27411226-1-eng-GB/Side_view_of_the_Sun_s_surface_magnetism_article.png",
-        "caption": "Magnetograma usando dados do instrumento PHI da Solar Orbiter",
-        "caption_pt": "Magnetograma usando dados do instrumento PHI da Solar Orbiter",
-        "caption_en": "Magnetogram using data from Solar Orbiter's PHI instrument",
-        "alt": "Magnetograma usando dados do Solar Orbiter",
-        "alt_pt": "Magnetograma usando dados do Solar Orbiter",
-        "alt_en": "Magnetogram using data from Solar Orbiter"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/latest_psi_eclipse_prediction/27411330-2-eng-GB/Latest_PSI_eclipse_prediction_article.jpg",
-        "caption": "Previsão do eclipse de agosto pela Ciência Preditiva",
-        "caption_pt": "Previsão do eclipse de agosto pela Ciência Preditiva",
-        "caption_en": "Prediction of the August eclipse by Predictive Science",
-        "alt": "Previsão do eclipse de agosto pela Ciência Preditiva",
-        "alt_pt": "Previsão do eclipse de agosto pela Ciência Preditiva",
-        "alt_en": "Prediction of the August eclipse by Predictive Science"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Como a ESA imita e modela o eclipse solar total de 2026",
@@ -2633,22 +2593,22 @@ window.postsData = [
     "excerpt": "Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros.",
     "excerpt_pt": "Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros.",
     "excerpt_en": "On 12 August 2026, parts of Europe will experience a total solar eclipse. With the Sun's bright disc covered, its surrounding atmosphere, the solar corona, will become visible to the naked eye. Unfortunately, total solar eclipses are rare.",
-    "body": "<p>Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Até recentemente, a coroa completa só podia ser observada da Terra durante os curtos períodos de eclipses totais. Um eclipse solar é um exemplo de “ocultação solar” natural, quando um objeto (neste caso a Lua) bloqueia o disco solar da perspectiva de um observador.</p><p>Para preencher esta lacuna de observação, a ESA desenvolveu e lançou o seu criador de eclipses artificiais Proba-3, uma missão que consiste num par de satélites que voam a 150. Andrei Zhukov, investigador principal do instrumento ASPIICS no Observatório Real da Bélgica, comenta sobre um dos eclipses artificiais mais recentes da missão: “Este é o 62º.</p><p>O Sol leva duas semanas para girar até a metade em torno de seu eixo, então, se espelharmos a imagem horizontalmente, teremos uma previsão de como será a aparência da coroa. Nos dias que antecedem 12 de Agosto, a missão Solar Orbiter liderada pela ESA está a realizar uma campanha especial de observação com os seus vários instrumentos de detecção.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Até recentemente, a coroa completa só podia ser observada da Terra durante os curtos períodos de eclipses totais. Um eclipse solar é um exemplo de “ocultação solar” natural, quando um objeto (neste caso a Lua) bloqueia o disco solar da perspectiva de um observador.</p><p>Para preencher esta lacuna de observação, a ESA desenvolveu e lançou o seu criador de eclipses artificiais Proba-3, uma missão que consiste num par de satélites que voam a 150. Andrei Zhukov, investigador principal do instrumento ASPIICS no Observatório Real da Bélgica, comenta sobre um dos eclipses artificiais mais recentes da missão: “Este é o 62º.</p><p>O Sol leva duas semanas para girar até a metade em torno de seu eixo, então, se espelharmos a imagem horizontalmente, teremos uma previsão de como será a aparência da coroa. Nos dias que antecedem 12 de Agosto, a missão Solar Orbiter liderada pela ESA está a realizar uma campanha especial de observação com os seus vários instrumentos de detecção.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>On 12 August 2026, parts of Europe will experience a total solar eclipse. With the Sun&#x27;s bright disc covered, its surrounding atmosphere, the solar corona, will become visible to the naked eye. Unfortunately, total solar eclipses are rare. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Until recently, the full corona could only be observed from Earth during the short periods of total eclipses. A solar eclipse is an example of a natural &#x27;solar occultation’, when an object (in this case the Moon) blocks the Sun&#x27;s disc from an observer&#x27;s perspective.</p><p>To fill this observation gap, ESA developed and launched its artificial eclipse-maker Proba-3, a mission that consists of a pair of satellites flying 150 metres apart and. Andrei Zhukov, principal investigator for the ASPIICS instrument at the Royal Observatory of Belgium, comments on one of the mission&#x27;s most recent artificial eclipses: “This is.</p><p>It takes the Sun two weeks to rotate halfway around its axis, so if we mirror the image horizontally, we get a prediction of what the corona will look like during the natural. In the days leading up to 12 August, the ESA-led Solar Orbiter mission is running a special observation campaign with its various remote-sensing instruments.</p><p>“A total solar eclipse lets us verify that our models are correct by comparing forecasts with actual observations,” says Jorge Amaya, ESA Space Weather Modelling Coordinator. Most solar observations are made from near Earth, providing only a limited view of a vast three-dimensional system.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>That is the key to dramatically improving forecasts of how solar activity will affect our technology.” Solar Orbiter&#x27;s location today gives us a sneak preview of what ESA’s space. Planned for launch in 2031, Vigil will tail Earth to provide continuous, near real-time observations of the Sun’s side.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para criar. No dia 12 de Agosto de 2026, algumas partes da Europa sofrerão um eclipse solar total.</p><p>Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros e duram no máximo alguns minutos, dando aos cientistas pouco tempo para estudar o enigmático halo do Sol.</p><p>É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para criar simulações digitais. Então, como fazemos isso e por que isso é importante.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para criar. No dia 12 de Agosto de 2026, algumas partes da Europa sofrerão um eclipse solar total.</p><p>Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros e duram no máximo alguns minutos, dando aos cientistas pouco tempo para estudar o enigmático halo do Sol.</p><p>É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para criar simulações digitais. Então, como fazemos isso e por que isso é importante.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>On 12 August 2026, parts of Europe will experience a total solar eclipse. With the Sun&#x27;s bright disc covered, its surrounding atmosphere, the solar corona, will become visible to the naked eye. Unfortunately, total solar eclipses are rare. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. This is why ESA developed missions that create eclipses artificially, and why experts use computer models to create. On 12 August 2026, parts of Europe will experience a total solar eclipse.</p><p>With the Sun&#x27;s bright disc covered, its surrounding atmosphere, the solar corona, will become visible to the naked eye. Unfortunately, total solar eclipses are rare and last at most a few minutes, giving scientists little time to study the Sun’s enigmatic halo.</p><p>This is why ESA developed missions that create eclipses artificially, and why experts use computer models to create digital simulations. So how do we do it, and why is it important.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa.",
-      "Dado-chave: Até recentemente, a coroa completa só podia ser observada da Terra durante os curtos períodos de eclipses totais.",
+      "Dado-chave: É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa.",
-      "Dado-chave: Até recentemente, a coroa completa só podia ser observada da Terra durante os curtos períodos de eclipses totais.",
+      "Dado-chave: É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: On 12 August 2026, parts of Europe will experience a total solar eclipse. With the Sun's bright disc covered, its surrounding atmosphere, the solar.",
-      "Key detail: Until recently, the full corona could only be observed from Earth during the short periods of total eclipses.",
+      "Key detail: This is why ESA developed missions that create eclipses artificially, and why experts use computer models to create.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "10 ago 2026",
@@ -3378,6 +3338,143 @@ window.postsData = [
   },
   {
     "id": 28,
+    "slug": "desi-releases-biggest-2d-map-of-the-universe",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-release-big.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/u1pvju79dpm",
+      "fileUrl": "",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://phys.org/news/2026-08-desi-biggest-2d-universe.html"
+    },
+    "audio": null,
+    "title": "DESI lança maior mapa 2D do universo",
+    "title_pt": "DESI lança maior mapa 2D do universo",
+    "title_en": "DESI releases biggest 2D map of the universe",
+    "sub": "Segure seus telescópios: a equipe DESI Legacy Imaging Surveys lançou o maior mapa colorido 2D do universo. O mapa de 5,6 trilhões de pixels contém quase 4 bilhões de objetos.",
+    "sub_pt": "Segure seus telescópios: a equipe DESI Legacy Imaging Surveys lançou o maior mapa colorido 2D do universo. O mapa de 5,6 trilhões de pixels contém quase 4 bilhões de objetos.",
+    "sub_en": "Hold on to your telescopes: The DESI Legacy Imaging Surveys team has released the largest-ever 2D color map of the universe. The 5.6-trillion-pixel map contains nearly 4 billion.",
+    "excerpt": "Segure seus telescópios: a equipe DESI Legacy Imaging Surveys lançou o maior mapa colorido 2D do universo. O mapa de 5,6 trilhões de pixels contém quase 4 bilhões de objetos celestes, principalmente estrelas e galáxias. Os dados são.",
+    "excerpt_pt": "Segure seus telescópios: a equipe DESI Legacy Imaging Surveys lançou o maior mapa colorido 2D do universo. O mapa de 5,6 trilhões de pixels contém quase 4 bilhões de objetos celestes, principalmente estrelas e galáxias. Os dados são.",
+    "excerpt_en": "Hold on to your telescopes: The DESI Legacy Imaging Surveys team has released the largest-ever 2D color map of the universe. The 5.6-trillion-pixel map contains nearly 4 billion celestial objects, primarily stars and galaxies. The data is.",
+    "body": "<p>A equipe DESI Legacy Imaging Surveys lançou o maior mapa colorido 2D do universo. O mapa de 5,6 trilhões de pixels contém quase 4 bilhões de objetos celestes, principalmente estrelas e galáxias. Os dados são. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. A equipe DESI Legacy Imaging Surveys lançou o maior mapa colorido 2D do universo. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Entre os quase 4 bilhões de objetos no mapa do.</p><p>DESI Legacy Imaging Surveys/LBNL/DOE &amp; KPNO/CTIO/NOIRLab/NSF/AURA Segure seus telescópios: a equipe DESI Legacy Imaging Surveys lançou o maior mapa colorido 2D do universo de. O novo mapa baseia-se em versões anteriores do DESI Legacy Imaging Surveys que já se mostraram inestimáveis.</p><p>Até o momento, foram publicados mais de 1.800 artigos científicos que fazem referência aos dados do Legacy Surveys. Mais de 160 cientistas contribuíram para a coleta de dados para o projeto, e uma equipe de 20 pessoas produziu o conjunto de dados final divulgado hoje.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-desi-biggest-2d-universe.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A equipe DESI Legacy Imaging Surveys lançou o maior mapa colorido 2D do universo. O mapa de 5,6 trilhões de pixels contém quase 4 bilhões de objetos celestes, principalmente estrelas e galáxias. Os dados são. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. A equipe DESI Legacy Imaging Surveys lançou o maior mapa colorido 2D do universo. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Entre os quase 4 bilhões de objetos no mapa do.</p><p>DESI Legacy Imaging Surveys/LBNL/DOE &amp; KPNO/CTIO/NOIRLab/NSF/AURA Segure seus telescópios: a equipe DESI Legacy Imaging Surveys lançou o maior mapa colorido 2D do universo de. O novo mapa baseia-se em versões anteriores do DESI Legacy Imaging Surveys que já se mostraram inestimáveis.</p><p>Até o momento, foram publicados mais de 1.800 artigos científicos que fazem referência aos dados do Legacy Surveys. Mais de 160 cientistas contribuíram para a coleta de dados para o projeto, e uma equipe de 20 pessoas produziu o conjunto de dados final divulgado hoje.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-desi-biggest-2d-universe.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The DESI Legacy Imaging Surveys team has released the largest-ever 2D color map of the universe. The 5.6-trillion-pixel map contains nearly 4 billion celestial objects, primarily stars and galaxies. The data is. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. The DESI Legacy Imaging Surveys team has released the largest-ever 2D color map of the universe. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Among the nearly 4 billion objects in the DESI Legacy Imaging.</p><p>DESI Legacy Imaging Surveys/LBNL/DOE &amp; KPNO/CTIO/NOIRLab/NSF/AURA Hold on to your telescopes: The DESI Legacy Imaging Surveys team has released the largest-ever 2D color map of. The new map builds on earlier versions from the DESI Legacy Imaging Surveys that have already proved invaluable.</p><p>To date, more than 1,800 science papers that reference the Legacy Surveys data have been published. More than 160 scientists contributed to data collection for the project, and a team of 20 produced the final dataset released today.</p><p>It was built by combining 263,407 telescope exposures from three ground-based sky surveys: the Dark Energy Camera Legacy Survey (DECaLS) at NSF Cerro Tololo Inter-American. That was supplemented by years of data from NASA&#x27;s Wide-field Infrared Survey Explorer (WISE) satellite mission and additional public data.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>This crucial step enables DESI to select objects and measure their light at different wavelengths to determine their distances, building the largest high-resolution 3D map ever. In April 2026, DESI completed its original five-year survey ahead of schedule and with vastly more objects than expected.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-desi-biggest-2d-universe.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: a equipe DESI Legacy Imaging Surveys lançou o maior mapa colorido 2D do universo. O mapa de 5,6 trilhões de pixels contém quase 4 bilhões de objetos.",
+      "Dado-chave: a equipe DESI Legacy Imaging Surveys lançou o maior mapa colorido 2D do universo.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: a equipe DESI Legacy Imaging Surveys lançou o maior mapa colorido 2D do universo. O mapa de 5,6 trilhões de pixels contém quase 4 bilhões de objetos.",
+      "Dado-chave: a equipe DESI Legacy Imaging Surveys lançou o maior mapa colorido 2D do universo.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The DESI Legacy Imaging Surveys team has released the largest-ever 2D color map of the universe. The 5.6-trillion-pixel map contains nearly 4 billion.",
+      "Key detail: The DESI Legacy Imaging Surveys team has released the largest-ever 2D color map of the universe.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "10 ago 2026",
+    "date_pt": "10 ago 2026",
+    "date_en": "10 Aug 2026",
+    "time": "17h00",
+    "time_pt": "17h00",
+    "time_en": "17:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-10T17:00:05+00:00",
+    "lastModifiedIso": "2026-08-10T17:00:05+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "DESI lança maior mapa 2D do universo"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "DESI lança maior mapa 2D do universo"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "Phys.org Space",
+      "Cosmos Week",
+      "DESI launches largest 2D map in the universe"
+    ],
+    "srcUrl": "https://phys.org/news/2026-08-desi-biggest-2d-universe.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=desi-releases-biggest-2d-map-of-the-universe",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=desi-releases-biggest-2d-map-of-the-universe",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=desi-releases-biggest-2d-map-of-the-universe&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 29,
     "slug": "science-campaigns-planned-for-the-august-12th-total-solar-eclipse",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3510,7 +3607,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "a-new-way-to-map-the-universe-s-missing-matter",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3643,7 +3740,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "rare-total-solar-eclipse-perseid-meteor-shower-double-header-august-12th",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3779,7 +3876,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "this-week-s-sky-at-a-glance-august-7-16",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3915,7 +4012,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "all-i-need-for-a-night-of-stargazing-is",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4030,7 +4127,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "aquila-the-eagle-soars-along-the-milky-way",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4151,7 +4248,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "highest-resolution-images-of-the-sun-s-surface-here",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4266,7 +4363,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "the-electromagnetic-spectrum-it-s-more-than-visible-light",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4384,7 +4481,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "new-nsf-initiative-aims-to-unlock-dataset-value-for-ai-enabled-scientific-discovery",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4514,124 +4611,6 @@ window.postsData = [
       "relevance": 74,
       "accessibility": 52,
       "novelty": 46
-    }
-  },
-  {
-    "id": 37,
-    "slug": "eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://home.cern/wp-content/uploads/2026/08/Poster-Protect-eyes-during-eclipse-scaled.png",
-    "inline_images": [
-      {
-        "src": "https://home.cern/eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august/context.post.image",
-        "caption": "contexto.post.título",
-        "caption_pt": "contexto.post.título",
-        "caption_en": "context.post.title",
-        "alt": "contexto.post.título",
-        "alt_pt": "contexto.post.título",
-        "alt_en": "context.post.title"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Olhos no céu: um raro eclipse solar será visível no CERN em 12 de agosto",
-    "title_pt": "Olhos no céu: um raro eclipse solar será visível no CERN em 12 de agosto",
-    "title_en": "Eyes on the sky: a rare solar eclipse will be visible from CERN on 12 August",
-    "sub": "Para observar o eclipse com segurança: Use apenas óculos para eclipses certificados pela norma ISO 12312-2.",
-    "sub_pt": "Para observar o eclipse com segurança: Use apenas óculos para eclipses certificados pela norma ISO 12312-2.",
-    "sub_en": "To observe the eclipse safely: Use only eclipse glasses certified to the ISO 12312-2 standard.",
-    "excerpt": "Para observar o eclipse com segurança: Use apenas óculos para eclipses certificados pela norma ISO 12312-2.",
-    "excerpt_pt": "Para observar o eclipse com segurança: Use apenas óculos para eclipses certificados pela norma ISO 12312-2.",
-    "excerpt_en": "To observe the eclipse safely: Use only eclipse glasses certified to the ISO 12312-2 standard.",
-    "body": "<p>Para observar o eclipse com segurança: Use apenas óculos para eclipses certificados pela norma ISO 12312-2. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Descubra como assistir ao eclipse de 2026 com segurança. Anúncio Segurança da comunidade CERN Artigos relacionados Ver todas as notícias Nenhuma postagem foi encontrada.</p><p>No dia 12 de agosto de 2026, a comunidade CERN terá a oportunidade de observar um dos eventos astronômicos mais espetaculares visíveis na nossa região em décadas. Embora um eclipse solar total atravesse partes da Espanha e do Atlântico Norte, os observadores em Genebra experimentarão um eclipse parcial profundo, com cerca de 93% do Sol.</p><p>Embora a maior parte do Sol fique obscurecida, olhar diretamente para ele sem a proteção adequada continua perigoso e pode causar danos permanentes à retina.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Para observar o eclipse com segurança: Use apenas óculos para eclipses certificados pela norma ISO 12312-2. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Descubra como assistir ao eclipse de 2026 com segurança. Anúncio Segurança da comunidade CERN Artigos relacionados Ver todas as notícias Nenhuma postagem foi encontrada.</p><p>No dia 12 de agosto de 2026, a comunidade CERN terá a oportunidade de observar um dos eventos astronômicos mais espetaculares visíveis na nossa região em décadas. Embora um eclipse solar total atravesse partes da Espanha e do Atlântico Norte, os observadores em Genebra experimentarão um eclipse parcial profundo, com cerca de 93% do Sol.</p><p>Embora a maior parte do Sol fique obscurecida, olhar diretamente para ele sem a proteção adequada continua perigoso e pode causar danos permanentes à retina.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Use only eclipse glasses certified to the ISO 12312-2 standard. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Find out how to watch the 2026 eclipse safely. Announcement CERN community safety Related Articles View all news No posts were found.</p><p>On 12 August 2026, the CERN community will have the opportunity to observe one of the most spectacular astronomical events visible from our region in decades. While a total solar eclipse will cross parts of Spain and the North Atlantic, observers in Geneva will experience a deep partial eclipse, with about 93% of the Sun covered by the.</p><p>Although most of the Sun will be obscured, looking directly at it without appropriate protection remains dangerous and may cause permanent retinal damage. The eclipse will begin at approximately 19: 26 CEST, reach its maximum around 20: 20 CEST, and end shortly before sunset.</p><p>Because the Sun will be very low in the western sky, a location with a clear horizon will provide the best view. If you experience blurred vision, dark spots or any change in your central vision after observing the eclipse, seek medical advice immediately.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Members of the CERN community may also contact the CERN Medical Service if they have any concerns. For further eclipse safety recommendations, consult the Swiss Federal Office of Public Health’s dedicated guidance page.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Para observar o eclipse com segurança: Use apenas óculos para eclipses certificados pela norma ISO 12312-2.",
-      "Dado-chave: Descubra como assistir ao eclipse de 2026 com segurança",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Para observar o eclipse com segurança: Use apenas óculos para eclipses certificados pela norma ISO 12312-2.",
-      "Dado-chave: Descubra como assistir ao eclipse de 2026 com segurança",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Use only eclipse glasses certified to the ISO 12312-2 standard.",
-      "Key detail: Find out how to watch the 2026 eclipse safely",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "10 ago 2026",
-    "date_pt": "10 ago 2026",
-    "date_en": "10 Aug 2026",
-    "time": "11h10",
-    "time_pt": "11h10",
-    "time_en": "11:10 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-10T11:10:14+00:00",
-    "lastModifiedIso": "2026-08-10T11:10:14+00:00",
-    "source": "CERN News",
-    "sourceDomain": "home.cern",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Física",
-      "CERN News",
-      "Cosmos Week",
-      "Olhos no céu",
-      "um raro eclipse solar será visível no CERN em 12 de agosto"
-    ],
-    "keywords_pt": [
-      "Física",
-      "CERN News",
-      "Cosmos Week",
-      "Olhos no céu",
-      "um raro eclipse solar será visível no CERN em 12 de agosto"
-    ],
-    "keywords_en": [
-      "Physical",
-      "CERN News",
-      "Cosmos Week",
-      "Eyes in the sky",
-      "a rare solar eclipse will be visible at CERN on August 12"
-    ],
-    "srcUrl": "https://home.cern/eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 72,
-    "scoreBreakdown": {
-      "source": 86,
-      "evidence": 82,
-      "relevance": 64,
-      "accessibility": 60,
-      "novelty": 52
     }
   },
   {
@@ -4999,7 +4978,7 @@ window.postsData = [
       "Physical",
       "CERN News",
       "Cosmos Week",
-      "First major structure of the future CMS tracker arrives at CERN"
+      "First major structure of future CMS tracker arrives at CERN"
     ],
     "srcUrl": "https://home.cern/first-major-structure-of-the-future-cms-tracker-arrives-at-cern/",
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=first-major-structure-of-the-future-cms-tracker-arrives-at-cern",

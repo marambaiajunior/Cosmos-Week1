@@ -40,14 +40,14 @@ window.postsData = [
     "date": "12 ago 2026",
     "date_pt": "12 ago 2026",
     "date_en": "12 Aug 2026",
-    "time": "10h38",
-    "time_pt": "10h38",
-    "time_en": "10:38 UTC",
+    "time": "11h54",
+    "time_pt": "11h54",
+    "time_en": "11:54 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-12T10:38:48.944292+00:00",
-    "lastModifiedIso": "2026-08-12T10:38:48.944292+00:00",
+    "publishedIso": "2026-08-12T11:54:37.083930+00:00",
+    "lastModifiedIso": "2026-08-12T11:54:37.083930+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "12 ago 2026",
     "date_pt": "12 ago 2026",
     "date_en": "12 Aug 2026",
-    "time": "10h38",
-    "time_pt": "10h38",
-    "time_en": "10:38 UTC",
+    "time": "11h54",
+    "time_pt": "11h54",
+    "time_en": "11:54 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-12T10:38:48.944243+00:00",
-    "lastModifiedIso": "2026-08-12T10:38:48.944243+00:00",
+    "publishedIso": "2026-08-12T11:54:37.083901+00:00",
+    "lastModifiedIso": "2026-08-12T11:54:37.083901+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,14 +250,14 @@ window.postsData = [
     "date": "12 ago 2026",
     "date_pt": "12 ago 2026",
     "date_en": "12 Aug 2026",
-    "time": "10h38",
-    "time_pt": "10h38",
-    "time_en": "10:38 UTC",
+    "time": "11h54",
+    "time_pt": "11h54",
+    "time_en": "11:54 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-12T10:38:48.944181+00:00",
-    "lastModifiedIso": "2026-08-12T10:38:48.944181+00:00",
+    "publishedIso": "2026-08-12T11:54:37.083864+00:00",
+    "lastModifiedIso": "2026-08-12T11:54:37.083864+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -355,14 +355,14 @@ window.postsData = [
     "date": "12 ago 2026",
     "date_pt": "12 ago 2026",
     "date_en": "12 Aug 2026",
-    "time": "10h38",
-    "time_pt": "10h38",
-    "time_en": "10:38 UTC",
+    "time": "11h54",
+    "time_pt": "11h54",
+    "time_en": "11:54 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-12T10:38:48.944128+00:00",
-    "lastModifiedIso": "2026-08-12T10:38:48.944128+00:00",
+    "publishedIso": "2026-08-12T11:54:37.083833+00:00",
+    "lastModifiedIso": "2026-08-12T11:54:37.083833+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -463,14 +463,14 @@ window.postsData = [
     "date": "12 ago 2026",
     "date_pt": "12 ago 2026",
     "date_en": "12 Aug 2026",
-    "time": "10h38",
-    "time_pt": "10h38",
-    "time_en": "10:38 UTC",
+    "time": "11h54",
+    "time_pt": "11h54",
+    "time_en": "11:54 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-12T10:38:48.944073+00:00",
-    "lastModifiedIso": "2026-08-12T10:38:48.944073+00:00",
+    "publishedIso": "2026-08-12T11:54:37.083799+00:00",
+    "lastModifiedIso": "2026-08-12T11:54:37.083799+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -504,7 +504,7 @@ window.postsData = [
       "Biology",
       "NIH News Releases",
       "Cosmos Week",
-      "NIH selects Dr. Courtney Aklin as director of the National Institute of Nursing Research"
+      "NIH Selects Dr. Courtney Aklin as Director of the National Institute of Nursing Research"
     ],
     "srcUrl": "https://www.nih.gov/news-events/news-releases/nih-selects-dr-courtney-aklin-director-national-institute-nursing-research",
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nih-selects-dr-courtney-aklin-as-director-of-the-national-institute-of-nursing-research",
@@ -531,53 +531,63 @@ window.postsData = [
   },
   {
     "id": 6,
-    "slug": "administrative-circulars-no-2-rev-8-no-3-rev-4-and-no-21-i-rev-4",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://home.cern/administrative-circulars-no-2-rev-8-no-3-rev-4-and-no-21-i-rev-4/context.post.image",
-    "inline_images": [],
+    "slug": "will-you-see-the-jupiter-mercury-conjunction-on-august-15",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2026/07/2026-Aug-15-Jupiter.jpeg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
     "video": null,
     "audio": null,
-    "title": "Circulares Administrativas nº 2 (Rev. 8), nº 3 (Rev. 4) e nº 21 (I) (Rev. 4)",
-    "title_pt": "Circulares Administrativas nº 2 (Rev. 8), nº 3 (Rev. 4) e nº 21 (I) (Rev. 4)",
-    "title_en": "Administrative Circulars No. 2 (Rev. 8), No. 3 (Rev. 4) and No. 21 (I) (Rev. 4)",
-    "sub": "Circulares Administrativas n.º 2, n.º 3 e n.º 21 Escrita por: Departamento de RH, Versões revistas das Circulares Administrativas n.º 2, “Recrutamento, nomeação e possíveis.",
-    "sub_pt": "Circulares Administrativas n.º 2, n.º 3 e n.º 21 Escrita por: Departamento de RH, Versões revistas das Circulares Administrativas n.º 2, “Recrutamento, nomeação e possíveis.",
-    "sub_en": "Administrative Circulars No. 2, No. 3 and No. 21 Written by: HR Department, Revised versions of Administrative Circulars No. 2, “Recruitment, appointment and possible developments.",
-    "excerpt": "Circulares Administrativas n.º 2, n.º 3 e n.º 21 Escrita por: Departamento de RH, Versões revistas das Circulares Administrativas n.º 2, “Recrutamento, nomeação e possíveis desenvolvimentos relativos à posição contratual dos colaboradores”. Não.",
-    "excerpt_pt": "Circulares Administrativas n.º 2, n.º 3 e n.º 21 Escrita por: Departamento de RH, Versões revistas das Circulares Administrativas n.º 2, “Recrutamento, nomeação e possíveis desenvolvimentos relativos à posição contratual dos colaboradores”. Não.",
-    "excerpt_en": "Administrative Circulars No. 2, No. 3 and No. 21 Written by: HR Department, Revised versions of Administrative Circulars No. 2, “Recruitment, appointment and possible developments regarding the contractual position of staff members”. No.",
-    "body": "<p>Circulares Administrativas n.º 2, n.º 3 e n.º 21 Escrita por: Departamento de RH, Versões revistas das Circulares Administrativas n.º 2, “Recrutamento, nomeação e possíveis desenvolvimentos relativos à posição contratual dos colaboradores”. Não. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. 4) Redigido por: Departamento de RH, Versões revisadas das Circulares Administrativas nº. Nas Circulares Administrativas do CERN No.</p><p>4) Escrito por: Departamento de RH, 12 de agosto de 2026 Versões revisadas das Circulares Administrativas nº. 21 (I), “Afastamentos por motivos familiares e licenças especiais” foram aprovados pelo Diretor-Geral e estão disponíveis nos seguintes links: Circular Administrativa nº.</p><p>8) Circular Administrativa nº. 4) Circular Administrativa nº.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/administrative-circulars-no-2-rev-8-no-3-rev-4-and-no-21-i-rev-4/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Circulares Administrativas n.º 2, n.º 3 e n.º 21 Escrita por: Departamento de RH, Versões revistas das Circulares Administrativas n.º 2, “Recrutamento, nomeação e possíveis desenvolvimentos relativos à posição contratual dos colaboradores”. Não. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. 4) Redigido por: Departamento de RH, Versões revisadas das Circulares Administrativas nº. Nas Circulares Administrativas do CERN No.</p><p>4) Escrito por: Departamento de RH, 12 de agosto de 2026 Versões revisadas das Circulares Administrativas nº. 21 (I), “Afastamentos por motivos familiares e licenças especiais” foram aprovados pelo Diretor-Geral e estão disponíveis nos seguintes links: Circular Administrativa nº.</p><p>8) Circular Administrativa nº. 4) Circular Administrativa nº.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/administrative-circulars-no-2-rev-8-no-3-rev-4-and-no-21-i-rev-4/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Administrative Circulars No. 2, No. 3 and No. 21 Written by: HR Department, Revised versions of Administrative Circulars No. 2, “Recruitment, appointment and possible developments regarding the contractual position of staff members”. No. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. 4) Written by: HR Department, Revised versions of Administrative Circulars No. At CERN Administrative Circulars No.</p><p>4) Written by: HR Department, 12 August, 2026 Revised versions of Administrative Circulars No. 21 (I), “Leave for family reasons and special leave” have been approved by the Director-General and are available at the following links: Administrative Circular No.</p><p>8) Administrative Circular No. 4) Administrative Circular No.</p><p>4) These versions cancel and replace the previous versions of Administrative Circulars No. CERN community human resources official communication Official news Related Articles View all news -&gt; No posts were found.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>2, “Recruitment, appointment and possible developments regarding the contractual position of staff members”. 3, “Home leave, travel to the home station and travel for family reasons”.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/administrative-circulars-no-2-rev-8-no-3-rev-4-and-no-21-i-rev-4/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Você verá a conjunção Júpiter-Mercúrio em 15 de agosto?",
+    "title_pt": "Você verá a conjunção Júpiter-Mercúrio em 15 de agosto?",
+    "title_en": "Will you see the Jupiter-Mercury conjunction on August 15?",
+    "sub": "Uma conjunção ocorre quando 2 objetos compartilham a mesma ascensão reta. A conjunção Júpiter-Mercúrio em 15 de agosto é a próxima. Procure-os antes do nascer do sol. O post Você.",
+    "sub_pt": "Uma conjunção ocorre quando 2 objetos compartilham a mesma ascensão reta. A conjunção Júpiter-Mercúrio em 15 de agosto é a próxima. Procure-os antes do nascer do sol. O post Você.",
+    "sub_en": "A conjunction is when 2 objects share the same right ascension. The Jupiter-Mercury conjunction on August 15 is the next one. Look for them before sunrise. The post Will you see.",
+    "excerpt": "Uma conjunção ocorre quando 2 objetos compartilham a mesma ascensão reta. A conjunção Júpiter-Mercúrio em 15 de agosto é a próxima. Procure-os antes do nascer do sol. O post Você verá a conjunção Júpiter-Mercúrio em 15 de agosto? apareceu pela primeira vez.",
+    "excerpt_pt": "Uma conjunção ocorre quando 2 objetos compartilham a mesma ascensão reta. A conjunção Júpiter-Mercúrio em 15 de agosto é a próxima. Procure-os antes do nascer do sol. O post Você verá a conjunção Júpiter-Mercúrio em 15 de agosto? apareceu pela primeira vez.",
+    "excerpt_en": "A conjunction is when 2 objects share the same right ascension. The Jupiter-Mercury conjunction on August 15 is the next one. Look for them before sunrise. The post Will you see the Jupiter-Mercury conjunction on August 15? first appeared.",
+    "body": "<p>Uma conjunção ocorre quando 2 objetos compartilham a mesma ascensão reta. A conjunção Júpiter-Mercúrio em 15 de agosto é a próxima. Procure-os antes do nascer do sol. O post Você verá a conjunção Júpiter-Mercúrio em 15 de agosto? apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Mas estará a apenas cerca de uma lua cheia de Júpiter. Conjunção Júpiter-Mercúrio, 15 de agosto de 2026. Aqui está uma visão binocular de Mercúrio e Júpiter no crepúsculo da manhã de 15 de agosto.</p><p>Qualquer objeto que orbite o Sol mais próximo do que a Terra pode passar pela conjunção inferior de vez em quando. Normalmente, porém, quando os astrónomos falam de uma conjunção inferior, estão a falar de Vénus ou Mercúrio, que orbitam entre a Terra e o Sol.</p><p>Ele passa entre a Terra e o Sol na lua nova uma vez por mês. Portanto, seria correto, embora um pouco incomum, dizer que a Lua está em conjunção inferior quando está em sua nova fase.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/definition-conjunction-astronomy/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma conjunção ocorre quando 2 objetos compartilham a mesma ascensão reta. A conjunção Júpiter-Mercúrio em 15 de agosto é a próxima. Procure-os antes do nascer do sol. O post Você verá a conjunção Júpiter-Mercúrio em 15 de agosto? apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Mas estará a apenas cerca de uma lua cheia de Júpiter. Conjunção Júpiter-Mercúrio, 15 de agosto de 2026. Aqui está uma visão binocular de Mercúrio e Júpiter no crepúsculo da manhã de 15 de agosto.</p><p>Qualquer objeto que orbite o Sol mais próximo do que a Terra pode passar pela conjunção inferior de vez em quando. Normalmente, porém, quando os astrónomos falam de uma conjunção inferior, estão a falar de Vénus ou Mercúrio, que orbitam entre a Terra e o Sol.</p><p>Ele passa entre a Terra e o Sol na lua nova uma vez por mês. Portanto, seria correto, embora um pouco incomum, dizer que a Lua está em conjunção inferior quando está em sua nova fase.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/definition-conjunction-astronomy/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A conjunction is when 2 objects share the same right ascension. The Jupiter-Mercury conjunction on August 15 is the next one. Look for them before sunrise. The post Will you see the Jupiter-Mercury conjunction on August 15? first appeared. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. But it’ll be only about one full moon width from Jupiter. Jupiter-Mercury conjunction August 15, 2026 Here’s a binocular view of Mercury and Jupiter in the morning twilight on August 15.</p><p>Any object that orbits the sun closer than Earth does might pass through inferior conjunction from time to time. Usually, though, when astronomers speak of an inferior conjunction, they’re talking about Venus or Mercury, which orbit between Earth and the sun.</p><p>It passes between Earth and the sun at new moon once each month. Therefore it would be correct, if a little unusual, to say that the moon is at inferior conjunction when it’s at its new phase.</p><p>It’s fun to imagine the inferior planets on an endless cycle of passing in front of the sun, as seen from Earth, then behind it, and back again, like squirrels running around a. Meanwhile, the superior planets, or planets farther from the sun than Earth, can never be at inferior conjunction.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>This sort of conjunction, maybe between two planets, or a planet and a star, or a star and the moon, happens multiple times every month. For example, if you were fortunate enough to have looked at the moon on July 21, 1969, the day that Neil Armstrong took the first step on the moon’s Sea of Tranquility, you’d have.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/definition-conjunction-astronomy/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Circulares Administrativas n.º 2, n.º 3 e n.º 21 Escrita por: Departamento de RH, Versões revistas das Circulares Administrativas n.º 2.",
-      "Dado-chave: 4) Redigido por: Departamento de RH, Versões revisadas das Circulares Administrativas nº.",
+      "Ponto central: Uma conjunção ocorre quando 2 objetos compartilham a mesma ascensão reta. A conjunção Júpiter-Mercúrio em 15 de agosto é a próxima. Procure-os antes.",
+      "Dado-chave: Mas estará a apenas cerca de uma lua cheia de Júpiter.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Circulares Administrativas n.º 2, n.º 3 e n.º 21 Escrita por: Departamento de RH, Versões revistas das Circulares Administrativas n.º 2.",
-      "Dado-chave: 4) Redigido por: Departamento de RH, Versões revisadas das Circulares Administrativas nº.",
+      "Ponto central: Uma conjunção ocorre quando 2 objetos compartilham a mesma ascensão reta. A conjunção Júpiter-Mercúrio em 15 de agosto é a próxima. Procure-os antes.",
+      "Dado-chave: Mas estará a apenas cerca de uma lua cheia de Júpiter.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: Administrative Circulars No. 2, No. 3 and No. 21 Written by: HR Department, Revised versions of Administrative Circulars No. 2, “Recruitment.",
-      "Key detail: 4) Written by: HR Department, Revised versions of Administrative Circulars No.",
+      "Core point: A conjunction is when 2 objects share the same right ascension. The Jupiter-Mercury conjunction on August 15 is the next one. Look for them before.",
+      "Key detail: But it’ll be only about one full moon width from Jupiter.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "12 ago 2026",
     "date_pt": "12 ago 2026",
     "date_en": "12 Aug 2026",
-    "time": "10h33",
-    "time_pt": "10h33",
-    "time_en": "10:33 UTC",
+    "time": "11h33",
+    "time_pt": "11h33",
+    "time_en": "11:33 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-12T10:33:16+00:00",
-    "lastModifiedIso": "2026-08-12T10:33:16+00:00",
-    "source": "CERN News",
-    "sourceDomain": "home.cern",
+    "publishedIso": "2026-08-12T11:33:32+00:00",
+    "lastModifiedIso": "2026-08-12T11:33:32+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -589,35 +599,35 @@ window.postsData = [
     "evidenceLabel": "Atualização institucional",
     "evidenceLabel_pt": "Atualização institucional",
     "evidenceLabel_en": "Institutional update",
-    "editorialBand": "watch",
-    "editorialBandLabel": "Leitura monitorada",
-    "editorialBandLabel_pt": "Leitura monitorada",
-    "editorialBandLabel_en": "Watchlist",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
     "keywords": [
-      "Física",
-      "CERN News",
+      "Ciências da Terra",
+      "EarthSky",
       "Cosmos Week",
-      "Circulares Administrativas nº 2 (Rev. 8)",
-      "nº 3 (Rev. 4) e nº 21 (I) (Rev. 4)"
+      "Você verá a conjunção Júpiter",
+      "Mercúrio em 15 de agosto?"
     ],
     "keywords_pt": [
-      "Física",
-      "CERN News",
+      "Ciências da Terra",
+      "EarthSky",
       "Cosmos Week",
-      "Circulares Administrativas nº 2 (Rev. 8)",
-      "nº 3 (Rev. 4) e nº 21 (I) (Rev. 4)"
+      "Você verá a conjunção Júpiter",
+      "Mercúrio em 15 de agosto?"
     ],
     "keywords_en": [
-      "Physical",
-      "CERN News",
+      "Earth Sciences",
+      "EarthSky",
       "Cosmos Week",
-      "Administrative Circulars nº 2 (Rev. 8)",
-      "nº 3 (Rev. 4) e nº 21 (I) (Rev. 4)"
+      "You will see the Jupiter conjunction",
+      "Mercury on August 15th?"
     ],
-    "srcUrl": "https://home.cern/administrative-circulars-no-2-rev-8-no-3-rev-4-and-no-21-i-rev-4/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=administrative-circulars-no-2-rev-8-no-3-rev-4-and-no-21-i-rev-4",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=administrative-circulars-no-2-rev-8-no-3-rev-4-and-no-21-i-rev-4",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=administrative-circulars-no-2-rev-8-no-3-rev-4-and-no-21-i-rev-4&lang=en",
+    "srcUrl": "https://earthsky.org/astronomy-essentials/definition-conjunction-astronomy/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=will-you-see-the-jupiter-mercury-conjunction-on-august-15",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=will-you-see-the-jupiter-mercury-conjunction-on-august-15",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=will-you-see-the-jupiter-mercury-conjunction-on-august-15&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -628,126 +638,18 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 67,
+    "score": 68,
     "scoreBreakdown": {
-      "source": 86,
+      "source": 72,
       "evidence": 82,
-      "relevance": 50,
-      "accessibility": 52,
+      "relevance": 62,
+      "accessibility": 60,
       "novelty": 55
     }
   },
   {
     "id": 7,
-    "slug": "operational-circular-no-2-rev-3-conditions-of-access-to-the-fenced-parts-of-the-cern-site-update",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://home.cern/operational-circular-no-2-rev-3-conditions-of-access-to-the-fenced-parts-of-the-cern-site-update-of-the-implementation-measures/context.post.image",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Circular Operacional nº 2 (Rev. 3): Condições de acesso às partes vedadas do recinto do CERN (actualização das medidas de implementação)",
-    "title_pt": "Circular Operacional nº 2 (Rev. 3): Condições de acesso às partes vedadas do recinto do CERN (actualização das medidas de implementação)",
-    "title_en": "Operational Circular No. 2 (Rev. 3): Conditions of access to the fenced parts of the CERN site (update of the implementation measures)",
-    "sub": "Circular Operacional nº 2: Condições de acesso às partes cercadas do site do CERN Escrito por: Departamento de RH, Membros do pessoal e outras pessoas interessadas são informados.",
-    "sub_pt": "Circular Operacional nº 2: Condições de acesso às partes cercadas do site do CERN Escrito por: Departamento de RH, Membros do pessoal e outras pessoas interessadas são informados.",
-    "sub_en": "Operational Circular No. 2: Conditions of access to the fenced parts of the CERN site Written by: HR Department, Members of the personnel and other persons concerned are hereby.",
-    "excerpt": "Circular Operacional nº 2: Condições de acesso às partes cercadas do site do CERN Escrito por: Departamento de RH, Membros do pessoal e outras pessoas interessadas são informados que o Diretor-Geral aprovou, posteriormente.",
-    "excerpt_pt": "Circular Operacional nº 2: Condições de acesso às partes cercadas do site do CERN Escrito por: Departamento de RH, Membros do pessoal e outras pessoas interessadas são informados que o Diretor-Geral aprovou, posteriormente.",
-    "excerpt_en": "Operational Circular No. 2: Conditions of access to the fenced parts of the CERN site Written by: HR Department, Members of the personnel and other persons concerned are hereby informed that the Director-General has approved, further to.",
-    "body": "<p>Condições de acesso às partes cercadas do site do CERN Escrito por: Departamento de RH, Membros do pessoal e outras pessoas interessadas são informados que o Diretor-Geral aprovou, posteriormente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. 3): Condições de acesso às partes vedadas das instalações do CERN (atualização das medidas de implementação) Escrito por: Departamento de RH, Os membros do pessoal e outras. Na Circular Operacional do CERN No.</p><p>3): Condições de acesso às partes vedadas das instalações do CERN (actualização das medidas de implementação) Escrito por: Departamento de RH, 12 de Agosto. Comunidade CERN recursos humanos comunicação oficial Notícias oficiais Artigos relacionados Ver todas as notícias -&gt; Nenhuma postagem foi encontrada.</p><p>Informam-se os membros do pessoal e demais pessoas interessadas que o Diretor-Geral aprovou, após consulta à Associação do Pessoal, uma atualização do documento “Medidas de. A revisão esclarece que os parques de estacionamento se destinam principalmente às pessoas que acedem ao local no âmbito das atividades oficiais do CERN.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/operational-circular-no-2-rev-3-conditions-of-access-to-the-fenced-parts-of-the-cern-site-update-of-the-implementation-measures/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Condições de acesso às partes cercadas do site do CERN Escrito por: Departamento de RH, Membros do pessoal e outras pessoas interessadas são informados que o Diretor-Geral aprovou, posteriormente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. 3): Condições de acesso às partes vedadas das instalações do CERN (atualização das medidas de implementação) Escrito por: Departamento de RH, Os membros do pessoal e outras. Na Circular Operacional do CERN No.</p><p>3): Condições de acesso às partes vedadas das instalações do CERN (actualização das medidas de implementação) Escrito por: Departamento de RH, 12 de Agosto. Comunidade CERN recursos humanos comunicação oficial Notícias oficiais Artigos relacionados Ver todas as notícias -&gt; Nenhuma postagem foi encontrada.</p><p>Informam-se os membros do pessoal e demais pessoas interessadas que o Diretor-Geral aprovou, após consulta à Associação do Pessoal, uma atualização do documento “Medidas de. A revisão esclarece que os parques de estacionamento se destinam principalmente às pessoas que acedem ao local no âmbito das atividades oficiais do CERN.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/operational-circular-no-2-rev-3-conditions-of-access-to-the-fenced-parts-of-the-cern-site-update-of-the-implementation-measures/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Conditions of access to the fenced parts of the CERN site Written by: HR Department, Members of the personnel and other persons concerned are hereby informed that the Director-General has approved, further to. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. 3): Conditions of access to the fenced parts of the CERN site(update of the implementation measures) Written by: HR Department, Members of the personnel and other persons. At CERN Operational Circular No.</p><p>3): Conditions of access to the fenced parts of the CERN site (update of the implementation measures) Written by: HR Department, 12 August. CERN community human resources official communication Official news Related Articles View all news -&gt; No posts were found.</p><p>Members of the personnel and other persons concerned are hereby informed that the Director-General has approved, further to consultation with the Staff Association, an update of. The revision clarifies that parking facilities are primarily intended for persons accessing the site in the framework of official CERN activities.</p><p>It also introduces limitations on parking duration. For persons accessing the site in the framework of official CERN activities, the maximum authorised parking duration is five consecutive working days.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>In the case of duty travel, a longer period may be agreed with the Registration and Access Control Service in designated long-stay parking areas. For persons accessing the site outside the framework of official CERN activities, the maximum parking duration is three hours.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/operational-circular-no-2-rev-3-conditions-of-access-to-the-fenced-parts-of-the-cern-site-update-of-the-implementation-measures/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Condições de acesso às partes cercadas do site do CERN Escrito por: Departamento de RH, Membros do pessoal e outras pessoas interessadas são.",
-      "Dado-chave: 3): Condições de acesso às partes vedadas das instalações do CERN (atualização das medidas de implementação) Escrito por: Departamento de RH, Os.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Condições de acesso às partes cercadas do site do CERN Escrito por: Departamento de RH, Membros do pessoal e outras pessoas interessadas são.",
-      "Dado-chave: 3): Condições de acesso às partes vedadas das instalações do CERN (atualização das medidas de implementação) Escrito por: Departamento de RH, Os.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Conditions of access to the fenced parts of the CERN site Written by: HR Department, Members of the personnel and other persons concerned are hereby.",
-      "Key detail: 3): Conditions of access to the fenced parts of the CERN site(update of the implementation measures) Written by: HR Department, Members of the.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "12 ago 2026",
-    "date_pt": "12 ago 2026",
-    "date_en": "12 Aug 2026",
-    "time": "10h19",
-    "time_pt": "10h19",
-    "time_en": "10:19 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-12T10:19:30+00:00",
-    "lastModifiedIso": "2026-08-12T10:19:30+00:00",
-    "source": "CERN News",
-    "sourceDomain": "home.cern",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "watch",
-    "editorialBandLabel": "Leitura monitorada",
-    "editorialBandLabel_pt": "Leitura monitorada",
-    "editorialBandLabel_en": "Watchlist",
-    "keywords": [
-      "Física",
-      "CERN News",
-      "Cosmos Week",
-      "Circular Operacional nº 2 (Rev. 3)",
-      "Condições de acesso às partes vedadas do recinto do CERN (actualização das medidas de implementação)"
-    ],
-    "keywords_pt": [
-      "Física",
-      "CERN News",
-      "Cosmos Week",
-      "Circular Operacional nº 2 (Rev. 3)",
-      "Condições de acesso às partes vedadas do recinto do CERN (actualização das medidas de implementação)"
-    ],
-    "keywords_en": [
-      "Physical",
-      "CERN News",
-      "Cosmos Week",
-      "Operating Circular nº 2 (Rev. 3)",
-      "Conditions of access to the fenced parts of the CERN site (update of implementation measures)"
-    ],
-    "srcUrl": "https://home.cern/operational-circular-no-2-rev-3-conditions-of-access-to-the-fenced-parts-of-the-cern-site-update-of-the-implementation-measures/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=operational-circular-no-2-rev-3-conditions-of-access-to-the-fenced-parts-of-the-cern-site-update",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=operational-circular-no-2-rev-3-conditions-of-access-to-the-fenced-parts-of-the-cern-site-update",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=operational-circular-no-2-rev-3-conditions-of-access-to-the-fenced-parts-of-the-cern-site-update&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 67,
-    "scoreBreakdown": {
-      "source": 86,
-      "evidence": 82,
-      "relevance": 50,
-      "accessibility": 52,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 8,
-    "slug": "sun-news-woohoo-the-total-solar-eclipse-is-today",
+    "slug": "sun-news-woo-hoo-total-solar-eclipse-today",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://earthsky.org/upl/2026/08/Aug-12-26-GOES-19-CCOR-1-and-moon.-ezgif.com-video-to-webp-converter.webp",
@@ -764,31 +666,31 @@ window.postsData = [
     ],
     "video": null,
     "audio": null,
-    "title": "Notícias do Sol: Uau, o eclipse solar total é hoje!",
-    "title_pt": "Notícias do Sol: Uau, o eclipse solar total é hoje!",
-    "title_en": "Sun news: Woohoo, the total solar eclipse is today!",
-    "sub": "Dia de eclipse solar total! A produção do Flare saltou para 16, embora o esperado CME tenha fracassado. As Perseidas terão o céu noturno só para si. As notícias pós-Sol: Uau, o.",
-    "sub_pt": "Dia de eclipse solar total! A produção do Flare saltou para 16, embora o esperado CME tenha fracassado. As Perseidas terão o céu noturno só para si. As notícias pós-Sol: Uau, o.",
-    "sub_en": "Total solar eclipse day! Flare production jumped to 16, though the awaited CME fizzled. Perseids will have the night sky to itself. The post Sun news: Woohoo, the total solar.",
-    "excerpt": "Dia de eclipse solar total! A produção do Flare saltou para 16, embora o esperado CME tenha fracassado. As Perseidas terão o céu noturno só para si. As notícias pós-Sol: Uau, o eclipse solar total é hoje! apareceu pela primeira vez no EarthSky.",
-    "excerpt_pt": "Dia de eclipse solar total! A produção do Flare saltou para 16, embora o esperado CME tenha fracassado. As Perseidas terão o céu noturno só para si. As notícias pós-Sol: Uau, o eclipse solar total é hoje! apareceu pela primeira vez no EarthSky.",
-    "excerpt_en": "Total solar eclipse day! Flare production jumped to 16, though the awaited CME fizzled. Perseids will have the night sky to itself. The post Sun news: Woohoo, the total solar eclipse is today! first appeared on EarthSky.",
-    "body": "<p>Dia de eclipse solar total! A produção do Flare saltou para 16, embora o esperado CME tenha fracassado. As Perseidas terão o céu noturno só para si. As notícias pós-Sol: Uau, o eclipse solar total é hoje! apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O coronógrafo CCOR-1 da NOAA a bordo da espaçonave GOES-19 avistou a lua flutuando em seu campo de visão, bem na hora do eclipse solar total de hoje. O CCOR-1 bloqueia a face ofuscante do Sol com um disco ocultador para que possa observar a tênue coroa externa em busca de ejeções de massa coronal.</p><p>Últimas 24 horas no sol (11 UTC de 11 de agosto, 11 UTC de 12 de agosto) Atividade de explosão: A atividade de explosão solar continuou em níveis baixos com explosões C (comuns) e. O campo geomagnético aumentou de níveis calmos para instáveis ​​durante o período do nosso relatório, com Kp 0-3.</p><p>14 de agosto: Condições ativas são possíveis, com potencial para um período isolado que pode trazer tempestades geomagnéticas G1 (menores). Enorme explosão solar direcionada à Terra. A principal notícia de hoje: Lembra-se daquela proeminência de fogo que relatamos em 8 de agosto.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Dia de eclipse solar total! A produção do Flare saltou para 16, embora o esperado CME tenha fracassado. As Perseidas terão o céu noturno só para si. As notícias pós-Sol: Uau, o eclipse solar total é hoje! apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O coronógrafo CCOR-1 da NOAA a bordo da espaçonave GOES-19 avistou a lua flutuando em seu campo de visão, bem na hora do eclipse solar total de hoje. O CCOR-1 bloqueia a face ofuscante do Sol com um disco ocultador para que possa observar a tênue coroa externa em busca de ejeções de massa coronal.</p><p>Últimas 24 horas no sol (11 UTC de 11 de agosto, 11 UTC de 12 de agosto) Atividade de explosão: A atividade de explosão solar continuou em níveis baixos com explosões C (comuns) e. O campo geomagnético aumentou de níveis calmos para instáveis ​​durante o período do nosso relatório, com Kp 0-3.</p><p>14 de agosto: Condições ativas são possíveis, com potencial para um período isolado que pode trazer tempestades geomagnéticas G1 (menores). Enorme explosão solar direcionada à Terra. A principal notícia de hoje: Lembra-se daquela proeminência de fogo que relatamos em 8 de agosto.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Total solar eclipse day! Flare production jumped to 16, though the awaited CME fizzled. Perseids will have the night sky to itself. The post Sun news: Woohoo, the total solar eclipse is today! first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. NOAA’s CCOR-1 coronagraph aboard the GOES-19 spacecraft spotted the moon drifting through its field of view, right on cue for today’s total solar eclipse. CCOR-1 blocks the sun’s blinding face with an occulting disk so it can watch the faint outer corona for coronal mass ejections.</p><p>Past 24 hours on the sun (11 UTC August 11, 11 UTC August 12) Flare activity: Solar flare activity continued at low levels with C (common) and B (weak) flares. The geomagnetic field increased from quiet to unsettled levels during our reporting period, with Kp 0-3.</p><p>Active conditions are possible, with the potential for an isolated period that may bring G1 (minor) geomagnetic storming. Huge sun blast aimed at Earth Today’s top story: Remember that fiery prominence we reported on August 8.</p><p>The solar material and magnetic fields, known as a coronal mass ejection or CME, should create disturbances in Earth’s magnetic field tomorrow, August 12. Past 24 hours on the sun (11 UTC August 10, 11 UTC August 11) Flare activity: Solar flare activity stayed at low levels with faint C (common) and B (weak) flares during the period.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Observers spotted no new Earth-directed CMEs during the past day. But two CMEs from August 8 remain under analysis for potential Earth impact in the coming days.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Notícias da Sun: Uau! Eclipse solar total hoje!",
+    "title_pt": "Notícias da Sun: Uau! Eclipse solar total hoje!",
+    "title_en": "Sun news: Woo hoo! Total solar eclipse today!",
+    "sub": "Dia de eclipse solar total! A produção do Flare saltou para 16, embora o esperado CME tenha fracassado. As Perseidas terão o céu noturno só para si. A postagem de notícias da Sun.",
+    "sub_pt": "Dia de eclipse solar total! A produção do Flare saltou para 16, embora o esperado CME tenha fracassado. As Perseidas terão o céu noturno só para si. A postagem de notícias da Sun.",
+    "sub_en": "Total solar eclipse day! Flare production jumped to 16, though the awaited CME fizzled. Perseids will have the night sky to itself. The post Sun news: Woo hoo! Total solar eclipse.",
+    "excerpt": "Dia de eclipse solar total! A produção do Flare saltou para 16, embora o esperado CME tenha fracassado. As Perseidas terão o céu noturno só para si. A postagem de notícias da Sun: Woo hoo! Eclipse solar total hoje! apareceu pela primeira vez no EarthSky.",
+    "excerpt_pt": "Dia de eclipse solar total! A produção do Flare saltou para 16, embora o esperado CME tenha fracassado. As Perseidas terão o céu noturno só para si. A postagem de notícias da Sun: Woo hoo! Eclipse solar total hoje! apareceu pela primeira vez no EarthSky.",
+    "excerpt_en": "Total solar eclipse day! Flare production jumped to 16, though the awaited CME fizzled. Perseids will have the night sky to itself. The post Sun news: Woo hoo! Total solar eclipse today! first appeared on EarthSky.",
+    "body": "<p>Dia de eclipse solar total! A produção do Flare saltou para 16, embora o esperado CME tenha fracassado. As Perseidas terão o céu noturno só para si. A postagem de notícias da Sun: Woo hoo! Eclipse solar total hoje! apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Hoje, 12 de agosto de 2026, milhões de pessoas na Groenlândia, Islândia e Espanha (e além) verão a Lua obscurecer totalmente o Sol num espetacular eclipse solar total. Últimas 24 horas no sol (11 UTC de 11 de agosto, 11 UTC de 12 de agosto) Atividade de explosão: A atividade de explosão solar continuou em níveis baixos com explosões C (comuns) e.</p><p>O campo geomagnético aumentou de níveis calmos para instáveis ​​durante o período do nosso relatório, com Kp 0-3. 14 de agosto: Condições ativas são possíveis, com potencial para um período isolado que pode trazer tempestades geomagnéticas G1 (menores).</p><p>O coronógrafo CCOR-1 da NOAA a bordo da espaçonave GOES-19 avistou a lua flutuando em seu campo de visão, bem dentro do cronograma para o eclipse solar total de hoje. O CCOR-1 bloqueia a face ofuscante do Sol com um disco ocultador para que possa observar a tênue coroa externa em busca de ejeções de massa coronal (CMEs).</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Dia de eclipse solar total! A produção do Flare saltou para 16, embora o esperado CME tenha fracassado. As Perseidas terão o céu noturno só para si. A postagem de notícias da Sun: Woo hoo! Eclipse solar total hoje! apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Hoje, 12 de agosto de 2026, milhões de pessoas na Groenlândia, Islândia e Espanha (e além) verão a Lua obscurecer totalmente o Sol num espetacular eclipse solar total. Últimas 24 horas no sol (11 UTC de 11 de agosto, 11 UTC de 12 de agosto) Atividade de explosão: A atividade de explosão solar continuou em níveis baixos com explosões C (comuns) e.</p><p>O campo geomagnético aumentou de níveis calmos para instáveis ​​durante o período do nosso relatório, com Kp 0-3. 14 de agosto: Condições ativas são possíveis, com potencial para um período isolado que pode trazer tempestades geomagnéticas G1 (menores).</p><p>O coronógrafo CCOR-1 da NOAA a bordo da espaçonave GOES-19 avistou a lua flutuando em seu campo de visão, bem dentro do cronograma para o eclipse solar total de hoje. O CCOR-1 bloqueia a face ofuscante do Sol com um disco ocultador para que possa observar a tênue coroa externa em busca de ejeções de massa coronal (CMEs).</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Total solar eclipse day! Flare production jumped to 16, though the awaited CME fizzled. Perseids will have the night sky to itself. The post Sun news: Woo hoo! Total solar eclipse today! first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Today, August 12, 2026, millions of people in Greenland, Iceland and Spain (and beyond) will see the moon entirely obscure the sun in a spectacular total solar eclipse. Past 24 hours on the sun (11 UTC August 11, 11 UTC August 12) Flare activity: Solar flare activity continued at low levels with C (common) and B (weak) flares.</p><p>The geomagnetic field increased from quiet to unsettled levels during our reporting period, with Kp 0-3. Active conditions are possible, with the potential for an isolated period that may bring G1 (minor) geomagnetic storming.</p><p>NOAA’s CCOR-1 coronagraph aboard the GOES-19 spacecraft spotted the moon drifting through its field of view, right on schedule for today’s total solar eclipse. CCOR-1 blocks the sun’s blinding face with an occulting disk so it can watch the faint outer corona for coronal mass ejections ( CMEs ).</p><p>Huge sun blast aimed at Earth Today’s top story: Remember that fiery prominence we reported on August 8. The solar material and magnetic fields, known as a coronal mass ejection or CME, should create disturbances in Earth’s magnetic field tomorrow, August 12.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Past 24 hours on the sun (11 UTC August 10, 11 UTC August 11) Flare activity: Solar flare activity stayed at low levels with faint C (common) and B (weak) flares during the period. Observers spotted no new Earth-directed CMEs during the past day.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Dia de eclipse solar total! A produção do Flare saltou para 16, embora o esperado CME tenha fracassado. As Perseidas terão o céu noturno só para si.",
-      "Dado-chave: O coronógrafo CCOR-1 da NOAA a bordo da espaçonave GOES-19 avistou a lua flutuando em seu campo de visão, bem na hora do eclipse solar total de.",
+      "Dado-chave: Hoje, 12 de agosto de 2026, milhões de pessoas na Groenlândia, Islândia e Espanha (e além) verão a Lua obscurecer totalmente o Sol num.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Dia de eclipse solar total! A produção do Flare saltou para 16, embora o esperado CME tenha fracassado. As Perseidas terão o céu noturno só para si.",
-      "Dado-chave: O coronógrafo CCOR-1 da NOAA a bordo da espaçonave GOES-19 avistou a lua flutuando em seu campo de visão, bem na hora do eclipse solar total de.",
+      "Dado-chave: Hoje, 12 de agosto de 2026, milhões de pessoas na Groenlândia, Islândia e Espanha (e além) verão a Lua obscurecer totalmente o Sol num.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Total solar eclipse day! Flare production jumped to 16, though the awaited CME fizzled. Perseids will have the night sky to itself. The post Sun.",
-      "Key detail: NOAA’s CCOR-1 coronagraph aboard the GOES-19 spacecraft spotted the moon drifting through its field of view, right on cue for today’s total.",
+      "Key detail: Today, August 12, 2026, millions of people in Greenland, Iceland and Spain (and beyond) will see the moon entirely obscure the sun in a.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "12 ago 2026",
@@ -823,27 +725,27 @@ window.postsData = [
       "Ciências da Terra",
       "EarthSky",
       "Cosmos Week",
-      "Notícias do Sol",
-      "o eclipse solar total é hoje!"
+      "Notícias da Sun",
+      "Uau! Eclipse solar total hoje!"
     ],
     "keywords_pt": [
       "Ciências da Terra",
       "EarthSky",
       "Cosmos Week",
-      "Notícias do Sol",
-      "o eclipse solar total é hoje!"
+      "Notícias da Sun",
+      "Uau! Eclipse solar total hoje!"
     ],
     "keywords_en": [
       "Earth Sciences",
       "EarthSky",
       "Cosmos Week",
       "Sun News",
-      "The total solar eclipse is today!"
+      "Wow! Total solar eclipse today!"
     ],
     "srcUrl": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-woohoo-the-total-solar-eclipse-is-today",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-woohoo-the-total-solar-eclipse-is-today",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-woohoo-the-total-solar-eclipse-is-today&lang=en",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-woo-hoo-total-solar-eclipse-today",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-woo-hoo-total-solar-eclipse-today",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-woo-hoo-total-solar-eclipse-today&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -864,7 +766,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 8,
     "slug": "how-to-design-a-space-habitat-that-supports-its-residents-mental-health",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -997,7 +899,7 @@ window.postsData = [
     }
   },
   {
-    "id": 10,
+    "id": 9,
     "slug": "total-solar-eclipse-to-spellbind-europe",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1110,6 +1012,139 @@ window.postsData = [
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=total-solar-eclipse-to-spellbind-europe",
     "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=total-solar-eclipse-to-spellbind-europe",
     "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=total-solar-eclipse-to-spellbind-europe&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 71,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 10,
+    "slug": "looking-to-see-the-solar-eclipse-from-north-america-here-s-where-and-when-to-catch-a-sliver",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/looking-to-see-the-sol.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/looking-to-see-the-sol.jpg",
+        "caption": "Nesta imagem fornecida pela NASA, a tripulação do Artemis II, no sentido anti-horário a partir do canto superior esquerdo, a Especialista da Missão Christina Koch, o Especialista da Missão Jeremy Hansen, o Comandante Reid Wiseman e o Piloto Victor Glover posam com os visualizadores do eclipse durante um.",
+        "caption_pt": "Nesta imagem fornecida pela NASA, a tripulação do Artemis II, no sentido anti-horário a partir do canto superior esquerdo, a Especialista da Missão Christina Koch, o Especialista da Missão Jeremy Hansen, o Comandante Reid Wiseman e o Piloto Victor Glover posam com os visualizadores do eclipse durante um.",
+        "caption_en": "In this image provided by NASA the Artemis II crew, counterclockwise from top left, Mission Specialist Christina Koch, Mission Specialist Jeremy Hansen, Commander Reid Wiseman and Pilot Victor Glover pose with eclipse viewers during a.",
+        "alt": "Quer ver o eclipse solar na América do Norte? Aqui é onde e quando pegar uma lasca",
+        "alt_pt": "Quer ver o eclipse solar na América do Norte? Aqui é onde e quando pegar uma lasca",
+        "alt_en": "Looking to see the solar eclipse from North America? Here's where and when to catch a sliver"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/looking-to-see-the-sol-1.jpg",
+        "caption": "Quer ver o eclipse solar na América do Norte? Aqui é onde e quando pegar uma lasca",
+        "caption_pt": "Quer ver o eclipse solar na América do Norte? Aqui é onde e quando pegar uma lasca",
+        "caption_en": "Looking to see the solar eclipse from North America? Here's where and when to catch a sliver",
+        "alt": "Quer ver o eclipse solar na América do Norte? Aqui é onde e quando pegar uma lasca",
+        "alt_pt": "Quer ver o eclipse solar na América do Norte? Aqui é onde e quando pegar uma lasca",
+        "alt_en": "Looking to see the solar eclipse from North America? Here's where and when to catch a sliver"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/550572b11d892f25.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Quer ver o eclipse solar na América do Norte? Aqui é onde e quando pegar uma lasca",
+    "title_pt": "Quer ver o eclipse solar na América do Norte? Aqui é onde e quando pegar uma lasca",
+    "title_en": "Looking to see the solar eclipse from North America? Here's where and when to catch a sliver",
+    "sub": "Desculpe, América do Norte. Depois de ganhar na loteria cósmica com dois eclipses solares totais de costa a costa, agora é a vez da Europa.",
+    "sub_pt": "Desculpe, América do Norte. Depois de ganhar na loteria cósmica com dois eclipses solares totais de costa a costa, agora é a vez da Europa.",
+    "sub_en": "Sorry, North America. After winning the cosmic lottery with a pair of coast-to-coast total solar eclipses, now it's Europe's turn.",
+    "excerpt": "Desculpe, América do Norte. Depois de ganhar na loteria cósmica com dois eclipses solares totais de costa a costa, agora é a vez da Europa.",
+    "excerpt_pt": "Desculpe, América do Norte. Depois de ganhar na loteria cósmica com dois eclipses solares totais de costa a costa, agora é a vez da Europa.",
+    "excerpt_en": "Sorry, North America. After winning the cosmic lottery with a pair of coast-to-coast total solar eclipses, now it's Europe's turn.",
+    "body": "<p>Desculpe, América do Norte. Depois de ganhar na loteria cósmica com dois eclipses solares totais de costa a costa, agora é a vez da Europa. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Nesta imagem fornecida pela NASA, a. A escuridão diurna não durará mais do que alguns minutos, na melhor das hipóteses, fraca em comparação com o eclipse épico de 2024 na América do Norte, mas é o primeiro encontro.</p><p>Para os EUA, o Grande Eclipse Americano de 2017 deu início à mania do desaparecimento do sol com mais de dois minutos de totalidade, do Oregon à Carolina do Sul. A quantidade total quase dobrou em 2024, correndo diagonalmente da costa do Pacífico do México até a Terra Nova.</p><p>E cidades canadenses em posição de ver um eclipse solar parcial na quarta-feira se o céu estiver limpo, em ordem alfabética, com horários locais e a quantidade de cobertura solar. Perfil completo → Anchorage, Alasca, com cobertura de 28%.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-solar-eclipse-north-america-sliver.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Desculpe, América do Norte. Depois de ganhar na loteria cósmica com dois eclipses solares totais de costa a costa, agora é a vez da Europa. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Nesta imagem fornecida pela NASA, a. A escuridão diurna não durará mais do que alguns minutos, na melhor das hipóteses, fraca em comparação com o eclipse épico de 2024 na América do Norte, mas é o primeiro encontro.</p><p>Para os EUA, o Grande Eclipse Americano de 2017 deu início à mania do desaparecimento do sol com mais de dois minutos de totalidade, do Oregon à Carolina do Sul. A quantidade total quase dobrou em 2024, correndo diagonalmente da costa do Pacífico do México até a Terra Nova.</p><p>E cidades canadenses em posição de ver um eclipse solar parcial na quarta-feira se o céu estiver limpo, em ordem alfabética, com horários locais e a quantidade de cobertura solar. Perfil completo → Anchorage, Alasca, com cobertura de 28%.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-solar-eclipse-north-america-sliver.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Sorry, North America. After winning the cosmic lottery with a pair of coast-to-coast total solar eclipses, now it&#x27;s Europe&#x27;s turn. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source In this image provided by NASA the Artemis II crew. Daytime darkness won&#x27;t last more than a couple minutes at best, shrimpy compared with North America&#x27;s epic 2024 eclipse, but it is continental Europe&#x27;s first encounter with.</p><p>For the U. S, the Great American Eclipse of 2017 kicked off the sun-vanishing mania with more than two minutes of totality from Oregon to South Carolina. The amount of totality almost doubled in 2024, racing diagonally from Mexico&#x27;s Pacific coast all the way past Newfoundland.</p><p>And Canadian cities in position to see a partial solar eclipse on Wednesday if skies are clear, in alphabetical order, with local times and the amount of sun coverage provided by. Full profile → Anchorage, Alaska, with 28% coverage.</p><p>Bangor, Maine, with 24% coverage. Montreal, Quebec, with 18% coverage.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>New York City with 9% coverage. Philadelphia with 7% coverage.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-solar-eclipse-north-america-sliver.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Desculpe, América do Norte. Depois de ganhar na loteria cósmica com dois eclipses solares totais de costa a costa, agora é a vez da Europa.",
+      "Dado-chave: Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Nesta.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Desculpe, América do Norte. Depois de ganhar na loteria cósmica com dois eclipses solares totais de costa a costa, agora é a vez da Europa.",
+      "Dado-chave: Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Nesta.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Sorry, North America. After winning the cosmic lottery with a pair of coast-to-coast total solar eclipses, now it's Europe's turn.",
+      "Key detail: Editors have highlighted the following attributes while ensuring the content's credibility: Add as preferred source In this image provided by.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "12 ago 2026",
+    "date_pt": "12 ago 2026",
+    "date_en": "12 Aug 2026",
+    "time": "07h37",
+    "time_pt": "07h37",
+    "time_en": "07:37 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-12T07:37:15+00:00",
+    "lastModifiedIso": "2026-08-12T07:37:15+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Quer ver o eclipse solar na América do Norte? Aqui é onde e quando pegar uma lasca"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Quer ver o eclipse solar na América do Norte? Aqui é onde e quando pegar uma lasca"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Want to see the solar eclipse in North America? Here's Where and When to Grab a Splinter"
+    ],
+    "srcUrl": "https://phys.org/news/2026-08-solar-eclipse-north-america-sliver.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=looking-to-see-the-solar-eclipse-from-north-america-here-s-where-and-when-to-catch-a-sliver",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=looking-to-see-the-solar-eclipse-from-north-america-here-s-where-and-when-to-catch-a-sliver",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=looking-to-see-the-solar-eclipse-from-north-america-here-s-where-and-when-to-catch-a-sliver&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -1267,134 +1302,6 @@ window.postsData = [
   },
   {
     "id": 12,
-    "slug": "nasa-shares-station-research-today-supporting-moon-mars-tomorrow",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/04/iss074e0458251.jpg?w=2048",
-    "inline_images": [
-      {
-        "src": "https://images-assets.nasa.gov/image/iss074e0333988/iss074e0333988~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "A astronauta da NASA Jessica Meir veste uma camisa listrada de azul e branco e sorri para a câmera enquanto trabalha dentro da Estação Espacial Internacional. Seu cabelo flutua em microgravidade entre equipamentos e compartimentos de armazenamento. Meir usa luvas e.",
-        "caption_pt": "A astronauta da NASA Jessica Meir veste uma camisa listrada de azul e branco e sorri para a câmera enquanto trabalha dentro da Estação Espacial Internacional. Seu cabelo flutua em microgravidade entre equipamentos e compartimentos de armazenamento. Meir usa luvas e.",
-        "caption_en": "NASA astronaut Jessica Meir wears a striped blue and white shirt and smiles at the camera while working inside the International Space Station. Her hair floats in microgravity among equipment and storage compartments. Meir wears gloves and.",
-        "alt": "A astronauta da NASA Jessica Meir veste uma camisa listrada de azul e branco e sorri para a câmera enquanto trabalha dentro da Estação Espacial Internacional. Seu cabelo flutua em microgravidade entre equipamentos e compartimentos de armazenamento. Meir usa luvas e.",
-        "alt_pt": "A astronauta da NASA Jessica Meir veste uma camisa listrada de azul e branco e sorri para a câmera enquanto trabalha dentro da Estação Espacial Internacional. Seu cabelo flutua em microgravidade entre equipamentos e compartimentos de armazenamento. Meir usa luvas e.",
-        "alt_en": "NASA astronaut Jessica Meir wears a striped blue and white shirt and smiles at the camera while working inside the International Space Station. Her hair floats in microgravity among equipment and storage compartments. Meir wears gloves and."
-      }
-    ],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/e4d-timelapse-sophieadenot.mp4",
-      "poster": "https://www.nasa.gov/wp-content/uploads/2026/04/iss074e0458251.jpg",
-      "title": "NASA compartilha pesquisa de estação hoje apoiando Lua e Marte amanhã - NASA",
-      "title_pt": "NASA compartilha pesquisa de estação hoje apoiando Lua e Marte amanhã - NASA",
-      "title_en": "NASA Shares Station Research Today Supporting Moon, Mars Tomorrow - NASA",
-      "caption": "A missão Artemis II da NASA em abril foi o primeiro voo tripulado ao redor da Lua em mais de 50 anos, marcando um marco importante para o retorno da humanidade à Lua.",
-      "caption_pt": "A missão Artemis II da NASA em abril foi o primeiro voo tripulado ao redor da Lua em mais de 50 anos, marcando um marco importante para o retorno da humanidade à Lua.",
-      "caption_en": "NASA’s Artemis II mission in April was the first crewed flight around the Moon in more than 50 years, marking a major milestone for humanity’s return to the",
-      "sourcePage": "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/"
-    },
-    "audio": null,
-    "title": "NASA compartilha pesquisa de estação hoje apoiando Lua e Marte amanhã",
-    "title_pt": "NASA compartilha pesquisa de estação hoje apoiando Lua e Marte amanhã",
-    "title_en": "NASA Shares Station Research Today Supporting Moon, Mars Tomorrow",
-    "sub": "A Estação Espacial Internacional esteve ocupada ao longo de 2026, pois continua a ser um espaço de trabalho movimentado para astronautas que conduzem uma variedade de experiências.",
-    "sub_pt": "A Estação Espacial Internacional esteve ocupada ao longo de 2026, pois continua a ser um espaço de trabalho movimentado para astronautas que conduzem uma variedade de experiências.",
-    "sub_en": "The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay.",
-    "excerpt": "A Estação Espacial Internacional esteve ocupada ao longo de 2026, pois continua a ser um espaço de trabalho movimentado para astronautas que conduzem uma variedade de experiências científicas que estabelecem as bases para missões à Lua e mais além. Da NASA.",
-    "excerpt_pt": "A Estação Espacial Internacional esteve ocupada ao longo de 2026, pois continua a ser um espaço de trabalho movimentado para astronautas que conduzem uma variedade de experiências científicas que estabelecem as bases para missões à Lua e mais além. Da NASA.",
-    "excerpt_en": "The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay the groundwork for missions to the Moon and beyond. NASA’s.",
-    "body": "<p>A Estação Espacial Internacional esteve ocupada ao longo de 2026, pois continua a ser um espaço de trabalho movimentado para astronautas que conduzem uma variedade de experiências científicas que estabelecem as bases para missões à Lua e mais além. Da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Artemis II da NASA em abril foi o primeiro voo tripulado ao redor da Lua em mais de 50 anos. Expedição à Estação Espacial Internacional 74 astronautas (a partir da esquerda) Chris Williams, Jack Hathaway, Sophie Adenot e Jessica Meir dentro da cúpula da estação espacial.</p><p>Otimizando a tecnologia espacial Para assistir a este vídeo, habilite o JavaScript e considere atualizar para um navegador da Web que suporte vídeo HTML5 A astronauta da ESA. Estudando o corpo no espaço Os astronautas da NASA Jessica Meir e Chris Williams coletam amostras congeladas de pesquisa dentro do módulo de laboratório Destiny da Estação.</p><p>Para saber mais sobre a pesquisa em andamento a bordo da estação espacial, visite: NASA. gov/ISS-Research Compartilhe detalhes Última atualização em 11 de agosto de 2026 Termos.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A Estação Espacial Internacional esteve ocupada ao longo de 2026, pois continua a ser um espaço de trabalho movimentado para astronautas que conduzem uma variedade de experiências científicas que estabelecem as bases para missões à Lua e mais além. Da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Artemis II da NASA em abril foi o primeiro voo tripulado ao redor da Lua em mais de 50 anos. Expedição à Estação Espacial Internacional 74 astronautas (a partir da esquerda) Chris Williams, Jack Hathaway, Sophie Adenot e Jessica Meir dentro da cúpula da estação espacial.</p><p>Otimizando a tecnologia espacial Para assistir a este vídeo, habilite o JavaScript e considere atualizar para um navegador da Web que suporte vídeo HTML5 A astronauta da ESA. Estudando o corpo no espaço Os astronautas da NASA Jessica Meir e Chris Williams coletam amostras congeladas de pesquisa dentro do módulo de laboratório Destiny da Estação.</p><p>Para saber mais sobre a pesquisa em andamento a bordo da estação espacial, visite: NASA. gov/ISS-Research Compartilhe detalhes Última atualização em 11 de agosto de 2026 Termos.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay the groundwork for missions to the Moon and beyond. NASA’s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. NASA’s Artemis II mission in April was the first crewed flight around the Moon in more than 50 years. International Space Station Expedition 74 astronauts (from left) Chris Williams, Jack Hathaway, Sophie Adenot, and Jessica Meir inside the space station’s cupola waiting to.</p><p>Optimizing space technology To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video ESA (European Space Agency) astronaut. Studying the body in space NASA astronauts Jessica Meir and Chris Williams collect frozen research samples from inside the International Space Station’s Destiny laboratory module.</p><p>To learn more about ongoing research aboard the space station, visit: NASA. gov/ISS-Research Share Details Last Updated Aug 11, 2026 Related Terms ISS Research International Space. Sophie Adenot, and Jessica Meir inside the space station’s cupola waiting to observe the Orion spacecraft, with the Artemis II crew inside, as it reenters Earth’s atmosphere.</p><p>NASA The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that. NASA’s Artemis II mission in April was the first crewed flight around the Moon in more than 50 years, marking a major milestone for humanity’s return to the lunar surface.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Research aboard the space station, coupled with Artemis and Moon Base programs, will continue to demonstrate how NASA is preparing for sustained astronaut exploration of the Moon. To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video Astronauts aboard the International Space Station demonstrate and.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A Estação Espacial Internacional esteve ocupada ao longo de 2026, pois continua a ser um espaço de trabalho movimentado para astronautas que conduzem.",
-      "Dado-chave: A Estação Espacial Internacional esteve ocupada ao longo de 2026, pois continua a ser um espaço de trabalho movimentado para astronautas que.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A Estação Espacial Internacional esteve ocupada ao longo de 2026, pois continua a ser um espaço de trabalho movimentado para astronautas que conduzem.",
-      "Dado-chave: A Estação Espacial Internacional esteve ocupada ao longo de 2026, pois continua a ser um espaço de trabalho movimentado para astronautas que.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of.",
-      "Key detail: The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "11 ago 2026",
-    "date_pt": "11 ago 2026",
-    "date_en": "11 Aug 2026",
-    "time": "14h00",
-    "time_pt": "14h00",
-    "time_en": "14:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-11T14:00:00+00:00",
-    "lastModifiedIso": "2026-08-11T14:00:00+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA compartilha pesquisa de estação hoje apoiando Lua e Marte amanhã"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA compartilha pesquisa de estação hoje apoiando Lua e Marte amanhã"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA Shares Station Research Today Supporting Moon and Mars Tomorrow"
-    ],
-    "srcUrl": "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-shares-station-research-today-supporting-moon-mars-tomorrow",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-shares-station-research-today-supporting-moon-mars-tomorrow",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-shares-station-research-today-supporting-moon-mars-tomorrow&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 13,
     "slug": "nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1527,7 +1434,7 @@ window.postsData = [
     }
   },
   {
-    "id": 14,
+    "id": 13,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1663,7 +1570,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 14,
     "slug": "dust-and-water-spotted-close-to-giant-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1796,7 +1703,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 15,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1932,7 +1839,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 16,
     "slug": "webb-reveals-oxygen-rich-dust-and-water-surviving-near-milky-way-s-central-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2074,11 +1981,11 @@ window.postsData = [
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 18,
+    "id": 17,
     "slug": "what-is-the-nancy-grace-roman-space-telescope-grades-5-8",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2183,7 +2090,7 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
+    "id": 18,
     "slug": "the-escape-mission-will-study-the-evolution-of-exoplanet-atmospheres",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2316,7 +2223,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 19,
     "slug": "toward-a-unified-framework-for-helium-observations-and-interpretation-of-atmospheric-escape",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2421,7 +2328,7 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
+    "id": 20,
     "slug": "interstellar-travel-iii-antimatter-to-the-rescue",
     "cat": "Física",
     "catCls": "fisica",
@@ -2542,40 +2449,242 @@ window.postsData = [
     }
   },
   {
+    "id": 21,
+    "slug": "first-major-structure-of-the-future-cms-tracker-arrives-at-cern",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://home.cern/wp-content/uploads/2026/08/TB2S-31.jpg",
+    "inline_images": [
+      {
+        "src": "https://home.cern/first-major-structure-of-the-future-cms-tracker-arrives-at-cern/context.post.image",
+        "caption": "contexto.post.título",
+        "caption_pt": "contexto.post.título",
+        "caption_en": "context.post.title",
+        "alt": "contexto.post.título",
+        "alt_pt": "contexto.post.título",
+        "alt_en": "context.post.title"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Primeira grande estrutura do futuro rastreador CMS chega ao CERN",
+    "title_pt": "Primeira grande estrutura do futuro rastreador CMS chega ao CERN",
+    "title_en": "First major structure of the future CMS tracker arrives at CERN",
+    "sub": "Atualizações contínuas a caminho do HiLumi A primeira grande estrutura do futuro rastreador CMS chega ao CERN 4 de agosto de 2026 A primeira grande estrutura mecânica do futuro.",
+    "sub_pt": "Atualizações contínuas a caminho do HiLumi A primeira grande estrutura do futuro rastreador CMS chega ao CERN 4 de agosto de 2026 A primeira grande estrutura mecânica do futuro.",
+    "sub_en": "Ongoing upgrades on the road to HiLumi First major structure of the future CMS tracker arrives at CERN 4 August 2026 The first major mechanical structure of the future CMS tracker.",
+    "excerpt": "Atualizações contínuas a caminho do HiLumi A primeira grande estrutura do futuro rastreador CMS chega ao CERN 4 de agosto de 2026 A primeira grande estrutura mecânica do futuro rastreador CMS chegou ao CERN, enquanto os preparativos continuam para o.",
+    "excerpt_pt": "Atualizações contínuas a caminho do HiLumi A primeira grande estrutura do futuro rastreador CMS chega ao CERN 4 de agosto de 2026 A primeira grande estrutura mecânica do futuro rastreador CMS chegou ao CERN, enquanto os preparativos continuam para o.",
+    "excerpt_en": "Ongoing upgrades on the road to HiLumi First major structure of the future CMS tracker arrives at CERN 4 August 2026 The first major mechanical structure of the future CMS tracker has arrived at CERN, as preparations continue for the.",
+    "body": "<p>Atualizações contínuas a caminho do HiLumi A primeira grande estrutura do futuro rastreador CMS chega ao CERN 4 de agosto de 2026 A primeira grande estrutura mecânica do futuro rastreador CMS chegou ao CERN, enquanto os preparativos continuam para o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Construído e montado por equipes do IPHC (CNRS/Universidade de Estrasburgo). O rastreador atual precisa ser substituído para preparar o detector para as taxas de colisão mais altas esperadas no HiLumi LHC.</p><p>Mais atualizações Tudo sobre o caminho para HiLumi Nenhuma postagem foi encontrada. Construída e montada por equipes do IPHC (CNRS/Universidade de Estrasburgo), na França, a roda Tracker Barrel 2S (TB2S) é uma estrutura de 2,3 metros de comprimento que forma a.</p><p>Projetada a partir de materiais compósitos leves de fibra de carbono, a roda TB2S combina alta precisão mecânica com a resistência necessária para suportar centenas de quilogramas.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/first-major-structure-of-the-future-cms-tracker-arrives-at-cern/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Atualizações contínuas a caminho do HiLumi A primeira grande estrutura do futuro rastreador CMS chega ao CERN 4 de agosto de 2026 A primeira grande estrutura mecânica do futuro rastreador CMS chegou ao CERN, enquanto os preparativos continuam para o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Construído e montado por equipes do IPHC (CNRS/Universidade de Estrasburgo). O rastreador atual precisa ser substituído para preparar o detector para as taxas de colisão mais altas esperadas no HiLumi LHC.</p><p>Mais atualizações Tudo sobre o caminho para HiLumi Nenhuma postagem foi encontrada. Construída e montada por equipes do IPHC (CNRS/Universidade de Estrasburgo), na França, a roda Tracker Barrel 2S (TB2S) é uma estrutura de 2,3 metros de comprimento que forma a.</p><p>Projetada a partir de materiais compósitos leves de fibra de carbono, a roda TB2S combina alta precisão mecânica com a resistência necessária para suportar centenas de quilogramas.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/first-major-structure-of-the-future-cms-tracker-arrives-at-cern/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Ongoing upgrades on the road to HiLumi First major structure of the future CMS tracker arrives at CERN 4 August 2026 The first major mechanical structure of the future CMS tracker has arrived at CERN, as preparations continue for the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Built and assembled by teams at the IPHC (CNRS/University of Strasbourg). The current tracker needs replacing to prepare the detector for the higher collision rates expected at the HiLumi LHC.</p><p>More updates All about the road to HiLumi No posts were found. Built and assembled by teams at the IPHC (CNRS/University of Strasbourg) in France, the Tracker Barrel 2S (TB2S) wheel is a 2.3-metre-long structure that forms the outer.</p><p>Designed from lightweight carbon-fibre composite materials, the TB2S wheel combines high mechanical precision with the strength needed to support hundreds of kilograms of detector. Starting from 2027, more than 4 thousand 2S-type silicon sensor modules, each consisting of two silicon microstrip sensors separated by 1.8 mm, will be installed on the structure.</p><p>The project was launched in 2017, with the journey from Strasbourg to CERN taking place in July in a specially designed transport container. It will now undergo further measurements before silicon modules are integrated.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>This structure will become the backbone of the new CMS tracker, enabling the experiment to record the unprecedented volume of data that will be produced in the HiLumi LHC era. Find out more on the CNRS IN2P3 website (available in French only).</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/first-major-structure-of-the-future-cms-tracker-arrives-at-cern/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Atualizações contínuas a caminho do HiLumi A primeira grande estrutura do futuro rastreador CMS chega ao CERN 4 de agosto de 2026 A primeira grande.",
+      "Dado-chave: Construído e montado por equipes do IPHC (CNRS/Universidade de Estrasburgo).",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Atualizações contínuas a caminho do HiLumi A primeira grande estrutura do futuro rastreador CMS chega ao CERN 4 de agosto de 2026 A primeira grande.",
+      "Dado-chave: Construído e montado por equipes do IPHC (CNRS/Universidade de Estrasburgo).",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Ongoing upgrades on the road to HiLumi First major structure of the future CMS tracker arrives at CERN 4 August 2026 The first major mechanical.",
+      "Key detail: Built and assembled by teams at the IPHC (CNRS/University of Strasbourg).",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "04 ago 2026",
+    "date_pt": "04 ago 2026",
+    "date_en": "04 Aug 2026",
+    "time": "09h43",
+    "time_pt": "09h43",
+    "time_en": "09:43 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-04T09:43:33+00:00",
+    "lastModifiedIso": "2026-08-04T09:43:33+00:00",
+    "source": "CERN News",
+    "sourceDomain": "home.cern",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "CERN News",
+      "Cosmos Week",
+      "Primeira grande estrutura do futuro rastreador CMS chega ao CERN"
+    ],
+    "keywords_pt": [
+      "Física",
+      "CERN News",
+      "Cosmos Week",
+      "Primeira grande estrutura do futuro rastreador CMS chega ao CERN"
+    ],
+    "keywords_en": [
+      "Physical",
+      "CERN News",
+      "Cosmos Week",
+      "First major structure of future CMS tracker arrives at CERN"
+    ],
+    "srcUrl": "https://home.cern/first-major-structure-of-the-future-cms-tracker-arrives-at-cern/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=first-major-structure-of-the-future-cms-tracker-arrives-at-cern",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=first-major-structure-of-the-future-cms-tracker-arrives-at-cern",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=first-major-structure-of-the-future-cms-tracker-arrives-at-cern&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 71,
+    "scoreBreakdown": {
+      "source": 86,
+      "evidence": 82,
+      "relevance": 68,
+      "accessibility": 52,
+      "novelty": 46
+    }
+  },
+  {
     "id": 22,
+    "slug": "the-july-august-2026-issue-of-the-cern-courier-is-out",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://home.cern/wp-content/uploads/2026/07/courier_jul_aug_cover-3.jpg",
+    "inline_images": [
+      {
+        "src": "https://home.cern/the-july-august-2026-issue-of-the-cern-courier-is-out/context.post.image",
+        "caption": "contexto.post.título",
+        "caption_pt": "contexto.post.título",
+        "caption_en": "context.post.title",
+        "alt": "contexto.post.título",
+        "alt_pt": "contexto.post.título",
+        "alt_en": "context.post.title"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "A edição de julho/agosto de 2026 do CERN Courier foi lançada",
+    "title_pt": "A edição de julho/agosto de 2026 do CERN Courier foi lançada",
+    "title_en": "The July/August 2026 issue of the CERN Courier is out",
+    "sub": "Quando o colisor de grandes elétrons e pósitrons foi ativado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes, colidiu elétrons e pósitrons até a.",
+    "sub_pt": "Quando o colisor de grandes elétrons e pósitrons foi ativado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes, colidiu elétrons e pósitrons até a.",
+    "sub_en": "When the Large Electron, Positron collider switched on, in 1989, the field had never worked at such a scale. Approved eight years earlier, it collided electrons and positrons.",
+    "excerpt": "Quando o colisor de grandes elétrons e pósitrons foi ativado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes, colidiu elétrons e pósitrons até a virada do século, marcando duas décadas.",
+    "excerpt_pt": "Quando o colisor de grandes elétrons e pósitrons foi ativado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes, colidiu elétrons e pósitrons até a virada do século, marcando duas décadas.",
+    "excerpt_en": "When the Large Electron, Positron collider switched on, in 1989, the field had never worked at such a scale. Approved eight years earlier, it collided electrons and positrons until the turn of the century, marking two decades in which.",
+    "body": "<p>Quando o colisor de grandes elétrons e pósitrons foi ativado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes, colidiu elétrons e pósitrons até a virada do século, marcando duas décadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Em Novembro passado, cerca de 200 físicos e historiadores reuniram-se no CERN para fazer um balanço. Anúncio Comunidade CERN CERN Courier Artigos relacionados Ver todas as notícias Nenhuma postagem foi encontrada.</p><p>Quando o Grande Colisor Elétron-Positron (LEP) foi ligado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes, colidiu electrões e positrões até ao virar do século, marcando duas décadas em que a descoberta se tornou verdadeiramente global.</p><p>Em Novembro passado, cerca de 200 físicos e historiadores reuniram-se no CERN para fazer um balanço desses anos, enquanto o Grande Colisor de Hádrons, construído no túnel da LEP. Durante 10 anos, o NA64 disparou sondas sobre um alvo e observou a falta de energia, procurando um setor escuro demasiado fraco para ser detectado de outra forma.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/the-july-august-2026-issue-of-the-cern-courier-is-out/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Quando o colisor de grandes elétrons e pósitrons foi ativado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes, colidiu elétrons e pósitrons até a virada do século, marcando duas décadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Em Novembro passado, cerca de 200 físicos e historiadores reuniram-se no CERN para fazer um balanço. Anúncio Comunidade CERN CERN Courier Artigos relacionados Ver todas as notícias Nenhuma postagem foi encontrada.</p><p>Quando o Grande Colisor Elétron-Positron (LEP) foi ligado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes, colidiu electrões e positrões até ao virar do século, marcando duas décadas em que a descoberta se tornou verdadeiramente global.</p><p>Em Novembro passado, cerca de 200 físicos e historiadores reuniram-se no CERN para fazer um balanço desses anos, enquanto o Grande Colisor de Hádrons, construído no túnel da LEP. Durante 10 anos, o NA64 disparou sondas sobre um alvo e observou a falta de energia, procurando um setor escuro demasiado fraco para ser detectado de outra forma.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/the-july-august-2026-issue-of-the-cern-courier-is-out/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>When the Large Electron, Positron collider switched on, in 1989, the field had never worked at such a scale. Approved eight years earlier, it collided electrons and positrons until the turn of the century, marking two decades in which. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Last November, some 200 physicists and historians gathered at CERN to take stock. Announcement CERN community CERN Courier Related Articles View all news No posts were found.</p><p>When the Large Electron, Positron collider (LEP) switched on, in 1989, the field had never worked at such a scale. Approved eight years earlier, it collided electrons and positrons until the turn of the century, marking two decades in which discovery truly turned global.</p><p>Last November, some 200 physicists and historians gathered at CERN to take stock of those years, while the Large Hadron Collider, built in LEP’s tunnel, delivered its final. For 10 years, NA64 has fired probes onto a target and watched for missing energy, seeking a dark sector too faint to catch otherwise.</p><p>It will now undergo a full round of upgrades, to sustain much higher intensities and increase its dataset by up to two orders of magnitude. This edition of CERN Courier also explores Xsuite, the open-source framework that gathered the field’s scattered beam-simulation tools.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Today, it designs the colliders to come, tunes those already running and models synchrotrons to treat cancer. In May, the CERN Council updated the European Strategy for Particle Physics.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/the-july-august-2026-issue-of-the-cern-courier-is-out/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Quando o colisor de grandes elétrons e pósitrons foi ativado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes.",
+      "Dado-chave: Em Novembro passado, cerca de 200 físicos e historiadores reuniram-se no CERN para fazer um balanço [.]",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Quando o colisor de grandes elétrons e pósitrons foi ativado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes.",
+      "Dado-chave: Em Novembro passado, cerca de 200 físicos e historiadores reuniram-se no CERN para fazer um balanço [.]",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: When the Large Electron, Positron collider switched on, in 1989, the field had never worked at such a scale. Approved eight years earlier, it.",
+      "Key detail: Last November, some 200 physicists and historians gathered at CERN to take stock [.]",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "29 jul 2026",
+    "date_pt": "29 jul 2026",
+    "date_en": "29 Jul 2026",
+    "time": "14h35",
+    "time_pt": "14h35",
+    "time_en": "14:35 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-29T14:35:33+00:00",
+    "lastModifiedIso": "2026-07-29T14:35:33+00:00",
+    "source": "CERN News",
+    "sourceDomain": "home.cern",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "CERN News",
+      "Cosmos Week",
+      "A edição de julho/agosto de 2026 do CERN Courier foi lançada"
+    ],
+    "keywords_pt": [
+      "Física",
+      "CERN News",
+      "Cosmos Week",
+      "A edição de julho/agosto de 2026 do CERN Courier foi lançada"
+    ],
+    "keywords_en": [
+      "Physical",
+      "CERN News",
+      "Cosmos Week",
+      "The July/August 2026 edition of the CERN Courier has been released"
+    ],
+    "srcUrl": "https://home.cern/the-july-august-2026-issue-of-the-cern-courier-is-out/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-july-august-2026-issue-of-the-cern-courier-is-out",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-july-august-2026-issue-of-the-cern-courier-is-out",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-july-august-2026-issue-of-the-cern-courier-is-out&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 71,
+    "scoreBreakdown": {
+      "source": 86,
+      "evidence": 82,
+      "relevance": 68,
+      "accessibility": 52,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 23,
     "slug": "how-esa-mimics-and-models-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/proba-3_mimics_the_2026_total_solar_eclipse/27410604-1-eng-GB/Proba-3_mimics_the_2026_total_solar_eclipse_card_full.png",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/proba-3_mimics_the_2026_total_solar_eclipse/27410604-1-eng-GB/Proba-3_mimics_the_2026_total_solar_eclipse_article.png",
-        "caption": "Eclipse solar artificial do Proba-3",
-        "caption_pt": "Eclipse solar artificial do Proba-3",
-        "caption_en": "Proba-3's artificial solar eclipse",
-        "alt": "Eclipse solar artificial do Proba-3",
-        "alt_pt": "Eclipse solar artificial do Proba-3",
-        "alt_en": "Proba-3's artificial solar eclipse"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/side_view_of_the_sun_s_surface_magnetism/27411226-1-eng-GB/Side_view_of_the_Sun_s_surface_magnetism_article.png",
-        "caption": "Magnetograma usando dados do instrumento PHI da Solar Orbiter",
-        "caption_pt": "Magnetograma usando dados do instrumento PHI da Solar Orbiter",
-        "caption_en": "Magnetogram using data from Solar Orbiter's PHI instrument",
-        "alt": "Magnetograma usando dados do Solar Orbiter",
-        "alt_pt": "Magnetograma usando dados do Solar Orbiter",
-        "alt_en": "Magnetogram using data from Solar Orbiter"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/latest_psi_eclipse_prediction/27411330-2-eng-GB/Latest_PSI_eclipse_prediction_article.jpg",
-        "caption": "Previsão do eclipse de agosto pela Ciência Preditiva",
-        "caption_pt": "Previsão do eclipse de agosto pela Ciência Preditiva",
-        "caption_en": "Prediction of the August eclipse by Predictive Science",
-        "alt": "Previsão do eclipse de agosto pela Ciência Preditiva",
-        "alt_pt": "Previsão do eclipse de agosto pela Ciência Preditiva",
-        "alt_en": "Prediction of the August eclipse by Predictive Science"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Como a ESA imita e modela o eclipse solar total de 2026",
@@ -2587,22 +2696,22 @@ window.postsData = [
     "excerpt": "Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros.",
     "excerpt_pt": "Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros.",
     "excerpt_en": "On 12 August 2026, parts of Europe will experience a total solar eclipse. With the Sun's bright disc covered, its surrounding atmosphere, the solar corona, will become visible to the naked eye. Unfortunately, total solar eclipses are rare.",
-    "body": "<p>Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Até recentemente, a coroa completa só podia ser observada da Terra durante os curtos períodos de eclipses totais. Um eclipse solar é um exemplo de “ocultação solar” natural, quando um objeto (neste caso a Lua) bloqueia o disco solar da perspectiva de um observador.</p><p>Para preencher esta lacuna de observação, a ESA desenvolveu e lançou o seu criador de eclipses artificiais Proba-3, uma missão que consiste num par de satélites que voam a 150. Andrei Zhukov, investigador principal do instrumento ASPIICS no Observatório Real da Bélgica, comenta sobre um dos eclipses artificiais mais recentes da missão: “Este é o 62º.</p><p>O Sol leva duas semanas para girar até a metade em torno de seu eixo, então, se espelharmos a imagem horizontalmente, teremos uma previsão de como será a aparência da coroa. Nos dias que antecedem 12 de Agosto, a missão Solar Orbiter liderada pela ESA está a realizar uma campanha especial de observação com os seus vários instrumentos de detecção.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Até recentemente, a coroa completa só podia ser observada da Terra durante os curtos períodos de eclipses totais. Um eclipse solar é um exemplo de “ocultação solar” natural, quando um objeto (neste caso a Lua) bloqueia o disco solar da perspectiva de um observador.</p><p>Para preencher esta lacuna de observação, a ESA desenvolveu e lançou o seu criador de eclipses artificiais Proba-3, uma missão que consiste num par de satélites que voam a 150. Andrei Zhukov, investigador principal do instrumento ASPIICS no Observatório Real da Bélgica, comenta sobre um dos eclipses artificiais mais recentes da missão: “Este é o 62º.</p><p>O Sol leva duas semanas para girar até a metade em torno de seu eixo, então, se espelharmos a imagem horizontalmente, teremos uma previsão de como será a aparência da coroa. Nos dias que antecedem 12 de Agosto, a missão Solar Orbiter liderada pela ESA está a realizar uma campanha especial de observação com os seus vários instrumentos de detecção.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>On 12 August 2026, parts of Europe will experience a total solar eclipse. With the Sun&#x27;s bright disc covered, its surrounding atmosphere, the solar corona, will become visible to the naked eye. Unfortunately, total solar eclipses are rare. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Until recently, the full corona could only be observed from Earth during the short periods of total eclipses. A solar eclipse is an example of a natural &#x27;solar occultation’, when an object (in this case the Moon) blocks the Sun&#x27;s disc from an observer&#x27;s perspective.</p><p>To fill this observation gap, ESA developed and launched its artificial eclipse-maker Proba-3, a mission that consists of a pair of satellites flying 150 metres apart and. Andrei Zhukov, principal investigator for the ASPIICS instrument at the Royal Observatory of Belgium, comments on one of the mission&#x27;s most recent artificial eclipses: “This is.</p><p>It takes the Sun two weeks to rotate halfway around its axis, so if we mirror the image horizontally, we get a prediction of what the corona will look like during the natural. In the days leading up to 12 August, the ESA-led Solar Orbiter mission is running a special observation campaign with its various remote-sensing instruments.</p><p>“A total solar eclipse lets us verify that our models are correct by comparing forecasts with actual observations,” says Jorge Amaya, ESA Space Weather Modelling Coordinator. Most solar observations are made from near Earth, providing only a limited view of a vast three-dimensional system.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>That is the key to dramatically improving forecasts of how solar activity will affect our technology.” Solar Orbiter&#x27;s location today gives us a sneak preview of what ESA’s space. Planned for launch in 2031, Vigil will tail Earth to provide continuous, near real-time observations of the Sun’s side.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para criar. No dia 12 de Agosto de 2026, algumas partes da Europa sofrerão um eclipse solar total.</p><p>Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros e duram no máximo alguns minutos, dando aos cientistas pouco tempo para estudar o enigmático halo do Sol.</p><p>É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para criar simulações digitais. Então, como fazemos isso e por que isso é importante.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para criar. No dia 12 de Agosto de 2026, algumas partes da Europa sofrerão um eclipse solar total.</p><p>Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros e duram no máximo alguns minutos, dando aos cientistas pouco tempo para estudar o enigmático halo do Sol.</p><p>É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para criar simulações digitais. Então, como fazemos isso e por que isso é importante.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>On 12 August 2026, parts of Europe will experience a total solar eclipse. With the Sun&#x27;s bright disc covered, its surrounding atmosphere, the solar corona, will become visible to the naked eye. Unfortunately, total solar eclipses are rare. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. This is why ESA developed missions that create eclipses artificially, and why experts use computer models to create. On 12 August 2026, parts of Europe will experience a total solar eclipse.</p><p>With the Sun&#x27;s bright disc covered, its surrounding atmosphere, the solar corona, will become visible to the naked eye. Unfortunately, total solar eclipses are rare and last at most a few minutes, giving scientists little time to study the Sun’s enigmatic halo.</p><p>This is why ESA developed missions that create eclipses artificially, and why experts use computer models to create digital simulations. So how do we do it, and why is it important.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa.",
-      "Dado-chave: Até recentemente, a coroa completa só podia ser observada da Terra durante os curtos períodos de eclipses totais.",
+      "Dado-chave: É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa.",
-      "Dado-chave: Até recentemente, a coroa completa só podia ser observada da Terra durante os curtos períodos de eclipses totais.",
+      "Dado-chave: É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: On 12 August 2026, parts of Europe will experience a total solar eclipse. With the Sun's bright disc covered, its surrounding atmosphere, the solar.",
-      "Key detail: Until recently, the full corona could only be observed from Earth during the short periods of total eclipses.",
+      "Key detail: This is why ESA developed missions that create eclipses artificially, and why experts use computer models to create.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "10 ago 2026",
@@ -2675,82 +2784,77 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
-    "slug": "twisted-magnetic-field-around-newborn-star-confirms-decades-old-jet-theory",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/twisted-physics-astron.jpg",
+    "id": 24,
+    "slug": "nasa-shares-station-research-today-supporting-moon-mars-tomorrow",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/04/iss074e0458251.jpg?w=2048",
     "inline_images": [
       {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/twisted-physics-astron.jpg",
-        "caption": "Esta ilustração artística mostra o campo magnético retorcido em forma de funil (representado por linhas espirais brancas) que o ALMA detectou enrolado em torno do fluxo de gás proveniente de uma jovem estrela embutida na NGC 1333 IRAS 4A. Novos dados.",
-        "caption_pt": "Esta ilustração artística mostra o campo magnético retorcido em forma de funil (representado por linhas espirais brancas) que o ALMA detectou enrolado em torno do fluxo de gás proveniente de uma jovem estrela embutida na NGC 1333 IRAS 4A. Novos dados.",
-        "caption_en": "This artist's illustration shows the twisted, funnel-shaped magnetic field (represented by white spiral lines) that ALMA detected wrapped around the gas outflow streaming from a young star embedded in the NGC 1333 IRAS 4A. New data.",
-        "alt": "Física distorcida: astrônomos resolvem mistério estelar de 30 anos",
-        "alt_pt": "Física distorcida: astrônomos resolvem mistério estelar de 30 anos",
-        "alt_en": "Twisted Physics: Astronomers Solve 30-Year-Old Stellar Mystery"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f6b420961b46f94b.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
+        "src": "https://images-assets.nasa.gov/image/iss074e0333988/iss074e0333988~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "A astronauta da NASA Jessica Meir veste uma camisa listrada de azul e branco e sorri para a câmera enquanto trabalha dentro da Estação Espacial Internacional. Seu cabelo flutua em microgravidade entre equipamentos e compartimentos de armazenamento. Meir usa luvas e.",
+        "caption_pt": "A astronauta da NASA Jessica Meir veste uma camisa listrada de azul e branco e sorri para a câmera enquanto trabalha dentro da Estação Espacial Internacional. Seu cabelo flutua em microgravidade entre equipamentos e compartimentos de armazenamento. Meir usa luvas e.",
+        "caption_en": "NASA astronaut Jessica Meir wears a striped blue and white shirt and smiles at the camera while working inside the International Space Station. Her hair floats in microgravity among equipment and storage compartments. Meir wears gloves and.",
+        "alt": "A astronauta da NASA Jessica Meir veste uma camisa listrada de azul e branco e sorri para a câmera enquanto trabalha dentro da Estação Espacial Internacional. Seu cabelo flutua em microgravidade entre equipamentos e compartimentos de armazenamento. Meir usa luvas e.",
+        "alt_pt": "A astronauta da NASA Jessica Meir veste uma camisa listrada de azul e branco e sorri para a câmera enquanto trabalha dentro da Estação Espacial Internacional. Seu cabelo flutua em microgravidade entre equipamentos e compartimentos de armazenamento. Meir usa luvas e.",
+        "alt_en": "NASA astronaut Jessica Meir wears a striped blue and white shirt and smiles at the camera while working inside the International Space Station. Her hair floats in microgravity among equipment and storage compartments. Meir wears gloves and."
       }
     ],
-    "video": null,
+    "video": {
+      "kind": "file",
+      "platform": "html5",
+      "embedUrl": "",
+      "fileUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/e4d-timelapse-sophieadenot.mp4",
+      "poster": "https://www.nasa.gov/wp-content/uploads/2026/04/iss074e0458251.jpg",
+      "title": "NASA compartilha pesquisa de estação hoje apoiando Lua e Marte amanhã - NASA",
+      "title_pt": "NASA compartilha pesquisa de estação hoje apoiando Lua e Marte amanhã - NASA",
+      "title_en": "NASA Shares Station Research Today Supporting Moon, Mars Tomorrow - NASA",
+      "caption": "A missão Artemis II da NASA em abril foi o primeiro voo tripulado ao redor da Lua em mais de 50 anos, marcando um marco importante para o retorno da humanidade à Lua.",
+      "caption_pt": "A missão Artemis II da NASA em abril foi o primeiro voo tripulado ao redor da Lua em mais de 50 anos, marcando um marco importante para o retorno da humanidade à Lua.",
+      "caption_en": "NASA’s Artemis II mission in April was the first crewed flight around the Moon in more than 50 years, marking a major milestone for humanity’s return to the",
+      "sourcePage": "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/"
+    },
     "audio": null,
-    "title": "Campo magnético distorcido em torno de estrela recém-nascida confirma teoria de jatos de décadas",
-    "title_pt": "Campo magnético distorcido em torno de estrela recém-nascida confirma teoria de jatos de décadas",
-    "title_en": "Twisted magnetic field around newborn star confirms decades-old jet theory",
-    "sub": "Astrônomos usando o Atacama Large Millimeter/submillimeter Array, do qual o Observatório Nacional de Radioastronomia da Fundação Nacional de Ciência dos EUA é parceiro, capturaram.",
-    "sub_pt": "Astrônomos usando o Atacama Large Millimeter/submillimeter Array, do qual o Observatório Nacional de Radioastronomia da Fundação Nacional de Ciência dos EUA é parceiro, capturaram.",
-    "sub_en": "Astronomers using the Atacama Large Millimeter/submillimeter Array, of which the U. S. National Science Foundation National Radio Astronomy Observatory is a partner, have captured.",
-    "excerpt": "Astrônomos usando o Atacama Large Millimeter/submillimeter Array, do qual o Observatório Nacional de Radioastronomia da Fundação Nacional de Ciência dos EUA é parceiro, capturaram as primeiras imagens diretas e de alta resolução de um campo magnético.",
-    "excerpt_pt": "Astrônomos usando o Atacama Large Millimeter/submillimeter Array, do qual o Observatório Nacional de Radioastronomia da Fundação Nacional de Ciência dos EUA é parceiro, capturaram as primeiras imagens diretas e de alta resolução de um campo magnético.",
-    "excerpt_en": "Astronomers using the Atacama Large Millimeter/submillimeter Array, of which the U. S. National Science Foundation National Radio Astronomy Observatory is a partner, have captured the first direct, high-resolution images of a magnetic.",
-    "body": "<p>Astrônomos usando o Atacama Large Millimeter/submillimeter Array, do qual o Observatório Nacional de Radioastronomia da Fundação Nacional de Ciência dos EUA é parceiro, capturaram as primeiras imagens diretas e de alta resolução de um campo magnético. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida A ilustração desta artista mostra o campo.</p><p>Novos dados revelaram esta estrutura em forma de anel com detalhes sem precedentes, confirmando uma previsão de décadas de como os campos magnéticos lançam e moldam jatos. O Observatório Nacional de Radioastronomia da National Science Foundation (NSF NRAO) é um parceiro, capturou as primeiras imagens diretas e de alta resolução de um campo magnético.</p><p>As descobertas, de uma equipa de investigação liderada por Tao-Chung Ching, antigo Jansky Fellow no NSF NRAO, centram-se no NGC 1333 IRAS 4A, um jovem sistema de estrelas duplas. O artigo foi publicado na revista Nature Communications.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-magnetic-field-newborn-star-decades.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Astrônomos usando o Atacama Large Millimeter/submillimeter Array, do qual o Observatório Nacional de Radioastronomia da Fundação Nacional de Ciência dos EUA é parceiro, capturaram as primeiras imagens diretas e de alta resolução de um campo magnético. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida A ilustração desta artista mostra o campo.</p><p>Novos dados revelaram esta estrutura em forma de anel com detalhes sem precedentes, confirmando uma previsão de décadas de como os campos magnéticos lançam e moldam jatos. O Observatório Nacional de Radioastronomia da National Science Foundation (NSF NRAO) é um parceiro, capturou as primeiras imagens diretas e de alta resolução de um campo magnético.</p><p>As descobertas, de uma equipa de investigação liderada por Tao-Chung Ching, antigo Jansky Fellow no NSF NRAO, centram-se no NGC 1333 IRAS 4A, um jovem sistema de estrelas duplas. O artigo foi publicado na revista Nature Communications.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-magnetic-field-newborn-star-decades.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Astronomers using the Atacama Large Millimeter/submillimeter Array, of which the U. S. National Science Foundation National Radio Astronomy Observatory is a partner, have captured the first direct, high-resolution images of a magnetic. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source This artist&#x27;s illustration shows the twisted, funnel-shaped.</p><p>New data revealed this ring-shaped structure in unprecedented detail, confirming a decades-old prediction of how magnetic fields launch and shape powerful jets from young stars. National Science Foundation National Radio Astronomy Observatory (NSF NRAO) is a partner, have captured the first direct, high-resolution images of a magnetic field wrapped.</p><p>The findings, from a research team led by Tao-Chung Ching, a former Jansky Fellow at the NSF NRAO, focus on NGC 1333 IRAS 4A, a young double-star system embedded in the Perseus. The paper is published in the journal Nature Communications.</p><p>This is exciting because it proves a decades-old theory about how stars, like our own sun, are born and fire off powerful cosmic jets.&quot; The team used ALMA&#x27;s exceptional resolving. That polarization signal let the researchers trace the morphology and strength of the magnetic field threading through the outflow at distances of only a few hundred astronomical.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>This study represents the first and highest-resolution observation of milligauss-strength toroidal magnetic fields at a scale of several hundred astronomical units from a. We knew that IRAS 4A was a textbook case: 20 years ago, in work published in Science in 2006, we found that this region followed the theoretically expected magnetically driven.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-magnetic-field-newborn-star-decades.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "NASA compartilha pesquisa de estação hoje apoiando Lua e Marte amanhã",
+    "title_pt": "NASA compartilha pesquisa de estação hoje apoiando Lua e Marte amanhã",
+    "title_en": "NASA Shares Station Research Today Supporting Moon, Mars Tomorrow",
+    "sub": "A Estação Espacial Internacional esteve ocupada ao longo de 2026, pois continua a ser um espaço de trabalho movimentado para astronautas que conduzem uma variedade de experiências.",
+    "sub_pt": "A Estação Espacial Internacional esteve ocupada ao longo de 2026, pois continua a ser um espaço de trabalho movimentado para astronautas que conduzem uma variedade de experiências.",
+    "sub_en": "The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay.",
+    "excerpt": "A Estação Espacial Internacional esteve ocupada ao longo de 2026, pois continua a ser um espaço de trabalho movimentado para astronautas que conduzem uma variedade de experiências científicas que estabelecem as bases para missões à Lua e mais além. Da NASA.",
+    "excerpt_pt": "A Estação Espacial Internacional esteve ocupada ao longo de 2026, pois continua a ser um espaço de trabalho movimentado para astronautas que conduzem uma variedade de experiências científicas que estabelecem as bases para missões à Lua e mais além. Da NASA.",
+    "excerpt_en": "The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay the groundwork for missions to the Moon and beyond. NASA’s.",
+    "body": "<p>A Estação Espacial Internacional esteve ocupada ao longo de 2026, pois continua a ser um espaço de trabalho movimentado para astronautas que conduzem uma variedade de experiências científicas que estabelecem as bases para missões à Lua e mais além. Da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Artemis II da NASA em abril foi o primeiro voo tripulado ao redor da Lua em mais de 50 anos. Expedição à Estação Espacial Internacional 74 astronautas (a partir da esquerda) Chris Williams, Jack Hathaway, Sophie Adenot e Jessica Meir dentro da cúpula da estação espacial.</p><p>Otimizando a tecnologia espacial Para assistir a este vídeo, habilite o JavaScript e considere atualizar para um navegador da Web que suporte vídeo HTML5 A astronauta da ESA. Estudando o corpo no espaço Os astronautas da NASA Jessica Meir e Chris Williams coletam amostras congeladas de pesquisa dentro do módulo de laboratório Destiny da Estação.</p><p>Para saber mais sobre a pesquisa em andamento a bordo da estação espacial, visite: NASA. gov/ISS-Research Compartilhe detalhes Última atualização em 11 de agosto de 2026 Termos.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Estação Espacial Internacional esteve ocupada ao longo de 2026, pois continua a ser um espaço de trabalho movimentado para astronautas que conduzem uma variedade de experiências científicas que estabelecem as bases para missões à Lua e mais além. Da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão Artemis II da NASA em abril foi o primeiro voo tripulado ao redor da Lua em mais de 50 anos. Expedição à Estação Espacial Internacional 74 astronautas (a partir da esquerda) Chris Williams, Jack Hathaway, Sophie Adenot e Jessica Meir dentro da cúpula da estação espacial.</p><p>Otimizando a tecnologia espacial Para assistir a este vídeo, habilite o JavaScript e considere atualizar para um navegador da Web que suporte vídeo HTML5 A astronauta da ESA. Estudando o corpo no espaço Os astronautas da NASA Jessica Meir e Chris Williams coletam amostras congeladas de pesquisa dentro do módulo de laboratório Destiny da Estação.</p><p>Para saber mais sobre a pesquisa em andamento a bordo da estação espacial, visite: NASA. gov/ISS-Research Compartilhe detalhes Última atualização em 11 de agosto de 2026 Termos.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay the groundwork for missions to the Moon and beyond. NASA’s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. NASA’s Artemis II mission in April was the first crewed flight around the Moon in more than 50 years. International Space Station Expedition 74 astronauts (from left) Chris Williams, Jack Hathaway, Sophie Adenot, and Jessica Meir inside the space station’s cupola waiting to.</p><p>Optimizing space technology To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video ESA (European Space Agency) astronaut. Studying the body in space NASA astronauts Jessica Meir and Chris Williams collect frozen research samples from inside the International Space Station’s Destiny laboratory module.</p><p>To learn more about ongoing research aboard the space station, visit: NASA. gov/ISS-Research Share Details Last Updated Aug 11, 2026 Related Terms ISS Research International Space. Sophie Adenot, and Jessica Meir inside the space station’s cupola waiting to observe the Orion spacecraft, with the Artemis II crew inside, as it reenters Earth’s atmosphere.</p><p>NASA The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that. NASA’s Artemis II mission in April was the first crewed flight around the Moon in more than 50 years, marking a major milestone for humanity’s return to the lunar surface.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Research aboard the space station, coupled with Artemis and Moon Base programs, will continue to demonstrate how NASA is preparing for sustained astronaut exploration of the Moon. To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video Astronauts aboard the International Space Station demonstrate and.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Astrônomos usando o Atacama Large Millimeter/submillimeter Array, do qual o Observatório Nacional de Radioastronomia da Fundação Nacional de Ciência.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Ponto central: A Estação Espacial Internacional esteve ocupada ao longo de 2026, pois continua a ser um espaço de trabalho movimentado para astronautas que conduzem.",
+      "Dado-chave: A Estação Espacial Internacional esteve ocupada ao longo de 2026, pois continua a ser um espaço de trabalho movimentado para astronautas que.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Astrônomos usando o Atacama Large Millimeter/submillimeter Array, do qual o Observatório Nacional de Radioastronomia da Fundação Nacional de Ciência.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Ponto central: A Estação Espacial Internacional esteve ocupada ao longo de 2026, pois continua a ser um espaço de trabalho movimentado para astronautas que conduzem.",
+      "Dado-chave: A Estação Espacial Internacional esteve ocupada ao longo de 2026, pois continua a ser um espaço de trabalho movimentado para astronautas que.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: Astronomers using the Atacama Large Millimeter/submillimeter Array, of which the U. S. National Science Foundation National Radio Astronomy.",
-      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
+      "Core point: The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of.",
+      "Key detail: The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "11 ago 2026",
     "date_pt": "11 ago 2026",
     "date_en": "11 Aug 2026",
-    "time": "17h20",
-    "time_pt": "17h20",
-    "time_en": "17:20 UTC",
+    "time": "14h00",
+    "time_pt": "14h00",
+    "time_en": "14:00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-11T17:20:07+00:00",
-    "lastModifiedIso": "2026-08-11T17:20:07+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
+    "publishedIso": "2026-08-11T14:00:00+00:00",
+    "lastModifiedIso": "2026-08-11T14:00:00+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www.nasa.gov",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -2762,35 +2866,32 @@ window.postsData = [
     "evidenceLabel": "Atualização institucional",
     "evidenceLabel_pt": "Atualização institucional",
     "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
     "keywords": [
-      "Ciências da Terra",
-      "Phys.org Space",
+      "Astronomia",
+      "NASA News Releases",
       "Cosmos Week",
-      "Campo magnético distorcido em torno de estrela recém",
-      "nascida confirma teoria de jatos de décadas"
+      "NASA compartilha pesquisa de estação hoje apoiando Lua e Marte amanhã"
     ],
     "keywords_pt": [
-      "Ciências da Terra",
-      "Phys.org Space",
+      "Astronomia",
+      "NASA News Releases",
       "Cosmos Week",
-      "Campo magnético distorcido em torno de estrela recém",
-      "nascida confirma teoria de jatos de décadas"
+      "NASA compartilha pesquisa de estação hoje apoiando Lua e Marte amanhã"
     ],
     "keywords_en": [
-      "Earth Sciences",
-      "Phys.org Space",
+      "Astronomy",
+      "NASA News Releases",
       "Cosmos Week",
-      "Distorted magnetic field around newly discovered star",
-      "born confirms decades-old jet theory"
+      "NASA Shares Station Research Today Supporting Moon and Mars Tomorrow"
     ],
-    "srcUrl": "https://phys.org/news/2026-08-magnetic-field-newborn-star-decades.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=twisted-magnetic-field-around-newborn-star-confirms-decades-old-jet-theory",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=twisted-magnetic-field-around-newborn-star-confirms-decades-old-jet-theory",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=twisted-magnetic-field-around-newborn-star-confirms-decades-old-jet-theory&lang=en",
+    "srcUrl": "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-shares-station-research-today-supporting-moon-mars-tomorrow",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-shares-station-research-today-supporting-moon-mars-tomorrow",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-shares-station-research-today-supporting-moon-mars-tomorrow&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -2801,17 +2902,17 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 75,
+    "score": 80,
     "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
-      "relevance": 80,
+      "source": 94,
+      "evidence": 82,
+      "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 24,
+    "id": 25,
     "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2947,7 +3048,7 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3083,7 +3184,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3210,7 +3311,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "stops-along-the-path-of-totality",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3343,7 +3444,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "the-odds-of-finding-water-on-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3467,7 +3568,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "science-campaigns-planned-for-the-august-12th-total-solar-eclipse",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3600,7 +3701,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "a-new-way-to-map-the-universe-s-missing-matter",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3733,7 +3834,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "every-snowflake-needs-a-speck-of-dust-and-so-do-planets",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3831,7 +3932,7 @@ window.postsData = [
       "Astronomy",
       "Universe Today",
       "Cosmos Week",
-      "Every snowflake needs a speck of dust and so do planets"
+      "Every snowflake needs a speck of dust and so do the planets"
     ],
     "srcUrl": "https://www.universetoday.com/articles/every-snowflake-needs-a-speck-of-dust-and-so-do-planets",
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=every-snowflake-needs-a-speck-of-dust-and-so-do-planets",
@@ -3857,7 +3958,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "the-dark-matter-detector-in-the-scottish-borders",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -3981,7 +4082,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "what-if-there-s-a-star-inside-a-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4105,7 +4206,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "rare-total-solar-eclipse-perseid-meteor-shower-double-header-august-12th",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4241,7 +4342,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "this-week-s-sky-at-a-glance-august-7-16",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4377,7 +4478,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "all-i-need-for-a-night-of-stargazing-is",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4492,12 +4593,22 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "iris-reinforced-and-accelerated-as-implementation-advances",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/iris2_for_eu_secure_connectivity/27408197-4-eng-GB/IRIS2_for_EU_secure_connectivity_card_full.png",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/iris2_full_speed_ahead/27408150-4-eng-GB/IRIS2_full_speed_ahead_article.png",
+        "caption": "IRIS² a toda velocidade",
+        "caption_pt": "IRIS² a toda velocidade",
+        "caption_en": "IRIS² full speed ahead",
+        "alt": "IRIS² a toda velocidade",
+        "alt_pt": "IRIS² a toda velocidade",
+        "alt_en": "IRIS² full speed ahead"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "IRIS² reforçado e acelerado à medida que a implementação avança",
@@ -4509,9 +4620,9 @@ window.postsData = [
     "excerpt": "Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a nova constelação de satélites emblemática da União Europeia. O acordo, entre outros.",
     "excerpt_pt": "Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a nova constelação de satélites emblemática da União Europeia. O acordo, entre outros.",
     "excerpt_en": "On 7 August, the European Commission and the SpaceRISE consortium concluded negotiations and signed an implementation agreement to roll out IRIS², the European Union’s new flagship satellite constellation. The agreement, among other.",
-    "body": "<p>Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a nova constelação de satélites emblemática da União Europeia. O acordo, entre outros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O acordo, entre outras coisas, acrescenta 66 satélites em órbita baixa da Terra ao programa, elevando a constelação principal para 348 satélites e passando-a do planeamento para a.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a nova constelação de satélites emblemática da União Europeia. O acordo, entre outros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O acordo, entre outras coisas, acrescenta 66 satélites em órbita baixa da Terra ao programa, elevando a constelação principal para 348 satélites e passando-a do planeamento para a.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>On 7 August, the European Commission and the SpaceRISE consortium concluded negotiations and signed an implementation agreement to roll out IRIS², the European Union’s new flagship satellite constellation. The agreement, among other. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The agreement, among other things, adds 66 satellites into low Earth orbit to the programme, bringing the main constellation to 348 satellites, and moving it from planning to.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a nova constelação de satélites emblemática da União Europeia. O acordo, entre outros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O acordo, entre outras coisas, acrescenta 66 satélites em órbita baixa da Terra ao programa, elevando a constelação principal para 348 satélites e passando-a do planeamento para a. A ESA desempenha um papel fundamental na implementação técnica do IRIS², supervisionando o desenvolvimento, qualificação e validação em órbita da constelação, e traduzindo as.</p><p>Em cooperação com a Comissão Europeia e a SpaceRISE, a ESA garantirá a entrega bem-sucedida de um sistema de conectividade seguro e resiliente para fortalecer ainda mais a. Os próximos passos concretos já estão em vigor para alcançar os primeiros lançamentos até 2029.</p><p>A Comissão, a ESA e a Agência da UE para o Programa Espacial, juntamente com o consórcio SpaceRISE e parceiros industriais europeus, definiram os próximos passos necessários para.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a nova constelação de satélites emblemática da União Europeia. O acordo, entre outros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O acordo, entre outras coisas, acrescenta 66 satélites em órbita baixa da Terra ao programa, elevando a constelação principal para 348 satélites e passando-a do planeamento para a. A ESA desempenha um papel fundamental na implementação técnica do IRIS², supervisionando o desenvolvimento, qualificação e validação em órbita da constelação, e traduzindo as.</p><p>Em cooperação com a Comissão Europeia e a SpaceRISE, a ESA garantirá a entrega bem-sucedida de um sistema de conectividade seguro e resiliente para fortalecer ainda mais a. Os próximos passos concretos já estão em vigor para alcançar os primeiros lançamentos até 2029.</p><p>A Comissão, a ESA e a Agência da UE para o Programa Espacial, juntamente com o consórcio SpaceRISE e parceiros industriais europeus, definiram os próximos passos necessários para.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>On 7 August, the European Commission and the SpaceRISE consortium concluded negotiations and signed an implementation agreement to roll out IRIS², the European Union’s new flagship satellite constellation. The agreement, among other. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The agreement, among other things, adds 66 satellites into low Earth orbit to the programme, bringing the main constellation to 348 satellites, and moving it from planning to. ESA plays a key role in the IRIS² technical implementation, overseeing the constellation’s development, qualification and in-orbit validation, and translating the programme’s.</p><p>In cooperation with the European Commission and SpaceRISE, ESA will ensure the successful delivery of a secure and resilient connectivity system to further strengthen Europe&#x27;s. Concrete next steps are now in place to achieve first launches by 2029.</p><p>The Commission, ESA and the EU Agency for the Space Programme, together with the SpaceRISE consortium and European industrial partners, have defined the next steps needed to. These include finalising the detailed design of the satellite constellation, preparing the construction of satellites and secure ground infrastructure, securing launch services.</p><p>The future constellation will comprise 348 satellites, consisting of 330 satellites in low Earth orbit and 18 satellites in medium Earth orbit, with additional optional elements. A dedicated layer of an additional 66 high-low Earth orbit satellites will strengthen capabilities for defence, security and emergency services further enhancing its architecture.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>IRIS² will be built through a strong Team Europe approach, combining the expertise of the European Commission, EU Member States, ESA, the European Union Agency for the Space. Funding will come from a combination of EU budget resources for 2028, 2034 and additional investments from EU Member States and other countries.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a.",
       "Dado-chave: Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o.",
@@ -4597,7 +4708,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 39,
     "slug": "aquila-the-eagle-soars-along-the-milky-way",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4624,8 +4735,8 @@ window.postsData = [
     "excerpt": "Aquila, a Águia, é o lar da estrela brilhante Altair, que forma um canto do Triângulo do Verão. Procure-o no céu noturno de julho a novembro. O post Águia Águia voa ao longo da Via Láctea apareceu pela primeira vez no EarthSky.",
     "excerpt_pt": "Aquila, a Águia, é o lar da estrela brilhante Altair, que forma um canto do Triângulo do Verão. Procure-o no céu noturno de julho a novembro. O post Águia Águia voa ao longo da Via Láctea apareceu pela primeira vez no EarthSky.",
     "excerpt_en": "Aquila the Eagle is home to the bright star Altair, which forms one corner in the Summer Triangle. Look for it in the evening sky from July to November. The post Aquila the Eagle soars along the Milky Way first appeared on EarthSky.",
-    "body": "<p>Aquila, a Águia, é o lar da estrela brilhante Altair, que forma um canto do Triângulo do Verão. Procure-o no céu noturno de julho a novembro. O post Águia Águia voa ao longo da Via Láctea apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Com magnitude 0,76, é uma das três estrelas brilhantes que marcam os cantos do Triângulo do Verão. Altair fica a apenas 17 anos-luz de distância da Terra.</p><p>Então, a estrela que marca as costas de Aquila é Delta Aquilae, com magnitude 3,36 e 50 anos-luz de distância. Ele brilha com magnitude 3,26 a uma distância de 286 anos-luz.</p><p>A asa direita, que aponta para Vega, segura Zeta Aquilae com magnitude 2,99 e 83 anos-luz de distância. Por último, a estrela no final da cauda da Águia é Lambda Aquilae com magnitude 3,43, situada a 125 anos-luz de distância.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/constellations/aquila-the-eagle-altair-summer-triangle/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Aquila, a Águia, é o lar da estrela brilhante Altair, que forma um canto do Triângulo do Verão. Procure-o no céu noturno de julho a novembro. O post Águia Águia voa ao longo da Via Láctea apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Com magnitude 0,76, é uma das três estrelas brilhantes que marcam os cantos do Triângulo do Verão. Altair fica a apenas 17 anos-luz de distância da Terra.</p><p>Então, a estrela que marca as costas de Aquila é Delta Aquilae, com magnitude 3,36 e 50 anos-luz de distância. Ele brilha com magnitude 3,26 a uma distância de 286 anos-luz.</p><p>A asa direita, que aponta para Vega, segura Zeta Aquilae com magnitude 2,99 e 83 anos-luz de distância. Por último, a estrela no final da cauda da Águia é Lambda Aquilae com magnitude 3,43, situada a 125 anos-luz de distância.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/constellations/aquila-the-eagle-altair-summer-triangle/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body": "<p>Aquila, a Águia, é o lar da estrela brilhante Altair, que forma um canto do Triângulo do Verão. Procure-o no céu noturno de julho a novembro. O post Águia Águia voa ao longo da Via Láctea apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Com magnitude 0,76, é uma das três estrelas brilhantes que marcam os cantos do Triângulo do Verão. Altair fica a apenas 17 anos-luz de distância da Terra.</p><p>Então, a estrela que marca as costas de Aquila é Delta Aquilae, com magnitude 3,36 e 50 anos-luz de distância. Ele brilha com magnitude 3,26 a uma distância de 286 anos-luz.</p><p>A asa direita, que aponta para Vega, contém Zeta Aquilae com magnitude 2,99 e 83 anos-luz de distância. Por último, a estrela no final da cauda da Águia é Lambda Aquilae com magnitude 3,43, situada a 125 anos-luz de distância.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/constellations/aquila-the-eagle-altair-summer-triangle/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Aquila, a Águia, é o lar da estrela brilhante Altair, que forma um canto do Triângulo do Verão. Procure-o no céu noturno de julho a novembro. O post Águia Águia voa ao longo da Via Láctea apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Com magnitude 0,76, é uma das três estrelas brilhantes que marcam os cantos do Triângulo do Verão. Altair fica a apenas 17 anos-luz de distância da Terra.</p><p>Então, a estrela que marca as costas de Aquila é Delta Aquilae, com magnitude 3,36 e 50 anos-luz de distância. Ele brilha com magnitude 3,26 a uma distância de 286 anos-luz.</p><p>A asa direita, que aponta para Vega, contém Zeta Aquilae com magnitude 2,99 e 83 anos-luz de distância. Por último, a estrela no final da cauda da Águia é Lambda Aquilae com magnitude 3,43, situada a 125 anos-luz de distância.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/constellations/aquila-the-eagle-altair-summer-triangle/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>Aquila the Eagle is home to the bright star Altair, which forms one corner in the Summer Triangle. Look for it in the evening sky from July to November. The post Aquila the Eagle soars along the Milky Way first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. At magnitude 0.76, it is one of the three bright stars that mark the corners of the Summer Triangle. Altair lies just 17 light-years away from Earth.</p><p>Then, the star marking Aquila’s back is Delta Aquilae, at magnitude 3.36 and 50 light-years away. It shines at magnitude 3.26 from a distance of 286 light-years.</p><p>The right wing, which points to Vega, holds Zeta Aquilae at magnitude 2.99 and 83 light-years distant. Lastly, the star at the end of the tail of the Eagle is Lambda Aquilae at magnitude 3.43, lying 125 light-years away.</p><p>With this in mind, the best one to observe is NGC 6755, a 7.5-magnitude grouping found near the star marking the back of the Eagle. Another good open cluster to try for is NGC 6709, which, at magnitude 6.7, appears in binoculars.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The Wild Duck Cluster, M11, shines at magnitude 6.3, making it brighter than any of the clusters in Aquila. Nebulae of Aquila A number of nebulae lie along the line that marks the body of the Eagle, but only one is bright enough to reach even 10th magnitude.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/constellations/aquila-the-eagle-altair-summer-triangle/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Aquila, a Águia, é o lar da estrela brilhante Altair, que forma um canto do Triângulo do Verão. Procure-o no céu noturno de julho a novembro. O post.",
@@ -4718,7 +4829,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 40,
     "slug": "highest-resolution-images-of-the-sun-s-surface-here",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4830,139 +4941,6 @@ window.postsData = [
       "relevance": 80,
       "accessibility": 60,
       "novelty": 49
-    }
-  },
-  {
-    "id": 40,
-    "slug": "new-nsf-initiative-aims-to-unlock-dataset-value-for-ai-enabled-scientific-discovery",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/AI-Enabled_Discovery_hero.png?itok=6swttzX-",
-    "inline_images": [
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_hero_mobile_600x352_/s3/media_hub/AI-Enabled_Discovery_hero.png.webp?itok=CtEdgGI5",
-        "caption": "IA; Inteligência artificial; Descoberta; Científico; Impacto da NSF",
-        "caption_pt": "IA; Inteligência artificial; Descoberta; Científico; Impacto da NSF",
-        "caption_en": "AI; Artificial Intelligence; Discovery; Scientific; NSF impact",
-        "alt": "IA; Inteligência artificial; Descoberta; Científico; Impacto da NSF",
-        "alt_pt": "IA; Inteligência artificial; Descoberta; Científico; Impacto da NSF",
-        "alt_en": "AI; Artificial Intelligence; Discovery; Scientific; NSF impact"
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/NSF%20State%20and%20Regional%20AI%20Infrastructure%20Hubs.jpg?itok=0uTvzH-d",
-        "caption": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
-        "caption_pt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
-        "caption_en": "NSF State and Regional AI Infrastructure Hubs - Sans Text",
-        "alt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
-        "alt_pt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
-        "alt_en": "NSF State and Regional AI Infrastructure Hubs - Sans Text"
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/2534344_TAMU_AutoLab_3DRender_91_graded_cropped_16x9.jpg?itok=vKr09VyX",
-        "caption": "Uma renderização computacional 3D de um laboratório com robôs e equipamentos laranja em fileiras.",
-        "caption_pt": "Uma renderização computacional 3D de um laboratório com robôs e equipamentos laranja em fileiras.",
-        "caption_en": "A 3D computer rendering of a laboratory with orange robots and equipment in rows.",
-        "alt": "Uma renderização computacional 3D de um laboratório com robôs e equipamentos laranja em fileiras.",
-        "alt_pt": "Uma renderização computacional 3D de um laboratório com robôs e equipamentos laranja em fileiras.",
-        "alt_en": "A 3D computer rendering of a laboratory with orange robots and equipment in rows."
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Nova iniciativa da NSF visa desbloquear o valor do conjunto de dados para descobertas científicas baseadas em IA",
-    "title_pt": "Nova iniciativa da NSF visa desbloquear o valor do conjunto de dados para descobertas científicas baseadas em IA",
-    "title_en": "New NSF initiative aims to unlock dataset value for AI-enabled scientific discovery",
-    "sub": "A Fundação Nacional de Ciência dos EUA anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para promover conjuntos de dados.",
-    "sub_pt": "A Fundação Nacional de Ciência dos EUA anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para promover conjuntos de dados.",
-    "sub_en": "The U. S. National Science Foundation announced the NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery program, a new investment to advance scientific community.",
-    "excerpt": "A Fundação Nacional de Ciência dos EUA anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para promover conjuntos de dados da comunidade científica e permitir a descoberta e a inovação usando recursos.",
-    "excerpt_pt": "A Fundação Nacional de Ciência dos EUA anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para promover conjuntos de dados da comunidade científica e permitir a descoberta e a inovação usando recursos.",
-    "excerpt_en": "The U. S. National Science Foundation announced the NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery program, a new investment to advance scientific community datasets and enable discovery and innovation using artificial.",
-    "body": "<p>A Fundação Nacional de Ciência dos EUA anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para promover conjuntos de dados da comunidade científica e permitir a descoberta e a inovação usando recursos artificiais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A National Science Foundation anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para avançar conjuntos de dados da. Na ciência e na engenharia, os pesquisadores construíram conjuntos de dados valiosos por meio de pesquisas anteriores.</p><p>No entanto, muitos conjuntos de dados têm potencial para serem utilizados para novas consultas fora do âmbito inicial da recolha de dados, mas não são acessíveis, interoperáveis. O novo programa ajudará as comunidades de investigação a desbloquear mais valor dos conjuntos de dados para fazer novas perguntas, testar novas ideias e ampliar o valor de.</p><p>A IA permite o processamento e análise de dados em escalas e velocidades que ultrapassam a capacidade humana, ajudando os investigadores a identificar padrões e relações. Quando combinada com conjuntos de dados científicos confiáveis, acessíveis, adequados à sua finalidade científica e com curadoria, a IA pode promover a pesquisa científica e.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NSF News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/new-nsf-initiative-aims-unlock-dataset-value-ai-enabled\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A Fundação Nacional de Ciência dos EUA anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para promover conjuntos de dados da comunidade científica e permitir a descoberta e a inovação usando recursos artificiais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A National Science Foundation anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para avançar conjuntos de dados da. Na ciência e na engenharia, os pesquisadores construíram conjuntos de dados valiosos por meio de pesquisas anteriores.</p><p>No entanto, muitos conjuntos de dados têm potencial para serem utilizados para novas consultas fora do âmbito inicial da recolha de dados, mas não são acessíveis, interoperáveis. O novo programa ajudará as comunidades de investigação a desbloquear mais valor dos conjuntos de dados para fazer novas perguntas, testar novas ideias e ampliar o valor de.</p><p>A IA permite o processamento e análise de dados em escalas e velocidades que ultrapassam a capacidade humana, ajudando os investigadores a identificar padrões e relações. Quando combinada com conjuntos de dados científicos confiáveis, acessíveis, adequados à sua finalidade científica e com curadoria, a IA pode promover a pesquisa científica e.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NSF News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/new-nsf-initiative-aims-unlock-dataset-value-ai-enabled\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The U. S. National Science Foundation announced the NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery program, a new investment to advance scientific community datasets and enable discovery and innovation using artificial. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. National Science Foundation announced the NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery program, a new investment to advance scientific community datasets and. Across science and engineering, researchers have built valuable datasets through prior research.</p><p>However, many datasets have the potential to be used for new inquiries outside of the initial scope of data collection, but are not accessible, interoperable or ready to be used. The new program will help research communities unlock more value from datasets to ask new questions, test new ideas and extend the value of prior scientific investments.</p><p>AI enables data processing and analysis at scales and speeds beyond human capacity, helping researchers identify previously hidden patterns and relationships. When paired with scientific datasets that are trusted, accessible, fit for their scientific purpose and curated, AI can advance scientific research and connect previously siloed.</p><p>Rather than primarily supporting new data collection, the program focuses on increasing the value of existing scientific datasets and enabling new AI-driven insights. Build robust data pipelines for automated analysis by AI tools and systems.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Researchers are encouraged to leverage existing resources, including NSF data platforms, the NSF Integrated Data Systems and Services program, the NSF-led National AI Research. High-quality scientific data are foundational to advancing an AI-enabled research and innovation ecosystem,&quot; said Ellen Zegura, senior science and engineering advisor in the NSF.</p><p>Because the account originates with NSF News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/new-nsf-initiative-aims-unlock-dataset-value-ai-enabled\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A Fundação Nacional de Ciência dos EUA anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para.",
-      "Dado-chave: A National Science Foundation anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A Fundação Nacional de Ciência dos EUA anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para.",
-      "Dado-chave: A National Science Foundation anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The U. S. National Science Foundation announced the NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery program, a new investment to.",
-      "Key detail: National Science Foundation announced the NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery program, a new investment to advance.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "22 jul 2026",
-    "date_pt": "22 jul 2026",
-    "date_en": "22 Jul 2026",
-    "time": "13h53",
-    "time_pt": "13h53",
-    "time_en": "13:53 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-22T13:53:12+00:00",
-    "lastModifiedIso": "2026-07-22T13:53:12+00:00",
-    "source": "NSF News",
-    "sourceDomain": "www.nsf.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "NSF News",
-      "Cosmos Week",
-      "Nova iniciativa da NSF visa desbloquear o valor do conjunto de dados para descobertas científicas baseadas em IA"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NSF News",
-      "Cosmos Week",
-      "Nova iniciativa da NSF visa desbloquear o valor do conjunto de dados para descobertas científicas baseadas em IA"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NSF News",
-      "Cosmos Week",
-      "New NSF Initiative Aims to Unlock Dataset Value for AI-Driven Scientific Discoveries"
-    ],
-    "srcUrl": "https://www.nsf.gov/news/new-nsf-initiative-aims-unlock-dataset-value-ai-enabled",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=new-nsf-initiative-aims-to-unlock-dataset-value-for-ai-enabled-scientific-discovery",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=new-nsf-initiative-aims-to-unlock-dataset-value-for-ai-enabled-scientific-discovery",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=new-nsf-initiative-aims-to-unlock-dataset-value-for-ai-enabled-scientific-discovery&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 72,
-    "scoreBreakdown": {
-      "source": 80,
-      "evidence": 88,
-      "relevance": 74,
-      "accessibility": 52,
-      "novelty": 46
     }
   }
 ];

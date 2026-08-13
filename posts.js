@@ -40,14 +40,14 @@ window.postsData = [
     "date": "13 ago 2026",
     "date_pt": "13 ago 2026",
     "date_en": "13 Aug 2026",
-    "time": "21h56",
-    "time_pt": "21h56",
-    "time_en": "21:56 UTC",
+    "time": "22h55",
+    "time_pt": "22h55",
+    "time_en": "22:55 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-13T21:56:29.456683+00:00",
-    "lastModifiedIso": "2026-08-13T21:56:29.456683+00:00",
+    "publishedIso": "2026-08-13T22:55:32.672937+00:00",
+    "lastModifiedIso": "2026-08-13T22:55:32.672937+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "13 ago 2026",
     "date_pt": "13 ago 2026",
     "date_en": "13 Aug 2026",
-    "time": "21h56",
-    "time_pt": "21h56",
-    "time_en": "21:56 UTC",
+    "time": "22h55",
+    "time_pt": "22h55",
+    "time_en": "22:55 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-13T21:56:29.456636+00:00",
-    "lastModifiedIso": "2026-08-13T21:56:29.456636+00:00",
+    "publishedIso": "2026-08-13T22:55:32.672873+00:00",
+    "lastModifiedIso": "2026-08-13T22:55:32.672873+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,14 +250,14 @@ window.postsData = [
     "date": "13 ago 2026",
     "date_pt": "13 ago 2026",
     "date_en": "13 Aug 2026",
-    "time": "21h56",
-    "time_pt": "21h56",
-    "time_en": "21:56 UTC",
+    "time": "22h55",
+    "time_pt": "22h55",
+    "time_en": "22:55 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-13T21:56:29.456599+00:00",
-    "lastModifiedIso": "2026-08-13T21:56:29.456599+00:00",
+    "publishedIso": "2026-08-13T22:55:32.672820+00:00",
+    "lastModifiedIso": "2026-08-13T22:55:32.672820+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -358,14 +358,14 @@ window.postsData = [
     "date": "13 ago 2026",
     "date_pt": "13 ago 2026",
     "date_en": "13 Aug 2026",
-    "time": "21h56",
-    "time_pt": "21h56",
-    "time_en": "21:56 UTC",
+    "time": "22h55",
+    "time_pt": "22h55",
+    "time_en": "22:55 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-13T21:56:29.456558+00:00",
-    "lastModifiedIso": "2026-08-13T21:56:29.456558+00:00",
+    "publishedIso": "2026-08-13T22:55:32.672764+00:00",
+    "lastModifiedIso": "2026-08-13T22:55:32.672764+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -399,7 +399,7 @@ window.postsData = [
       "Biology",
       "NIH News Releases",
       "Cosmos Week",
-      "NIH selects Dr. Courtney Aklin as director of the National Institute of Nursing Research"
+      "NIH Selects Dr. Courtney Aklin as Director of the National Institute of Nursing Research"
     ],
     "srcUrl": "https://www.nih.gov/news-events/news-releases/nih-selects-dr-courtney-aklin-director-national-institute-nursing-research",
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nih-selects-dr-courtney-aklin-as-director-of-the-national-institute-of-nursing-research",
@@ -463,14 +463,14 @@ window.postsData = [
     "date": "13 ago 2026",
     "date_pt": "13 ago 2026",
     "date_en": "13 Aug 2026",
-    "time": "21h56",
-    "time_pt": "21h56",
-    "time_en": "21:56 UTC",
+    "time": "22h55",
+    "time_pt": "22h55",
+    "time_en": "22:55 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-13T21:56:29.456520+00:00",
-    "lastModifiedIso": "2026-08-13T21:56:29.456520+00:00",
+    "publishedIso": "2026-08-13T22:55:32.672708+00:00",
+    "lastModifiedIso": "2026-08-13T22:55:32.672708+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -531,6 +531,378 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "the-rooms-we-build-to-survive-in-and-the-ones-we-build-to-live-in",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.universetoday.com/article_images/jsc2023e038523_20260813_220550.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/hhp-bhp-iss036e008241_20260813_220815.jpg",
+        "caption": "Um membro da tripulação preso por uma restrição para dormir dentro de seus alojamentos pessoais a bordo da Estação Espacial Internacional, um dos pequenos projetistas de espaços privados que aprenderam que são extremamente importantes para uma tripulação",
+        "caption_pt": "Um membro da tripulação preso por uma restrição para dormir dentro de seus alojamentos pessoais a bordo da Estação Espacial Internacional, um dos pequenos projetistas de espaços privados que aprenderam que são extremamente importantes para uma tripulação",
+        "caption_en": "A crew member secured in a sleep restraint inside their personal crew quarters aboard the International Space Station, one of the small, private spaces designers have learned matter enormously to a crew",
+        "alt": "Um membro da tripulação preso por uma restrição para dormir dentro de seus alojamentos pessoais a bordo da Estação Espacial Internacional, um dos pequenos projetistas de espaços privados que aprenderam que são extremamente importantes para uma tripulação",
+        "alt_pt": "Um membro da tripulação preso por uma restrição para dormir dentro de seus alojamentos pessoais a bordo da Estação Espacial Internacional, um dos pequenos projetistas de espaços privados que aprenderam que são extremamente importantes para uma tripulação",
+        "alt_en": "A crew member secured in a sleep restraint inside their personal crew quarters aboard the International Space Station, one of the small, private spaces designers have learned matter enormously to a crew"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Os quartos que construímos para sobreviver e aqueles que construímos para viver",
+    "title_pt": "Os quartos que construímos para sobreviver e aqueles que construímos para viver",
+    "title_en": "The Rooms We Build To Survive In, And The Ones We Build To Live In",
+    "sub": "O que uma casa realmente precisa fazer por nós, além de proteger o clima? Engenheiros do MIT começaram a mapear a resposta para os astronautas que se dirigem à Lua e a Marte.",
+    "sub_pt": "O que uma casa realmente precisa fazer por nós, além de proteger o clima? Engenheiros do MIT começaram a mapear a resposta para os astronautas que se dirigem à Lua e a Marte.",
+    "sub_en": "What does a home actually need to do for us, beyond keeping the weather out? Engineers at MIT have started mapping the answer for astronauts heading to the Moon and Mars, tracing.",
+    "excerpt": "O que uma casa realmente precisa fazer por nós, além de proteger o clima? Engenheiros do MIT começaram a mapear a resposta para os astronautas que se dirigem à Lua e a Marte, traçando exatamente como são as paredes, os layouts e a iluminação ao redor de uma.",
+    "excerpt_pt": "O que uma casa realmente precisa fazer por nós, além de proteger o clima? Engenheiros do MIT começaram a mapear a resposta para os astronautas que se dirigem à Lua e a Marte, traçando exatamente como são as paredes, os layouts e a iluminação ao redor de uma.",
+    "excerpt_en": "What does a home actually need to do for us, beyond keeping the weather out? Engineers at MIT have started mapping the answer for astronauts heading to the Moon and Mars, tracing exactly how the walls, layouts and lighting around a person.",
+    "body": "<p>O que uma casa realmente precisa fazer por nós, além de proteger o clima? Engenheiros do MIT começaram a mapear a resposta para os astronautas que se dirigem à Lua e a Marte, traçando exatamente como são as paredes, os layouts e a iluminação ao redor de uma pessoa. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Acontece que a ciência de sobreviver em um lugar e a ciência de viver em um não são a mesma coisa, e já gastei bastante no último ano. Engenheiros do MIT começaram a mapear a resposta para os astronautas que se dirigem à Lua e a Marte, rastreando exatamente como as paredes, a disposição e a iluminação em torno de.</p><p>Acontece que a ciência de sobreviver num lugar e a ciência de viver num lugar não são a mesma coisa, e passei o último ano pensando sobre essa diferença para saber o quanto ela. Foi construído para astronautas, para o problema real de manter uma tripulação não apenas fisicamente viva, mas psicologicamente bem durante uma viagem de anos a Marte, mas o.</p><p>Mars Dune Alpha, o habitat impresso em 3D usado para as missões CHAPEA da NASA, em construção. A equipe de Lin decidiu mudar isso para os habitats espaciais, pegando emprestado um método de mapeamento de risco que a NASA já usa para a saúde física e aplicando-o à saúde.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-rooms-we-build-to-survive-in-and-the-ones-we-build-to-live-in\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O que uma casa realmente precisa fazer por nós, além de proteger o clima? Engenheiros do MIT começaram a mapear a resposta para os astronautas que se dirigem à Lua e a Marte, traçando exatamente como são as paredes, os layouts e a iluminação ao redor de uma pessoa. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Acontece que a ciência de sobreviver em um lugar e a ciência de viver em um não são a mesma coisa, e já gastei bastante no último ano. Engenheiros do MIT começaram a mapear a resposta para os astronautas que se dirigem à Lua e a Marte, rastreando exatamente como as paredes, a disposição e a iluminação em torno de.</p><p>Acontece que a ciência de sobreviver num lugar e a ciência de viver num lugar não são a mesma coisa, e passei o último ano pensando sobre essa diferença para saber o quanto ela. Foi construído para astronautas, para o problema real de manter uma tripulação não apenas fisicamente viva, mas psicologicamente bem durante uma viagem de anos a Marte, mas o.</p><p>Mars Dune Alpha, o habitat impresso em 3D usado para as missões CHAPEA da NASA, em construção. A equipe de Lin decidiu mudar isso para os habitats espaciais, pegando emprestado um método de mapeamento de risco que a NASA já usa para a saúde física e aplicando-o à saúde.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-rooms-we-build-to-survive-in-and-the-ones-we-build-to-live-in\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>What does a home actually need to do for us, beyond keeping the weather out? Engineers at MIT have started mapping the answer for astronauts heading to the Moon and Mars, tracing exactly how the walls, layouts and lighting around a person. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. It turns out the science of surviving a place and the science of living in one are not the same thing at all, and I have spent enough of the last year. Engineers at MIT have started mapping the answer for astronauts heading to the Moon and Mars, tracing exactly how the walls, layouts and lighting around a person shape their.</p><p>It turns out the science of surviving a place and the science of living in one are not the same thing at all, and I have spent enough of the last year thinking about that. It was built for astronauts, for the very real problem of keeping a crew not just physically alive but psychologically well on a years long journey to Mars, but the thinking.</p><p>Mars Dune Alpha, the 3D-printed habitat used for NASA&#x27;s CHAPEA missions, under construction. Lin&#x27;s team set out to change that for space habitats, borrowing a risk mapping method NASA already uses for physical health and applying it to emotional health instead, tracking.</p><p>Start with a constraint, like distance from Earth, and it shows you what that puts at risk. A crew member secured in a sleep restraint inside their personal crew quarters aboard the International Space Station, one of the small, private spaces designers have learned.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>How to design a space habitat that supports its residents&#x27; mental health Science broadcaster and author. Mark is known for his tireless enthusiasm for making science accessible, through numerous tv, radio, podcast and theatre appearances, and books.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-rooms-we-build-to-survive-in-and-the-ones-we-build-to-live-in\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O que uma casa realmente precisa fazer por nós, além de proteger o clima? Engenheiros do MIT começaram a mapear a resposta para os astronautas que se.",
+      "Dado-chave: Acontece que a ciência de sobreviver em um lugar e a ciência de viver em um não são a mesma coisa, e já gastei bastante no último ano.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O que uma casa realmente precisa fazer por nós, além de proteger o clima? Engenheiros do MIT começaram a mapear a resposta para os astronautas que se.",
+      "Dado-chave: Acontece que a ciência de sobreviver em um lugar e a ciência de viver em um não são a mesma coisa, e já gastei bastante no último ano.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: What does a home actually need to do for us, beyond keeping the weather out? Engineers at MIT have started mapping the answer for astronauts heading.",
+      "Key detail: It turns out the science of surviving a place and the science of living in one are not the same thing at all, and I have spent enough of the.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "13 ago 2026",
+    "date_pt": "13 ago 2026",
+    "date_en": "13 Aug 2026",
+    "time": "22h09",
+    "time_pt": "22h09",
+    "time_en": "22:09 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-13T22:09:03+00:00",
+    "lastModifiedIso": "2026-08-13T22:09:03+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "Universe Today",
+      "Cosmos Week",
+      "Os quartos que construímos para sobreviver e aqueles que construímos para viver"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "Universe Today",
+      "Cosmos Week",
+      "Os quartos que construímos para sobreviver e aqueles que construímos para viver"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "Universe Today",
+      "Cosmos Week",
+      "The rooms we build to survive and the ones we build to live"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/the-rooms-we-build-to-survive-in-and-the-ones-we-build-to-live-in",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-rooms-we-build-to-survive-in-and-the-ones-we-build-to-live-in",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-rooms-we-build-to-survive-in-and-the-ones-we-build-to-live-in",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-rooms-we-build-to-survive-in-and-the-ones-we-build-to-live-in&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 88,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
+    "slug": "synchronized-star-pairs-unleash-radio-bursts-via-a-jupiter-io-like-mechanism",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/synchronized-stars-pow.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/synchronized-stars-pow.jpg",
+        "caption": "Esta obra de arte mostra como estrelas binárias anãs brancas – anãs M criam emissões de rádio. Os elétrons viajam ao longo das linhas do campo magnético entre os dois corpos, criando o que é chamado de instabilidade do maser do elétron-ciclotron (ECMI). Elétrons no.",
+        "caption_pt": "Esta obra de arte mostra como estrelas binárias anãs brancas – anãs M criam emissões de rádio. Os elétrons viajam ao longo das linhas do campo magnético entre os dois corpos, criando o que é chamado de instabilidade do maser do elétron-ciclotron (ECMI). Elétrons no.",
+        "caption_en": "This artwork shows how white dwarf–M dwarf binary stars create radio emission. Electrons travel along magnetic field lines between the two bodies, creating what's called an electron cyclotron maser instability (ECMI). Electrons in the.",
+        "alt": "Estrelas sincronizadas alimentam laser de rádio cósmico",
+        "alt_pt": "Estrelas sincronizadas alimentam laser de rádio cósmico",
+        "alt_en": "Synchronized stars power cosmic radio laser"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/synchronized-stars-pow-1.jpg",
+        "caption": "Obra de arte de uma anã branca – estrelas binárias anãs M. As linhas do campo magnético da anã branca, que são mais fortes do que as da anã M, desempenham um papel fundamental na criação de explosões de emissão de rádio de longo período observadas em estrelas binárias como.",
+        "caption_pt": "Obra de arte de uma anã branca – estrelas binárias anãs M. As linhas do campo magnético da anã branca, que são mais fortes do que as da anã M, desempenham um papel fundamental na criação de explosões de emissão de rádio de longo período observadas em estrelas binárias como.",
+        "caption_en": "Artwork of a white dwarf–M dwarf binary stars. The white dwarf's magnetic field lines, which are stronger than those from the M dwarf, play a key role in creating long-period bursts of radio emission observed from binary stars like.",
+        "alt": "Estrelas sincronizadas alimentam laser de rádio cósmico",
+        "alt_pt": "Estrelas sincronizadas alimentam laser de rádio cósmico",
+        "alt_en": "Synchronized stars power cosmic radio laser"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Pares de estrelas sincronizados liberam rajadas de rádio por meio de um mecanismo semelhante ao de Júpiter-Io",
+    "title_pt": "Pares de estrelas sincronizados liberam rajadas de rádio por meio de um mecanismo semelhante ao de Júpiter-Io",
+    "title_en": "Synchronized star pairs unleash radio bursts via a Jupiter-Io-like mechanism",
+    "sub": "Os investigadores ajudaram a desvendar o mistério da razão pela qual certos pares de estrelas pulsam com rajadas regulares e de longo período de ondas de rádio. A classe.",
+    "sub_pt": "Os investigadores ajudaram a desvendar o mistério da razão pela qual certos pares de estrelas pulsam com rajadas regulares e de longo período de ondas de rádio. A classe.",
+    "sub_en": "Researchers have helped unravel the mystery of why certain pairs of stars pulse with regular, long-period bursts of radio waves. The particular class of objects observed comes in.",
+    "excerpt": "Os investigadores ajudaram a desvendar o mistério da razão pela qual certos pares de estrelas pulsam com rajadas regulares e de longo período de ondas de rádio. A classe particular de objetos observados vem em pares que sempre incluem uma estrela morta.",
+    "excerpt_pt": "Os investigadores ajudaram a desvendar o mistério da razão pela qual certos pares de estrelas pulsam com rajadas regulares e de longo período de ondas de rádio. A classe particular de objetos observados vem em pares que sempre incluem uma estrela morta.",
+    "excerpt_en": "Researchers have helped unravel the mystery of why certain pairs of stars pulse with regular, long-period bursts of radio waves. The particular class of objects observed comes in pairs that always include a compact dead star, called a.",
+    "body": "<p>Os investigadores ajudaram a desvendar o mistério da razão pela qual certos pares de estrelas pulsam com rajadas regulares e de longo período de ondas de rádio. A classe particular de objetos observados vem em pares que sempre incluem uma estrela morta compacta, chamada a. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Por Whitney Clavin, Instituto de Tecnologia da Califórnia Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. A classe particular de objetos observados surge em pares que incluem sempre uma estrela morta compacta, chamada anã branca, colocada em órbita com uma anã M, uma estrela vermelha.</p><p>A ECMI ocorre em todo o universo, em torno de estrelas e planetas, e até mesmo nas auroras da Terra. O ECMI é o responsável mais famoso pelas intensas explosões de rádio observadas entre Júpiter e sua lua Io desde 1955.</p><p>Em 1969, Peter Goldreich da Caltech, Lee A. O novo estudo de Zhong e Most mostra como este mesmo mecanismo alimenta explosões de rádio em pares de anãs brancas e anãs M em órbita.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-synchronized-star-pairs-unleash-radio.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os investigadores ajudaram a desvendar o mistério da razão pela qual certos pares de estrelas pulsam com rajadas regulares e de longo período de ondas de rádio. A classe particular de objetos observados vem em pares que sempre incluem uma estrela morta compacta, chamada a. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Por Whitney Clavin, Instituto de Tecnologia da Califórnia Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. A classe particular de objetos observados surge em pares que incluem sempre uma estrela morta compacta, chamada anã branca, colocada em órbita com uma anã M, uma estrela vermelha.</p><p>A ECMI ocorre em todo o universo, em torno de estrelas e planetas, e até mesmo nas auroras da Terra. O ECMI é o responsável mais famoso pelas intensas explosões de rádio observadas entre Júpiter e sua lua Io desde 1955.</p><p>Em 1969, Peter Goldreich da Caltech, Lee A. O novo estudo de Zhong e Most mostra como este mesmo mecanismo alimenta explosões de rádio em pares de anãs brancas e anãs M em órbita.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-synchronized-star-pairs-unleash-radio.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Helped unravel the mystery of why certain pairs of stars pulse with regular, long-period bursts of radio waves. The particular class of objects observed comes in pairs that always include a compact dead star, called a. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. By Whitney Clavin, California Institute of Technology This article has been reviewed according to Science X&#x27;s editorial process and policies. The particular class of objects observed comes in pairs that always include a compact dead star, called a white dwarf, locked in orbit with an M dwarf, a red star smaller than our.</p><p>ECMI occurs throughout the universe, around stars and planets, and even in Earth&#x27;s auroras. ECMI is most famously behind intense radio bursts observed between Jupiter and its moon Io since 1955.</p><p>In 1969, Caltech&#x27;s Peter Goldreich, the Lee A. The new study from Zhong and Most shows how this same mechanism powers radio bursts in orbiting white dwarf and M dwarf pairs.</p><p>In fact, one of them, called GLEAM-X J0704-37, was confirmed by alum Antonio Rodriguez (Ph. D. 25) to be powered by such a system.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. The simulations also showed that the ECMI mechanism can be up to 10 times more efficient at producing radio signals than previously believed.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-synchronized-star-pairs-unleash-radio.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os investigadores ajudaram a desvendar o mistério da razão pela qual certos pares de estrelas pulsam com rajadas regulares e de longo período de.",
+      "Dado-chave: por Whitney Clavin, Instituto de Tecnologia da Califórnia Este artigo foi revisado de acordo com o processo editorial e as políticas da Science.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os investigadores ajudaram a desvendar o mistério da razão pela qual certos pares de estrelas pulsam com rajadas regulares e de longo período de.",
+      "Dado-chave: por Whitney Clavin, Instituto de Tecnologia da Califórnia Este artigo foi revisado de acordo com o processo editorial e as políticas da Science.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Researchers have helped unravel the mystery of why certain pairs of stars pulse with regular, long-period bursts of radio waves. The particular class.",
+      "Key detail: by Whitney Clavin, California Institute of Technology This article has been reviewed according to Science X's editorial process and policies.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "13 ago 2026",
+    "date_pt": "13 ago 2026",
+    "date_en": "13 Aug 2026",
+    "time": "22h00",
+    "time_pt": "22h00",
+    "time_en": "22:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-13T22:00:04+00:00",
+    "lastModifiedIso": "2026-08-13T22:00:04+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Pares de estrelas sincronizados liberam rajadas de rádio por meio de um mecanismo semelhante ao de Júpiter"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Pares de estrelas sincronizados liberam rajadas de rádio por meio de um mecanismo semelhante ao de Júpiter"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Pairs of synchronized stars release radio bursts through a Jupiter-like mechanism"
+    ],
+    "srcUrl": "https://phys.org/news/2026-08-synchronized-star-pairs-unleash-radio.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=synchronized-star-pairs-unleash-radio-bursts-via-a-jupiter-io-like-mechanism",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=synchronized-star-pairs-unleash-radio-bursts-via-a-jupiter-io-like-mechanism",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=synchronized-star-pairs-unleash-radio-bursts-via-a-jupiter-io-like-mechanism&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 8,
+    "slug": "the-ingredients-for-planets-turned-up-astonishingly-early",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://www.universetoday.com/article_images/HL_Tau_protoplanetary_disk_20260813_215108.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/noirlab2222b_20260813_215435.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/STScI-01EVSTH2EMEM466JZ9ZFS4B2D7-2_20260813_215539.png",
+        "caption": "Quatro discos protoplanetários em torno de estrelas jovens na Nebulosa de Órion, cada um com duas a oito vezes a largura do nosso Sistema Solar. Discos como esses não são dignos de nota no universo hoje. O novo trabalho argumenta que eles estavam se formando antes disso.",
+        "caption_pt": "Quatro discos protoplanetários em torno de estrelas jovens na Nebulosa de Órion, cada um com duas a oito vezes a largura do nosso Sistema Solar. Discos como esses não são dignos de nota no universo hoje. O novo trabalho argumenta que eles estavam se formando antes disso.",
+        "caption_en": "Four protoplanetary discs around young stars in the Orion Nebula, each between two and eight times the width of our Solar System. Discs like these are unremarkable in the universe today. The new work argues they were forming before there.",
+        "alt": "Quatro discos protoplanetários em torno de estrelas jovens na Nebulosa de Órion, cada um com duas a oito vezes a largura do nosso Sistema Solar. Discos como esses não são dignos de nota no universo hoje. O novo trabalho argumenta que eles estavam se formando antes disso.",
+        "alt_pt": "Quatro discos protoplanetários em torno de estrelas jovens na Nebulosa de Órion, cada um com duas a oito vezes a largura do nosso Sistema Solar. Discos como esses não são dignos de nota no universo hoje. O novo trabalho argumenta que eles estavam se formando antes disso.",
+        "alt_en": "Four protoplanetary discs around young stars in the Orion Nebula, each between two and eight times the width of our Solar System. Discs like these are unremarkable in the universe today. The new work argues they were forming before there."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Os ingredientes para os planetas apareceram surpreendentemente cedo",
+    "title_pt": "Os ingredientes para os planetas apareceram surpreendentemente cedo",
+    "title_en": "The Ingredients For Planets Turned Up Astonishingly Early",
+    "sub": "A construção de planetas deveria ser um dos projetos lentos do universo, algo que só começou bilhões de anos após o Big Bang. Novas pesquisas sugerem o contrário. A matéria-prima.",
+    "sub_pt": "A construção de planetas deveria ser um dos projetos lentos do universo, algo que só começou bilhões de anos após o Big Bang. Novas pesquisas sugerem o contrário. A matéria-prima.",
+    "sub_en": "Planet building was supposed to be one of the universe's slow projects, something that only got going billions of years after the Big Bang. New research suggests otherwise. The.",
+    "excerpt": "A construção de planetas deveria ser um dos projetos lentos do universo, algo que só começou bilhões de anos após o Big Bang. Novas pesquisas sugerem o contrário. A matéria-prima para os mundos rochosos e talvez até para a água.",
+    "excerpt_pt": "A construção de planetas deveria ser um dos projetos lentos do universo, algo que só começou bilhões de anos após o Big Bang. Novas pesquisas sugerem o contrário. A matéria-prima para os mundos rochosos e talvez até para a água.",
+    "excerpt_en": "Planet building was supposed to be one of the universe's slow projects, something that only got going billions of years after the Big Bang. New research suggests otherwise. The raw materials for rocky worlds, and perhaps even the water.",
+    "body": "<p>A construção de planetas deveria ser um dos projetos lentos do universo, algo que só começou bilhões de anos após o Big Bang. Novas pesquisas sugerem o contrário. A matéria-prima para os mundos rochosos e talvez até para a água. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. As matérias-primas para os mundos rochosos, e talvez até a água necessária para a vida, podem ter estado prontas para uso apenas 100 milhões de anos após o Big Bang, muito antes. Parece uma pergunta capciosa, mas um novo estudo da Universidade de Portsmouth sugere que o universo conseguiu exatamente isso.</p><p>Esta nova pesquisa empurra essa linha do tempo dramaticamente, para apenas 100 milhões de anos após o Big Bang. Dado que o universo tem cerca de 13,8 mil milhões de anos, isso equivale a construir a primeira casa numa rua antes mesmo de existir a cidade à sua volta.</p><p>Da Silva) A história começa com as primeiras estrelas, conhecidas como estrelas da População III. É um dos eventos mais violentos que a física permite, capaz de lançar no espaço mais de 100 vezes a massa do Sol em elementos pesados ​​como carbono, oxigênio e ferro.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-ingredients-for-planets-turned-up-astonishingly-early\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A construção de planetas deveria ser um dos projetos lentos do universo, algo que só começou bilhões de anos após o Big Bang. Novas pesquisas sugerem o contrário. A matéria-prima para os mundos rochosos e talvez até para a água. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. As matérias-primas para os mundos rochosos, e talvez até a água necessária para a vida, podem ter estado prontas para uso apenas 100 milhões de anos após o Big Bang, muito antes. Parece uma pergunta capciosa, mas um novo estudo da Universidade de Portsmouth sugere que o universo conseguiu exatamente isso.</p><p>Esta nova pesquisa empurra essa linha do tempo dramaticamente, para apenas 100 milhões de anos após o Big Bang. Dado que o universo tem cerca de 13,8 mil milhões de anos, isso equivale a construir a primeira casa numa rua antes mesmo de existir a cidade à sua volta.</p><p>Da Silva) A história começa com as primeiras estrelas, conhecidas como estrelas da População III. É um dos eventos mais violentos que a física permite, capaz de lançar no espaço mais de 100 vezes a massa do Sol em elementos pesados ​​como carbono, oxigênio e ferro.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-ingredients-for-planets-turned-up-astonishingly-early\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Planet building was supposed to be one of the universe&#x27;s slow projects, something that only got going billions of years after the Big Bang. New research suggests otherwise. The raw materials for rocky worlds, and perhaps even the water. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. The raw materials for rocky worlds, and perhaps even the water needed for life, may have been ready to go just 100 million years after the Big Bang, long before the first galaxies. It sounds like a trick question, but a new study from the University of Portsmouth suggests the universe managed exactly that.</p><p>This new research pushes that timeline back dramatically, to just 100 million years after the Big Bang. Given the universe is roughly 13.8 billion years old, that is the equivalent of building the first house on a street before the town around it even exists.</p><p>Da Silva) The story starts with the very first stars, known as Population III stars. It is one of the most violent events physics allows, capable of hurling more than 100 times the Sun&#x27;s mass in heavy elements like carbon, oxygen and iron out into space.</p><p>In one simulation, a disc formed around a star about 70 per cent the Sun&#x27;s mass, and inside it the team found several Earth masses&#x27; worth of solid material sitting roughly where. The disc held a healthy supply of it, not far short of the amount available when our own Solar System came together, and water delivered this way is thought to be how Earth got.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>The new work argues they were forming before there were galaxies to hold them, C. Mark is known for his tireless enthusiasm for making science accessible, through numerous tv, radio, podcast and theatre appearances, and books.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-ingredients-for-planets-turned-up-astonishingly-early\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A construção de planetas deveria ser um dos projetos lentos do universo, algo que só começou bilhões de anos após o Big Bang. Novas pesquisas sugerem.",
+      "Dado-chave: As matérias-primas para os mundos rochosos, e talvez até a água necessária para a vida, podem ter estado prontas para uso apenas 100 milhões de.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A construção de planetas deveria ser um dos projetos lentos do universo, algo que só começou bilhões de anos após o Big Bang. Novas pesquisas sugerem.",
+      "Dado-chave: As matérias-primas para os mundos rochosos, e talvez até a água necessária para a vida, podem ter estado prontas para uso apenas 100 milhões de.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Planet building was supposed to be one of the universe's slow projects, something that only got going billions of years after the Big Bang. New.",
+      "Key detail: The raw materials for rocky worlds, and perhaps even the water needed for life, may have been ready to go just 100 million years after the Big.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "13 ago 2026",
+    "date_pt": "13 ago 2026",
+    "date_en": "13 Aug 2026",
+    "time": "21h56",
+    "time_pt": "21h56",
+    "time_en": "21:56 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-13T21:56:00+00:00",
+    "lastModifiedIso": "2026-08-13T21:56:00+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "Universe Today",
+      "Cosmos Week",
+      "Os ingredientes para os planetas apareceram surpreendentemente cedo"
+    ],
+    "keywords_pt": [
+      "Física",
+      "Universe Today",
+      "Cosmos Week",
+      "Os ingredientes para os planetas apareceram surpreendentemente cedo"
+    ],
+    "keywords_en": [
+      "Physical",
+      "Universe Today",
+      "Cosmos Week",
+      "The Ingredients for Planets Appeared Surprisingly Early"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/the-ingredients-for-planets-turned-up-astonishingly-early",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-ingredients-for-planets-turned-up-astonishingly-early",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-ingredients-for-planets-turned-up-astonishingly-early",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-ingredients-for-planets-turned-up-astonishingly-early&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 69,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 82,
+      "relevance": 64,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 9,
     "slug": "proposed-900-telescope-array-could-detect-an-earth-like-exoplanet-s-atmosphere-in-a-single-trans",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -649,7 +1021,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -663,7 +1035,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 10,
     "slug": "tess-discovers-a-rare-brown-dwarf-orbiting-a-massive-aging-star",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -796,7 +1168,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 11,
     "slug": "for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -904,82 +1276,54 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
-    "slug": "what-a-dry-meteorite-tells-us-about-water-on-mars",
+    "id": 12,
+    "slug": "nasa-data-helps-commercial-space-plan-living-off-our-moon",
     "cat": "Astronomia",
     "catCls": "astronomia",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-a-dry-meteorite-t-1.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/what-a-dry-meteorite-t-1.jpg",
-        "caption": "O que um meteorito seco nos diz sobre a água em Marte",
-        "caption_pt": "O que um meteorito seco nos diz sobre a água em Marte",
-        "caption_en": "What a dry meteorite tells us about water on Mars",
-        "alt": "O que um meteorito seco nos diz sobre a água em Marte",
-        "alt_pt": "O que um meteorito seco nos diz sobre a água em Marte",
-        "alt_en": "What a dry meteorite tells us about water on Mars"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/what-a-dry-meteorite-t-2.jpg",
-        "caption": "David Mannes (esquerda) e Anders Kaestner no SINQ da PSI. Eles usaram nêutrons para examinar um pedaço do meteorito marciano \"Black Beauty\" e foram capazes de revelar pela primeira vez áreas macroscópicas ricas em hidrogênio. Instituto Paul Scherrer PSI/Markus Fischer",
-        "caption_pt": "David Mannes (esquerda) e Anders Kaestner no SINQ da PSI. Eles usaram nêutrons para examinar um pedaço do meteorito marciano \"Black Beauty\" e foram capazes de revelar pela primeira vez áreas macroscópicas ricas em hidrogênio. Instituto Paul Scherrer PSI/Markus Fischer",
-        "caption_en": "David Mannes (left) and Anders Kaestner at the SINQ at PSI. They used neutrons to examine a piece of the Martian meteorite \"Black Beauty\" and were able to reveal macroscopic hydrogen-rich areas for the first time. Paul Scherrer Institute PSI/Markus Fischer",
-        "alt": "O que um meteorito seco nos diz sobre a água em Marte",
-        "alt_pt": "O que um meteorito seco nos diz sobre a água em Marte",
-        "alt_en": "What a dry meteorite tells us about water on Mars"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/08/pia00132orig.jpg?w=1083",
+    "inline_images": [],
     "video": null,
     "audio": null,
-    "title": "O que um meteorito seco nos diz sobre a água em Marte",
-    "title_pt": "O que um meteorito seco nos diz sobre a água em Marte",
-    "title_en": "What a dry meteorite tells us about water on Mars",
-    "sub": "Detectar água onde não existe hoje: a tomografia de nêutrons e de raios X torna isso possível. Em estudo internacional realizado com a participação do Instituto Paul Scherrer PSI.",
-    "sub_pt": "Detectar água onde não existe hoje: a tomografia de nêutrons e de raios X torna isso possível. Em estudo internacional realizado com a participação do Instituto Paul Scherrer PSI.",
-    "sub_en": "Detecting water where none remains today: Neutron and X-ray tomography make it possible. In an international study conducted with the participation of the Paul Scherrer Institute.",
-    "excerpt": "Detectar água onde não existe hoje: a tomografia de nêutrons e de raios X torna isso possível. Em estudo internacional realizado com a participação do Instituto Paul Scherrer PSI, pesquisadores trouxeram à luz o macroscópico.",
-    "excerpt_pt": "Detectar água onde não existe hoje: a tomografia de nêutrons e de raios X torna isso possível. Em estudo internacional realizado com a participação do Instituto Paul Scherrer PSI, pesquisadores trouxeram à luz o macroscópico.",
-    "excerpt_en": "Detecting water where none remains today: Neutron and X-ray tomography make it possible. In an international study conducted with the participation of the Paul Scherrer Institute PSI, researchers have brought to light macroscopic.",
-    "body": "<p>Detectar água onde não existe hoje: a tomografia de nêutrons e de raios X torna isso possível. Em estudo internacional realizado com a participação do Instituto Paul Scherrer PSI, pesquisadores trouxeram à luz o macroscópico. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Dados obtidos por sondas orbitais e medições de rovers sugerem que água líquida até fluía na sua superfície, e que hoje persiste principalmente como hidrogénio quimicamente ligado. Em combinação com a tomografia de raios X, não só fomos capazes de detectar minúsculos minerais hidratados, mas também, pela primeira vez, visualizar depósitos macroscópicos de.</p><p>Uma seção de Black Beauty medindo 12 x 8 x 2 milímetros foi enviada de Copenhague para a Suíça por serviço de encomendas”, lembra Kaestner com um sorriso. Quando chegou aqui, colocamos a amostra em nossa linha de luz e reconstruímos sua estrutura interna usando nêutrons.&quot; Descubra o que há de mais recente em ciência, tecnologia e.</p><p>Foi apenas através da tomografia de neutrões que conseguimos finalmente mostrar que estes buracos não estão vazios, mas que contêm material contendo hidrogénio.&quot; Para compreender. Em geologia, referimo-nos a isto como brecha,&quot; explica a geóloga marciana Katrine Wulff Nikolajsen, da Universidade de Copenhaga, que participou no estudo como coautora e.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-dry-meteorite-mars.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Detectar água onde não existe hoje: a tomografia de nêutrons e de raios X torna isso possível. Em estudo internacional realizado com a participação do Instituto Paul Scherrer PSI, pesquisadores trouxeram à luz o macroscópico. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Dados obtidos por sondas orbitais e medições de rovers sugerem que água líquida até fluía na sua superfície, e que hoje persiste principalmente como hidrogénio quimicamente ligado. Em combinação com a tomografia de raios X, não só fomos capazes de detectar minúsculos minerais hidratados, mas também, pela primeira vez, visualizar depósitos macroscópicos de.</p><p>Uma seção de Black Beauty medindo 12 x 8 x 2 milímetros foi enviada de Copenhague para a Suíça por serviço de encomendas”, lembra Kaestner com um sorriso. Quando chegou aqui, colocamos a amostra em nossa linha de luz e reconstruímos sua estrutura interna usando nêutrons.&quot; Descubra o que há de mais recente em ciência, tecnologia e.</p><p>Foi apenas através da tomografia de neutrões que conseguimos finalmente mostrar que estes buracos não estão vazios, mas que contêm material contendo hidrogénio.&quot; Para compreender. Em geologia, referimo-nos a isto como brecha,&quot; explica a geóloga marciana Katrine Wulff Nikolajsen, da Universidade de Copenhaga, que participou no estudo como coautora e.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-dry-meteorite-mars.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Detecting water where none remains today: Neutron and X-ray tomography make it possible. In an international study conducted with the participation of the Paul Scherrer Institute PSI, researchers have brought to light macroscopic. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Data from orbiters and rover measurements suggest that liquid water even flowed on its surface, and that today it persists mainly as chemically bound hydrogen locked into minerals. In combination with X-ray tomography, we were not only able to detect tiny hydrated minerals, but also, for the first time, visualize larger, macroscopic hydrogen deposits.&quot; The.</p><p>A section of Black Beauty measuring 12 x 8 x 2 millimeters was sent to Switzerland from Copenhagen by parcel service,&quot; Kaestner recalls with a smile. When it arrived here, we placed the sample in our beamline and reconstructed its internal structure using neutrons.&quot; Discover the latest in science, tech, and space with over.</p><p>It was only by using neutron tomography that we were finally able to show that these holes are not empty, but that they contain hydrogen-bearing material.&quot; To understand these. In geology, we refer to this as breccia,&quot; explains Mars geologist Katrine Wulff Nikolajsen from the University of Copenhagen, who participated in the study as a co-author and Mars.</p><p>Rock from different layers is churned up, broken apart, partially melted and remixed.&quot; A later impact ultimately imparted enough energy to the breccia to overcome Mars&#x27;s. Using our two analysis methods, we found that the hydrated traces are not distributed homogeneously throughout the sample, but occur as concentrated, macroscopic hotspots,&quot; the.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>These hotspots occur mainly in ancient rock fragments, they account for around 11% of the total water content of the sample examined.&quot; This suggests that water must have been. The study thus not only provides new insights into the early history of Mars, but also represents a methodological breakthrough: For the first time, hydrogen in Martian rock has.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-dry-meteorite-mars.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Dados da NASA ajudam o plano espacial comercial a viver em nossa lua",
+    "title_pt": "Dados da NASA ajudam o plano espacial comercial a viver em nossa lua",
+    "title_en": "NASA Data Helps Commercial Space Plan Living Off Our Moon",
+    "sub": "A árida paisagem lunar possui alguns recursos importantes, como água e minerais como ferro e titânio, mas extraí-los e processá-los exigirá equipamentos especiais. O local onde.",
+    "sub_pt": "A árida paisagem lunar possui alguns recursos importantes, como água e minerais como ferro e titânio, mas extraí-los e processá-los exigirá equipamentos especiais. O local onde.",
+    "sub_en": "The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment.",
+    "excerpt": "A árida paisagem lunar possui alguns recursos importantes, como água e minerais como ferro e titânio, mas extraí-los e processá-los exigirá equipamentos especiais. O local onde esses recursos podem ser encontrados determinará onde pousar.",
+    "excerpt_pt": "A árida paisagem lunar possui alguns recursos importantes, como água e minerais como ferro e titânio, mas extraí-los e processá-los exigirá equipamentos especiais. O local onde esses recursos podem ser encontrados determinará onde pousar.",
+    "excerpt_en": "The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment. Where those resources can be found will dictate where to land.",
+    "body": "<p>A árida paisagem lunar possui alguns recursos importantes, como água e minerais como ferro e titânio, mas extraí-los e processá-los exigirá equipamentos especiais. O local onde esses recursos podem ser encontrados determinará onde pousar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) A NASA vem tirando fotos da Lua há décadas, coletando uma riqueza de dados. Esta imagem em cores falsas é uma composição de 15 imagens da Lua obtidas através de três filtros de cores no sistema de imagem de estado sólido Galileo da NASA.</p><p>Está usando uma grande quantidade de dados da NASA em vários modelos de computador. “Com 60 anos de dados lunares disponíveis, ajudamos nossos clientes a compreender os fatores ambientais de qualquer local na Lua”, disse Blair DeWitt, CEO da Estação Lunar.</p><p>Combinar dados díspares de diferentes sensores usados ​​pela NASA e outras agências espaciais é um primeiro passo crítico. Um recurso da NASA que a empresa sediada em Cambridge, Massachusetts usou para construir mapas de terreno é o Ames Stereo Pipeline.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A árida paisagem lunar possui alguns recursos importantes, como água e minerais como ferro e titânio, mas extraí-los e processá-los exigirá equipamentos especiais. O local onde esses recursos podem ser encontrados determinará onde pousar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) A NASA vem tirando fotos da Lua há décadas, coletando uma riqueza de dados. Esta imagem em cores falsas é uma composição de 15 imagens da Lua obtidas através de três filtros de cores no sistema de imagem de estado sólido Galileo da NASA.</p><p>Está usando uma grande quantidade de dados da NASA em vários modelos de computador. “Com 60 anos de dados lunares disponíveis, ajudamos nossos clientes a compreender os fatores ambientais de qualquer local na Lua”, disse Blair DeWitt, CEO da Estação Lunar.</p><p>Combinar dados díspares de diferentes sensores usados ​​pela NASA e outras agências espaciais é um primeiro passo crítico. Um recurso da NASA que a empresa sediada em Cambridge, Massachusetts usou para construir mapas de terreno é o Ames Stereo Pipeline.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment. Where those resources can be found will dictate where to land. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 3 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) NASA has been taking pictures of the Moon for decades, collecting a wealth of data. This false-color picture is a composite of 15 images of the Moon taken through three color filters on NASA’s Galileo solid-state imaging system.</p><p>Is using a wealth of NASA data in multiple computer models. “With 60 years of lunar data available to us, we help our clients understand the environmental factors for any given location on the Moon,” said Blair DeWitt, CEO of Lunar Station.</p><p>Combining disparate data from different sensors used by NASA and other space agencies is a critical first step. One NASA resource the Cambridge, Massachusetts-based company used to build terrain maps is the Ames Stereo Pipeline.</p><p>The open-source code automatically processes images captured from satellites, robotic rovers, historical images, and more to create a 3D model revealing features such as rock. To begin to fill that gap, the Lunar Crater Observation and Sensing Satellite was designed to crash its uppers stage into the Moon’s South Pole in 2009.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>If you can’t see Earth at a given location like in the polar regions or the far side of the Moon, you have to come up with a relay strategy,” said DeWitt. “We can do this in part thanks to NASA data.” In MoonHacker’s Radiation Simulator, an electronic version of a company’s rover or satellite, called a digital twin, can be subjected.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Detectar água onde não existe hoje: a tomografia de nêutrons e de raios X torna isso possível. Em estudo internacional realizado com a participação.",
-      "Dado-chave: dados obtidos por sondas orbitais e medições de rovers sugerem que água líquida até fluía na sua superfície, e que hoje persiste principalmente.",
+      "Ponto central: A árida paisagem lunar possui alguns recursos importantes, como água e minerais como ferro e titânio, mas extraí-los e processá-los exigirá.",
+      "Dado-chave: 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) A NASA vem tirando fotos da Lua há décadas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Detectar água onde não existe hoje: a tomografia de nêutrons e de raios X torna isso possível. Em estudo internacional realizado com a participação.",
-      "Dado-chave: dados obtidos por sondas orbitais e medições de rovers sugerem que água líquida até fluía na sua superfície, e que hoje persiste principalmente.",
+      "Ponto central: A árida paisagem lunar possui alguns recursos importantes, como água e minerais como ferro e titânio, mas extraí-los e processá-los exigirá.",
+      "Dado-chave: 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) A NASA vem tirando fotos da Lua há décadas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: Detecting water where none remains today: Neutron and X-ray tomography make it possible. In an international study conducted with the participation.",
-      "Key detail: Data from orbiters and rover measurements suggest that liquid water even flowed on its surface, and that today it persists mainly as chemically.",
+      "Core point: The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will.",
+      "Key detail: 3 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) NASA has been taking pictures of the Moon for decades.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "13 ago 2026",
-    "date_pt": "13 ago 2026",
-    "date_en": "13 Aug 2026",
-    "time": "19h00",
-    "time_pt": "19h00",
-    "time_en": "19:00 UTC",
+    "date": "12 ago 2026",
+    "date_pt": "12 ago 2026",
+    "date_en": "12 Aug 2026",
+    "time": "20h40",
+    "time_pt": "20h40",
+    "time_en": "20:40 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-13T19:00:01+00:00",
-    "lastModifiedIso": "2026-08-13T19:00:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
+    "publishedIso": "2026-08-12T20:40:27+00:00",
+    "lastModifiedIso": "2026-08-12T20:40:27+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www.nasa.gov",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -991,32 +1335,32 @@ window.postsData = [
     "evidenceLabel": "Atualização institucional",
     "evidenceLabel_pt": "Atualização institucional",
     "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
     "keywords": [
       "Astronomia",
-      "Phys.org Space",
+      "NASA News Releases",
       "Cosmos Week",
-      "O que um meteorito seco nos diz sobre a água em Marte"
+      "Dados da NASA ajudam o plano espacial comercial a viver em nossa lua"
     ],
     "keywords_pt": [
       "Astronomia",
-      "Phys.org Space",
+      "NASA News Releases",
       "Cosmos Week",
-      "O que um meteorito seco nos diz sobre a água em Marte"
+      "Dados da NASA ajudam o plano espacial comercial a viver em nossa lua"
     ],
     "keywords_en": [
       "Astronomy",
-      "Phys.org Space",
+      "NASA News Releases",
       "Cosmos Week",
-      "What a dry meteorite tells us about water on Mars"
+      "NASA Data Helps Commercial Space Plan Live on Our Moon"
     ],
-    "srcUrl": "https://phys.org/news/2026-08-dry-meteorite-mars.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=what-a-dry-meteorite-tells-us-about-water-on-mars",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=what-a-dry-meteorite-tells-us-about-water-on-mars",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=what-a-dry-meteorite-tells-us-about-water-on-mars&lang=en",
+    "srcUrl": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-data-helps-commercial-space-plan-living-off-our-moon",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-data-helps-commercial-space-plan-living-off-our-moon",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-data-helps-commercial-space-plan-living-off-our-moon&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -1027,141 +1371,17 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 76,
+    "score": 80,
     "scoreBreakdown": {
-      "source": 76,
+      "source": 94,
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 10,
-    "slug": "a-massive-stream-of-gas-tilted-this-planet-forming-disk",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.universetoday.com/article_images/GW-Ori-Streamer-1024x614_20260813_172726.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/eso2014a_20260813_172532.jpg",
-        "caption": "A imagem à direita foi obtida pelo instrumento SPHERE montado no Very Large Telescope do ESO e mostra o anel em torno de GW Orionis. A imagem à esquerda é uma ilustração da mesma, baseada na reconstrução 3D do sistema estelar triplo.",
-        "caption_pt": "A imagem à direita foi obtida pelo instrumento SPHERE montado no Very Large Telescope do ESO e mostra o anel em torno de GW Orionis. A imagem à esquerda é uma ilustração da mesma, baseada na reconstrução 3D do sistema estelar triplo.",
-        "caption_en": "The image on the right is from the SPHERE instrument on ESO’s Very Large Telescope and shows the ring around GW Orionis. The image on the left is an illustration of the same, based on the 3D reconstruction of the triple star system from.",
-        "alt": "A imagem à direita foi obtida pelo instrumento SPHERE montado no Very Large Telescope do ESO e mostra o anel em torno de GW Orionis. A imagem à esquerda é uma ilustração da mesma, baseada na reconstrução 3D do sistema estelar triplo.",
-        "alt_pt": "A imagem à direita foi obtida pelo instrumento SPHERE montado no Very Large Telescope do ESO e mostra o anel em torno de GW Orionis. A imagem à esquerda é uma ilustração da mesma, baseada na reconstrução 3D do sistema estelar triplo.",
-        "alt_en": "The image on the right is from the SPHERE instrument on ESO’s Very Large Telescope and shows the ring around GW Orionis. The image on the left is an illustration of the same, based on the 3D reconstruction of the triple star system from."
-      },
-      {
-        "src": "https://www.universetoday.com/article_images/GWO_stream_1_20260813_180917.jpg",
-        "caption": "Estes painéis mostram o gás na corrente GW Orionis. A linha superior mostra 12CO e a linha inferior mostra 13CO. A coluna da esquerda mostra mapas de intensidade de pico, a coluna do meio mostra mapas de intensidade integrados e a coluna da direita mostra.",
-        "caption_pt": "Estes painéis mostram o gás na corrente GW Orionis. A linha superior mostra 12CO e a linha inferior mostra 13CO. A coluna da esquerda mostra mapas de intensidade de pico, a coluna do meio mostra mapas de intensidade integrados e a coluna da direita mostra.",
-        "caption_en": "These panels show the gas in the GW Orionis stream. The top row shows 12CO and the bottom row shows 13CO. The left column shows peak intensity maps, the middle column shows integrated intensity maps, and the right column shows.",
-        "alt": "Estes painéis mostram o gás na corrente GW Orionis. A linha superior mostra 12CO e a linha inferior mostra 13CO. A coluna da esquerda mostra mapas de intensidade de pico, a coluna do meio mostra mapas de intensidade integrados e a coluna da direita mostra.",
-        "alt_pt": "Estes painéis mostram o gás na corrente GW Orionis. A linha superior mostra 12CO e a linha inferior mostra 13CO. A coluna da esquerda mostra mapas de intensidade de pico, a coluna do meio mostra mapas de intensidade integrados e a coluna da direita mostra.",
-        "alt_en": "These panels show the gas in the GW Orionis stream. The top row shows 12CO and the bottom row shows 13CO. The left column shows peak intensity maps, the middle column shows integrated intensity maps, and the right column shows."
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Um enorme fluxo de gás inclinou este disco formador de planetas",
-    "title_pt": "Um enorme fluxo de gás inclinou este disco formador de planetas",
-    "title_en": "A Massive Stream of Gas Tilted This Planet-Forming Disk",
-    "sub": "Os astrónomos encontraram evidências de que uma corrente gigante de gás que flui para o jovem sistema estelar triplo GW Orionis pode ter inclinado o seu disco de formação.",
-    "sub_pt": "Os astrónomos encontraram evidências de que uma corrente gigante de gás que flui para o jovem sistema estelar triplo GW Orionis pode ter inclinado o seu disco de formação.",
-    "sub_en": "Astronomers found evidence that a giant stream of gas flowing into the GW Orionis young triple-star system may have tilted its planet-forming disk, offering a new explanation for.",
-    "excerpt": "Os astrónomos encontraram evidências de que uma corrente gigante de gás que flui para o jovem sistema estelar triplo GW Orionis pode ter inclinado o seu disco de formação planetária, oferecendo uma nova explicação para o motivo pelo qual alguns sistemas.",
-    "excerpt_pt": "Os astrónomos encontraram evidências de que uma corrente gigante de gás que flui para o jovem sistema estelar triplo GW Orionis pode ter inclinado o seu disco de formação planetária, oferecendo uma nova explicação para o motivo pelo qual alguns sistemas.",
-    "excerpt_en": "Astronomers found evidence that a giant stream of gas flowing into the GW Orionis young triple-star system may have tilted its planet-forming disk, offering a new explanation for why some planetary systems are misaligned. The next step is.",
-    "body": "<p>Os astrónomos encontraram evidências de que uma corrente gigante de gás que flui para o jovem sistema estelar triplo GW Orionis pode ter inclinado o seu disco de formação planetária, oferecendo uma nova explicação para o motivo pelo qual alguns sistemas planetários estão. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Isto é verdade para novas pesquisas sobre o jovem sistema estelar triplo chamado GW Orionis. O sistema está a cerca de 1.500 anos-luz de distância, em Orion, e é cercado por um disco protoplanetário circuntrinário com vários anéis.</p><p>Uma nova investigação publicada no The Astronomical Journal mostra que uma corrente de gás com um bilião de quilómetros de comprimento está a alimentar o GW Orionis e pode ser. Apresentamos dados de linhas moleculares do Atacama Large Millimeter/submillimeter Array de isotopólogos de CO, revelando uma serpentina alimentando o disco em 12CO e 13CO.&quot; Ambas.</p><p>O 12CO mapeia toda a extensão e estrutura de velocidade do fluxo de gás, enquanto o 13CO mapeia as partes mais densas do fluxo de gás.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/a-massive-stream-of-gas-tilted-this-planet-forming-disk\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os astrónomos encontraram evidências de que uma corrente gigante de gás que flui para o jovem sistema estelar triplo GW Orionis pode ter inclinado o seu disco de formação planetária, oferecendo uma nova explicação para o motivo pelo qual alguns sistemas planetários estão. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Isto é verdade para novas pesquisas sobre o jovem sistema estelar triplo chamado GW Orionis. O sistema está a cerca de 1.500 anos-luz de distância, em Orion, e é cercado por um disco protoplanetário circuntrinário com vários anéis.</p><p>Uma nova investigação publicada no The Astronomical Journal mostra que uma corrente de gás com um bilião de quilómetros de comprimento está a alimentar o GW Orionis e pode ser. Apresentamos dados de linhas moleculares do Atacama Large Millimeter/submillimeter Array de isotopólogos de CO, revelando uma serpentina alimentando o disco em 12CO e 13CO.&quot; Ambas.</p><p>O 12CO mapeia toda a extensão e estrutura de velocidade do fluxo de gás, enquanto o 13CO mapeia as partes mais densas do fluxo de gás.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/a-massive-stream-of-gas-tilted-this-planet-forming-disk\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Evidence that a giant stream of gas flowing into the GW Orionis young triple-star system may have tilted its planet-forming disk, offering a new explanation for why some planetary systems are misaligned. The next step is. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. This is true of new research into the young triple star system named GW Orionis. The system is about 1,500 light years away in Orion, and is surrounded by a multi-ringed, circumtrinary protoplanetary disk.</p><p>New research in The Astronomical Journal shows that a stream of gas a trillion miles long is feeding into GW Orionis, and may be responsible for tilting its disk. We present Atacama Large Millimeter/submillimeter Array molecular line data of CO isotopologues, revealing a streamer feeding the disk in 12CO and 13CO.&quot; Both forms of carbon.</p><p>12CO maps the full extent and velocity structure of the gas stream, while 13CO maps the densest parts of the gas stream. 12CO basically measures how far or how fast the gas is moving, while 13CO basically measures how much gas is actually there.</p><p>Our best-fit trajectory shows that the streamer meets the disk at the outermost dust ring and that the streamer’s angular momentum vector is closely aligned with this outermost. While other telescopes like the ESO&#x27;s VLT and its SPHERE instrument could image the misalignment of GW Orionis&#x27; rings, it took the power of ALMA to piece it all together.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Archival data allowed astronomers to see these high-resolution dust rings to model their relative misalignments, and now our observations use all three ALMA arrays, the 12-meter. Together, these results suggest that GW Ori remains dynamically linked to its parental cloud through ongoing accretion, with the streamer serving as the likely driver of its.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/a-massive-stream-of-gas-tilted-this-planet-forming-disk\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os astrónomos encontraram evidências de que uma corrente gigante de gás que flui para o jovem sistema estelar triplo GW Orionis pode ter inclinado o.",
-      "Dado-chave: Os astrónomos encontraram evidências de que uma corrente gigante de gás que flui para o jovem sistema estelar triplo GW Orionis pode ter.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os astrónomos encontraram evidências de que uma corrente gigante de gás que flui para o jovem sistema estelar triplo GW Orionis pode ter inclinado o.",
-      "Dado-chave: Os astrónomos encontraram evidências de que uma corrente gigante de gás que flui para o jovem sistema estelar triplo GW Orionis pode ter.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Astronomers found evidence that a giant stream of gas flowing into the GW Orionis young triple-star system may have tilted its planet-forming disk.",
-      "Key detail: Astronomers found evidence that a giant stream of gas flowing into the GW Orionis young triple-star system may have tilted its planet-forming.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "13 ago 2026",
-    "date_pt": "13 ago 2026",
-    "date_en": "13 Aug 2026",
-    "time": "18h51",
-    "time_pt": "18h51",
-    "time_en": "18:51 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-13T18:51:25+00:00",
-    "lastModifiedIso": "2026-08-13T18:51:25+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Universe Today",
-      "Cosmos Week",
-      "Um enorme fluxo de gás inclinou este disco formador de planetas"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Universe Today",
-      "Cosmos Week",
-      "Um enorme fluxo de gás inclinou este disco formador de planetas"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Universe Today",
-      "Cosmos Week",
-      "A huge flow of gas tilted this planet-forming disk"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/a-massive-stream-of-gas-tilted-this-planet-forming-disk",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=a-massive-stream-of-gas-tilted-this-planet-forming-disk",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=a-massive-stream-of-gas-tilted-this-planet-forming-disk",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=a-massive-stream-of-gas-tilted-this-planet-forming-disk&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 11,
+    "id": 13,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1197,8 +1417,8 @@ window.postsData = [
     ],
     "video": null,
     "audio": null,
-    "title": "Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas",
-    "title_pt": "Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas",
+    "title": "Divulgação Científica: Hubble identifica uma das galáxias mais escuras conhecidas",
+    "title_pt": "Divulgação Científica: Hubble identifica uma das galáxias mais escuras conhecidas",
     "title_en": "Science Release: Hubble identifies one of darkest known galaxies",
     "sub": "A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da.",
     "sub_pt": "A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da.",
@@ -1256,21 +1476,21 @@ window.postsData = [
       "Cosmologia",
       "ESA Hubble News",
       "Cosmos Week",
-      "Lançamento científico",
+      "Divulgação Científica",
       "Hubble identifica uma das galáxias mais escuras conhecidas"
     ],
     "keywords_pt": [
       "Cosmologia",
       "ESA Hubble News",
       "Cosmos Week",
-      "Lançamento científico",
+      "Divulgação Científica",
       "Hubble identifica uma das galáxias mais escuras conhecidas"
     ],
     "keywords_en": [
       "Cosmology",
       "ESA Hubble News",
       "Cosmos Week",
-      "Scientific launch",
+      "Scientific Dissemination",
       "Hubble identifies one of the darkest galaxies known"
     ],
     "srcUrl": "https://esahubble.org/news/heic2605/",
@@ -1297,7 +1517,7 @@ window.postsData = [
     }
   },
   {
-    "id": 12,
+    "id": 14,
     "slug": "science-release-hubble-examines-cloud-9-first-of-new-type-of-object",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1436,7 +1656,7 @@ window.postsData = [
     }
   },
   {
-    "id": 13,
+    "id": 15,
     "slug": "the-telescope-that-points-itself",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1569,12 +1789,40 @@ window.postsData = [
     }
   },
   {
-    "id": 14,
+    "id": 16,
     "slug": "dust-and-water-spotted-close-to-giant-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/irs_3_field_nircam_and_miri_image/27410540-1-eng-GB/IRS_3_Field_NIRCam_and_MIRI_image_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/irs_3_field_nircam_and_miri_image/27410540-1-eng-GB/IRS_3_Field_NIRCam_and_MIRI_image_article.jpg",
+        "caption": "Campo IRS 3 (imagem NIRCam e MIRI)",
+        "caption_pt": "Campo IRS 3 (imagem NIRCam e MIRI)",
+        "caption_en": "IRS 3 Field (NIRCam and MIRI image)",
+        "alt": "Campo IRS 3 (imagem NIRCam e MIRI)",
+        "alt_pt": "Campo IRS 3 (imagem NIRCam e MIRI)",
+        "alt_en": "IRS 3 Field (NIRCam and MIRI image)"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/irs_3_field_miri_image/27410715-1-eng-GB/IRS_3_Field_MIRI_image_article.jpg",
+        "caption": "Campo IRS 3 (imagem MIRI)",
+        "caption_pt": "Campo IRS 3 (imagem MIRI)",
+        "caption_en": "IRS 3 Field (MIRI image)",
+        "alt": "Campo IRS 3 (imagem MIRI)",
+        "alt_pt": "Campo IRS 3 (imagem MIRI)",
+        "alt_en": "IRS 3 Field (MIRI image)"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/irs_3_field_nircam_image/27410668-1-eng-GB/IRS_3_Field_NIRCam_image_article.jpg",
+        "caption": "Campo IRS 3 (imagem NIRCam)",
+        "caption_pt": "Campo IRS 3 (imagem NIRCam)",
+        "caption_en": "IRS 3 Field (NIRCam image)",
+        "alt": "Campo IRS 3 (imagem NIRCam)",
+        "alt_pt": "Campo IRS 3 (imagem NIRCam)",
+        "alt_en": "IRS 3 Field (NIRCam image)"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Poeira e água avistadas perto de buraco negro gigante",
@@ -1586,9 +1834,9 @@ window.postsData = [
     "excerpt": "Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto do buraco negro supermassivo no centro da nossa galáxia, a Via Láctea. O.",
     "excerpt_pt": "Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto do buraco negro supermassivo no centro da nossa galáxia, a Via Láctea. O.",
     "excerpt_en": "Using the NASA/ESA/CSA James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive surprisingly close to the supermassive black hole at the centre of our Milky Way galaxy. The.",
-    "body": "<p>Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto do buraco negro supermassivo no centro da nossa galáxia, a Via Láctea. O. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipa internacional de astrónomos descobriu que poeira e água podem formar-se e sobreviver surpreendentemente. As observações revelam que a estrela evoluída IRS 3 continua a enriquecer a sua vizinhança com material recém-formado, apesar do ambiente de intensa radiação em torno de Sagitário.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto do buraco negro supermassivo no centro da nossa galáxia, a Via Láctea. O. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipa internacional de astrónomos descobriu que poeira e água podem formar-se e sobreviver surpreendentemente. As observações revelam que a estrela evoluída IRS 3 continua a enriquecer a sua vizinhança com material recém-formado, apesar do ambiente de intensa radiação em torno de Sagitário.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Using the NASA/ESA/CSA James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive surprisingly close to the supermassive black hole at the centre of our Milky Way galaxy. The. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. The observations reveal that the evolved star IRS 3 continues to enrich its surroundings with newly formed material despite the intense radiation environment around Sagittarius A*.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto do buraco negro supermassivo no centro da nossa galáxia, a Via Láctea. O. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipa internacional de astrónomos descobriu que poeira e água podem formar-se e sobreviver surpreendentemente. As observações revelam que a estrela evoluída IRS 3 continua a enriquecer a sua vizinhança com material recém-formado, apesar do ambiente de intensa radiação em torno de Sagitário.</p><p>As novas observações fornecem a visão mais detalhada no infravermelho médio da estrela altamente evoluída IRS 3, que está localizada a apenas 0,55 anos-luz de Sagitário A*, o. O IRS 3 atingiu um estágio próximo ao fim de sua vida denominado fase de ramo gigante assintótico.</p><p>Ao analisar a luz infravermelha da estrela com o MIRI (Mid-Infrared Instrument) de Webb, a equipa de investigação identificou assinaturas claras de poeira rica em oxigénio e, pela. Os resultados mostram que mesmo sob condições adversas perto de um buraco negro supermassivo, estrelas evoluídas como a IRS 3 ainda podem produzir poeira e outros materiais.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto do buraco negro supermassivo no centro da nossa galáxia, a Via Láctea. O. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipa internacional de astrónomos descobriu que poeira e água podem formar-se e sobreviver surpreendentemente. As observações revelam que a estrela evoluída IRS 3 continua a enriquecer a sua vizinhança com material recém-formado, apesar do ambiente de intensa radiação em torno de Sagitário.</p><p>As novas observações fornecem a visão mais detalhada no infravermelho médio da estrela altamente evoluída IRS 3, que está localizada a apenas 0,55 anos-luz de Sagitário A*, o. O IRS 3 atingiu um estágio próximo ao fim de sua vida denominado fase de ramo gigante assintótico.</p><p>Ao analisar a luz infravermelha da estrela com o MIRI (Mid-Infrared Instrument) de Webb, a equipa de investigação identificou assinaturas claras de poeira rica em oxigénio e, pela. Os resultados mostram que mesmo sob condições adversas perto de um buraco negro supermassivo, estrelas evoluídas como a IRS 3 ainda podem produzir poeira e outros materiais.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Using the NASA/ESA/CSA James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive surprisingly close to the supermassive black hole at the centre of our Milky Way galaxy. The. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. The observations reveal that the evolved star IRS 3 continues to enrich its surroundings with newly formed material despite the intense radiation environment around Sagittarius A*. The new observations provide the most detailed mid-infrared view yet of the highly evolved star IRS 3, which is located just 0.55 light-years from Sagittarius A*, the Milky Way.</p><p>IRS 3 has reached a stage near the end of its life called the asymptotic giant branch phase. By analysing the star’s infrared light with Webb’s MIRI (Mid-Infrared Instrument), the research team identified clear signatures of oxygen-rich dust and, for the first time.</p><p>The results show that even under the harsh conditions near a supermassive black hole, evolved stars like IRS 3 can still produce dust and other materials important for the. “With Webb, we can directly observe how stars behave under these conditions and see that dust production remains remarkably resilient.” IRS 3 is one of the brightest mid-infrared.</p><p>These features identify IRS 3 as an oxygen-rich evolved star, which is nearing the end of its life and shedding material into space. “This discovery was possible because of Webb’s highly capable infrared instruments,” said Macarena Garcia Marin of ESA, a co-author of the study and PI of the MICONIC programme.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Their results indicate a layered, shell-like distribution of dust extending roughly 10 000 astronomical units from the star, with temperatures falling from approximately 1200. The observations also revealed evidence for water within the envelope of IRS 3: the first clear detection of its kind for this object.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e.",
       "Dado-chave: Utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipa internacional de astrónomos descobriu que poeira e água podem formar-se.",
@@ -1674,7 +1922,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 17,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1810,7 +2058,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 18,
     "slug": "the-escape-mission-will-study-the-evolution-of-exoplanet-atmospheres",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -1943,7 +2191,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 19,
     "slug": "three-new-exoplanet-systems-from-the-dispersed-matter-planet-project",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2048,7 +2296,7 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 20,
     "slug": "solar-magnetic-field-braids-may-have-a-previously-hidden-cause",
     "cat": "Física",
     "catCls": "fisica",
@@ -2176,7 +2424,7 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
+    "id": 21,
     "slug": "first-major-structure-of-the-future-cms-tracker-arrives-at-cern",
     "cat": "Física",
     "catCls": "fisica",
@@ -2291,140 +2539,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
-    "slug": "nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/NSF_Project_Triad_Hero_1200x468.png?itok=x5jUBvdL",
-    "inline_images": [
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_hero_mobile_600x352_/s3/media_hub/NSF_Project_Triad_Hero_1200x468.png.webp?itok=2s1A0WVI",
-        "caption": "Colagem mostrando três esferas, um homem trabalhando em um campo de petróleo, um submarino e tubos de ensaio.",
-        "caption_pt": "Colagem mostrando três esferas, um homem trabalhando em um campo de petróleo, um submarino e tubos de ensaio.",
-        "caption_en": "A collage showing three spheres, a man working at an oil field, a submarine and test tubes.",
-        "alt": "Colagem mostrando três esferas, um homem trabalhando em um campo de petróleo, um submarino e tubos de ensaio.",
-        "alt_pt": "Colagem mostrando três esferas, um homem trabalhando em um campo de petróleo, um submarino e tubos de ensaio.",
-        "alt_en": "A collage showing three spheres, a man working at an oil field, a submarine and test tubes."
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/NSF%20State%20and%20Regional%20AI%20Infrastructure%20Hubs.jpg?itok=0uTvzH-d",
-        "caption": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
-        "caption_pt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
-        "caption_en": "NSF State and Regional AI Infrastructure Hubs - Sans Text",
-        "alt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
-        "alt_pt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
-        "alt_en": "NSF State and Regional AI Infrastructure Hubs - Sans Text"
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/2534344_TAMU_AutoLab_3DRender_91_graded_cropped_16x9.jpg?itok=vKr09VyX",
-        "caption": "Uma renderização computacional 3D de um laboratório com robôs e equipamentos laranja em fileiras.",
-        "caption_pt": "Uma renderização computacional 3D de um laboratório com robôs e equipamentos laranja em fileiras.",
-        "caption_en": "A 3D computer rendering of a laboratory with orange robots and equipment in rows.",
-        "alt": "Uma renderização computacional 3D de um laboratório com robôs e equipamentos laranja em fileiras.",
-        "alt_pt": "Uma renderização computacional 3D de um laboratório com robôs e equipamentos laranja em fileiras.",
-        "alt_en": "A 3D computer rendering of a laboratory with orange robots and equipment in rows."
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "NSF lança Projeto Triad para avançar a tecnologia quântica para aplicações do mundo real",
-    "title_pt": "NSF lança Projeto Triad para avançar a tecnologia quântica para aplicações do mundo real",
-    "title_en": "NSF launches Project Triad to advance quantum technology for real-world applications",
-    "sub": "A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar detecção quântica, rede quântica e computação quântica em um único.",
-    "sub_pt": "A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar detecção quântica, rede quântica e computação quântica em um único.",
-    "sub_en": "The U. S. National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking and quantum computing into a.",
-    "excerpt": "A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar detecção quântica, rede quântica e computação quântica em um único sistema operacional.",
-    "excerpt_pt": "A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar detecção quântica, rede quântica e computação quântica em um único sistema operacional.",
-    "excerpt_en": "The U. S. National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking and quantum computing into a single operational.",
-    "body": "<p>A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar detecção quântica, rede quântica e computação quântica em um único sistema operacional. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. A National Science Foundation anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e computação quântica em um único sistema. Isso permite que sensores quânticos detectem detalhes mais sutis e que computadores quânticos resolvam potencialmente problemas que, de outra forma, levariam anos, ou mesmo.</p><p>A combinação de sensores quânticos, redes e computadores em sistemas quânticos integrados abre uma nova fronteira de possibilidades: “Alcançar o Projeto Tríade exigirá um trabalho. O Projeto Triad adota uma abordagem sistemática para identificar quais inovações quânticas estão prontas para escalar, eliminando aquelas que não estão e acelerando as ideias mais.</p><p>Fá-lo através de três programas interligados que reúnem governo, universidades e indústria privada, tornando-se o primeiro esforço para construir um ambiente quântico totalmente. Esses programas também treinam a próxima geração de cientistas e engenheiros quânticos, garantindo que a força de trabalho esteja pronta para aproveitar o que o Project Triad.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de NSF News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/nsf-launches-project-triad-advance-quantum-technology-real\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar detecção quântica, rede quântica e computação quântica em um único sistema operacional. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. A National Science Foundation anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e computação quântica em um único sistema. Isso permite que sensores quânticos detectem detalhes mais sutis e que computadores quânticos resolvam potencialmente problemas que, de outra forma, levariam anos, ou mesmo.</p><p>A combinação de sensores quânticos, redes e computadores em sistemas quânticos integrados abre uma nova fronteira de possibilidades: “Alcançar o Projeto Tríade exigirá um trabalho. O Projeto Triad adota uma abordagem sistemática para identificar quais inovações quânticas estão prontas para escalar, eliminando aquelas que não estão e acelerando as ideias mais.</p><p>Fá-lo através de três programas interligados que reúnem governo, universidades e indústria privada, tornando-se o primeiro esforço para construir um ambiente quântico totalmente. Esses programas também treinam a próxima geração de cientistas e engenheiros quânticos, garantindo que a força de trabalho esteja pronta para aproveitar o que o Project Triad.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de NSF News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/nsf-launches-project-triad-advance-quantum-technology-real\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The U. S. National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking and quantum computing into a single operational. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking and quantum computing into a single. This allows quantum sensors to detect finer details and quantum computers to potentially solve problems that would otherwise take years, or even centuries, to tackle.</p><p>Combining quantum sensors, networks and computers in integrated quantum systems opens a new frontier of possibilities: &quot;Achieving Project Triad will require exceptional. Project Triad takes a systematic approach to identifying which quantum breakthroughs are ready to scale, cutting the ones that aren&#x27;t, and accelerating the most promising ideas.</p><p>It does this through three interlocking programs that bring together government, universities and private industry, making it the first effort to build a fully integrated quantum. These programs also train the next generation of quantum scientists and engineers, ensuring the workforce is ready to build on what Project Triad delivers.</p><p>Navigation and secure communications for first responders and military personnel operating in areas without access to GPS or other satellites. Detecting underground oil, gas and mineral deposits with less exploratory drilling.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Currently in the design phase, NSF plans to accelerate several NSF NQVL projects from design to implementation by December 2026 (pending funding availability). NSF X-Labs are independent teams of researchers, engineers and entrepreneurs pursuing milestone-based federal funding to solve specific scientific challenges, including quantum.</p><p>Because the account originates with NSF News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/nsf-launches-project-triad-advance-quantum-technology-real\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar detecção quântica, rede quântica e.",
-      "Dado-chave: A National Science Foundation anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar detecção quântica, rede quântica e.",
-      "Dado-chave: A National Science Foundation anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The U. S. National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking.",
-      "Key detail: National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking and.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "07 jul 2026",
-    "date_pt": "07 jul 2026",
-    "date_en": "07 Jul 2026",
-    "time": "18h00",
-    "time_pt": "18h00",
-    "time_en": "18:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-07T18:00:07+00:00",
-    "lastModifiedIso": "2026-07-07T18:00:07+00:00",
-    "source": "NSF News",
-    "sourceDomain": "www.nsf.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Física",
-      "NSF News",
-      "Cosmos Week",
-      "NSF lança Projeto Triad para avançar a tecnologia quântica para aplicações do mundo real"
-    ],
-    "keywords_pt": [
-      "Física",
-      "NSF News",
-      "Cosmos Week",
-      "NSF lança Projeto Triad para avançar a tecnologia quântica para aplicações do mundo real"
-    ],
-    "keywords_en": [
-      "Physical",
-      "NSF News",
-      "Cosmos Week",
-      "NSF launches Project Triad to advance quantum technology for real-world applications"
-    ],
-    "srcUrl": "https://www.nsf.gov/news/nsf-launches-project-triad-advance-quantum-technology-real",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 71,
-    "scoreBreakdown": {
-      "source": 80,
-      "evidence": 88,
-      "relevance": 68,
-      "accessibility": 52,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 21,
+    "id": 22,
     "slug": "how-esa-mimics-and-models-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2529,7 +2644,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "nasa-wants-to-float-microscopic-tracers-on-sunlight-to-map-the-edge-of-space",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2657,236 +2772,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
-    "slug": "nine-hundred-telescopes-and-one-chance-a-year",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.universetoday.com/article_images/5890960025-42fefef802-b_20260812_215904.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/weic2213b_20260812_220152.jpg",
-        "caption": "Um espectro de transmissão com cada ponto mostrando quanto de um determinado comprimento de onda o planeta",
-        "caption_pt": "Um espectro de transmissão com cada ponto mostrando quanto de um determinado comprimento de onda o planeta",
-        "caption_en": "One transmission spectrum with each point showing how much of a given wavelength the planet",
-        "alt": "Um espectro de transmissão com cada ponto mostrando quanto de um determinado comprimento de onda o planeta",
-        "alt_pt": "Um espectro de transmissão com cada ponto mostrando quanto de um determinado comprimento de onda o planeta",
-        "alt_en": "One transmission spectrum with each point showing how much of a given wavelength the planet"
-      },
-      {
-        "src": "https://www.universetoday.com/article_images/1-exoplanet_illustration.width-1320_20260812_220304.jpg",
-        "caption": "WASP-39 b, como um artista o imagina. Um mundo com a massa de Saturno orbitando uma estrela semelhante ao Sol a 700 anos-luz de distância, com uma atmosfera que Webb já leu em detalhes. A parte difícil é fazer o mesmo com algo do tamanho e da temperatura de uma casa.",
-        "caption_pt": "WASP-39 b, como um artista o imagina. Um mundo com a massa de Saturno orbitando uma estrela semelhante ao Sol a 700 anos-luz de distância, com uma atmosfera que Webb já leu em detalhes. A parte difícil é fazer o mesmo com algo do tamanho e da temperatura de uma casa.",
-        "caption_en": "WASP-39 b, as an artist imagines it. A Saturn mass world orbiting a Sun like star 700 light years away, with an atmosphere Webb has already read in detail. The hard part is doing the same for something the size and temperature of home.",
-        "alt": "WASP-39 b, como um artista o imagina. Um mundo com a massa de Saturno orbitando uma estrela semelhante ao Sol a 700 anos-luz de distância, com uma atmosfera que Webb já leu em detalhes. A parte difícil é fazer o mesmo com algo do tamanho e da temperatura de uma casa.",
-        "alt_pt": "WASP-39 b, como um artista o imagina. Um mundo com a massa de Saturno orbitando uma estrela semelhante ao Sol a 700 anos-luz de distância, com uma atmosfera que Webb já leu em detalhes. A parte difícil é fazer o mesmo com algo do tamanho e da temperatura de uma casa.",
-        "alt_en": "WASP-39 b, as an artist imagines it. A Saturn mass world orbiting a Sun like star 700 light years away, with an atmosphere Webb has already read in detail. The hard part is doing the same for something the size and temperature of home."
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Novecentos telescópios e uma chance por ano",
-    "title_pt": "Novecentos telescópios e uma chance por ano",
-    "title_en": "Nine Hundred Telescopes and One Chance a Year",
-    "sub": "Ler a atmosfera de outro mundo significa captar a luz das estrelas enquanto ela filtra o ar daquele planeta durante um trânsito. O sinal é cerca de uma parte em um milhão e um.",
-    "sub_pt": "Ler a atmosfera de outro mundo significa captar a luz das estrelas enquanto ela filtra o ar daquele planeta durante um trânsito. O sinal é cerca de uma parte em um milhão e um.",
-    "sub_en": "Reading the atmosphere of another world means catching starlight as it filters through that planet's air during a transit. The signal is about one part in a million and a true.",
-    "excerpt": "Ler a atmosfera de outro mundo significa captar a luz das estrelas enquanto ela filtra o ar daquele planeta durante um trânsito. O sinal é cerca de uma parte em um milhão e um verdadeiro gêmeo da Terra transita apenas uma vez por ano, então você não pode.",
-    "excerpt_pt": "Ler a atmosfera de outro mundo significa captar a luz das estrelas enquanto ela filtra o ar daquele planeta durante um trânsito. O sinal é cerca de uma parte em um milhão e um verdadeiro gêmeo da Terra transita apenas uma vez por ano, então você não pode.",
-    "excerpt_en": "Reading the atmosphere of another world means catching starlight as it filters through that planet's air during a transit. The signal is about one part in a million and a true Earth twin transits only once a year, so you cannot simply.",
-    "body": "<p>Ler a atmosfera de outro mundo significa captar a luz das estrelas enquanto ela filtra o ar daquele planeta durante um trânsito. O sinal é cerca de uma parte em um milhão e um verdadeiro gêmeo da Terra transita apenas uma vez por ano, então você não pode simplesmente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O sinal é de cerca de uma parte em um milhão e um verdadeiro gêmeo da Terra transita apenas uma vez por ano, então você não pode simplesmente repetir a medição até que o ruído. Para um planeta genuíno do tipo Terra orbitando uma estrela como o Sol, esse sinal equivale a aproximadamente uma parte por milhão.</p><p>Mas uma Terra a uma distância semelhante à da Terra de sua estrela transita uma vez por órbita, e uma órbita semelhante à da Terra leva um ano. Um espectro de transmissão com cada ponto mostrando quanto de um determinado comprimento de onda a atmosfera do planeta absorveu ao cruzar sua estrela, e a protuberância é o.</p><p>WASP-39 b é um gigante quente e fofo que transita a cada quatro dias por um gêmeo da Terra que oferece um sinal muito mais fraco, uma vez por ano (Crédito: NASA, ESA, CSA e L. Um mundo com a massa de Saturno orbitando uma estrela semelhante ao Sol a 700 anos-luz de distância, com uma atmosfera que Webb já leu em detalhes.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/nine-hundred-telescopes-and-one-chance-a-year\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Ler a atmosfera de outro mundo significa captar a luz das estrelas enquanto ela filtra o ar daquele planeta durante um trânsito. O sinal é cerca de uma parte em um milhão e um verdadeiro gêmeo da Terra transita apenas uma vez por ano, então você não pode simplesmente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O sinal é de cerca de uma parte em um milhão e um verdadeiro gêmeo da Terra transita apenas uma vez por ano, então você não pode simplesmente repetir a medição até que o ruído. Para um planeta genuíno do tipo Terra orbitando uma estrela como o Sol, esse sinal equivale a aproximadamente uma parte por milhão.</p><p>Mas uma Terra a uma distância semelhante à da Terra de sua estrela transita uma vez por órbita, e uma órbita semelhante à da Terra leva um ano. Um espectro de transmissão com cada ponto mostrando quanto de um determinado comprimento de onda a atmosfera do planeta absorveu ao cruzar sua estrela, e a protuberância é o.</p><p>WASP-39 b é um gigante quente e fofo que transita a cada quatro dias por um gêmeo da Terra que oferece um sinal muito mais fraco, uma vez por ano (Crédito: NASA, ESA, CSA e L. Um mundo com a massa de Saturno orbitando uma estrela semelhante ao Sol a 700 anos-luz de distância, com uma atmosfera que Webb já leu em detalhes.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/nine-hundred-telescopes-and-one-chance-a-year\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Reading the atmosphere of another world means catching starlight as it filters through that planet&#x27;s air during a transit. The signal is about one part in a million and a true Earth twin transits only once a year, so you cannot simply. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The signal is about one part in a million and a true Earth twin transits only once a year, so you cannot simply repeat the measurement until the noise averages away. For a genuine Earth type planet orbiting a star like the Sun, that signal amounts to roughly one part per million.</p><p>But an Earth at an Earth like distance from its star, transits once per orbit, and an Earth like orbit takes a year. One transmission spectrum with each point showing how much of a given wavelength the planet&#x27;s atmosphere absorbed as it crossed its star, and the hump is carbon dioxide.</p><p>WASP-39 b is a hot, puffy giant that transits every four days an Earth twin offers a signal far fainter, once a year (Credit: NASA, ESA, CSA, and L. A Saturn mass world orbiting a Sun like star 700 light years away, with an atmosphere Webb has already read in detail.</p><p>The hard part is doing the same for something the size and temperature of home ) I should say plainly that this comes from a concept paper presented at a conference, not a mission. Detector systematics, instrument stability, and the maddening variability of the stars themselves are named as problems to be solved with the techniques the JWST era has taught.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The PLATO and China&#x27;s Earth 2.0 missions are being built to find the candidate worlds. A Scalable Distributed Space-Telescope Array for Biosignature Spectroscopy Science broadcaster and author.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/nine-hundred-telescopes-and-one-chance-a-year\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Ler a atmosfera de outro mundo significa captar a luz das estrelas enquanto ela filtra o ar daquele planeta durante um trânsito. O sinal é cerca de.",
-      "Dado-chave: O sinal é de cerca de uma parte em um milhão e um verdadeiro gêmeo da Terra transita apenas uma vez por ano, então você não pode simplesmente.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Ler a atmosfera de outro mundo significa captar a luz das estrelas enquanto ela filtra o ar daquele planeta durante um trânsito. O sinal é cerca de.",
-      "Dado-chave: O sinal é de cerca de uma parte em um milhão e um verdadeiro gêmeo da Terra transita apenas uma vez por ano, então você não pode simplesmente.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Reading the atmosphere of another world means catching starlight as it filters through that planet's air during a transit. The signal is about one.",
-      "Key detail: The signal is about one part in a million and a true Earth twin transits only once a year, so you cannot simply repeat the measurement until the.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "12 ago 2026",
-    "date_pt": "12 ago 2026",
-    "date_en": "12 Aug 2026",
-    "time": "22h03",
-    "time_pt": "22h03",
-    "time_en": "22:03 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-12T22:03:44+00:00",
-    "lastModifiedIso": "2026-08-12T22:03:44+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "Universe Today",
-      "Cosmos Week",
-      "Novecentos telescópios e uma chance por ano"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "Universe Today",
-      "Cosmos Week",
-      "Novecentos telescópios e uma chance por ano"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "Universe Today",
-      "Cosmos Week",
-      "Nine hundred telescopes and one chance a year"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/nine-hundred-telescopes-and-one-chance-a-year",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nine-hundred-telescopes-and-one-chance-a-year",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nine-hundred-telescopes-and-one-chance-a-year",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nine-hundred-telescopes-and-one-chance-a-year&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 88,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
     "id": 24,
-    "slug": "nasa-data-helps-commercial-space-plan-living-off-our-moon",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/08/pia00132orig.jpg?w=1083",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Dados da NASA ajudam o plano espacial comercial a viver em nossa lua",
-    "title_pt": "Dados da NASA ajudam o plano espacial comercial a viver em nossa lua",
-    "title_en": "NASA Data Helps Commercial Space Plan Living Off Our Moon",
-    "sub": "A árida paisagem lunar possui alguns recursos importantes, como água e minerais como ferro e titânio, mas extraí-los e processá-los exigirá equipamentos especiais. O local onde.",
-    "sub_pt": "A árida paisagem lunar possui alguns recursos importantes, como água e minerais como ferro e titânio, mas extraí-los e processá-los exigirá equipamentos especiais. O local onde.",
-    "sub_en": "The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment.",
-    "excerpt": "A árida paisagem lunar possui alguns recursos importantes, como água e minerais como ferro e titânio, mas extraí-los e processá-los exigirá equipamentos especiais. O local onde esses recursos podem ser encontrados determinará onde pousar.",
-    "excerpt_pt": "A árida paisagem lunar possui alguns recursos importantes, como água e minerais como ferro e titânio, mas extraí-los e processá-los exigirá equipamentos especiais. O local onde esses recursos podem ser encontrados determinará onde pousar.",
-    "excerpt_en": "The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment. Where those resources can be found will dictate where to land.",
-    "body": "<p>A árida paisagem lunar possui alguns recursos importantes, como água e minerais como ferro e titânio, mas extraí-los e processá-los exigirá equipamentos especiais. O local onde esses recursos podem ser encontrados determinará onde pousar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) A NASA vem tirando fotos da Lua há décadas, coletando uma riqueza de dados. Esta imagem em cores falsas é uma composição de 15 imagens da Lua obtidas através de três filtros de cores no sistema de imagem de estado sólido Galileo da NASA.</p><p>Está usando uma grande quantidade de dados da NASA em vários modelos de computador. “Com 60 anos de dados lunares disponíveis, ajudamos nossos clientes a compreender os fatores ambientais de qualquer local na Lua”, disse Blair DeWitt, CEO da Estação Lunar.</p><p>Combinar dados díspares de diferentes sensores usados ​​pela NASA e outras agências espaciais é um primeiro passo crítico. Um recurso da NASA que a empresa sediada em Cambridge, Massachusetts usou para construir mapas de terreno é o Ames Stereo Pipeline.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A árida paisagem lunar possui alguns recursos importantes, como água e minerais como ferro e titânio, mas extraí-los e processá-los exigirá equipamentos especiais. O local onde esses recursos podem ser encontrados determinará onde pousar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) A NASA vem tirando fotos da Lua há décadas, coletando uma riqueza de dados. Esta imagem em cores falsas é uma composição de 15 imagens da Lua obtidas através de três filtros de cores no sistema de imagem de estado sólido Galileo da NASA.</p><p>Está usando uma grande quantidade de dados da NASA em vários modelos de computador. “Com 60 anos de dados lunares disponíveis, ajudamos nossos clientes a compreender os fatores ambientais de qualquer local na Lua”, disse Blair DeWitt, CEO da Estação Lunar.</p><p>Combinar dados díspares de diferentes sensores usados ​​pela NASA e outras agências espaciais é um primeiro passo crítico. Um recurso da NASA que a empresa sediada em Cambridge, Massachusetts usou para construir mapas de terreno é o Ames Stereo Pipeline.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment. Where those resources can be found will dictate where to land. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 3 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) NASA has been taking pictures of the Moon for decades, collecting a wealth of data. This false-color picture is a composite of 15 images of the Moon taken through three color filters on NASA’s Galileo solid-state imaging system.</p><p>Is using a wealth of NASA data in multiple computer models. “With 60 years of lunar data available to us, we help our clients understand the environmental factors for any given location on the Moon,” said Blair DeWitt, CEO of Lunar Station.</p><p>Combining disparate data from different sensors used by NASA and other space agencies is a critical first step. One NASA resource the Cambridge, Massachusetts-based company used to build terrain maps is the Ames Stereo Pipeline.</p><p>The open-source code automatically processes images captured from satellites, robotic rovers, historical images, and more to create a 3D model revealing features such as rock. To begin to fill that gap, the Lunar Crater Observation and Sensing Satellite was designed to crash its uppers stage into the Moon’s South Pole in 2009.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>If you can’t see Earth at a given location like in the polar regions or the far side of the Moon, you have to come up with a relay strategy,” said DeWitt. “We can do this in part thanks to NASA data.” In MoonHacker’s Radiation Simulator, an electronic version of a company’s rover or satellite, called a digital twin, can be subjected.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A árida paisagem lunar possui alguns recursos importantes, como água e minerais como ferro e titânio, mas extraí-los e processá-los exigirá.",
-      "Dado-chave: 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) A NASA vem tirando fotos da Lua há décadas.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A árida paisagem lunar possui alguns recursos importantes, como água e minerais como ferro e titânio, mas extraí-los e processá-los exigirá.",
-      "Dado-chave: 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) A NASA vem tirando fotos da Lua há décadas.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will.",
-      "Key detail: 3 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) NASA has been taking pictures of the Moon for decades.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "12 ago 2026",
-    "date_pt": "12 ago 2026",
-    "date_en": "12 Aug 2026",
-    "time": "20h40",
-    "time_pt": "20h40",
-    "time_en": "20:40 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-12T20:40:27+00:00",
-    "lastModifiedIso": "2026-08-12T20:40:27+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Dados da NASA ajudam o plano espacial comercial a viver em nossa lua"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Dados da NASA ajudam o plano espacial comercial a viver em nossa lua"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA Data Helps Commercial Space Plan Live on Our Moon"
-    ],
-    "srcUrl": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-data-helps-commercial-space-plan-living-off-our-moon",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-data-helps-commercial-space-plan-living-off-our-moon",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-data-helps-commercial-space-plan-living-off-our-moon&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 25,
     "slug": "nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3004,7 +2890,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 25,
     "slug": "pursuing-a-dream-of-working-for-nasa",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3109,7 +2995,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 26,
     "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3245,7 +3131,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 27,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3381,7 +3267,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 28,
     "slug": "cascade-volcanoes-shrouded-in-smoke",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3510,11 +3396,11 @@ window.postsData = [
       "evidence": 88,
       "relevance": 70,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 30,
+    "id": 29,
     "slug": "two-million-x-ray-sources-and-one-cluster-that-doesn-t-fit",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3638,7 +3524,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 30,
     "slug": "science-campaigns-planned-for-the-august-12th-total-solar-eclipse",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3771,7 +3657,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 31,
     "slug": "did-you-see-the-solar-eclipse-here-s-what-we-saw-from-around-the-world",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3904,7 +3790,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 32,
     "slug": "prepare-for-the-lunar-eclipse-on-august-27-28-2026",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4040,7 +3926,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 33,
     "slug": "a-perfectly-timed-perseid-meteor-shower",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4173,7 +4059,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 34,
     "slug": "the-helix-nebula-is-hurling-clumps-of-gas-through-space",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4306,12 +4192,22 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 35,
     "slug": "iris-reinforced-and-accelerated-as-implementation-advances",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/iris2_for_eu_secure_connectivity/27408197-4-eng-GB/IRIS2_for_EU_secure_connectivity_card_full.png",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/iris2_full_speed_ahead/27408150-4-eng-GB/IRIS2_full_speed_ahead_article.png",
+        "caption": "IRIS² a toda velocidade",
+        "caption_pt": "IRIS² a toda velocidade",
+        "caption_en": "IRIS² full speed ahead",
+        "alt": "IRIS² a toda velocidade",
+        "alt_pt": "IRIS² a toda velocidade",
+        "alt_en": "IRIS² full speed ahead"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "IRIS² reforçado e acelerado à medida que a implementação avança",
@@ -4323,9 +4219,9 @@ window.postsData = [
     "excerpt": "Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a nova constelação de satélites emblemática da União Europeia. O acordo, entre outros.",
     "excerpt_pt": "Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a nova constelação de satélites emblemática da União Europeia. O acordo, entre outros.",
     "excerpt_en": "On 7 August, the European Commission and the SpaceRISE consortium concluded negotiations and signed an implementation agreement to roll out IRIS², the European Union’s new flagship satellite constellation. The agreement, among other.",
-    "body": "<p>Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a nova constelação de satélites emblemática da União Europeia. O acordo, entre outros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O acordo, entre outras coisas, acrescenta 66 satélites em órbita baixa da Terra ao programa, elevando a constelação principal para 348 satélites e passando-a do planeamento para a.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a nova constelação de satélites emblemática da União Europeia. O acordo, entre outros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O acordo, entre outras coisas, acrescenta 66 satélites em órbita baixa da Terra ao programa, elevando a constelação principal para 348 satélites e passando-a do planeamento para a.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>On 7 August, the European Commission and the SpaceRISE consortium concluded negotiations and signed an implementation agreement to roll out IRIS², the European Union’s new flagship satellite constellation. The agreement, among other. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The agreement, among other things, adds 66 satellites into low Earth orbit to the programme, bringing the main constellation to 348 satellites, and moving it from planning to.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a nova constelação de satélites emblemática da União Europeia. O acordo, entre outros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O acordo, entre outras coisas, acrescenta 66 satélites em órbita baixa da Terra ao programa, elevando a constelação principal para 348 satélites e passando-a do planeamento para a. A ESA desempenha um papel fundamental na implementação técnica do IRIS², supervisionando o desenvolvimento, qualificação e validação em órbita da constelação, e traduzindo as.</p><p>Em cooperação com a Comissão Europeia e a SpaceRISE, a ESA garantirá a entrega bem-sucedida de um sistema de conectividade seguro e resiliente para fortalecer ainda mais a. Os próximos passos concretos já estão em vigor para alcançar os primeiros lançamentos até 2029.</p><p>A Comissão, a ESA e a Agência da UE para o Programa Espacial, juntamente com o consórcio SpaceRISE e parceiros industriais europeus, definiram os próximos passos necessários para.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a nova constelação de satélites emblemática da União Europeia. O acordo, entre outros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O acordo, entre outras coisas, acrescenta 66 satélites em órbita baixa da Terra ao programa, elevando a constelação principal para 348 satélites e passando-a do planeamento para a. A ESA desempenha um papel fundamental na implementação técnica do IRIS², supervisionando o desenvolvimento, qualificação e validação em órbita da constelação, e traduzindo as.</p><p>Em cooperação com a Comissão Europeia e a SpaceRISE, a ESA garantirá a entrega bem-sucedida de um sistema de conectividade seguro e resiliente para fortalecer ainda mais a. Os próximos passos concretos já estão em vigor para alcançar os primeiros lançamentos até 2029.</p><p>A Comissão, a ESA e a Agência da UE para o Programa Espacial, juntamente com o consórcio SpaceRISE e parceiros industriais europeus, definiram os próximos passos necessários para.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>On 7 August, the European Commission and the SpaceRISE consortium concluded negotiations and signed an implementation agreement to roll out IRIS², the European Union’s new flagship satellite constellation. The agreement, among other. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The agreement, among other things, adds 66 satellites into low Earth orbit to the programme, bringing the main constellation to 348 satellites, and moving it from planning to. ESA plays a key role in the IRIS² technical implementation, overseeing the constellation’s development, qualification and in-orbit validation, and translating the programme’s.</p><p>In cooperation with the European Commission and SpaceRISE, ESA will ensure the successful delivery of a secure and resilient connectivity system to further strengthen Europe&#x27;s. Concrete next steps are now in place to achieve first launches by 2029.</p><p>The Commission, ESA and the EU Agency for the Space Programme, together with the SpaceRISE consortium and European industrial partners, have defined the next steps needed to. These include finalising the detailed design of the satellite constellation, preparing the construction of satellites and secure ground infrastructure, securing launch services.</p><p>The future constellation will comprise 348 satellites, consisting of 330 satellites in low Earth orbit and 18 satellites in medium Earth orbit, with additional optional elements. A dedicated layer of an additional 66 high-low Earth orbit satellites will strengthen capabilities for defence, security and emergency services further enhancing its architecture.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>IRIS² will be built through a strong Team Europe approach, combining the expertise of the European Commission, EU Member States, ESA, the European Union Agency for the Space. Funding will come from a combination of EU budget resources for 2028, 2034 and additional investments from EU Member States and other countries.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o IRIS², a.",
       "Dado-chave: Em 7 de agosto, a Comissão Europeia e o consórcio SpaceRISE concluíram as negociações e assinaram um acordo de implementação para lançar o.",
@@ -4411,7 +4307,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 36,
     "slug": "aquila-the-eagle-soars-along-the-milky-way",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4532,7 +4428,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 37,
     "slug": "new-nsf-initiative-aims-to-unlock-dataset-value-for-ai-enabled-scientific-discovery",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4665,7 +4561,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 38,
     "slug": "new-nsf-state-and-regional-ai-infrastructure-hubs-will-power-ai-enabled-scientific-research-acro",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4798,7 +4694,7 @@ window.postsData = [
     }
   },
   {
-    "id": 40,
+    "id": 39,
     "slug": "statement-from-nsf-chief-of-staff-brian-stone-performing-the-duties-of-the-nsf-director-on-advan",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4936,6 +4832,139 @@ window.postsData = [
       "evidence": 88,
       "relevance": 74,
       "accessibility": 44,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 40,
+    "slug": "nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/NSF_Project_Triad_Hero_1200x468.png?itok=x5jUBvdL",
+    "inline_images": [
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/news_hero_mobile_600x352_/s3/media_hub/NSF_Project_Triad_Hero_1200x468.png.webp?itok=2s1A0WVI",
+        "caption": "Colagem mostrando três esferas, um homem trabalhando em um campo de petróleo, um submarino e tubos de ensaio.",
+        "caption_pt": "Colagem mostrando três esferas, um homem trabalhando em um campo de petróleo, um submarino e tubos de ensaio.",
+        "caption_en": "A collage showing three spheres, a man working at an oil field, a submarine and test tubes.",
+        "alt": "Colagem mostrando três esferas, um homem trabalhando em um campo de petróleo, um submarino e tubos de ensaio.",
+        "alt_pt": "Colagem mostrando três esferas, um homem trabalhando em um campo de petróleo, um submarino e tubos de ensaio.",
+        "alt_en": "A collage showing three spheres, a man working at an oil field, a submarine and test tubes."
+      },
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/NSF%20State%20and%20Regional%20AI%20Infrastructure%20Hubs.jpg?itok=0uTvzH-d",
+        "caption": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
+        "caption_pt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
+        "caption_en": "NSF State and Regional AI Infrastructure Hubs - Sans Text",
+        "alt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
+        "alt_pt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
+        "alt_en": "NSF State and Regional AI Infrastructure Hubs - Sans Text"
+      },
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/2534344_TAMU_AutoLab_3DRender_91_graded_cropped_16x9.jpg?itok=vKr09VyX",
+        "caption": "Uma renderização computacional 3D de um laboratório com robôs e equipamentos laranja em fileiras.",
+        "caption_pt": "Uma renderização computacional 3D de um laboratório com robôs e equipamentos laranja em fileiras.",
+        "caption_en": "A 3D computer rendering of a laboratory with orange robots and equipment in rows.",
+        "alt": "Uma renderização computacional 3D de um laboratório com robôs e equipamentos laranja em fileiras.",
+        "alt_pt": "Uma renderização computacional 3D de um laboratório com robôs e equipamentos laranja em fileiras.",
+        "alt_en": "A 3D computer rendering of a laboratory with orange robots and equipment in rows."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "NSF lança Projeto Triad para avançar a tecnologia quântica para aplicações do mundo real",
+    "title_pt": "NSF lança Projeto Triad para avançar a tecnologia quântica para aplicações do mundo real",
+    "title_en": "NSF launches Project Triad to advance quantum technology for real-world applications",
+    "sub": "A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e computação quântica em um único.",
+    "sub_pt": "A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e computação quântica em um único.",
+    "sub_en": "The U. S. National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking and quantum computing into a.",
+    "excerpt": "A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e computação quântica em um único sistema operacional.",
+    "excerpt_pt": "A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e computação quântica em um único sistema operacional.",
+    "excerpt_en": "The U. S. National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking and quantum computing into a single operational.",
+    "body": "<p>A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e computação quântica em um único sistema operacional. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. A National Science Foundation anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e computação quântica em um único sistema. Isso permite que sensores quânticos detectem detalhes mais sutis e que computadores quânticos resolvam potencialmente problemas que, de outra forma, levariam anos, ou mesmo.</p><p>A combinação de sensores quânticos, redes e computadores em sistemas quânticos integrados abre uma nova fronteira de possibilidades: “Alcançar o Projeto Tríade exigirá um trabalho. O Projeto Triad adota uma abordagem sistemática para identificar quais inovações quânticas estão prontas para escalar, eliminando aquelas que não estão e acelerando as ideias mais.</p><p>Fá-lo através de três programas interligados que reúnem governo, universidades e indústria privada, tornando-se o primeiro esforço para construir um ambiente quântico totalmente. Esses programas também treinam a próxima geração de cientistas e engenheiros quânticos, garantindo que a força de trabalho esteja pronta para aproveitar o que o Project Triad.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de NSF News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/nsf-launches-project-triad-advance-quantum-technology-real\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e computação quântica em um único sistema operacional. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. A National Science Foundation anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e computação quântica em um único sistema. Isso permite que sensores quânticos detectem detalhes mais sutis e que computadores quânticos resolvam potencialmente problemas que, de outra forma, levariam anos, ou mesmo.</p><p>A combinação de sensores quânticos, redes e computadores em sistemas quânticos integrados abre uma nova fronteira de possibilidades: “Alcançar o Projeto Tríade exigirá um trabalho. O Projeto Triad adota uma abordagem sistemática para identificar quais inovações quânticas estão prontas para escalar, eliminando aquelas que não estão e acelerando as ideias mais.</p><p>Fá-lo através de três programas interligados que reúnem governo, universidades e indústria privada, tornando-se o primeiro esforço para construir um ambiente quântico totalmente. Esses programas também treinam a próxima geração de cientistas e engenheiros quânticos, garantindo que a força de trabalho esteja pronta para aproveitar o que o Project Triad.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de NSF News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/nsf-launches-project-triad-advance-quantum-technology-real\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The U. S. National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking and quantum computing into a single operational. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking and quantum computing into a single. This allows quantum sensors to detect finer details and quantum computers to potentially solve problems that would otherwise take years, or even centuries, to tackle.</p><p>Combining quantum sensors, networks and computers in integrated quantum systems opens a new frontier of possibilities: &quot;Achieving Project Triad will require exceptional. Project Triad takes a systematic approach to identifying which quantum breakthroughs are ready to scale, cutting the ones that aren&#x27;t, and accelerating the most promising ideas.</p><p>It does this through three interlocking programs that bring together government, universities and private industry, making it the first effort to build a fully integrated quantum. These programs also train the next generation of quantum scientists and engineers, ensuring the workforce is ready to build on what Project Triad delivers.</p><p>Navigation and secure communications for first responders and military personnel operating in areas without access to GPS or other satellites. Detecting underground oil, gas and mineral deposits with less exploratory drilling.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Currently in the design phase, NSF plans to accelerate several NSF NQVL projects from design to implementation by December 2026 (pending funding availability). NSF X-Labs are independent teams of researchers, engineers and entrepreneurs pursuing milestone-based federal funding to solve specific scientific challenges, including quantum.</p><p>Because the account originates with NSF News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/nsf-launches-project-triad-advance-quantum-technology-real\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e.",
+      "Dado-chave: A National Science Foundation anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e.",
+      "Dado-chave: A National Science Foundation anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The U. S. National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking.",
+      "Key detail: National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking and.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "07 jul 2026",
+    "date_pt": "07 jul 2026",
+    "date_en": "07 Jul 2026",
+    "time": "18h00",
+    "time_pt": "18h00",
+    "time_en": "18:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-07T18:00:07+00:00",
+    "lastModifiedIso": "2026-07-07T18:00:07+00:00",
+    "source": "NSF News",
+    "sourceDomain": "www.nsf.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "NSF News",
+      "Cosmos Week",
+      "NSF lança Projeto Triad para avançar a tecnologia quântica para aplicações do mundo real"
+    ],
+    "keywords_pt": [
+      "Física",
+      "NSF News",
+      "Cosmos Week",
+      "NSF lança Projeto Triad para avançar a tecnologia quântica para aplicações do mundo real"
+    ],
+    "keywords_en": [
+      "Physical",
+      "NSF News",
+      "Cosmos Week",
+      "NSF launches Project Triad to advance quantum technology for real-world applications"
+    ],
+    "srcUrl": "https://www.nsf.gov/news/nsf-launches-project-triad-advance-quantum-technology-real",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 71,
+    "scoreBreakdown": {
+      "source": 80,
+      "evidence": 88,
+      "relevance": 68,
+      "accessibility": 52,
       "novelty": 46
     }
   }

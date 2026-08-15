@@ -40,14 +40,14 @@ window.postsData = [
     "date": "15 ago 2026",
     "date_pt": "15 ago 2026",
     "date_en": "15 Aug 2026",
-    "time": "16h35",
-    "time_pt": "16h35",
-    "time_en": "16:35 UTC",
+    "time": "16h57",
+    "time_pt": "16h57",
+    "time_en": "16:57 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-15T16:35:54.115178+00:00",
-    "lastModifiedIso": "2026-08-15T16:35:54.115178+00:00",
+    "publishedIso": "2026-08-15T16:57:03.397423+00:00",
+    "lastModifiedIso": "2026-08-15T16:57:03.397423+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "15 ago 2026",
     "date_pt": "15 ago 2026",
     "date_en": "15 Aug 2026",
-    "time": "16h35",
-    "time_pt": "16h35",
-    "time_en": "16:35 UTC",
+    "time": "16h57",
+    "time_pt": "16h57",
+    "time_en": "16:57 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-15T16:35:54.115118+00:00",
-    "lastModifiedIso": "2026-08-15T16:35:54.115118+00:00",
+    "publishedIso": "2026-08-15T16:57:03.397360+00:00",
+    "lastModifiedIso": "2026-08-15T16:57:03.397360+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,14 +250,14 @@ window.postsData = [
     "date": "15 ago 2026",
     "date_pt": "15 ago 2026",
     "date_en": "15 Aug 2026",
-    "time": "16h35",
-    "time_pt": "16h35",
-    "time_en": "16:35 UTC",
+    "time": "16h57",
+    "time_pt": "16h57",
+    "time_en": "16:57 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-15T16:35:54.115067+00:00",
-    "lastModifiedIso": "2026-08-15T16:35:54.115067+00:00",
+    "publishedIso": "2026-08-15T16:57:03.397303+00:00",
+    "lastModifiedIso": "2026-08-15T16:57:03.397303+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -358,14 +358,14 @@ window.postsData = [
     "date": "15 ago 2026",
     "date_pt": "15 ago 2026",
     "date_en": "15 Aug 2026",
-    "time": "16h35",
-    "time_pt": "16h35",
-    "time_en": "16:35 UTC",
+    "time": "16h57",
+    "time_pt": "16h57",
+    "time_en": "16:57 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-15T16:35:54.114993+00:00",
-    "lastModifiedIso": "2026-08-15T16:35:54.114993+00:00",
+    "publishedIso": "2026-08-15T16:57:03.397249+00:00",
+    "lastModifiedIso": "2026-08-15T16:57:03.397249+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -463,14 +463,14 @@ window.postsData = [
     "date": "15 ago 2026",
     "date_pt": "15 ago 2026",
     "date_en": "15 Aug 2026",
-    "time": "16h35",
-    "time_pt": "16h35",
-    "time_en": "16:35 UTC",
+    "time": "16h57",
+    "time_pt": "16h57",
+    "time_en": "16:57 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-15T16:35:54.114941+00:00",
-    "lastModifiedIso": "2026-08-15T16:35:54.114941+00:00",
+    "publishedIso": "2026-08-15T16:57:03.397195+00:00",
+    "lastModifiedIso": "2026-08-15T16:57:03.397195+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -531,6 +531,139 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "early-universe-plasma-may-have-stopped-dark-photons-from-heating-cosmos",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2025/early-universe.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2025/early-universe.jpg",
+        "caption": "universo primitivo",
+        "caption_pt": "universo primitivo",
+        "caption_en": "early universe",
+        "alt": "universo primitivo",
+        "alt_pt": "universo primitivo",
+        "alt_en": "early universe"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/4b5d8e1e5856f832.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/550572b11d892f25.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "O plasma do universo primitivo pode ter impedido que os fótons escuros aquecessem o cosmos",
+    "title_pt": "O plasma do universo primitivo pode ter impedido que os fótons escuros aquecessem o cosmos",
+    "title_en": "Early-universe plasma may have stopped dark photons from heating cosmos",
+    "sub": "Um novo artigo publicado na Physical Review Letters revela que um dos principais candidatos à matéria escura, o hipotético “fóton escuro” – não teria aquecido o universo primitivo.",
+    "sub_pt": "Um novo artigo publicado na Physical Review Letters revela que um dos principais candidatos à matéria escura, o hipotético “fóton escuro” – não teria aquecido o universo primitivo.",
+    "sub_en": "A new paper published in Physical Review Letters reveals that a leading dark matter candidate, the hypothetical \"dark photon\"—would not have heated the early universe as.",
+    "excerpt": "Um novo artigo publicado na Physical Review Letters revela que um dos principais candidatos à matéria escura, o hipotético “fóton escuro” – não teria aquecido o universo primitivo como se pensava anteriormente. A descoberta abre uma vasta região para.",
+    "excerpt_pt": "Um novo artigo publicado na Physical Review Letters revela que um dos principais candidatos à matéria escura, o hipotético “fóton escuro” – não teria aquecido o universo primitivo como se pensava anteriormente. A descoberta abre uma vasta região para.",
+    "excerpt_en": "A new paper published in Physical Review Letters reveals that a leading dark matter candidate, the hypothetical \"dark photon\"—would not have heated the early universe as previously thought. The finding opens a vast region for experimental.",
+    "body": "<p>Um novo artigo publicado na Physical Review Letters revela que um dos principais candidatos à matéria escura, o hipotético “fóton escuro”, não teria aquecido o universo primitivo como se pensava anteriormente. A descoberta abre uma vasta região para experimentação. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Editado por Sadie Harley, revisado por Alexander Pol Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: Scott Lord da Pexels Um novo.</p><p>A descoberta é o resultado de uma pesquisa interdisciplinar realizada pelos pesquisadores do Perimeter Institute, Junwu Huang e Mohamad Shalaby, em colaboração com Anson Hook, da. Novas simulações computacionais, no entanto, mostram que este processo de conversão se desliga antes que um aquecimento significativo possa ocorrer, o que significa que estas.</p><p>Estas exclusões diziam que a força da matéria escura tinha de ser 108 vezes mais fraca do que realmente pode ser,&quot; diz Hook.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-early-universe-plasma-dark-photons.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Um novo artigo publicado na Physical Review Letters revela que um dos principais candidatos à matéria escura, o hipotético “fóton escuro”, não teria aquecido o universo primitivo como se pensava anteriormente. A descoberta abre uma vasta região para experimentação. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Editado por Sadie Harley, revisado por Alexander Pol Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: Scott Lord da Pexels Um novo.</p><p>A descoberta é o resultado de uma pesquisa interdisciplinar realizada pelos pesquisadores do Perimeter Institute, Junwu Huang e Mohamad Shalaby, em colaboração com Anson Hook, da. Novas simulações computacionais, no entanto, mostram que este processo de conversão se desliga antes que um aquecimento significativo possa ocorrer, o que significa que estas.</p><p>Estas exclusões diziam que a força da matéria escura tinha de ser 108 vezes mais fraca do que realmente pode ser,&quot; diz Hook.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-early-universe-plasma-dark-photons.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A new paper published in Physical Review Letters reveals that a leading dark matter candidate, the hypothetical &quot;dark photon&quot;—would not have heated the early universe as previously thought. The finding opens a vast region for experimental. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. Edited by Sadie Harley, reviewed by Alexander Pol This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Credit: Scott Lord from Pexels A new paper published in.</p><p>The discovery is the result of cross-disciplinary research by Perimeter Institute researchers Junwu Huang and Mohamad Shalaby in collaboration with Anson Hook at the University of. New computer simulations, however, show that this conversion process shuts itself off before significant heating can occur, meaning these excluded ranges could hold the key to.</p><p>These exclusions were saying the strength of dark matter had to be 10 8 times weaker than it actually can be,&quot; says Hook. This paper opens up a lot of new possibilities to look for dark matter.&quot; In general, researchers treated the conversion from dark photon to ordinary light as linear and assumed.</p><p>The treatment for the last 15 years is a linear treatment. And I realized it&#x27;s not possible.&quot; The discovery took Huang and Hook back to old textbooks to refamiliarize themselves with plasma physics.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>By calculating the early universe plasma correctly, experiments will probe new parameter spaces and potentially actually see something,&quot; explains Shalaby. By encouraging research that includes experts from different fields, physicists can tackle assumptions and push developments in how we understand the universe.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-early-universe-plasma-dark-photons.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Um novo artigo publicado na Physical Review Letters revela que um dos principais candidatos à matéria escura, o hipotético “fóton escuro”, não teria.",
+      "Dado-chave: Um novo artigo publicado na Physical Review Letters revela que um dos principais candidatos à matéria escura, o hipotético “fóton escuro”, não.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Um novo artigo publicado na Physical Review Letters revela que um dos principais candidatos à matéria escura, o hipotético “fóton escuro”, não teria.",
+      "Dado-chave: Um novo artigo publicado na Physical Review Letters revela que um dos principais candidatos à matéria escura, o hipotético “fóton escuro”, não.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: A new paper published in Physical Review Letters reveals that a leading dark matter candidate, the hypothetical \"dark photon\"—would not have heated.",
+      "Key detail: A new paper published in Physical Review Letters reveals that a leading dark matter candidate, the hypothetical \"dark photon\"—would not have.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "15 ago 2026",
+    "date_pt": "15 ago 2026",
+    "date_en": "15 Aug 2026",
+    "time": "16h40",
+    "time_pt": "16h40",
+    "time_en": "16:40 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-15T16:40:01+00:00",
+    "lastModifiedIso": "2026-08-15T16:40:01+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "O plasma do universo primitivo pode ter impedido que os fótons escuros aquecessem o cosmos"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "O plasma do universo primitivo pode ter impedido que os fótons escuros aquecessem o cosmos"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Plasma from the early universe may have prevented dark photons from heating the cosmos"
+    ],
+    "srcUrl": "https://phys.org/news/2026-08-early-universe-plasma-dark-photons.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=early-universe-plasma-may-have-stopped-dark-photons-from-heating-cosmos",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=early-universe-plasma-may-have-stopped-dark-photons-from-heating-cosmos",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=early-universe-plasma-may-have-stopped-dark-photons-from-heating-cosmos&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "neptune-s-tiny-moons-tell-the-story-of-triton-s-destructive-capture",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -649,7 +782,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -663,7 +796,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "sun-news-a-sun-blast-is-headed-earth-s-way",
     "cat": "Física",
     "catCls": "fisica",
@@ -781,7 +914,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "were-these-polygonal-cracks-on-venus-once-on-a-seafloor",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -896,7 +1029,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "visible-planets-and-night-sky-guide-for-august",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -991,121 +1124,6 @@ window.postsData = [
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-august",
     "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-august",
     "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-august&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 68,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 62,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "deep-partial-lunar-eclipse-of-the-august-27-28-sturgeon-moon",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2026/08/Lunar-eclipse-August-28-visibility.jpeg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Eclipse lunar parcial profundo da Lua do Esturjão de 27 a 28 de agosto",
-    "title_pt": "Eclipse lunar parcial profundo da Lua do Esturjão de 27 a 28 de agosto",
-    "title_en": "Deep partial lunar eclipse of the August 27-28 Sturgeon Moon",
-    "sub": "Um profundo eclipse lunar parcial ocorre na Lua Cheia do Esturjão de 27 a 28 de agosto de 2026. Está bem posicionado para o Hemisfério Ocidental. O post Eclipse lunar parcial.",
-    "sub_pt": "Um profundo eclipse lunar parcial ocorre na Lua Cheia do Esturjão de 27 a 28 de agosto de 2026. Está bem posicionado para o Hemisfério Ocidental. O post Eclipse lunar parcial.",
-    "sub_en": "A deep partial lunar eclipse takes place of the full Sturgeon Moon on August 27-28, 2026, It's well placed for the Western Hemisphere. The post Deep partial lunar eclipse of the.",
-    "excerpt": "Um profundo eclipse lunar parcial ocorre na Lua Cheia do Esturjão de 27 a 28 de agosto de 2026. Está bem posicionado para o Hemisfério Ocidental. O post Eclipse lunar parcial profundo da Lua do Esturjão de 27 a 28 de agosto apareceu pela primeira vez no.",
-    "excerpt_pt": "Um profundo eclipse lunar parcial ocorre na Lua Cheia do Esturjão de 27 a 28 de agosto de 2026. Está bem posicionado para o Hemisfério Ocidental. O post Eclipse lunar parcial profundo da Lua do Esturjão de 27 a 28 de agosto apareceu pela primeira vez no.",
-    "excerpt_en": "A deep partial lunar eclipse takes place of the full Sturgeon Moon on August 27-28, 2026, It's well placed for the Western Hemisphere. The post Deep partial lunar eclipse of the August 27-28 Sturgeon Moon first appeared on EarthSky.",
-    "body": "<p>Um profundo eclipse lunar parcial ocorre na Lua Cheia do Esturjão de 27 a 28 de agosto de 2026. Está bem posicionado para o Hemisfério Ocidental. O post Eclipse lunar parcial profundo da Lua do Esturjão de 27 a 28 de agosto apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Um profundo eclipse lunar parcial ocorre na Lua Cheia do Esturjão de 27 a 28 de agosto de 2026. Está bem posicionado para o Hemisfério Ocidental. A crista da Lua Cheia de Esturjão de agosto cai às 4h18 UTC de 28 de agosto (23h18 horário do leste dos EUA).</p><p>No eclipse máximo, cerca de 96% da Lua entrará na sombra umbral escura da Terra. Na maior parte, de 27 a 28 de agosto de 2026, o eclipse lunar aparecerá quase como um eclipse lunar total da lua.</p><p>No eclipse máximo, cerca de 96% do disco da Lua ficará dentro da sombra umbral escura da Terra. “A lua ficou vermelha quando foi eclipsada em 90%”. Obrigado, Roberto.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/partial-lunar-eclipse-of-the-august-27-28-2026/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Um profundo eclipse lunar parcial ocorre na Lua Cheia do Esturjão de 27 a 28 de agosto de 2026. Está bem posicionado para o Hemisfério Ocidental. O post Eclipse lunar parcial profundo da Lua do Esturjão de 27 a 28 de agosto apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Um profundo eclipse lunar parcial ocorre na Lua Cheia do Esturjão de 27 a 28 de agosto de 2026. Está bem posicionado para o Hemisfério Ocidental. A crista da Lua Cheia de Esturjão de agosto cai às 4h18 UTC de 28 de agosto (23h18 horário do leste dos EUA).</p><p>No eclipse máximo, cerca de 96% da Lua entrará na sombra umbral escura da Terra. Na maior parte, de 27 a 28 de agosto de 2026, o eclipse lunar aparecerá quase como um eclipse lunar total da lua.</p><p>No eclipse máximo, cerca de 96% do disco da Lua ficará dentro da sombra umbral escura da Terra. “A lua ficou vermelha quando foi eclipsada em 90%”. Obrigado, Roberto.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/partial-lunar-eclipse-of-the-august-27-28-2026/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A deep partial lunar eclipse takes place of the full Sturgeon Moon on August 27-28, 2026, It&#x27;s well placed for the Western Hemisphere. The post Deep partial lunar eclipse of the August 27-28 Sturgeon Moon first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. A deep partial lunar eclipse takes place of the full Sturgeon Moon on August 27-28, 2026, It&#x27;s well placed for the Western Hemisphere. The crest of the August full Sturgeon Moon falls at 4: 18 UTC on August 28 (11: 18 p. m.</p><p>At maximum eclipse, about 96% of the moon will enter Earth’s dark umbral shadow. For the most part, the August 27-28, 2026, lunar eclipse will appear nearly as a total lunar eclipse of the moon.</p><p>At maximum eclipse, about 96% of the moon’s disk will lie inside Earth’s dark umbral shadow. “The moon turned red once it was 90% eclipsed.” Thank you, Robert.</p><p>And the moon will be in Earth’s dark shadow, for the partial eclipse, for 199 minutes. Why no eclipse at every full and new moon.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Moon and Soros The moment of greatest eclipse takes place 5.8 days after the moon reaches apogee, its farthest point from Earth for the month. The instant of greatest eclipse, when the axis of the moon’s shadow cone passes closest to Earth’s center, takes place at 4: 12 UTC on August 28.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/partial-lunar-eclipse-of-the-august-27-28-2026/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Um profundo eclipse lunar parcial ocorre na Lua Cheia do Esturjão de 27 a 28 de agosto de 2026. Está bem posicionado para o Hemisfério Ocidental. O.",
-      "Dado-chave: Um profundo eclipse lunar parcial ocorre na Lua Cheia do Esturjão de 27 a 28 de agosto de 2026. Está bem posicionado para o Hemisfério Ocidental.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Um profundo eclipse lunar parcial ocorre na Lua Cheia do Esturjão de 27 a 28 de agosto de 2026. Está bem posicionado para o Hemisfério Ocidental. O.",
-      "Dado-chave: Um profundo eclipse lunar parcial ocorre na Lua Cheia do Esturjão de 27 a 28 de agosto de 2026. Está bem posicionado para o Hemisfério Ocidental.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A deep partial lunar eclipse takes place of the full Sturgeon Moon on August 27-28, 2026, It's well placed for the Western Hemisphere. The post Deep.",
-      "Key detail: A deep partial lunar eclipse takes place of the full Sturgeon Moon on August 27-28, 2026, It's well placed for the Western Hemisphere.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "15 ago 2026",
-    "date_pt": "15 ago 2026",
-    "date_en": "15 Aug 2026",
-    "time": "06h53",
-    "time_pt": "06h53",
-    "time_en": "06:53 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-15T06:53:05+00:00",
-    "lastModifiedIso": "2026-08-15T06:53:05+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Eclipse lunar parcial profundo da Lua do Esturjão de 27 a 28 de agosto"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Eclipse lunar parcial profundo da Lua do Esturjão de 27 a 28 de agosto"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "Deep partial lunar eclipse of the Sturgeon Moon on August 27-28"
-    ],
-    "srcUrl": "https://earthsky.org/astronomy-essentials/partial-lunar-eclipse-of-the-august-27-28-2026/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=deep-partial-lunar-eclipse-of-the-august-27-28-sturgeon-moon",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=deep-partial-lunar-eclipse-of-the-august-27-28-sturgeon-moon",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=deep-partial-lunar-eclipse-of-the-august-27-28-sturgeon-moon&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -1646,142 +1664,6 @@ window.postsData = [
   },
   {
     "id": 15,
-    "slug": "starwashing-how-space-companies-use-the-greenwashing-playbook-while-causing-environmental-damage",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/space-launch.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/space-launch.jpg",
-        "caption": "lançamento espacial",
-        "caption_pt": "lançamento espacial",
-        "caption_en": "space launch",
-        "alt": "lançamento espacial",
-        "alt_pt": "lançamento espacial",
-        "alt_en": "space launch"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f6b420961b46f94b.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/550572b11d892f25.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "'Starwashing': como as empresas espaciais usam o manual de greenwashing enquanto causam danos ambientais",
-    "title_pt": "'Starwashing': como as empresas espaciais usam o manual de greenwashing enquanto causam danos ambientais",
-    "title_en": "'Starwashing': How space companies use the greenwashing playbook while causing environmental damage",
-    "sub": "Das plataformas de lançamento à órbita baixa da Terra e muito mais, as empresas espaciais e as suas afiliadas estão a implementar uma táctica de marketing familiar, com uma nova.",
-    "sub_pt": "Das plataformas de lançamento à órbita baixa da Terra e muito mais, as empresas espaciais e as suas afiliadas estão a implementar uma táctica de marketing familiar, com uma nova.",
-    "sub_en": "From launchpads to low Earth orbit and beyond, space companies and their affiliates are deploying a familiar marketing tactic, with a new twist. In a space economy projected to.",
-    "excerpt": "Das plataformas de lançamento à órbita baixa da Terra e muito mais, as empresas espaciais e as suas afiliadas estão a implementar uma táctica de marketing familiar, com uma nova reviravolta. Numa economia espacial projetada para atingir 1,8 biliões de dólares.",
-    "excerpt_pt": "Das plataformas de lançamento à órbita baixa da Terra e muito mais, as empresas espaciais e as suas afiliadas estão a implementar uma táctica de marketing familiar, com uma nova reviravolta. Numa economia espacial projetada para atingir 1,8 biliões de dólares.",
-    "excerpt_en": "From launchpads to low Earth orbit and beyond, space companies and their affiliates are deploying a familiar marketing tactic, with a new twist. In a space economy projected to reach US$1.8 trillion by 2035, they sell space exploration.",
-    "body": "<p>Das plataformas de lançamento à órbita baixa da Terra e muito mais, as empresas espaciais e as suas afiliadas estão a implementar uma táctica de marketing familiar, com uma nova reviravolta. Numa economia espacial projetada para atingir 1,8 biliões de dólares até 2035, eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Numa economia espacial que se prevê atingir 1,8 biliões de dólares até 2035, vendem narrativas de exploração espacial apelando ao desejo de expandir a humanidade para além da. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: SpaceX da Pexels Das plataformas.</p><p>Mas as práticas de greenwashing não terminam com aqueles que se preocupam com a Terra. Como pesquisadora de serviço social interessada nas consequências do comercialismo dentro e fora da Terra, estudei como as empresas espaciais estão usando estratégias semelhantes.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-starwashing-space-companies-greenwashing-playbook.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Das plataformas de lançamento à órbita baixa da Terra e muito mais, as empresas espaciais e as suas afiliadas estão a implementar uma táctica de marketing familiar, com uma nova reviravolta. Numa economia espacial projetada para atingir 1,8 biliões de dólares até 2035, eles. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Numa economia espacial que se prevê atingir 1,8 biliões de dólares até 2035, vendem narrativas de exploração espacial apelando ao desejo de expandir a humanidade para além da. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: SpaceX da Pexels Das plataformas.</p><p>Mas as práticas de greenwashing não terminam com aqueles que se preocupam com a Terra. Como pesquisadora de serviço social interessada nas consequências do comercialismo dentro e fora da Terra, estudei como as empresas espaciais estão usando estratégias semelhantes.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-starwashing-space-companies-greenwashing-playbook.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>From launchpads to low Earth orbit and beyond, space companies and their affiliates are deploying a familiar marketing tactic, with a new twist. In a space economy projected to reach US$1.8 trillion by 2035, they sell space exploration. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. From launchpads to low Earth orbit and beyond, space companies and their affiliates are deploying a familiar marketing tactic, with a new twist. In a space economy projected to reach US$1.8 trillion by 2035, they sell space exploration narratives by appealing to a desire to expand humankind beyond Earth, while downplaying.</p><p>Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Credit: SpaceX from Pexels From launchpads to low Earth orbit. But greenwashing practices don&#x27;t end with those who care about the Earth.</p><p>As a social work researcher interested in the consequences of commercialism both on and off Earth, I&#x27;ve studied how space companies are using similar strategies. Its mission states that it aims both to colonize space and &quot;restore and sustain Earth.&quot; The company&#x27;s founder, Jeff Bezos, envisions building space habitats that could house.</p><p>Its New Shepard rocket, it says, is &quot; for the benefit of Earth,&quot; with the company claiming that nearly all the rocket fuel&#x27;s dry mass is reused. Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Companies are also racing to extract resources from the moon for what some, including Blue Origin, say will enable lunar development by reducing trips to and from the moon. While the host has suggested coming up with a word that sounds &quot; more beneficial,&quot; venture capitalists have proposed a marketing campaign to divert the focus from environmental.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-starwashing-space-companies-greenwashing-playbook.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Das plataformas de lançamento à órbita baixa da Terra e muito mais, as empresas espaciais e as suas afiliadas estão a implementar uma táctica de.",
-      "Dado-chave: Das plataformas de lançamento à órbita baixa da Terra e muito mais, as empresas espaciais e as suas afiliadas estão a implementar uma táctica de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Das plataformas de lançamento à órbita baixa da Terra e muito mais, as empresas espaciais e as suas afiliadas estão a implementar uma táctica de.",
-      "Dado-chave: Das plataformas de lançamento à órbita baixa da Terra e muito mais, as empresas espaciais e as suas afiliadas estão a implementar uma táctica de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: From launchpads to low Earth orbit and beyond, space companies and their affiliates are deploying a familiar marketing tactic, with a new twist. In a.",
-      "Key detail: From launchpads to low Earth orbit and beyond, space companies and their affiliates are deploying a familiar marketing tactic, with a new twist.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "15 ago 2026",
-    "date_pt": "15 ago 2026",
-    "date_en": "15 Aug 2026",
-    "time": "01h00",
-    "time_pt": "01h00",
-    "time_en": "01:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-15T01:00:01+00:00",
-    "lastModifiedIso": "2026-08-15T01:00:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Cosmologia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "'Starwashing'",
-      "como as empresas espaciais usam o manual de greenwashing enquanto causam danos ambientais"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "'Starwashing'",
-      "como as empresas espaciais usam o manual de greenwashing enquanto causam danos ambientais"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "Phys.org Space",
-      "Cosmos Week",
-      "'Starwashing'",
-      "How Space Companies Play Greenwashing While Causing Environmental Damage"
-    ],
-    "srcUrl": "https://phys.org/news/2026-08-starwashing-space-companies-greenwashing-playbook.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=starwashing-how-space-companies-use-the-greenwashing-playbook-while-causing-environmental-damage",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=starwashing-how-space-companies-use-the-greenwashing-playbook-while-causing-environmental-damage",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=starwashing-how-space-companies-use-the-greenwashing-playbook-while-causing-environmental-damage&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 76,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 16,
     "slug": "dust-and-water-spotted-close-to-giant-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1886,7 +1768,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 16,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2022,7 +1904,7 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 17,
     "slug": "mirage-or-miracle-jwst-finds-earliest-known-black-hole-star-at-cosmic-dawn",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2155,7 +2037,7 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
+    "id": 18,
     "slug": "proposed-900-telescope-array-could-detect-an-earth-like-exoplanet-s-atmosphere-in-a-single-trans",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2288,140 +2170,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
-    "slug": "the-escape-mission-will-study-the-evolution-of-exoplanet-atmospheres",
-    "cat": "Exoplanetas",
-    "catCls": "exoplanetas",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-escape-mission-wil.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/the-escape-mission-wil.jpg",
-        "caption": "Esta ilustração artística mostra o exoplaneta TRAPPIST-1b orbitando sua estrela anã vermelha. A estrela retirou a atmosfera do exoplaneta, deixando-o sem ar e inabitável. A missão ESCAPE da NASA estudará o quão estelar é o EUV.",
-        "caption_pt": "Esta ilustração artística mostra o exoplaneta TRAPPIST-1b orbitando sua estrela anã vermelha. A estrela retirou a atmosfera do exoplaneta, deixando-o sem ar e inabitável. A missão ESCAPE da NASA estudará o quão estelar é o EUV.",
-        "caption_en": "This artist's illustration shows the exoplanet TRAPPIST-1b orbiting its red dwarf star. The star has stripped the atmosphere away from the exoplanet, leaving it airless and uninhabitable. NASA's ESCAPE mission will study how stellar EUV.",
-        "alt": "A missão ESCAPE estudará a evolução das atmosferas dos exoplanetas",
-        "alt_pt": "A missão ESCAPE estudará a evolução das atmosferas dos exoplanetas",
-        "alt_en": "The ESCAPE mission will study the evolution of exoplanet atmospheres"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/the-escape-mission-wil-1.jpg",
-        "caption": "A missão ESCAPE estudará a evolução das atmosferas dos exoplanetas",
-        "caption_pt": "A missão ESCAPE estudará a evolução das atmosferas dos exoplanetas",
-        "caption_en": "The ESCAPE mission will study the evolution of exoplanet atmospheres",
-        "alt": "A missão ESCAPE estudará a evolução das atmosferas dos exoplanetas",
-        "alt_pt": "A missão ESCAPE estudará a evolução das atmosferas dos exoplanetas",
-        "alt_en": "The ESCAPE mission will study the evolution of exoplanet atmospheres"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/the-escape-mission-wil-2.jpg",
-        "caption": "Esta figura mostra como os três modelos para estimar a perda de massa devido ao EUV estelar podem chegar a estimativas muito diferentes. \"Diferentes reconstruções mostram discrepâncias de fluxo de ordens de magnitude: dois modelos de medição de emissão diferencial em.",
-        "caption_pt": "Esta figura mostra como os três modelos para estimar a perda de massa devido ao EUV estelar podem chegar a estimativas muito diferentes. \"Diferentes reconstruções mostram discrepâncias de fluxo de ordens de magnitude: dois modelos de medição de emissão diferencial em.",
-        "caption_en": "This figure shows how the three models for estimating mass loss due to stellar EUV can arrive at very different estimates. \"Different reconstructions show orders-of-magnitude flux discrepancies: two differential emission measure models in.",
-        "alt": "A missão ESCAPE estudará a evolução das atmosferas dos exoplanetas",
-        "alt_pt": "A missão ESCAPE estudará a evolução das atmosferas dos exoplanetas",
-        "alt_en": "The ESCAPE mission will study the evolution of exoplanet atmospheres"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "A missão ESCAPE estudará a evolução das atmosferas dos exoplanetas",
-    "title_pt": "A missão ESCAPE estudará a evolução das atmosferas dos exoplanetas",
-    "title_en": "The ESCAPE mission will study the evolution of exoplanet atmospheres",
-    "sub": "O conceito de zona habitável é útil para compreender quais mundos podem, possivelmente, talvez, ser habitáveis. Destaca exoplanetas a distâncias certas das suas estrelas para que.",
-    "sub_pt": "O conceito de zona habitável é útil para compreender quais mundos podem, possivelmente, talvez, ser habitáveis. Destaca exoplanetas a distâncias certas das suas estrelas para que.",
-    "sub_en": "The habitable zone concept is useful for understanding which worlds might, possibly, maybe, be habitable. It highlights exoplanets at the right distances from their stars for.",
-    "excerpt": "O conceito de zona habitável é útil para compreender quais mundos podem, possivelmente, talvez, ser habitáveis. Destaca exoplanetas a distâncias certas das suas estrelas para que potencialmente exista água líquida nas suas superfícies. Mas isso.",
-    "excerpt_pt": "O conceito de zona habitável é útil para compreender quais mundos podem, possivelmente, talvez, ser habitáveis. Destaca exoplanetas a distâncias certas das suas estrelas para que potencialmente exista água líquida nas suas superfícies. Mas isso.",
-    "excerpt_en": "The habitable zone concept is useful for understanding which worlds might, possibly, maybe, be habitable. It highlights exoplanets at the right distances from their stars for liquid water to potentially exist on their surfaces. But that.",
-    "body": "<p>O conceito de zona habitável é útil para compreender quais mundos podem, possivelmente, talvez, ser habitáveis. Destaca exoplanetas a distâncias certas das suas estrelas para que potencialmente exista água líquida nas suas superfícies. Mas isso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. A missão ESCAPE da NASA estudará como os EUV e CMEs estelares podem destruir as atmosferas dos exoplanetas. Para colmatar esta lacuna fundamental na nossa compreensão da retenção atmosférica, apresentamos a missão Extreme-ultraviolet Stellar Characterization for Atmospheric Physics and.</p><p>Os autores escrevem que “uma lacuna crítica de conhecimento a preencher na próxima década é determinar que fração de planetas rochosos e temperados em torno de estrelas de. SEEN é como um levantamento instantâneo que observará 276 estrelas anãs F, G, K e M por 12 quilossegundos (3 horas e 20 minutos) por estrela.</p><p>SEEN abordará as questões científicas 1 e 2. DEEP é uma pesquisa de monitoramento que observará 24 anãs F, G, K e M por 1 megassegundo (278 horas) cada.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-mission-evolution-exoplanet-atmospheres.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O conceito de zona habitável é útil para compreender quais mundos podem, possivelmente, talvez, ser habitáveis. Destaca exoplanetas a distâncias certas das suas estrelas para que potencialmente exista água líquida nas suas superfícies. Mas isso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. A missão ESCAPE da NASA estudará como os EUV e CMEs estelares podem destruir as atmosferas dos exoplanetas. Para colmatar esta lacuna fundamental na nossa compreensão da retenção atmosférica, apresentamos a missão Extreme-ultraviolet Stellar Characterization for Atmospheric Physics and.</p><p>Os autores escrevem que “uma lacuna crítica de conhecimento a preencher na próxima década é determinar que fração de planetas rochosos e temperados em torno de estrelas de. SEEN é como um levantamento instantâneo que observará 276 estrelas anãs F, G, K e M por 12 quilossegundos (3 horas e 20 minutos) por estrela.</p><p>SEEN abordará as questões científicas 1 e 2. DEEP é uma pesquisa de monitoramento que observará 24 anãs F, G, K e M por 1 megassegundo (278 horas) cada.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-mission-evolution-exoplanet-atmospheres.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The habitable zone concept is useful for understanding which worlds might, possibly, maybe, be habitable. It highlights exoplanets at the right distances from their stars for liquid water to potentially exist on their surfaces. But that. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. NASA&#x27;s ESCAPE mission will study how stellar EUV and CMEs can strip exoplanet atmospheres away. To address this key gap in our understanding of atmospheric retention, we present the Extreme-ultraviolet Stellar Characterization for Atmospheric Physics and Evolution (ESCAPE).</p><p>The authors write that &quot;a critical knowledge gap to fill over the coming decade is determining what fraction of temperate, rocky planets around stars of different stellar types. SEEN is like a snapshot survey that will observe 276 F-, G-, K- and M-dwarf stars for 12 kiloseconds (3 hours and 20 minutes) per star.</p><p>SEEN will address science questions 1 and 2. DEEP is a monitoring survey that will observe 24 F-, G-, K- and M-dwarfs for 1 megasecond (278 hours) each.</p><p>DEEP will address science questions 2 and 3. The ESCAPE mission has a predecessor, the Extreme Ultraviolet Explorer (EUVE), which ended 25 years ago.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>ESCAPE will be more than 50 times as sensitive as EUVE, and that will also let the spacecraft do science beyond its two-year core mission. An extended mission consisting of a General Observer (GO) program could address many additional science objectives within and beyond astrophysics,&quot; the authors write.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-mission-evolution-exoplanet-atmospheres.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O conceito de zona habitável é útil para compreender quais mundos podem, possivelmente, talvez, ser habitáveis. Destaca exoplanetas a distâncias.",
-      "Dado-chave: A missão ESCAPE da NASA estudará como os EUV e CMEs estelares podem destruir as atmosferas dos exoplanetas.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O conceito de zona habitável é útil para compreender quais mundos podem, possivelmente, talvez, ser habitáveis. Destaca exoplanetas a distâncias.",
-      "Dado-chave: A missão ESCAPE da NASA estudará como os EUV e CMEs estelares podem destruir as atmosferas dos exoplanetas.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The habitable zone concept is useful for understanding which worlds might, possibly, maybe, be habitable. It highlights exoplanets at the right.",
-      "Key detail: NASA's ESCAPE mission will study how stellar EUV and CMEs can strip exoplanet atmospheres away.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "12 ago 2026",
-    "date_pt": "12 ago 2026",
-    "date_en": "12 Aug 2026",
-    "time": "01h00",
-    "time_pt": "01h00",
-    "time_en": "01:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-12T01:00:01+00:00",
-    "lastModifiedIso": "2026-08-12T01:00:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Exoplanetas",
-      "Phys.org Space",
-      "Cosmos Week",
-      "A missão ESCAPE estudará a evolução das atmosferas dos exoplanetas"
-    ],
-    "keywords_pt": [
-      "Exoplanetas",
-      "Phys.org Space",
-      "Cosmos Week",
-      "A missão ESCAPE estudará a evolução das atmosferas dos exoplanetas"
-    ],
-    "keywords_en": [
-      "Exoplanets",
-      "Phys.org Space",
-      "Cosmos Week",
-      "The ESCAPE mission will study the evolution of exoplanet atmospheres"
-    ],
-    "srcUrl": "https://phys.org/news/2026-08-mission-evolution-exoplanet-atmospheres.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-escape-mission-will-study-the-evolution-of-exoplanet-atmospheres",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-escape-mission-will-study-the-evolution-of-exoplanet-atmospheres",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-escape-mission-will-study-the-evolution-of-exoplanet-atmospheres&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
-    "id": 21,
+    "id": 19,
     "slug": "the-sensitivity-of-tess-to-transiting-planets-in-tois-with-close-in-stellar-companions",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2523,6 +2272,244 @@ window.postsData = [
       "relevance": 94,
       "accessibility": 60,
       "novelty": 52
+    }
+  },
+  {
+    "id": 20,
+    "slug": "no-helium-detected-in-lhs-1140-b-from-four-jwst-niriss-soss-transits",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Webb_Space_Telescope_faint_red_galaxy.jpg/1280px-Webb_Space_Telescope_faint_red_galaxy.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Nenhum hélio detectado em LHS 1140 b em quatro trânsitos JWST NIRISS/SOSS",
+    "title_pt": "Nenhum hélio detectado em LHS 1140 b em quatro trânsitos JWST NIRISS/SOSS",
+    "title_en": "No Helium Detected in LHS 1140 b from Four JWST NIRISS/SOSS Transits",
+    "sub": "No esforço para determinar quais exoplanetas de baixa massa têm atmosfera, o LHS 1140 b continua a ser um dos alvos mais favoráveis. Seu grande tamanho e período orbital.",
+    "sub_pt": "No esforço para determinar quais exoplanetas de baixa massa têm atmosfera, o LHS 1140 b continua a ser um dos alvos mais favoráveis. Seu grande tamanho e período orbital.",
+    "sub_en": "In the effort to determine which low-mass exoplanets have atmospheres, LHS 1140 b remains one of the most favorable targets. Its large size and relatively long orbital period.",
+    "excerpt": "No esforço para determinar quais exoplanetas de baixa massa têm atmosfera, o LHS 1140 b continua a ser um dos alvos mais favoráveis. Seu grande tamanho e período orbital relativamente longo implicam que uma atmosfera pode ser provável e, notavelmente, um.",
+    "excerpt_pt": "No esforço para determinar quais exoplanetas de baixa massa têm atmosfera, o LHS 1140 b continua a ser um dos alvos mais favoráveis. Seu grande tamanho e período orbital relativamente longo implicam que uma atmosfera pode ser provável e, notavelmente, um.",
+    "excerpt_en": "In the effort to determine which low-mass exoplanets have atmospheres, LHS 1140 b remains one of the most favorable targets. Its large size and relatively long orbital period imply an atmosphere may be likely, and notably, recent interior.",
+    "body": "<p>No esforço para determinar quais exoplanetas de baixa massa têm atmosfera, o LHS 1140 b continua a ser um dos alvos mais favoráveis. Seu grande tamanho e período orbital relativamente longo implicam que uma atmosfera pode ser provável e, notavelmente, um interior recente. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. No esforço para determinar quais exoplanetas de baixa massa têm atmosfera, o LHS 1140 b continua a ser um dos alvos mais favoráveis. Seu grande tamanho (5,6 $\\rm M_{\\oplus}$ e 1,7 $\\rm R_{\\oplus}$) e período orbital relativamente longo (24,7 dias) implicam que uma atmosfera pode ser provável e, notavelmente.</p><p>Outra possibilidade é que tenha uma atmosfera rica em hélio. Esta hipótese é apoiada por recentes observações terrestres que detectaram o trio metaestável de hélio durante o trânsito.</p><p>Estas observações indicaram que pode haver fuga de hélio da atmosfera superior do planeta, mas o sinal não foi detectado durante uma observação subsequente, sugerindo uma fuga. Aqui apresentamos quatro observações do LHS 1140 b com JWST NIRISS/SOSS, que cobre o tripleto de hélio metaestável, obtido entre 2023 e 2026.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2608.13473v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>No esforço para determinar quais exoplanetas de baixa massa têm atmosfera, o LHS 1140 b continua a ser um dos alvos mais favoráveis. Seu grande tamanho e período orbital relativamente longo implicam que uma atmosfera pode ser provável e, notavelmente, um interior recente. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. No esforço para determinar quais exoplanetas de baixa massa têm atmosfera, o LHS 1140 b continua a ser um dos alvos mais favoráveis. Seu grande tamanho (5,6 $\\rm M_{\\oplus}$ e 1,7 $\\rm R_{\\oplus}$) e período orbital relativamente longo (24,7 dias) implicam que uma atmosfera pode ser provável e, notavelmente.</p><p>Outra possibilidade é que tenha uma atmosfera rica em hélio. Esta hipótese é apoiada por recentes observações terrestres que detectaram o trio metaestável de hélio durante o trânsito.</p><p>Estas observações indicaram que pode haver fuga de hélio da atmosfera superior do planeta, mas o sinal não foi detectado durante uma observação subsequente, sugerindo uma fuga. Aqui apresentamos quatro observações do LHS 1140 b com JWST NIRISS/SOSS, que cobre o tripleto de hélio metaestável, obtido entre 2023 e 2026.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2608.13473v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>In the effort to determine which low-mass exoplanets have atmospheres, LHS 1140 b remains one of the most favorable targets. Its large size and relatively long orbital period imply an atmosphere may be likely, and notably, recent interior. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. In the effort to determine which low-mass exoplanets have atmospheres, LHS 1140 b remains one of the most favorable targets. Its large size (5.6 $\\rm M_{\\oplus}$ and 1.7 $\\rm R_{\\oplus}$) and relatively long orbital period (24.7 days) imply an atmosphere may be likely, and notably, recent interior.</p><p>Another possibility is that it has a helium-rich atmosphere. This hypothesis is supported by recent ground-based observations that detected the metastable helium triplet during transit.</p><p>These observations indicated there may be current helium escape from the planet&#x27;s upper atmosphere, yet the signal was not detected during a subsequent observation, suggesting. Here we present four observations of LHS 1140 b with JWST NIRISS/SOSS, which covers the metastable helium triplet, obtained between 2023 and 2026.</p><p>These observations span the epoch of the ground-based measurements, and although none were contemporaneous with the ground-based transits, all four are sensitive to helium. However, we detect no helium absorption in any visit.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>We reject the best-fit ground-based model at $&gt;3σ$ in each visit, and find no clear trend in mass-loss with time. Our results suggest the reported ground-based detection may be spurious, although variability cannot be excluded if detectable helium absorption occurs in $\\lesssim50\\%$ of.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2608.13473v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: No esforço para determinar quais exoplanetas de baixa massa têm atmosfera, o LHS 1140 b continua a ser um dos alvos mais favoráveis. Seu grande.",
+      "Dado-chave: No esforço para determinar quais exoplanetas de baixa massa têm atmosfera, o LHS 1140 b continua a ser um dos alvos mais favoráveis.",
+      "Resultado ainda sem revisão por pares."
+    ],
+    "highlights_pt": [
+      "Ponto central: No esforço para determinar quais exoplanetas de baixa massa têm atmosfera, o LHS 1140 b continua a ser um dos alvos mais favoráveis. Seu grande.",
+      "Dado-chave: No esforço para determinar quais exoplanetas de baixa massa têm atmosfera, o LHS 1140 b continua a ser um dos alvos mais favoráveis.",
+      "Resultado ainda sem revisão por pares."
+    ],
+    "highlights_en": [
+      "Core point: In the effort to determine which low-mass exoplanets have atmospheres, LHS 1140 b remains one of the most favorable targets. Its large size and.",
+      "Key detail: In the effort to determine which low-mass exoplanets have atmospheres, LHS 1140 b remains one of the most favorable targets.",
+      "Result not yet peer reviewed."
+    ],
+    "date": "13 ago 2026",
+    "date_pt": "13 ago 2026",
+    "date_en": "13 Aug 2026",
+    "time": "16h58",
+    "time_pt": "16h58",
+    "time_en": "16:58 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-13T16:58:27+00:00",
+    "lastModifiedIso": "2026-08-13T16:58:27+00:00",
+    "source": "arXiv Astrophysics",
+    "sourceDomain": "arxiv.org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint ainda sem revisão por pares.",
+    "sourceNote_pt": "Preprint ainda sem revisão por pares.",
+    "sourceNote_en": "Preprint not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Exoplanetas",
+      "arXiv Astrophysics",
+      "Cosmos Week",
+      "Nenhum hélio detectado em LHS 1140 b em quatro trânsitos JWST NIRISS/SOSS"
+    ],
+    "keywords_pt": [
+      "Exoplanetas",
+      "arXiv Astrophysics",
+      "Cosmos Week",
+      "Nenhum hélio detectado em LHS 1140 b em quatro trânsitos JWST NIRISS/SOSS"
+    ],
+    "keywords_en": [
+      "Exoplanets",
+      "arXiv Astrophysics",
+      "Cosmos Week",
+      "No helium detected on LHS 1140 b in four JWST NIRISS/SOSS transits"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2608.13473v1",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=no-helium-detected-in-lhs-1140-b-from-four-jwst-niriss-soss-transits",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=no-helium-detected-in-lhs-1140-b-from-four-jwst-niriss-soss-transits",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=no-helium-detected-in-lhs-1140-b-from-four-jwst-niriss-soss-transits&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 68,
+    "scoreBreakdown": {
+      "source": 56,
+      "evidence": 64,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 21,
+    "slug": "satellite-constellations-could-create-spiraling-space-debris",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/satellites.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/satellites.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/satellite-constellatio.jpg",
+        "caption": "(a) O modelo de estabilidade assume que um satélite está numa órbita circular com semi-eixo maior, 𝑎, e passa todo o seu tempo dentro da casca esférica (b) com raio, 𝑎, e espessura, ∆𝑎. No entanto, um satélite em órbita circular com.",
+        "caption_pt": "(a) O modelo de estabilidade assume que um satélite está numa órbita circular com semi-eixo maior, 𝑎, e passa todo o seu tempo dentro da casca esférica (b) com raio, 𝑎, e espessura, ∆𝑎. No entanto, um satélite em órbita circular com.",
+        "caption_en": "(a) The stability model assumes a satellite is in a circular orbit with semi-major axis, 𝑎, and spends all its time within the spherical shell (b) with radius, 𝑎, and thickness, ∆𝑎. However, a satellite in a circular orbit with.",
+        "alt": "Constelações de satélites podem criar detritos espaciais em espiral",
+        "alt_pt": "Constelações de satélites podem criar detritos espaciais em espiral",
+        "alt_en": "Satellite constellations could create spiraling space debris"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/061a4647609b9c09.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Constelações de satélites podem criar detritos espaciais em espiral",
+    "title_pt": "Constelações de satélites podem criar detritos espaciais em espiral",
+    "title_en": "Satellite constellations could create spiraling space debris",
+    "sub": "Até à data, perto de 30.000 satélites foram lançados na órbita da Terra, levando a preocupações crescentes sobre os detritos criados quando colidem. Em uma nova análise publicada.",
+    "sub_pt": "Até à data, perto de 30.000 satélites foram lançados na órbita da Terra, levando a preocupações crescentes sobre os detritos criados quando colidem. Em uma nova análise publicada.",
+    "sub_en": "To date, close to 30,000 satellites have been launched into Earth's orbit, leading to mounting concerns over the debris created when they collide. In a new analysis posted to the.",
+    "excerpt": "Até à data, perto de 30.000 satélites foram lançados na órbita da Terra, levando a preocupações crescentes sobre os detritos criados quando colidem. Em uma nova análise publicada no servidor de pré-impressão arXiv, Hugh Lewis, da Universidade de.",
+    "excerpt_pt": "Até à data, perto de 30.000 satélites foram lançados na órbita da Terra, levando a preocupações crescentes sobre os detritos criados quando colidem. Em uma nova análise publicada no servidor de pré-impressão arXiv, Hugh Lewis, da Universidade de.",
+    "excerpt_en": "To date, close to 30,000 satellites have been launched into Earth's orbit, leading to mounting concerns over the debris created when they collide. In a new analysis posted to the preprint server arXiv, Hugh Lewis of the University of.",
+    "body": "<p>Até à data, perto de 30.000 satélites foram lançados na órbita da Terra, levando a preocupações crescentes sobre os detritos criados quando colidem. Em uma nova análise publicada no servidor de pré-impressão arXiv, Hugh Lewis, da Universidade de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Até à data, perto de 30.000 satélites foram lançados na órbita da Terra, levando a preocupações crescentes sobre os detritos criados quando colidem. Numa nova análise publicada no servidor de pré-impressão arXiv, Hugh Lewis, da Universidade de Birmingham, mostra que as constelações de satélites podem crescer tanto que.</p><p>Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: Unsplash/CC0 Public Domain Até o.</p><p>As descobertas apontam para uma necessidade urgente de regras mais rígidas sobre quais satélites podem entrar em órbita.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-satellite-constellations-spiraling-space-debris.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Até à data, perto de 30.000 satélites foram lançados na órbita da Terra, levando a preocupações crescentes sobre os detritos criados quando colidem. Em uma nova análise publicada no servidor de pré-impressão arXiv, Hugh Lewis, da Universidade de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Até à data, perto de 30.000 satélites foram lançados na órbita da Terra, levando a preocupações crescentes sobre os detritos criados quando colidem. Numa nova análise publicada no servidor de pré-impressão arXiv, Hugh Lewis, da Universidade de Birmingham, mostra que as constelações de satélites podem crescer tanto que.</p><p>Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: Unsplash/CC0 Public Domain Até o.</p><p>As descobertas apontam para uma necessidade urgente de regras mais rígidas sobre quais satélites podem entrar em órbita.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-satellite-constellations-spiraling-space-debris.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>To date, close to 30,000 satellites have been launched into Earth&#x27;s orbit, leading to mounting concerns over the debris created when they collide. In a new analysis posted to the preprint server arXiv, Hugh Lewis of the University of. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. To date, close to 30,000 satellites have been launched into Earth&#x27;s orbit, leading to mounting concerns over the debris created when they collide. In a new analysis posted to the preprint server arXiv, Hugh Lewis of the University of Birmingham shows that satellite constellations can grow so large that they cross a critical.</p><p>This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Credit: Unsplash/CC0 Public Domain To date, close to 30,000.</p><p>The findings point to an urgent need for tougher rules on which satellites are allowed into orbit in the first place. But as Earth&#x27;s orbit becomes increasingly cluttered, there is mounting concern over satellites colliding with each other.</p><p>This entirely neglects the combined danger of constellations, which together would account for almost 1.7 million satellites if all current plans are approved. Drawing on data from regulators and satellite trackers, he applied the model to 16 constellations: some still in their planning stages and others already in orbit.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>With regulators still lacking clear, constellationwide standards, his method offers a practical way to spot risky proposals before launch and keep the paths above our heads clear. We rely on readers like you to keep independent science journalism alive.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-satellite-constellations-spiraling-space-debris.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Até à data, perto de 30.000 satélites foram lançados na órbita da Terra, levando a preocupações crescentes sobre os detritos criados quando colidem.",
+      "Dado-chave: Até à data, perto de 30.000 satélites foram lançados na órbita da Terra, levando a preocupações crescentes sobre os detritos criados quando.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Até à data, perto de 30.000 satélites foram lançados na órbita da Terra, levando a preocupações crescentes sobre os detritos criados quando colidem.",
+      "Dado-chave: Até à data, perto de 30.000 satélites foram lançados na órbita da Terra, levando a preocupações crescentes sobre os detritos criados quando.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: To date, close to 30,000 satellites have been launched into Earth's orbit, leading to mounting concerns over the debris created when they collide. In.",
+      "Key detail: To date, close to 30,000 satellites have been launched into Earth's orbit, leading to mounting concerns over the debris created when they.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "12 ago 2026",
+    "date_pt": "12 ago 2026",
+    "date_en": "12 Aug 2026",
+    "time": "19h00",
+    "time_pt": "19h00",
+    "time_en": "19:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-12T19:00:08+00:00",
+    "lastModifiedIso": "2026-08-12T19:00:08+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Constelações de satélites podem criar detritos espaciais em espiral"
+    ],
+    "keywords_pt": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Constelações de satélites podem criar detritos espaciais em espiral"
+    ],
+    "keywords_en": [
+      "Physical",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Satellite constellations can create spiraling space debris"
+    ],
+    "srcUrl": "https://phys.org/news/2026-08-satellite-constellations-spiraling-space-debris.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=satellite-constellations-could-create-spiraling-space-debris",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=satellite-constellations-could-create-spiraling-space-debris",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=satellite-constellations-could-create-spiraling-space-debris&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 82,
+      "accessibility": 60,
+      "novelty": 49
     }
   },
   {
@@ -2664,257 +2651,6 @@ window.postsData = [
   },
   {
     "id": 23,
-    "slug": "first-major-structure-of-the-future-cms-tracker-arrives-at-cern",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://home.cern/wp-content/uploads/2026/08/TB2S-31.jpg",
-    "inline_images": [
-      {
-        "src": "https://home.cern/first-major-structure-of-the-future-cms-tracker-arrives-at-cern/context.post.image",
-        "caption": "contexto.post.título",
-        "caption_pt": "contexto.post.título",
-        "caption_en": "context.post.title",
-        "alt": "contexto.post.título",
-        "alt_pt": "contexto.post.título",
-        "alt_en": "context.post.title"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Primeira grande estrutura do futuro rastreador CMS chega ao CERN",
-    "title_pt": "Primeira grande estrutura do futuro rastreador CMS chega ao CERN",
-    "title_en": "First major structure of the future CMS tracker arrives at CERN",
-    "sub": "Atualizações contínuas a caminho do HiLumi A primeira grande estrutura do futuro rastreador CMS chega ao CERN 4 de agosto de 2026 A primeira grande estrutura mecânica do futuro.",
-    "sub_pt": "Atualizações contínuas a caminho do HiLumi A primeira grande estrutura do futuro rastreador CMS chega ao CERN 4 de agosto de 2026 A primeira grande estrutura mecânica do futuro.",
-    "sub_en": "Ongoing upgrades on the road to HiLumi First major structure of the future CMS tracker arrives at CERN 4 August 2026 The first major mechanical structure of the future CMS tracker.",
-    "excerpt": "Atualizações contínuas a caminho do HiLumi A primeira grande estrutura do futuro rastreador CMS chega ao CERN 4 de agosto de 2026 A primeira grande estrutura mecânica do futuro rastreador CMS chegou ao CERN, enquanto os preparativos continuam para o.",
-    "excerpt_pt": "Atualizações contínuas a caminho do HiLumi A primeira grande estrutura do futuro rastreador CMS chega ao CERN 4 de agosto de 2026 A primeira grande estrutura mecânica do futuro rastreador CMS chegou ao CERN, enquanto os preparativos continuam para o.",
-    "excerpt_en": "Ongoing upgrades on the road to HiLumi First major structure of the future CMS tracker arrives at CERN 4 August 2026 The first major mechanical structure of the future CMS tracker has arrived at CERN, as preparations continue for the.",
-    "body": "<p>Atualizações contínuas a caminho do HiLumi A primeira grande estrutura do futuro rastreador CMS chega ao CERN 4 de agosto de 2026 A primeira grande estrutura mecânica do futuro rastreador CMS chegou ao CERN, enquanto os preparativos continuam para o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Construído e montado por equipes do IPHC (CNRS/Universidade de Estrasburgo). O rastreador atual precisa ser substituído para preparar o detector para as taxas de colisão mais altas esperadas no HiLumi LHC.</p><p>Mais atualizações Tudo sobre o caminho para HiLumi Nenhuma postagem foi encontrada. Construída e montada por equipes do IPHC (CNRS/Universidade de Estrasburgo), na França, a roda Tracker Barrel 2S (TB2S) é uma estrutura de 2,3 metros de comprimento que forma a.</p><p>Projetada a partir de materiais compósitos leves de fibra de carbono, a roda TB2S combina alta precisão mecânica com a resistência necessária para suportar centenas de quilogramas.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/first-major-structure-of-the-future-cms-tracker-arrives-at-cern/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Atualizações contínuas a caminho do HiLumi A primeira grande estrutura do futuro rastreador CMS chega ao CERN 4 de agosto de 2026 A primeira grande estrutura mecânica do futuro rastreador CMS chegou ao CERN, enquanto os preparativos continuam para o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Construído e montado por equipes do IPHC (CNRS/Universidade de Estrasburgo). O rastreador atual precisa ser substituído para preparar o detector para as taxas de colisão mais altas esperadas no HiLumi LHC.</p><p>Mais atualizações Tudo sobre o caminho para HiLumi Nenhuma postagem foi encontrada. Construída e montada por equipes do IPHC (CNRS/Universidade de Estrasburgo), na França, a roda Tracker Barrel 2S (TB2S) é uma estrutura de 2,3 metros de comprimento que forma a.</p><p>Projetada a partir de materiais compósitos leves de fibra de carbono, a roda TB2S combina alta precisão mecânica com a resistência necessária para suportar centenas de quilogramas.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/first-major-structure-of-the-future-cms-tracker-arrives-at-cern/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Ongoing upgrades on the road to HiLumi First major structure of the future CMS tracker arrives at CERN 4 August 2026 The first major mechanical structure of the future CMS tracker has arrived at CERN, as preparations continue for the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Built and assembled by teams at the IPHC (CNRS/University of Strasbourg). The current tracker needs replacing to prepare the detector for the higher collision rates expected at the HiLumi LHC.</p><p>More updates All about the road to HiLumi No posts were found. Built and assembled by teams at the IPHC (CNRS/University of Strasbourg) in France, the Tracker Barrel 2S (TB2S) wheel is a 2.3-metre-long structure that forms the outer.</p><p>Designed from lightweight carbon-fibre composite materials, the TB2S wheel combines high mechanical precision with the strength needed to support hundreds of kilograms of detector. Starting from 2027, more than 4 thousand 2S-type silicon sensor modules, each consisting of two silicon microstrip sensors separated by 1.8 mm, will be installed on the structure.</p><p>The project was launched in 2017, with the journey from Strasbourg to CERN taking place in July in a specially designed transport container. It will now undergo further measurements before silicon modules are integrated.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>This structure will become the backbone of the new CMS tracker, enabling the experiment to record the unprecedented volume of data that will be produced in the HiLumi LHC era. Find out more on the CNRS IN2P3 website (available in French only).</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/first-major-structure-of-the-future-cms-tracker-arrives-at-cern/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Atualizações contínuas a caminho do HiLumi A primeira grande estrutura do futuro rastreador CMS chega ao CERN 4 de agosto de 2026 A primeira grande.",
-      "Dado-chave: Construído e montado por equipes do IPHC (CNRS/Universidade de Estrasburgo).",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Atualizações contínuas a caminho do HiLumi A primeira grande estrutura do futuro rastreador CMS chega ao CERN 4 de agosto de 2026 A primeira grande.",
-      "Dado-chave: Construído e montado por equipes do IPHC (CNRS/Universidade de Estrasburgo).",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Ongoing upgrades on the road to HiLumi First major structure of the future CMS tracker arrives at CERN 4 August 2026 The first major mechanical.",
-      "Key detail: Built and assembled by teams at the IPHC (CNRS/University of Strasbourg).",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "04 ago 2026",
-    "date_pt": "04 ago 2026",
-    "date_en": "04 Aug 2026",
-    "time": "09h43",
-    "time_pt": "09h43",
-    "time_en": "09:43 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-04T09:43:33+00:00",
-    "lastModifiedIso": "2026-08-04T09:43:33+00:00",
-    "source": "CERN News",
-    "sourceDomain": "home.cern",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Física",
-      "CERN News",
-      "Cosmos Week",
-      "Primeira grande estrutura do futuro rastreador CMS chega ao CERN"
-    ],
-    "keywords_pt": [
-      "Física",
-      "CERN News",
-      "Cosmos Week",
-      "Primeira grande estrutura do futuro rastreador CMS chega ao CERN"
-    ],
-    "keywords_en": [
-      "Physical",
-      "CERN News",
-      "Cosmos Week",
-      "First major structure of future CMS tracker arrives at CERN"
-    ],
-    "srcUrl": "https://home.cern/first-major-structure-of-the-future-cms-tracker-arrives-at-cern/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=first-major-structure-of-the-future-cms-tracker-arrives-at-cern",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=first-major-structure-of-the-future-cms-tracker-arrives-at-cern",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=first-major-structure-of-the-future-cms-tracker-arrives-at-cern&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 71,
-    "scoreBreakdown": {
-      "source": 86,
-      "evidence": 82,
-      "relevance": 68,
-      "accessibility": 52,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 24,
-    "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://cdn.esahubble.org/archives/images/screen/heic2606a.jpg",
-    "inline_images": [
-      {
-        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2606a.jpg",
-        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025",
-        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2606a.jpg",
-        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025",
-        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2606b.jpg",
-        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
-        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
-        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025 (annotated)",
-        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
-        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
-        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025 (annotated)"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Divulgação Científica: Hubble inesperadamente captura cometa se rompendo",
-    "title_pt": "Divulgação Científica: Hubble inesperadamente captura cometa se rompendo",
-    "title_en": "Science Release: Hubble unexpectedly catches comet breaking up",
-    "sub": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias.",
-    "sub_pt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias.",
-    "sub_en": "Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before.",
-    "excerpt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA.",
-    "excerpt_pt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA.",
-    "excerpt_en": "Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA.",
-    "body": "<p>O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA observava. O cometa K1, cujo nome completo é Cometa C/2025 K1 (ATLAS), não deve ser confundido com o cometa interestelar 3I/ATLAS, não foi o alvo original de um estudo recente do Hubble.</p><p>Tivemos que encontrar um novo alvo, e logo quando o observamos, ele se quebrou, o que é a menor das mínimas chances.” Noonan não sabia que o K1 estava se fragmentando até ver as. “Então sabíamos que isso era algo muito, muito especial.” Este é um experimento que os pesquisadores sempre quiseram fazer com o Hubble.</p><p>As imagens do Hubble foram tiradas apenas um mês após a maior aproximação do K1 ao Sol, chamada periélio. O periélio do cometa estava dentro da órbita de Mercúrio, cerca de um terço da distância da Terra ao Sol.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA observava. O cometa K1, cujo nome completo é Cometa C/2025 K1 (ATLAS), não deve ser confundido com o cometa interestelar 3I/ATLAS, não foi o alvo original de um estudo recente do Hubble.</p><p>Tivemos que encontrar um novo alvo, e logo quando o observamos, ele se quebrou, o que é a menor das mínimas chances.” Noonan não sabia que o K1 estava se fragmentando até ver as. “Então sabíamos que isso era algo muito, muito especial.” Este é um experimento que os pesquisadores sempre quiseram fazer com o Hubble.</p><p>As imagens do Hubble foram tiradas apenas um mês após a maior aproximação do K1 ao Sol, chamada periélio. O periélio do cometa estava dentro da órbita de Mercúrio, cerca de um terço da distância da Terra ao Sol.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching. Comet K1, whose full name is Comet C/2025 K1 (ATLAS), not to be confused with interstellar comet 3I/ATLAS, was not the original target of a recent Hubble study.</p><p>We had to find a new target, and right when we observed it, it happened to break apart, which is the slimmest of slim chances.” Noonan didn’t know K1 was fragmenting until he. “So we knew this was something really, really special.” This is an experiment the researchers always wanted to do with Hubble.</p><p>Hubble’s images were taken just a month after K1’s closest approach to the Sun, called perihelion. The comet&#x27;s perihelion was inside Mercury’s orbit, about one-third the distance of the Earth from the Sun.</p><p>Hubble took three 20-second images, one on each day from 8 November through 10 November 2025. Already, ground-based analysis shows that K1 is chemically very strange, it is significantly depleted in carbon, compared with other comets.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Spectroscopic analysis from Hubble’s STIS ( Space Telescope Imaging Spectrograph ) and COS ( Cosmic Origins Spectrograph ) instruments is likely to reveal much more about the. The comet K1 is now a collection of fragments about 400 million kilometers from Earth.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora.",
-      "Dado-chave: Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora.",
-      "Dado-chave: Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had.",
-      "Key detail: Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "18 mar 2026",
-    "date_pt": "18 mar 2026",
-    "date_en": "18 Mar 2026",
-    "time": "14h00",
-    "time_pt": "14h00",
-    "time_en": "14:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-03-18T14:00:00+00:00",
-    "lastModifiedIso": "2026-03-18T14:00:00+00:00",
-    "source": "ESA Hubble News",
-    "sourceDomain": "esahubble.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Divulgação Científica",
-      "Hubble inesperadamente captura cometa se rompendo"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Divulgação Científica",
-      "Hubble inesperadamente captura cometa se rompendo"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Scientific Dissemination",
-      "Hubble unexpectedly captures comet breaking up"
-    ],
-    "srcUrl": "https://esahubble.org/news/heic2606/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 79,
-    "scoreBreakdown": {
-      "source": 89,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 25,
     "slug": "nasa-s-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3060,7 +2796,143 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 24,
+    "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://cdn.esahubble.org/archives/images/screen/heic2606a.jpg",
+    "inline_images": [
+      {
+        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2606a.jpg",
+        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025",
+        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2606a.jpg",
+        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025",
+        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2606b.jpg",
+        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
+        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
+        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025 (annotated)",
+        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
+        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
+        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025 (annotated)"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Divulgação Científica: Hubble inesperadamente captura cometa se rompendo",
+    "title_pt": "Divulgação Científica: Hubble inesperadamente captura cometa se rompendo",
+    "title_en": "Science Release: Hubble unexpectedly catches comet breaking up",
+    "sub": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias.",
+    "sub_pt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias.",
+    "sub_en": "Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before.",
+    "excerpt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA.",
+    "excerpt_pt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA.",
+    "excerpt_en": "Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA.",
+    "body": "<p>O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA observava. O cometa K1, cujo nome completo é Cometa C/2025 K1 (ATLAS), não deve ser confundido com o cometa interestelar 3I/ATLAS, não foi o alvo original de um estudo recente do Hubble.</p><p>Tivemos que encontrar um novo alvo, e logo quando o observamos, ele se quebrou, o que é a menor das mínimas chances.” Noonan não sabia que o K1 estava se fragmentando até ver as. “Então sabíamos que isso era algo muito, muito especial.” Este é um experimento que os pesquisadores sempre quiseram fazer com o Hubble.</p><p>As imagens do Hubble foram tiradas apenas um mês após a maior aproximação do K1 ao Sol, chamada periélio. O periélio do cometa estava dentro da órbita de Mercúrio, cerca de um terço da distância da Terra ao Sol.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA observava. O cometa K1, cujo nome completo é Cometa C/2025 K1 (ATLAS), não deve ser confundido com o cometa interestelar 3I/ATLAS, não foi o alvo original de um estudo recente do Hubble.</p><p>Tivemos que encontrar um novo alvo, e logo quando o observamos, ele se quebrou, o que é a menor das mínimas chances.” Noonan não sabia que o K1 estava se fragmentando até ver as. “Então sabíamos que isso era algo muito, muito especial.” Este é um experimento que os pesquisadores sempre quiseram fazer com o Hubble.</p><p>As imagens do Hubble foram tiradas apenas um mês após a maior aproximação do K1 ao Sol, chamada periélio. O periélio do cometa estava dentro da órbita de Mercúrio, cerca de um terço da distância da Terra ao Sol.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching. Comet K1, whose full name is Comet C/2025 K1 (ATLAS), not to be confused with interstellar comet 3I/ATLAS, was not the original target of a recent Hubble study.</p><p>We had to find a new target, and right when we observed it, it happened to break apart, which is the slimmest of slim chances.” Noonan didn’t know K1 was fragmenting until he. “So we knew this was something really, really special.” This is an experiment the researchers always wanted to do with Hubble.</p><p>Hubble’s images were taken just a month after K1’s closest approach to the Sun, called perihelion. The comet&#x27;s perihelion was inside Mercury’s orbit, about one-third the distance of the Earth from the Sun.</p><p>Hubble took three 20-second images, one on each day from 8 November through 10 November 2025. Already, ground-based analysis shows that K1 is chemically very strange, it is significantly depleted in carbon, compared with other comets.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Spectroscopic analysis from Hubble’s STIS ( Space Telescope Imaging Spectrograph ) and COS ( Cosmic Origins Spectrograph ) instruments is likely to reveal much more about the. The comet K1 is now a collection of fragments about 400 million kilometers from Earth.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora.",
+      "Dado-chave: Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora.",
+      "Dado-chave: Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had.",
+      "Key detail: Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "18 mar 2026",
+    "date_pt": "18 mar 2026",
+    "date_en": "18 Mar 2026",
+    "time": "14h00",
+    "time_pt": "14h00",
+    "time_en": "14:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-03-18T14:00:00+00:00",
+    "lastModifiedIso": "2026-03-18T14:00:00+00:00",
+    "source": "ESA Hubble News",
+    "sourceDomain": "esahubble.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Divulgação Científica",
+      "Hubble inesperadamente captura cometa se rompendo"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Divulgação Científica",
+      "Hubble inesperadamente captura cometa se rompendo"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Scientific Dissemination",
+      "Hubble unexpectedly captures comet breaking up"
+    ],
+    "srcUrl": "https://esahubble.org/news/heic2606/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 79,
+    "scoreBreakdown": {
+      "source": 89,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 25,
     "slug": "a-look-back-at-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3206,7 +3078,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 26,
     "slug": "hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3339,7 +3211,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 27,
     "slug": "how-esa-mimics-and-models-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3444,7 +3316,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 28,
     "slug": "volunteer-develops-machine-learning-tool-to-identify-rare-clouds",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3549,7 +3421,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 29,
     "slug": "two-million-x-ray-sources-and-one-cluster-that-doesn-t-fit",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3682,7 +3554,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 30,
     "slug": "twenty-years-of-watching-one-galaxy-and-it-made-less-sense",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3815,7 +3687,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 31,
     "slug": "science-campaigns-planned-for-the-august-12th-total-solar-eclipse",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3948,7 +3820,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 32,
     "slug": "the-brightened-night-sky-nobody-actually-wanted",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4081,7 +3953,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 33,
     "slug": "this-week-s-sky-at-a-glance-august-14-23",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4217,7 +4089,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 34,
     "slug": "did-you-see-the-solar-eclipse-here-s-what-we-saw-from-around-the-world",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4350,7 +4222,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 35,
     "slug": "prepare-for-the-lunar-eclipse-on-august-27-28-2026",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4486,7 +4358,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 36,
     "slug": "a-perfectly-timed-perseid-meteor-shower",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4619,7 +4491,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 37,
     "slug": "nasa-announces-max-power-america-s-newest-aerospace-expo-airshow",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4740,7 +4612,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 38,
     "slug": "ancient-amazon-civilization-might-have-been-home-to-millions",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4855,7 +4727,7 @@ window.postsData = [
     }
   },
   {
-    "id": 40,
+    "id": 39,
     "slug": "nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -4955,6 +4827,121 @@ window.postsData = [
       "source": 94,
       "evidence": 82,
       "relevance": 62,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 40,
+    "slug": "what-s-a-globular-cluster-the-milky-way-has-about-150",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2009/06/M5-HST-e1497179043996.jpg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "O que é um aglomerado globular? A Via Láctea tem cerca de 150",
+    "title_pt": "O que é um aglomerado globular? A Via Láctea tem cerca de 150",
+    "title_en": "What’s a globular cluster? The Milky Way has about 150",
+    "sub": "Um aglomerado globular é uma coleção esférica de estrelas orbitando no halo de galáxias espirais. Nossa própria galáxia, a Via Láctea, tem mais de 150 aglomerados globulares. O.",
+    "sub_pt": "Um aglomerado globular é uma coleção esférica de estrelas orbitando no halo de galáxias espirais. Nossa própria galáxia, a Via Láctea, tem mais de 150 aglomerados globulares. O.",
+    "sub_en": "A globular cluster is a spherical collection of stars orbiting in the halo of spiral galaxies. Our own Milky Way galaxy has over 150 globular clusters. The post What’s a globular.",
+    "excerpt": "Um aglomerado globular é uma coleção esférica de estrelas orbitando no halo de galáxias espirais. Nossa própria galáxia, a Via Láctea, tem mais de 150 aglomerados globulares. O post O que é um aglomerado globular? A Via Láctea apareceu pela primeira vez em.",
+    "excerpt_pt": "Um aglomerado globular é uma coleção esférica de estrelas orbitando no halo de galáxias espirais. Nossa própria galáxia, a Via Láctea, tem mais de 150 aglomerados globulares. O post O que é um aglomerado globular? A Via Láctea apareceu pela primeira vez em.",
+    "excerpt_en": "A globular cluster is a spherical collection of stars orbiting in the halo of spiral galaxies. Our own Milky Way galaxy has over 150 globular clusters. The post What’s a globular cluster? The Milky Way has about 150 first appeared on.",
+    "body": "<p>Um aglomerado globular é uma coleção esférica de estrelas orbitando no halo de galáxias espirais. Nossa própria galáxia, a Via Láctea, tem mais de 150 aglomerados globulares. O post O que é um aglomerado globular? A Via Láctea apareceu pela primeira vez em cerca de 150. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O Telescópio Espacial Hubble capturou esta imagem descentralizada do aglomerado globular M5 em 2015. Omega Centauri, contendo até 10 milhões de estrelas, é de longe o maior aglomerado globular associado à nossa galáxia, a Via Láctea.</p><p>A imagem mostra apenas a parte central do aglomerado, uma área aproximadamente do tamanho da lua cheia na cúpula do céu. A Via Láctea tem mais de 150 aglomerados globulares Nossa própria Via Láctea tem mais de 150 aglomerados globulares, talvez mais deles escondidos pela poeira galáctica.</p><p>M87 é uma galáxia elíptica gigante com mais de 15.000 aglomerados globulares. Mais de 1.000 aglomerados globulares foram observados telescopicamente até agora.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/definition-what-is-a-globular-cluster/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Um aglomerado globular é uma coleção esférica de estrelas orbitando no halo de galáxias espirais. Nossa própria galáxia, a Via Láctea, tem mais de 150 aglomerados globulares. O post O que é um aglomerado globular? A Via Láctea apareceu pela primeira vez em cerca de 150. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O Telescópio Espacial Hubble capturou esta imagem descentralizada do aglomerado globular M5 em 2015. Omega Centauri, contendo até 10 milhões de estrelas, é de longe o maior aglomerado globular associado à nossa galáxia, a Via Láctea.</p><p>A imagem mostra apenas a parte central do aglomerado, uma área aproximadamente do tamanho da lua cheia na cúpula do céu. A Via Láctea tem mais de 150 aglomerados globulares Nossa própria Via Láctea tem mais de 150 aglomerados globulares, talvez mais deles escondidos pela poeira galáctica.</p><p>M87 é uma galáxia elíptica gigante com mais de 15.000 aglomerados globulares. Mais de 1.000 aglomerados globulares foram observados telescopicamente até agora.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/definition-what-is-a-globular-cluster/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A globular cluster is a spherical collection of stars orbiting in the halo of spiral galaxies. Our own Milky Way galaxy has over 150 globular clusters. The post What’s a globular cluster? The Milky Way has about 150 first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The Hubble Space Telescope captured this off-center closeup image of the globular cluster M5 in 2015. Omega Centauri, containing as many as 10 million stars, is by far the largest globular cluster associated with our Milky Way galaxy.</p><p>The image shows only the central part of the cluster, an area about the size of the full moon on the sky’s dome. The Milky Way has over 150 globular clusters Our own Milky Way has over 150 globular clusters with perhaps more hidden by galactic dust.</p><p>M87 is a giant elliptical galaxy with over 15,000 globular clusters. Over 1,000 globular clusters have been observed telescopically so far.</p><p>At the center of a globular cluster, stars may reach a density of between 100 and 1,000 stars per cubic parsec. The core of the great Hercules globular cluster Messier 13 from the Hubble Space Telescope.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Messier 13 is the best globular cluster in the Northern Hemisphere The most famous globular cluster in the Northern Hemisphere is M13 in the constellation Hercules, discovered by. In amateur telescopes, it is a small fuzzy patch of light, some 22,000 light-years from Earth.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/definition-what-is-a-globular-cluster/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Um aglomerado globular é uma coleção esférica de estrelas orbitando no halo de galáxias espirais. Nossa própria galáxia, a Via Láctea, tem mais de.",
+      "Dado-chave: O Telescópio Espacial Hubble capturou esta imagem descentralizada do aglomerado globular M5 em 2015.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Um aglomerado globular é uma coleção esférica de estrelas orbitando no halo de galáxias espirais. Nossa própria galáxia, a Via Láctea, tem mais de.",
+      "Dado-chave: O Telescópio Espacial Hubble capturou esta imagem descentralizada do aglomerado globular M5 em 2015.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: A globular cluster is a spherical collection of stars orbiting in the halo of spiral galaxies. Our own Milky Way galaxy has over 150 globular.",
+      "Key detail: The Hubble Space Telescope captured this off-center closeup image of the globular cluster M5 in 2015.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "14 ago 2026",
+    "date_pt": "14 ago 2026",
+    "date_en": "14 Aug 2026",
+    "time": "09h33",
+    "time_pt": "09h33",
+    "time_en": "09:33 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-14T09:33:47+00:00",
+    "lastModifiedIso": "2026-08-14T09:33:47+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "O que é um aglomerado globular? A Via Láctea tem cerca de 150"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "O que é um aglomerado globular? A Via Láctea tem cerca de 150"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "What is a globular cluster? The Milky Way is about 150"
+    ],
+    "srcUrl": "https://earthsky.org/astronomy-essentials/definition-what-is-a-globular-cluster/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=what-s-a-globular-cluster-the-milky-way-has-about-150",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=what-s-a-globular-cluster-the-milky-way-has-about-150",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=what-s-a-globular-cluster-the-milky-way-has-about-150&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 72,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 80,
       "accessibility": 60,
       "novelty": 52
     }

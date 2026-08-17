@@ -40,14 +40,14 @@ window.postsData = [
     "date": "17 ago 2026",
     "date_pt": "17 ago 2026",
     "date_en": "17 Aug 2026",
-    "time": "01h50",
-    "time_pt": "01h50",
-    "time_en": "01:50 UTC",
+    "time": "03h08",
+    "time_pt": "03h08",
+    "time_en": "03:08 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-17T01:50:27.613684+00:00",
-    "lastModifiedIso": "2026-08-17T01:50:27.613684+00:00",
+    "publishedIso": "2026-08-17T03:08:24.144773+00:00",
+    "lastModifiedIso": "2026-08-17T03:08:24.144773+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "17 ago 2026",
     "date_pt": "17 ago 2026",
     "date_en": "17 Aug 2026",
-    "time": "01h50",
-    "time_pt": "01h50",
-    "time_en": "01:50 UTC",
+    "time": "03h08",
+    "time_pt": "03h08",
+    "time_en": "03:08 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-17T01:50:27.613629+00:00",
-    "lastModifiedIso": "2026-08-17T01:50:27.613629+00:00",
+    "publishedIso": "2026-08-17T03:08:24.144711+00:00",
+    "lastModifiedIso": "2026-08-17T03:08:24.144711+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,14 +250,14 @@ window.postsData = [
     "date": "17 ago 2026",
     "date_pt": "17 ago 2026",
     "date_en": "17 Aug 2026",
-    "time": "01h50",
-    "time_pt": "01h50",
-    "time_en": "01:50 UTC",
+    "time": "03h08",
+    "time_pt": "03h08",
+    "time_en": "03:08 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-17T01:50:27.613584+00:00",
-    "lastModifiedIso": "2026-08-17T01:50:27.613584+00:00",
+    "publishedIso": "2026-08-17T03:08:24.144660+00:00",
+    "lastModifiedIso": "2026-08-17T03:08:24.144660+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -358,14 +358,14 @@ window.postsData = [
     "date": "17 ago 2026",
     "date_pt": "17 ago 2026",
     "date_en": "17 Aug 2026",
-    "time": "01h50",
-    "time_pt": "01h50",
-    "time_en": "01:50 UTC",
+    "time": "03h08",
+    "time_pt": "03h08",
+    "time_en": "03:08 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-17T01:50:27.613535+00:00",
-    "lastModifiedIso": "2026-08-17T01:50:27.613535+00:00",
+    "publishedIso": "2026-08-17T03:08:24.144605+00:00",
+    "lastModifiedIso": "2026-08-17T03:08:24.144605+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -463,14 +463,14 @@ window.postsData = [
     "date": "17 ago 2026",
     "date_pt": "17 ago 2026",
     "date_en": "17 Aug 2026",
-    "time": "01h50",
-    "time_pt": "01h50",
-    "time_en": "01:50 UTC",
+    "time": "03h08",
+    "time_pt": "03h08",
+    "time_en": "03:08 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-17T01:50:27.613488+00:00",
-    "lastModifiedIso": "2026-08-17T01:50:27.613488+00:00",
+    "publishedIso": "2026-08-17T03:08:24.144553+00:00",
+    "lastModifiedIso": "2026-08-17T03:08:24.144553+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -1179,7 +1179,7 @@ window.postsData = [
       "evidence": 82,
       "relevance": 62,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -2229,6 +2229,216 @@ window.postsData = [
   },
   {
     "id": 19,
+    "slug": "x-ray-activity-of-the-rs-cvn-type-star-gem-with-the-first-year-observations-of-einstein-probe",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Transiting_Exoplanet_Artist%27s_Impression.jpg/1280px-Transiting_Exoplanet_Artist%27s_Impression.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Atividade de raios X da estrela σ Gem do tipo RS CVn com as observações do primeiro ano da sonda Einstein",
+    "title_pt": "Atividade de raios X da estrela σ Gem do tipo RS CVn com as observações do primeiro ano da sonda Einstein",
+    "title_en": "X-ray Activity of the RS CVn-type Star σ Gem with the First-Year Observations of Einstein Probe",
+    "sub": "Contexto. As erupções estelares são eventos energéticos impulsionados pela liberação repentina de energia magnética na atmosfera estelar. Estudar essas explosões é crucial para.",
+    "sub_pt": "Contexto. As erupções estelares são eventos energéticos impulsionados pela liberação repentina de energia magnética na atmosfera estelar. Estudar essas explosões é crucial para.",
+    "sub_en": "Context. Stellar flares are energetic events driven by the sudden release of magnetic energy in the stellar atmosphere. Studying these flares is crucial for understanding their.",
+    "excerpt": "Contexto. As erupções estelares são eventos energéticos impulsionados pela liberação repentina de energia magnética na atmosfera estelar. Estudar essas explosões é crucial para compreender seu impacto nos exoplanetas, no ambiente circunstelar e.",
+    "excerpt_pt": "Contexto. As erupções estelares são eventos energéticos impulsionados pela liberação repentina de energia magnética na atmosfera estelar. Estudar essas explosões é crucial para compreender seu impacto nos exoplanetas, no ambiente circunstelar e.",
+    "excerpt_en": "Context. Stellar flares are energetic events driven by the sudden release of magnetic energy in the stellar atmosphere. Studying these flares is crucial for understanding their impact on exoplanets, the circumstellar environment, and.",
+    "body": "<p>Contexto. As erupções estelares são eventos energéticos impulsionados pela liberação repentina de energia magnética na atmosfera estelar. Estudar essas explosões é crucial para compreender seu impacto nos exoplanetas, no ambiente circunstelar e. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Apresentamos uma análise sistemática da atividade de flaring do binário ativo do tipo RS CVn. As erupções estelares são eventos energéticos impulsionados pela liberação repentina de energia magnética na atmosfera estelar.</p><p>O estudo destas explosões é crucial para compreender o seu impacto nos exoplanetas, no ambiente circunstelar e na própria evolução estelar. O lançamento da Sonda Einstein (EP) oferece uma oportunidade única para detectar sistematicamente tais eventos.</p><p>Apresentamos uma análise sistemática da atividade de flaring do binário σ Gem ativo do tipo RS CVn, utilizando os dados de monitoramento do primeiro ano do Wide-field X-ray. Nossos objetivos são demonstrar a capacidade única do EP em monitorar a atividade estelar de raios-X e detectar erupções, identificando e caracterizando erupções extremas de.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2608.14009v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Contexto. As erupções estelares são eventos energéticos impulsionados pela liberação repentina de energia magnética na atmosfera estelar. Estudar essas explosões é crucial para compreender seu impacto nos exoplanetas, no ambiente circunstelar e. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Apresentamos uma análise sistemática da atividade de flaring do binário ativo do tipo RS CVn. As erupções estelares são eventos energéticos impulsionados pela liberação repentina de energia magnética na atmosfera estelar.</p><p>O estudo destas explosões é crucial para compreender o seu impacto nos exoplanetas, no ambiente circunstelar e na própria evolução estelar. O lançamento da Sonda Einstein (EP) oferece uma oportunidade única para detectar sistematicamente tais eventos.</p><p>Apresentamos uma análise sistemática da atividade de flaring do binário σ Gem ativo do tipo RS CVn, utilizando os dados de monitoramento do primeiro ano do Wide-field X-ray. Nossos objetivos são demonstrar a capacidade única do EP em monitorar a atividade estelar de raios-X e detectar erupções, identificando e caracterizando erupções extremas de.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2608.14009v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Context. Stellar flares are energetic events driven by the sudden release of magnetic energy in the stellar atmosphere. Studying these flares is crucial for understanding their impact on exoplanets, the circumstellar environment, and. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. We present a systematic analysis of the flaring activity of the active RS CVn-type binary. Stellar flares are energetic events driven by the sudden release of magnetic energy in the stellar atmosphere.</p><p>Studying these flares is crucial for understanding their impact on exoplanets, the circumstellar environment, and stellar evolution itself. The launch of the Einstein Probe (EP) offers a unique opportunity to systematically detect such events.</p><p>We present a systematic analysis of the flaring activity of the active RS CVn-type binary σ Gem, utilizing the first-year monitoring data from the Wide-field X-ray Telescope (WXT). Our goals are to demonstrate the unique capability of EP in monitoring stellar X-ray activity and detecting flares, by identifying and characterizing extreme X-ray flares on σ Gem.</p><p>We developed a data-processing pipeline to select and extract EP-WXT observations, producing a background-subtracted, vignetting-corrected light curve. Between October 2024 and April 2025, WXT detected 6 distinct flares from σ Gem.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>Their durations ranged from 21 hours to 3 days, with peak X-ray luminosities (0.5-4 keV) of 3.7 * 10^31 to 7.0 * 10^32 erg/s and total energies of 1.1 * 10^36 to 4.4 * 10^37 erg. Using σ Gem as a case study, we demonstrate an analysis process for flare detection and analysis with EP-WXT data, which provides new statistical constraints on its flaring.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2608.14009v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Contexto. As erupções estelares são eventos energéticos impulsionados pela liberação repentina de energia magnética na atmosfera estelar. Estudar.",
+      "Dado-chave: Apresentamos uma análise sistemática da atividade de flaring do binário ativo do tipo RS CVn.",
+      "Resultado ainda sem revisão por pares."
+    ],
+    "highlights_pt": [
+      "Ponto central: Contexto. As erupções estelares são eventos energéticos impulsionados pela liberação repentina de energia magnética na atmosfera estelar. Estudar.",
+      "Dado-chave: Apresentamos uma análise sistemática da atividade de flaring do binário ativo do tipo RS CVn.",
+      "Resultado ainda sem revisão por pares."
+    ],
+    "highlights_en": [
+      "Core point: Context. Stellar flares are energetic events driven by the sudden release of magnetic energy in the stellar atmosphere. Studying these flares is.",
+      "Key detail: We present a systematic analysis of the flaring activity of the active RS CVn-type binary.",
+      "Result not yet peer reviewed."
+    ],
+    "date": "14 ago 2026",
+    "date_pt": "14 ago 2026",
+    "date_en": "14 Aug 2026",
+    "time": "06h58",
+    "time_pt": "06h58",
+    "time_en": "06:58 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-14T06:58:05+00:00",
+    "lastModifiedIso": "2026-08-14T06:58:05+00:00",
+    "source": "arXiv Astrophysics",
+    "sourceDomain": "arxiv.org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint ainda sem revisão por pares.",
+    "sourceNote_pt": "Preprint ainda sem revisão por pares.",
+    "sourceNote_en": "Preprint not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Exoplanetas",
+      "arXiv Astrophysics",
+      "Cosmos Week",
+      "Atividade de raios X da estrela σ Gem do tipo RS CVn com as observações do primeiro ano da sonda Einstein"
+    ],
+    "keywords_pt": [
+      "Exoplanetas",
+      "arXiv Astrophysics",
+      "Cosmos Week",
+      "Atividade de raios X da estrela σ Gem do tipo RS CVn com as observações do primeiro ano da sonda Einstein"
+    ],
+    "keywords_en": [
+      "Exoplanets",
+      "arXiv Astrophysics",
+      "Cosmos Week",
+      "X-ray activity of the star σ Gem of type RS CVn with observations from the first year of the Einstein probe"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2608.14009v1",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=x-ray-activity-of-the-rs-cvn-type-star-gem-with-the-first-year-observations-of-einstein-probe",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=x-ray-activity-of-the-rs-cvn-type-star-gem-with-the-first-year-observations-of-einstein-probe",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=x-ray-activity-of-the-rs-cvn-type-star-gem-with-the-first-year-observations-of-einstein-probe&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 68,
+    "scoreBreakdown": {
+      "source": 56,
+      "evidence": 64,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 49
+    }
+  },
+  {
+    "id": 20,
+    "slug": "the-sensitivity-of-tess-to-transiting-planets-in-tois-with-close-in-stellar-companions",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Earth%27s_magnetic_field_and_magnetosphere.jpg/1280px-Earth%27s_magnetic_field_and_magnetosphere.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "A sensibilidade do TESS a planetas em trânsito em TOIs com companheiras estelares próximas",
+    "title_pt": "A sensibilidade do TESS a planetas em trânsito em TOIs com companheiras estelares próximas",
+    "title_en": "The sensitivity of TESS to transiting planets in TOIs with close-in stellar companions",
+    "sub": "Imagens de alta resolução com interferometria de manchas ópticas revelaram que muitas estrelas hospedeiras de exoplanetas em trânsito possuem companheiras estelares próximas. O.",
+    "sub_pt": "Imagens de alta resolução com interferometria de manchas ópticas revelaram que muitas estrelas hospedeiras de exoplanetas em trânsito possuem companheiras estelares próximas. O.",
+    "sub_en": "High resolution imaging with optical speckle interferometry has revealed that many transiting exoplanet host stars possess close-in stellar companions. The objective of this study.",
+    "excerpt": "Imagens de alta resolução com interferometria de manchas ópticas revelaram que muitas estrelas hospedeiras de exoplanetas em trânsito possuem companheiras estelares próximas. O objetivo deste estudo é quantificar como a presença desses acompanhantes impacta.",
+    "excerpt_pt": "Imagens de alta resolução com interferometria de manchas ópticas revelaram que muitas estrelas hospedeiras de exoplanetas em trânsito possuem companheiras estelares próximas. O objetivo deste estudo é quantificar como a presença desses acompanhantes impacta.",
+    "excerpt_en": "High resolution imaging with optical speckle interferometry has revealed that many transiting exoplanet host stars possess close-in stellar companions. The objective of this study is to quantify how the presence of these companions impacts.",
+    "body": "<p>Imagens de alta resolução com interferometria de manchas ópticas revelaram que muitas estrelas hospedeiras de exoplanetas em trânsito possuem companheiras estelares próximas. O objetivo deste estudo é quantificar como a presença desses acompanhantes impacta. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Conseguimos isso examinando 2052 objetos de interesse TESS (TOIs) que parecem ser sistemas de estrela única com base em observações interferométricas de speckle. Imagens de alta resolução com interferometria de manchas ópticas revelaram que muitas estrelas hospedeiras de exoplanetas em trânsito possuem companheiras estelares próximas.</p><p>O objetivo deste estudo é quantificar como a presença desses companheiros impacta a capacidade do TESS de detectar trânsitos de pequenos planetas. Conseguimos isso examinando 2.052 objetos de interesse TESS (TOIs) que parecem ser sistemas de estrela única com base em observações interferométricas speckle, bem como 188 TOIs.</p><p>Para cada planeta, pegamos sua relação sinal-ruído de trânsito (SNR), raio e período orbital do catálogo TOI e, para planetas em binários estelares, corrigimos o raio para. Ao aplicar uma relação de escala ao SNR de trânsito medido de cada TOI em nossa amostra, determinamos a detectabilidade dos trânsitos em cada TOI em função do raio do planeta e do.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2608.13527v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Imagens de alta resolução com interferometria de manchas ópticas revelaram que muitas estrelas hospedeiras de exoplanetas em trânsito possuem companheiras estelares próximas. O objetivo deste estudo é quantificar como a presença desses acompanhantes impacta. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Conseguimos isso examinando 2052 objetos de interesse TESS (TOIs) que parecem ser sistemas de estrela única com base em observações interferométricas de speckle. Imagens de alta resolução com interferometria de manchas ópticas revelaram que muitas estrelas hospedeiras de exoplanetas em trânsito possuem companheiras estelares próximas.</p><p>O objetivo deste estudo é quantificar como a presença desses companheiros impacta a capacidade do TESS de detectar trânsitos de pequenos planetas. Conseguimos isso examinando 2.052 objetos de interesse TESS (TOIs) que parecem ser sistemas de estrela única com base em observações interferométricas speckle, bem como 188 TOIs.</p><p>Para cada planeta, pegamos sua relação sinal-ruído de trânsito (SNR), raio e período orbital do catálogo TOI e, para planetas em binários estelares, corrigimos o raio para. Ao aplicar uma relação de escala ao SNR de trânsito medido de cada TOI em nossa amostra, determinamos a detectabilidade dos trânsitos em cada TOI em função do raio do planeta e do.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como este trabalho ainda é um preprint, o resultado deve ser lido com interesse genuíno e cautela proporcional. A revisão por pares não é uma garantia de correção, mas é um processo que obriga os autores a responder a críticas técnicas de especialistas que não têm interesse em um resultado particular. Preprints que sobrevivem a esse processo, muitas vezes com revisões substantivas, emergem com uma base evidencial mais sólida do que a versão que apareceu pela primeira vez. Até que essa etapa seja concluída, a leitura responsável mantém a incerteza explicitamente visível em vez de tratar as afirmações como descobertas estabelecidas.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado. Até que a revisão por pares e a verificação independente respondam a essas questões abertas, o ceticismo não é uma falha em apreciar o trabalho; é parte de como a ciência decide o que manter.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2608.13527v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>High resolution imaging with optical speckle interferometry has revealed that many transiting exoplanet host stars possess close-in stellar companions. The objective of this study is to quantify how the presence of these companions impacts. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. We accomplish this by examining 2052 TESS Objects of Interest (TOIs) that appear to be single-star systems based on speckle interferometric observations as. High resolution imaging with optical speckle interferometry has revealed that many transiting exoplanet host stars possess close-in stellar companions.</p><p>The objective of this study is to quantify how the presence of these companions impacts the ability of TESS to detect the transits of small planets. We accomplish this by examining 2052 TESS Objects of Interest (TOIs) that appear to be single-star systems based on speckle interferometric observations as well as 188 TOIs in.</p><p>For each planet, we take its transit signal-to-noise ratio (SNR), radius, and orbital period from the TOI catalog and, for planets in stellar binaries, we correct the radius for. By applying a scaling relation to the measured transit SNR of each TOI in our sample, we determine the detectability of transits in each TOI as a function of both planet radius.</p><p>When applied to the full sample, this procedure elucidates the sensitivity of TESS to transiting planets as a function of binarity, host-star spectral type, planet radius, and. These sensitivity grids quantify the bias against the detection of small planets in unresolved binaries by TESS and show that there is a particularly low sensitivity to planets.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>These sensitivity grids are available for download to facilitate their use in other studies. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2608.13527v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Imagens de alta resolução com interferometria de manchas ópticas revelaram que muitas estrelas hospedeiras de exoplanetas em trânsito possuem.",
+      "Dado-chave: Conseguimos isso examinando 2052 objetos de interesse TESS (TOIs) que parecem ser sistemas de estrela única com base em observações.",
+      "Resultado ainda sem revisão por pares."
+    ],
+    "highlights_pt": [
+      "Ponto central: Imagens de alta resolução com interferometria de manchas ópticas revelaram que muitas estrelas hospedeiras de exoplanetas em trânsito possuem.",
+      "Dado-chave: Conseguimos isso examinando 2052 objetos de interesse TESS (TOIs) que parecem ser sistemas de estrela única com base em observações.",
+      "Resultado ainda sem revisão por pares."
+    ],
+    "highlights_en": [
+      "Core point: High resolution imaging with optical speckle interferometry has revealed that many transiting exoplanet host stars possess close-in stellar.",
+      "Key detail: We accomplish this by examining 2052 TESS Objects of Interest (TOIs) that appear to be single-star systems based on speckle interferometric.",
+      "Result not yet peer reviewed."
+    ],
+    "date": "13 ago 2026",
+    "date_pt": "13 ago 2026",
+    "date_en": "13 Aug 2026",
+    "time": "17h46",
+    "time_pt": "17h46",
+    "time_en": "17:46 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-13T17:46:14+00:00",
+    "lastModifiedIso": "2026-08-13T17:46:14+00:00",
+    "source": "arXiv Earth & Planetary",
+    "sourceDomain": "arxiv.org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint ainda sem revisão por pares.",
+    "sourceNote_pt": "Preprint ainda sem revisão por pares.",
+    "sourceNote_en": "Preprint not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Exoplanetas",
+      "arXiv Earth & Planetary",
+      "Cosmos Week",
+      "A sensibilidade do TESS a planetas em trânsito em TOIs com companheiras estelares próximas"
+    ],
+    "keywords_pt": [
+      "Exoplanetas",
+      "arXiv Earth & Planetary",
+      "Cosmos Week",
+      "A sensibilidade do TESS a planetas em trânsito em TOIs com companheiras estelares próximas"
+    ],
+    "keywords_en": [
+      "Exoplanets",
+      "arXiv Earth & Planetary",
+      "Cosmos Week",
+      "The sensitivity of TESS to transiting planets in TOIs with close stellar companions"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2608.13527v1",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-sensitivity-of-tess-to-transiting-planets-in-tois-with-close-in-stellar-companions",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-sensitivity-of-tess-to-transiting-planets-in-tois-with-close-in-stellar-companions",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-sensitivity-of-tess-to-transiting-planets-in-tois-with-close-in-stellar-companions&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 68,
+    "scoreBreakdown": {
+      "source": 56,
+      "evidence": 64,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 49
+    }
+  },
+  {
+    "id": 21,
     "slug": "solar-magnetic-field-braids-may-have-a-previously-hidden-cause",
     "cat": "Física",
     "catCls": "fisica",
@@ -2365,7 +2575,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 22,
     "slug": "first-major-structure-of-the-future-cms-tracker-arrives-at-cern",
     "cat": "Física",
     "catCls": "fisica",
@@ -2480,64 +2690,82 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
-    "slug": "the-july-august-2026-issue-of-the-cern-courier-is-out",
+    "id": 23,
+    "slug": "nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications",
     "cat": "Física",
     "catCls": "fisica",
-    "img": "https://home.cern/wp-content/uploads/2026/07/courier_jul_aug_cover-3.jpg",
+    "img": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/NSF_Project_Triad_Hero_1200x468.png?itok=x5jUBvdL",
     "inline_images": [
       {
-        "src": "https://home.cern/the-july-august-2026-issue-of-the-cern-courier-is-out/context.post.image",
-        "caption": "contexto.post.título",
-        "caption_pt": "contexto.post.título",
-        "caption_en": "context.post.title",
-        "alt": "contexto.post.título",
-        "alt_pt": "contexto.post.título",
-        "alt_en": "context.post.title"
+        "src": "https://nsf-gov-resources.nsf.gov/styles/news_hero_mobile_600x352_/s3/media_hub/NSF_Project_Triad_Hero_1200x468.png.webp?itok=2s1A0WVI",
+        "caption": "Colagem mostrando três esferas, um homem trabalhando em um campo de petróleo, um submarino e tubos de ensaio.",
+        "caption_pt": "Colagem mostrando três esferas, um homem trabalhando em um campo de petróleo, um submarino e tubos de ensaio.",
+        "caption_en": "A collage showing three spheres, a man working at an oil field, a submarine and test tubes.",
+        "alt": "Colagem mostrando três esferas, um homem trabalhando em um campo de petróleo, um submarino e tubos de ensaio.",
+        "alt_pt": "Colagem mostrando três esferas, um homem trabalhando em um campo de petróleo, um submarino e tubos de ensaio.",
+        "alt_en": "A collage showing three spheres, a man working at an oil field, a submarine and test tubes."
+      },
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/NSF%20State%20and%20Regional%20AI%20Infrastructure%20Hubs.jpg?itok=0uTvzH-d",
+        "caption": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
+        "caption_pt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
+        "caption_en": "NSF State and Regional AI Infrastructure Hubs - Sans Text",
+        "alt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
+        "alt_pt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
+        "alt_en": "NSF State and Regional AI Infrastructure Hubs - Sans Text"
+      },
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/2534344_TAMU_AutoLab_3DRender_91_graded_cropped_16x9.jpg?itok=vKr09VyX",
+        "caption": "Uma renderização computacional 3D de um laboratório com robôs e equipamentos laranja em fileiras.",
+        "caption_pt": "Uma renderização computacional 3D de um laboratório com robôs e equipamentos laranja em fileiras.",
+        "caption_en": "A 3D computer rendering of a laboratory with orange robots and equipment in rows.",
+        "alt": "Uma renderização computacional 3D de um laboratório com robôs e equipamentos laranja em fileiras.",
+        "alt_pt": "Uma renderização computacional 3D de um laboratório com robôs e equipamentos laranja em fileiras.",
+        "alt_en": "A 3D computer rendering of a laboratory with orange robots and equipment in rows."
       }
     ],
     "video": null,
     "audio": null,
-    "title": "A edição de julho/agosto de 2026 do CERN Courier foi lançada",
-    "title_pt": "A edição de julho/agosto de 2026 do CERN Courier foi lançada",
-    "title_en": "The July/August 2026 issue of the CERN Courier is out",
-    "sub": "Quando o colisor de grandes elétrons e pósitrons foi ativado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes, colidiu elétrons e pósitrons até a.",
-    "sub_pt": "Quando o colisor de grandes elétrons e pósitrons foi ativado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes, colidiu elétrons e pósitrons até a.",
-    "sub_en": "When the Large Electron, Positron collider switched on, in 1989, the field had never worked at such a scale. Approved eight years earlier, it collided electrons and positrons.",
-    "excerpt": "Quando o colisor de grandes elétrons e pósitrons foi ativado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes, colidiu elétrons e pósitrons até a virada do século, marcando duas décadas.",
-    "excerpt_pt": "Quando o colisor de grandes elétrons e pósitrons foi ativado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes, colidiu elétrons e pósitrons até a virada do século, marcando duas décadas.",
-    "excerpt_en": "When the Large Electron, Positron collider switched on, in 1989, the field had never worked at such a scale. Approved eight years earlier, it collided electrons and positrons until the turn of the century, marking two decades in which.",
-    "body": "<p>Quando o colisor de grandes elétrons e pósitrons foi ativado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes, colidiu elétrons e pósitrons até a virada do século, marcando duas décadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Em Novembro passado, cerca de 200 físicos e historiadores reuniram-se no CERN para fazer um balanço. Anúncio Comunidade CERN CERN Courier Artigos relacionados Ver todas as notícias Nenhuma postagem foi encontrada.</p><p>Quando o Grande Colisor Elétron-Positron (LEP) foi ligado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes, colidiu electrões e positrões até ao virar do século, marcando duas décadas em que a descoberta se tornou verdadeiramente global.</p><p>Em Novembro passado, cerca de 200 físicos e historiadores reuniram-se no CERN para fazer um balanço desses anos, enquanto o Grande Colisor de Hádrons, construído no túnel da LEP. Durante 10 anos, o NA64 disparou sondas sobre um alvo e observou a falta de energia, procurando um setor escuro demasiado fraco para ser detectado de outra forma.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/the-july-august-2026-issue-of-the-cern-courier-is-out/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Quando o colisor de grandes elétrons e pósitrons foi ativado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes, colidiu elétrons e pósitrons até a virada do século, marcando duas décadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Em Novembro passado, cerca de 200 físicos e historiadores reuniram-se no CERN para fazer um balanço. Anúncio Comunidade CERN CERN Courier Artigos relacionados Ver todas as notícias Nenhuma postagem foi encontrada.</p><p>Quando o Grande Colisor Elétron-Positron (LEP) foi ligado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes, colidiu electrões e positrões até ao virar do século, marcando duas décadas em que a descoberta se tornou verdadeiramente global.</p><p>Em Novembro passado, cerca de 200 físicos e historiadores reuniram-se no CERN para fazer um balanço desses anos, enquanto o Grande Colisor de Hádrons, construído no túnel da LEP. Durante 10 anos, o NA64 disparou sondas sobre um alvo e observou a falta de energia, procurando um setor escuro demasiado fraco para ser detectado de outra forma.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/the-july-august-2026-issue-of-the-cern-courier-is-out/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>When the Large Electron, Positron collider switched on, in 1989, the field had never worked at such a scale. Approved eight years earlier, it collided electrons and positrons until the turn of the century, marking two decades in which. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Last November, some 200 physicists and historians gathered at CERN to take stock. Announcement CERN community CERN Courier Related Articles View all news No posts were found.</p><p>When the Large Electron, Positron collider (LEP) switched on, in 1989, the field had never worked at such a scale. Approved eight years earlier, it collided electrons and positrons until the turn of the century, marking two decades in which discovery truly turned global.</p><p>Last November, some 200 physicists and historians gathered at CERN to take stock of those years, while the Large Hadron Collider, built in LEP’s tunnel, delivered its final. For 10 years, NA64 has fired probes onto a target and watched for missing energy, seeking a dark sector too faint to catch otherwise.</p><p>It will now undergo a full round of upgrades, to sustain much higher intensities and increase its dataset by up to two orders of magnitude. This edition of CERN Courier also explores Xsuite, the open-source framework that gathered the field’s scattered beam-simulation tools.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Today, it designs the colliders to come, tunes those already running and models synchrotrons to treat cancer. In May, the CERN Council updated the European Strategy for Particle Physics.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/the-july-august-2026-issue-of-the-cern-courier-is-out/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "NSF lança Projeto Triad para avançar a tecnologia quântica para aplicações do mundo real",
+    "title_pt": "NSF lança Projeto Triad para avançar a tecnologia quântica para aplicações do mundo real",
+    "title_en": "NSF launches Project Triad to advance quantum technology for real-world applications",
+    "sub": "A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar detecção quântica, rede quântica e computação quântica em um único.",
+    "sub_pt": "A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar detecção quântica, rede quântica e computação quântica em um único.",
+    "sub_en": "The U. S. National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking and quantum computing into a.",
+    "excerpt": "A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar detecção quântica, rede quântica e computação quântica em um único sistema operacional.",
+    "excerpt_pt": "A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar detecção quântica, rede quântica e computação quântica em um único sistema operacional.",
+    "excerpt_en": "The U. S. National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking and quantum computing into a single operational.",
+    "body": "<p>A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar detecção quântica, rede quântica e computação quântica em um único sistema operacional. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. A National Science Foundation anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e computação quântica em um único sistema. Isso permite que sensores quânticos detectem detalhes mais sutis e que computadores quânticos resolvam potencialmente problemas que, de outra forma, levariam anos, ou mesmo.</p><p>A combinação de sensores quânticos, redes e computadores em sistemas quânticos integrados abre uma nova fronteira de possibilidades: “Alcançar o Projeto Tríade exigirá um trabalho. O Projeto Triad adota uma abordagem sistemática para identificar quais inovações quânticas estão prontas para escalar, eliminando aquelas que não estão e acelerando as ideias mais.</p><p>Fá-lo através de três programas interligados que reúnem governo, universidades e indústria privada, tornando-se o primeiro esforço para construir um ambiente quântico totalmente. Esses programas também treinam a próxima geração de cientistas e engenheiros quânticos, garantindo que a força de trabalho esteja pronta para aproveitar o que o Project Triad.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de NSF News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/nsf-launches-project-triad-advance-quantum-technology-real\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar detecção quântica, rede quântica e computação quântica em um único sistema operacional. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. A National Science Foundation anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e computação quântica em um único sistema. Isso permite que sensores quânticos detectem detalhes mais sutis e que computadores quânticos resolvam potencialmente problemas que, de outra forma, levariam anos, ou mesmo.</p><p>A combinação de sensores quânticos, redes e computadores em sistemas quânticos integrados abre uma nova fronteira de possibilidades: “Alcançar o Projeto Tríade exigirá um trabalho. O Projeto Triad adota uma abordagem sistemática para identificar quais inovações quânticas estão prontas para escalar, eliminando aquelas que não estão e acelerando as ideias mais.</p><p>Fá-lo através de três programas interligados que reúnem governo, universidades e indústria privada, tornando-se o primeiro esforço para construir um ambiente quântico totalmente. Esses programas também treinam a próxima geração de cientistas e engenheiros quânticos, garantindo que a força de trabalho esteja pronta para aproveitar o que o Project Triad.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de NSF News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/nsf-launches-project-triad-advance-quantum-technology-real\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The U. S. National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking and quantum computing into a single operational. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking and quantum computing into a single. This allows quantum sensors to detect finer details and quantum computers to potentially solve problems that would otherwise take years, or even centuries, to tackle.</p><p>Combining quantum sensors, networks and computers in integrated quantum systems opens a new frontier of possibilities: &quot;Achieving Project Triad will require exceptional. Project Triad takes a systematic approach to identifying which quantum breakthroughs are ready to scale, cutting the ones that aren&#x27;t, and accelerating the most promising ideas.</p><p>It does this through three interlocking programs that bring together government, universities and private industry, making it the first effort to build a fully integrated quantum. These programs also train the next generation of quantum scientists and engineers, ensuring the workforce is ready to build on what Project Triad delivers.</p><p>Navigation and secure communications for first responders and military personnel operating in areas without access to GPS or other satellites. Detecting underground oil, gas and mineral deposits with less exploratory drilling.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Currently in the design phase, NSF plans to accelerate several NSF NQVL projects from design to implementation by December 2026 (pending funding availability). NSF X-Labs are independent teams of researchers, engineers and entrepreneurs pursuing milestone-based federal funding to solve specific scientific challenges, including quantum.</p><p>Because the account originates with NSF News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/nsf-launches-project-triad-advance-quantum-technology-real\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Quando o colisor de grandes elétrons e pósitrons foi ativado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes.",
-      "Dado-chave: Em Novembro passado, cerca de 200 físicos e historiadores reuniram-se no CERN para fazer um balanço [.]",
+      "Ponto central: A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar detecção quântica, rede quântica e.",
+      "Dado-chave: A National Science Foundation anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Quando o colisor de grandes elétrons e pósitrons foi ativado, em 1989, o campo nunca havia funcionado em tal escala. Aprovado oito anos antes.",
-      "Dado-chave: Em Novembro passado, cerca de 200 físicos e historiadores reuniram-se no CERN para fazer um balanço [.]",
+      "Ponto central: A Fundação Nacional de Ciência dos EUA anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar detecção quântica, rede quântica e.",
+      "Dado-chave: A National Science Foundation anunciou hoje o Projeto Triad, uma iniciativa inédita para integrar sensoriamento quântico, rede quântica e.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: When the Large Electron, Positron collider switched on, in 1989, the field had never worked at such a scale. Approved eight years earlier, it.",
-      "Key detail: Last November, some 200 physicists and historians gathered at CERN to take stock [.]",
+      "Core point: The U. S. National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking.",
+      "Key detail: National Science Foundation today announced Project Triad, a first-of-its-kind initiative to integrate quantum sensing, quantum networking and.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "29 jul 2026",
-    "date_pt": "29 jul 2026",
-    "date_en": "29 Jul 2026",
-    "time": "14h35",
-    "time_pt": "14h35",
-    "time_en": "14:35 UTC",
+    "date": "07 jul 2026",
+    "date_pt": "07 jul 2026",
+    "date_en": "07 Jul 2026",
+    "time": "18h00",
+    "time_pt": "18h00",
+    "time_en": "18:00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-07-29T14:35:33+00:00",
-    "lastModifiedIso": "2026-07-29T14:35:33+00:00",
-    "source": "CERN News",
-    "sourceDomain": "home.cern",
+    "publishedIso": "2026-07-07T18:00:07+00:00",
+    "lastModifiedIso": "2026-07-07T18:00:07+00:00",
+    "source": "NSF News",
+    "sourceDomain": "www.nsf.gov",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -2555,26 +2783,26 @@ window.postsData = [
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
       "Física",
-      "CERN News",
+      "NSF News",
       "Cosmos Week",
-      "A edição de julho/agosto de 2026 do CERN Courier foi lançada"
+      "NSF lança Projeto Triad para avançar a tecnologia quântica para aplicações do mundo real"
     ],
     "keywords_pt": [
       "Física",
-      "CERN News",
+      "NSF News",
       "Cosmos Week",
-      "A edição de julho/agosto de 2026 do CERN Courier foi lançada"
+      "NSF lança Projeto Triad para avançar a tecnologia quântica para aplicações do mundo real"
     ],
     "keywords_en": [
       "Physical",
-      "CERN News",
+      "NSF News",
       "Cosmos Week",
-      "The July/August 2026 edition of the CERN Courier has been released"
+      "NSF launches Project Triad to advance quantum technology for real-world applications"
     ],
-    "srcUrl": "https://home.cern/the-july-august-2026-issue-of-the-cern-courier-is-out/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-july-august-2026-issue-of-the-cern-courier-is-out",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-july-august-2026-issue-of-the-cern-courier-is-out",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-july-august-2026-issue-of-the-cern-courier-is-out&lang=en",
+    "srcUrl": "https://www.nsf.gov/news/nsf-launches-project-triad-advance-quantum-technology-real",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -2587,15 +2815,15 @@ window.postsData = [
     "geminiModel": "gemini-2.0-flash",
     "score": 71,
     "scoreBreakdown": {
-      "source": 86,
-      "evidence": 82,
+      "source": 80,
+      "evidence": 88,
       "relevance": 68,
       "accessibility": 52,
       "novelty": 46
     }
   },
   {
-    "id": 22,
+    "id": 24,
     "slug": "nasa-s-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2741,7 +2969,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 25,
     "slug": "a-look-back-at-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2887,12 +3115,40 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
+    "id": 26,
     "slug": "how-esa-mimics-and-models-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/proba-3_mimics_the_2026_total_solar_eclipse/27410604-1-eng-GB/Proba-3_mimics_the_2026_total_solar_eclipse_card_full.png",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/proba-3_mimics_the_2026_total_solar_eclipse/27410604-1-eng-GB/Proba-3_mimics_the_2026_total_solar_eclipse_article.png",
+        "caption": "Eclipse solar artificial do Proba-3",
+        "caption_pt": "Eclipse solar artificial do Proba-3",
+        "caption_en": "Proba-3's artificial solar eclipse",
+        "alt": "Eclipse solar artificial do Proba-3",
+        "alt_pt": "Eclipse solar artificial do Proba-3",
+        "alt_en": "Proba-3's artificial solar eclipse"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/side_view_of_the_sun_s_surface_magnetism/27411226-1-eng-GB/Side_view_of_the_Sun_s_surface_magnetism_article.png",
+        "caption": "Magnetograma usando dados do instrumento PHI da Solar Orbiter",
+        "caption_pt": "Magnetograma usando dados do instrumento PHI da Solar Orbiter",
+        "caption_en": "Magnetogram using data from Solar Orbiter's PHI instrument",
+        "alt": "Magnetograma usando dados do Solar Orbiter",
+        "alt_pt": "Magnetograma usando dados do Solar Orbiter",
+        "alt_en": "Magnetogram using data from Solar Orbiter"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/latest_psi_eclipse_prediction/27411330-2-eng-GB/Latest_PSI_eclipse_prediction_article.jpg",
+        "caption": "Previsão do eclipse de agosto pela Ciência Preditiva",
+        "caption_pt": "Previsão do eclipse de agosto pela Ciência Preditiva",
+        "caption_en": "Prediction of the August eclipse by Predictive Science",
+        "alt": "Previsão do eclipse de agosto pela Ciência Preditiva",
+        "alt_pt": "Previsão do eclipse de agosto pela Ciência Preditiva",
+        "alt_en": "Prediction of the August eclipse by Predictive Science"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Como a ESA imita e modela o eclipse solar total de 2026",
@@ -2904,22 +3160,22 @@ window.postsData = [
     "excerpt": "Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros.",
     "excerpt_pt": "Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros.",
     "excerpt_en": "On 12 August 2026, parts of Europe will experience a total solar eclipse. With the Sun's bright disc covered, its surrounding atmosphere, the solar corona, will become visible to the naked eye. Unfortunately, total solar eclipses are rare.",
-    "body": "<p>Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para criar. No dia 12 de Agosto de 2026, algumas partes da Europa sofrerão um eclipse solar total.</p><p>Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros e duram no máximo alguns minutos, dando aos cientistas pouco tempo para estudar o enigmático halo do Sol.</p><p>É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para criar simulações digitais. Então, como fazemos isso e por que isso é importante.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para criar. No dia 12 de Agosto de 2026, algumas partes da Europa sofrerão um eclipse solar total.</p><p>Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros e duram no máximo alguns minutos, dando aos cientistas pouco tempo para estudar o enigmático halo do Sol.</p><p>É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para criar simulações digitais. Então, como fazemos isso e por que isso é importante.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>On 12 August 2026, parts of Europe will experience a total solar eclipse. With the Sun&#x27;s bright disc covered, its surrounding atmosphere, the solar corona, will become visible to the naked eye. Unfortunately, total solar eclipses are rare. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. This is why ESA developed missions that create eclipses artificially, and why experts use computer models to create. On 12 August 2026, parts of Europe will experience a total solar eclipse.</p><p>With the Sun&#x27;s bright disc covered, its surrounding atmosphere, the solar corona, will become visible to the naked eye. Unfortunately, total solar eclipses are rare and last at most a few minutes, giving scientists little time to study the Sun’s enigmatic halo.</p><p>This is why ESA developed missions that create eclipses artificially, and why experts use computer models to create digital simulations. So how do we do it, and why is it important.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Até recentemente, a coroa completa só podia ser observada da Terra durante os curtos períodos de eclipses totais. Um eclipse solar é um exemplo de “ocultação solar” natural, quando um objeto (neste caso a Lua) bloqueia o disco solar da perspectiva de um observador.</p><p>Para preencher esta lacuna de observação, a ESA desenvolveu e lançou o seu criador de eclipses artificiais Proba-3, uma missão que consiste num par de satélites que voam a 150. Andrei Zhukov, investigador principal do instrumento ASPIICS no Observatório Real da Bélgica, comenta sobre um dos eclipses artificiais mais recentes da missão: “Este é o 62º.</p><p>O Sol leva duas semanas para girar até a metade em torno de seu eixo, então, se espelharmos a imagem horizontalmente, teremos uma previsão de como será a aparência da coroa. Nos dias que antecedem 12 de Agosto, a missão Solar Orbiter liderada pela ESA está a realizar uma campanha especial de observação com os seus vários instrumentos de detecção.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Até recentemente, a coroa completa só podia ser observada da Terra durante os curtos períodos de eclipses totais. Um eclipse solar é um exemplo de “ocultação solar” natural, quando um objeto (neste caso a Lua) bloqueia o disco solar da perspectiva de um observador.</p><p>Para preencher esta lacuna de observação, a ESA desenvolveu e lançou o seu criador de eclipses artificiais Proba-3, uma missão que consiste num par de satélites que voam a 150. Andrei Zhukov, investigador principal do instrumento ASPIICS no Observatório Real da Bélgica, comenta sobre um dos eclipses artificiais mais recentes da missão: “Este é o 62º.</p><p>O Sol leva duas semanas para girar até a metade em torno de seu eixo, então, se espelharmos a imagem horizontalmente, teremos uma previsão de como será a aparência da coroa. Nos dias que antecedem 12 de Agosto, a missão Solar Orbiter liderada pela ESA está a realizar uma campanha especial de observação com os seus vários instrumentos de detecção.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>On 12 August 2026, parts of Europe will experience a total solar eclipse. With the Sun&#x27;s bright disc covered, its surrounding atmosphere, the solar corona, will become visible to the naked eye. Unfortunately, total solar eclipses are rare. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Until recently, the full corona could only be observed from Earth during the short periods of total eclipses. A solar eclipse is an example of a natural &#x27;solar occultation’, when an object (in this case the Moon) blocks the Sun&#x27;s disc from an observer&#x27;s perspective.</p><p>To fill this observation gap, ESA developed and launched its artificial eclipse-maker Proba-3, a mission that consists of a pair of satellites flying 150 metres apart and. Andrei Zhukov, principal investigator for the ASPIICS instrument at the Royal Observatory of Belgium, comments on one of the mission&#x27;s most recent artificial eclipses: “This is.</p><p>It takes the Sun two weeks to rotate halfway around its axis, so if we mirror the image horizontally, we get a prediction of what the corona will look like during the natural. In the days leading up to 12 August, the ESA-led Solar Orbiter mission is running a special observation campaign with its various remote-sensing instruments.</p><p>“A total solar eclipse lets us verify that our models are correct by comparing forecasts with actual observations,” says Jorge Amaya, ESA Space Weather Modelling Coordinator. Most solar observations are made from near Earth, providing only a limited view of a vast three-dimensional system.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>That is the key to dramatically improving forecasts of how solar activity will affect our technology.” Solar Orbiter&#x27;s location today gives us a sneak preview of what ESA’s space. Planned for launch in 2031, Vigil will tail Earth to provide continuous, near real-time observations of the Sun’s side.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa.",
-      "Dado-chave: É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para.",
+      "Dado-chave: Até recentemente, a coroa completa só podia ser observada da Terra durante os curtos períodos de eclipses totais.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa.",
-      "Dado-chave: É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para.",
+      "Dado-chave: Até recentemente, a coroa completa só podia ser observada da Terra durante os curtos períodos de eclipses totais.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: On 12 August 2026, parts of Europe will experience a total solar eclipse. With the Sun's bright disc covered, its surrounding atmosphere, the solar.",
-      "Key detail: This is why ESA developed missions that create eclipses artificially, and why experts use computer models to create.",
+      "Key detail: Until recently, the full corona could only be observed from Earth during the short periods of total eclipses.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "10 ago 2026",
@@ -2992,7 +3248,7 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 27,
     "slug": "hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3125,7 +3381,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 28,
     "slug": "science-campaigns-planned-for-the-august-12th-total-solar-eclipse",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3258,7 +3514,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 29,
     "slug": "volunteer-develops-machine-learning-tool-to-identify-rare-clouds",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3363,7 +3619,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 30,
     "slug": "this-week-s-sky-at-a-glance-august-14-23",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3499,7 +3755,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 31,
     "slug": "did-you-see-the-solar-eclipse-here-s-what-we-saw-from-around-the-world",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3632,7 +3888,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 32,
     "slug": "two-million-x-ray-sources-and-one-cluster-that-doesn-t-fit",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3765,7 +4021,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 33,
     "slug": "twenty-years-of-watching-one-galaxy-and-it-made-less-sense",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3898,7 +4154,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 34,
     "slug": "nasa-announces-max-power-america-s-newest-aerospace-expo-airshow",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4019,7 +4275,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 35,
     "slug": "prepare-for-the-lunar-eclipse-on-august-27-28-2026",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4155,7 +4411,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 36,
     "slug": "a-perfectly-timed-perseid-meteor-shower",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4288,122 +4544,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
-    "slug": "visible-planets-and-night-sky-guide-for-august",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2026/07/2026-Aug-16-17-Moon-C.jpeg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Planetas visíveis e guia do céu noturno para agosto",
-    "title_pt": "Planetas visíveis e guia do céu noturno para agosto",
-    "title_en": "Visible planets and night sky guide for August",
-    "sub": "Planetas visíveis e guia do céu noturno: A lua crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica esta noite. O post Planetas visíveis e guia do céu.",
-    "sub_pt": "Planetas visíveis e guia do céu noturno: A lua crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica esta noite. O post Planetas visíveis e guia do céu.",
-    "sub_en": "Visible planets and night sky guide: The waxing crescent moon will hang between brilliant Venus and the bright star Spica this evening. The post Visible planets and night sky.",
-    "excerpt": "Planetas visíveis e guia do céu noturno: A lua crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica esta noite. O post Planetas visíveis e guia do céu noturno para agosto apareceu pela primeira vez no EarthSky.",
-    "excerpt_pt": "Planetas visíveis e guia do céu noturno: A lua crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica esta noite. O post Planetas visíveis e guia do céu noturno para agosto apareceu pela primeira vez no EarthSky.",
-    "excerpt_en": "Visible planets and night sky guide: The waxing crescent moon will hang between brilliant Venus and the bright star Spica this evening. The post Visible planets and night sky guide for August first appeared on EarthSky.",
-    "body": "<p>Planetas visíveis e guia do céu noturno: A lua crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica esta noite. O post Planetas visíveis e guia do céu noturno para agosto apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Lua perto de Vênus e Spica A lua crescente crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica nesta noite, 16 de agosto. Lua perto de Antares A lua crescente ficará perto da estrela mais brilhante de Escorpião, o Escorpião, Antares, na noite de 19 de agosto.</p><p>20 de agosto: visualização da lua crescente nas fotos da comunidade EarthSky. | Amol Gaikaiwari tirou esta foto em 23 de maio de 2026, na Índia e escreveu: “A lua estava em sua fase crescente.</p><p>O momento da lua do primeiro quarto deste mês cairá às 2: 46 UTC de 20 de agosto de 2026. A lua minguante nasce por volta do meio-dia no horário local e se põe por volta da meia-noite.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Planetas visíveis e guia do céu noturno: A lua crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica esta noite. O post Planetas visíveis e guia do céu noturno para agosto apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Lua perto de Vênus e Spica A lua crescente crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica nesta noite, 16 de agosto. Lua perto de Antares A lua crescente ficará perto da estrela mais brilhante de Escorpião, o Escorpião, Antares, na noite de 19 de agosto.</p><p>20 de agosto: visualização da lua crescente nas fotos da comunidade EarthSky. | Amol Gaikaiwari tirou esta foto em 23 de maio de 2026, na Índia e escreveu: “A lua estava em sua fase crescente.</p><p>O momento da lua do primeiro quarto deste mês cairá às 2: 46 UTC de 20 de agosto de 2026. A lua minguante nasce por volta do meio-dia no horário local e se põe por volta da meia-noite.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Visible planets and night sky guide: The waxing crescent moon will hang between brilliant Venus and the bright star Spica this evening. The post Visible planets and night sky guide for August first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Moon near Venus and Spica The waxing crescent moon will hang between brilliant Venus and the bright star Spica this evening, August 16. Moon near Antares The 1st quarter moon will lie near the brightest star in Scorpius the Scorpion, Antares, on the evening of August 19.</p><p>1st quarter moon View at EarthSky Community Photos. | Amol Gaikaiwari took this picture on May 23, 2026, in India and wrote: “The moon was in its first quarter phase.</p><p>This month’s moment of 1st quarter moon will fall at 2: 46 UTC on August 20, 2026. A 1st quarter moon rises around noon your local time and sets around midnight.</p><p>Watch for a 1st quarter moon high in the sky at sundown. Here are 4 keys to understanding the moon’s phases.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Saturn, Mars, Jupiter As viewed from the Northern Hemisphere, the late August morning sky will feature 3 bright planets: Saturn shining in the south, Mars climbing in the east and. Moon hangs with Scorpius The waxing gibbous moon will sit in the middle of the “J” shaped constellation, Scorpius the Scorpion.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Planetas visíveis e guia do céu noturno: A lua crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica esta noite. O post.",
-      "Dado-chave: Lua perto de Vênus e Spica A lua crescente crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica nesta noite, 16 de agosto.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Planetas visíveis e guia do céu noturno: A lua crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica esta noite. O post.",
-      "Dado-chave: Lua perto de Vênus e Spica A lua crescente crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica nesta noite, 16 de agosto.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Visible planets and night sky guide: The waxing crescent moon will hang between brilliant Venus and the bright star Spica this evening. The post.",
-      "Key detail: Moon near Venus and Spica The waxing crescent moon will hang between brilliant Venus and the bright star Spica this evening, August 16.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "16 ago 2026",
-    "date_pt": "16 ago 2026",
-    "date_en": "16 Aug 2026",
-    "time": "08h30",
-    "time_pt": "08h30",
-    "time_en": "08:30 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-16T08:30:08+00:00",
-    "lastModifiedIso": "2026-08-16T08:30:08+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Planetas visíveis e guia do céu noturno para agosto"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Planetas visíveis e guia do céu noturno para agosto"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "Visible Planets and Night Sky Guide for August"
-    ],
-    "srcUrl": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-august",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-august",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-august&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 73,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 36,
+    "id": 37,
     "slug": "ancient-amazon-civilization-might-have-been-home-to-millions",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4518,7 +4659,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -4623,7 +4764,122 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 39,
+    "slug": "visible-planets-and-night-sky-guide-for-august",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2026/07/2026-Aug-16-17-Moon-C.jpeg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Planetas visíveis e guia do céu noturno para agosto",
+    "title_pt": "Planetas visíveis e guia do céu noturno para agosto",
+    "title_en": "Visible planets and night sky guide for August",
+    "sub": "Planetas visíveis e guia do céu noturno: A lua crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica esta noite. O post Planetas visíveis e guia do céu.",
+    "sub_pt": "Planetas visíveis e guia do céu noturno: A lua crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica esta noite. O post Planetas visíveis e guia do céu.",
+    "sub_en": "Visible planets and night sky guide: The waxing crescent moon will hang between brilliant Venus and the bright star Spica this evening. The post Visible planets and night sky.",
+    "excerpt": "Planetas visíveis e guia do céu noturno: A lua crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica esta noite. O post Planetas visíveis e guia do céu noturno para agosto apareceu pela primeira vez no EarthSky.",
+    "excerpt_pt": "Planetas visíveis e guia do céu noturno: A lua crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica esta noite. O post Planetas visíveis e guia do céu noturno para agosto apareceu pela primeira vez no EarthSky.",
+    "excerpt_en": "Visible planets and night sky guide: The waxing crescent moon will hang between brilliant Venus and the bright star Spica this evening. The post Visible planets and night sky guide for August first appeared on EarthSky.",
+    "body": "<p>Planetas visíveis e guia do céu noturno: A lua crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica esta noite. O post Planetas visíveis e guia do céu noturno para agosto apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Lua perto de Vênus e Spica A lua crescente crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica nesta noite, 16 de agosto. Lua perto de Antares A lua crescente ficará perto da estrela mais brilhante de Escorpião, o Escorpião, Antares, na noite de 19 de agosto.</p><p>20 de agosto: visualização da lua crescente nas fotos da comunidade EarthSky. | Amol Gaikaiwari tirou esta foto em 23 de maio de 2026, na Índia e escreveu: “A lua estava em sua fase crescente.</p><p>O momento da lua do primeiro quarto deste mês cairá às 2: 46 UTC de 20 de agosto de 2026. A lua minguante nasce por volta do meio-dia no horário local e se põe por volta da meia-noite.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Planetas visíveis e guia do céu noturno: A lua crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica esta noite. O post Planetas visíveis e guia do céu noturno para agosto apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Lua perto de Vênus e Spica A lua crescente crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica nesta noite, 16 de agosto. Lua perto de Antares A lua crescente ficará perto da estrela mais brilhante de Escorpião, o Escorpião, Antares, na noite de 19 de agosto.</p><p>20 de agosto: visualização da lua crescente nas fotos da comunidade EarthSky. | Amol Gaikaiwari tirou esta foto em 23 de maio de 2026, na Índia e escreveu: “A lua estava em sua fase crescente.</p><p>O momento da lua do primeiro quarto deste mês cairá às 2: 46 UTC de 20 de agosto de 2026. A lua minguante nasce por volta do meio-dia no horário local e se põe por volta da meia-noite.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Visible planets and night sky guide: The waxing crescent moon will hang between brilliant Venus and the bright star Spica this evening. The post Visible planets and night sky guide for August first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Moon near Venus and Spica The waxing crescent moon will hang between brilliant Venus and the bright star Spica this evening, August 16. Moon near Antares The 1st quarter moon will lie near the brightest star in Scorpius the Scorpion, Antares, on the evening of August 19.</p><p>1st quarter moon View at EarthSky Community Photos. | Amol Gaikaiwari took this picture on May 23, 2026, in India and wrote: “The moon was in its first quarter phase.</p><p>This month’s moment of 1st quarter moon will fall at 2: 46 UTC on August 20, 2026. A 1st quarter moon rises around noon your local time and sets around midnight.</p><p>Watch for a 1st quarter moon high in the sky at sundown. Here are 4 keys to understanding the moon’s phases.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Saturn, Mars, Jupiter As viewed from the Northern Hemisphere, the late August morning sky will feature 3 bright planets: Saturn shining in the south, Mars climbing in the east and. Moon hangs with Scorpius The waxing gibbous moon will sit in the middle of the “J” shaped constellation, Scorpius the Scorpion.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Planetas visíveis e guia do céu noturno: A lua crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica esta noite. O post.",
+      "Dado-chave: Lua perto de Vênus e Spica A lua crescente crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica nesta noite, 16 de agosto.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Planetas visíveis e guia do céu noturno: A lua crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica esta noite. O post.",
+      "Dado-chave: Lua perto de Vênus e Spica A lua crescente crescente ficará suspensa entre Vênus brilhante e a estrela brilhante Spica nesta noite, 16 de agosto.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Visible planets and night sky guide: The waxing crescent moon will hang between brilliant Venus and the bright star Spica this evening. The post.",
+      "Key detail: Moon near Venus and Spica The waxing crescent moon will hang between brilliant Venus and the bright star Spica this evening, August 16.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "16 ago 2026",
+    "date_pt": "16 ago 2026",
+    "date_en": "16 Aug 2026",
+    "time": "08h30",
+    "time_pt": "08h30",
+    "time_en": "08:30 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-16T08:30:08+00:00",
+    "lastModifiedIso": "2026-08-16T08:30:08+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Planetas visíveis e guia do céu noturno para agosto"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Planetas visíveis e guia do céu noturno para agosto"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "Visible Planets and Night Sky Guide for August"
+    ],
+    "srcUrl": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-august",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-august",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=visible-planets-and-night-sky-guide-for-august&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 72,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 40,
     "slug": "were-these-polygonal-cracks-on-venus-once-on-a-seafloor",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4735,254 +4991,6 @@ window.postsData = [
       "relevance": 80,
       "accessibility": 60,
       "novelty": 52
-    }
-  },
-  {
-    "id": 39,
-    "slug": "what-s-a-globular-cluster-the-milky-way-has-about-150",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2009/06/M5-HST-e1497179043996.jpg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "O que é um aglomerado globular? A Via Láctea tem cerca de 150",
-    "title_pt": "O que é um aglomerado globular? A Via Láctea tem cerca de 150",
-    "title_en": "What’s a globular cluster? The Milky Way has about 150",
-    "sub": "Um aglomerado globular é uma coleção esférica de estrelas orbitando no halo de galáxias espirais. Nossa própria galáxia, a Via Láctea, tem mais de 150 aglomerados globulares. O.",
-    "sub_pt": "Um aglomerado globular é uma coleção esférica de estrelas orbitando no halo de galáxias espirais. Nossa própria galáxia, a Via Láctea, tem mais de 150 aglomerados globulares. O.",
-    "sub_en": "A globular cluster is a spherical collection of stars orbiting in the halo of spiral galaxies. Our own Milky Way galaxy has over 150 globular clusters. The post What’s a globular.",
-    "excerpt": "Um aglomerado globular é uma coleção esférica de estrelas orbitando no halo de galáxias espirais. Nossa própria galáxia, a Via Láctea, tem mais de 150 aglomerados globulares. O post O que é um aglomerado globular? A Via Láctea apareceu pela primeira vez em.",
-    "excerpt_pt": "Um aglomerado globular é uma coleção esférica de estrelas orbitando no halo de galáxias espirais. Nossa própria galáxia, a Via Láctea, tem mais de 150 aglomerados globulares. O post O que é um aglomerado globular? A Via Láctea apareceu pela primeira vez em.",
-    "excerpt_en": "A globular cluster is a spherical collection of stars orbiting in the halo of spiral galaxies. Our own Milky Way galaxy has over 150 globular clusters. The post What’s a globular cluster? The Milky Way has about 150 first appeared on.",
-    "body": "<p>Um aglomerado globular é uma coleção esférica de estrelas orbitando no halo de galáxias espirais. Nossa própria galáxia, a Via Láctea, tem mais de 150 aglomerados globulares. O post O que é um aglomerado globular? A Via Láctea apareceu pela primeira vez em cerca de 150. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O Telescópio Espacial Hubble capturou esta imagem descentralizada do aglomerado globular M5 em 2015. Omega Centauri, contendo até 10 milhões de estrelas, é de longe o maior aglomerado globular associado à nossa galáxia, a Via Láctea.</p><p>A imagem mostra apenas a parte central do aglomerado, uma área aproximadamente do tamanho da lua cheia na cúpula do céu. A Via Láctea tem mais de 150 aglomerados globulares Nossa própria Via Láctea tem mais de 150 aglomerados globulares, talvez mais deles escondidos pela poeira galáctica.</p><p>M87 é uma galáxia elíptica gigante com mais de 15.000 aglomerados globulares. Mais de 1.000 aglomerados globulares foram observados telescopicamente até agora.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/definition-what-is-a-globular-cluster/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Um aglomerado globular é uma coleção esférica de estrelas orbitando no halo de galáxias espirais. Nossa própria galáxia, a Via Láctea, tem mais de 150 aglomerados globulares. O post O que é um aglomerado globular? A Via Láctea apareceu pela primeira vez em cerca de 150. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O Telescópio Espacial Hubble capturou esta imagem descentralizada do aglomerado globular M5 em 2015. Omega Centauri, contendo até 10 milhões de estrelas, é de longe o maior aglomerado globular associado à nossa galáxia, a Via Láctea.</p><p>A imagem mostra apenas a parte central do aglomerado, uma área aproximadamente do tamanho da lua cheia na cúpula do céu. A Via Láctea tem mais de 150 aglomerados globulares Nossa própria Via Láctea tem mais de 150 aglomerados globulares, talvez mais deles escondidos pela poeira galáctica.</p><p>M87 é uma galáxia elíptica gigante com mais de 15.000 aglomerados globulares. Mais de 1.000 aglomerados globulares foram observados telescopicamente até agora.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/definition-what-is-a-globular-cluster/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A globular cluster is a spherical collection of stars orbiting in the halo of spiral galaxies. Our own Milky Way galaxy has over 150 globular clusters. The post What’s a globular cluster? The Milky Way has about 150 first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The Hubble Space Telescope captured this off-center closeup image of the globular cluster M5 in 2015. Omega Centauri, containing as many as 10 million stars, is by far the largest globular cluster associated with our Milky Way galaxy.</p><p>The image shows only the central part of the cluster, an area about the size of the full moon on the sky’s dome. The Milky Way has over 150 globular clusters Our own Milky Way has over 150 globular clusters with perhaps more hidden by galactic dust.</p><p>M87 is a giant elliptical galaxy with over 15,000 globular clusters. Over 1,000 globular clusters have been observed telescopically so far.</p><p>At the center of a globular cluster, stars may reach a density of between 100 and 1,000 stars per cubic parsec. The core of the great Hercules globular cluster Messier 13 from the Hubble Space Telescope.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Messier 13 is the best globular cluster in the Northern Hemisphere The most famous globular cluster in the Northern Hemisphere is M13 in the constellation Hercules, discovered by. In amateur telescopes, it is a small fuzzy patch of light, some 22,000 light-years from Earth.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/definition-what-is-a-globular-cluster/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Um aglomerado globular é uma coleção esférica de estrelas orbitando no halo de galáxias espirais. Nossa própria galáxia, a Via Láctea, tem mais de.",
-      "Dado-chave: O Telescópio Espacial Hubble capturou esta imagem descentralizada do aglomerado globular M5 em 2015.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Um aglomerado globular é uma coleção esférica de estrelas orbitando no halo de galáxias espirais. Nossa própria galáxia, a Via Láctea, tem mais de.",
-      "Dado-chave: O Telescópio Espacial Hubble capturou esta imagem descentralizada do aglomerado globular M5 em 2015.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A globular cluster is a spherical collection of stars orbiting in the halo of spiral galaxies. Our own Milky Way galaxy has over 150 globular.",
-      "Key detail: The Hubble Space Telescope captured this off-center closeup image of the globular cluster M5 in 2015.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "14 ago 2026",
-    "date_pt": "14 ago 2026",
-    "date_en": "14 Aug 2026",
-    "time": "09h33",
-    "time_pt": "09h33",
-    "time_en": "09:33 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-14T09:33:47+00:00",
-    "lastModifiedIso": "2026-08-14T09:33:47+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "O que é um aglomerado globular? A Via Láctea tem cerca de 150"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "O que é um aglomerado globular? A Via Láctea tem cerca de 150"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "What is a globular cluster? The Milky Way is about 150"
-    ],
-    "srcUrl": "https://earthsky.org/astronomy-essentials/definition-what-is-a-globular-cluster/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=what-s-a-globular-cluster-the-milky-way-has-about-150",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=what-s-a-globular-cluster-the-milky-way-has-about-150",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=what-s-a-globular-cluster-the-milky-way-has-about-150&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 72,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
-    "id": 40,
-    "slug": "new-nsf-initiative-aims-to-unlock-dataset-value-for-ai-enabled-scientific-discovery",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/AI-Enabled_Discovery_hero.png?itok=6swttzX-",
-    "inline_images": [
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_hero_mobile_600x352_/s3/media_hub/AI-Enabled_Discovery_hero.png.webp?itok=CtEdgGI5",
-        "caption": "IA; Inteligência artificial; Descoberta; Científico; Impacto da NSF",
-        "caption_pt": "IA; Inteligência artificial; Descoberta; Científico; Impacto da NSF",
-        "caption_en": "AI; Artificial Intelligence; Discovery; Scientific; NSF impact",
-        "alt": "IA; Inteligência artificial; Descoberta; Científico; Impacto da NSF",
-        "alt_pt": "IA; Inteligência artificial; Descoberta; Científico; Impacto da NSF",
-        "alt_en": "AI; Artificial Intelligence; Discovery; Scientific; NSF impact"
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/NSF%20State%20and%20Regional%20AI%20Infrastructure%20Hubs.jpg?itok=0uTvzH-d",
-        "caption": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
-        "caption_pt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
-        "caption_en": "NSF State and Regional AI Infrastructure Hubs - Sans Text",
-        "alt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
-        "alt_pt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
-        "alt_en": "NSF State and Regional AI Infrastructure Hubs - Sans Text"
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/2534344_TAMU_AutoLab_3DRender_91_graded_cropped_16x9.jpg?itok=vKr09VyX",
-        "caption": "Uma renderização computacional 3D de um laboratório com robôs e equipamentos laranja em fileiras.",
-        "caption_pt": "Uma renderização computacional 3D de um laboratório com robôs e equipamentos laranja em fileiras.",
-        "caption_en": "A 3D computer rendering of a laboratory with orange robots and equipment in rows.",
-        "alt": "Uma renderização computacional 3D de um laboratório com robôs e equipamentos laranja em fileiras.",
-        "alt_pt": "Uma renderização computacional 3D de um laboratório com robôs e equipamentos laranja em fileiras.",
-        "alt_en": "A 3D computer rendering of a laboratory with orange robots and equipment in rows."
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Nova iniciativa da NSF visa desbloquear o valor do conjunto de dados para descobertas científicas baseadas em IA",
-    "title_pt": "Nova iniciativa da NSF visa desbloquear o valor do conjunto de dados para descobertas científicas baseadas em IA",
-    "title_en": "New NSF initiative aims to unlock dataset value for AI-enabled scientific discovery",
-    "sub": "A Fundação Nacional de Ciência dos EUA anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para promover conjuntos de dados.",
-    "sub_pt": "A Fundação Nacional de Ciência dos EUA anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para promover conjuntos de dados.",
-    "sub_en": "The U. S. National Science Foundation announced the NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery program, a new investment to advance scientific community.",
-    "excerpt": "A Fundação Nacional de Ciência dos EUA anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para promover conjuntos de dados da comunidade científica e permitir a descoberta e a inovação usando recursos.",
-    "excerpt_pt": "A Fundação Nacional de Ciência dos EUA anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para promover conjuntos de dados da comunidade científica e permitir a descoberta e a inovação usando recursos.",
-    "excerpt_en": "The U. S. National Science Foundation announced the NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery program, a new investment to advance scientific community datasets and enable discovery and innovation using artificial.",
-    "body": "<p>A Fundação Nacional de Ciência dos EUA anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para promover conjuntos de dados da comunidade científica e permitir a descoberta e a inovação usando recursos artificiais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A National Science Foundation anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para avançar conjuntos de dados da. Na ciência e na engenharia, os pesquisadores construíram conjuntos de dados valiosos por meio de pesquisas anteriores.</p><p>No entanto, muitos conjuntos de dados têm potencial para serem utilizados para novas consultas fora do âmbito inicial da recolha de dados, mas não são acessíveis, interoperáveis. O novo programa ajudará as comunidades de investigação a desbloquear mais valor dos conjuntos de dados para fazer novas perguntas, testar novas ideias e ampliar o valor de.</p><p>A IA permite o processamento e análise de dados em escalas e velocidades que ultrapassam a capacidade humana, ajudando os investigadores a identificar padrões e relações. Quando combinada com conjuntos de dados científicos confiáveis, acessíveis, adequados à sua finalidade científica e com curadoria, a IA pode promover a pesquisa científica e.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NSF News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/new-nsf-initiative-aims-unlock-dataset-value-ai-enabled\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A Fundação Nacional de Ciência dos EUA anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para promover conjuntos de dados da comunidade científica e permitir a descoberta e a inovação usando recursos artificiais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A National Science Foundation anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para avançar conjuntos de dados da. Na ciência e na engenharia, os pesquisadores construíram conjuntos de dados valiosos por meio de pesquisas anteriores.</p><p>No entanto, muitos conjuntos de dados têm potencial para serem utilizados para novas consultas fora do âmbito inicial da recolha de dados, mas não são acessíveis, interoperáveis. O novo programa ajudará as comunidades de investigação a desbloquear mais valor dos conjuntos de dados para fazer novas perguntas, testar novas ideias e ampliar o valor de.</p><p>A IA permite o processamento e análise de dados em escalas e velocidades que ultrapassam a capacidade humana, ajudando os investigadores a identificar padrões e relações. Quando combinada com conjuntos de dados científicos confiáveis, acessíveis, adequados à sua finalidade científica e com curadoria, a IA pode promover a pesquisa científica e.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NSF News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/new-nsf-initiative-aims-unlock-dataset-value-ai-enabled\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The U. S. National Science Foundation announced the NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery program, a new investment to advance scientific community datasets and enable discovery and innovation using artificial. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. National Science Foundation announced the NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery program, a new investment to advance scientific community datasets and. Across science and engineering, researchers have built valuable datasets through prior research.</p><p>However, many datasets have the potential to be used for new inquiries outside of the initial scope of data collection, but are not accessible, interoperable or ready to be used. The new program will help research communities unlock more value from datasets to ask new questions, test new ideas and extend the value of prior scientific investments.</p><p>AI enables data processing and analysis at scales and speeds beyond human capacity, helping researchers identify previously hidden patterns and relationships. When paired with scientific datasets that are trusted, accessible, fit for their scientific purpose and curated, AI can advance scientific research and connect previously siloed.</p><p>Rather than primarily supporting new data collection, the program focuses on increasing the value of existing scientific datasets and enabling new AI-driven insights. Build robust data pipelines for automated analysis by AI tools and systems.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Researchers are encouraged to leverage existing resources, including NSF data platforms, the NSF Integrated Data Systems and Services program, the NSF-led National AI Research. High-quality scientific data are foundational to advancing an AI-enabled research and innovation ecosystem,&quot; said Ellen Zegura, senior science and engineering advisor in the NSF.</p><p>Because the account originates with NSF News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/new-nsf-initiative-aims-unlock-dataset-value-ai-enabled\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A Fundação Nacional de Ciência dos EUA anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para.",
-      "Dado-chave: A National Science Foundation anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A Fundação Nacional de Ciência dos EUA anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para.",
-      "Dado-chave: A National Science Foundation anunciou o programa NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery, um novo investimento para.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The U. S. National Science Foundation announced the NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery program, a new investment to.",
-      "Key detail: National Science Foundation announced the NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery program, a new investment to advance.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "22 jul 2026",
-    "date_pt": "22 jul 2026",
-    "date_en": "22 Jul 2026",
-    "time": "13h53",
-    "time_pt": "13h53",
-    "time_en": "13:53 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-22T13:53:12+00:00",
-    "lastModifiedIso": "2026-07-22T13:53:12+00:00",
-    "source": "NSF News",
-    "sourceDomain": "www.nsf.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "NSF News",
-      "Cosmos Week",
-      "Nova iniciativa da NSF visa desbloquear o valor do conjunto de dados para descobertas científicas baseadas em IA"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NSF News",
-      "Cosmos Week",
-      "Nova iniciativa da NSF visa desbloquear o valor do conjunto de dados para descobertas científicas baseadas em IA"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NSF News",
-      "Cosmos Week",
-      "New NSF Initiative Aims to Unlock Dataset Value for AI-Driven Scientific Discoveries"
-    ],
-    "srcUrl": "https://www.nsf.gov/news/new-nsf-initiative-aims-unlock-dataset-value-ai-enabled",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=new-nsf-initiative-aims-to-unlock-dataset-value-for-ai-enabled-scientific-discovery",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=new-nsf-initiative-aims-to-unlock-dataset-value-for-ai-enabled-scientific-discovery",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=new-nsf-initiative-aims-to-unlock-dataset-value-for-ai-enabled-scientific-discovery&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 72,
-    "scoreBreakdown": {
-      "source": 80,
-      "evidence": 88,
-      "relevance": 74,
-      "accessibility": 52,
-      "novelty": 46
     }
   }
 ];

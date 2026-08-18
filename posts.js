@@ -3,6 +3,145 @@
 window.postsData = [
   {
     "id": 1,
+    "slug": "wildfires-drought-and-extreme-heat-2026",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/fires_near_vancouver_canada/27421423-1-eng-GB/Fires_near_Vancouver_Canada_card_full.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/carbon_monoxide_from_fires_in_north_america/27421470-1-eng-GB/Carbon_monoxide_from_fires_in_North_America_pillars.jpg",
+        "caption": "Monóxido de carbono proveniente de incêndios na América do Norte",
+        "caption_pt": "Monóxido de carbono proveniente de incêndios na América do Norte",
+        "caption_en": "Carbon monoxide from fires in North America",
+        "alt": "Monóxido de carbono proveniente de incêndios na América do Norte",
+        "alt_pt": "Monóxido de carbono proveniente de incêndios na América do Norte",
+        "alt_en": "Carbon monoxide from fires in North America"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/fires_near_vancouver_canada/27421423-1-eng-GB/Fires_near_Vancouver_Canada_pillars.jpg",
+        "caption": "Incêndios perto de Vancouver, Canadá",
+        "caption_pt": "Incêndios perto de Vancouver, Canadá",
+        "caption_en": "Fires near Vancouver, Canada",
+        "alt": "Incêndios perto de Vancouver, Canadá",
+        "alt_pt": "Incêndios perto de Vancouver, Canadá",
+        "alt_en": "Fires near Vancouver, Canada"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/drought_hits_rivers_in_southern_norway/27411534-1-eng-GB/Drought_hits_rivers_in_southern_Norway_pillars.jpg",
+        "caption": "As imagens são de cores falsas e foram criadas usando o canal infravermelho próximo do Sentinel-2.",
+        "caption_pt": "As imagens são de cores falsas e foram criadas usando o canal infravermelho próximo do Sentinel-2.",
+        "caption_en": "The images are false-colour and were created using Sentinel-2’s near-infrared channel.",
+        "alt": "As imagens são de cores falsas e foram criadas usando o canal infravermelho próximo do Sentinel-2.",
+        "alt_pt": "As imagens são de cores falsas e foram criadas usando o canal infravermelho próximo do Sentinel-2.",
+        "alt_en": "The images are false-colour and were created using Sentinel-2’s near-infrared channel."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Incêndios florestais, seca e calor extremo, 2026",
+    "title_pt": "Incêndios florestais, seca e calor extremo, 2026",
+    "title_en": "Wildfires, drought and extreme heat, 2026",
+    "sub": "Os satélites de observação da Terra ajudam-nos a monitorizar fenómenos como incêndios florestais, secas e ondas de calor a partir do espaço. Esta página é atualizada regularmente.",
+    "sub_pt": "Os satélites de observação da Terra ajudam-nos a monitorizar fenómenos como incêndios florestais, secas e ondas de calor a partir do espaço. Esta página é atualizada regularmente.",
+    "sub_en": "Earth observation satellites help us monitor phenomena such as wildfires, drought and heatwaves from space. This page is updated on a regular basis with a selection of ESA’s most.",
+    "excerpt": "Os satélites de observação da Terra ajudam-nos a monitorizar fenómenos como incêndios florestais, secas e ondas de calor a partir do espaço. Esta página é atualizada regularmente com uma seleção das imagens mais recentes da ESA relacionadas com notícias.",
+    "excerpt_pt": "Os satélites de observação da Terra ajudam-nos a monitorizar fenómenos como incêndios florestais, secas e ondas de calor a partir do espaço. Esta página é atualizada regularmente com uma seleção das imagens mais recentes da ESA relacionadas com notícias.",
+    "excerpt_en": "Earth observation satellites help us monitor phenomena such as wildfires, drought and heatwaves from space. This page is updated on a regular basis with a selection of ESA’s most recent news-related images showing how the effects of.",
+    "body": "<p>Os satélites de observação da Terra ajudam-nos a monitorizar fenómenos como incêndios florestais, secas e ondas de calor a partir do espaço. Esta página é atualizada regularmente com uma seleção das imagens mais recentes da ESA relacionadas com notícias, mostrando como os. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Os satélites de observação da Terra ajudam-nos a monitorizar fenómenos como incêndios florestais, secas e ondas de calor a partir do espaço. Esta página é atualizada regularmente com uma seleção das imagens mais recentes da ESA relacionadas com notícias, mostrando como os efeitos das alterações climáticas estão a.</p><p>O Serviço de Alterações Climáticas Copernicus reportou temperaturas excepcionais: Junho de 2026 foi o segundo mês de Junho mais quente a nível mundial, enquanto a Europa Ocidental. Estima-se que até 35% dos gases com efeito de estufa são criados pela queima de matéria orgânica nas florestas, matagais e pastagens, enquanto as condições de seca persistentes.</p><p>Missões como a Copernicus Sentinel-2 capturam imagens de alta resolução em 13 bandas espectrais, tornando-se uma ferramenta útil para monitorar a vegetação em cores reais, bem. Seu Ocean Land and Color Instrument (OLCI) captura dados em uma faixa de 1.270 km, e o Sea and Land Surface Temperature Radiometer (SLSTR) da missão é um sensor poderoso e.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Wildfires_drought_and_extreme_heat_2026\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os satélites de observação da Terra ajudam-nos a monitorizar fenómenos como incêndios florestais, secas e ondas de calor a partir do espaço. Esta página é atualizada regularmente com uma seleção das imagens mais recentes da ESA relacionadas com notícias, mostrando como os. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Os satélites de observação da Terra ajudam-nos a monitorizar fenómenos como incêndios florestais, secas e ondas de calor a partir do espaço. Esta página é atualizada regularmente com uma seleção das imagens mais recentes da ESA relacionadas com notícias, mostrando como os efeitos das alterações climáticas estão a.</p><p>O Serviço de Alterações Climáticas Copernicus reportou temperaturas excepcionais: Junho de 2026 foi o segundo mês de Junho mais quente a nível mundial, enquanto a Europa Ocidental. Estima-se que até 35% dos gases com efeito de estufa são criados pela queima de matéria orgânica nas florestas, matagais e pastagens, enquanto as condições de seca persistentes.</p><p>Missões como a Copernicus Sentinel-2 capturam imagens de alta resolução em 13 bandas espectrais, tornando-se uma ferramenta útil para monitorar a vegetação em cores reais, bem. Seu Ocean Land and Color Instrument (OLCI) captura dados em uma faixa de 1.270 km, e o Sea and Land Surface Temperature Radiometer (SLSTR) da missão é um sensor poderoso e.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Wildfires_drought_and_extreme_heat_2026\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Earth observation satellites help us monitor phenomena such as wildfires, drought and heatwaves from space. This page is updated on a regular basis with a selection of ESA’s most recent news-related images showing how the effects of. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Earth observation satellites help us monitor phenomena such as wildfires, drought and heatwaves from space. This page is updated on a regular basis with a selection of ESA’s most recent news-related images showing how the effects of climate change are impacting our world.</p><p>The Copernicus Climate Change Service reported exceptional temperatures: June 2026 was the second-warmest June globally, while Western Europe experienced its warmest June on. It is estimated that up to 35% of greenhouse gases are created by the burning of the organic matter in forests, scrubland and grassland, while persistent dry conditions are.</p><p>Missions such as Copernicus Sentinel-2 capture high-resolution images in 13 spectral bands, making it a useful tool for monitoring vegetation in true colour as well as gathering. Its Ocean Land and Colour Instrument (OLCI) captures data over a swath of 1270 km, and the mission’s Sea and Land Surface Temperature Radiometer (SLSTR) is a powerful and highly.</p><p>ESA’s EarthCARE is also able to highlight active wildfires and smoke plumes with its multispectral imager, while its advanced lidar can be used to characterise emissions such as. The images are false-colour and were created using Sentinel-2’s near-infrared channel.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>These Copernicus Sentinel-2 images over the Danube north of Budapest show how the river’s level has fallen to a record low in Hungary due to a severe drought in central Europe. Smoke plume from Greek wildfires seen by Sentinel-3 This image based on data from the Copernicus Sentinel-5P satellite, captured on 26 July, shows the aerosol index over Spain and.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Wildfires_drought_and_extreme_heat_2026\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os satélites de observação da Terra ajudam-nos a monitorizar fenómenos como incêndios florestais, secas e ondas de calor a partir do espaço. Esta.",
+      "Dado-chave: Os satélites de observação da Terra ajudam-nos a monitorizar fenómenos como incêndios florestais, secas e ondas de calor a partir do espaço.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os satélites de observação da Terra ajudam-nos a monitorizar fenómenos como incêndios florestais, secas e ondas de calor a partir do espaço. Esta.",
+      "Dado-chave: Os satélites de observação da Terra ajudam-nos a monitorizar fenómenos como incêndios florestais, secas e ondas de calor a partir do espaço.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Earth observation satellites help us monitor phenomena such as wildfires, drought and heatwaves from space. This page is updated on a regular basis.",
+      "Key detail: Earth observation satellites help us monitor phenomena such as wildfires, drought and heatwaves from space.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "18 ago 2026",
+    "date_pt": "18 ago 2026",
+    "date_en": "18 Aug 2026",
+    "time": "13h00",
+    "time_pt": "13h00",
+    "time_en": "13:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-18T13:00:00+00:00",
+    "lastModifiedIso": "2026-08-18T13:00:00+00:00",
+    "source": "ESA Space News",
+    "sourceDomain": "www.esa.int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "Incêndios florestais",
+      "seca e calor extremo",
+      "2026"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "Incêndios florestais",
+      "seca e calor extremo",
+      "2026"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "ESA Space News",
+      "Cosmos Week",
+      "Forest fires",
+      "drought and extreme heat",
+      "2026"
+    ],
+    "srcUrl": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Wildfires_drought_and_extreme_heat_2026",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=wildfires-drought-and-extreme-heat-2026",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=wildfires-drought-and-extreme-heat-2026",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=wildfires-drought-and-extreme-heat-2026&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 70,
+    "scoreBreakdown": {
+      "source": 80,
+      "evidence": 82,
+      "relevance": 62,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 2,
     "slug": "nih-s-all-of-us-research-program-is-now-the-largest-integrated-genomics-and-health-database-in-t",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -40,14 +179,14 @@ window.postsData = [
     "date": "18 ago 2026",
     "date_pt": "18 ago 2026",
     "date_en": "18 Aug 2026",
-    "time": "08h49",
-    "time_pt": "08h49",
-    "time_en": "08:49 UTC",
+    "time": "09h43",
+    "time_pt": "09h43",
+    "time_en": "09:43 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-18T08:49:16.384404+00:00",
-    "lastModifiedIso": "2026-08-18T08:49:16.384404+00:00",
+    "publishedIso": "2026-08-18T09:43:26.834127+00:00",
+    "lastModifiedIso": "2026-08-18T09:43:26.834127+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -107,7 +246,7 @@ window.postsData = [
     }
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "new-alzheimer-s-blood-test-may-tell-when-symptoms-are-around-the-corner",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -145,14 +284,14 @@ window.postsData = [
     "date": "18 ago 2026",
     "date_pt": "18 ago 2026",
     "date_en": "18 Aug 2026",
-    "time": "08h49",
-    "time_pt": "08h49",
-    "time_en": "08:49 UTC",
+    "time": "09h43",
+    "time_pt": "09h43",
+    "time_en": "09:43 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-18T08:49:16.384340+00:00",
-    "lastModifiedIso": "2026-08-18T08:49:16.384340+00:00",
+    "publishedIso": "2026-08-18T09:43:26.834073+00:00",
+    "lastModifiedIso": "2026-08-18T09:43:26.834073+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -212,7 +351,7 @@ window.postsData = [
     }
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "brain-immunity-may-undergo-a-major-midlife-overhaul",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -250,14 +389,14 @@ window.postsData = [
     "date": "18 ago 2026",
     "date_pt": "18 ago 2026",
     "date_en": "18 Aug 2026",
-    "time": "08h49",
-    "time_pt": "08h49",
-    "time_en": "08:49 UTC",
+    "time": "09h43",
+    "time_pt": "09h43",
+    "time_en": "09:43 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-18T08:49:16.384276+00:00",
-    "lastModifiedIso": "2026-08-18T08:49:16.384276+00:00",
+    "publishedIso": "2026-08-18T09:43:26.834026+00:00",
+    "lastModifiedIso": "2026-08-18T09:43:26.834026+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -320,7 +459,7 @@ window.postsData = [
     }
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "nih-selects-dr-courtney-aklin-as-director-of-the-national-institute-of-nursing-research",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -358,14 +497,14 @@ window.postsData = [
     "date": "18 ago 2026",
     "date_pt": "18 ago 2026",
     "date_en": "18 Aug 2026",
-    "time": "08h49",
-    "time_pt": "08h49",
-    "time_en": "08:49 UTC",
+    "time": "09h43",
+    "time_pt": "09h43",
+    "time_en": "09:43 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-18T08:49:16.384195+00:00",
-    "lastModifiedIso": "2026-08-18T08:49:16.384195+00:00",
+    "publishedIso": "2026-08-18T09:43:26.833977+00:00",
+    "lastModifiedIso": "2026-08-18T09:43:26.833977+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -399,7 +538,7 @@ window.postsData = [
       "Biology",
       "NIH News Releases",
       "Cosmos Week",
-      "NIH selects Dr. Courtney Aklin as director of the National Institute of Nursing Research"
+      "NIH Selects Dr. Courtney Aklin as Director of the National Institute of Nursing Research"
     ],
     "srcUrl": "https://www.nih.gov/news-events/news-releases/nih-selects-dr-courtney-aklin-director-national-institute-nursing-research",
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nih-selects-dr-courtney-aklin-as-director-of-the-national-institute-of-nursing-research",
@@ -425,7 +564,7 @@ window.postsData = [
     }
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "new-blood-based-biomarkers-predict-when-als-symptoms-will-emerge",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -463,14 +602,14 @@ window.postsData = [
     "date": "18 ago 2026",
     "date_pt": "18 ago 2026",
     "date_en": "18 Aug 2026",
-    "time": "08h49",
-    "time_pt": "08h49",
-    "time_en": "08:49 UTC",
+    "time": "09h43",
+    "time_pt": "09h43",
+    "time_en": "09:43 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-18T08:49:16.384142+00:00",
-    "lastModifiedIso": "2026-08-18T08:49:16.384142+00:00",
+    "publishedIso": "2026-08-18T09:43:26.833929+00:00",
+    "lastModifiedIso": "2026-08-18T09:43:26.833929+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -530,7 +669,7 @@ window.postsData = [
     }
   },
   {
-    "id": 6,
+    "id": 7,
     "slug": "lala-batters-hawaii",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -649,7 +788,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -663,7 +802,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "mars-curiosity-rover-discovers-massive-field-of-polygons",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -791,7 +930,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -933,7 +1072,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "hubble-solves-merger-mystery-from-milky-way-s-early-years",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -1061,130 +1200,6 @@ window.postsData = [
       "source": 76,
       "evidence": 88,
       "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "massive-exoplanets-could-form-around-supermassive-black-holes",
-    "cat": "Exoplanetas",
-    "catCls": "exoplanetas",
-    "img": "https://www.universetoday.com/article_images/blackhole-1024x640.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/image_3590_1-2MASS-J2126_20260817_212602.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Exoplanetas massivos podem se formar em torno de buracos negros supermassivos",
-    "title_pt": "Exoplanetas massivos podem se formar em torno de buracos negros supermassivos",
-    "title_en": "Massive Exoplanets Could Form Around Supermassive Black Holes",
-    "sub": "Os buracos negros não são apenas motores de destruição inexorável. São regiões complexas do espaço e do tempo e, nas condições certas, planetas gigantes podem formar-se nos seus.",
-    "sub_pt": "Os buracos negros não são apenas motores de destruição inexorável. São regiões complexas do espaço e do tempo e, nas condições certas, planetas gigantes podem formar-se nos seus.",
-    "sub_en": "Black holes aren't just engines of inexorable destruction. They're complex regions of space and time, and under the right conditions, giant planets can form in their AGN disks.",
-    "excerpt": "Os buracos negros não são apenas motores de destruição inexorável. São regiões complexas do espaço e do tempo e, nas condições certas, planetas gigantes podem formar-se nos seus discos AGN.",
-    "excerpt_pt": "Os buracos negros não são apenas motores de destruição inexorável. São regiões complexas do espaço e do tempo e, nas condições certas, planetas gigantes podem formar-se nos seus discos AGN.",
-    "excerpt_en": "Black holes aren't just engines of inexorable destruction. They're complex regions of space and time, and under the right conditions, giant planets can form in their AGN disks.",
-    "body": "<p>Os buracos negros não são apenas motores de destruição inexorável. São regiões complexas do espaço e do tempo e, nas condições certas, planetas gigantes podem formar-se nos seus discos AGN. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Novas pesquisas mostram que, em certas circunstâncias, os discos de acreção em torno dos SMBHs podem formar planetas gigantes. A pesquisa foi publicada no The Astrophysical Journal e é intitulada “Active Galactic Nucleus Tori: Potential Birthplace to Millions of Planets”.</p><p>O autor principal é Wladimir Lyra, professor associado de astronomia na New Mexico State University. Mas estes discos podem ser enormes, até 20.000 unidades astronómicas são maiores, dependendo de como o disco é definido.</p><p>Os filamentos de poeira que produz podem conter massas solares, colapsando em dezenas de milhões de “planetesimais”, que vão desde a Terra até às massas do super-Júpiter”. Como resultado, pode ocorrer uma acreção vigorosa, levando a objetos com massas estelares, definindo um canal central de acreção para a formação de estrelas&quot;, escrevem os autores.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/massive-exoplanets-could-form-around-supermassive-black-holes\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os buracos negros não são apenas motores de destruição inexorável. São regiões complexas do espaço e do tempo e, nas condições certas, planetas gigantes podem formar-se nos seus discos AGN. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Novas pesquisas mostram que, em certas circunstâncias, os discos de acreção em torno dos SMBHs podem formar planetas gigantes. A pesquisa foi publicada no The Astrophysical Journal e é intitulada “Active Galactic Nucleus Tori: Potential Birthplace to Millions of Planets”.</p><p>O autor principal é Wladimir Lyra, professor associado de astronomia na New Mexico State University. Mas estes discos podem ser enormes, até 20.000 unidades astronómicas são maiores, dependendo de como o disco é definido.</p><p>Os filamentos de poeira que produz podem conter massas solares, colapsando em dezenas de milhões de “planetesimais”, que vão desde a Terra até às massas do super-Júpiter”. Como resultado, pode ocorrer uma acreção vigorosa, levando a objetos com massas estelares, definindo um canal central de acreção para a formação de estrelas&quot;, escrevem os autores.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/massive-exoplanets-could-form-around-supermassive-black-holes\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Black holes aren&#x27;t just engines of inexorable destruction. They&#x27;re complex regions of space and time, and under the right conditions, giant planets can form in their AGN disks. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. In certain circumstances, accretion disks around SMBHs can form giant planets. The research is published in The Astrophysical Journal and is titled &quot; Active Galactic Nucleus Tori: Potential Birthplace to Millions of Planets.</p><p>The lead author is Wladimir Lyra, an associate professor of astronomy at New Mexico State University. But these disks can be huge, up 20,000 astronomical units are larger, depending on how the disk is defined.</p><p>The dust filaments it produces can contain solar masses, collapsing into tens of millions of “planetesimals” ranging from Earth to super-Jupiter masses,&quot; the authors explain. As a result, vigorous accretion can occur, leading to objects with stellar masses, defining a core accretion channel for star formation,&quot; the authors write.</p><p>The nature of the exoplanets formed in these circumstance is different than in protoplanetary disks. Their outer layers are likely heated by the radioactive decay of 26Al, 60Fe, and other short-lived radionuclides produced by massive evolved stars in the disk, so silicates would.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>Massive seed planets in the AGN disk can accrete enough material to exceed thermal and isolation masses of ∼10 4 M ⊙, potentially transitioning into stars and eventually BHs. Very massive stars (about 100 solar masses) are likely to last &lt; 1 Myr, triggering core-collapse SNe, which should leave behind BHs,&quot; the authors write.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/massive-exoplanets-could-form-around-supermassive-black-holes\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os buracos negros não são apenas motores de destruição inexorável. São regiões complexas do espaço e do tempo e, nas condições certas, planetas.",
-      "Dado-chave: Novas pesquisas mostram que, em certas circunstâncias, os discos de acreção em torno dos SMBHs podem formar planetas gigantes.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os buracos negros não são apenas motores de destruição inexorável. São regiões complexas do espaço e do tempo e, nas condições certas, planetas.",
-      "Dado-chave: Novas pesquisas mostram que, em certas circunstâncias, os discos de acreção em torno dos SMBHs podem formar planetas gigantes.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Black holes aren't just engines of inexorable destruction. They're complex regions of space and time, and under the right conditions, giant planets.",
-      "Key detail: New research shows that in certain circumstances, accretion disks around SMBHs can form giant planets.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 ago 2026",
-    "date_pt": "17 ago 2026",
-    "date_en": "17 Aug 2026",
-    "time": "21h40",
-    "time_pt": "21h40",
-    "time_en": "21:40 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-17T21:40:17+00:00",
-    "lastModifiedIso": "2026-08-17T21:40:17+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Exoplanetas",
-      "Universe Today",
-      "Cosmos Week",
-      "Exoplanetas massivos podem se formar em torno de buracos negros supermassivos"
-    ],
-    "keywords_pt": [
-      "Exoplanetas",
-      "Universe Today",
-      "Cosmos Week",
-      "Exoplanetas massivos podem se formar em torno de buracos negros supermassivos"
-    ],
-    "keywords_en": [
-      "Exoplanets",
-      "Universe Today",
-      "Cosmos Week",
-      "Massive exoplanets could form around supermassive black holes"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/massive-exoplanets-could-form-around-supermassive-black-holes",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=massive-exoplanets-could-form-around-supermassive-black-holes",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=massive-exoplanets-could-form-around-supermassive-black-holes",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=massive-exoplanets-could-form-around-supermassive-black-holes&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 88,
       "accessibility": 60,
       "novelty": 55
     }
@@ -1724,7 +1739,7 @@ window.postsData = [
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -2002,35 +2017,7 @@ window.postsData = [
     "cat": "Astrofísica",
     "catCls": "astrofisica",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/irs_3_field_nircam_and_miri_image/27410540-1-eng-GB/IRS_3_Field_NIRCam_and_MIRI_image_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/irs_3_field_nircam_and_miri_image/27410540-1-eng-GB/IRS_3_Field_NIRCam_and_MIRI_image_article.jpg",
-        "caption": "Campo IRS 3 (imagem NIRCam e MIRI)",
-        "caption_pt": "Campo IRS 3 (imagem NIRCam e MIRI)",
-        "caption_en": "IRS 3 Field (NIRCam and MIRI image)",
-        "alt": "Campo IRS 3 (imagem NIRCam e MIRI)",
-        "alt_pt": "Campo IRS 3 (imagem NIRCam e MIRI)",
-        "alt_en": "IRS 3 Field (NIRCam and MIRI image)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/irs_3_field_miri_image/27410715-1-eng-GB/IRS_3_Field_MIRI_image_article.jpg",
-        "caption": "Campo IRS 3 (imagem MIRI)",
-        "caption_pt": "Campo IRS 3 (imagem MIRI)",
-        "caption_en": "IRS 3 Field (MIRI image)",
-        "alt": "Campo IRS 3 (imagem MIRI)",
-        "alt_pt": "Campo IRS 3 (imagem MIRI)",
-        "alt_en": "IRS 3 Field (MIRI image)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/irs_3_field_nircam_image/27410668-1-eng-GB/IRS_3_Field_NIRCam_image_article.jpg",
-        "caption": "Campo IRS 3 (imagem NIRCam)",
-        "caption_pt": "Campo IRS 3 (imagem NIRCam)",
-        "caption_en": "IRS 3 Field (NIRCam image)",
-        "alt": "Campo IRS 3 (imagem NIRCam)",
-        "alt_pt": "Campo IRS 3 (imagem NIRCam)",
-        "alt_en": "IRS 3 Field (NIRCam image)"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Poeira e água avistadas perto de buraco negro gigante",
@@ -2042,9 +2029,9 @@ window.postsData = [
     "excerpt": "Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto do buraco negro supermassivo no centro da nossa galáxia, a Via Láctea. O.",
     "excerpt_pt": "Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto do buraco negro supermassivo no centro da nossa galáxia, a Via Láctea. O.",
     "excerpt_en": "Using the NASA/ESA/CSA James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive surprisingly close to the supermassive black hole at the centre of our Milky Way galaxy. The.",
-    "body": "<p>Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto do buraco negro supermassivo no centro da nossa galáxia, a Via Láctea. O. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipa internacional de astrónomos descobriu que poeira e água podem formar-se e sobreviver surpreendentemente. As observações revelam que a estrela evoluída IRS 3 continua a enriquecer a sua vizinhança com material recém-formado, apesar do ambiente de intensa radiação em torno de Sagitário.</p><p>As novas observações fornecem a visão mais detalhada no infravermelho médio da estrela altamente evoluída IRS 3, que está localizada a apenas 0,55 anos-luz de Sagitário A*, o. O IRS 3 atingiu um estágio próximo ao fim de sua vida denominado fase de ramo gigante assintótico.</p><p>Ao analisar a luz infravermelha da estrela com o MIRI (Mid-Infrared Instrument) de Webb, a equipa de investigação identificou assinaturas claras de poeira rica em oxigénio e, pela. Os resultados mostram que mesmo sob condições adversas perto de um buraco negro supermassivo, estrelas evoluídas como a IRS 3 ainda podem produzir poeira e outros materiais.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto do buraco negro supermassivo no centro da nossa galáxia, a Via Láctea. O. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipa internacional de astrónomos descobriu que poeira e água podem formar-se e sobreviver surpreendentemente. As observações revelam que a estrela evoluída IRS 3 continua a enriquecer a sua vizinhança com material recém-formado, apesar do ambiente de intensa radiação em torno de Sagitário.</p><p>As novas observações fornecem a visão mais detalhada no infravermelho médio da estrela altamente evoluída IRS 3, que está localizada a apenas 0,55 anos-luz de Sagitário A*, o. O IRS 3 atingiu um estágio próximo ao fim de sua vida denominado fase de ramo gigante assintótico.</p><p>Ao analisar a luz infravermelha da estrela com o MIRI (Mid-Infrared Instrument) de Webb, a equipa de investigação identificou assinaturas claras de poeira rica em oxigénio e, pela. Os resultados mostram que mesmo sob condições adversas perto de um buraco negro supermassivo, estrelas evoluídas como a IRS 3 ainda podem produzir poeira e outros materiais.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Using the NASA/ESA/CSA James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive surprisingly close to the supermassive black hole at the centre of our Milky Way galaxy. The. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. The observations reveal that the evolved star IRS 3 continues to enrich its surroundings with newly formed material despite the intense radiation environment around Sagittarius A*. The new observations provide the most detailed mid-infrared view yet of the highly evolved star IRS 3, which is located just 0.55 light-years from Sagittarius A*, the Milky Way.</p><p>IRS 3 has reached a stage near the end of its life called the asymptotic giant branch phase. By analysing the star’s infrared light with Webb’s MIRI (Mid-Infrared Instrument), the research team identified clear signatures of oxygen-rich dust and, for the first time.</p><p>The results show that even under the harsh conditions near a supermassive black hole, evolved stars like IRS 3 can still produce dust and other materials important for the. “With Webb, we can directly observe how stars behave under these conditions and see that dust production remains remarkably resilient.” IRS 3 is one of the brightest mid-infrared.</p><p>These features identify IRS 3 as an oxygen-rich evolved star, which is nearing the end of its life and shedding material into space. “This discovery was possible because of Webb’s highly capable infrared instruments,” said Macarena Garcia Marin of ESA, a co-author of the study and PI of the MICONIC programme.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Their results indicate a layered, shell-like distribution of dust extending roughly 10 000 astronomical units from the star, with temperatures falling from approximately 1200. The observations also revealed evidence for water within the envelope of IRS 3: the first clear detection of its kind for this object.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto do buraco negro supermassivo no centro da nossa galáxia, a Via Láctea. O. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipa internacional de astrónomos descobriu que poeira e água podem formar-se e sobreviver surpreendentemente. As observações revelam que a estrela evoluída IRS 3 continua a enriquecer a sua vizinhança com material recém-formado, apesar do ambiente de intensa radiação em torno de Sagitário.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto do buraco negro supermassivo no centro da nossa galáxia, a Via Láctea. O. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipa internacional de astrónomos descobriu que poeira e água podem formar-se e sobreviver surpreendentemente. As observações revelam que a estrela evoluída IRS 3 continua a enriquecer a sua vizinhança com material recém-formado, apesar do ambiente de intensa radiação em torno de Sagitário.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Using the NASA/ESA/CSA James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive surprisingly close to the supermassive black hole at the centre of our Milky Way galaxy. The. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. The observations reveal that the evolved star IRS 3 continues to enrich its surroundings with newly formed material despite the intense radiation environment around Sagittarius A*.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e.",
       "Dado-chave: Utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipa internacional de astrónomos descobriu que poeira e água podem formar-se.",
@@ -2657,6 +2644,139 @@ window.postsData = [
   },
   {
     "id": 22,
+    "slug": "the-planet-that-lied-about-its-own-spin",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://www.universetoday.com/article_images/magellan-radar-image-of-surface-of-venus-nasascience-photo-library_20260815_213559.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/venus-mariner-10-pia23791-fig2_20260815_213658.jpg",
+        "caption": "Vênus envolto em sua densa e rápida camada de nuvens, a atmosfera aqui circunda o planeta em cerca de quatro dias, quase sessenta vezes mais rápido do que o próprio Vênus realmente gira, a discrepância exata no centro da nova pesquisa (Crédito: NASA/JPL-Caltech)",
+        "caption_pt": "Vênus envolto em sua densa e rápida camada de nuvens, a atmosfera aqui circunda o planeta em cerca de quatro dias, quase sessenta vezes mais rápido do que o próprio Vênus realmente gira, a discrepância exata no centro da nova pesquisa (Crédito: NASA/JPL-Caltech)",
+        "caption_en": "Venus shrouded in its dense, fast moving cloud layer, the atmosphere here circles the planet in about four days, nearly sixty times faster than Venus itself actually rotates, the exact discrepancy at the heart of the new research (Credit : NASA/JPL-Caltech)",
+        "alt": "Vênus envolto em sua densa e rápida camada de nuvens, a atmosfera aqui circunda o planeta em cerca de quatro dias, quase sessenta vezes mais rápido do que o próprio Vênus realmente gira, a discrepância exata no centro da nova pesquisa (Crédito: NASA/JPL-Caltech)",
+        "alt_pt": "Vênus envolto em sua densa e rápida camada de nuvens, a atmosfera aqui circunda o planeta em cerca de quatro dias, quase sessenta vezes mais rápido do que o próprio Vênus realmente gira, a discrepância exata no centro da nova pesquisa (Crédito: NASA/JPL-Caltech)",
+        "alt_en": "Venus shrouded in its dense, fast moving cloud layer, the atmosphere here circles the planet in about four days, nearly sixty times faster than Venus itself actually rotates, the exact discrepancy at the heart of the new research (Credit : NASA/JPL-Caltech)"
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/Plato_in_space_artist_impression_20260815_213955.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "O planeta que mentiu sobre sua própria rotação",
+    "title_pt": "O planeta que mentiu sobre sua própria rotação",
+    "title_en": "The Planet That Lied About Its Own Spin",
+    "sub": "Um novo estudo alerta que os astrónomos que medem a rotação de exoplanetas distantes podem muitas vezes estar a medir ventos atmosféricos, uma vez que as nuvens de Vénus circundam.",
+    "sub_pt": "Um novo estudo alerta que os astrónomos que medem a rotação de exoplanetas distantes podem muitas vezes estar a medir ventos atmosféricos, uma vez que as nuvens de Vénus circundam.",
+    "sub_en": "A new study warns that astronomers measuring the rotation of distant exoplanets may often be measuring atmospheric winds instead, since the clouds of Venus circle the planet.",
+    "excerpt": "Um novo estudo alerta que os astrónomos que medem a rotação de exoplanetas distantes podem muitas vezes estar a medir ventos atmosféricos, uma vez que as nuvens de Vénus circundam o planeta cerca de 60 vezes mais rápido do que o próprio Vénus realmente gira.",
+    "excerpt_pt": "Um novo estudo alerta que os astrónomos que medem a rotação de exoplanetas distantes podem muitas vezes estar a medir ventos atmosféricos, uma vez que as nuvens de Vénus circundam o planeta cerca de 60 vezes mais rápido do que o próprio Vénus realmente gira.",
+    "excerpt_en": "A new study warns that astronomers measuring the rotation of distant exoplanets may often be measuring atmospheric winds instead, since the clouds of Venus circle the planet roughly 60 times faster than Venus itself actually spins. Kane.",
+    "body": "<p>Um novo estudo alerta que os astrónomos que medem a rotação de exoplanetas distantes podem muitas vezes estar a medir ventos atmosféricos, uma vez que as nuvens de Vénus circundam o planeta cerca de 60 vezes mais rápido do que o próprio Vénus realmente gira. Kane. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Kane propõe a utilização de observações de múltiplos comprimentos de onda para corrigir isto, trabalho que terá enorme importância quando a missão PLATO da Agência Espacial. Vênus leva 243 dias terrestres para girar uma vez em seu eixo, uma das rotações mais lentas de qualquer coisa no Sistema Solar.</p><p>A rotação não é uma nota de rodapé na ciência planetária, é fundamental. O problema é que, para planetas que orbitam outras estrelas, não podemos observar uma superfície sólida girar como fazemos com Marte.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-planet-that-lied-about-its-own-spin\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Um novo estudo alerta que os astrónomos que medem a rotação de exoplanetas distantes podem muitas vezes estar a medir ventos atmosféricos, uma vez que as nuvens de Vénus circundam o planeta cerca de 60 vezes mais rápido do que o próprio Vénus realmente gira. Kane. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Kane propõe a utilização de observações de múltiplos comprimentos de onda para corrigir isto, trabalho que terá enorme importância quando a missão PLATO da Agência Espacial. Vênus leva 243 dias terrestres para girar uma vez em seu eixo, uma das rotações mais lentas de qualquer coisa no Sistema Solar.</p><p>A rotação não é uma nota de rodapé na ciência planetária, é fundamental. O problema é que, para planetas que orbitam outras estrelas, não podemos observar uma superfície sólida girar como fazemos com Marte.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-planet-that-lied-about-its-own-spin\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A new study warns that astronomers measuring the rotation of distant exoplanets may often be measuring atmospheric winds instead, since the clouds of Venus circle the planet roughly 60 times faster than Venus itself actually spins. Kane. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. Kane proposes using multi-wavelength observations to correct for this, work that will matter enormously once the European Space Agency&#x27;s PLATO mission launches in 2027 and. Venus takes 243 Earth days to turn once on its axis, one of the slowest rotations of anything in the Solar System.</p><p>Rotation isn&#x27;t a footnote in planetary science, it&#x27;s foundational. The trouble is that for planets orbiting other stars, we can&#x27;t watch a solid surface spin the way we can with Mars.</p><p>The European Space Agency&#x27;s PLATO mission launches in March 2027, and in a companion paper Kane and his colleagues, including doctoral student Emma Miles, predict it will turn up. Earth&#x27;s own 24 hour spin is quietly doing a huge amount of climate work, moving solar energy around, driving the atmospheric and ocean circulation that keeps things liveable.</p><p>Slow Spin Could Explain Why Planets Become Hellish Science broadcaster and author. Mark is known for his tireless enthusiasm for making science accessible, through numerous tv, radio, podcast and theatre appearances, and books.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>He was a part of the award-nominated BBC Stargazing LIVE TV Show in the UK and his Spectacular Science theatre show has received 5 star reviews across UK theatres. In 2025 he is launching his new podcast Cosmic Commerce and is working on a new book 101 Facts You Didn&#x27;t Know About Deep Space In 2018, Mark received an Honorary Doctorate from.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-planet-that-lied-about-its-own-spin\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Um novo estudo alerta que os astrónomos que medem a rotação de exoplanetas distantes podem muitas vezes estar a medir ventos atmosféricos, uma vez.",
+      "Dado-chave: Kane propõe a utilização de observações de múltiplos comprimentos de onda para corrigir isto, trabalho que terá enorme importância quando a.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Um novo estudo alerta que os astrónomos que medem a rotação de exoplanetas distantes podem muitas vezes estar a medir ventos atmosféricos, uma vez.",
+      "Dado-chave: Kane propõe a utilização de observações de múltiplos comprimentos de onda para corrigir isto, trabalho que terá enorme importância quando a.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: A new study warns that astronomers measuring the rotation of distant exoplanets may often be measuring atmospheric winds instead, since the clouds of.",
+      "Key detail: Kane proposes using multi-wavelength observations to correct for this, work that will matter enormously once the European Space Agency's PLATO.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "15 ago 2026",
+    "date_pt": "15 ago 2026",
+    "date_en": "15 Aug 2026",
+    "time": "21h40",
+    "time_pt": "21h40",
+    "time_en": "21:40 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-15T21:40:51+00:00",
+    "lastModifiedIso": "2026-08-15T21:40:51+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Exoplanetas",
+      "Universe Today",
+      "Cosmos Week",
+      "O planeta que mentiu sobre sua própria rotação"
+    ],
+    "keywords_pt": [
+      "Exoplanetas",
+      "Universe Today",
+      "Cosmos Week",
+      "O planeta que mentiu sobre sua própria rotação"
+    ],
+    "keywords_en": [
+      "Exoplanets",
+      "Universe Today",
+      "Cosmos Week",
+      "The planet that lied about its own rotation"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/the-planet-that-lied-about-its-own-spin",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-planet-that-lied-about-its-own-spin",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-planet-that-lied-about-its-own-spin",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-planet-that-lied-about-its-own-spin&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 49
+    }
+  },
+  {
+    "id": 23,
     "slug": "satellite-constellations-could-create-spiraling-space-debris",
     "cat": "Física",
     "catCls": "fisica",
@@ -2673,8 +2793,8 @@ window.postsData = [
       },
       {
         "src": "https://scx1.b-cdn.net/csz/news/800a/2026/satellite-constellatio.jpg",
-        "caption": "(a) O modelo de estabilidade assume que um satélite está numa órbita circular com semieixo maior, 𝑎, e passa todo o seu tempo dentro da casca esférica (b) com raio, 𝑎, e espessura, ∆𝑎. No entanto, um satélite em órbita circular com.",
-        "caption_pt": "(a) O modelo de estabilidade assume que um satélite está numa órbita circular com semieixo maior, 𝑎, e passa todo o seu tempo dentro da casca esférica (b) com raio, 𝑎, e espessura, ∆𝑎. No entanto, um satélite em órbita circular com.",
+        "caption": "(a) O modelo de estabilidade assume que um satélite está numa órbita circular com semi-eixo maior, 𝑎, e passa todo o seu tempo dentro da casca esférica (b) com raio, 𝑎, e espessura, ∆𝑎. No entanto, um satélite em órbita circular com.",
+        "caption_pt": "(a) O modelo de estabilidade assume que um satélite está numa órbita circular com semi-eixo maior, 𝑎, e passa todo o seu tempo dentro da casca esférica (b) com raio, 𝑎, e espessura, ∆𝑎. No entanto, um satélite em órbita circular com.",
         "caption_en": "(a) The stability model assumes a satellite is in a circular orbit with semi-major axis, 𝑎, and spends all its time within the spherical shell (b) with radius, 𝑎, and thickness, ∆𝑎. However, a satellite in a circular orbit with.",
         "alt": "Constelações de satélites podem criar detritos espaciais em espiral",
         "alt_pt": "Constelações de satélites podem criar detritos espaciais em espiral",
@@ -2789,7 +2909,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "first-major-structure-of-the-future-cms-tracker-arrives-at-cern",
     "cat": "Física",
     "catCls": "fisica",
@@ -2878,7 +2998,7 @@ window.postsData = [
       "Physical",
       "CERN News",
       "Cosmos Week",
-      "First major structure of the future CMS tracker arrives at CERN"
+      "First major structure of future CMS tracker arrives at CERN"
     ],
     "srcUrl": "https://home.cern/first-major-structure-of-the-future-cms-tracker-arrives-at-cern/",
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=first-major-structure-of-the-future-cms-tracker-arrives-at-cern",
@@ -2904,7 +3024,7 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
+    "id": 25,
     "slug": "eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august",
     "cat": "Física",
     "catCls": "fisica",
@@ -3022,7 +3142,7 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "radio-telescopes-help-scientists-map-molecules-in-space-and-uncover-where-and-how-stars-form",
     "cat": "Química",
     "catCls": "quimica",
@@ -3155,7 +3275,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3279,139 +3399,6 @@ window.postsData = [
       "relevance": 88,
       "accessibility": 60,
       "novelty": 46
-    }
-  },
-  {
-    "id": 27,
-    "slug": "hubble-gaia-solve-our-galaxy-s-merger-mystery",
-    "cat": "Biologia",
-    "catCls": "biologia",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/lkh_milky_way_merger_artist_s_impression/27417845-1-eng-GB/LKH_Milky_Way_merger_artist_s_impression_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/lkh_milky_way_merger_artist_s_impression/27417845-1-eng-GB/LKH_Milky_Way_merger_artist_s_impression_article.jpg",
-        "caption": "Fusão da Via Láctea LKH (impressão artística)",
-        "caption_pt": "Fusão da Via Láctea LKH (impressão artística)",
-        "caption_en": "LKH Milky Way merger (artist’s impression)",
-        "alt": "Fusão da Via Láctea LKH (impressão artística)",
-        "alt_pt": "Fusão da Via Láctea LKH (impressão artística)",
-        "alt_en": "LKH Milky Way merger (artist’s impression)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2004/05/gaia_mapping_the_stars_of_the_milky_way/10200416-8-eng-GB/Gaia_mapping_the_stars_of_the_Milky_Way_article.jpg",
-        "caption": "Gaia mapeando as estrelas da Via Láctea",
-        "caption_pt": "Gaia mapeando as estrelas da Via Láctea",
-        "caption_en": "Gaia mapping the stars of the Milky Way",
-        "alt": "Gaia mapeando as estrelas da Via Láctea",
-        "alt_pt": "Gaia mapeando as estrelas da Via Láctea",
-        "alt_en": "Gaia mapping the stars of the Milky Way"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2003/05/hubble_in_free_orbit/9767064-3-eng-GB/Hubble_in_free_orbit_article.jpg",
-        "caption": "Hubble em órbita livre",
-        "caption_pt": "Hubble em órbita livre",
-        "caption_en": "Hubble in free orbit",
-        "alt": "Hubble em órbita livre",
-        "alt_pt": "Hubble em órbita livre",
-        "alt_en": "Hubble in free orbit"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Hubble e Gaia resolvem o mistério da fusão da nossa galáxia",
-    "title_pt": "Hubble e Gaia resolvem o mistério da fusão da nossa galáxia",
-    "title_en": "Hubble & Gaia solve our galaxy's merger mystery",
-    "sub": "A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da.",
-    "sub_pt": "A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da.",
-    "sub_en": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of.",
-    "excerpt": "A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem.",
-    "excerpt_pt": "A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem.",
-    "excerpt_en": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in.",
-    "body": "<p>A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem galáxia Via Láctea. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã fundindo-se com a jovem galáxia Via Láctea nas primeiras fases da. Esta descoberta amplia o nosso conhecimento da história da nossa galáxia 1,8 mil milhões de anos mais atrás no tempo do que antes.</p><p>Ela cresceu formando novas estrelas a partir de suas nuvens de gás, bem como coletando estrelas, gás e matéria escura de outras galáxias por meio de fusões. A fusão massiva mais recente na história da nossa galáxia ocorreu com a galáxia anã de Sagitário, começando há mais de 6 mil milhões de anos e continuando até hoje.</p><p>Olhando para um passado ainda mais distante, os investigadores descobriram que a Via Láctea consumiu outra galáxia anã chamada Gaia-Salsicha-Enceladus há 10 mil milhões de anos. Agora, o Hubble descobriu provas definitivas de uma fusão anterior que ocorreu há cerca de 11,8 mil milhões de anos, ou apenas 2 mil milhões de anos após o Big Bang.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem galáxia Via Láctea. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã fundindo-se com a jovem galáxia Via Láctea nas primeiras fases da. Esta descoberta amplia o nosso conhecimento da história da nossa galáxia 1,8 mil milhões de anos mais atrás no tempo do que antes.</p><p>Ela cresceu formando novas estrelas a partir de suas nuvens de gás, bem como coletando estrelas, gás e matéria escura de outras galáxias por meio de fusões. A fusão massiva mais recente na história da nossa galáxia ocorreu com a galáxia anã de Sagitário, começando há mais de 6 mil milhões de anos e continuando até hoje.</p><p>Olhando para um passado ainda mais distante, os investigadores descobriram que a Via Láctea consumiu outra galáxia anã chamada Gaia-Salsicha-Enceladus há 10 mil milhões de anos. Agora, o Hubble descobriu provas definitivas de uma fusão anterior que ocorreu há cerca de 11,8 mil milhões de anos, ou apenas 2 mil milhões de anos após o Big Bang.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the earliest phases of its evolution. This finding extends our knowledge of our galaxy’s history 1.8 billion years farther back in time than before.</p><p>It has grown by forming new stars from its gas clouds as well as collecting stars, gas, and dark matter from other galaxies through mergers. The most recent massive merger in our galaxy’s history took place with the Sagittarius dwarf galaxy, beginning over 6 billion years ago and still ongoing today.</p><p>Looking back into the even more distant past, researchers learned that the Milky Way galaxy consumed another dwarf galaxy called Gaia-Sausage-Enceladus 10 billion years ago. Now, Hubble has uncovered definitive evidence of an earlier merger that occurred about 11.8 billion years ago, or just 2 billion years after the Big Bang.</p><p>“Our home is the Milky Way galaxy, but we do not know how our house was built,” said Davide Massari, lead author, Astrophysics and Space Science Observatory of Bologna in Italy. “In this paper we discover where the first significant batch of bricks came from: a dwarf galaxy that we call LKH.” Immense astronomical surveys and precision data from spacecraft.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>Researchers used Hubble to study some of the Milky Way galaxy’s globular clusters: immense, roughly spherical collections of tens of thousands to a few million stars. “Thanks to the high resolution and depth of Hubble imaging, we could measure the age and the metal content of these clusters with unprecedented precision,” said Chiara Zerbinati.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do.",
-      "Dado-chave: Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã fundindo-se com a jovem galáxia.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do.",
-      "Dado-chave: Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã fundindo-se com a jovem galáxia.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space.",
-      "Key detail: Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 ago 2026",
-    "date_pt": "17 ago 2026",
-    "date_en": "17 Aug 2026",
-    "time": "15h00",
-    "time_pt": "15h00",
-    "time_en": "15:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-17T15:00:00+00:00",
-    "lastModifiedIso": "2026-08-17T15:00:00+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www.esa.int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Biologia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Hubble e Gaia resolvem o mistério da fusão da nossa galáxia"
-    ],
-    "keywords_pt": [
-      "Biologia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Hubble e Gaia resolvem o mistério da fusão da nossa galáxia"
-    ],
-    "keywords_en": [
-      "Biology",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Hubble and Gaia solve the mystery of our galaxy's merger"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=hubble-gaia-solve-our-galaxy-s-merger-mystery",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=hubble-gaia-solve-our-galaxy-s-merger-mystery",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=hubble-gaia-solve-our-galaxy-s-merger-mystery&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 79,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 88,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
     }
   },
   {
@@ -3549,6 +3536,111 @@ window.postsData = [
   },
   {
     "id": 29,
+    "slug": "hubble-gaia-solve-our-galaxy-s-merger-mystery",
+    "cat": "Biologia",
+    "catCls": "biologia",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/lkh_milky_way_merger_artist_s_impression/27417845-1-eng-GB/LKH_Milky_Way_merger_artist_s_impression_card_full.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Hubble e Gaia resolvem o mistério da fusão da nossa galáxia",
+    "title_pt": "Hubble e Gaia resolvem o mistério da fusão da nossa galáxia",
+    "title_en": "Hubble & Gaia solve our galaxy's merger mystery",
+    "sub": "A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da.",
+    "sub_pt": "A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da.",
+    "sub_en": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of.",
+    "excerpt": "A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem.",
+    "excerpt_pt": "A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem.",
+    "excerpt_en": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in.",
+    "body": "<p>A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem galáxia Via Láctea. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã fundindo-se com a jovem galáxia Via Láctea nas primeiras fases da.</p><p>Esta descoberta amplia o nosso conhecimento da história da nossa galáxia 1,8 mil milhões de anos mais atrás no tempo do que antes.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem galáxia Via Láctea. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã fundindo-se com a jovem galáxia Via Láctea nas primeiras fases da.</p><p>Esta descoberta amplia o nosso conhecimento da história da nossa galáxia 1,8 mil milhões de anos mais atrás no tempo do que antes.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the earliest phases of its evolution.</p><p>This finding extends our knowledge of our galaxy’s history 1.8 billion years farther back in time than before.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do.",
+      "Dado-chave: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do.",
+      "Dado-chave: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space.",
+      "Key detail: Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "17 ago 2026",
+    "date_pt": "17 ago 2026",
+    "date_en": "17 Aug 2026",
+    "time": "15h00",
+    "time_pt": "15h00",
+    "time_en": "15:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-17T15:00:00+00:00",
+    "lastModifiedIso": "2026-08-17T15:00:00+00:00",
+    "source": "ESA Space Science",
+    "sourceDomain": "www.esa.int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Biologia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Hubble e Gaia resolvem o mistério da fusão da nossa galáxia"
+    ],
+    "keywords_pt": [
+      "Biologia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Hubble e Gaia resolvem o mistério da fusão da nossa galáxia"
+    ],
+    "keywords_en": [
+      "Biology",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Hubble and Gaia solve the mystery of our galaxy's merger"
+    ],
+    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=hubble-gaia-solve-our-galaxy-s-merger-mystery",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=hubble-gaia-solve-our-galaxy-s-merger-mystery",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=hubble-gaia-solve-our-galaxy-s-merger-mystery&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 78,
+    "scoreBreakdown": {
+      "source": 90,
+      "evidence": 88,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 30,
     "slug": "a-look-back-at-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3681,7 +3773,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "how-esa-mimics-and-models-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3786,23 +3878,23 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
-    "slug": "the-planet-that-lied-about-its-own-spin",
-    "cat": "Exoplanetas",
-    "catCls": "exoplanetas",
-    "img": "https://www.universetoday.com/article_images/magellan-radar-image-of-surface-of-venus-nasascience-photo-library_20260815_213559.jpg",
+    "id": 32,
+    "slug": "hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.universetoday.com/article_images/hs-2015-02-a-hires_jpg-jpg_20260814_234854.jpg",
     "inline_images": [
       {
-        "src": "https://www.universetoday.com/article_images/venus-mariner-10-pia23791-fig2_20260815_213658.jpg",
-        "caption": "Vênus envolto em sua densa e rápida camada de nuvens, a atmosfera aqui circunda o planeta em cerca de quatro dias, quase sessenta vezes mais rápido do que o próprio Vênus realmente gira, a discrepância exata no centro da nova pesquisa (Crédito: NASA/JPL-Caltech)",
-        "caption_pt": "Vênus envolto em sua densa e rápida camada de nuvens, a atmosfera aqui circunda o planeta em cerca de quatro dias, quase sessenta vezes mais rápido do que o próprio Vênus realmente gira, a discrepância exata no centro da nova pesquisa (Crédito: NASA/JPL-Caltech)",
-        "caption_en": "Venus shrouded in its dense, fast moving cloud layer, the atmosphere here circles the planet in about four days, nearly sixty times faster than Venus itself actually rotates, the exact discrepancy at the heart of the new research (Credit : NASA/JPL-Caltech)",
-        "alt": "Vênus envolto em sua densa e rápida camada de nuvens, a atmosfera aqui circunda o planeta em cerca de quatro dias, quase sessenta vezes mais rápido do que o próprio Vênus realmente gira, a discrepância exata no centro da nova pesquisa (Crédito: NASA/JPL-Caltech)",
-        "alt_pt": "Vênus envolto em sua densa e rápida camada de nuvens, a atmosfera aqui circunda o planeta em cerca de quatro dias, quase sessenta vezes mais rápido do que o próprio Vênus realmente gira, a discrepância exata no centro da nova pesquisa (Crédito: NASA/JPL-Caltech)",
-        "alt_en": "Venus shrouded in its dense, fast moving cloud layer, the atmosphere here circles the planet in about four days, nearly sixty times faster than Venus itself actually rotates, the exact discrepancy at the heart of the new research (Credit : NASA/JPL-Caltech)"
+        "src": "https://www.universetoday.com/article_images/Andromeda_Galaxy_Hubble.jpg",
+        "caption": "A Galáxia de Andrômeda também é uma galáxia espiral LINER. Mesmo que",
+        "caption_pt": "A Galáxia de Andrômeda também é uma galáxia espiral LINER. Mesmo que",
+        "caption_en": "The Andromeda Galaxy is also a LINER spiral galaxy. Even though it",
+        "alt": "A Galáxia de Andrômeda também é uma galáxia espiral LINER. Mesmo que",
+        "alt_pt": "A Galáxia de Andrômeda também é uma galáxia espiral LINER. Mesmo que",
+        "alt_en": "The Andromeda Galaxy is also a LINER spiral galaxy. Even though it"
       },
       {
-        "src": "https://www.universetoday.com/article_images/Plato_in_space_artist_impression_20260815_213955.jpg",
+        "src": "https://www.universetoday.com/article_images/Screenshot_2026-08-14_at_16-41-19_NASAs_Hubble_Shows_Star_Formation_in_Andromeda_Galaxy_Winding_Down_-_NASA_Science_20260814_234417.png",
         "caption": "",
         "caption_pt": "",
         "caption_en": "",
@@ -3822,44 +3914,44 @@ window.postsData = [
     ],
     "video": null,
     "audio": null,
-    "title": "O planeta que mentiu sobre sua própria rotação",
-    "title_pt": "O planeta que mentiu sobre sua própria rotação",
-    "title_en": "The Planet That Lied About Its Own Spin",
-    "sub": "Um novo estudo alerta que os astrónomos que medem a rotação de exoplanetas distantes podem muitas vezes estar a medir ventos atmosféricos, uma vez que as nuvens de Vénus circundam.",
-    "sub_pt": "Um novo estudo alerta que os astrónomos que medem a rotação de exoplanetas distantes podem muitas vezes estar a medir ventos atmosféricos, uma vez que as nuvens de Vénus circundam.",
-    "sub_en": "A new study warns that astronomers measuring the rotation of distant exoplanets may often be measuring atmospheric winds instead, since the clouds of Venus circle the planet.",
-    "excerpt": "Um novo estudo alerta que os astrónomos que medem a rotação de exoplanetas distantes podem muitas vezes estar a medir ventos atmosféricos, uma vez que as nuvens de Vénus circundam o planeta cerca de 60 vezes mais rápido do que o próprio Vénus realmente gira.",
-    "excerpt_pt": "Um novo estudo alerta que os astrónomos que medem a rotação de exoplanetas distantes podem muitas vezes estar a medir ventos atmosféricos, uma vez que as nuvens de Vénus circundam o planeta cerca de 60 vezes mais rápido do que o próprio Vénus realmente gira.",
-    "excerpt_en": "A new study warns that astronomers measuring the rotation of distant exoplanets may often be measuring atmospheric winds instead, since the clouds of Venus circle the planet roughly 60 times faster than Venus itself actually spins. Kane.",
-    "body": "<p>Um novo estudo alerta que os astrónomos que medem a rotação de exoplanetas distantes podem muitas vezes estar a medir ventos atmosféricos, uma vez que as nuvens de Vénus circundam o planeta cerca de 60 vezes mais rápido do que o próprio Vénus realmente gira. Kane. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Kane propõe a utilização de observações de múltiplos comprimentos de onda para corrigir isto, trabalho que terá enorme importância quando a missão PLATO da Agência Espacial. Vênus leva 243 dias terrestres para girar uma vez em seu eixo, uma das rotações mais lentas de qualquer coisa no Sistema Solar.</p><p>A rotação não é uma nota de rodapé na ciência planetária, é fundamental. O problema é que, para planetas que orbitam outras estrelas, não podemos observar uma superfície sólida girar como fazemos com Marte.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-planet-that-lied-about-its-own-spin\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Um novo estudo alerta que os astrónomos que medem a rotação de exoplanetas distantes podem muitas vezes estar a medir ventos atmosféricos, uma vez que as nuvens de Vénus circundam o planeta cerca de 60 vezes mais rápido do que o próprio Vénus realmente gira. Kane. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Kane propõe a utilização de observações de múltiplos comprimentos de onda para corrigir isto, trabalho que terá enorme importância quando a missão PLATO da Agência Espacial. Vênus leva 243 dias terrestres para girar uma vez em seu eixo, uma das rotações mais lentas de qualquer coisa no Sistema Solar.</p><p>A rotação não é uma nota de rodapé na ciência planetária, é fundamental. O problema é que, para planetas que orbitam outras estrelas, não podemos observar uma superfície sólida girar como fazemos com Marte.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-planet-that-lied-about-its-own-spin\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A new study warns that astronomers measuring the rotation of distant exoplanets may often be measuring atmospheric winds instead, since the clouds of Venus circle the planet roughly 60 times faster than Venus itself actually spins. Kane. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. Kane proposes using multi-wavelength observations to correct for this, work that will matter enormously once the European Space Agency&#x27;s PLATO mission launches in 2027 and. Venus takes 243 Earth days to turn once on its axis, one of the slowest rotations of anything in the Solar System.</p><p>Rotation isn&#x27;t a footnote in planetary science, it&#x27;s foundational. The trouble is that for planets orbiting other stars, we can&#x27;t watch a solid surface spin the way we can with Mars.</p><p>The European Space Agency&#x27;s PLATO mission launches in March 2027, and in a companion paper Kane and his colleagues, including doctoral student Emma Miles, predict it will turn up. Earth&#x27;s own 24 hour spin is quietly doing a huge amount of climate work, moving solar energy around, driving the atmospheric and ocean circulation that keeps things liveable.</p><p>Slow Spin Could Explain Why Planets Become Hellish Science broadcaster and author. Mark is known for his tireless enthusiasm for making science accessible, through numerous tv, radio, podcast and theatre appearances, and books.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>He was a part of the award-nominated BBC Stargazing LIVE TV Show in the UK and his Spectacular Science theatre show has received 5 star reviews across UK theatres. In 2025 he is launching his new podcast Cosmic Commerce and is working on a new book 101 Facts You Didn&#x27;t Know About Deep Space In 2018, Mark received an Honorary Doctorate from.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-planet-that-lied-about-its-own-spin\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Hubble revela que a formação estelar está desacelerando na galáxia de Andrômeda",
+    "title_pt": "Hubble revela que a formação estelar está desacelerando na galáxia de Andrômeda",
+    "title_en": "Hubble Reveals that Star Formation is Slowing Down in the Andromeda Galaxy",
+    "sub": "Uma equipe de cientistas liderada pela Universidade de Washington estudou como a formação de estrelas está diminuindo na galáxia de Andrômeda usando pesquisas altamente detalhadas.",
+    "sub_pt": "Uma equipe de cientistas liderada pela Universidade de Washington estudou como a formação de estrelas está diminuindo na galáxia de Andrômeda usando pesquisas altamente detalhadas.",
+    "sub_en": "A team of scientists led by the University of Washington has studied how star formation is declining in the Andromeda galaxy using highly detailed Hubble surveys.",
+    "excerpt": "Uma equipe de cientistas liderada pela Universidade de Washington estudou como a formação de estrelas está diminuindo na galáxia de Andrômeda usando pesquisas altamente detalhadas do Hubble.",
+    "excerpt_pt": "Uma equipe de cientistas liderada pela Universidade de Washington estudou como a formação de estrelas está diminuindo na galáxia de Andrômeda usando pesquisas altamente detalhadas do Hubble.",
+    "excerpt_en": "A team of scientists led by the University of Washington has studied how star formation is declining in the Andromeda galaxy using highly detailed Hubble surveys.",
+    "body": "<p>Uma equipe de cientistas liderada pela Universidade de Washington estudou como a formação de estrelas está diminuindo na galáxia de Andrômeda usando pesquisas altamente detalhadas do Hubble. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Num novo estudo que utilizou dados de duas pesquisas conduzidas pelo Telescópio Espacial Hubble da NASA, uma equipa liderada por investigadores da Universidade de Washington. Os resultados, publicados no The Astrophysical Journal, indicam que a formação estelar tem estado em declínio ao longo dos últimos 500 milhões de anos, com uma queda ainda mais.</p><p>Os resultados são expressos em massas solares, cada uma sendo equivalente à massa do nosso Sol: 2 x 10 30 kg, ou 2 x 10 27 toneladas métricas (2,2 x 10 27 U. S. Para o seu estudo, os pesquisadores combinaram dados do Tesouro Pancromático Hubble Andromeda (PHAT) e do Tesouro Pancromático Hubble Andromeda Southern (PHAST).</p><p>Enquanto o rastreio PHAT mapeou cerca de um terço do disco de formação estelar de M31 (100 milhões de estrelas) desde o ultravioleta até ao espectro do infravermelho próximo, o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma equipe de cientistas liderada pela Universidade de Washington estudou como a formação de estrelas está diminuindo na galáxia de Andrômeda usando pesquisas altamente detalhadas do Hubble. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Num novo estudo que utilizou dados de duas pesquisas conduzidas pelo Telescópio Espacial Hubble da NASA, uma equipa liderada por investigadores da Universidade de Washington. Os resultados, publicados no The Astrophysical Journal, indicam que a formação estelar tem estado em declínio ao longo dos últimos 500 milhões de anos, com uma queda ainda mais.</p><p>Os resultados são expressos em massas solares, cada uma sendo equivalente à massa do nosso Sol: 2 x 10 30 kg, ou 2 x 10 27 toneladas métricas (2,2 x 10 27 U. S. Para o seu estudo, os pesquisadores combinaram dados do Tesouro Pancromático Hubble Andromeda (PHAT) e do Tesouro Pancromático Hubble Andromeda Southern (PHAST).</p><p>Enquanto o rastreio PHAT mapeou cerca de um terço do disco de formação estelar de M31 (100 milhões de estrelas) desde o ultravioleta até ao espectro do infravermelho próximo, o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A team of scientists led by the University of Washington has studied how star formation is declining in the Andromeda galaxy using highly detailed Hubble surveys. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. In a new study using data from two surveys conducted by NASA&#x27;s Hubble Space Telescope, a team led by researchers at the University of Washington has found that star formation in. The results, which were published in The Astrophysical Journal, indicate that star formation has been in decline over the past 500 million years, with an even steeper drop in the.</p><p>The results are expressed in solar masses, each one being equivalent to the mass of our Sun: 2 x 10 30 kg, or 2 x 10 27 metric tons (2.2 x 10 27 U. S. For their study, the researchers combined data from the Panchromatic Hubble Andromeda Treasury (PHAT) and the Panchromatic Hubble Andromeda Southern Treasury (PHAST).</p><p>While the PHAT survey mapped roughly a third of M31&#x27;s star-forming disk (100 million stars) from the ultraviolet through the near-infrared spectrum, PHAST followed up by resolving. Hubble is the only telescope that can give you high enough spatial resolution over a large enough area to be able to do that in Andromeda.” Hubble image of the Andromeda galaxy.</p><p>NASA/ESA/UWashington/Northwestern/STScI Previous studies have shown that Andromeda experienced a burst of star formation about 2 billion years ago, possibly due to a galactic. The team also found that much of the recent star formation occurred in a star-forming ring about 32,000 light-years from the galaxy&#x27;s center, rather than being consistent across.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>About 16,000 light-years separate this satellite galaxy from Andromeda, and astronomers are unsure if and when it interacted with Andromeda in the past. The team plans to continue analyzing Andromeda&#x27;s star-formation history by combining Hubble data with ground-based observations to gain further insights.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Um novo estudo alerta que os astrónomos que medem a rotação de exoplanetas distantes podem muitas vezes estar a medir ventos atmosféricos, uma vez.",
-      "Dado-chave: Kane propõe a utilização de observações de múltiplos comprimentos de onda para corrigir isto, trabalho que terá enorme importância quando a.",
+      "Ponto central: Uma equipe de cientistas liderada pela Universidade de Washington estudou como a formação de estrelas está diminuindo na galáxia de Andrômeda usando.",
+      "Dado-chave: Uma equipe de cientistas liderada pela Universidade de Washington estudou como a formação de estrelas está diminuindo na galáxia de Andrômeda.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Um novo estudo alerta que os astrónomos que medem a rotação de exoplanetas distantes podem muitas vezes estar a medir ventos atmosféricos, uma vez.",
-      "Dado-chave: Kane propõe a utilização de observações de múltiplos comprimentos de onda para corrigir isto, trabalho que terá enorme importância quando a.",
+      "Ponto central: Uma equipe de cientistas liderada pela Universidade de Washington estudou como a formação de estrelas está diminuindo na galáxia de Andrômeda usando.",
+      "Dado-chave: Uma equipe de cientistas liderada pela Universidade de Washington estudou como a formação de estrelas está diminuindo na galáxia de Andrômeda.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: A new study warns that astronomers measuring the rotation of distant exoplanets may often be measuring atmospheric winds instead, since the clouds of.",
-      "Key detail: Kane proposes using multi-wavelength observations to correct for this, work that will matter enormously once the European Space Agency's PLATO.",
+      "Core point: A team of scientists led by the University of Washington has studied how star formation is declining in the Andromeda galaxy using highly detailed.",
+      "Key detail: A team of scientists led by the University of Washington has studied how star formation is declining in the Andromeda galaxy using highly.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "15 ago 2026",
-    "date_pt": "15 ago 2026",
-    "date_en": "15 Aug 2026",
-    "time": "21h40",
-    "time_pt": "21h40",
-    "time_en": "21:40 UTC",
+    "date": "14 ago 2026",
+    "date_pt": "14 ago 2026",
+    "date_en": "14 Aug 2026",
+    "time": "23h58",
+    "time_pt": "23h58",
+    "time_en": "23:58 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-15T21:40:51+00:00",
-    "lastModifiedIso": "2026-08-15T21:40:51+00:00",
+    "publishedIso": "2026-08-14T23:58:06+00:00",
+    "lastModifiedIso": "2026-08-14T23:58:06+00:00",
     "source": "Universe Today",
     "sourceDomain": "www.universetoday.com",
     "sourceType": "agency",
@@ -3878,27 +3970,27 @@ window.postsData = [
     "editorialBandLabel_pt": "Prioridade editorial",
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
-      "Exoplanetas",
+      "Astronomia",
       "Universe Today",
       "Cosmos Week",
-      "O planeta que mentiu sobre sua própria rotação"
+      "Hubble revela que a formação estelar está desacelerando na galáxia de Andrômeda"
     ],
     "keywords_pt": [
-      "Exoplanetas",
+      "Astronomia",
       "Universe Today",
       "Cosmos Week",
-      "O planeta que mentiu sobre sua própria rotação"
+      "Hubble revela que a formação estelar está desacelerando na galáxia de Andrômeda"
     ],
     "keywords_en": [
-      "Exoplanets",
+      "Astronomy",
       "Universe Today",
       "Cosmos Week",
-      "The planet that lied about its own rotation"
+      "Hubble reveals that star formation is slowing down in the Andromeda galaxy"
     ],
-    "srcUrl": "https://www.universetoday.com/articles/the-planet-that-lied-about-its-own-spin",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-planet-that-lied-about-its-own-spin",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-planet-that-lied-about-its-own-spin",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-planet-that-lied-about-its-own-spin&lang=en",
+    "srcUrl": "https://www.universetoday.com/articles/hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -3919,7 +4011,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "science-campaigns-planned-for-the-august-12th-total-solar-eclipse",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4052,7 +4144,112 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 34,
+    "slug": "next-generation-of-planetary-scientists-learn-public-engagement-skills",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/sciact/FORCE_leaders_sciact.jpg?w=2048&h=1365&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "A próxima geração de cientistas planetários aprende habilidades de envolvimento público",
+    "title_pt": "A próxima geração de cientistas planetários aprende habilidades de envolvimento público",
+    "title_en": "Next Generation of Planetary Scientists Learn Public Engagement Skills",
+    "sub": "FORCE é um laboratório de classe mundial que utiliza equipamento experimental de alta pressão para recriar as condições extremas encontradas nas profundezas da Terra e de outros.",
+    "sub_pt": "FORCE é um laboratório de classe mundial que utiliza equipamento experimental de alta pressão para recriar as condições extremas encontradas nas profundezas da Terra e de outros.",
+    "sub_en": "FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions found deep within Earth and other planetary bodies, enabling.",
+    "excerpt": "FORCE é um laboratório de classe mundial que utiliza equipamento experimental de alta pressão para recriar as condições extremas encontradas nas profundezas da Terra e de outros corpos planetários, permitindo aos investigadores compreender melhor como os.",
+    "excerpt_pt": "FORCE é um laboratório de classe mundial que utiliza equipamento experimental de alta pressão para recriar as condições extremas encontradas nas profundezas da Terra e de outros corpos planetários, permitindo aos investigadores compreender melhor como os.",
+    "excerpt_en": "FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions found deep within Earth and other planetary bodies, enabling researchers to better understand how planets form, evolve, and.",
+    "body": "<p>FORCE é um laboratório de classe mundial que utiliza equipamento experimental de alta pressão para recriar as condições extremas encontradas nas profundezas da Terra e de outros corpos planetários, permitindo aos investigadores compreender melhor como os planetas se formam. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Explore esta seção Ativação científica da próxima geração de cientistas planetários. Visão geral Recursos Oportunidades Destaques da ciência cidadã Sobre a ativação científica 3. No verão de 2026, a NASA SCoPE fez parceria com a Escola de Verão Facility for Open Research in a Compressed Environment (FORCE) da Arizona State University para ajudar sete.</p><p>A sessão de posters e o Open House demonstraram como a formação em comunicação criteriosa pode fortalecer a confiança dos investigadores, ao mesmo tempo que constrói ligações mais. Detalhes de compartilhamento atualizados pela última vez em 17 de agosto.</p><p>Ativação Científica da Próxima Geração de Planetários. Visão geral Recursos Oportunidades Destaques da Ciência Cidadã Sobre Ativação Científica 3 min de leitura do artigo Foto de grupo de estagiários de pesquisa de graduação e líderes.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>FORCE é um laboratório de classe mundial que utiliza equipamento experimental de alta pressão para recriar as condições extremas encontradas nas profundezas da Terra e de outros corpos planetários, permitindo aos investigadores compreender melhor como os planetas se formam. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Explore esta seção Ativação científica da próxima geração de cientistas planetários. Visão geral Recursos Oportunidades Destaques da ciência cidadã Sobre a ativação científica 3. No verão de 2026, a NASA SCoPE fez parceria com a Escola de Verão Facility for Open Research in a Compressed Environment (FORCE) da Arizona State University para ajudar sete.</p><p>A sessão de posters e o Open House demonstraram como a formação em comunicação criteriosa pode fortalecer a confiança dos investigadores, ao mesmo tempo que constrói ligações mais. Detalhes de compartilhamento atualizados pela última vez em 17 de agosto.</p><p>Ativação Científica da Próxima Geração de Planetários. Visão geral Recursos Oportunidades Destaques da Ciência Cidadã Sobre Ativação Científica 3 min de leitura do artigo Foto de grupo de estagiários de pesquisa de graduação e líderes.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions found deep within Earth and other planetary bodies, enabling researchers to better understand how planets form, evolve, and. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Explore This Section Science Science Activation Next Generation of Planetary. Overview Resources Opportunities Citizen Science Highlights About Science Activation 3 min read Next. In Summer 2026, NASA SCoPE partnered with Arizona State University’s Facility for Open Research in a Compressed Environment (FORCE) Summer School to help seven undergraduate.</p><p>The poster session and Open House demonstrated how thoughtful communication training can strengthen researchers’ confidence while building stronger connections between. Share Details Last Updated Aug 17.</p><p>Science Science Activation Next Generation of Planetary. Overview Resources Opportunities Citizen Science Highlights About Science Activation 3 min read Article Group photo of undergraduate research interns and FORCE leaders standing.</p><p>The NASA Science Mission Directorate (SMD) Community of Practice for Education (SCoPE), part of the NASA Science Activation (SciAct) Program portfolio, enables Earth and Space. In Summer 2026, NASA SCoPE partnered with Arizona State University&#x27;s Facility for Open Research in a Compressed Environment (FORCE) Summer School to help seven undergraduate.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>As part of the Summer School, SCoPE facilitated two hands-on workshops on June 25 and 26, followed by office hours the following week, to help interns translate their technical. The first was the FORCE Open House, which welcomed approximately 50 members of the general public for an inside look at the laboratory.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: FORCE é um laboratório de classe mundial que utiliza equipamento experimental de alta pressão para recriar as condições extremas encontradas nas.",
+      "Dado-chave: Explore esta seção Ativação científica da próxima geração de cientistas planetários. Visão geral Recursos Oportunidades Destaques da ciência.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: FORCE é um laboratório de classe mundial que utiliza equipamento experimental de alta pressão para recriar as condições extremas encontradas nas.",
+      "Dado-chave: Explore esta seção Ativação científica da próxima geração de cientistas planetários. Visão geral Recursos Oportunidades Destaques da ciência.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions found deep within Earth and other.",
+      "Key detail: Explore This Section Science Science Activation Next Generation of Planetary. Overview Resources Opportunities Citizen Science Highlights About.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "17 ago 2026",
+    "date_pt": "17 ago 2026",
+    "date_en": "17 Aug 2026",
+    "time": "17h52",
+    "time_pt": "17h52",
+    "time_en": "17:52 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-17T17:52:42+00:00",
+    "lastModifiedIso": "2026-08-17T17:52:42+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "A próxima geração de cientistas planetários aprende habilidades de envolvimento público"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "A próxima geração de cientistas planetários aprende habilidades de envolvimento público"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "The next generation of planetary scientists learns public engagement skills"
+    ],
+    "srcUrl": "https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=next-generation-of-planetary-scientists-learn-public-engagement-skills",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=next-generation-of-planetary-scientists-learn-public-engagement-skills",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=next-generation-of-planetary-scientists-learn-public-engagement-skills&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 62,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 35,
     "slug": "this-week-s-sky-at-a-glance-august-14-23",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4178,122 +4375,17 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 75,
+    "score": 74,
     "scoreBreakdown": {
       "source": 74,
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 49
+      "novelty": 46
     }
   },
   {
-    "id": 34,
-    "slug": "next-generation-of-planetary-scientists-learn-public-engagement-skills",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/sciact/FORCE_leaders_sciact.jpg?w=2048&h=1365&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "A próxima geração de cientistas planetários aprende habilidades de envolvimento público",
-    "title_pt": "A próxima geração de cientistas planetários aprende habilidades de envolvimento público",
-    "title_en": "Next Generation of Planetary Scientists Learn Public Engagement Skills",
-    "sub": "FORCE é um laboratório de classe mundial que utiliza equipamento experimental de alta pressão para recriar as condições extremas encontradas nas profundezas da Terra e de outros.",
-    "sub_pt": "FORCE é um laboratório de classe mundial que utiliza equipamento experimental de alta pressão para recriar as condições extremas encontradas nas profundezas da Terra e de outros.",
-    "sub_en": "FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions found deep within Earth and other planetary bodies, enabling.",
-    "excerpt": "FORCE é um laboratório de classe mundial que utiliza equipamento experimental de alta pressão para recriar as condições extremas encontradas nas profundezas da Terra e de outros corpos planetários, permitindo aos investigadores compreender melhor como os.",
-    "excerpt_pt": "FORCE é um laboratório de classe mundial que utiliza equipamento experimental de alta pressão para recriar as condições extremas encontradas nas profundezas da Terra e de outros corpos planetários, permitindo aos investigadores compreender melhor como os.",
-    "excerpt_en": "FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions found deep within Earth and other planetary bodies, enabling researchers to better understand how planets form, evolve, and.",
-    "body": "<p>FORCE é um laboratório de classe mundial que utiliza equipamento experimental de alta pressão para recriar as condições extremas encontradas nas profundezas da Terra e de outros corpos planetários, permitindo aos investigadores compreender melhor como os planetas se formam. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Explore esta seção Ativação científica da próxima geração de cientistas planetários. Visão geral Recursos Oportunidades Destaques da ciência cidadã Sobre a ativação científica 3. No verão de 2026, a NASA SCoPE fez parceria com a Escola de Verão Facility for Open Research in a Compressed Environment (FORCE) da Arizona State University para ajudar sete.</p><p>A sessão de posters e o Open House demonstraram como a formação em comunicação criteriosa pode fortalecer a confiança dos investigadores, ao mesmo tempo que constrói ligações mais. Detalhes de compartilhamento atualizados pela última vez em 17 de agosto.</p><p>Ativação Científica da Próxima Geração de Planetários. Visão geral Recursos Oportunidades Destaques da Ciência Cidadã Sobre Ativação Científica 3 min de leitura do artigo Foto de grupo de estagiários de pesquisa de graduação e líderes.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>FORCE é um laboratório de classe mundial que utiliza equipamento experimental de alta pressão para recriar as condições extremas encontradas nas profundezas da Terra e de outros corpos planetários, permitindo aos investigadores compreender melhor como os planetas se formam. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Explore esta seção Ativação científica da próxima geração de cientistas planetários. Visão geral Recursos Oportunidades Destaques da ciência cidadã Sobre a ativação científica 3. No verão de 2026, a NASA SCoPE fez parceria com a Escola de Verão Facility for Open Research in a Compressed Environment (FORCE) da Arizona State University para ajudar sete.</p><p>A sessão de posters e o Open House demonstraram como a formação em comunicação criteriosa pode fortalecer a confiança dos investigadores, ao mesmo tempo que constrói ligações mais. Detalhes de compartilhamento atualizados pela última vez em 17 de agosto.</p><p>Ativação Científica da Próxima Geração de Planetários. Visão geral Recursos Oportunidades Destaques da Ciência Cidadã Sobre Ativação Científica 3 min de leitura do artigo Foto de grupo de estagiários de pesquisa de graduação e líderes.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions found deep within Earth and other planetary bodies, enabling researchers to better understand how planets form, evolve, and. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Explore This Section Science Science Activation Next Generation of Planetary. Overview Resources Opportunities Citizen Science Highlights About Science Activation 3 min read Next. In Summer 2026, NASA SCoPE partnered with Arizona State University’s Facility for Open Research in a Compressed Environment (FORCE) Summer School to help seven undergraduate.</p><p>The poster session and Open House demonstrated how thoughtful communication training can strengthen researchers’ confidence while building stronger connections between. Share Details Last Updated Aug 17.</p><p>Science Science Activation Next Generation of Planetary. Overview Resources Opportunities Citizen Science Highlights About Science Activation 3 min read Article Group photo of undergraduate research interns and FORCE leaders standing.</p><p>The NASA Science Mission Directorate (SMD) Community of Practice for Education (SCoPE), part of the NASA Science Activation (SciAct) Program portfolio, enables Earth and Space. In Summer 2026, NASA SCoPE partnered with Arizona State University&#x27;s Facility for Open Research in a Compressed Environment (FORCE) Summer School to help seven undergraduate.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>As part of the Summer School, SCoPE facilitated two hands-on workshops on June 25 and 26, followed by office hours the following week, to help interns translate their technical. The first was the FORCE Open House, which welcomed approximately 50 members of the general public for an inside look at the laboratory.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: FORCE é um laboratório de classe mundial que utiliza equipamento experimental de alta pressão para recriar as condições extremas encontradas nas.",
-      "Dado-chave: Explore esta seção Ativação científica da próxima geração de cientistas planetários. Visão geral Recursos Oportunidades Destaques da ciência.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: FORCE é um laboratório de classe mundial que utiliza equipamento experimental de alta pressão para recriar as condições extremas encontradas nas.",
-      "Dado-chave: Explore esta seção Ativação científica da próxima geração de cientistas planetários. Visão geral Recursos Oportunidades Destaques da ciência.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions found deep within Earth and other.",
-      "Key detail: Explore This Section Science Science Activation Next Generation of Planetary. Overview Resources Opportunities Citizen Science Highlights About.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 ago 2026",
-    "date_pt": "17 ago 2026",
-    "date_en": "17 Aug 2026",
-    "time": "17h52",
-    "time_pt": "17h52",
-    "time_en": "17:52 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-17T17:52:42+00:00",
-    "lastModifiedIso": "2026-08-17T17:52:42+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "A próxima geração de cientistas planetários aprende habilidades de envolvimento público"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "A próxima geração de cientistas planetários aprende habilidades de envolvimento público"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "The next generation of planetary scientists learns public engagement skills"
-    ],
-    "srcUrl": "https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=next-generation-of-planetary-scientists-learn-public-engagement-skills",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=next-generation-of-planetary-scientists-learn-public-engagement-skills",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=next-generation-of-planetary-scientists-learn-public-engagement-skills&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 62,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 35,
+    "id": 36,
     "slug": "did-you-see-the-solar-eclipse-here-s-what-we-saw-from-around-the-world",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4426,7 +4518,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "prepare-for-the-lunar-eclipse-on-august-27-28-2026",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4562,7 +4654,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "a-perfectly-timed-perseid-meteor-shower",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4695,7 +4787,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 39,
     "slug": "a-moon-for-mars-asaph-hall-finds-phobos-149-years-ago",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4810,7 +4902,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 40,
     "slug": "ancient-amazon-civilization-might-have-been-home-to-millions",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4922,139 +5014,6 @@ window.postsData = [
       "relevance": 80,
       "accessibility": 60,
       "novelty": 49
-    }
-  },
-  {
-    "id": 40,
-    "slug": "watch-sophie-adenot-s-spacewalk-live",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/sophie_adenot_checks_spacesuit/27415335-1-eng-GB/Sophie_Adenot_checks_spacesuit_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/sophie_adenot_tries_spacesuit_in_airlock/27415382-1-eng-GB/Sophie_Adenot_tries_spacesuit_in_airlock_article.jpg",
-        "caption": "Sophie Adenot experimenta traje espacial em câmara de descompressão",
-        "caption_pt": "Sophie Adenot experimenta traje espacial em câmara de descompressão",
-        "caption_en": "Sophie Adenot tries spacesuit in airlock",
-        "alt": "Sophie Adenot experimenta traje espacial em câmara de descompressão",
-        "alt_pt": "Sophie Adenot experimenta traje espacial em câmara de descompressão",
-        "alt_en": "Sophie Adenot tries spacesuit in airlock"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/10/preparing_for_a_spacewalk_infographic/17270357-4-eng-GB/Preparing_for_a_spacewalk_infographic_pillars.png",
-        "caption": "Preparando-se para uma caminhada no espaço",
-        "caption_pt": "Preparando-se para uma caminhada no espaço",
-        "caption_en": "Preparing for a spacewalk",
-        "alt": "Preparando-se para uma caminhada no espaço",
-        "alt_pt": "Preparando-se para uma caminhada no espaço",
-        "alt_en": "Preparing for a spacewalk"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/10/out_in_space_spacewalk_infographic/17270320-3-eng-GB/Out_in_space_Spacewalk_infographic_pillars.png",
-        "caption": "No espaço durante uma caminhada espacial",
-        "caption_pt": "No espaço durante uma caminhada espacial",
-        "caption_en": "Out in space during a spacewalk",
-        "alt": "No espaço durante uma caminhada espacial",
-        "alt_pt": "No espaço durante uma caminhada espacial",
-        "alt_en": "Out in space during a spacewalk"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Assista à caminhada espacial de Sophie Adenot ao vivo",
-    "title_pt": "Assista à caminhada espacial de Sophie Adenot ao vivo",
-    "title_en": "Watch Sophie Adenot’s spacewalk live",
-    "sub": "Veja a astronauta da ESA, Sophie Adenot, aventurar-se no vácuo do espaço para a sua primeira caminhada espacial na terça-feira, 18 de agosto.",
-    "sub_pt": "Veja a astronauta da ESA, Sophie Adenot, aventurar-se no vácuo do espaço para a sua primeira caminhada espacial na terça-feira, 18 de agosto.",
-    "sub_en": "Watch ESA astronaut Sophie Adenot venture into the vacuum of space for her first-ever spacewalk on Tuesday, 18 August.",
-    "excerpt": "Veja a astronauta da ESA, Sophie Adenot, aventurar-se no vácuo do espaço para a sua primeira caminhada espacial na terça-feira, 18 de agosto.",
-    "excerpt_pt": "Veja a astronauta da ESA, Sophie Adenot, aventurar-se no vácuo do espaço para a sua primeira caminhada espacial na terça-feira, 18 de agosto.",
-    "excerpt_en": "Watch ESA astronaut Sophie Adenot venture into the vacuum of space for her first-ever spacewalk on Tuesday, 18 August.",
-    "body": "<p>Veja a astronauta da ESA, Sophie Adenot, aventurar-se no vácuo do espaço para a sua primeira caminhada espacial na terça-feira, 18 de agosto. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Junte-se à cobertura ao vivo na ESA WebTV e no canal da ESA no YouTube às 12h00 BST/13h00 CEST. Juntamente com o astronauta da NASA Anil Menon, Sophie sairá da Estação Espacial Internacional pela câmara de descompressão da Quest aproximadamente às 13h35 BST/14h35 CEST para.</p><p>A 97ª caminhada espacial dos EUA verá Anil e Sophie trabalhando cerca de seis horas e meia fora do complexo orbital, substituindo uma Antena Espaço-Terra (SGANT). A antena é um sistema de comunicação crítico que a NASA usa para transmitir dados e permitir a comunicação de alta velocidade entre o controle da missão em Houston e a Estação.</p><p>Sophie passou mais de 150 horas debaixo de água no Centro Europeu de Astronautas da ESA (Colónia, Alemanha) e no Centro Espacial Johnson da NASA (Houston, Estados Unidos).</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_spacewalk_live\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Veja a astronauta da ESA, Sophie Adenot, aventurar-se no vácuo do espaço para a sua primeira caminhada espacial na terça-feira, 18 de agosto. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Junte-se à cobertura ao vivo na ESA WebTV e no canal da ESA no YouTube às 12h00 BST/13h00 CEST. Juntamente com o astronauta da NASA Anil Menon, Sophie sairá da Estação Espacial Internacional pela câmara de descompressão da Quest aproximadamente às 13h35 BST/14h35 CEST para.</p><p>A 97ª caminhada espacial dos EUA verá Anil e Sophie trabalhando cerca de seis horas e meia fora do complexo orbital, substituindo uma Antena Espaço-Terra (SGANT). A antena é um sistema de comunicação crítico que a NASA usa para transmitir dados e permitir a comunicação de alta velocidade entre o controle da missão em Houston e a Estação.</p><p>Sophie passou mais de 150 horas debaixo de água no Centro Europeu de Astronautas da ESA (Colónia, Alemanha) e no Centro Espacial Johnson da NASA (Houston, Estados Unidos).</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_spacewalk_live\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Watch ESA astronaut Sophie Adenot venture into the vacuum of space for her first-ever spacewalk on Tuesday, 18 August. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Join the livestream coverage on ESA WebTV and ESA’s YouTube channel at 12: 00 BST/13: 00 CEST. Together with NASA astronaut Anil Menon, Sophie will exit the International Space Station from the Quest airlock at approximately 13: 35 BST/14: 35 CEST to repair a crucial piece.</p><p>The 97th US spacewalk will see Anil and Sophie working about six-and-a-half hours outside the orbital complex, replacing a Space-to-Ground Antenna (SGANT). The antenna is a critical communication system NASA uses to transmit data and enable high-speed communication between mission control in Houston and the Space Station.</p><p>Sophie has spent more than 150 hours underwater at ESA’s European Astronaut Centre (Cologne, Germany) and NASA’s Johnson Space Center (Houston, United States), training and. During the last few weeks in orbit, she has worked intensively on preparing spacesuits and tools, and revising procedures.</p><p>On the day itself, Sophie and Anil will be helped into their suits by NASA astronauts Jessica Meir and Jack Hathaway. As Extravehicular Crew Member 1 (EV1), Anil will be wearing red stripes on his spacesuit, while Sophie (EV2) will wear a spacesuit without stripes.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>From inside the Station, commander Jessica Meir and flight engineer Jack Hathaway will operate the Canadarm2 robotic arm to assist the spacewalkers. You have already liked this page, you can only like it once.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_spacewalk_live\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Veja a astronauta da ESA, Sophie Adenot, aventurar-se no vácuo do espaço para a sua primeira caminhada espacial na terça-feira, 18 de agosto.",
-      "Dado-chave: Veja a astronauta da ESA, Sophie Adenot, aventurar-se no vácuo do espaço para a sua primeira caminhada espacial na terça-feira, 18 de agosto.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Veja a astronauta da ESA, Sophie Adenot, aventurar-se no vácuo do espaço para a sua primeira caminhada espacial na terça-feira, 18 de agosto.",
-      "Dado-chave: Veja a astronauta da ESA, Sophie Adenot, aventurar-se no vácuo do espaço para a sua primeira caminhada espacial na terça-feira, 18 de agosto.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Watch ESA astronaut Sophie Adenot venture into the vacuum of space for her first-ever spacewalk on Tuesday, 18 August.",
-      "Key detail: Watch ESA astronaut Sophie Adenot venture into the vacuum of space for her first-ever spacewalk on Tuesday, 18 August.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 ago 2026",
-    "date_pt": "17 ago 2026",
-    "date_en": "17 Aug 2026",
-    "time": "06h00",
-    "time_pt": "06h00",
-    "time_en": "06:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-17T06:00:00+00:00",
-    "lastModifiedIso": "2026-08-17T06:00:00+00:00",
-    "source": "ESA Space News",
-    "sourceDomain": "www.esa.int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Space News",
-      "Cosmos Week",
-      "Assista à caminhada espacial de Sophie Adenot ao vivo"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Space News",
-      "Cosmos Week",
-      "Assista à caminhada espacial de Sophie Adenot ao vivo"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Space News",
-      "Cosmos Week",
-      "Watch Sophie Adenot's spacewalk live"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_spacewalk_live",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=watch-sophie-adenot-s-spacewalk-live",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=watch-sophie-adenot-s-spacewalk-live",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=watch-sophie-adenot-s-spacewalk-live&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 73,
-    "scoreBreakdown": {
-      "source": 80,
-      "evidence": 88,
-      "relevance": 70,
-      "accessibility": 60,
-      "novelty": 52
     }
   }
 ];
